@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020571,8471958,Dan Girardi,Tampa Bay Lightning,D,17:44,0,0,2,3,0,0,0,0,0,0,0,0,0,2,2,16:33,0:00,1:11,NA
+2018020571,8471339,Ryan Callahan,Tampa Bay Lightning,RW,12:25,0,0,2,2,0,0,0,0,0,1,1,0,0,0,0,11:54,0:00,0:31,NA
+2018020571,8478519,Anthony Cirelli,Tampa Bay Lightning,C,16:36,1,0,2,1,0,0,5,7,18,3,0,0,0,0,1,15:04,0:00,1:32,38.89
+2018020571,8471873,Anton Stralman,Tampa Bay Lightning,D,20:06,0,0,3,1,0,0,0,0,0,1,1,0,0,0,-3,17:17,0:00,2:49,NA
+2018020571,8476826,Yanni Gourde,Tampa Bay Lightning,C,13:11,1,0,0,0,0,1,0,3,5,0,1,0,0,0,-1,11:13,0:43,1:15,60
+2018020571,8476468,J.T. Miller,Tampa Bay Lightning,C,6:02,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,6:02,0:00,0:00,0
+2018020571,8476975,Cedric Paquette,Tampa Bay Lightning,C,12:47,0,0,4,2,0,0,0,3,15,0,0,0,0,1,-1,10:50,0:00,1:57,20
+2018020571,8470601,Braydon Coburn,Tampa Bay Lightning,D,14:26,0,0,3,0,0,0,0,0,0,1,0,0,0,1,-1,14:26,0:00,0:00,NA
+2018020571,8473986,Alex Killorn,Tampa Bay Lightning,LW,14:45,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,13:37,0:28,0:40,NA
+2018020571,8476453,Nikita Kucherov,Tampa Bay Lightning,RW,22:40,3,1,6,1,0,1,0,0,0,1,1,0,0,0,-1,17:45,4:55,0:00,NA
+2018020571,8474870,Tyler Johnson,Tampa Bay Lightning,C,14:51,1,1,5,0,0,0,2,0,0,0,0,0,0,1,-2,14:23,0:28,0:00,NA
+2018020571,8477454,Adam Erne,Tampa Bay Lightning,LW,10:57,0,0,0,1,0,0,2,1,1,0,0,0,0,1,0,10:06,0:28,0:23,100
+2018020571,8475167,Victor Hedman,Tampa Bay Lightning,D,24:42,1,0,1,0,0,1,0,0,0,0,1,0,0,3,4,18:36,4:55,1:11,NA
+2018020571,8474151,Ryan McDonagh,Tampa Bay Lightning,D,20:26,0,0,0,1,0,0,0,0,0,1,0,0,0,1,-4,17:37,0:00,2:49,NA
+2018020571,8474564,Steven Stamkos,Tampa Bay Lightning,C,19:43,2,2,3,1,1,1,0,9,14,0,0,0,0,1,1,13:08,4:55,1:40,64.29
+2018020571,8479410,Mikhail Sergachev,Tampa Bay Lightning,D,17:21,0,0,1,1,0,0,0,0,0,0,1,0,0,6,-1,16:53,0:28,0:00,NA
+2018020571,8476292,Ondrej Palat,Tampa Bay Lightning,LW,16:42,0,0,2,1,0,0,0,0,0,0,1,0,0,2,0,12:02,4:40,0:00,NA
+2018020571,8478010,Brayden Point,Tampa Bay Lightning,C,20:01,1,1,1,1,1,0,0,8,12,0,1,0,0,0,-1,15:04,4:55,0:02,66.67
+2018020571,8476906,Shayne Gostisbehere,Philadelphia Flyers,D,19:35,0,0,3,0,0,0,0,0,0,0,1,0,0,2,-1,16:34,3:01,0:00,NA
+2018020571,8474668,Dale Weise,Philadelphia Flyers,RW,11:26,0,1,5,0,0,0,0,0,0,0,0,0,0,0,-1,9:46,0:00,1:40,NA
+2018020571,8473512,Claude Giroux,Philadelphia Flyers,C,23:26,1,1,2,1,0,0,0,11,20,0,0,0,0,0,1,16:32,3:01,3:53,55
+2018020571,8477948,Travis Sanheim,Philadelphia Flyers,D,18:21,1,0,1,2,0,0,2,0,0,0,0,0,0,0,2,17:22,0:59,0:00,NA
+2018020571,8474037,James van Riemsdyk,Philadelphia Flyers,LW,15:33,2,0,2,0,0,0,0,0,0,0,2,0,0,0,2,14:34,0:59,0:00,NA
+2018020571,8478439,Travis Konecny,Philadelphia Flyers,RW,14:54,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,13:55,0:59,0:00,NA
+2018020571,8478500,Ivan Provorov,Philadelphia Flyers,D,27:11,0,1,2,1,0,0,0,0,0,0,0,0,0,0,1,23:12,0:59,3:00,NA
+2018020571,8476872,Scott Laughton,Philadelphia Flyers,C,16:42,1,0,0,1,0,0,0,4,9,0,0,0,0,0,-1,14:23,0:00,2:19,44.44
+2018020571,8475321,Phil Varone,Philadelphia Flyers,C,7:27,0,0,1,0,0,0,0,3,7,0,0,0,0,0,0,7:27,0:00,0:00,42.86
+2018020571,8479974,Nolan Patrick,Philadelphia Flyers,C,7:03,0,0,0,2,0,0,5,0,5,1,0,0,0,0,0,6:04,0:59,0:00,0
+2018020571,8474161,Jakub Voracek,Philadelphia Flyers,RW,19:40,1,0,4,0,0,0,0,0,0,2,0,0,0,1,1,16:39,3:01,0:00,NA
+2018020571,8477462,Robert Hagg,Philadelphia Flyers,D,15:41,0,1,1,3,0,0,0,0,0,0,1,0,0,1,-1,12:54,0:00,2:47,NA
+2018020571,8478067,Oskar Lindblom,Philadelphia Flyers,LW,7:34,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,7:34,0:00,0:00,NA
+2018020571,8476461,Sean Couturier,Philadelphia Flyers,C,23:15,1,0,3,1,0,0,0,19,27,0,2,0,0,0,1,17:52,3:01,2:22,70.37
+2018020571,8473584,Andrew MacDonald,Philadelphia Flyers,D,18:34,1,0,1,0,0,0,2,0,0,0,0,0,0,1,1,16:41,0:00,1:53,NA
+2018020571,8475462,Radko Gudas,Philadelphia Flyers,D,18:10,1,0,1,4,0,0,2,0,0,0,1,0,0,3,1,15:04,0:00,3:06,NA
+2018020571,8477290,Michael Raffl,Philadelphia Flyers,LW,12:43,0,1,3,1,0,0,2,0,0,1,1,0,0,0,-1,12:11,0:00,0:32,NA
+2018020571,8474190,Wayne Simmonds,Philadelphia Flyers,RW,16:16,0,0,3,1,0,0,0,0,0,1,0,0,0,0,1,13:15,3:01,0:00,NA

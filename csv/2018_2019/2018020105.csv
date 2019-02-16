@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020105,8470604,Jeff Carter,Los Angeles Kings,C,21:31,1,0,2,0,0,1,0,57.14,12,21,0,1,0,0,0,-2,17:30,3:38,0:23
+2018020105,8470602,Dion Phaneuf,Los Angeles Kings,D,15:32,0,0,0,0,0,0,2,NA,0,0,0,0,0,0,1,0,14:44,0:48,0:00
+2018020105,8471685,Anze Kopitar,Los Angeles Kings,C,23:45,0,0,0,1,0,0,0,56.25,9,16,1,1,0,0,1,-2,18:53,3:48,1:04
+2018020105,8475726,Tyler Toffoli,Los Angeles Kings,RW,18:30,0,0,3,0,0,0,0,100,2,2,0,1,0,0,1,-2,16:43,1:29,0:18
+2018020105,8470775,Nate Thompson,Los Angeles Kings,C,8:49,0,0,0,2,0,0,2,63.64,7,11,0,0,0,0,1,-1,8:08,0:00,0:41
+2018020105,8476871,Tanner Pearson,Los Angeles Kings,LW,13:24,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,0,11:49,1:35,0:00
+2018020105,8477960,Adrian Kempe,Los Angeles Kings,C,14:39,0,0,2,1,0,0,0,60,6,10,0,0,0,0,0,-1,12:09,1:29,1:01
+2018020105,8478455,Austin Wagner,Los Angeles Kings,LW,10:48,0,0,0,6,0,0,0,0,0,1,0,0,0,0,0,-2,10:48,0:00,0:00
+2018020105,8474162,Jake Muzzin,Los Angeles Kings,D,19:21,0,0,2,0,0,0,2,NA,0,0,0,2,0,0,0,-1,19:13,0:08,0:00
+2018020105,8474563,Drew Doughty,Los Angeles Kings,D,26:52,0,1,2,1,1,0,0,NA,0,0,0,1,0,0,1,-4,22:06,3:46,1:00
+2018020105,8475762,Derek Forbort,Los Angeles Kings,D,13:13,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,-2,12:13,0:00,1:00
+2018020105,8473453,Trevor Lewis,Los Angeles Kings,C,13:44,0,0,2,2,0,0,0,100,1,1,0,0,0,0,0,-1,13:11,0:00,0:33
+2018020105,8474166,Alec Martinez,Los Angeles Kings,D,22:25,0,0,1,1,0,0,0,NA,0,0,0,2,0,0,3,-1,20:04,1:21,1:00
+2018020105,8469454,Ilya Kovalchuk,Los Angeles Kings,LW,22:34,0,0,2,3,0,0,0,100,2,2,1,1,0,0,0,-2,18:33,4:01,0:00
+2018020105,8475160,Kyle Clifford,Los Angeles Kings,LW,6:41,0,0,0,1,0,0,5,NA,0,0,0,0,0,0,0,-1,6:41,0:00,0:00
+2018020105,8480113,Alex Iafallo,Los Angeles Kings,LW,20:39,1,0,2,1,0,1,0,NA,0,0,0,0,0,0,0,-2,17:07,3:32,0:00
+2018020105,8480147,Oscar Fantenberg,Los Angeles Kings,D,14:08,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,-1,13:08,0:00,1:00
+2018020105,8480776,Sheldon Rempal,Los Angeles Kings,RW,14:06,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,-1,14:06,0:00,0:00
+2018020105,8469506,Jason Pominville,Buffalo Sabres,RW,14:03,2,1,3,0,0,0,0,0,0,2,0,0,0,0,0,3,13:02,1:01,0:00
+2018020105,8475728,Johan Larsson,Buffalo Sabres,C,17:23,1,0,0,2,0,0,0,57.89,11,19,0,0,0,0,3,1,14:19,0:00,3:04
+2018020105,8474618,Marco Scandella,Buffalo Sabres,D,16:29,1,0,1,0,0,0,2,NA,0,0,0,3,0,0,1,2,15:25,0:00,1:04
+2018020105,8473534,Patrik Berglund,Buffalo Sabres,C,13:20,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,1,12:53,0:00,0:27
+2018020105,8477839,Conor Sheary,Buffalo Sabres,LW,13:28,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,12:29,0:59,0:00
+2018020105,8476931,Jake McCabe,Buffalo Sabres,D,21:57,1,0,0,0,0,0,2,0,0,1,0,1,0,0,0,2,20:16,0:00,1:41
+2018020105,8473449,Kyle Okposo,Buffalo Sabres,RW,10:12,0,0,2,3,0,0,4,NA,0,0,0,0,0,0,0,0,9:13,0:59,0:00
+2018020105,8474567,Zach Bogosian,Buffalo Sabres,D,14:58,0,1,2,0,0,0,5,NA,0,0,0,0,0,0,1,3,13:13,0:00,1:45
+2018020105,8479999,Casey Mittelstadt,Buffalo Sabres,C,12:20,0,0,1,0,0,0,0,33.33,3,9,1,1,0,0,0,0,11:19,1:01,0:00
+2018020105,8471743,Vladimir Sobotka,Buffalo Sabres,C,15:08,0,0,0,1,0,0,0,20,2,10,0,0,0,0,1,0,13:17,0:00,1:51
+2018020105,8477933,Sam Reinhart,Buffalo Sabres,C,13:06,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,0,12:07,0:59,0:00
+2018020105,8476878,Zemgus Girgensons,Buffalo Sabres,C,17:21,1,0,0,0,0,0,0,100,1,1,0,0,0,0,1,1,14:05,0:00,3:16
+2018020105,8477499,Rasmus Ristolainen,Buffalo Sabres,D,26:17,0,0,0,0,0,0,0,NA,0,0,0,2,0,0,4,1,21:56,0:59,3:22
+2018020105,8478403,Jack Eichel,Buffalo Sabres,C,16:00,3,0,5,0,0,0,0,33.33,5,15,1,1,0,0,1,4,14:59,1:01,0:00
+2018020105,8475784,Jeff Skinner,Buffalo Sabres,C,15:31,0,3,3,0,0,0,2,NA,0,0,0,0,0,0,1,4,14:30,1:01,0:00
+2018020105,8479268,Casey Nelson,Buffalo Sabres,D,20:49,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,2,1,18:27,0:00,2:22
+2018020105,8478542,Evan Rodrigues,Buffalo Sabres,LW,16:09,1,0,3,0,0,0,0,60,3,5,0,0,0,0,1,1,13:34,0:59,1:36
+2018020105,8480839,Rasmus Dahlin,Buffalo Sabres,D,18:22,0,0,0,1,0,0,0,NA,0,0,0,3,0,0,1,1,17:21,1:01,0:00

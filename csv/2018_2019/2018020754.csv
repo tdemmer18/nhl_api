@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020754,8477939,William Nylander,Toronto Maple Leafs,RW,12:05,1,0,2,0,0,0,0,66.67,4,6,1,0,0,0,0,0,11:16,0:49,0:00
+2018020754,8478408,Travis Dermott,Toronto Maple Leafs,D,21:05,0,1,2,3,0,0,0,NA,0,0,1,2,0,0,1,0,19:03,0:41,1:21
+2018020754,8468493,Ron Hainsey,Toronto Maple Leafs,D,22:07,0,0,0,1,0,0,0,NA,0,0,0,2,0,0,2,-1,16:41,0:04,5:22
+2018020754,8475716,Martin Marincin,Toronto Maple Leafs,D,17:59,0,0,4,1,0,0,2,NA,0,0,3,1,0,0,1,-1,15:08,0:00,2:51
+2018020754,8475786,Zach Hyman,Toronto Maple Leafs,LW,18:34,1,0,2,1,0,0,0,66.67,6,9,0,0,0,0,1,0,13:31,0:00,5:03
+2018020754,8476853,Morgan Rielly,Toronto Maple Leafs,D,27:17,0,0,2,0,0,0,0,NA,0,0,2,1,0,0,1,-2,23:09,1:19,2:49
+2018020754,8477953,Kasperi Kapanen,Toronto Maple Leafs,RW,17:52,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-2,13:45,0:49,3:18
+2018020754,8479318,Auston Matthews,Toronto Maple Leafs,C,18:57,0,0,3,0,0,0,0,44.44,4,9,0,2,0,0,0,-2,17:41,1:11,0:05
+2018020754,8479458,Nikita Zaitsev,Toronto Maple Leafs,D,18:07,0,0,0,4,0,0,2,NA,0,0,0,0,0,0,3,1,14:30,0:00,3:37
+2018020754,8477015,Connor Brown,Toronto Maple Leafs,RW,16:28,0,0,1,1,0,0,2,NA,0,0,1,0,0,0,0,0,13:26,0:45,2:17
+2018020754,8475166,John Tavares,Toronto Maple Leafs,C,18:03,0,1,2,1,0,0,0,57.14,4,7,0,2,0,0,0,-1,16:43,1:15,0:05
+2018020754,8480943,Igor Ozhiganov,Toronto Maple Leafs,D,11:41,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,1,-1,11:41,0:00,0:00
+2018020754,8480944,Par Lindholm,Toronto Maple Leafs,C,9:49,0,0,1,0,0,0,0,57.14,4,7,0,1,0,0,0,1,6:57,0:00,2:52
+2018020754,8477512,Frederik Gauthier,Toronto Maple Leafs,C,7:15,1,0,0,2,0,0,0,50,2,4,1,0,0,0,0,1,7:15,0:00,0:00
+2018020754,8477341,Andreas Johnsson,Toronto Maple Leafs,LW,8:12,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,8:12,0:00,0:00
+2018020754,8478483,Mitchell Marner,Toronto Maple Leafs,RW,20:48,1,0,3,0,0,0,0,NA,0,0,0,2,0,0,1,-1,17:17,1:11,2:20
+2018020754,8475172,Nazem Kadri,Toronto Maple Leafs,C,13:33,0,0,1,1,0,0,0,100,7,7,1,1,0,0,0,-1,12:22,1:11,0:00
+2018020754,8466139,Patrick Marleau,Toronto Maple Leafs,C,13:35,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,-2,12:50,0:45,0:00
+2018020754,8471769,Niklas Hjalmarsson,Arizona Coyotes,D,20:21,0,0,0,4,0,0,0,NA,0,0,1,1,0,0,4,1,19:06,0:02,1:13
+2018020754,8474613,Derek Stepan,Arizona Coyotes,C,17:50,2,0,5,0,0,0,0,40,8,20,0,0,0,0,1,1,14:03,2:57,0:50
+2018020754,8475209,Richard Panik,Arizona Coyotes,RW,16:17,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,12:52,2:44,0:41
+2018020754,8475738,Jordan Weal,Arizona Coyotes,C,9:32,0,0,0,0,0,0,0,60,3,5,0,0,0,0,2,-1,9:32,0:00,0:00
+2018020754,8478856,Conor Garland,Arizona Coyotes,RW,13:12,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,-1,8:40,4:32,0:00
+2018020754,8476326,Josh Archibald,Arizona Coyotes,RW,13:43,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,0,1,12:58,0:00,0:45
+2018020754,8474131,Mario Kempe,Arizona Coyotes,RW,13:10,0,1,1,3,0,0,0,22.22,2,9,0,0,0,0,0,1,12:25,0:00,0:45
+2018020754,8477851,Jordan Oesterle,Arizona Coyotes,D,22:42,2,0,0,0,0,0,0,NA,0,0,1,0,0,0,4,2,18:09,3:20,1:13
+2018020754,8476994,Vinnie Hinostroza,Arizona Coyotes,C,15:39,0,1,4,1,0,0,0,0,0,1,1,0,0,0,0,1,15:16,0:00,0:23
+2018020754,8476851,Alex Galchenyuk,Arizona Coyotes,C,14:35,0,0,3,1,0,0,0,42.86,3,7,0,1,0,0,1,-1,9:34,5:01,0:00
+2018020754,8471274,Alex Goligoski,Arizona Coyotes,D,20:08,1,0,0,1,0,0,0,NA,0,0,0,0,0,0,5,1,15:44,3:37,0:47
+2018020754,8478474,Lawson Crouse,Arizona Coyotes,LW,15:33,1,1,3,2,0,0,0,NA,0,0,0,0,0,0,1,2,15:07,0:02,0:24
+2018020754,8479345,Jakob Chychrun,Arizona Coyotes,D,17:43,0,0,3,0,0,0,0,NA,0,0,0,3,0,0,2,0,13:22,4:21,0:00
+2018020754,8478432,Christian Fischer,Arizona Coyotes,RW,15:36,1,0,1,2,0,0,0,NA,0,0,0,0,0,0,1,1,12:10,3:26,0:00
+2018020754,8479343,Clayton Keller,Arizona Coyotes,C,17:47,0,1,4,0,0,0,0,NA,0,0,0,0,0,0,0,1,12:29,5:16,0:02
+2018020754,8475171,Oliver Ekman-Larsson,Arizona Coyotes,D,23:49,1,0,2,1,0,0,0,NA,0,0,0,1,0,0,1,0,18:22,4:40,0:47
+2018020754,8476393,Nick Cousins,Arizona Coyotes,C,15:06,0,0,1,0,0,0,0,42.86,3,7,0,2,0,0,1,1,14:54,0:02,0:10
+2018020754,8480950,Ilya Lyubushkin,Arizona Coyotes,D,15:17,0,0,0,6,0,0,0,NA,0,0,0,0,0,0,6,0,15:17,0:00,0:00

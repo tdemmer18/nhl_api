@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020488,8476918,Jimmy Vesey,New York Rangers,LW,15:42,1,0,3,0,0,1,0,0,0,2,1,0,0,0,1,0,9:53,3:44,2:05
+2018020488,8471686,Marc Staal,New York Rangers,D,20:05,0,0,1,1,0,0,2,NA,0,0,0,2,0,0,1,-1,14:55,0:00,5:10
+2018020488,8476869,Brady Skjei,New York Rangers,D,22:55,0,0,3,3,0,0,2,NA,0,0,0,3,0,0,2,-2,18:18,1:21,3:16
+2018020488,8476458,Ryan Strome,New York Rangers,C,8:39,0,0,0,0,0,0,0,80,4,5,0,0,0,0,0,0,7:46,0:00,0:53
+2018020488,8476459,Mika Zibanejad,New York Rangers,C,25:10,1,1,3,1,1,1,0,57.89,11,19,0,1,0,0,0,-2,15:04,5:29,4:37
+2018020488,8475855,Jesper Fast,New York Rangers,RW,13:33,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,0,0,12:55,0:00,0:38
+2018020488,8477950,Tony DeAngelo,New York Rangers,D,20:35,0,0,1,1,0,0,2,NA,0,0,0,1,0,0,0,-1,16:02,4:33,0:00
+2018020488,8473492,Matt Beleskey,New York Rangers,LW,4:13,0,0,0,2,0,0,0,NA,0,0,0,0,0,0,1,0,4:13,0:00,0:00
+2018020488,8477402,Pavel Buchnevich,New York Rangers,RW,16:45,0,1,1,2,1,0,0,NA,0,0,1,0,0,0,2,-1,13:51,2:54,0:00
+2018020488,8475763,Kevin Hayes,New York Rangers,C,17:29,1,1,3,0,1,1,0,50,5,10,0,1,0,0,2,0,9:51,5:16,2:22
+2018020488,8476368,Fredrik Claesson,New York Rangers,D,15:01,0,0,1,1,0,0,0,NA,0,0,1,1,0,0,1,0,12:16,0:00,2:45
+2018020488,8475184,Chris Kreider,New York Rangers,LW,14:06,0,0,4,4,0,0,2,50,1,2,1,0,0,0,0,0,10:06,4:00,0:00
+2018020488,8479353,Brett Howden,New York Rangers,C,18:03,0,0,2,2,0,0,0,50,5,10,1,1,0,0,0,-1,13:20,2:27,2:16
+2018020488,8475692,Mats Zuccarello,New York Rangers,RW,22:30,1,0,2,2,0,1,0,100,1,1,1,1,0,0,1,-2,15:33,5:15,1:42
+2018020488,8474090,Brendan Smith,New York Rangers,D,13:54,0,0,0,0,0,0,5,NA,0,0,1,0,0,0,1,0,10:43,0:00,3:11
+2018020488,8480078,Filip Chytil,New York Rangers,C,16:54,1,0,2,0,0,1,0,NA,0,0,0,3,0,0,3,-2,13:45,3:09,0:00
+2018020488,8476480,Vladislav Namestnikov,New York Rangers,C,14:55,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,3,0,10:46,0:26,3:43
+2018020488,8480145,Neal Pionk,New York Rangers,D,23:32,1,0,2,0,0,1,7,NA,0,0,1,3,0,0,2,-1,17:42,1:56,3:54
+2018020488,8471769,Niklas Hjalmarsson,Arizona Coyotes,D,18:31,0,0,1,0,0,0,2,NA,0,0,0,1,0,0,0,0,13:41,0:00,4:50
+2018020488,8474613,Derek Stepan,Arizona Coyotes,C,20:09,1,1,3,1,0,0,0,50,7,14,1,0,0,0,1,2,13:55,2:47,3:27
+2018020488,8475209,Richard Panik,Arizona Coyotes,RW,18:38,0,0,2,1,0,0,2,NA,0,0,2,1,0,0,0,1,13:59,2:23,2:16
+2018020488,8478856,Conor Garland,Arizona Coyotes,RW,15:35,0,0,5,0,0,0,0,NA,0,0,1,1,0,0,0,0,9:02,6:33,0:00
+2018020488,8470755,Brad Richardson,Arizona Coyotes,C,14:48,0,0,3,3,0,0,2,53.33,8,15,0,0,0,0,0,0,9:58,0:00,4:50
+2018020488,8476326,Josh Archibald,Arizona Coyotes,RW,13:09,0,1,1,3,0,0,0,0,0,1,0,0,0,0,0,1,10:25,0:00,2:44
+2018020488,8474131,Mario Kempe,Arizona Coyotes,RW,6:38,0,0,0,1,0,0,0,33.33,1,3,0,0,0,0,0,0,6:00,0:00,0:38
+2018020488,8477851,Jordan Oesterle,Arizona Coyotes,D,19:39,0,1,2,1,1,0,2,NA,0,0,0,0,0,0,1,2,15:13,2:35,1:51
+2018020488,8477951,Nick Schmaltz,Arizona Coyotes,C,23:19,2,0,2,0,0,1,0,40,6,15,2,1,0,0,1,2,16:34,6:45,0:00
+2018020488,8475246,Kevin Connauton,Arizona Coyotes,D,20:41,0,0,0,2,0,0,0,NA,0,0,0,0,0,0,3,1,14:29,1:25,4:47
+2018020488,8471274,Alex Goligoski,Arizona Coyotes,D,17:24,1,0,0,1,0,0,2,NA,0,0,0,0,0,0,2,1,14:20,0:40,2:24
+2018020488,8478474,Lawson Crouse,Arizona Coyotes,LW,10:10,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,0,0,9:27,0:00,0:43
+2018020488,8479345,Jakob Chychrun,Arizona Coyotes,D,21:10,0,0,3,1,0,0,2,NA,0,0,1,1,0,0,0,0,15:25,5:25,0:20
+2018020488,8478432,Christian Fischer,Arizona Coyotes,RW,13:16,0,0,3,2,0,0,5,NA,0,0,0,0,0,0,1,0,11:20,1:36,0:20
+2018020488,8478047,Michael Bunting,Arizona Coyotes,LW,6:47,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,6:47,0:00,0:00
+2018020488,8479343,Clayton Keller,Arizona Coyotes,C,24:29,2,0,3,1,0,1,0,0,0,1,0,0,0,0,0,1,17:44,6:45,0:00
+2018020488,8475171,Oliver Ekman-Larsson,Arizona Coyotes,D,24:22,0,1,4,2,0,0,2,NA,0,0,2,2,0,0,1,1,16:45,6:27,1:10
+2018020488,8476393,Nick Cousins,Arizona Coyotes,C,14:09,1,0,1,1,0,0,5,NA,0,0,1,0,0,0,0,1,11:50,2:19,0:00

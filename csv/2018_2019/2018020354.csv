@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020354,8474565,Alex Pietrangelo,St. Louis Blues,D,22:09,1,0,1,1,0,1,0,0,0,1,0,0,0,1,-2,19:23,0:39,2:07,NA
+2018020354,8476897,Oskar Sundqvist,St. Louis Blues,C,12:32,0,0,1,2,0,0,0,2,4,1,0,0,0,0,-3,9:23,0:00,3:09,50
+2018020354,8477964,Ivan Barbashev,St. Louis Blues,C,13:00,0,0,0,0,0,0,0,2,6,0,0,0,0,1,-3,9:49,0:00,3:11,33.33
+2018020354,8475765,Vladimir Tarasenko,St. Louis Blues,RW,14:28,0,1,5,5,0,0,2,0,0,0,0,0,0,1,1,12:36,1:52,0:00,NA
+2018020354,8478407,Vince Dunn,St. Louis Blues,D,19:14,0,0,2,1,0,0,2,0,0,0,0,0,0,0,0,17:20,1:52,0:02,NA
+2018020354,8476877,Jordan Schmaltz,St. Louis Blues,D,12:11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,10:59,0:00,1:12,NA
+2018020354,8478104,Sammy Blais,St. Louis Blues,LW,8:34,0,0,1,3,0,0,0,0,0,1,0,0,0,0,-3,8:34,0:00,0:00,NA
+2018020354,8477952,Robby Fabbri,St. Louis Blues,C,15:45,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,15:04,0:35,0:06,NA
+2018020354,8475158,Ryan O'Reilly,St. Louis Blues,C,17:23,0,1,1,0,0,0,0,18,29,0,0,0,0,1,1,13:29,1:52,2:02,62.07
+2018020354,8474102,David Perron,St. Louis Blues,LW,15:46,1,1,2,1,0,1,2,1,3,2,0,0,0,0,-2,15:05,0:39,0:02,33.33
+2018020354,8474034,Pat Maroon,St. Louis Blues,LW,14:40,0,1,1,3,1,0,2,0,0,1,0,0,0,2,-3,13:53,0:47,0:00,NA
+2018020354,8475098,Tyler Bozak,St. Louis Blues,C,15:58,0,0,3,1,0,0,0,7,12,1,0,0,0,1,-1,12:45,1:38,1:35,58.33
+2018020354,8476441,Joel Edmundson,St. Louis Blues,D,21:12,0,0,0,4,0,0,7,0,0,1,0,0,0,1,-2,17:08,0:14,3:50,NA
+2018020354,8470151,Jay Bouwmeester,St. Louis Blues,D,19:33,0,0,1,1,0,0,0,0,0,1,0,0,0,3,-1,16:49,0:04,2:40,NA
+2018020354,8476892,Colton Parayko,St. Louis Blues,D,23:47,0,0,2,0,0,0,0,0,0,0,0,0,0,2,-3,20:50,0:00,2:57,NA
+2018020354,8475170,Brayden Schenn,St. Louis Blues,C,16:17,0,0,3,4,0,0,2,4,14,0,2,0,0,0,-1,13:20,1:44,1:13,28.57
+2018020354,8477482,Zach Sanford,St. Louis Blues,LW,12:07,1,0,1,2,0,0,0,0,0,0,0,0,0,1,1,11:27,0:00,0:40,NA
+2018020354,8480023,Robert Thomas,St. Louis Blues,C,16:17,0,0,2,1,0,0,0,1,3,0,0,0,0,0,0,14:48,0:39,0:50,33.33
+2018020354,8473618,Mathieu Perreault,Winnipeg Jets,LW,14:51,1,0,1,0,0,0,0,0,0,1,1,0,0,0,1,12:46,2:05,0:00,NA
+2018020354,8471218,Blake Wheeler,Winnipeg Jets,RW,20:29,1,1,3,0,0,1,0,1,2,0,1,0,0,0,0,14:29,5:22,0:38,50
+2018020354,8470834,Dustin Byfuglien,Winnipeg Jets,D,20:18,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,14:43,5:31,0:04,NA
+2018020354,8473412,Bryan Little,Winnipeg Jets,C,14:37,4,0,1,0,0,0,2,12,18,0,0,0,0,0,2,13:37,1:00,0:00,66.67
+2018020354,8479339,Patrik Laine,Winnipeg Jets,RW,18:43,0,5,5,1,1,0,0,0,1,1,0,0,0,1,2,13:21,5:08,0:14,0
+2018020354,8477504,Josh Morrissey,Winnipeg Jets,D,20:18,1,0,1,1,0,0,0,0,0,1,1,0,0,1,2,18:49,0:51,0:38,NA
+2018020354,8476476,Joe Morrow,Winnipeg Jets,D,17:06,0,0,2,0,0,0,0,0,0,1,0,0,0,0,2,17:04,0:02,0:00,NA
+2018020354,8478458,Jack Roslovic,Winnipeg Jets,C,9:39,1,0,1,0,0,0,0,1,4,0,0,0,0,2,1,9:37,0:02,0:00,25
+2018020354,8474574,Tyler Myers,Winnipeg Jets,D,17:40,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,15:45,0:04,1:51,NA
+2018020354,8475279,Ben Chiarot,Winnipeg Jets,D,17:17,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,15:28,0:00,1:49,NA
+2018020354,8476885,Jacob Trouba,Winnipeg Jets,D,22:01,1,0,2,0,0,0,2,0,0,0,0,0,0,2,4,20:21,1:00,0:40,NA
+2018020354,8477940,Nikolaj Ehlers,Winnipeg Jets,LW,16:56,0,0,6,0,0,0,0,0,0,0,0,0,0,0,1,15:40,1:16,0:00,NA
+2018020354,8477962,Brendan Lemieux,Winnipeg Jets,LW,9:02,0,1,1,1,0,0,2,0,1,0,0,0,0,0,1,9:02,0:00,0:00,0
+2018020354,8476460,Mark Scheifele,Winnipeg Jets,C,21:08,1,0,3,0,0,0,0,12,26,2,0,0,0,0,0,15:08,5:22,0:38,46.15
+2018020354,8477464,Nic Petan,Winnipeg Jets,LW,9:37,1,0,2,0,0,0,0,0,0,0,0,0,0,0,1,9:37,0:00,0:00,NA
+2018020354,8478398,Kyle Connor,Winnipeg Jets,LW,17:22,4,0,4,0,0,0,0,0,0,1,1,0,0,1,2,12:51,4:17,0:14,NA
+2018020354,8476392,Adam Lowry,Winnipeg Jets,C,14:34,0,0,0,1,0,0,0,10,19,0,0,0,0,0,1,12:55,0:00,1:39,52.63
+2018020354,8479293,Brandon Tanev,Winnipeg Jets,LW,13:11,0,1,2,3,0,0,0,0,0,0,0,0,0,0,1,11:32,0:00,1:39,NA

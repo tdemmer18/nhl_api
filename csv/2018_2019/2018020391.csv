@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020391,8471702,Matt Niskanen,Washington Capitals,D,21:45,1,0,1,0,0,0,0,0,0,0,3,0,1,1,0,15:54,0:51,5:00,NA
+2018020391,8476905,Chandler Stephenson,Washington Capitals,C,12:58,0,0,2,0,0,0,0,0,1,0,0,0,0,0,-2,8:28,0:04,4:26,0
+2018020391,8475758,Devante Smith-Pelly,Washington Capitals,RW,11:43,0,0,1,0,0,0,2,0,0,0,0,0,0,2,-1,8:13,0:00,3:30,NA
+2018020391,8476436,Dmitrij Jaskin,Washington Capitals,RW,6:51,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1,6:43,0:04,0:04,NA
+2018020391,8471214,Alex Ovechkin,Washington Capitals,LW,21:29,2,1,4,2,0,0,0,0,0,1,2,0,0,0,3,16:20,5:09,0:00,NA
+2018020391,8475744,Evgeny Kuznetsov,Washington Capitals,C,17:37,1,0,4,0,0,1,0,4,8,0,1,0,0,0,-1,12:11,4:26,1:00,50
+2018020391,8477944,Jakub Vrana,Washington Capitals,LW,13:12,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,11:50,1:22,0:00,NA
+2018020391,8477444,Andre Burakovsky,Washington Capitals,LW,12:16,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,11:13,1:03,0:00,NA
+2018020391,8475200,Dmitry Orlov,Washington Capitals,D,22:58,0,0,1,0,0,0,0,0,0,0,0,0,0,2,-2,16:14,1:49,4:55,NA
+2018020391,8475343,Nic Dowd,Washington Capitals,C,9:53,0,0,0,1,0,0,0,4,7,0,0,0,0,1,-1,6:14,0:04,3:35,57.14
+2018020391,8473563,Nicklas Backstrom,Washington Capitals,C,21:48,1,3,5,0,1,0,0,10,23,2,0,0,0,0,4,15:21,4:34,1:53,43.48
+2018020391,8474590,John Carlson,Washington Capitals,D,25:12,1,0,2,0,0,1,0,0,0,2,2,0,0,3,4,14:23,4:11,6:38,NA
+2018020391,8474189,Lars Eller,Washington Capitals,C,16:38,1,0,3,0,0,0,2,8,17,2,0,0,1,0,2,10:37,1:30,4:31,47.06
+2018020391,8477043,Christian Djoos,Washington Capitals,D,10:24,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,10:20,0:00,0:04,NA
+2018020391,8476880,Tom Wilson,Washington Capitals,RW,13:25,0,1,1,1,0,0,10,1,1,0,1,1,0,2,2,8:58,1:18,3:09,100
+2018020391,8475792,Brett Connolly,Washington Capitals,RW,16:07,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-1,12:32,3:35,0:00,NA
+2018020391,8477474,Madison Bowey,Washington Capitals,D,12:56,0,0,0,1,0,0,4,0,0,0,0,0,0,2,0,12:56,0:00,0:00,NA
+2018020391,8479482,Michal Kempny,Washington Capitals,D,21:44,2,0,3,0,0,0,0,0,0,0,0,0,0,1,3,16:13,0:00,5:31,NA
+2018020391,8470619,Brian Boyle,New Jersey Devils,C,13:50,0,0,0,3,0,0,0,1,1,1,1,0,0,0,-2,7:02,4:30,2:18,100
+2018020391,8476923,Damon Severson,New Jersey Devils,D,20:56,0,0,4,1,0,0,0,0,0,0,2,0,0,2,-1,16:45,4:01,0:10,NA
+2018020391,8477509,Mirco Mueller,New Jersey Devils,D,15:04,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,13:23,0:04,1:37,NA
+2018020391,8471233,Travis Zajac,New Jersey Devils,C,16:54,0,1,2,0,0,0,0,9,17,0,0,1,0,0,-1,12:35,1:08,3:11,52.94
+2018020391,8479407,Jesper Bratt,New Jersey Devils,LW,16:17,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-1,11:59,4:12,0:06,NA
+2018020391,8473933,Ben Lovejoy,New Jersey Devils,D,14:36,0,0,2,0,0,0,0,0,0,0,0,0,0,2,1,10:05,0:00,4:31,NA
+2018020391,8477425,Miles Wood,New Jersey Devils,LW,7:40,0,0,2,4,0,0,4,0,0,0,0,0,0,0,0,7:40,0:00,0:00,NA
+2018020391,8475149,Marcus Johansson,New Jersey Devils,LW,18:48,0,1,4,0,0,0,0,0,1,0,0,0,0,0,-2,12:22,6:26,0:00,0
+2018020391,8472382,Andy Greene,New Jersey Devils,D,19:17,0,0,2,0,0,0,0,0,0,0,1,0,0,3,-1,14:34,0:09,4:34,NA
+2018020391,8478401,Pavel Zacha,New Jersey Devils,C,16:59,0,0,0,1,0,0,0,6,10,0,0,0,0,1,0,10:29,4:12,2:18,60
+2018020391,8477355,Will Butcher,New Jersey Devils,D,20:10,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12:57,7:09,0:04,NA
+2018020391,8476399,Blake Coleman,New Jersey Devils,C,13:38,1,0,3,3,0,0,0,2,2,1,0,0,1,0,0,11:03,0:04,2:31,100
+2018020391,8479415,Michael McLeod,New Jersey Devils,C,5:36,0,0,0,0,0,0,0,1,6,0,0,0,0,0,0,5:32,0:04,0:00,16.67
+2018020391,8475222,Sami Vatanen,New Jersey Devils,D,21:59,0,0,1,0,0,0,2,0,0,0,0,0,0,1,-2,17:29,3:26,1:04,NA
+2018020391,8475151,Kyle Palmieri,New Jersey Devils,RW,19:34,0,0,4,0,0,0,0,0,0,0,0,0,0,0,-1,12:40,6:33,0:21,NA
+2018020391,8478881,Brett Seney,New Jersey Devils,LW,9:45,0,0,3,0,0,0,0,1,1,0,0,0,0,0,-1,9:45,0:00,0:00,100
+2018020391,8475791,Taylor Hall,New Jersey Devils,LW,21:38,2,0,4,0,0,0,2,0,1,1,1,0,0,2,-2,14:46,6:48,0:04,0
+2018020391,8480002,Nico Hischier,New Jersey Devils,C,21:25,1,1,2,0,0,0,0,10,18,1,0,0,0,0,-1,14:20,6:34,0:31,55.56

@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020717,8476806,J.T. Brown,Minnesota Wild,RW,15:54,0,0,2,2,0,0,0,0,0,0,0,0,0,1,1,15:54,0:00,0:00,NA
+2018020717,8474716,Jared Spurgeon,Minnesota Wild,D,28:12,1,0,0,0,0,0,0,0,0,1,0,0,0,1,-1,24:50,2:03,1:19,NA
+2018020717,8470595,Eric Staal,Minnesota Wild,C,18:17,0,1,2,0,0,0,0,8,18,1,0,0,0,1,0,16:34,1:43,0:00,44.44
+2018020717,8470600,Ryan Suter,Minnesota Wild,D,30:07,1,0,5,0,0,0,0,0,0,1,0,0,0,1,-1,25:47,3:01,1:19,NA
+2018020717,8475798,Mikael Granlund,Minnesota Wild,RW,20:26,0,0,4,0,0,0,0,2,4,0,0,0,0,0,0,17:17,2:30,0:39,50
+2018020717,8475722,Jason Zucker,Minnesota Wild,LW,19:24,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,17:48,1:36,0:00,NA
+2018020717,8475799,Nino Niederreiter,Minnesota Wild,RW,9:31,0,1,4,0,0,0,0,0,0,0,0,0,0,0,1,8:45,0:46,0:00,NA
+2018020717,8474688,Greg Pateryn,Minnesota Wild,D,22:44,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,22:03,0:00,0:41,NA
+2018020717,8475745,Charlie Coyle,Minnesota Wild,C,17:14,0,0,2,0,0,0,0,6,12,1,0,0,0,1,-2,15:55,0:38,0:41,50
+2018020717,8470610,Zach Parise,Minnesota Wild,LW,19:25,0,0,6,0,0,0,0,0,0,2,0,0,0,1,-2,16:06,2:38,0:41,NA
+2018020717,8475613,Nate Prosser,Minnesota Wild,D,7:57,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7:57,0:00,0:00,NA
+2018020717,8479316,Luke Kunin,Minnesota Wild,C,13:38,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,11:59,0:59,0:40,NA
+2018020717,8478413,Jordan Greenway,Minnesota Wild,LW,15:44,0,0,3,0,0,0,0,0,0,1,0,0,0,0,1,15:44,0:00,0:00,NA
+2018020717,8476372,Nick Seeler,Minnesota Wild,D,9:19,0,0,1,0,0,0,0,0,0,0,0,0,0,4,0,9:19,0:00,0:00,NA
+2018020717,8475220,Marcus Foligno,Minnesota Wild,LW,9:13,1,0,1,1,0,0,0,1,1,1,0,0,0,0,1,8:37,0:00,0:36,100
+2018020717,8476463,Jonas Brodin,Minnesota Wild,D,26:40,0,0,1,0,0,0,0,0,0,2,0,0,0,3,1,25:38,0:21,0:41,NA
+2018020717,8478493,Joel Eriksson Ek,Minnesota Wild,C,11:17,1,0,1,0,0,0,2,4,8,0,0,0,0,1,1,11:17,0:00,0:00,50
+2018020717,8469459,Mikko Koivu,Minnesota Wild,C,20:58,0,0,4,0,0,0,0,12,20,0,0,0,0,0,0,18:30,1:45,0:43,60
+2018020717,8470604,Jeff Carter,Los Angeles Kings,C,19:40,0,1,4,1,0,0,0,9,19,1,1,0,0,1,1,16:35,1:31,1:34,47.37
+2018020717,8470602,Dion Phaneuf,Los Angeles Kings,D,13:40,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,13:12,0:00,0:28,NA
+2018020717,8470606,Dustin Brown,Los Angeles Kings,RW,19:55,1,0,2,1,0,0,0,0,0,0,0,0,0,0,1,18:12,1:15,0:28,NA
+2018020717,8471685,Anze Kopitar,Los Angeles Kings,C,23:01,0,0,1,1,0,0,0,8,20,1,0,0,0,0,0,20:03,1:15,1:43,40
+2018020717,8475726,Tyler Toffoli,Los Angeles Kings,RW,17:16,1,0,4,0,0,0,2,0,2,0,0,0,0,0,0,16:31,0:45,0:00,0
+2018020717,8470775,Nate Thompson,Los Angeles Kings,C,10:26,0,0,0,2,0,0,0,6,9,1,0,0,0,0,0,9:43,0:00,0:43,66.67
+2018020717,8477960,Adrian Kempe,Los Angeles Kings,C,15:06,1,0,0,0,0,0,0,7,8,0,0,0,0,1,0,14:21,0:45,0:00,87.5
+2018020717,8476894,Brendan Leipsic,Los Angeles Kings,LW,16:48,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,16:03,0:45,0:00,NA
+2018020717,8474162,Jake Muzzin,Los Angeles Kings,D,23:33,0,0,3,0,0,0,0,0,0,0,0,0,0,2,1,19:59,0:45,2:49,NA
+2018020717,8474563,Drew Doughty,Los Angeles Kings,D,29:13,0,0,4,1,0,0,2,0,0,0,0,0,0,1,0,27:15,1:15,0:43,NA
+2018020717,8475762,Derek Forbort,Los Angeles Kings,D,19:16,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-1,17:49,0:00,1:27,NA
+2018020717,8479644,Matt Luff,Los Angeles Kings,RW,8:38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8:38,0:00,0:00,NA
+2018020717,8474166,Alec Martinez,Los Angeles Kings,D,24:09,0,0,1,2,0,0,0,0,0,0,0,0,0,1,1,21:36,0:00,2:33,NA
+2018020717,8474176,Carl Hagelin,Los Angeles Kings,LW,13:07,0,0,1,0,0,0,0,0,2,0,0,0,0,0,-1,12:18,0:00,0:49,0
+2018020717,8469454,Ilya Kovalchuk,Los Angeles Kings,LW,18:46,0,1,3,0,0,0,0,0,1,0,0,0,0,0,0,17:31,1:15,0:00,0
+2018020717,8475160,Kyle Clifford,Los Angeles Kings,LW,8:45,0,0,1,3,0,0,0,0,1,0,0,0,0,1,0,8:45,0:00,0:00,0
+2018020717,8480113,Alex Iafallo,Los Angeles Kings,LW,16:24,0,0,4,0,0,0,0,0,1,1,0,0,0,0,0,15:12,0:29,0:43,0
+2018020717,8480147,Oscar Fantenberg,Los Angeles Kings,D,16:17,0,0,2,1,0,0,0,0,0,0,0,0,0,3,-1,16:17,0:00,0:00,NA

@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020075,8473507,Jeff Petry,Montréal Canadiens,D,23:03,1,0,3,1,0,0,0,0,0,0,2,0,0,3,-1,15:59,6:01,1:03,NA
+2018020075,8474818,Jordie Benn,Montréal Canadiens,D,16:48,0,0,1,1,0,0,0,0,0,0,1,0,0,2,1,15:39,0:06,1:03,NA
+2018020075,8480829,Jesperi Kotkaniemi,Montréal Canadiens,C,15:10,1,0,0,0,0,0,0,2,11,1,1,0,0,1,0,13:14,1:56,0:00,18.18
+2018020075,8474038,Paul Byron,Montréal Canadiens,LW,13:56,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,13:21,0:00,0:35,0
+2018020075,8475848,Brendan Gallagher,Montréal Canadiens,RW,18:00,0,1,3,0,0,0,0,0,3,2,2,0,0,0,2,12:02,5:58,0:00,0
+2018020075,8476948,Charles Hudon,Montréal Canadiens,LW,13:48,0,1,1,0,0,0,0,1,1,1,0,0,0,0,1,9:46,4:02,0:00,100
+2018020075,8477503,Max Domi,Montréal Canadiens,LW,16:28,1,0,0,2,0,1,0,7,14,0,0,0,0,1,0,11:36,4:52,0:00,50
+2018020075,8476479,Phillip Danault,Montréal Canadiens,C,13:29,1,0,2,0,0,0,0,8,15,0,0,0,0,1,2,12:34,0:04,0:51,53.33
+2018020075,8476469,Joel Armia,Montréal Canadiens,RW,16:40,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,13:05,3:00,0:35,NA
+2018020075,8476443,Xavier Ouellet,Montréal Canadiens,D,13:21,0,0,3,3,0,0,5,0,0,1,0,0,0,2,1,13:21,0:00,0:00,NA
+2018020075,8477476,Artturi Lehkonen,Montréal Canadiens,LW,17:06,0,0,4,0,0,0,0,0,0,1,1,0,0,1,0,12:29,2:56,1:41,NA
+2018020075,8476422,Mike Reilly,Montréal Canadiens,D,22:26,1,0,0,1,0,0,0,0,0,0,1,0,0,1,2,17:40,2:57,1:49,NA
+2018020075,8476285,Matthew Peca,Montréal Canadiens,C,11:29,2,0,2,1,0,0,0,0,1,0,0,0,0,1,1,10:55,0:00,0:34,0
+2018020075,8477494,Jonathan Drouin,Montréal Canadiens,C,16:51,0,2,5,2,1,0,2,3,5,1,0,0,0,2,1,11:23,5:28,0:00,60
+2018020075,8478454,Noah Juulsen,Montréal Canadiens,D,18:42,1,0,1,3,0,0,0,0,0,0,4,0,0,2,3,16:53,0:00,1:49,NA
+2018020075,8479376,Victor Mete,Montréal Canadiens,D,17:30,0,0,1,0,0,0,2,0,0,0,2,0,0,2,0,16:45,0:45,0:00,NA
+2018020075,8469521,Tomas Plekanec,Montréal Canadiens,C,13:08,0,1,3,0,0,0,0,9,19,0,0,0,0,0,1,11:38,0:02,1:28,47.37
+2018020075,8475193,Tomas Tatar,Montréal Canadiens,LW,17:13,2,1,4,2,0,1,2,0,0,0,1,0,0,1,2,11:17,5:56,0:00,NA
+2018020075,8471716,Justin Abdelkader,Detroit Red Wings,LW,13:14,0,0,3,1,0,0,0,2,3,0,0,0,0,1,0,10:06,0:00,3:08,66.67
+2018020075,8480161,Libor Sulak,Detroit Red Wings,D,16:18,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,13:20,0:00,2:58,NA
+2018020075,8474679,Gustav Nyquist,Detroit Red Wings,RW,13:45,1,0,1,1,0,0,0,0,1,0,1,0,0,1,0,12:54,0:51,0:00,0
+2018020075,8476924,Martin Frk,Detroit Red Wings,RW,11:04,0,0,0,5,0,0,2,0,0,0,1,0,0,1,0,10:13,0:51,0:00,NA
+2018020075,8477946,Dylan Larkin,Detroit Red Wings,C,20:01,0,0,4,1,0,0,2,12,23,1,2,0,0,2,-3,16:44,0:51,2:26,52.17
+2018020075,8471794,Darren Helm,Detroit Red Wings,LW,16:58,0,0,3,1,0,0,0,0,0,0,0,0,0,1,-2,14:33,0:00,2:25,NA
+2018020075,8470144,Frans Nielsen,Detroit Red Wings,C,15:59,0,0,1,1,0,0,0,13,19,0,0,0,0,1,1,11:23,2:01,2:35,68.42
+2018020075,8475324,Nick Jensen,Detroit Red Wings,D,22:21,0,0,2,4,0,0,0,0,0,0,2,0,0,2,-3,16:16,0:00,6:05,NA
+2018020075,8470598,Thomas Vanek,Detroit Red Wings,LW,13:47,0,1,2,7,1,0,2,1,1,0,0,0,0,0,-2,11:46,2:01,0:00,100
+2018020075,8476822,Luke Glendening,Detroit Red Wings,C,13:58,1,0,0,3,0,0,0,6,12,1,0,0,0,2,-1,10:49,0:00,3:09,50
+2018020075,8479425,Filip Hronek,Detroit Red Wings,D,20:48,1,0,1,3,0,0,2,0,0,0,1,0,0,1,0,19:11,0:51,0:46,NA
+2018020075,8476960,Andreas Athanasiou,Detroit Red Wings,C,14:14,0,2,5,0,0,0,0,1,2,0,0,0,0,0,1,12:13,2:01,0:00,50
+2018020075,8477479,Tyler Bertuzzi,Detroit Red Wings,LW,13:04,1,0,1,3,0,0,7,1,2,1,0,0,0,0,1,11:54,0:51,0:19,50
+2018020075,8477511,Anthony Mantha,Detroit Red Wings,RW,14:26,1,0,0,2,0,1,0,0,0,0,1,0,0,0,-4,12:25,2:01,0:00,NA
+2018020075,8478176,Joe Hicketts,Detroit Red Wings,D,17:44,0,0,1,1,0,0,0,0,0,0,0,0,0,2,-1,12:20,0:00,5:24,NA
+2018020075,8478036,Christoffer Ehn,Detroit Red Wings,C,11:04,0,0,0,1,0,0,0,4,7,0,0,0,0,0,0,7:57,0:00,3:07,57.14
+2018020075,8479395,Dennis Cholowski,Detroit Red Wings,D,21:57,0,0,4,0,0,0,2,0,0,0,2,0,0,4,-2,17:48,2:01,2:08,NA
+2018020075,8468509,Niklas Kronwall,Detroit Red Wings,D,18:20,0,0,0,3,0,0,0,0,0,0,2,0,0,2,0,17:45,0:00,0:35,NA

@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020866,8477407,Anthony Duclair,Columbus Blue Jackets,LW,13:46,0,1,1,1,0,0,0,0,0,1,0,0,0,2,1,12:49,0:57,0:00,NA
+2018020866,8478906,Markus Nutivaara,Columbus Blue Jackets,D,11:15,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,11:15,0:00,0:00,NA
+2018020866,8473422,Nick Foligno,Columbus Blue Jackets,LW,20:07,0,1,4,3,0,0,0,4,5,2,2,0,0,1,1,14:26,5:41,0:00,80
+2018020866,8474715,Cam Atkinson,Columbus Blue Jackets,RW,21:58,0,0,7,0,0,0,0,0,0,1,1,0,0,0,0,14:48,6:32,0:38,NA
+2018020866,8477505,Alexander Wennberg,Columbus Blue Jackets,C,18:06,0,0,0,0,0,0,0,15,18,2,0,0,0,1,1,16:57,0:42,0:27,83.33
+2018020866,8476449,Scott Harrington,Columbus Blue Jackets,D,13:25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13:25,0:00,0:00,NA
+2018020866,8477416,Oliver Bjorkstrand,Columbus Blue Jackets,RW,14:39,1,0,2,0,0,0,0,0,0,0,0,0,0,1,1,14:14,0:25,0:00,NA
+2018020866,8476310,Lukas Sedlak,Columbus Blue Jackets,C,7:14,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7:14,0:00,0:00,NA
+2018020866,8476981,Josh Anderson,Columbus Blue Jackets,RW,14:21,1,0,3,1,0,0,0,0,0,1,0,0,0,0,2,12:59,0:21,1:01,NA
+2018020866,8476850,Ryan Murray,Columbus Blue Jackets,D,23:09,1,0,3,0,0,0,0,0,0,0,0,0,0,2,2,21:58,0:21,0:50,NA
+2018020866,8476432,Boone Jenner,Columbus Blue Jackets,C,16:31,0,0,2,2,0,0,0,4,13,0,0,0,0,0,2,14:52,0:49,0:50,30.77
+2018020866,8475233,David Savard,Columbus Blue Jackets,D,17:31,0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,16:53,0:00,0:38,NA
+2018020866,8474062,Riley Nash,Columbus Blue Jackets,C,8:01,0,0,1,0,0,0,2,4,5,1,1,0,0,0,0,7:57,0:04,0:00,80
+2018020866,8477495,Seth Jones,Columbus Blue Jackets,D,25:11,1,0,1,2,0,0,0,0,0,1,1,0,0,1,2,22:44,1:37,0:50,NA
+2018020866,8478550,Artemi Panarin,Columbus Blue Jackets,LW,21:16,0,1,2,0,0,0,2,0,0,0,0,0,0,0,1,14:34,6:42,0:00,NA
+2018020866,8479400,Pierre-Luc Dubois,Columbus Blue Jackets,C,19:18,0,0,1,2,0,0,0,6,10,0,0,0,0,0,0,12:36,6:42,0:00,60
+2018020866,8478541,Markus Hannikainen,Columbus Blue Jackets,LW,7:33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7:33,0:00,0:00,NA
+2018020866,8478460,Zach Werenski,Columbus Blue Jackets,D,22:53,1,0,3,1,0,0,0,0,0,0,1,0,0,0,1,15:48,6:27,0:38,NA
+2018020866,8471702,Matt Niskanen,Washington Capitals,D,22:57,0,0,2,1,0,0,0,0,0,1,0,0,0,1,0,18:52,0:00,4:05,NA
+2018020866,8476905,Chandler Stephenson,Washington Capitals,C,9:42,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,8:29,0:00,1:13,NA
+2018020866,8468498,Brooks Orpik,Washington Capitals,D,17:41,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-1,12:01,0:00,5:40,NA
+2018020866,8475758,Devante Smith-Pelly,Washington Capitals,RW,9:29,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,8:08,0:00,1:21,0
+2018020866,8471214,Alex Ovechkin,Washington Capitals,LW,21:08,0,0,2,3,0,0,0,0,0,0,0,0,0,1,-2,19:40,1:28,0:00,NA
+2018020866,8471698,T.J. Oshie,Washington Capitals,RW,18:12,0,0,0,1,0,0,0,1,1,0,1,0,0,0,-1,16:00,1:28,0:44,100
+2018020866,8475744,Evgeny Kuznetsov,Washington Capitals,C,17:35,0,0,2,0,0,0,2,3,9,0,2,0,0,1,-2,16:07,1:28,0:00,33.33
+2018020866,8477944,Jakub Vrana,Washington Capitals,LW,13:21,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,13:18,0:00,0:03,NA
+2018020866,8477444,Andre Burakovsky,Washington Capitals,LW,10:55,0,0,0,0,0,0,0,0,0,0,2,0,0,0,-1,10:55,0:00,0:00,NA
+2018020866,8475200,Dmitry Orlov,Washington Capitals,D,18:51,0,0,5,1,0,0,0,0,0,0,1,0,0,0,0,18:12,0:00,0:39,NA
+2018020866,8475343,Nic Dowd,Washington Capitals,C,9:05,0,0,0,0,0,0,0,3,5,0,0,0,0,1,0,9:05,0:00,0:00,60
+2018020866,8473563,Nicklas Backstrom,Washington Capitals,C,19:13,0,0,3,1,0,0,0,7,15,1,0,0,0,0,-1,17:09,1:28,0:36,46.67
+2018020866,8474590,John Carlson,Washington Capitals,D,21:44,0,0,1,0,0,0,2,0,0,2,1,0,0,3,-2,18:56,1:28,1:20,NA
+2018020866,8474189,Lars Eller,Washington Capitals,C,17:39,0,0,0,1,0,0,0,3,18,0,0,0,0,1,-2,12:33,0:00,5:06,16.67
+2018020866,8477043,Christian Djoos,Washington Capitals,D,14:30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,14:30,0:00,0:00,NA
+2018020866,8476880,Tom Wilson,Washington Capitals,RW,18:48,0,0,0,3,0,0,2,1,2,0,0,0,0,1,-1,13:20,0:00,5:28,50
+2018020866,8475792,Brett Connolly,Washington Capitals,RW,10:57,0,0,2,0,0,0,0,0,0,1,0,0,0,1,-1,10:32,0:00,0:25,NA
+2018020866,8479482,Michal Kempny,Washington Capitals,D,20:46,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,17:34,0:00,3:12,NA

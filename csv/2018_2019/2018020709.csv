@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020709,8471702,Matt Niskanen,Washington Capitals,D,20:41,0,0,2,5,0,0,2,0,0,0,0,0,0,1,-2,19:26,0:17,0:58,NA
+2018020709,8476905,Chandler Stephenson,Washington Capitals,C,11:48,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,11:22,0:00,0:26,100
+2018020709,8468498,Brooks Orpik,Washington Capitals,D,14:14,0,0,1,4,0,0,0,0,0,0,2,0,0,0,0,12:36,0:00,1:38,NA
+2018020709,8476329,Travis Boyd,Washington Capitals,C,12:31,1,0,0,2,0,1,0,4,9,0,1,0,0,0,0,11:32,0:59,0:00,44.44
+2018020709,8475758,Devante Smith-Pelly,Washington Capitals,RW,11:04,0,0,3,2,0,0,0,0,1,0,0,0,0,0,0,10:38,0:00,0:26,0
+2018020709,8471214,Alex Ovechkin,Washington Capitals,LW,21:23,0,1,3,2,1,0,2,0,0,0,0,0,0,0,0,16:58,4:25,0:00,NA
+2018020709,8471698,T.J. Oshie,Washington Capitals,RW,16:27,0,0,3,1,0,0,0,2,6,1,1,0,0,2,-1,12:14,3:33,0:40,33.33
+2018020709,8475744,Evgeny Kuznetsov,Washington Capitals,C,19:31,0,0,3,2,0,0,0,8,13,0,1,0,0,0,0,15:58,3:33,0:00,61.54
+2018020709,8477944,Jakub Vrana,Washington Capitals,LW,14:02,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-2,12:53,1:09,0:00,NA
+2018020709,8477444,Andre Burakovsky,Washington Capitals,LW,10:46,0,0,3,1,0,0,0,0,0,1,0,0,0,1,-1,10:46,0:00,0:00,NA
+2018020709,8475200,Dmitry Orlov,Washington Capitals,D,20:53,1,0,0,1,0,1,0,0,0,1,1,0,0,3,-2,20:00,0:53,0:00,NA
+2018020709,8473563,Nicklas Backstrom,Washington Capitals,C,17:59,0,0,3,0,0,0,0,2,9,1,1,0,0,0,-1,13:46,3:33,0:40,22.22
+2018020709,8474590,John Carlson,Washington Capitals,D,24:11,0,0,1,0,0,0,0,0,0,1,1,0,0,1,-1,19:42,3:49,0:40,NA
+2018020709,8474189,Lars Eller,Washington Capitals,C,15:10,0,0,1,1,0,0,0,5,15,1,2,0,0,0,-2,14:02,0:10,0:58,33.33
+2018020709,8476880,Tom Wilson,Washington Capitals,RW,20:34,0,0,1,2,0,0,2,0,1,0,1,0,0,1,-1,18:37,0:59,0:58,0
+2018020709,8475792,Brett Connolly,Washington Capitals,RW,12:20,0,0,2,0,0,0,0,0,0,1,0,0,0,1,-1,12:20,0:00,0:00,NA
+2018020709,8477474,Madison Bowey,Washington Capitals,D,13:19,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,12:53,0:00,0:26,NA
+2018020709,8479482,Michal Kempny,Washington Capitals,D,20:16,0,0,2,1,0,0,0,0,0,1,0,0,0,0,-1,19:40,0:10,0:26,NA
+2018020709,8475768,Jaden Schwartz,St. Louis Blues,LW,20:28,1,0,3,0,0,0,0,1,1,1,2,0,0,0,1,19:35,0:00,0:53,100
+2018020709,8474565,Alex Pietrangelo,St. Louis Blues,D,23:06,1,0,2,2,0,1,0,0,0,2,2,0,0,1,2,18:37,2:04,2:25,NA
+2018020709,8476897,Oskar Sundqvist,St. Louis Blues,C,16:51,0,0,4,0,0,0,0,1,5,0,0,0,0,0,0,12:24,2:04,2:23,20
+2018020709,8477964,Ivan Barbashev,St. Louis Blues,C,9:46,0,1,1,0,0,0,0,3,4,3,0,0,0,2,1,8:43,0:00,1:03,75
+2018020709,8475325,Jordan Nolan,St. Louis Blues,C,4:28,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,4:28,0:00,0:00,NA
+2018020709,8475765,Vladimir Tarasenko,St. Louis Blues,RW,20:02,1,1,2,1,1,0,2,0,0,0,0,0,0,0,2,17:58,2:04,0:00,NA
+2018020709,8478407,Vince Dunn,St. Louis Blues,D,12:36,1,1,1,0,0,0,2,0,0,0,0,0,0,1,2,12:27,0:00,0:09,NA
+2018020709,8478104,Sammy Blais,St. Louis Blues,LW,4:43,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,4:43,0:00,0:00,NA
+2018020709,8475158,Ryan O'Reilly,St. Louis Blues,C,20:09,2,0,3,0,0,1,2,14,19,0,0,0,0,0,1,16:01,2:04,2:04,73.68
+2018020709,8474102,David Perron,St. Louis Blues,LW,20:47,0,1,7,1,0,0,0,0,0,1,0,0,0,1,1,18:27,2:04,0:16,NA
+2018020709,8474145,Robert Bortuzzo,St. Louis Blues,D,14:37,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,12:28,0:00,2:09,NA
+2018020709,8474034,Pat Maroon,St. Louis Blues,LW,10:51,0,0,2,6,0,0,2,0,0,0,0,0,0,0,0,10:51,0:00,0:00,NA
+2018020709,8476441,Joel Edmundson,St. Louis Blues,D,21:48,0,0,0,2,0,0,0,0,0,0,0,0,0,1,1,18:59,0:00,2:49,NA
+2018020709,8470151,Jay Bouwmeester,St. Louis Blues,D,23:26,0,0,0,2,0,0,0,0,0,0,3,0,0,4,0,21:42,0:00,1:44,NA
+2018020709,8476892,Colton Parayko,St. Louis Blues,D,22:23,0,0,3,1,0,0,0,0,0,0,2,0,0,3,1,22:15,0:00,0:08,NA
+2018020709,8475170,Brayden Schenn,St. Louis Blues,C,20:40,0,0,5,2,0,0,0,13,25,1,0,0,0,0,1,19:57,0:00,0:43,52
+2018020709,8479385,Jordan Kyrou,St. Louis Blues,C,7:11,0,0,2,0,0,0,0,1,1,0,0,0,0,0,0,7:11,0:00,0:00,100
+2018020709,8477482,Zach Sanford,St. Louis Blues,LW,18:33,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,16:31,0:00,2:02,NA

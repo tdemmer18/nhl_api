@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020051,8473507,Jeff Petry,Montréal Canadiens,D,21:00,0,0,2,2,0,0,0,0,0,0,2,0,0,1,0,12:52,5:13,2:55,NA
+2018020051,8474818,Jordie Benn,Montréal Canadiens,D,14:51,0,0,1,3,0,0,2,0,0,0,2,0,0,0,-1,13:16,0:00,1:35,NA
+2018020051,8480829,Jesperi Kotkaniemi,Montréal Canadiens,C,14:23,0,0,5,1,0,0,2,6,11,2,1,0,0,0,0,11:40,2:43,0:00,54.55
+2018020051,8474038,Paul Byron,Montréal Canadiens,LW,16:32,0,0,4,6,0,0,0,1,2,0,0,0,0,2,-1,14:18,0:06,2:08,50
+2018020051,8475848,Brendan Gallagher,Montréal Canadiens,RW,18:01,0,0,1,3,0,0,0,2,5,0,0,0,0,1,0,13:07,4:54,0:00,40
+2018020051,8476948,Charles Hudon,Montréal Canadiens,LW,7:15,0,0,1,3,0,0,2,0,0,0,0,0,0,0,-1,7:15,0:00,0:00,NA
+2018020051,8477503,Max Domi,Montréal Canadiens,LW,16:21,0,0,4,0,0,0,0,8,14,0,1,0,0,0,-2,13:21,3:00,0:00,57.14
+2018020051,8476479,Phillip Danault,Montréal Canadiens,C,15:12,0,0,0,1,0,0,0,1,13,0,0,0,0,0,0,13:35,0:00,1:37,7.69
+2018020051,8476469,Joel Armia,Montréal Canadiens,RW,18:58,0,0,3,0,0,0,0,1,1,2,0,0,0,0,0,12:00,4:55,2:03,100
+2018020051,8476443,Xavier Ouellet,Montréal Canadiens,D,15:51,0,0,2,5,0,0,0,0,0,0,1,0,0,2,-2,14:56,0:00,0:55,NA
+2018020051,8477476,Artturi Lehkonen,Montréal Canadiens,LW,17:28,0,0,2,0,0,0,0,1,1,2,0,0,0,0,-2,12:44,3:02,1:42,100
+2018020051,8476422,Mike Reilly,Montréal Canadiens,D,23:52,0,0,3,0,0,0,0,0,0,0,3,0,0,1,-2,20:20,0:29,3:03,NA
+2018020051,8476285,Matthew Peca,Montréal Canadiens,C,10:00,0,0,3,1,0,0,0,1,6,0,0,0,0,0,-1,7:47,0:00,2:13,16.67
+2018020051,8477494,Jonathan Drouin,Montréal Canadiens,C,16:04,0,0,3,1,0,0,0,1,1,0,1,0,0,0,0,10:23,5:03,0:38,100
+2018020051,8478454,Noah Juulsen,Montréal Canadiens,D,20:25,0,0,1,7,0,0,0,0,0,0,1,0,0,3,0,17:07,0:06,3:12,NA
+2018020051,8479376,Victor Mete,Montréal Canadiens,D,16:15,0,0,1,0,0,0,0,0,0,0,1,0,0,0,-1,13:30,2:29,0:16,NA
+2018020051,8476381,Andrew Shaw,Montréal Canadiens,RW,12:12,0,0,3,3,0,0,10,1,6,0,0,0,0,1,-2,7:37,3:00,1:35,16.67
+2018020051,8475193,Tomas Tatar,Montréal Canadiens,LW,19:38,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,14:38,5:00,0:00,NA
+2018020051,8470604,Jeff Carter,Los Angeles Kings,C,15:31,2,1,4,0,0,0,0,9,11,0,0,0,0,0,3,11:09,2:51,1:31,81.82
+2018020051,8470602,Dion Phaneuf,Los Angeles Kings,D,20:32,0,0,0,3,0,0,0,0,0,0,1,0,0,4,0,15:23,3:39,1:30,NA
+2018020051,8471685,Anze Kopitar,Los Angeles Kings,C,22:28,0,0,1,1,0,0,0,14,22,0,2,0,0,1,0,16:41,2:51,2:56,63.64
+2018020051,8475726,Tyler Toffoli,Los Angeles Kings,RW,12:59,1,0,3,0,0,0,0,1,2,0,0,0,0,0,1,10:04,1:55,1:00,50
+2018020051,8470775,Nate Thompson,Los Angeles Kings,C,14:37,0,0,1,0,0,0,0,8,17,0,2,0,0,0,0,9:42,0:28,4:27,47.06
+2018020051,8476871,Tanner Pearson,Los Angeles Kings,LW,14:07,0,0,1,3,0,0,2,0,0,1,2,0,0,0,0,12:03,2:04,0:00,NA
+2018020051,8477960,Adrian Kempe,Los Angeles Kings,C,10:18,0,1,3,2,0,0,2,3,6,0,1,0,0,0,1,10:12,0:00,0:06,50
+2018020051,8476983,Paul LaDue,Los Angeles Kings,D,13:47,0,0,2,0,0,0,0,0,0,0,1,0,0,1,0,13:47,0:00,0:00,NA
+2018020051,8474162,Jake Muzzin,Los Angeles Kings,D,21:13,1,0,0,0,0,0,2,0,0,0,1,0,0,6,3,16:35,1:57,2:41,NA
+2018020051,8474563,Drew Doughty,Los Angeles Kings,D,25:08,0,0,2,1,0,0,2,0,0,0,2,0,0,2,0,17:42,3:32,3:54,NA
+2018020051,8475762,Derek Forbort,Los Angeles Kings,D,19:08,0,0,1,0,0,0,0,0,0,1,2,0,0,2,0,14:09,0:22,4:37,NA
+2018020051,8473453,Trevor Lewis,Los Angeles Kings,C,14:18,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,9:41,0:28,4:09,NA
+2018020051,8479994,Jaret Anderson-Dolan,Los Angeles Kings,C,11:51,1,0,1,1,0,0,0,0,0,0,1,0,0,2,2,11:16,0:35,0:00,NA
+2018020051,8474166,Alec Martinez,Los Angeles Kings,D,20:36,1,0,1,2,0,0,0,0,0,0,2,0,0,2,3,14:52,2:26,3:18,NA
+2018020051,8469454,Ilya Kovalchuk,Los Angeles Kings,LW,19:22,0,0,8,0,0,0,0,0,0,0,1,0,0,0,0,15:47,3:35,0:00,NA
+2018020051,8475160,Kyle Clifford,Los Angeles Kings,LW,8:42,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,8:14,0:28,0:00,NA
+2018020051,8478020,Michael Amadio,Los Angeles Kings,C,13:16,0,1,1,0,0,0,0,2,2,0,0,0,0,0,2,10:37,2:39,0:00,100
+2018020051,8480113,Alex Iafallo,Los Angeles Kings,LW,14:07,0,0,0,3,0,0,0,0,0,0,1,0,0,1,0,12:16,0:00,1:51,NA

@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020774,8476918,Jimmy Vesey,New York Rangers,LW,17:18,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,0,15:25,0:52,1:01
+2018020774,8471717,Adam McQuaid,New York Rangers,D,16:13,0,0,0,2,0,0,0,NA,0,0,1,1,0,0,3,0,14:13,0:00,2:00
+2018020774,8471686,Marc Staal,New York Rangers,D,16:48,0,0,2,2,0,0,2,NA,0,0,0,0,0,0,0,-1,15:45,0:00,1:03
+2018020774,8476869,Brady Skjei,New York Rangers,D,20:07,0,0,2,0,0,0,0,NA,0,0,2,0,0,0,1,0,18:07,0:00,2:00
+2018020774,8471657,Cody McLeod,New York Rangers,LW,5:01,0,0,0,2,0,0,0,NA,0,0,0,0,0,0,0,0,5:01,0:00,0:00
+2018020774,8476458,Ryan Strome,New York Rangers,C,14:26,0,0,1,1,0,0,0,33.33,2,6,1,0,0,0,0,-1,12:41,0:52,0:53
+2018020774,8476459,Mika Zibanejad,New York Rangers,C,23:43,0,0,2,1,0,0,0,31.58,6,19,0,2,0,0,0,0,19:03,3:08,1:32
+2018020774,8475855,Jesper Fast,New York Rangers,RW,16:11,0,0,1,0,0,0,0,NA,0,0,0,2,0,0,0,-1,14:59,0:00,1:12
+2018020774,8476922,Boo Nieves,New York Rangers,C,13:38,0,0,1,1,0,0,2,45.45,5,11,0,0,0,0,0,0,13:15,0:00,0:23
+2018020774,8477950,Tony DeAngelo,New York Rangers,D,15:02,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,1,-1,14:10,0:52,0:00
+2018020774,8474031,Kevin Shattenkirk,New York Rangers,D,19:46,0,0,6,0,0,0,0,NA,0,0,0,1,0,0,0,0,16:38,3:08,0:00
+2018020774,8475763,Kevin Hayes,New York Rangers,C,22:25,0,0,6,1,0,0,0,50,9,18,1,2,0,0,0,0,17:50,3:08,1:27
+2018020774,8475184,Chris Kreider,New York Rangers,LW,21:34,0,0,5,6,0,0,0,NA,0,0,1,1,0,0,0,0,18:26,3:08,0:00
+2018020774,8479353,Brett Howden,New York Rangers,C,4:43,0,0,3,0,0,0,0,100,2,2,0,0,0,0,0,0,4:43,0:00,0:00
+2018020774,8474090,Brendan Smith,New York Rangers,D,13:41,0,0,1,2,0,0,0,NA,0,0,2,0,0,0,0,0,12:44,0:00,0:57
+2018020774,8480078,Filip Chytil,New York Rangers,C,17:15,0,0,1,0,0,0,0,100,1,1,1,1,0,0,0,-1,16:23,0:52,0:00
+2018020774,8476480,Vladislav Namestnikov,New York Rangers,C,24:14,0,0,3,4,0,0,0,NA,0,0,0,1,0,0,1,0,19:34,3:08,1:32
+2018020774,8480145,Neal Pionk,New York Rangers,D,15:54,0,0,1,1,0,0,0,NA,0,0,1,1,0,0,1,0,13:02,0:52,2:00
+2018020774,8473512,Claude Giroux,Philadelphia Flyers,C,19:29,0,0,1,0,0,0,0,64.71,11,17,1,0,0,0,1,0,15:13,2:18,1:58
+2018020774,8477948,Travis Sanheim,Philadelphia Flyers,D,24:40,0,0,1,1,0,0,2,NA,0,0,4,2,0,0,3,1,22:45,1:44,0:11
+2018020774,8474037,James van Riemsdyk,Philadelphia Flyers,LW,14:49,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,0,12:33,2:16,0:00
+2018020774,8478844,Mikhail Vorobyev,Philadelphia Flyers,C,7:24,0,0,0,1,0,0,0,0,0,3,1,0,0,0,0,0,7:24,0:00,0:00
+2018020774,8478439,Travis Konecny,Philadelphia Flyers,RW,15:59,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,1,0,14:17,1:42,0:00
+2018020774,8478500,Ivan Provorov,Philadelphia Flyers,D,26:02,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,1,1,22:25,1:29,2:08
+2018020774,8476872,Scott Laughton,Philadelphia Flyers,C,19:12,0,0,3,1,0,0,0,50,4,8,0,1,0,0,0,0,16:22,0:00,2:50
+2018020774,8477850,Christian Folin,Philadelphia Flyers,D,10:32,0,0,0,4,0,0,2,NA,0,0,0,0,0,0,0,0,10:32,0:00,0:00
+2018020774,8475321,Phil Varone,Philadelphia Flyers,C,9:43,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2,0,9:43,0:00,0:00
+2018020774,8479974,Nolan Patrick,Philadelphia Flyers,C,16:19,0,0,0,2,0,0,0,63.64,7,11,2,0,0,0,0,0,14:35,1:44,0:00
+2018020774,8474161,Jakub Voracek,Philadelphia Flyers,RW,18:54,1,0,1,0,0,0,0,NA,0,0,0,3,0,0,0,1,16:23,2:31,0:00
+2018020774,8477462,Robert Hagg,Philadelphia Flyers,D,15:43,0,0,0,5,0,0,0,NA,0,0,0,0,0,0,2,0,13:20,0:00,2:23
+2018020774,8478067,Oskar Lindblom,Philadelphia Flyers,LW,13:49,0,1,4,1,0,0,0,NA,0,0,0,2,0,0,3,1,12:27,0:44,0:38
+2018020774,8476461,Sean Couturier,Philadelphia Flyers,C,20:20,1,0,1,0,0,0,0,61.11,11,18,1,1,0,0,2,1,15:30,2:16,2:34
+2018020774,8473584,Andrew MacDonald,Philadelphia Flyers,D,20:22,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,1,0,17:30,1:00,1:52
+2018020774,8475462,Radko Gudas,Philadelphia Flyers,D,19:19,0,0,5,3,0,0,0,NA,0,0,2,0,0,0,2,0,17:53,0:00,1:26
+2018020774,8477290,Michael Raffl,Philadelphia Flyers,LW,8:01,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,0,0,8:01,0:00,0:00
+2018020774,8474190,Wayne Simmonds,Philadelphia Flyers,RW,15:23,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,1,0,13:07,2:16,0:00

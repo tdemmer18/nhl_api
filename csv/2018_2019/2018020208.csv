@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020208,8476918,Jimmy Vesey,New York Rangers,LW,15:59,0,2,2,0,0,0,0,0,0,1,0,0,0,0,1,13:36,0:53,1:30,NA
+2018020208,8471686,Marc Staal,New York Rangers,D,19:49,0,0,2,2,0,0,0,0,0,1,3,0,0,2,1,15:43,0:00,4:06,NA
+2018020208,8476869,Brady Skjei,New York Rangers,D,24:50,1,0,3,2,0,0,0,0,0,0,0,0,0,5,2,20:50,0:06,3:54,NA
+2018020208,8479968,Vinni Lettieri,New York Rangers,C,10:52,0,0,1,1,0,0,0,2,3,1,1,0,0,0,1,10:52,0:00,0:00,66.67
+2018020208,8471657,Cody McLeod,New York Rangers,LW,7:59,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,7:59,0:00,0:00,NA
+2018020208,8476459,Mika Zibanejad,New York Rangers,C,20:27,1,0,2,2,0,0,0,11,20,2,1,0,0,1,1,17:53,1:14,1:20,55
+2018020208,8475855,Jesper Fast,New York Rangers,RW,16:16,1,0,0,4,0,0,0,0,0,0,0,0,0,1,1,12:27,0:06,3:43,NA
+2018020208,8477950,Tony DeAngelo,New York Rangers,D,22:00,0,0,1,1,0,0,0,0,0,0,0,0,0,1,2,19:41,0:40,1:39,NA
+2018020208,8474031,Kevin Shattenkirk,New York Rangers,D,16:52,0,0,1,2,0,0,0,0,0,0,1,0,0,1,-1,15:46,1:06,0:00,NA
+2018020208,8477402,Pavel Buchnevich,New York Rangers,RW,17:04,0,0,0,4,0,0,0,0,0,2,1,0,0,0,-1,15:50,1:14,0:00,NA
+2018020208,8475763,Kevin Hayes,New York Rangers,C,19:50,0,0,0,0,0,0,0,7,18,2,0,0,0,0,0,14:48,0:46,4:16,38.89
+2018020208,8475184,Chris Kreider,New York Rangers,LW,14:06,0,0,2,2,0,0,0,2,2,0,3,0,0,0,0,12:59,1:07,0:00,100
+2018020208,8479353,Brett Howden,New York Rangers,C,8:02,1,0,1,0,0,0,0,4,8,1,1,0,0,0,1,5:38,0:00,2:24,50
+2018020208,8475692,Mats Zuccarello,New York Rangers,RW,18:15,0,0,1,0,0,0,0,0,0,0,1,0,0,3,1,14:14,1:14,2:47,NA
+2018020208,8474090,Brendan Smith,New York Rangers,D,16:13,0,0,0,2,0,0,4,0,0,1,2,0,0,0,-1,14:43,0:00,1:30,NA
+2018020208,8480078,Filip Chytil,New York Rangers,C,9:53,0,0,2,0,0,0,0,2,5,0,1,0,0,1,-1,9:53,0:00,0:00,40
+2018020208,8476480,Vladislav Namestnikov,New York Rangers,C,14:18,1,0,1,1,0,0,2,0,0,1,1,0,0,1,2,13:38,0:40,0:00,NA
+2018020208,8480145,Neal Pionk,New York Rangers,D,19:15,0,1,3,1,0,0,0,0,0,0,3,0,0,1,1,13:30,0:54,4:51,NA
+2018020208,8469506,Jason Pominville,Buffalo Sabres,RW,17:36,0,0,3,0,0,0,0,0,0,0,1,0,0,0,-2,14:32,3:04,0:00,NA
+2018020208,8475728,Johan Larsson,Buffalo Sabres,C,12:36,0,0,2,1,0,0,0,4,10,0,2,0,0,2,0,11:25,0:00,1:11,40
+2018020208,8474618,Marco Scandella,Buffalo Sabres,D,17:01,0,0,1,2,0,0,0,0,0,2,0,0,0,1,1,15:52,0:00,1:09,NA
+2018020208,8473534,Patrik Berglund,Buffalo Sabres,C,11:23,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,10:57,0:00,0:26,NA
+2018020208,8477839,Conor Sheary,Buffalo Sabres,LW,13:13,0,1,3,0,0,0,0,0,0,0,0,0,0,1,0,10:04,3:09,0:00,NA
+2018020208,8476931,Jake McCabe,Buffalo Sabres,D,18:13,0,0,1,1,0,0,0,0,0,0,0,0,0,2,-1,17:17,0:05,0:51,NA
+2018020208,8473449,Kyle Okposo,Buffalo Sabres,RW,17:46,0,0,4,1,0,0,0,0,1,0,0,0,0,0,0,13:28,4:18,0:00,0
+2018020208,8474567,Zach Bogosian,Buffalo Sabres,D,18:52,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,18:41,0:11,0:00,NA
+2018020208,8479999,Casey Mittelstadt,Buffalo Sabres,C,13:09,0,0,1,0,0,0,0,4,9,0,1,0,0,0,0,10:38,2:31,0:00,44.44
+2018020208,8471743,Vladimir Sobotka,Buffalo Sabres,C,12:41,0,0,0,1,0,0,0,3,4,1,0,0,0,0,0,11:18,1:00,0:23,75
+2018020208,8477933,Sam Reinhart,Buffalo Sabres,C,16:29,0,0,3,0,0,0,0,0,1,0,1,0,0,1,0,11:38,4:51,0:00,0
+2018020208,8476878,Zemgus Girgensons,Buffalo Sabres,C,12:50,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,11:39,0:00,1:11,NA
+2018020208,8477499,Rasmus Ristolainen,Buffalo Sabres,D,25:13,0,0,2,4,0,0,0,0,0,0,2,0,0,0,-2,19:00,5:04,1:09,NA
+2018020208,8478403,Jack Eichel,Buffalo Sabres,C,21:32,0,0,2,3,0,0,0,11,18,0,2,0,0,0,-2,16:15,4:51,0:26,61.11
+2018020208,8475784,Jeff Skinner,Buffalo Sabres,LW,22:14,0,0,5,0,0,0,0,4,7,2,0,0,0,0,-2,17:23,4:51,0:00,57.14
+2018020208,8479268,Casey Nelson,Buffalo Sabres,D,14:10,0,0,1,0,0,0,0,0,0,0,1,0,0,0,-1,13:19,0:00,0:51,NA
+2018020208,8478542,Evan Rodrigues,Buffalo Sabres,LW,16:11,0,0,2,0,0,0,0,2,6,0,0,0,0,0,-1,12:39,3:09,0:23,33.33
+2018020208,8480839,Rasmus Dahlin,Buffalo Sabres,D,18:45,0,0,4,2,0,0,0,0,0,0,1,0,0,1,-1,15:49,2:56,0:00,NA

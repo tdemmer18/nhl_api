@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020174,8470803,Kyle Brodziak,Edmonton Oilers,C,11:00,0,0,0,1,0,0,0,50,3,6,0,0,0,0,2,0,10:02,0:13,0:45
+2018020174,8471729,Kris Russell,Edmonton Oilers,D,19:56,1,0,1,0,0,0,0,NA,0,0,2,1,0,0,4,1,17:56,0:18,1:42
+2018020174,8476915,Jujhar Khaira,Edmonton Oilers,LW,12:57,0,0,0,3,0,0,0,NA,0,0,1,0,0,0,0,1,11:05,0:18,1:34
+2018020174,8476457,Adam Larsson,Edmonton Oilers,D,19:14,0,0,0,8,0,0,0,NA,0,0,1,1,0,0,1,0,17:22,0:10,1:42
+2018020174,8476458,Ryan Strome,Edmonton Oilers,C,15:07,0,0,1,3,0,0,2,50,9,18,1,0,0,0,0,-1,11:54,2:15,0:58
+2018020174,8477934,Leon Draisaitl,Edmonton Oilers,C,20:59,1,1,4,0,0,0,0,56,14,25,0,2,0,0,0,2,13:52,7:07,0:00
+2018020174,8479977,Kailer Yamamoto,Edmonton Oilers,RW,14:31,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,1,11:29,2:35,0:27
+2018020174,8476988,Matt Benning,Edmonton Oilers,D,11:49,1,0,2,1,0,0,0,NA,0,0,0,1,0,0,1,1,11:12,0:00,0:37
+2018020174,8477498,Darnell Nurse,Edmonton Oilers,D,20:23,0,0,3,1,0,0,2,NA,0,0,0,1,0,0,4,0,18:35,0:31,1:17
+2018020174,8475178,Zack Kassian,Edmonton Oilers,RW,11:00,0,0,0,4,0,0,0,0,0,1,1,1,0,0,0,0,10:42,0:18,0:00
+2018020174,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,C,21:42,1,0,5,1,0,0,0,50,1,2,1,1,0,0,0,1,13:51,7:07,0:44
+2018020174,8476356,Tobias Rieder,Edmonton Oilers,RW,13:52,0,0,3,1,0,0,0,0,0,1,1,0,0,0,0,1,10:53,1:24,1:35
+2018020174,8474520,Jason Garrison,Edmonton Oilers,D,13:02,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,10:38,2:12,0:12
+2018020174,8478402,Connor McDavid,Edmonton Oilers,C,22:16,0,1,5,0,0,0,0,63.64,7,11,2,1,0,0,0,2,14:25,7:07,0:44
+2018020174,8479465,Drake Caggiula,Edmonton Oilers,LW,11:34,0,0,1,2,0,0,2,NA,0,0,0,1,0,0,0,-1,11:09,0:00,0:25
+2018020174,8475163,Alex Chiasson,Edmonton Oilers,RW,13:54,0,1,2,0,0,0,0,NA,0,0,2,0,0,0,1,1,11:23,2:31,0:00
+2018020174,8476472,Oscar Klefbom,Edmonton Oilers,D,27:09,1,0,7,2,0,0,0,NA,0,0,0,2,0,0,3,2,17:49,7:38,1:42
+2018020174,8473473,Milan Lucic,Edmonton Oilers,LW,17:45,0,0,2,3,0,0,0,NA,0,0,0,3,0,0,0,-1,11:34,6:11,0:00
+2018020174,8476806,J.T. Brown,Minnesota Wild,RW,6:52,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,-2,6:52,0:00,0:00
+2018020174,8474716,Jared Spurgeon,Minnesota Wild,D,18:41,0,1,1,1,0,0,0,NA,0,0,1,0,0,0,2,1,13:37,0:37,4:27
+2018020174,8470595,Eric Staal,Minnesota Wild,C,18:00,2,1,3,1,1,1,0,45.45,5,11,1,2,0,0,0,0,14:58,2:27,0:35
+2018020174,8470600,Ryan Suter,Minnesota Wild,D,28:35,2,0,2,1,0,2,0,NA,0,0,0,1,0,0,2,-2,21:25,2:48,4:22
+2018020174,8470611,Eric Fehr,Minnesota Wild,C,10:55,0,0,0,1,0,0,2,50,5,10,1,0,0,0,0,-2,7:21,0:00,3:34
+2018020174,8475798,Mikael Granlund,Minnesota Wild,RW,17:05,1,1,2,1,1,1,0,100,1,1,4,0,0,0,0,0,12:25,2:27,2:13
+2018020174,8475722,Jason Zucker,Minnesota Wild,LW,16:35,0,0,6,1,0,0,0,NA,0,0,1,1,0,0,0,1,13:56,2:27,0:12
+2018020174,8475799,Nino Niederreiter,Minnesota Wild,RW,14:28,2,0,4,0,0,1,0,50,1,2,1,1,0,0,0,0,13:19,1:09,0:00
+2018020174,8474688,Greg Pateryn,Minnesota Wild,D,14:31,0,0,0,1,0,0,4,NA,0,0,0,0,0,0,6,-1,12:53,0:00,1:38
+2018020174,8475745,Charlie Coyle,Minnesota Wild,C,17:26,0,0,2,1,0,0,0,83.33,5,6,1,2,0,0,0,-1,12:30,2:27,2:29
+2018020174,8470610,Zach Parise,Minnesota Wild,LW,16:51,0,1,2,2,1,0,0,0,0,1,1,1,0,0,0,1,13:27,1:09,2:15
+2018020174,8476856,Matt Dumba,Minnesota Wild,D,24:10,1,0,1,2,0,1,2,NA,0,0,0,0,0,0,3,-3,19:31,1:09,3:30
+2018020174,8478413,Jordan Greenway,Minnesota Wild,LW,11:54,0,0,0,0,0,0,2,NA,0,0,0,0,0,0,0,0,11:49,0:00,0:05
+2018020174,8476372,Nick Seeler,Minnesota Wild,D,14:13,0,0,1,1,0,0,0,NA,0,0,0,1,0,0,3,0,13:31,0:00,0:42
+2018020174,8475220,Marcus Foligno,Minnesota Wild,LW,11:58,0,0,0,2,0,0,0,100,1,1,0,1,0,0,0,-2,7:45,0:00,4:13
+2018020174,8476463,Jonas Brodin,Minnesota Wild,D,18:04,0,0,0,1,0,0,0,NA,0,0,1,0,0,0,1,0,13:22,0:11,4:31
+2018020174,8478493,Joel Eriksson Ek,Minnesota Wild,C,12:00,0,0,1,2,0,0,0,37.5,3,8,1,0,0,0,0,0,11:22,0:07,0:31
+2018020174,8469459,Mikko Koivu,Minnesota Wild,C,17:42,0,0,1,1,0,0,0,39.13,9,23,0,1,0,0,1,0,14:02,1:02,2:38

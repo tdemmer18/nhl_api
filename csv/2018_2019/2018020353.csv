@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020353,8471724,Kris Letang,Pittsburgh Penguins,D,25:37,3,0,5,1,0,0,0,0,0,3,0,0,0,1,3,22:09,1:54,1:34,NA
+2018020353,8475208,Brian Dumoulin,Pittsburgh Penguins,D,21:14,0,0,2,2,0,0,0,0,0,0,0,0,0,2,2,20:12,0:00,1:02,NA
+2018020353,8473544,Derick Brassard,Pittsburgh Penguins,C,15:44,0,0,2,3,0,0,0,5,16,0,1,0,0,0,-1,15:38,0:06,0:00,31.25
+2018020353,8471675,Sidney Crosby,Pittsburgh Penguins,C,20:36,2,0,1,1,0,0,0,12,22,0,1,0,0,0,2,17:32,1:54,1:10,54.55
+2018020353,8477404,Jake Guentzel,Pittsburgh Penguins,LW,20:30,0,3,4,1,0,0,0,1,2,1,1,0,0,0,2,17:58,1:13,1:19,50
+2018020353,8478866,Dominik Simon,Pittsburgh Penguins,C,15:59,1,0,3,0,0,0,0,0,0,1,1,0,0,0,1,15:59,0:00,0:00,NA
+2018020353,8473548,Phil Kessel,Pittsburgh Penguins,RW,17:39,1,0,4,0,0,0,0,0,0,0,1,0,0,1,1,15:45,1:54,0:00,NA
+2018020353,8475810,Bryan Rust,Pittsburgh Penguins,RW,15:37,0,0,1,2,0,0,2,0,0,1,0,0,0,1,0,15:31,0:06,0:00,NA
+2018020353,8479944,Zach Aston-Reese,Pittsburgh Penguins,C,15:55,0,0,0,3,0,0,0,0,0,0,1,0,0,1,-1,15:08,0:06,0:41,NA
+2018020353,8471215,Evgeni Malkin,Pittsburgh Penguins,C,17:43,1,0,3,0,0,0,0,7,22,0,0,0,0,0,1,15:49,1:54,0:00,31.82
+2018020353,8471677,Jack Johnson,Pittsburgh Penguins,D,18:42,0,0,1,3,0,0,0,0,0,1,0,0,0,2,0,17:38,0:06,0:58,NA
+2018020353,8476871,Tanner Pearson,Pittsburgh Penguins,LW,15:31,0,1,3,3,0,0,0,0,1,0,0,0,0,2,1,14:50,0:41,0:00,0
+2018020353,8475772,Riley Sheahan,Pittsburgh Penguins,C,10:12,0,0,2,1,0,0,0,3,6,1,0,0,0,0,0,9:22,0:00,0:50,50
+2018020353,8478466,Daniel Sprong,Pittsburgh Penguins,RW,7:35,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,7:35,0:00,0:00,0
+2018020353,8476874,Olli Maatta,Pittsburgh Penguins,D,18:35,0,0,1,2,0,0,0,0,0,0,0,0,0,2,-1,18:09,0:00,0:26,NA
+2018020353,8476467,Jamie Oleksiak,Pittsburgh Penguins,D,17:43,0,0,1,3,0,0,0,0,0,0,1,0,0,1,0,17:37,0:06,0:00,NA
+2018020353,8480945,Juuso Riikola,Pittsburgh Penguins,D,16:15,0,0,2,2,0,0,0,0,0,0,1,0,0,0,0,16:15,0:00,0:00,NA
+2018020353,8475253,Garrett Wilson,Pittsburgh Penguins,LW,6:53,0,0,1,4,0,0,0,0,1,1,0,0,0,0,0,6:53,0:00,0:00,0
+2018020353,8477407,Anthony Duclair,Columbus Blue Jackets,LW,14:47,0,0,3,0,0,0,0,0,0,0,1,0,0,1,-1,14:47,0:00,0:00,NA
+2018020353,8478906,Markus Nutivaara,Columbus Blue Jackets,D,13:31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,13:31,0:00,0:00,NA
+2018020353,8473422,Nick Foligno,Columbus Blue Jackets,LW,19:42,1,0,2,7,0,0,2,3,5,0,0,0,0,0,0,18:02,1:40,0:00,60
+2018020353,8474715,Cam Atkinson,Columbus Blue Jackets,RW,20:59,0,1,6,0,0,0,0,0,2,1,0,0,0,1,-1,18:33,2:00,0:26,0
+2018020353,8477505,Alexander Wennberg,Columbus Blue Jackets,C,18:12,0,0,3,1,0,0,0,6,9,0,0,0,0,1,-1,14:49,1:52,1:31,66.67
+2018020353,8476449,Scott Harrington,Columbus Blue Jackets,D,12:24,0,1,1,3,0,0,0,0,0,0,1,0,0,1,0,12:24,0:00,0:00,NA
+2018020353,8476310,Lukas Sedlak,Columbus Blue Jackets,C,6:13,0,0,0,2,0,0,0,1,1,0,1,0,0,0,0,6:13,0:00,0:00,100
+2018020353,8476981,Josh Anderson,Columbus Blue Jackets,RW,15:24,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,14:43,0:20,0:21,NA
+2018020353,8476850,Ryan Murray,Columbus Blue Jackets,D,25:23,0,0,6,0,0,0,0,0,0,0,0,0,0,1,-1,23:29,0:00,1:54,NA
+2018020353,8476432,Boone Jenner,Columbus Blue Jackets,C,16:29,1,0,2,6,0,0,0,12,17,0,0,0,0,1,0,16:00,0:00,0:29,70.59
+2018020353,8475233,David Savard,Columbus Blue Jackets,D,19:41,0,0,2,1,0,0,0,0,0,0,1,0,0,1,-1,19:35,0:00,0:06,NA
+2018020353,8474062,Riley Nash,Columbus Blue Jackets,C,7:01,0,0,0,5,0,0,0,4,7,0,0,0,0,0,0,7:01,0:00,0:00,57.14
+2018020353,8477495,Seth Jones,Columbus Blue Jackets,D,26:43,0,0,6,1,0,0,0,0,0,1,1,0,0,1,-1,22:49,2:00,1:54,NA
+2018020353,8478550,Artemi Panarin,Columbus Blue Jackets,LW,18:56,0,0,1,0,0,0,0,0,0,1,0,0,0,1,-2,16:56,2:00,0:00,NA
+2018020353,8479400,Pierre-Luc Dubois,Columbus Blue Jackets,C,20:10,0,0,0,3,0,0,0,3,12,0,0,0,0,2,-1,18:10,2:00,0:00,25
+2018020353,8471273,Brandon Dubinsky,Columbus Blue Jackets,C,16:38,1,0,0,7,0,0,0,14,18,0,0,0,0,2,0,15:25,0:00,1:13,77.78
+2018020353,8478541,Markus Hannikainen,Columbus Blue Jackets,LW,7:33,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,7:33,0:00,0:00,NA
+2018020353,8478460,Zach Werenski,Columbus Blue Jackets,D,20:26,0,0,3,1,0,0,0,0,0,0,1,0,0,1,1,20:12,0:08,0:06,NA

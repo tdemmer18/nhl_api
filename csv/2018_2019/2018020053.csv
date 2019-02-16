@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020053,8471958,Dan Girardi,Tampa Bay Lightning,D,16:10,0,0,2,1,0,0,0,0,0,0,0,0,0,1,-1,13:09,0:00,3:01,NA
+2018020053,8478519,Anthony Cirelli,Tampa Bay Lightning,C,14:01,0,0,4,1,0,0,2,7,14,1,0,0,0,0,-2,10:56,0:00,3:05,50
+2018020053,8471873,Anton Stralman,Tampa Bay Lightning,D,17:05,0,0,0,2,0,0,0,0,0,2,1,0,0,2,-1,12:33,0:00,4:32,NA
+2018020053,8476826,Yanni Gourde,Tampa Bay Lightning,C,15:06,1,0,1,0,0,0,0,3,4,1,1,0,0,0,0,10:48,3:47,0:31,75
+2018020053,8476468,J.T. Miller,Tampa Bay Lightning,C,15:52,0,0,0,3,0,0,0,3,7,0,0,0,0,0,-2,9:12,6:13,0:27,42.86
+2018020053,8476975,Cedric Paquette,Tampa Bay Lightning,C,9:45,0,0,2,4,0,0,0,5,9,0,0,0,0,1,-1,7:22,0:00,2:23,55.56
+2018020053,8470601,Braydon Coburn,Tampa Bay Lightning,D,13:55,1,0,3,1,0,0,0,0,0,1,0,0,0,1,1,13:00,0:00,0:55,NA
+2018020053,8473986,Alex Killorn,Tampa Bay Lightning,LW,16:48,0,0,2,1,0,0,2,0,0,0,1,0,0,1,-2,11:00,3:47,2:01,NA
+2018020053,8476453,Nikita Kucherov,Tampa Bay Lightning,RW,19:47,0,0,2,0,0,0,0,0,0,1,2,0,0,0,-1,13:34,6:13,0:00,NA
+2018020053,8474870,Tyler Johnson,Tampa Bay Lightning,C,18:24,0,0,3,1,0,0,0,2,6,0,1,0,0,1,1,10:44,4:09,3:31,33.33
+2018020053,8477454,Adam Erne,Tampa Bay Lightning,LW,9:16,0,0,1,2,0,0,0,0,0,0,0,0,0,1,-1,9:16,0:00,0:00,NA
+2018020053,8475167,Victor Hedman,Tampa Bay Lightning,D,23:18,0,0,3,0,0,0,0,0,0,0,0,0,0,2,-2,15:28,4:49,3:01,NA
+2018020053,8474151,Ryan McDonagh,Tampa Bay Lightning,D,23:22,0,0,0,1,0,0,2,0,0,1,2,0,0,0,-2,14:14,5:11,3:57,NA
+2018020053,8474564,Steven Stamkos,Tampa Bay Lightning,C,19:45,0,0,1,1,0,0,0,4,8,1,1,0,0,0,-1,13:18,6:27,0:00,50
+2018020053,8479410,Mikhail Sergachev,Tampa Bay Lightning,D,14:46,0,0,1,1,0,0,0,0,0,0,3,0,0,2,0,14:29,0:17,0:00,NA
+2018020053,8476292,Ondrej Palat,Tampa Bay Lightning,LW,16:15,0,0,1,1,0,0,0,0,0,0,1,0,0,0,-1,12:59,2:43,0:33,NA
+2018020053,8478472,Mathieu Joseph,Tampa Bay Lightning,RW,13:53,0,0,5,1,0,0,2,1,2,1,0,0,0,0,-2,11:33,0:50,1:30,50
+2018020053,8478010,Brayden Point,Tampa Bay Lightning,C,16:26,0,1,3,1,0,0,0,1,2,1,1,0,0,1,0,10:34,5:34,0:18,50
+2018020053,8470626,Loui Eriksson,Vancouver Canucks,LW,13:58,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,11:14,2:44,0:00,NA
+2018020053,8477958,Nikolay Goldobin,Vancouver Canucks,RW,13:43,0,0,1,0,0,0,2,0,0,0,0,0,0,0,1,11:17,2:26,0:00,NA
+2018020053,8477937,Jake Virtanen,Vancouver Canucks,RW,14:08,1,1,2,0,0,0,0,0,0,1,0,0,0,1,2,12:02,2:06,0:00,NA
+2018020053,8477018,Ben Hutton,Vancouver Canucks,D,15:47,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,11:55,0:00,3:52,NA
+2018020053,8471303,Alexander Edler,Vancouver Canucks,D,25:34,0,0,3,0,0,0,0,0,0,1,0,0,0,8,2,15:28,4:11,5:55,NA
+2018020053,8477213,Tim Schaller,Vancouver Canucks,C,13:28,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,8:15,0:00,5:13,NA
+2018020053,8478444,Brock Boeser,Vancouver Canucks,RW,15:24,0,1,4,0,0,0,4,0,2,0,1,0,0,0,0,10:20,5:04,0:00,0
+2018020053,8476884,Derrick Pouliot,Vancouver Canucks,D,17:44,1,0,2,4,0,0,0,0,0,0,1,0,0,0,1,14:16,3:22,0:06,NA
+2018020053,8476466,Sven Baertschi,Vancouver Canucks,LW,14:22,0,0,4,1,0,0,0,0,0,0,1,0,0,0,1,9:49,4:33,0:00,NA
+2018020053,8477500,Bo Horvat,Vancouver Canucks,C,15:35,0,0,3,0,0,0,0,11,14,0,1,0,0,2,0,11:02,4:33,0:00,78.57
+2018020053,8475690,Christopher Tanev,Vancouver Canucks,D,21:10,0,0,1,1,0,0,0,0,0,1,1,0,0,2,1,15:08,0:00,6:02,NA
+2018020053,8475790,Erik Gudbranson,Vancouver Canucks,D,17:52,0,0,0,0,0,0,2,0,0,0,0,0,0,2,1,14:20,0:00,3:32,NA
+2018020053,8476440,Markus Granlund,Vancouver Canucks,C,18:38,0,1,2,0,0,0,0,1,3,1,0,0,0,1,2,11:11,2:40,4:47,33.33
+2018020053,8479442,Troy Stecher,Vancouver Canucks,D,14:15,1,0,1,2,0,0,2,0,0,0,0,0,0,2,1,13:22,0:20,0:33,NA
+2018020053,8477353,Tyler Motte,Vancouver Canucks,C,10:08,0,0,0,6,0,0,0,0,0,0,1,0,0,0,-1,10:08,0:00,0:00,NA
+2018020053,8480012,Elias Pettersson,Vancouver Canucks,C,16:48,0,1,2,1,0,0,0,2,4,2,2,0,0,1,1,11:41,5:07,0:00,50
+2018020053,8474291,Jay Beagle,Vancouver Canucks,C,14:45,0,0,0,0,0,0,0,6,13,0,0,0,0,0,1,9:05,0:00,5:40,46.15
+2018020053,8474091,Brandon Sutter,Vancouver Canucks,C,16:41,0,0,0,1,0,0,0,6,16,0,0,0,0,0,1,11:42,0:39,4:20,37.5

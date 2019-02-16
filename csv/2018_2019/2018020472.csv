@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020472,8476806,J.T. Brown,Minnesota Wild,RW,10:32,0,0,2,3,0,0,10,0,0,1,1,0,0,0,-1,10:32,0:00,0:00,NA
+2018020472,8474716,Jared Spurgeon,Minnesota Wild,D,21:52,1,1,1,2,1,1,0,0,0,1,0,0,0,2,0,20:30,0:40,0:42,NA
+2018020472,8470595,Eric Staal,Minnesota Wild,C,15:46,0,1,3,0,0,0,0,9,18,1,0,0,0,0,1,12:32,3:03,0:11,50
+2018020472,8470600,Ryan Suter,Minnesota Wild,D,23:08,2,0,0,0,0,2,0,0,0,0,1,0,0,2,1,19:16,3:20,0:32,NA
+2018020472,8470611,Eric Fehr,Minnesota Wild,C,10:40,0,0,3,0,0,0,2,3,5,0,1,0,0,1,-1,10:40,0:00,0:00,60
+2018020472,8475798,Mikael Granlund,Minnesota Wild,RW,16:25,3,0,1,1,0,2,0,1,3,0,1,0,0,1,1,12:34,3:09,0:42,33.33
+2018020472,8475722,Jason Zucker,Minnesota Wild,LW,14:08,1,0,3,0,0,1,0,0,0,0,0,0,0,1,1,13:37,0:31,0:00,NA
+2018020472,8475799,Nino Niederreiter,Minnesota Wild,RW,17:14,0,1,3,1,0,0,0,0,1,0,1,0,0,0,1,17:07,0:07,0:00,0
+2018020472,8474688,Greg Pateryn,Minnesota Wild,D,19:05,0,0,2,0,0,0,0,0,0,0,0,0,0,4,0,18:19,0:00,0:46,NA
+2018020472,8475745,Charlie Coyle,Minnesota Wild,C,16:55,1,1,2,0,0,1,0,5,11,0,0,1,0,1,2,15:52,0:31,0:32,45.45
+2018020472,8470610,Zach Parise,Minnesota Wild,LW,18:20,2,1,3,1,1,1,0,0,0,1,0,0,0,0,1,14:28,3:21,0:31,NA
+2018020472,8476856,Matt Dumba,Minnesota Wild,D,19:18,0,2,3,1,2,0,0,0,0,0,1,0,0,0,2,15:52,2:54,0:32,NA
+2018020472,8479316,Luke Kunin,Minnesota Wild,C,14:32,0,0,2,3,0,0,0,1,2,0,0,0,0,1,0,13:46,0:00,0:46,50
+2018020472,8478413,Jordan Greenway,Minnesota Wild,LW,13:35,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,13:35,0:00,0:00,NA
+2018020472,8476372,Nick Seeler,Minnesota Wild,D,16:52,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,16:06,0:00,0:46,NA
+2018020472,8475220,Marcus Foligno,Minnesota Wild,LW,13:22,1,0,1,3,0,0,0,1,1,2,0,0,1,1,0,12:50,0:00,0:32,100
+2018020472,8476463,Jonas Brodin,Minnesota Wild,D,19:25,1,0,2,1,0,0,0,0,0,0,1,0,0,1,1,18:29,0:14,0:42,NA
+2018020472,8478493,Joel Eriksson Ek,Minnesota Wild,C,16:01,0,0,1,1,0,0,0,8,11,0,0,0,0,0,0,15:15,0:00,0:46,72.73
+2018020472,8473507,Jeff Petry,Montréal Canadiens,D,21:24,0,1,2,1,0,0,0,0,0,1,1,0,0,0,-1,18:33,0:50,2:01,NA
+2018020472,8474818,Jordie Benn,Montréal Canadiens,D,15:39,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,13:40,0:00,1:59,NA
+2018020472,8475808,Michael Chaput,Montréal Canadiens,C,13:07,1,0,1,1,0,0,2,2,8,0,1,0,0,1,1,11:53,0:00,1:14,25
+2018020472,8480829,Jesperi Kotkaniemi,Montréal Canadiens,C,12:27,0,0,0,0,0,0,0,9,13,1,0,0,0,2,-1,11:14,1:10,0:03,69.23
+2018020472,8476967,Brett Kulak,Montréal Canadiens,D,23:12,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,21:42,0:00,1:30,NA
+2018020472,8474038,Paul Byron,Montréal Canadiens,LW,12:18,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-2,11:49,0:00,0:29,NA
+2018020472,8475848,Brendan Gallagher,Montréal Canadiens,RW,14:43,0,0,3,1,0,0,2,0,0,0,1,0,0,0,-2,13:43,1:00,0:00,NA
+2018020472,8477503,Max Domi,Montréal Canadiens,LW,15:39,0,0,3,1,0,0,10,1,6,0,1,0,0,0,-1,14:36,1:00,0:03,16.67
+2018020472,8476479,Phillip Danault,Montréal Canadiens,C,19:24,0,0,1,1,0,0,0,9,17,0,0,0,0,0,-2,16:25,0:10,2:49,52.94
+2018020472,8470642,Shea Weber,Montréal Canadiens,D,24:04,0,0,4,2,0,0,2,0,0,0,1,0,0,0,-1,21:32,1:10,1:22,NA
+2018020472,8475844,Kenny Agostino,Montréal Canadiens,LW,14:48,0,0,0,2,0,0,0,1,1,0,0,0,0,0,1,13:45,0:50,0:13,100
+2018020472,8477476,Artturi Lehkonen,Montréal Canadiens,LW,14:20,0,0,1,1,0,0,0,0,0,0,0,0,0,1,-1,12:40,0:10,1:30,NA
+2018020472,8475235,Nicolas Deslauriers,Montréal Canadiens,LW,12:11,0,0,0,1,0,0,5,0,0,0,0,0,0,0,1,12:11,0:00,0:00,NA
+2018020472,8473673,David Schlemko,Montréal Canadiens,D,18:35,0,0,1,0,0,0,0,0,0,1,0,0,0,1,-1,17:19,1:00,0:16,NA
+2018020472,8477494,Jonathan Drouin,Montréal Canadiens,C,16:17,0,0,3,0,0,0,0,0,0,1,0,0,0,0,-1,15:17,1:00,0:00,NA
+2018020472,8478454,Noah Juulsen,Montréal Canadiens,D,16:06,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,16:06,0:00,0:00,NA
+2018020472,8476381,Andrew Shaw,Montréal Canadiens,RW,15:07,1,0,0,3,0,0,12,1,6,0,0,0,0,1,0,14:17,0:50,0:00,16.67
+2018020472,8475193,Tomas Tatar,Montréal Canadiens,LW,17:05,0,0,3,0,0,0,0,1,1,0,0,0,0,0,0,15:28,0:50,0:47,100

@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020328,8471769,Niklas Hjalmarsson,Arizona Coyotes,D,19:23,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,18:13,0:00,1:10,NA
+2018020328,8474613,Derek Stepan,Arizona Coyotes,C,20:03,0,2,3,1,1,0,0,6,19,0,0,0,0,0,-1,15:52,2:46,1:25,31.58
+2018020328,8475209,Richard Panik,Arizona Coyotes,RW,20:27,0,0,0,2,0,0,0,0,0,0,1,0,0,1,-1,16:21,2:32,1:34,NA
+2018020328,8477943,Brendan Perlini,Arizona Coyotes,LW,12:23,0,0,0,0,0,0,0,0,0,0,2,0,0,0,-1,11:30,0:53,0:00,NA
+2018020328,8470755,Brad Richardson,Arizona Coyotes,C,17:36,0,0,0,0,0,0,0,14,19,1,1,0,0,0,0,15:31,0:04,2:01,73.68
+2018020328,8473546,Michael Grabner,Arizona Coyotes,RW,15:32,0,0,1,2,0,0,0,0,0,1,0,0,0,1,0,13:44,0:04,1:44,NA
+2018020328,8476994,Vinnie Hinostroza,Arizona Coyotes,C,15:50,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,14:47,1:03,0:00,NA
+2018020328,8476851,Alex Galchenyuk,Arizona Coyotes,C,16:18,1,0,0,1,0,1,0,6,12,0,0,0,0,1,-1,13:37,2:41,0:00,50
+2018020328,8475246,Kevin Connauton,Arizona Coyotes,D,20:02,0,0,1,1,0,0,0,0,0,0,0,0,0,2,0,17:33,0:04,2:25,NA
+2018020328,8471274,Alex Goligoski,Arizona Coyotes,D,22:05,0,0,2,0,0,0,2,0,0,0,2,0,0,4,0,19:01,1:53,1:11,NA
+2018020328,8478474,Lawson Crouse,Arizona Coyotes,LW,10:32,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,10:04,0:00,0:28,NA
+2018020328,8479345,Jakob Chychrun,Arizona Coyotes,D,20:47,1,0,1,0,0,0,0,0,0,0,1,0,0,4,0,19:41,0:53,0:13,NA
+2018020328,8478440,Dylan Strome,Arizona Coyotes,C,11:58,0,0,2,0,0,0,0,4,7,1,0,0,0,1,0,9:59,1:53,0:06,57.14
+2018020328,8478432,Christian Fischer,Arizona Coyotes,RW,13:18,0,0,0,6,0,0,0,0,0,0,0,0,0,2,-1,11:34,1:44,0:00,NA
+2018020328,8479343,Clayton Keller,Arizona Coyotes,C,20:36,1,0,2,1,0,1,0,1,1,0,0,0,0,1,0,16:59,2:55,0:42,100
+2018020328,8475171,Oliver Ekman-Larsson,Arizona Coyotes,D,26:01,0,0,3,1,0,0,0,0,0,0,1,0,0,1,-3,20:46,3:40,1:35,NA
+2018020328,8476393,Nick Cousins,Arizona Coyotes,C,10:41,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,10:41,0:00,0:00,NA
+2018020328,8480950,Ilya Lyubushkin,Arizona Coyotes,D,14:50,0,0,2,2,0,0,0,0,0,0,0,0,0,1,-1,13:24,0:00,1:26,NA
+2018020328,8468674,Deryk Engelland,Vegas Golden Knights,D,19:40,0,0,2,1,0,0,0,0,0,0,0,0,0,1,1,16:15,0:00,3:25,NA
+2018020328,8471817,Ryan Reaves,Vegas Golden Knights,RW,13:47,0,0,0,6,0,0,0,0,2,0,0,0,0,1,0,11:48,1:59,0:00,0
+2018020328,8476539,Jonathan Marchessault,Vegas Golden Knights,C,18:36,0,0,2,1,0,0,0,2,6,1,0,0,0,0,1,16:39,1:57,0:00,33.33
+2018020328,8476617,Tomas Hyka,Vegas Golden Knights,RW,8:12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8:08,0:04,0:00,NA
+2018020328,8477949,Alex Tuch,Vegas Golden Knights,RW,18:31,1,0,2,2,0,0,0,0,1,1,1,0,0,0,0,16:34,1:57,0:00,0
+2018020328,8475236,Cody Eakin,Vegas Golden Knights,C,21:30,1,0,2,2,0,0,0,8,18,0,0,0,0,0,0,17:19,2:03,2:08,44.44
+2018020328,8477447,Shea Theodore,Vegas Golden Knights,D,19:09,1,0,3,1,0,0,0,0,0,0,0,0,0,0,2,17:16,1:53,0:00,NA
+2018020328,8477931,Tomas Nosek,Vegas Golden Knights,LW,8:38,0,1,3,0,0,0,0,2,2,0,0,0,0,0,1,8:01,0:00,0:37,100
+2018020328,8476525,Colin Miller,Vegas Golden Knights,D,22:08,0,0,1,2,0,0,2,0,0,0,1,0,0,0,0,19:50,2:07,0:11,NA
+2018020328,8474207,Nick Holden,Vegas Golden Knights,D,19:56,0,0,0,2,0,0,0,0,0,0,1,0,0,2,0,18:59,0:00,0:57,NA
+2018020328,8477846,Ryan Carpenter,Vegas Golden Knights,C,8:53,0,0,0,1,0,0,0,2,5,0,0,0,0,1,1,7:46,0:00,1:07,40
+2018020328,8476448,William Karlsson,Vegas Golden Knights,C,21:28,0,0,3,3,0,0,0,9,17,0,2,0,0,1,0,17:46,1:49,1:53,52.94
+2018020328,8475188,Brayden McNabb,Vegas Golden Knights,D,18:26,1,0,0,3,0,0,2,0,0,0,1,0,0,2,0,16:45,0:00,1:41,NA
+2018020328,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,C,14:00,0,0,0,1,0,0,0,4,6,0,0,0,0,1,0,12:24,0:14,1:22,66.67
+2018020328,8477478,William Carrier,Vegas Golden Knights,LW,11:40,0,0,3,7,0,0,2,0,0,1,0,0,0,0,0,11:40,0:00,0:00,NA
+2018020328,8474157,Max Pacioretty,Vegas Golden Knights,LW,18:31,0,2,2,4,0,0,0,0,1,0,1,0,0,0,1,16:23,1:57,0:11,0
+2018020328,8477220,Nate Schmidt,Vegas Golden Knights,D,23:48,0,0,0,2,0,0,0,0,0,0,2,0,0,2,0,18:48,2:03,2:57,NA
+2018020328,8475191,Reilly Smith,Vegas Golden Knights,RW,20:56,1,0,2,1,0,0,0,0,0,0,0,0,0,0,1,17:01,1:57,1:58,NA

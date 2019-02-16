@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020606,8470318,Jonathan Ericsson,Detroit Red Wings,D,22:00,0,0,1,2,0,0,0,0,0,0,3,0,0,2,0,17:19,0:00,4:41,NA
+2018020606,8471716,Justin Abdelkader,Detroit Red Wings,LW,20:21,1,0,0,5,0,0,0,0,0,0,1,0,0,0,1,18:16,0:18,1:47,NA
+2018020606,8474679,Gustav Nyquist,Detroit Red Wings,RW,23:07,0,1,2,0,0,0,0,0,0,0,1,0,0,0,0,20:49,2:18,0:00,NA
+2018020606,8476924,Martin Frk,Detroit Red Wings,RW,3:55,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1,3:55,0:00,0:00,NA
+2018020606,8477946,Dylan Larkin,Detroit Red Wings,C,26:02,1,0,1,0,0,0,0,16,26,0,3,0,0,1,0,23:13,2:26,0:23,61.54
+2018020606,8470144,Frans Nielsen,Detroit Red Wings,C,18:54,1,0,4,0,0,0,0,9,16,0,0,0,0,1,0,14:22,2:08,2:24,56.25
+2018020606,8475324,Nick Jensen,Detroit Red Wings,D,28:21,0,0,0,2,0,0,0,0,0,0,3,0,0,0,-1,23:37,0:07,4:37,NA
+2018020606,8470598,Thomas Vanek,Detroit Red Wings,LW,14:15,0,1,3,0,0,0,2,1,1,0,1,0,0,0,0,12:15,2:00,0:00,100
+2018020606,8476822,Luke Glendening,Detroit Red Wings,C,15:23,0,0,0,2,0,0,0,12,15,1,1,0,0,1,0,12:07,0:00,3:16,80
+2018020606,8474722,Luke Witkowski,Detroit Red Wings,RW,8:52,1,0,0,3,0,0,0,0,0,0,0,0,0,0,1,8:47,0:00,0:05,NA
+2018020606,8479425,Filip Hronek,Detroit Red Wings,D,23:37,0,0,3,2,0,0,0,0,0,0,2,0,0,1,1,20:14,2:00,1:23,NA
+2018020606,8477455,Jacob de la Rose,Detroit Red Wings,C,10:55,0,0,0,3,0,0,0,1,8,0,0,0,0,0,-1,8:01,0:00,2:54,12.5
+2018020606,8476960,Andreas Athanasiou,Detroit Red Wings,C,17:10,0,1,3,0,0,0,0,2,3,0,2,0,0,0,0,15:36,1:34,0:00,66.67
+2018020606,8477479,Tyler Bertuzzi,Detroit Red Wings,LW,16:00,1,0,1,1,0,0,0,2,2,0,0,0,0,1,1,14:26,1:34,0:00,100
+2018020606,8478036,Christoffer Ehn,Detroit Red Wings,C,8:55,0,0,1,1,0,0,0,1,1,0,0,0,0,0,-1,7:39,0:00,1:16,100
+2018020606,8479992,Michael Rasmussen,Detroit Red Wings,C,10:54,0,0,0,2,0,0,2,0,0,0,2,0,0,1,0,9:20,1:34,0:00,NA
+2018020606,8479395,Dennis Cholowski,Detroit Red Wings,D,16:59,0,0,0,1,0,0,0,0,0,0,3,0,0,1,-1,14:51,2:08,0:00,NA
+2018020606,8468509,Niklas Kronwall,Detroit Red Wings,D,23:20,1,0,1,0,0,0,2,0,0,0,1,0,0,1,1,20:13,1:53,1:14,NA
+2018020606,8471735,Keith Yandle,Florida Panthers,D,27:46,0,0,4,0,0,0,0,0,0,0,0,0,0,0,-1,23:04,4:42,0:00,NA
+2018020606,8474149,Evgenii Dadonov,Florida Panthers,RW,22:21,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,18:49,3:32,0:00,NA
+2018020606,8477932,Aaron Ekblad,Florida Panthers,D,29:36,1,0,2,0,0,0,0,0,0,0,4,0,0,0,-1,24:56,1:58,2:42,NA
+2018020606,8476875,Mike Matheson,Florida Panthers,D,20:56,0,0,1,0,0,0,0,0,0,0,0,0,0,4,0,18:12,0:00,2:44,NA
+2018020606,8474884,Mike Hoffman,Florida Panthers,LW,21:10,0,0,2,0,0,0,0,0,1,0,1,0,0,0,-1,15:58,5:12,0:00,0
+2018020606,8471426,Troy Brouwer,Florida Panthers,RW,14:53,0,0,0,1,0,0,0,0,2,1,1,0,0,1,-1,13:12,0:00,1:41,0
+2018020606,8477955,Jared McCann,Florida Panthers,C,17:39,0,1,3,1,0,0,0,6,17,0,1,1,0,0,0,14:47,1:40,1:12,35.29
+2018020606,8474098,Colton Sceviour,Florida Panthers,C,8:25,1,0,1,2,0,0,0,1,4,0,0,0,0,0,1,6:19,0:00,2:06,25
+2018020606,8479404,Henrik Borgstrom,Florida Panthers,C,15:13,0,1,2,1,0,0,0,5,15,0,0,0,0,0,1,14:20,0:48,0:05,33.33
+2018020606,8477963,Jayce Hawryluk,Florida Panthers,C,5:15,0,1,1,3,0,0,2,0,0,0,1,0,0,0,1,5:15,0:00,0:00,NA
+2018020606,8480955,Bogdan Kiselevich,Florida Panthers,D,10:52,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,10:52,0:00,0:00,NA
+2018020606,8478843,Denis Malgin,Florida Panthers,C,13:38,0,0,2,3,0,0,2,3,3,0,0,0,0,0,-1,13:12,0:08,0:18,100
+2018020606,8477996,Juho Lammikko,Florida Panthers,RW,7:49,1,0,0,0,0,0,0,4,8,0,1,0,1,0,2,6:17,0:00,1:32,50
+2018020606,8476456,Jonathan Huberdeau,Florida Panthers,LW,24:14,0,0,1,1,0,0,0,0,0,0,1,0,0,2,-1,20:12,4:02,0:00,NA
+2018020606,8475796,Mark Pysyk,Florida Panthers,D,18:01,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,16:43,0:00,1:18,NA
+2018020606,8477346,MacKenzie Weegar,Florida Panthers,D,13:47,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,11:13,1:18,1:16,NA
+2018020606,8478366,Frank Vatrano,Florida Panthers,C,14:57,1,0,3,0,0,0,0,0,0,0,1,0,0,0,0,12:28,2:28,0:01,NA
+2018020606,8477493,Aleksander Barkov,Florida Panthers,C,24:28,0,0,0,0,0,0,0,9,22,0,1,0,0,1,-2,19:11,4:12,1:05,40.91

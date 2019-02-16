@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020494,8470803,Kyle Brodziak,Edmonton Oilers,C,14:35,0,0,1,2,0,0,0,60,6,10,3,0,0,0,0,0,12:10,0:03,2:22
+2018020494,8475857,Kevin Gravel,Edmonton Oilers,D,16:53,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,0,12:32,0:00,4:21
+2018020494,8476915,Jujhar Khaira,Edmonton Oilers,LW,12:57,0,0,1,6,0,0,0,NA,0,0,0,0,0,0,1,0,10:33,0:00,2:24
+2018020494,8475727,Ryan Spooner,Edmonton Oilers,C,9:18,1,0,0,1,0,0,0,14.29,1,7,0,0,0,0,0,1,8:04,1:14,0:00
+2018020494,8476457,Adam Larsson,Edmonton Oilers,D,25:10,0,1,1,3,0,0,0,NA,0,0,0,1,0,0,1,1,19:18,0:03,5:49
+2018020494,8477934,Leon Draisaitl,Edmonton Oilers,C,21:10,3,0,1,0,0,0,0,28.57,2,7,3,2,0,0,1,2,15:36,2:43,2:51
+2018020494,8476988,Matt Benning,Edmonton Oilers,D,19:40,0,0,0,4,0,0,2,NA,0,0,1,0,0,0,1,2,14:50,1:31,3:19
+2018020494,8477498,Darnell Nurse,Edmonton Oilers,D,27:50,2,0,2,0,0,0,0,NA,0,0,0,0,0,0,2,2,20:19,2:58,4:33
+2018020494,8475178,Zack Kassian,Edmonton Oilers,RW,14:29,0,0,0,2,0,0,0,NA,0,0,2,2,0,0,1,1,11:11,0:03,3:15
+2018020494,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,C,17:44,0,0,2,0,0,0,0,45.45,10,22,0,0,0,0,0,0,11:20,2:26,3:58
+2018020494,8476356,Tobias Rieder,Edmonton Oilers,RW,12:25,0,0,4,1,0,0,0,NA,0,0,2,1,0,0,2,0,8:53,1:14,2:18
+2018020494,8474520,Jason Garrison,Edmonton Oilers,D,16:13,0,0,2,1,0,0,2,NA,0,0,0,0,0,0,1,1,13:13,1:02,1:58
+2018020494,8478402,Connor McDavid,Edmonton Oilers,C,19:16,1,2,2,0,0,0,0,45.45,5,11,3,3,0,0,0,2,15:13,2:43,1:20
+2018020494,8478452,Caleb Jones,Edmonton Oilers,D,11:59,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,3,0,11:59,0:00,0:00
+2018020494,8479465,Drake Caggiula,Edmonton Oilers,LW,9:46,0,0,1,3,0,0,4,NA,0,0,0,0,0,0,1,1,9:46,0:00,0:00
+2018020494,8479344,Jesse Puljujarvi,Edmonton Oilers,RW,11:21,0,0,2,0,0,0,2,NA,0,0,0,0,0,0,1,0,11:21,0:00,0:00
+2018020494,8475163,Alex Chiasson,Edmonton Oilers,RW,18:00,0,1,3,3,0,0,0,NA,0,0,1,1,0,0,0,1,13:45,2:43,1:32
+2018020494,8473473,Milan Lucic,Edmonton Oilers,LW,11:14,0,0,0,7,0,0,0,NA,0,0,0,0,0,0,0,1,9:57,1:17,0:00
+2018020494,8476906,Shayne Gostisbehere,Philadelphia Flyers,D,21:16,0,0,1,1,0,0,0,NA,0,0,0,1,0,0,1,-2,15:30,5:43,0:03
+2018020494,8474668,Dale Weise,Philadelphia Flyers,RW,11:43,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,0,0,9:54,0:11,1:38
+2018020494,8473512,Claude Giroux,Philadelphia Flyers,C,19:56,1,0,4,0,0,0,2,61.54,8,13,2,1,0,0,1,-1,13:06,5:54,0:56
+2018020494,8477948,Travis Sanheim,Philadelphia Flyers,D,14:05,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,3,0,13:43,0:19,0:03
+2018020494,8474037,James van Riemsdyk,Philadelphia Flyers,LW,16:06,0,0,1,0,0,0,0,NA,0,0,1,0,0,0,0,-3,11:25,4:41,0:00
+2018020494,8478439,Travis Konecny,Philadelphia Flyers,RW,17:30,0,0,4,0,0,0,0,NA,0,0,1,0,0,0,0,-2,12:36,4:54,0:00
+2018020494,8478500,Ivan Provorov,Philadelphia Flyers,D,24:54,0,0,2,1,0,0,0,NA,0,0,1,3,0,0,2,-1,18:17,4:24,2:13
+2018020494,8476872,Scott Laughton,Philadelphia Flyers,C,13:06,0,0,5,1,0,0,0,71.43,5,7,0,1,0,0,0,-1,10:26,0:26,2:14
+2018020494,8475321,Phil Varone,Philadelphia Flyers,C,7:21,0,0,0,1,0,0,0,66.67,2,3,0,0,0,0,1,-1,7:21,0:00,0:00
+2018020494,8479974,Nolan Patrick,Philadelphia Flyers,C,14:40,0,0,1,1,0,0,0,37.5,3,8,0,0,0,0,0,0,10:35,4:05,0:00
+2018020494,8474161,Jakub Voracek,Philadelphia Flyers,RW,20:35,1,0,1,0,0,0,0,NA,0,0,2,0,0,0,0,0,15:40,4:55,0:00
+2018020494,8477462,Robert Hagg,Philadelphia Flyers,D,17:20,0,0,0,3,0,0,0,NA,0,0,0,0,0,0,0,0,15:28,0:08,1:44
+2018020494,8478067,Oskar Lindblom,Philadelphia Flyers,LW,11:30,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,1,-1,6:59,4:31,0:00
+2018020494,8476461,Sean Couturier,Philadelphia Flyers,C,23:43,0,1,3,0,0,0,0,56,14,25,0,1,0,0,1,-1,16:03,5:18,2:22
+2018020494,8473584,Andrew MacDonald,Philadelphia Flyers,D,15:25,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,0,-2,13:36,0:05,1:44
+2018020494,8475462,Radko Gudas,Philadelphia Flyers,D,16:46,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,0,14:30,0:03,2:13
+2018020494,8477290,Michael Raffl,Philadelphia Flyers,LW,12:19,0,0,3,3,0,0,0,100,1,1,1,0,0,0,0,0,11:21,0:11,0:47
+2018020494,8474190,Wayne Simmonds,Philadelphia Flyers,RW,18:46,0,0,1,5,0,0,2,NA,0,0,0,1,0,0,0,-1,14:28,4:15,0:03

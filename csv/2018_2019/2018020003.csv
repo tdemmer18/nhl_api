@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020003,8470626,Loui Eriksson,Vancouver Canucks,LW,9:34,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8:14,0:38,0:42,NA
+2018020003,8477958,Nikolay Goldobin,Vancouver Canucks,RW,7:53,1,1,2,0,0,0,0,0,0,0,0,0,0,0,2,7:15,0:38,0:00,NA
+2018020003,8477937,Jake Virtanen,Vancouver Canucks,RW,13:32,0,1,1,3,0,0,2,0,0,1,0,0,0,0,1,13:29,0:03,0:00,NA
+2018020003,8471303,Alexander Edler,Vancouver Canucks,D,23:56,0,0,2,0,0,0,0,0,0,0,1,0,0,5,0,14:50,1:18,7:48,NA
+2018020003,8474584,Michael Del Zotto,Vancouver Canucks,D,22:24,0,0,0,3,0,0,0,0,0,1,0,0,0,2,-1,16:12,0:00,6:12,NA
+2018020003,8478444,Brock Boeser,Vancouver Canucks,RW,14:02,0,0,0,0,0,0,2,0,0,1,2,0,0,0,-2,12:43,1:19,0:00,NA
+2018020003,8476894,Brendan Leipsic,Vancouver Canucks,LW,8:27,0,1,2,0,0,0,2,0,1,0,1,0,0,0,1,7:49,0:38,0:00,0
+2018020003,8476884,Derrick Pouliot,Vancouver Canucks,D,13:16,0,0,1,1,0,0,2,0,0,0,1,0,0,0,4,12:38,0:38,0:00,NA
+2018020003,8476466,Sven Baertschi,Vancouver Canucks,LW,13:12,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-2,11:58,1:14,0:00,NA
+2018020003,8477500,Bo Horvat,Vancouver Canucks,C,13:40,0,0,2,0,0,0,0,9,16,0,1,0,0,2,-2,12:21,1:19,0:00,56.25
+2018020003,8475690,Christopher Tanev,Vancouver Canucks,D,23:18,1,0,0,0,0,0,0,0,0,2,1,0,0,2,1,15:30,0:04,7:44,NA
+2018020003,8475790,Erik Gudbranson,Vancouver Canucks,D,17:24,1,0,1,0,0,0,9,0,0,0,0,0,0,0,3,12:36,0:08,4:40,NA
+2018020003,8476440,Markus Granlund,Vancouver Canucks,C,17:41,1,0,5,1,0,0,0,1,1,1,0,0,0,0,2,9:59,0:38,7:04,100
+2018020003,8479442,Troy Stecher,Vancouver Canucks,D,18:21,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-1,16:45,0:00,1:36,NA
+2018020003,8477353,Tyler Motte,Vancouver Canucks,C,21:45,0,1,2,3,0,0,0,1,1,1,0,0,0,3,2,14:36,0:03,7:06,100
+2018020003,8480012,Elias Pettersson,Vancouver Canucks,C,9:46,1,1,1,0,0,0,0,3,9,0,0,0,0,1,2,8:27,1:19,0:00,33.33
+2018020003,8474291,Jay Beagle,Vancouver Canucks,C,15:06,1,0,2,2,0,0,0,5,12,0,0,0,0,2,1,8:56,0:00,6:10,41.67
+2018020003,8474091,Brandon Sutter,Vancouver Canucks,C,22:43,1,0,1,1,0,0,2,6,19,0,1,0,0,1,2,15:42,0:03,6:58,31.58
+2018020003,8470966,Mark Giordano,Calgary Flames,D,25:46,0,0,5,1,0,0,0,0,0,0,0,0,0,1,-1,17:19,7:27,1:00,NA
+2018020003,8474628,Michael Stone,Calgary Flames,D,12:11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-2,11:11,0:00,1:00,NA
+2018020003,8471707,James Neal,Calgary Flames,LW,16:52,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,11:31,5:21,0:00,NA
+2018020003,8477935,Sam Bennett,Calgary Flames,C,8:47,0,0,3,4,0,0,0,0,0,0,0,0,0,1,-1,7:53,0:08,0:46,NA
+2018020003,8473564,Michael Frolik,Calgary Flames,RW,13:18,0,0,1,1,0,0,0,2,3,0,1,0,0,0,-1,12:49,0:08,0:21,66.67
+2018020003,8474612,Travis Hamonic,Calgary Flames,D,14:35,0,0,0,0,0,0,5,0,0,0,0,0,0,1,0,13:06,0:29,1:00,NA
+2018020003,8479976,Juuso Valimaki,Calgary Flames,D,10:19,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-2,10:19,0:00,0:00,NA
+2018020003,8474673,TJ Brodie,Calgary Flames,D,23:13,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,16:48,6:25,0:00,NA
+2018020003,8479346,Dillon Dube,Calgary Flames,C,9:07,0,0,2,0,0,0,0,0,1,0,0,0,0,0,-1,8:15,0:00,0:52,0
+2018020003,8476873,Mark Jankowski,Calgary Flames,C,8:52,0,0,3,3,0,0,0,4,9,0,0,0,0,0,-1,7:44,0:08,1:00,44.44
+2018020003,8474150,Mikael Backlund,Calgary Flames,C,19:13,0,0,1,2,0,0,0,10,14,0,1,0,0,0,1,13:13,5:39,0:21,71.43
+2018020003,8476346,Johnny Gaudreau,Calgary Flames,LW,23:34,1,0,3,0,0,0,0,0,0,0,0,0,0,0,-2,15:02,8:31,0:01,NA
+2018020003,8479314,Matthew Tkachuk,Calgary Flames,LW,22:19,0,1,3,0,0,0,2,0,0,0,0,0,0,0,0,14:06,8:13,0:00,NA
+2018020003,8478512,Austin Czarnik,Calgary Flames,C,13:09,1,0,1,0,0,0,0,0,4,0,0,0,0,0,1,7:51,5:18,0:00,0
+2018020003,8478396,Noah Hanifin,Calgary Flames,D,19:36,1,0,4,4,0,0,0,0,0,0,2,0,0,1,0,18:28,0:08,1:00,NA
+2018020003,8477497,Sean Monahan,Calgary Flames,C,23:14,0,1,2,0,0,0,0,9,13,0,0,0,0,0,-2,15:00,8:13,0:01,69.23
+2018020003,8478585,Derek Ryan,Calgary Flames,C,14:57,0,0,1,1,0,0,0,8,9,1,0,0,0,0,-1,8:53,6:04,0:00,88.89
+2018020003,8477496,Elias Lindholm,Calgary Flames,C,20:21,0,0,2,0,0,0,0,1,6,0,0,0,0,0,-4,11:55,7:48,0:38,16.67

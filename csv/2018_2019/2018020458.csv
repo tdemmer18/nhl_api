@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020458,8470616,Ryan Kesler,Anaheim Ducks,C,18:53,0,0,1,2,0,0,0,53.33,8,15,1,0,0,0,1,1,14:33,1:04,3:16
+2018020458,8476857,Pontus Aberg,Anaheim Ducks,LW,16:08,0,1,4,1,0,0,0,NA,0,0,1,1,0,0,0,1,15:04,1:04,0:00
+2018020458,8470612,Ryan Getzlaf,Anaheim Ducks,C,20:08,2,0,0,3,0,0,0,60.87,14,23,1,2,0,0,2,0,18:39,0:56,0:33
+2018020458,8477986,Brandon Montour,Anaheim Ducks,D,27:42,1,1,3,0,0,0,2,NA,0,0,1,1,0,0,1,2,24:20,1:21,2:01
+2018020458,8476854,Hampus Lindholm,Anaheim Ducks,D,25:10,0,0,1,1,0,0,2,NA,0,0,1,0,0,0,1,2,23:13,0:39,1:18
+2018020458,8471699,Andrew Cogliano,Anaheim Ducks,LW,14:29,1,0,1,0,0,0,0,NA,0,0,1,0,0,0,1,1,13:30,0:00,0:59
+2018020458,8477009,Jake Dotchin,Anaheim Ducks,D,11:07,0,0,1,1,0,0,0,NA,0,0,0,1,0,0,1,-2,9:44,0:00,1:23
+2018020458,8476207,Brian Gibbons,Anaheim Ducks,C,9:27,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,0,8:11,0:00,1:16
+2018020458,8478466,Daniel Sprong,Anaheim Ducks,RW,16:28,0,0,2,1,0,0,0,NA,0,0,1,1,0,0,0,-1,15:32,0:56,0:00
+2018020458,8477941,Nick Ritchie,Anaheim Ducks,LW,16:54,0,0,2,7,0,0,0,NA,0,0,0,0,0,0,1,1,15:50,1:04,0:00
+2018020458,8476312,Josh Manson,Anaheim Ducks,D,24:45,1,0,2,5,0,0,0,NA,0,0,1,1,0,0,1,0,20:46,0:00,3:59
+2018020458,8474641,Adam Henrique,Anaheim Ducks,C,20:11,0,0,3,0,0,0,0,60,9,15,0,1,0,0,0,0,18:11,0:56,1:04
+2018020458,8480748,Kiefer Sherwood,Anaheim Ducks,RW,7:24,0,1,1,0,0,0,0,NA,0,0,0,3,0,0,0,0,7:24,0:00,0:00
+2018020458,8475164,Jakob Silfverberg,Anaheim Ducks,RW,20:26,0,1,6,1,0,0,0,NA,0,0,0,1,0,0,1,0,17:32,0:56,1:58
+2018020458,8478491,Jacob Larsson,Anaheim Ducks,D,18:30,0,0,3,1,0,0,2,NA,0,0,0,1,0,0,1,0,16:27,0:00,2:03
+2018020458,8477240,Carter Rowney,Anaheim Ducks,RW,9:02,1,0,1,5,0,0,0,66.67,4,6,0,1,0,0,0,0,7:24,0:00,1:38
+2018020458,8478131,Ondrej Kase,Anaheim Ducks,RW,16:42,2,1,3,3,0,0,0,100,1,1,2,1,0,0,1,2,15:38,1:04,0:00
+2018020458,8479372,Josh Mahura,Anaheim Ducks,D,16:15,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,1,-1,16:15,0:00,0:00
+2018020458,8470619,Brian Boyle,New Jersey Devils,C,12:42,1,0,2,3,0,0,0,100,2,2,0,0,0,0,0,0,8:53,2:49,1:00
+2018020458,8476923,Damon Severson,New Jersey Devils,D,23:07,0,1,3,0,1,0,2,NA,0,0,0,0,0,0,1,-3,20:34,2:33,0:00
+2018020458,8471233,Travis Zajac,New Jersey Devils,C,20:22,0,0,1,0,0,0,0,38.1,8,21,1,0,0,0,0,0,16:46,2:36,1:00
+2018020458,8479407,Jesper Bratt,New Jersey Devils,LW,17:09,2,0,1,0,0,1,0,NA,0,0,0,0,0,0,0,0,14:37,2:32,0:00
+2018020458,8473933,Ben Lovejoy,New Jersey Devils,D,13:29,0,0,2,3,0,0,0,NA,0,0,0,1,0,0,0,-2,11:29,0:00,2:00
+2018020458,8477425,Miles Wood,New Jersey Devils,LW,15:05,0,0,3,5,0,0,0,NA,0,0,1,2,0,0,1,-1,15:04,0:01,0:00
+2018020458,8475149,Marcus Johansson,New Jersey Devils,LW,17:28,1,1,4,0,0,1,0,100,1,1,0,2,0,0,0,1,14:56,2:32,0:00
+2018020458,8472382,Andy Greene,New Jersey Devils,D,20:05,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,5,-3,17:51,0:14,2:00
+2018020458,8478401,Pavel Zacha,New Jersey Devils,C,14:03,0,0,1,0,0,0,0,62.5,5,8,0,2,0,0,1,-2,13:02,0:01,1:00
+2018020458,8477355,Will Butcher,New Jersey Devils,D,25:01,0,0,1,1,0,0,0,NA,0,0,0,1,0,0,1,3,22:12,2:49,0:00
+2018020458,8476399,Blake Coleman,New Jersey Devils,C,17:29,0,0,4,3,0,0,0,0,0,2,0,0,0,0,2,-1,16:15,0:14,1:00
+2018020458,8475222,Sami Vatanen,New Jersey Devils,D,25:16,0,0,0,3,0,0,0,NA,0,0,0,1,0,0,3,1,22:44,2:32,0:00
+2018020458,8475151,Kyle Palmieri,New Jersey Devils,RW,20:42,0,2,5,2,0,0,0,25,1,4,0,0,0,0,0,2,17:53,2:49,0:00
+2018020458,8478881,Brett Seney,New Jersey Devils,LW,7:53,0,1,1,0,0,0,0,0,0,4,1,0,0,0,0,0,7:53,0:00,0:00
+2018020458,8475791,Taylor Hall,New Jersey Devils,LW,23:55,1,0,4,2,0,0,0,NA,0,0,3,2,0,0,0,1,21:19,2:36,0:00
+2018020458,8480948,Egor Yakovlev,New Jersey Devils,D,14:13,1,0,1,1,0,0,0,NA,0,0,0,2,0,0,0,0,14:13,0:00,0:00
+2018020458,8476474,Stefan Noesen,New Jersey Devils,RW,5:17,0,0,0,3,0,0,0,50,1,2,0,1,0,0,1,-1,5:17,0:00,0:00
+2018020458,8480002,Nico Hischier,New Jersey Devils,C,21:33,1,0,1,1,0,0,0,37.5,6,16,0,2,0,0,0,1,19:01,2:32,0:00

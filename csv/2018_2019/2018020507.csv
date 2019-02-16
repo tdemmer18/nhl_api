@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020507,8475768,Jaden Schwartz,St. Louis Blues,LW,17:55,0,0,2,0,0,0,0,0,0,2,0,0,0,0,-2,15:47,1:51,0:17,NA
+2018020507,8471761,Chris Butler,St. Louis Blues,D,17:25,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,15:58,0:00,1:27,NA
+2018020507,8476897,Oskar Sundqvist,St. Louis Blues,C,11:15,0,1,2,2,0,0,0,1,3,0,0,0,0,1,1,9:02,0:00,2:13,33.33
+2018020507,8477964,Ivan Barbashev,St. Louis Blues,C,11:10,0,0,0,1,0,0,0,2,8,2,1,0,0,0,-1,8:57,0:00,2:13,25
+2018020507,8475325,Jordan Nolan,St. Louis Blues,C,7:17,1,0,1,1,0,0,12,0,0,0,0,0,0,1,0,7:17,0:00,0:00,NA
+2018020507,8475765,Vladimir Tarasenko,St. Louis Blues,RW,18:07,0,0,3,3,0,0,0,0,0,2,0,0,0,2,-1,16:05,2:02,0:00,NA
+2018020507,8470257,Alexander Steen,St. Louis Blues,LW,17:07,0,0,1,0,0,0,0,0,0,1,1,0,0,2,-1,14:12,2:07,0:48,NA
+2018020507,8478407,Vince Dunn,St. Louis Blues,D,18:13,2,0,1,0,0,0,0,0,0,0,1,0,0,2,2,15:33,1:58,0:42,NA
+2018020507,8475158,Ryan O'Reilly,St. Louis Blues,C,18:29,0,0,1,1,0,0,0,12,23,2,0,0,0,0,-2,15:39,2:02,0:48,52.17
+2018020507,8474102,David Perron,St. Louis Blues,LW,16:20,0,0,1,3,0,0,0,0,0,1,1,0,0,0,-1,14:22,1:58,0:00,NA
+2018020507,8474145,Robert Bortuzzo,St. Louis Blues,D,18:05,0,0,2,1,0,0,0,0,0,0,0,0,0,1,-1,15:32,0:00,2:33,NA
+2018020507,8474034,Pat Maroon,St. Louis Blues,LW,17:04,0,0,2,1,0,0,2,0,0,0,0,0,0,0,-1,14:55,2:09,0:00,NA
+2018020507,8475098,Tyler Bozak,St. Louis Blues,C,16:02,0,1,3,0,0,0,2,3,5,0,0,0,0,0,2,13:22,1:58,0:42,60
+2018020507,8476441,Joel Edmundson,St. Louis Blues,D,19:15,0,0,1,1,0,0,0,0,0,0,0,0,0,2,-1,18:00,0:00,1:15,NA
+2018020507,8470151,Jay Bouwmeester,St. Louis Blues,D,20:04,0,0,4,0,0,0,0,0,0,0,0,0,0,1,-1,17:59,0:02,2:03,NA
+2018020507,8476892,Colton Parayko,St. Louis Blues,D,21:01,0,0,3,1,0,0,0,0,0,2,2,0,0,1,-1,18:59,2:02,0:00,NA
+2018020507,8475170,Brayden Schenn,St. Louis Blues,C,17:29,0,0,1,1,0,0,0,8,19,1,0,0,0,0,-2,15:21,1:51,0:17,42.11
+2018020507,8480023,Robert Thomas,St. Louis Blues,C,16:03,0,0,0,0,0,0,0,1,3,0,1,0,0,0,-1,15:21,0:00,0:42,33.33
+2018020507,8470966,Mark Giordano,Calgary Flames,D,22:53,1,1,3,1,1,1,0,0,0,0,0,0,0,2,1,18:53,1:47,2:13,NA
+2018020507,8471707,James Neal,Calgary Flames,LW,12:56,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,11:45,1:11,0:00,NA
+2018020507,8477903,Garnet Hathaway,Calgary Flames,RW,14:11,0,0,0,3,0,0,0,0,1,0,2,0,0,1,-2,11:49,0:32,1:50,0
+2018020507,8476409,Alan Quine,Calgary Flames,C,11:17,0,2,4,0,1,0,0,1,4,0,1,0,0,1,0,10:47,0:30,0:00,25
+2018020507,8474612,Travis Hamonic,Calgary Flames,D,19:14,0,0,1,0,0,0,0,0,0,2,0,0,0,2,2,17:01,0:00,2:13,NA
+2018020507,8477510,Kerby Rychel,Calgary Flames,LW,9:29,0,0,0,2,0,0,0,0,1,0,0,0,0,0,-1,8:59,0:30,0:00,0
+2018020507,8474673,TJ Brodie,Calgary Flames,D,21:03,1,0,0,0,0,1,0,0,0,2,1,0,0,2,0,19:06,0:10,1:47,NA
+2018020507,8476873,Mark Jankowski,Calgary Flames,C,14:06,1,0,0,0,0,0,0,3,7,0,1,0,0,1,1,10:21,1:43,2:02,42.86
+2018020507,8474150,Mikael Backlund,Calgary Flames,C,18:10,0,0,1,1,0,0,0,7,10,0,0,0,0,0,0,16:27,1:43,0:00,70
+2018020507,8476346,Johnny Gaudreau,Calgary Flames,LW,19:40,1,2,5,0,0,1,0,0,0,0,0,0,0,0,2,17:45,1:47,0:08,NA
+2018020507,8479314,Matthew Tkachuk,Calgary Flames,LW,18:07,1,1,6,0,1,1,2,1,3,1,0,0,0,0,0,16:20,1:47,0:00,33.33
+2018020507,8478512,Austin Czarnik,Calgary Flames,C,11:33,1,0,0,0,0,1,0,0,0,2,0,0,0,2,1,11:03,0:30,0:00,NA
+2018020507,8478397,Rasmus Andersson,Calgary Flames,D,16:21,0,0,2,0,0,0,0,0,0,0,1,0,0,1,0,15:51,0:30,0:00,NA
+2018020507,8478430,Oliver Kylington,Calgary Flames,D,15:57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15:57,0:00,0:00,NA
+2018020507,8478396,Noah Hanifin,Calgary Flames,D,21:00,1,0,3,0,0,0,0,0,0,1,1,0,0,0,0,17:10,2:03,1:47,NA
+2018020507,8477497,Sean Monahan,Calgary Flames,C,18:47,1,0,1,0,0,0,0,4,10,2,0,0,0,0,1,16:52,1:47,0:08,40
+2018020507,8478585,Derek Ryan,Calgary Flames,C,13:21,1,0,0,0,0,0,0,9,13,1,0,0,0,0,0,9:48,1:43,1:50,69.23
+2018020507,8477496,Elias Lindholm,Calgary Flames,C,18:31,2,1,2,0,0,1,0,9,12,4,1,1,0,0,3,14:42,1:47,2:02,75

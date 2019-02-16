@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020015,8477947,Sonny Milano,Columbus Blue Jackets,LW,7:38,0,0,2,1,0,0,0,0,0,0,0,0,0,0,-1,7:38,0:00,0:00,NA
+2018020015,8477407,Anthony Duclair,Columbus Blue Jackets,LW,12:52,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,11:14,1:38,0:00,NA
+2018020015,8478906,Markus Nutivaara,Columbus Blue Jackets,D,18:33,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,18:27,0:06,0:00,NA
+2018020015,8473422,Nick Foligno,Columbus Blue Jackets,LW,18:21,0,0,2,0,0,0,0,3,3,0,0,0,0,1,0,13:59,4:22,0:00,100
+2018020015,8474715,Cam Atkinson,Columbus Blue Jackets,RW,19:03,0,0,4,0,0,0,0,0,0,0,1,0,0,0,-1,14:26,4:22,0:15,NA
+2018020015,8477505,Alexander Wennberg,Columbus Blue Jackets,C,14:23,0,0,0,0,0,0,0,3,7,0,0,0,0,1,-1,12:40,1:38,0:05,42.86
+2018020015,8477416,Oliver Bjorkstrand,Columbus Blue Jackets,RW,10:59,0,0,0,1,0,0,0,1,3,0,1,0,0,0,-1,9:21,1:38,0:00,33.33
+2018020015,8476431,Adam Clendening,Columbus Blue Jackets,D,13:50,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,12:49,0:00,1:01,NA
+2018020015,8476981,Josh Anderson,Columbus Blue Jackets,RW,16:44,0,0,5,0,0,0,0,0,1,2,1,0,0,0,0,15:56,0:00,0:48,0
+2018020015,8476850,Ryan Murray,Columbus Blue Jackets,D,20:19,0,0,0,0,0,0,0,0,0,1,0,0,0,1,-2,17:42,1:38,0:59,NA
+2018020015,8476432,Boone Jenner,Columbus Blue Jackets,C,14:43,0,0,2,1,0,0,0,1,1,0,1,0,0,1,0,12:54,0:51,0:58,100
+2018020015,8475233,David Savard,Columbus Blue Jackets,D,23:10,1,0,3,1,0,0,0,0,0,0,1,0,0,2,0,21:56,0:00,1:14,NA
+2018020015,8478567,Dean Kukan,Columbus Blue Jackets,D,12:12,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,12:12,0:00,0:00,NA
+2018020015,8474062,Riley Nash,Columbus Blue Jackets,C,11:41,0,0,1,1,0,0,0,3,7,1,0,0,0,1,0,10:44,0:00,0:57,42.86
+2018020015,8478550,Artemi Panarin,Columbus Blue Jackets,LW,22:37,0,0,0,0,0,0,0,0,0,0,1,0,0,1,-1,18:15,4:22,0:00,NA
+2018020015,8479400,Pierre-Luc Dubois,Columbus Blue Jackets,C,21:04,0,0,4,3,0,0,2,6,12,1,1,0,0,4,-1,16:42,4:22,0:00,50
+2018020015,8471273,Brandon Dubinsky,Columbus Blue Jackets,C,15:50,0,1,2,1,0,0,0,10,16,1,0,0,0,0,0,14:53,0:00,0:57,62.5
+2018020015,8478460,Zach Werenski,Columbus Blue Jackets,D,25:19,0,0,1,1,0,0,0,0,0,1,1,0,0,1,0,19:30,5:03,0:46,NA
+2018020015,8475907,Micheal Ferland,Carolina Hurricanes,LW,13:34,1,1,6,2,0,0,0,0,0,0,1,0,0,1,1,12:39,0:55,0:00,NA
+2018020015,8476934,Brock McGinn,Carolina Hurricanes,LW,15:25,0,0,0,3,0,0,2,0,1,0,1,0,0,0,0,13:40,0:08,1:37,0
+2018020015,8473533,Jordan Staal,Carolina Hurricanes,C,18:41,0,0,3,3,0,0,0,9,20,0,0,0,0,0,1,14:50,0:57,2:54,45
+2018020015,8476958,Jaccob Slavin,Carolina Hurricanes,D,20:54,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,16:55,0:55,3:04,NA
+2018020015,8477998,Warren Foegele,Carolina Hurricanes,LW,17:34,0,0,2,0,0,0,0,1,1,2,0,0,0,0,0,13:54,0:00,3:40,100
+2018020015,8478427,Sebastian Aho,Carolina Hurricanes,RW,15:15,1,1,2,0,0,0,2,6,12,1,0,0,0,0,1,14:13,0:57,0:05,50
+2018020015,8475753,Justin Faulk,Carolina Hurricanes,D,20:19,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,17:20,1:17,1:42,NA
+2018020015,8477458,Valentin Zykov,Carolina Hurricanes,LW,11:44,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,10:47,0:57,0:00,NA
+2018020015,8476921,Jordan Martinook,Carolina Hurricanes,LW,17:04,0,1,3,2,0,0,0,0,2,1,0,0,0,1,1,13:55,0:08,3:01,0
+2018020015,8477845,Trevor van Riemsdyk,Carolina Hurricanes,D,19:56,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,17:21,0:08,2:27,NA
+2018020015,8477488,Brett Pesce,Carolina Hurricanes,D,19:26,0,0,0,1,0,0,0,0,0,2,0,0,0,2,2,17:11,0:08,2:07,NA
+2018020015,8475177,Calvin de Haan,Carolina Hurricanes,D,20:17,0,0,4,1,0,0,0,0,0,0,0,0,0,1,-1,17:50,0:00,2:27,NA
+2018020015,8478027,Lucas Wallmark,Carolina Hurricanes,C,14:17,0,0,3,0,0,0,0,6,9,0,0,0,0,0,1,13:31,0:08,0:38,66.67
+2018020015,8476882,Teuvo Teravainen,Carolina Hurricanes,LW,14:48,1,0,0,0,0,0,0,0,1,1,2,0,0,1,0,13:46,0:57,0:05,0
+2018020015,8476462,Dougie Hamilton,Carolina Hurricanes,D,18:18,0,0,3,1,0,0,2,0,0,0,0,0,0,1,1,17:30,0:35,0:13,NA
+2018020015,8468508,Justin Williams,Carolina Hurricanes,RW,14:40,0,0,3,1,0,0,0,0,1,1,0,0,0,0,0,13:45,0:55,0:00,0
+2018020015,8480830,Andrei Svechnikov,Carolina Hurricanes,RW,10:43,1,0,0,2,0,0,0,0,0,1,0,0,0,0,1,10:43,0:00,0:00,NA
+2018020015,8480039,Martin Necas,Carolina Hurricanes,C,11:05,0,0,1,0,0,0,0,1,3,0,1,0,0,0,0,10:10,0:55,0:00,33.33

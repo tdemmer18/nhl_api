@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020864,8469506,Jason Pominville,Buffalo Sabres,RW,14:34,0,1,3,0,0,0,0,0,0,0,0,0,0,0,1,14:01,0:33,0:00,NA
+2018020864,8475728,Johan Larsson,Buffalo Sabres,C,17:50,0,1,2,1,0,0,0,6,10,0,0,0,0,1,1,17:50,0:00,0:00,60
+2018020864,8480083,C.J. Smith,Buffalo Sabres,LW,10:39,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,10:39,0:00,0:00,NA
+2018020864,8474618,Marco Scandella,Buffalo Sabres,D,18:29,0,0,0,2,0,0,0,0,0,0,0,0,0,1,1,18:29,0:00,0:00,NA
+2018020864,8477839,Conor Sheary,Buffalo Sabres,LW,15:25,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14:52,0:33,0:00,NA
+2018020864,8471436,Matt Hunwick,Buffalo Sabres,D,18:24,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,18:24,0:00,0:00,NA
+2018020864,8476931,Jake McCabe,Buffalo Sabres,D,18:40,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,18:40,0:00,0:00,NA
+2018020864,8473449,Kyle Okposo,Buffalo Sabres,RW,15:53,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,14:58,0:55,0:00,NA
+2018020864,8471743,Vladimir Sobotka,Buffalo Sabres,C,12:14,0,0,1,1,0,0,0,1,4,0,0,0,0,2,0,12:14,0:00,0:00,25
+2018020864,8477933,Sam Reinhart,Buffalo Sabres,C,18:33,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,17:06,1:27,0:00,NA
+2018020864,8476878,Zemgus Girgensons,Buffalo Sabres,C,16:37,1,0,3,1,0,0,0,0,0,0,1,0,0,1,1,16:37,0:00,0:00,NA
+2018020864,8477499,Rasmus Ristolainen,Buffalo Sabres,D,23:53,0,0,2,1,0,0,0,0,0,0,1,0,0,3,1,23:44,0:09,0:00,NA
+2018020864,8478403,Jack Eichel,Buffalo Sabres,C,17:13,2,0,1,1,0,0,0,6,13,0,2,0,0,2,1,15:46,1:27,0:00,46.15
+2018020864,8475784,Jeff Skinner,Buffalo Sabres,LW,16:11,0,1,2,0,0,0,0,2,2,0,0,0,0,0,1,14:44,1:27,0:00,100
+2018020864,8480935,Lawrence Pilut,Buffalo Sabres,D,18:59,0,0,1,0,0,0,0,0,0,0,1,0,0,2,0,18:59,0:00,0:00,NA
+2018020864,8478542,Evan Rodrigues,Buffalo Sabres,LW,16:02,0,0,1,0,0,0,0,5,11,2,0,0,0,1,0,14:57,1:05,0:00,45.45
+2018020864,8480839,Rasmus Dahlin,Buffalo Sabres,D,19:32,0,0,1,1,0,0,0,0,0,1,0,0,0,1,1,17:41,1:51,0:00,NA
+2018020864,8479420,Tage Thompson,Buffalo Sabres,RW,10:52,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,10:19,0:33,0:00,NA
+2018020864,8474709,Matt Martin,New York Islanders,LW,13:20,1,0,1,4,0,0,0,0,0,0,0,0,0,0,1,13:20,0:00,0:00,NA
+2018020864,8476917,Adam Pelech,New York Islanders,D,19:17,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18:45,0:00,0:32,NA
+2018020864,8477936,Michael Dal Colle,New York Islanders,LW,12:15,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-1,12:15,0:00,0:00,NA
+2018020864,8477506,Ryan Pulock,New York Islanders,D,19:38,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,19:06,0:00,0:32,NA
+2018020864,8476429,Scott Mayfield,New York Islanders,D,17:38,0,0,3,0,0,0,0,0,0,0,2,0,0,1,0,16:10,0:00,1:28,NA
+2018020864,8470047,Valtteri Filppula,New York Islanders,C,16:20,0,0,0,0,0,0,0,4,9,0,0,0,0,0,0,15:41,0:00,0:39,44.44
+2018020864,8470187,Johnny Boychuk,New York Islanders,D,20:57,0,0,3,4,0,0,0,0,0,0,1,0,0,2,-2,19:29,0:00,1:28,NA
+2018020864,8473504,Cal Clutterbuck,New York Islanders,RW,14:38,1,0,2,2,0,0,0,0,0,0,0,0,0,0,1,13:39,0:00,0:59,NA
+2018020864,8475314,Anders Lee,New York Islanders,LW,15:42,0,0,1,2,0,0,0,0,0,0,0,0,0,0,-2,15:42,0:00,0:00,NA
+2018020864,8475754,Brock Nelson,New York Islanders,C,16:42,0,0,4,0,0,0,0,6,10,0,0,0,0,0,-2,15:23,0:00,1:19,60
+2018020864,8478445,Mathew Barzal,New York Islanders,C,17:24,0,0,2,0,0,0,0,4,6,0,0,0,0,0,-1,17:24,0:00,0:00,66.67
+2018020864,8478038,Devon Toews,New York Islanders,D,17:48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,17:48,0:00,0:00,NA
+2018020864,8474573,Josh Bailey,New York Islanders,RW,15:08,0,0,0,0,0,0,0,0,3,0,0,0,0,0,-1,15:08,0:00,0:00,0
+2018020864,8474586,Jordan Eberle,New York Islanders,RW,15:38,0,0,2,0,0,0,0,0,0,0,1,0,0,0,-2,15:38,0:00,0:00,NA
+2018020864,8478463,Anthony Beauvillier,New York Islanders,LW,16:22,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,16:22,0:00,0:00,NA
+2018020864,8473463,Leo Komarov,New York Islanders,RW,15:48,0,0,1,4,0,0,0,2,3,0,0,0,0,0,0,14:45,0:00,1:03,66.67
+2018020864,8475231,Casey Cizikas,New York Islanders,C,11:54,0,1,1,1,0,0,2,4,9,0,0,0,0,0,1,11:54,0:00,0:00,44.44
+2018020864,8475181,Nick Leddy,New York Islanders,D,23:32,0,0,1,2,0,0,0,0,0,0,1,0,0,1,-1,23:32,0:00,0:00,NA

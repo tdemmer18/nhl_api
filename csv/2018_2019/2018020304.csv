@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020304,8475907,Micheal Ferland,Carolina Hurricanes,LW,14:51,0,1,2,3,0,0,0,0,0,1,2,0,0,0,0,12:48,2:03,0:00,NA
+2018020304,8476934,Brock McGinn,Carolina Hurricanes,LW,17:11,1,0,2,0,0,0,0,0,0,1,0,0,0,0,1,14:51,0:09,2:11,NA
+2018020304,8476858,Phillip Di Giuseppe,Carolina Hurricanes,LW,7:41,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,7:41,0:00,0:00,NA
+2018020304,8473533,Jordan Staal,Carolina Hurricanes,C,20:24,1,0,1,7,0,0,0,15,22,0,1,0,0,0,1,15:33,2:13,2:38,68.18
+2018020304,8477938,Haydn Fleury,Carolina Hurricanes,D,14:44,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-1,14:44,0:00,0:00,NA
+2018020304,8476958,Jaccob Slavin,Carolina Hurricanes,D,22:57,0,0,2,1,0,0,0,0,0,1,0,0,0,3,1,19:00,1:47,2:10,NA
+2018020304,8477998,Warren Foegele,Carolina Hurricanes,LW,10:46,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,9:00,0:00,1:46,NA
+2018020304,8478427,Sebastian Aho,Carolina Hurricanes,C,17:53,0,0,1,0,0,0,2,5,14,3,1,0,0,0,0,15:29,2:20,0:04,35.71
+2018020304,8475753,Justin Faulk,Carolina Hurricanes,D,23:59,0,0,2,5,0,0,2,0,0,2,3,0,0,1,1,20:07,2:29,1:23,NA
+2018020304,8476921,Jordan Martinook,Carolina Hurricanes,LW,14:28,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,13:24,0:00,1:04,NA
+2018020304,8477845,Trevor van Riemsdyk,Carolina Hurricanes,D,12:57,0,0,1,0,0,0,0,0,0,2,0,0,0,2,-1,10:47,0:00,2:10,NA
+2018020304,8475177,Calvin de Haan,Carolina Hurricanes,D,23:06,0,0,2,3,0,0,0,0,0,4,0,0,0,2,1,20:40,0:20,2:06,NA
+2018020304,8478027,Lucas Wallmark,Carolina Hurricanes,C,16:25,0,0,2,2,0,0,0,10,20,3,0,0,0,1,0,13:59,1:47,0:39,50
+2018020304,8476882,Teuvo Teravainen,Carolina Hurricanes,LW,16:59,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,14:20,2:29,0:10,0
+2018020304,8478056,Clark Bishop,Carolina Hurricanes,C,6:54,0,0,1,0,0,0,0,2,6,0,0,0,0,0,0,6:54,0:00,0:00,33.33
+2018020304,8476462,Dougie Hamilton,Carolina Hurricanes,D,20:22,1,0,2,6,0,0,0,0,0,2,0,0,0,4,1,17:52,1:47,0:43,NA
+2018020304,8468508,Justin Williams,Carolina Hurricanes,RW,17:03,0,1,4,1,0,0,0,0,0,3,0,0,0,0,1,15:09,1:54,0:00,NA
+2018020304,8480830,Andrei Svechnikov,Carolina Hurricanes,RW,15:20,0,0,1,1,0,0,2,0,0,1,2,0,0,1,0,13:18,2:02,0:00,NA
+2018020304,8476923,Damon Severson,New Jersey Devils,D,22:33,0,0,3,1,0,0,0,0,0,0,1,0,0,2,0,20:20,1:13,1:00,NA
+2018020304,8477509,Mirco Mueller,New Jersey Devils,D,20:28,0,0,0,2,0,0,0,0,0,2,1,0,0,1,-1,17:57,0:00,2:31,NA
+2018020304,8471233,Travis Zajac,New Jersey Devils,C,20:41,0,0,1,3,0,0,0,10,21,0,0,0,0,1,-1,15:09,3:01,2:31,47.62
+2018020304,8479407,Jesper Bratt,New Jersey Devils,LW,11:19,1,0,1,1,0,0,0,0,0,0,3,0,0,1,0,10:04,1:15,0:00,NA
+2018020304,8473933,Ben Lovejoy,New Jersey Devils,D,17:04,0,0,0,2,0,0,2,0,0,0,1,0,0,4,0,14:58,0:00,2:06,NA
+2018020304,8477425,Miles Wood,New Jersey Devils,LW,10:49,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,10:49,0:00,0:00,NA
+2018020304,8475149,Marcus Johansson,New Jersey Devils,LW,14:37,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,13:29,0:56,0:12,0
+2018020304,8472382,Andy Greene,New Jersey Devils,D,21:22,0,0,2,3,0,0,2,0,0,0,1,0,0,4,0,19:01,0:05,2:16,NA
+2018020304,8478401,Pavel Zacha,New Jersey Devils,C,16:56,0,1,4,2,0,0,0,6,13,0,0,0,0,0,0,14:09,1:15,1:32,46.15
+2018020304,8479315,Joey Anderson,New Jersey Devils,RW,14:19,0,0,2,2,0,0,0,0,0,0,0,0,0,1,0,12:47,0:00,1:32,NA
+2018020304,8477355,Will Butcher,New Jersey Devils,D,19:13,0,0,3,0,0,0,0,0,0,1,0,0,0,2,0,15:31,3:03,0:39,NA
+2018020304,8477520,Jean-Sebastien Dea,New Jersey Devils,C,11:41,0,0,3,1,0,0,0,8,13,2,1,0,0,1,0,10:19,1:10,0:12,61.54
+2018020304,8476399,Blake Coleman,New Jersey Devils,C,14:54,0,0,5,3,0,0,0,0,1,1,1,0,0,0,0,12:22,0:00,2:32,0
+2018020304,8475151,Kyle Palmieri,New Jersey Devils,RW,18:30,0,0,2,1,0,0,0,0,0,0,0,0,0,1,-1,15:29,3:01,0:00,NA
+2018020304,8478881,Brett Seney,New Jersey Devils,LW,11:52,0,0,1,0,0,0,0,7,12,1,1,0,0,0,0,11:51,0:00,0:01,58.33
+2018020304,8475791,Taylor Hall,New Jersey Devils,LW,20:20,0,0,2,1,0,0,0,0,0,0,0,0,0,2,-1,17:00,3:20,0:00,NA
+2018020304,8480948,Egor Yakovlev,New Jersey Devils,D,15:04,0,0,1,0,0,0,0,0,0,1,1,0,0,0,-1,15:04,0:00,0:00,NA
+2018020304,8476474,Stefan Noesen,New Jersey Devils,RW,13:23,0,0,3,2,0,0,2,0,2,0,0,0,0,0,0,10:22,3:01,0:00,0

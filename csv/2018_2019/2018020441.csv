@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020441,8473618,Mathieu Perreault,Winnipeg Jets,LW,14:14,0,0,1,3,0,0,0,100,1,1,1,0,0,0,0,0,12:17,1:57,0:00
+2018020441,8471218,Blake Wheeler,Winnipeg Jets,RW,25:40,0,0,3,2,0,0,0,0,0,4,0,1,0,0,1,0,17:28,8:12,0:00
+2018020441,8470834,Dustin Byfuglien,Winnipeg Jets,D,28:56,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,1,0,19:13,8:42,1:01
+2018020441,8478915,Sami Niku,Winnipeg Jets,D,11:36,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,0,0,11:32,0:04,0:00
+2018020441,8473412,Bryan Little,Winnipeg Jets,C,15:14,0,0,2,0,0,0,0,28.57,2,7,0,0,0,0,0,0,13:05,1:53,0:16
+2018020441,8479339,Patrik Laine,Winnipeg Jets,RW,19:33,0,0,1,0,0,0,4,50,1,2,0,0,0,0,0,0,11:04,8:29,0:00
+2018020441,8475179,Dmitry Kulikov,Winnipeg Jets,D,11:40,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,0,11:24,0:00,0:16
+2018020441,8478458,Jack Roslovic,Winnipeg Jets,C,9:34,0,0,0,1,0,0,0,25,1,4,0,0,0,0,0,0,9:34,0:00,0:00
+2018020441,8474574,Tyler Myers,Winnipeg Jets,D,19:41,0,0,2,0,0,0,2,NA,0,0,0,0,0,0,1,0,18:05,1:36,0:00
+2018020441,8475279,Ben Chiarot,Winnipeg Jets,D,17:15,0,0,2,1,0,0,0,NA,0,0,0,2,0,0,0,0,16:14,0:00,1:01
+2018020441,8476885,Jacob Trouba,Winnipeg Jets,D,20:13,0,0,2,1,0,0,0,NA,0,0,0,2,0,0,1,0,18:30,1:27,0:16
+2018020441,8477940,Nikolaj Ehlers,Winnipeg Jets,LW,14:36,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,0,12:36,2:00,0:00
+2018020441,8477962,Brendan Lemieux,Winnipeg Jets,LW,7:47,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,0,0,7:47,0:00,0:00
+2018020441,8476460,Mark Scheifele,Winnipeg Jets,C,26:34,0,0,2,1,0,0,0,41.67,10,24,0,1,0,0,0,0,18:22,8:12,0:00
+2018020441,8478891,Mason Appleton,Winnipeg Jets,C,8:01,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,0,0,8:01,0:00,0:00
+2018020441,8478398,Kyle Connor,Winnipeg Jets,LW,24:03,0,0,2,0,0,0,0,NA,0,0,1,1,0,0,0,0,15:42,8:05,0:16
+2018020441,8476392,Adam Lowry,Winnipeg Jets,C,12:01,0,0,0,2,0,0,0,46.15,6,13,0,1,0,0,0,0,10:56,0:04,1:01
+2018020441,8479293,Brandon Tanev,Winnipeg Jets,LW,12:24,0,0,2,5,0,0,0,NA,0,0,0,0,0,0,2,0,11:19,0:04,1:01
+2018020441,8471761,Chris Butler,St. Louis Blues,D,10:58,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,3,0,10:40,0:03,0:15
+2018020441,8476897,Oskar Sundqvist,St. Louis Blues,C,14:05,0,0,2,0,0,0,0,100,4,4,1,0,0,0,0,0,9:05,0:03,4:57
+2018020441,8477964,Ivan Barbashev,St. Louis Blues,C,15:04,0,0,0,1,0,0,0,33.33,1,3,0,0,0,0,0,0,12:05,0:03,2:56
+2018020441,8475325,Jordan Nolan,St. Louis Blues,C,4:24,0,0,1,1,0,0,2,NA,0,0,0,0,0,0,0,0,4:18,0:06,0:00
+2018020441,8475765,Vladimir Tarasenko,St. Louis Blues,RW,18:15,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,0,17:22,0:52,0:01
+2018020441,8470257,Alexander Steen,St. Louis Blues,LW,18:10,0,0,3,1,0,0,0,NA,0,0,0,1,0,0,0,0,14:55,0:16,2:59
+2018020441,8478407,Vince Dunn,St. Louis Blues,D,11:21,0,0,4,0,0,0,2,NA,0,0,0,3,0,0,1,0,10:14,0:52,0:15
+2018020441,8475158,Ryan O'Reilly,St. Louis Blues,C,21:18,0,0,3,0,0,0,0,69.57,16,23,0,0,0,0,0,0,15:02,0:52,5:24
+2018020441,8474102,David Perron,St. Louis Blues,LW,13:26,1,0,0,1,0,1,2,NA,0,0,0,2,0,0,0,0,12:56,0:22,0:08
+2018020441,8474145,Robert Bortuzzo,St. Louis Blues,D,21:14,0,0,0,3,0,0,2,NA,0,0,0,2,0,0,4,0,14:04,0:00,7:10
+2018020441,8474034,Pat Maroon,St. Louis Blues,LW,12:14,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,1,0,11:19,0:55,0:00
+2018020441,8475098,Tyler Bozak,St. Louis Blues,C,12:21,0,0,3,1,0,0,4,33.33,1,3,0,0,0,0,1,0,9:57,0:58,1:26
+2018020441,8476441,Joel Edmundson,St. Louis Blues,D,24:29,0,0,1,3,0,0,0,NA,0,0,0,1,0,0,4,0,21:39,0:06,2:44
+2018020441,8470151,Jay Bouwmeester,St. Louis Blues,D,25:24,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,3,0,18:06,0:03,7:15
+2018020441,8476892,Colton Parayko,St. Louis Blues,D,25:48,0,1,3,1,1,0,0,NA,0,0,1,2,0,0,1,0,22:47,0:22,2:39
+2018020441,8475170,Brayden Schenn,St. Louis Blues,C,21:36,1,0,1,1,0,1,0,55,11,20,1,0,0,0,2,0,19:15,0:16,2:05
+2018020441,8477482,Zach Sanford,St. Louis Blues,LW,7:38,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,7:38,0:00,0:00
+2018020441,8480023,Robert Thomas,St. Louis Blues,C,10:15,0,0,1,0,0,0,2,50,1,2,0,0,0,0,2,0,9:37,0:16,0:22

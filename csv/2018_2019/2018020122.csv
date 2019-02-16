@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020122,8476918,Jimmy Vesey,New York Rangers,LW,14:56,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,10:27,2:25,2:04,NA
+2018020122,8471717,Adam McQuaid,New York Rangers,D,17:24,1,0,0,1,0,0,0,0,0,0,0,0,1,4,1,15:44,0:00,1:40,NA
+2018020122,8471686,Marc Staal,New York Rangers,D,19:51,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,15:34,0:25,3:52,NA
+2018020122,8476869,Brady Skjei,New York Rangers,D,23:26,1,0,1,4,0,0,0,0,0,0,0,0,0,2,1,21:13,0:11,2:02,NA
+2018020122,8475727,Ryan Spooner,New York Rangers,C,8:07,0,0,0,2,0,0,0,4,5,0,0,0,0,1,-1,7:51,0:16,0:00,80
+2018020122,8471657,Cody McLeod,New York Rangers,LW,5:35,0,0,1,2,0,0,0,0,0,0,0,0,0,1,-1,5:35,0:00,0:00,NA
+2018020122,8476459,Mika Zibanejad,New York Rangers,C,19:31,2,2,5,4,1,1,2,13,21,0,3,1,0,1,2,12:19,5:36,1:36,61.9
+2018020122,8475855,Jesper Fast,New York Rangers,RW,17:04,1,0,0,2,0,0,2,0,0,0,2,0,0,1,1,14:51,0:25,1:48,NA
+2018020122,8474031,Kevin Shattenkirk,New York Rangers,D,16:34,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,14:17,2:17,0:00,NA
+2018020122,8477402,Pavel Buchnevich,New York Rangers,RW,17:15,0,0,2,3,0,0,0,0,1,1,2,0,0,0,0,11:48,5:27,0:00,0
+2018020122,8475763,Kevin Hayes,New York Rangers,C,19:33,0,1,3,1,0,0,0,6,15,2,1,0,0,1,1,14:40,2:12,2:41,40
+2018020122,8475184,Chris Kreider,New York Rangers,LW,17:27,1,0,2,2,0,1,0,0,1,1,1,0,0,0,2,12:04,5:23,0:00,0
+2018020122,8479353,Brett Howden,New York Rangers,C,15:06,0,0,0,1,0,0,0,7,12,1,0,0,0,0,0,11:54,2:01,1:11,58.33
+2018020122,8475692,Mats Zuccarello,New York Rangers,RW,19:46,0,2,2,3,1,0,0,0,0,1,0,0,0,2,1,12:14,5:27,2:05,NA
+2018020122,8474090,Brendan Smith,New York Rangers,D,9:23,0,0,1,0,0,0,17,0,0,0,1,0,0,0,0,9:23,0:00,0:00,NA
+2018020122,8480078,Filip Chytil,New York Rangers,C,16:58,0,0,2,1,0,0,0,1,2,0,3,0,0,0,0,14:46,2:12,0:00,50
+2018020122,8476480,Vladislav Namestnikov,New York Rangers,C,9:25,0,0,0,0,0,0,0,0,1,0,0,0,0,1,-1,8:46,0:16,0:23,0
+2018020122,8480145,Neal Pionk,New York Rangers,D,25:51,2,0,1,1,0,2,0,0,0,2,1,0,0,1,1,15:50,5:47,4:14,NA
+2018020122,8471735,Keith Yandle,Florida Panthers,D,24:43,0,0,3,1,0,0,0,0,0,0,2,0,0,2,-1,17:37,4:20,2:46,NA
+2018020122,8474149,Evgenii Dadonov,Florida Panthers,RW,18:56,1,0,1,1,0,1,0,0,0,0,0,0,0,0,-3,14:56,4:00,0:00,NA
+2018020122,8477932,Aaron Ekblad,Florida Panthers,D,20:18,1,0,2,2,0,0,0,0,0,1,0,0,0,1,-1,15:27,1:34,3:17,NA
+2018020122,8476875,Mike Matheson,Florida Panthers,D,19:38,0,0,1,0,0,0,0,0,0,2,0,0,0,2,-1,15:44,0:00,3:54,NA
+2018020122,8474884,Mike Hoffman,Florida Panthers,LW,16:21,0,1,7,4,0,0,0,0,1,1,0,0,0,0,0,14:11,2:01,0:09,0
+2018020122,8475755,Alexander Petrovic,Florida Panthers,D,19:02,0,0,2,5,0,0,2,0,0,0,0,0,0,1,1,16:50,0:00,2:12,NA
+2018020122,8477955,Jared McCann,Florida Panthers,C,14:21,0,0,1,3,0,0,0,4,15,0,1,0,0,2,0,11:25,0:00,2:56,26.67
+2018020122,8474098,Colton Sceviour,Florida Panthers,C,12:07,0,0,5,1,0,0,0,0,0,0,1,0,0,1,0,8:17,0:00,3:50,NA
+2018020122,8475760,Nick Bjugstad,Florida Panthers,C,15:04,0,0,1,1,0,0,0,1,3,0,0,0,0,1,-1,13:03,2:01,0:00,33.33
+2018020122,8476389,Vincent Trocheck,Florida Panthers,C,22:37,0,1,4,4,1,0,2,9,17,1,1,0,0,1,-1,15:52,3:53,2:52,52.94
+2018020122,8480955,Bogdan Kiselevich,Florida Panthers,D,14:25,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,12:04,0:00,2:21,NA
+2018020122,8478843,Denis Malgin,Florida Panthers,C,10:50,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,9:04,1:46,0:00,NA
+2018020122,8477996,Juho Lammikko,Florida Panthers,RW,10:35,0,0,0,0,0,0,0,4,6,0,0,0,0,1,0,6:55,0:06,3:34,66.67
+2018020122,8476456,Jonathan Huberdeau,Florida Panthers,LW,16:27,2,0,2,2,0,1,2,0,0,1,4,0,0,0,-1,12:19,4:08,0:00,NA
+2018020122,8477346,MacKenzie Weegar,Florida Panthers,D,13:46,0,0,1,0,0,0,0,0,0,0,1,0,0,2,0,12:08,0:00,1:38,NA
+2018020122,8479553,Maxim Mamin,Florida Panthers,C,8:16,0,0,4,3,0,0,5,0,0,0,0,0,0,0,0,8:03,0:13,0:00,NA
+2018020122,8478366,Frank Vatrano,Florida Panthers,C,14:29,0,0,2,1,0,0,2,0,0,1,0,0,0,2,0,12:48,1:41,0:00,NA
+2018020122,8477493,Aleksander Barkov,Florida Panthers,C,20:50,0,0,1,0,0,0,0,9,16,3,0,0,0,0,-3,14:16,3:47,2:47,56.25

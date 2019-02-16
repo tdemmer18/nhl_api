@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020527,8470604,Jeff Carter,Los Angeles Kings,C,18:11,0,0,1,1,0,0,0,33.33,3,9,1,1,0,0,0,-1,14:42,2:29,1:00
+2018020527,8470606,Dustin Brown,Los Angeles Kings,RW,22:07,1,0,3,1,0,0,0,NA,0,0,1,2,0,0,0,2,17:06,2:32,2:29
+2018020527,8471685,Anze Kopitar,Los Angeles Kings,C,23:49,1,0,3,0,0,0,0,69.57,16,23,1,3,0,0,3,2,19:04,2:43,2:02
+2018020527,8477957,Nikita Scherbak,Los Angeles Kings,RW,3:39,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,3:39,0:00,0:00
+2018020527,8475726,Tyler Toffoli,Los Angeles Kings,RW,18:15,0,0,6,0,0,0,0,NA,0,0,0,0,0,0,1,-1,15:02,2:40,0:33
+2018020527,8470775,Nate Thompson,Los Angeles Kings,C,16:51,0,1,1,1,0,0,0,40,2,5,0,0,0,0,1,2,15:24,0:13,1:14
+2018020527,8477960,Adrian Kempe,Los Angeles Kings,C,16:13,0,0,1,0,0,0,2,37.5,3,8,0,1,0,0,0,-1,14:38,1:35,0:00
+2018020527,8476894,Brendan Leipsic,Los Angeles Kings,LW,11:20,0,0,3,1,0,0,0,NA,0,0,0,0,0,0,2,0,9:50,1:30,0:00
+2018020527,8478455,Austin Wagner,Los Angeles Kings,LW,8:00,0,2,2,1,0,0,0,NA,0,0,0,0,0,0,0,2,7:47,0:13,0:00
+2018020527,8474162,Jake Muzzin,Los Angeles Kings,D,19:08,0,0,3,1,0,0,2,NA,0,0,0,0,0,0,1,0,17:14,1:15,0:39
+2018020527,8474563,Drew Doughty,Los Angeles Kings,D,29:15,1,0,0,1,0,0,0,NA,0,0,0,1,0,0,4,2,23:23,2:50,3:02
+2018020527,8475762,Derek Forbort,Los Angeles Kings,D,24:23,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,2,2,21:23,0:14,2:46
+2018020527,8479644,Matt Luff,Los Angeles Kings,RW,11:20,1,0,2,0,0,0,0,NA,0,0,0,1,0,0,1,2,10:12,1:08,0:00
+2018020527,8480771,Daniel Brickley,Los Angeles Kings,D,13:53,1,0,1,0,0,0,0,NA,0,0,0,1,0,0,2,1,12:51,0:11,0:51
+2018020527,8478020,Michael Amadio,Los Angeles Kings,C,12:10,0,0,1,1,0,0,0,40,2,5,1,1,0,0,1,1,11:57,0:13,0:00
+2018020527,8480113,Alex Iafallo,Los Angeles Kings,LW,15:55,0,1,2,0,0,0,0,NA,0,0,0,0,0,0,0,1,13:33,1:08,1:14
+2018020527,8480147,Oscar Fantenberg,Los Angeles Kings,D,14:55,0,0,1,0,0,0,0,NA,0,0,0,3,0,0,0,1,13:30,0:11,1:14
+2018020527,8480336,Sean Walker,Los Angeles Kings,D,15:01,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,0,0,14:46,0:15,0:00
+2018020527,8473618,Mathieu Perreault,Winnipeg Jets,LW,12:51,0,1,1,2,0,0,0,NA,0,0,0,0,0,0,0,-1,11:37,1:14,0:00
+2018020527,8471218,Blake Wheeler,Winnipeg Jets,RW,23:21,0,0,3,1,0,0,2,NA,0,0,1,0,0,0,0,-1,19:10,3:02,1:09
+2018020527,8470834,Dustin Byfuglien,Winnipeg Jets,D,25:44,0,0,1,0,0,0,0,NA,0,0,0,2,0,0,0,-2,21:20,3:02,1:22
+2018020527,8473412,Bryan Little,Winnipeg Jets,C,14:04,1,0,0,1,0,0,0,77.78,7,9,0,0,0,0,0,0,11:45,1:14,1:05
+2018020527,8479339,Patrik Laine,Winnipeg Jets,RW,17:49,0,0,5,0,0,0,0,NA,0,0,0,2,0,0,0,-1,14:47,3:02,0:00
+2018020527,8477504,Josh Morrissey,Winnipeg Jets,D,20:35,1,0,1,1,0,0,2,NA,0,0,0,0,0,0,0,0,17:42,1:14,1:39
+2018020527,8475179,Dmitry Kulikov,Winnipeg Jets,D,11:47,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,2,-1,11:33,0:00,0:14
+2018020527,8478458,Jack Roslovic,Winnipeg Jets,C,8:48,0,0,0,0,0,0,0,57.14,4,7,0,0,0,0,0,0,8:48,0:00,0:00
+2018020527,8474574,Tyler Myers,Winnipeg Jets,D,18:18,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,0,-1,15:40,1:14,1:24
+2018020527,8475279,Ben Chiarot,Winnipeg Jets,D,15:12,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,1,-1,14:31,0:00,0:41
+2018020527,8476885,Jacob Trouba,Winnipeg Jets,D,22:49,0,0,4,2,0,0,0,NA,0,0,0,2,0,0,3,0,19:37,0:00,3:12
+2018020527,8477940,Nikolaj Ehlers,Winnipeg Jets,LW,21:13,0,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,-1,19:53,1:14,0:06
+2018020527,8477962,Brendan Lemieux,Winnipeg Jets,LW,7:18,0,0,0,3,0,0,0,NA,0,0,0,0,0,0,1,0,7:18,0:00,0:00
+2018020527,8476460,Mark Scheifele,Winnipeg Jets,C,25:19,0,0,1,0,0,0,0,25,6,24,1,0,0,0,1,-1,21:16,3:02,1:01
+2018020527,8478891,Mason Appleton,Winnipeg Jets,C,6:33,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,6:33,0:00,0:00
+2018020527,8478398,Kyle Connor,Winnipeg Jets,LW,19:17,0,0,3,0,0,0,0,NA,0,0,0,1,0,0,0,-2,15:10,3:02,1:05
+2018020527,8476392,Adam Lowry,Winnipeg Jets,C,13:14,0,0,2,5,0,0,0,70,7,10,0,0,0,0,0,-2,11:04,0:00,2:10
+2018020527,8479293,Brandon Tanev,Winnipeg Jets,LW,12:22,0,0,1,3,0,0,0,NA,0,0,0,0,0,0,0,-2,10:26,0:00,1:56

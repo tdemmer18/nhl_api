@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020829,8476919,Chris Tierney,Ottawa Senators,C,14:51,2,0,1,0,0,0,0,40,2,5,0,2,0,0,1,3,11:44,0:04,3:03
+2018020829,8476879,Cody Ceci,Ottawa Senators,D,22:29,2,0,0,2,0,0,0,NA,0,0,1,0,0,0,1,2,18:18,0:04,4:07
+2018020829,8476419,Jean-Gabriel Pageau,Ottawa Senators,C,18:32,0,0,0,1,0,0,0,50,4,8,0,1,0,0,3,1,14:22,0:00,4:10
+2018020829,8475913,Mark Stone,Ottawa Senators,RW,18:38,1,1,6,0,0,0,0,NA,0,0,1,0,0,0,0,2,16:33,1:50,0:15
+2018020829,8474697,Mark Borowiecki,Ottawa Senators,D,16:29,0,0,0,8,0,0,0,NA,0,0,0,1,0,0,2,0,14:43,0:00,1:46
+2018020829,8471676,Bobby Ryan,Ottawa Senators,RW,16:04,0,0,3,1,0,0,2,NA,0,0,0,0,0,0,3,0,14:08,1:56,0:00
+2018020829,8476288,Ryan Dzingel,Ottawa Senators,LW,15:57,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,14:01,1:56,0:00
+2018020829,8478400,Colin White,Ottawa Senators,C,16:29,1,0,0,0,0,0,2,41.67,5,12,0,0,0,0,0,1,16:19,0:10,0:00
+2018020829,8478268,Jack Rodewald,Ottawa Senators,RW,3:22,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,2,0,3:22,0:00,0:00
+2018020829,8480801,Brady Tkachuk,Ottawa Senators,LW,14:25,0,1,4,3,0,0,2,100,1,1,0,0,0,0,2,1,14:21,0:04,0:00
+2018020829,8474250,Zack Smith,Ottawa Senators,LW,15:51,0,0,1,2,0,0,0,12.5,1,8,0,0,0,0,0,0,14:01,0:00,1:50
+2018020829,8478469,Thomas Chabot,Ottawa Senators,D,23:16,2,0,4,1,0,0,0,NA,0,0,0,2,0,0,1,3,21:01,1:56,0:19
+2018020829,8475168,Matt Duchene,Ottawa Senators,C,16:50,0,2,5,2,0,0,0,41.67,5,12,0,0,0,0,0,2,14:54,1:56,0:00
+2018020829,8474597,Cody Goloubef,Ottawa Senators,D,13:20,0,0,1,3,0,0,0,NA,0,0,0,1,0,0,4,0,13:20,0:00,0:00
+2018020829,8478870,Rudolfs Balcers,Ottawa Senators,LW,9:05,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,1,9:05,0:00,0:00
+2018020829,8475175,Magnus Paajarvi,Ottawa Senators,LW,15:52,0,0,5,2,0,0,0,NA,0,0,1,0,0,0,2,0,13:10,0:00,2:42
+2018020829,8479320,Maxime Lajoie,Ottawa Senators,D,19:48,0,0,1,2,0,0,0,NA,0,0,0,2,0,0,2,1,15:49,0:04,3:55
+2018020829,8476331,Dylan DeMelo,Ottawa Senators,D,22:42,0,0,1,3,0,0,0,NA,0,0,0,0,0,0,2,2,20:49,0:00,1:53
+2018020829,8470616,Ryan Kesler,Anaheim Ducks,C,13:32,0,0,2,1,0,0,0,50,5,10,0,0,0,0,1,-2,12:13,0:00,1:19
+2018020829,8476913,Devin Shore,Anaheim Ducks,C,13:18,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,1,-3,11:36,1:42,0:00
+2018020829,8475764,Cam Fowler,Anaheim Ducks,D,22:22,0,0,5,0,0,0,2,NA,0,0,0,2,0,0,0,-1,18:36,3:46,0:00
+2018020829,8470612,Ryan Getzlaf,Anaheim Ducks,C,21:29,0,0,2,2,0,0,0,50,9,18,0,1,0,0,0,-2,17:11,4:18,0:00
+2018020829,8477986,Brandon Montour,Anaheim Ducks,D,25:48,0,0,0,1,0,0,0,NA,0,0,1,1,0,0,3,-1,21:38,2:14,1:56
+2018020829,8476854,Hampus Lindholm,Anaheim Ducks,D,24:41,0,0,6,1,0,0,0,NA,0,0,0,0,0,0,3,-1,22:45,0:00,1:56
+2018020829,8470621,Corey Perry,Anaheim Ducks,RW,20:16,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,-2,15:58,4:18,0:00
+2018020829,8476207,Brian Gibbons,Anaheim Ducks,LW,9:14,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,9:14,0:00,0:00
+2018020829,8478466,Daniel Sprong,Anaheim Ducks,RW,16:25,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,0,-1,14:43,1:42,0:00
+2018020829,8474683,Derek Grant,Anaheim Ducks,C,11:28,0,0,3,0,0,0,0,100,7,7,0,0,0,0,0,-1,10:55,0:00,0:33
+2018020829,8474584,Michael Del Zotto,Anaheim Ducks,D,13:19,0,0,1,0,0,0,0,NA,0,0,0,2,0,0,0,-2,13:15,0:00,0:04
+2018020829,8477941,Nick Ritchie,Anaheim Ducks,LW,18:57,0,0,4,0,0,0,0,NA,0,0,0,0,0,0,1,0,14:35,4:18,0:04
+2018020829,8476312,Josh Manson,Anaheim Ducks,D,17:06,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,2,-1,16:59,0:03,0:04
+2018020829,8474641,Adam Henrique,Anaheim Ducks,C,17:33,0,0,4,3,0,0,0,66.67,6,9,0,0,0,0,2,0,14:01,3:28,0:04
+2018020829,8476483,Rickard Rakell,Anaheim Ducks,LW,21:19,0,0,2,4,0,0,0,NA,0,0,0,2,0,0,0,-1,16:47,4:32,0:00
+2018020829,8475164,Jakob Silfverberg,Anaheim Ducks,RW,15:00,0,0,3,1,0,0,0,NA,0,0,0,0,0,0,1,-2,11:58,1:39,1:23
+2018020829,8477034,Jaycob Megna,Anaheim Ducks,D,9:20,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,-1,9:20,0:00,0:00
+2018020829,8477240,Carter Rowney,Anaheim Ducks,C,11:32,0,0,3,5,0,0,0,66.67,2,3,0,2,0,0,0,0,10:55,0:00,0:37

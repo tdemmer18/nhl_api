@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020763,8470966,Mark Giordano,Calgary Flames,D,25:45,0,0,1,0,0,0,0,0,0,1,0,0,0,0,-1,20:49,4:08,0:48,NA
+2018020763,8471707,James Neal,Calgary Flames,LW,16:26,0,0,3,0,0,0,0,0,0,0,1,0,0,1,0,15:08,1:18,0:00,NA
+2018020763,8477903,Garnet Hathaway,Calgary Flames,RW,8:35,1,0,2,3,0,0,0,0,0,0,0,0,0,1,1,8:22,0:00,0:13,NA
+2018020763,8477935,Sam Bennett,Calgary Flames,C,16:24,0,0,0,1,0,0,0,0,2,0,1,0,0,1,0,14:32,1:52,0:00,0
+2018020763,8473564,Michael Frolik,Calgary Flames,RW,15:24,0,0,2,1,0,0,0,0,0,0,2,0,0,1,-1,14:51,0:02,0:31,NA
+2018020763,8474612,Travis Hamonic,Calgary Flames,D,22:48,0,0,0,0,0,0,0,0,0,0,3,0,0,5,-1,21:36,0:24,0:48,NA
+2018020763,8474673,TJ Brodie,Calgary Flames,D,20:31,2,0,1,0,0,0,0,0,0,1,3,0,0,0,1,19:12,1:04,0:15,NA
+2018020763,8476873,Mark Jankowski,Calgary Flames,C,13:02,0,1,1,2,0,0,0,5,9,0,1,0,0,1,1,12:20,0:00,0:42,55.56
+2018020763,8474150,Mikael Backlund,Calgary Flames,C,15:59,1,1,2,0,0,0,0,12,16,0,1,0,0,1,2,15:19,0:02,0:38,75
+2018020763,8476346,Johnny Gaudreau,Calgary Flames,LW,20:02,0,0,1,0,0,0,0,0,0,1,3,0,0,0,-1,15:54,4:08,0:00,NA
+2018020763,8479314,Matthew Tkachuk,Calgary Flames,LW,14:34,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,11:14,3:20,0:00,NA
+2018020763,8478397,Rasmus Andersson,Calgary Flames,D,15:39,1,0,4,1,0,0,0,0,0,1,0,0,0,1,2,13:34,1:42,0:23,NA
+2018020763,8478430,Oliver Kylington,Calgary Flames,D,11:13,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,11:01,0:12,0:00,NA
+2018020763,8478396,Noah Hanifin,Calgary Flames,D,20:59,0,0,1,1,0,0,0,0,0,1,0,0,0,0,-1,20:19,0:02,0:38,NA
+2018020763,8477497,Sean Monahan,Calgary Flames,C,18:26,0,0,1,0,0,0,2,7,11,0,3,0,0,2,-2,14:54,3:32,0:00,63.64
+2018020763,8478585,Derek Ryan,Calgary Flames,C,13:46,0,0,3,0,0,0,2,4,8,0,0,0,0,0,1,11:06,2:27,0:13,50
+2018020763,8477496,Elias Lindholm,Calgary Flames,C,19:12,1,0,1,0,0,0,0,10,17,1,1,0,0,3,-1,15:40,2:57,0:35,58.82
+2018020763,8478233,Andrew Mangiapane,Calgary Flames,LW,8:00,0,0,0,1,0,0,0,1,2,0,0,0,0,0,1,8:00,0:00,0:00,50
+2018020763,8475907,Micheal Ferland,Carolina Hurricanes,LW,8:20,0,0,3,2,0,0,0,0,1,0,1,0,0,0,0,8:05,0:15,0:00,0
+2018020763,8476934,Brock McGinn,Carolina Hurricanes,LW,13:02,1,0,2,0,0,0,0,2,3,2,0,0,0,0,1,10:56,0:00,2:06,66.67
+2018020763,8475735,Greg McKegg,Carolina Hurricanes,C,11:39,0,0,0,0,0,0,2,3,7,1,0,0,0,1,0,11:39,0:00,0:00,42.86
+2018020763,8476958,Jaccob Slavin,Carolina Hurricanes,D,24:57,1,0,1,1,0,0,0,0,0,1,1,0,0,1,1,21:37,0:15,3:05,NA
+2018020763,8477998,Warren Foegele,Carolina Hurricanes,LW,13:42,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12:52,0:00,0:50,NA
+2018020763,8478427,Sebastian Aho,Carolina Hurricanes,C,21:27,0,1,3,0,0,0,0,6,19,0,2,0,0,0,-2,17:38,1:19,2:30,31.58
+2018020763,8475753,Justin Faulk,Carolina Hurricanes,D,22:41,0,0,2,5,0,0,0,0,0,2,0,0,0,1,-1,18:59,1:11,2:31,NA
+2018020763,8475799,Nino Niederreiter,Carolina Hurricanes,RW,17:28,0,0,2,1,0,0,0,2,4,2,0,0,0,0,0,15:50,0:50,0:48,50
+2018020763,8476921,Jordan Martinook,Carolina Hurricanes,LW,13:48,0,0,2,1,0,0,0,6,13,0,0,0,0,0,1,11:42,0:00,2:06,46.15
+2018020763,8477845,Trevor van Riemsdyk,Carolina Hurricanes,D,12:52,0,0,4,0,0,0,0,0,0,0,1,0,0,2,-1,12:26,0:00,0:26,NA
+2018020763,8477488,Brett Pesce,Carolina Hurricanes,D,19:45,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,16:55,0:21,2:29,NA
+2018020763,8475177,Calvin de Haan,Carolina Hurricanes,D,16:19,0,0,2,0,0,0,0,0,0,1,1,0,0,2,-2,13:58,0:00,2:21,NA
+2018020763,8478027,Lucas Wallmark,Carolina Hurricanes,C,13:49,0,0,2,0,0,0,2,5,12,1,0,0,0,1,0,13:42,0:07,0:00,41.67
+2018020763,8476882,Teuvo Teravainen,Carolina Hurricanes,LW,20:29,1,0,2,0,0,0,2,0,1,0,0,0,0,1,0,17:38,1:11,1:40,0
+2018020763,8477357,Saku Maenalanen,Carolina Hurricanes,RW,11:47,0,0,1,0,0,0,0,1,2,0,1,0,0,1,0,10:57,0:00,0:50,50
+2018020763,8476462,Dougie Hamilton,Carolina Hurricanes,D,22:58,0,1,4,2,0,0,2,0,0,0,0,0,0,1,2,22:43,0:15,0:00,NA
+2018020763,8468508,Justin Williams,Carolina Hurricanes,RW,16:16,1,0,4,0,0,0,0,1,3,0,0,0,0,0,1,14:48,1:26,0:02,33.33
+2018020763,8480830,Andrei Svechnikov,Carolina Hurricanes,RW,12:05,0,0,1,2,0,0,0,0,0,0,0,0,0,0,-1,12:05,0:00,0:00,NA

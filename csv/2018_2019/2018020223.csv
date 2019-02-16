@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020223,8466138,Joe Thornton,San Jose Sharks,C,12:14,0,1,2,0,0,0,0,75,6,8,0,0,0,0,0,3,12:14,0:00,0:00
+2018020223,8470613,Brent Burns,San Jose Sharks,D,20:29,2,0,1,0,0,0,0,NA,0,0,1,0,0,0,3,2,17:44,0:00,2:45
+2018020223,8471709,Marc-Edouard Vlasic,San Jose Sharks,D,24:19,0,0,1,0,0,0,2,NA,0,0,1,0,0,0,2,-1,22:53,0:00,1:26
+2018020223,8470794,Joe Pavelski,San Jose Sharks,C,20:19,0,0,2,0,0,0,2,13.33,2,15,0,1,0,0,0,-1,18:38,0:00,1:41
+2018020223,8475834,Marcus Sorensen,San Jose Sharks,LW,13:13,2,1,1,1,0,0,0,0,0,1,0,0,0,0,0,4,11:24,0:00,1:49
+2018020223,8474027,Justin Braun,San Jose Sharks,D,25:22,0,0,1,3,0,0,0,NA,0,0,0,1,0,0,4,-1,22:11,0:00,3:11
+2018020223,8475820,Joonas Donskoi,San Jose Sharks,RW,12:47,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,1,-1,12:47,0:00,0:00
+2018020223,8476624,Barclay Goodrow,San Jose Sharks,RW,13:32,1,1,2,3,0,0,0,100,1,1,0,0,0,0,0,4,12:28,0:00,1:04
+2018020223,8474578,Erik Karlsson,San Jose Sharks,D,20:31,0,0,1,2,0,0,0,NA,0,0,1,0,0,0,2,1,18:41,0:00,1:50
+2018020223,8477922,Melker Karlsson,San Jose Sharks,C,12:15,0,0,0,1,0,0,0,NA,0,0,1,0,0,0,1,0,11:09,0:00,1:06
+2018020223,8474053,Logan Couture,San Jose Sharks,C,18:48,0,0,0,1,0,0,0,27.27,3,11,0,1,0,0,0,-1,16:45,0:00,2:03
+2018020223,8480965,Antti Suomela,San Jose Sharks,C,12:37,0,1,1,1,0,0,0,27.27,3,11,0,0,0,0,1,1,12:33,0:00,0:04
+2018020223,8478414,Timo Meier,San Jose Sharks,RW,15:46,0,0,2,3,0,0,2,NA,0,0,0,0,0,0,0,-1,15:22,0:00,0:24
+2018020223,8475455,Brenden Dillon,San Jose Sharks,D,17:10,1,0,1,3,0,0,0,NA,0,0,0,0,0,0,1,1,16:52,0:00,0:18
+2018020223,8475169,Evander Kane,San Jose Sharks,LW,19:13,0,0,2,2,0,0,0,66.67,2,3,0,1,0,0,3,-1,17:54,0:00,1:19
+2018020223,8478078,Rourke Chartier,San Jose Sharks,C,10:17,0,0,0,1,0,0,0,50,1,2,0,0,0,0,1,0,10:17,0:00,0:00
+2018020223,8478099,Kevin Labanc,San Jose Sharks,RW,14:05,0,0,1,1,0,0,0,NA,0,0,0,1,0,0,0,-1,14:05,0:00,0:00
+2018020223,8477046,Joakim Ryan,San Jose Sharks,D,12:18,1,0,2,1,0,0,0,NA,0,0,0,0,0,0,2,2,12:18,0:00,0:00
+2018020223,8468611,Matt Hendricks,Minnesota Wild,C,13:18,0,0,1,1,0,0,0,25,1,4,0,0,0,0,0,0,13:18,0:00,0:00
+2018020223,8476806,J.T. Brown,Minnesota Wild,RW,10:53,0,0,2,3,0,0,0,NA,0,0,0,0,0,0,1,0,10:53,0:00,0:00
+2018020223,8474716,Jared Spurgeon,Minnesota Wild,D,18:46,0,1,3,0,0,0,0,NA,0,0,0,0,0,0,0,0,17:12,1:34,0:00
+2018020223,8470600,Ryan Suter,Minnesota Wild,D,27:04,1,0,3,1,0,0,0,NA,0,0,1,1,0,0,2,0,24:38,2:26,0:00
+2018020223,8470611,Eric Fehr,Minnesota Wild,C,13:56,0,0,0,1,0,0,0,66.67,6,9,0,0,0,0,0,-1,13:09,0:47,0:00
+2018020223,8475798,Mikael Granlund,Minnesota Wild,RW,21:31,0,0,0,0,0,0,0,66.67,2,3,1,0,0,0,1,0,18:26,3:05,0:00
+2018020223,8475722,Jason Zucker,Minnesota Wild,LW,14:09,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,1,-2,12:13,1:56,0:00
+2018020223,8475799,Nino Niederreiter,Minnesota Wild,RW,13:55,1,0,2,2,0,1,0,NA,0,0,0,0,0,0,2,-2,11:06,2:49,0:00
+2018020223,8474688,Greg Pateryn,Minnesota Wild,D,12:59,0,0,0,2,0,0,0,NA,0,0,0,0,0,0,0,-2,12:59,0:00,0:00
+2018020223,8475745,Charlie Coyle,Minnesota Wild,C,17:56,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,16:16,1:40,0:00
+2018020223,8470610,Zach Parise,Minnesota Wild,LW,20:47,0,1,2,1,1,0,0,NA,0,0,0,0,0,0,0,1,17:42,3:05,0:00
+2018020223,8476856,Matt Dumba,Minnesota Wild,D,24:51,0,1,4,2,0,0,0,NA,0,0,0,0,0,0,2,0,22:47,2:04,0:00
+2018020223,8478413,Jordan Greenway,Minnesota Wild,LW,13:49,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,2,-1,12:40,1:09,0:00
+2018020223,8476372,Nick Seeler,Minnesota Wild,D,13:16,0,0,0,4,0,0,0,NA,0,0,0,1,0,0,2,-1,13:16,0:00,0:00
+2018020223,8475220,Marcus Foligno,Minnesota Wild,LW,12:17,0,0,5,1,0,0,0,NA,0,0,0,0,0,0,0,0,12:17,0:00,0:00
+2018020223,8476463,Jonas Brodin,Minnesota Wild,D,19:30,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,2,-1,19:30,0:00,0:00
+2018020223,8478493,Joel Eriksson Ek,Minnesota Wild,C,11:03,0,0,1,4,0,0,0,50,6,12,0,0,0,0,0,-2,11:03,0:00,0:00
+2018020223,8469459,Mikko Koivu,Minnesota Wild,C,21:17,2,0,0,1,0,1,0,82.61,19,23,3,0,0,0,0,1,18:07,3:10,0:00

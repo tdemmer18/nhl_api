@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020625,8476906,Shayne Gostisbehere,Philadelphia Flyers,D,22:03,1,0,1,0,0,1,0,0,0,0,1,0,0,1,0,17:28,4:35,0:00,NA
+2018020625,8474668,Dale Weise,Philadelphia Flyers,RW,7:52,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-1,6:42,0:00,1:10,NA
+2018020625,8473512,Claude Giroux,Philadelphia Flyers,C,22:44,2,0,3,0,0,1,0,10,15,0,2,0,0,0,0,16:06,4:42,1:56,66.67
+2018020625,8477948,Travis Sanheim,Philadelphia Flyers,D,23:20,0,0,3,0,0,0,0,0,0,0,0,0,0,2,-2,21:25,1:06,0:49,NA
+2018020625,8474037,James van Riemsdyk,Philadelphia Flyers,LW,16:24,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,14:13,2:11,0:00,NA
+2018020625,8475738,Jordan Weal,Philadelphia Flyers,C,15:35,0,0,3,0,0,0,0,12,23,0,0,0,0,0,0,14:00,1:35,0:00,52.17
+2018020625,8478439,Travis Konecny,Philadelphia Flyers,RW,14:19,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,12:31,1:48,0:00,NA
+2018020625,8478500,Ivan Provorov,Philadelphia Flyers,D,27:42,0,0,1,2,0,0,0,0,0,0,0,0,0,2,-2,22:47,1:44,3:11,NA
+2018020625,8476872,Scott Laughton,Philadelphia Flyers,C,15:32,0,0,1,0,0,0,0,9,17,1,1,0,0,0,-1,13:26,0:02,2:04,52.94
+2018020625,8477850,Christian Folin,Philadelphia Flyers,D,10:37,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,9:48,0:00,0:49,NA
+2018020625,8475321,Phil Varone,Philadelphia Flyers,C,6:35,0,0,0,0,0,0,0,2,5,0,0,0,0,0,-1,6:35,0:00,0:00,40
+2018020625,8474161,Jakub Voracek,Philadelphia Flyers,RW,18:57,2,0,1,1,0,2,2,0,0,0,1,0,0,2,-1,14:47,4:10,0:00,NA
+2018020625,8477462,Robert Hagg,Philadelphia Flyers,D,12:37,0,0,0,3,0,0,4,0,0,0,0,0,0,1,0,12:35,0:02,0:00,NA
+2018020625,8478067,Oskar Lindblom,Philadelphia Flyers,LW,13:10,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-2,12:30,0:40,0:00,NA
+2018020625,8476461,Sean Couturier,Philadelphia Flyers,C,22:47,0,1,7,0,0,0,0,11,15,0,1,0,0,1,0,15:51,4:16,2:40,73.33
+2018020625,8475462,Radko Gudas,Philadelphia Flyers,D,17:16,0,0,3,5,0,0,0,0,0,0,0,0,0,1,0,14:05,0:00,3:11,NA
+2018020625,8477290,Michael Raffl,Philadelphia Flyers,LW,10:41,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1,10:31,0:00,0:10,NA
+2018020625,8474190,Wayne Simmonds,Philadelphia Flyers,RW,18:26,0,1,5,3,1,0,4,0,0,1,0,0,0,0,0,14:57,3:29,0:00,NA
+2018020625,8475907,Micheal Ferland,Carolina Hurricanes,LW,16:37,1,0,5,0,0,1,0,0,0,0,2,0,0,0,0,13:26,3:11,0:00,NA
+2018020625,8476934,Brock McGinn,Carolina Hurricanes,LW,16:23,1,0,1,1,0,0,0,0,0,1,1,0,0,1,2,13:51,0:00,2:32,NA
+2018020625,8476958,Jaccob Slavin,Carolina Hurricanes,D,22:44,0,0,3,2,0,0,0,0,0,0,1,0,0,1,0,17:42,0:49,4:13,NA
+2018020625,8477998,Warren Foegele,Carolina Hurricanes,LW,10:04,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,8:19,0:00,1:45,NA
+2018020625,8478427,Sebastian Aho,Carolina Hurricanes,C,20:23,2,0,1,0,0,2,0,7,19,1,0,0,0,0,2,15:39,3:01,1:43,36.84
+2018020625,8475753,Justin Faulk,Carolina Hurricanes,D,25:26,1,0,4,0,0,0,0,0,0,0,0,0,0,3,2,20:32,3:11,1:43,NA
+2018020625,8476921,Jordan Martinook,Carolina Hurricanes,LW,16:08,0,0,1,0,0,0,0,1,1,1,0,0,0,1,-1,13:57,0:00,2:11,100
+2018020625,8476437,Victor Rask,Carolina Hurricanes,C,16:04,0,0,1,1,0,0,0,10,21,0,0,0,0,1,0,15:05,0:59,0:00,47.62
+2018020625,8477845,Trevor van Riemsdyk,Carolina Hurricanes,D,13:02,0,0,0,1,0,0,2,0,0,0,2,0,0,2,0,12:54,0:00,0:08,NA
+2018020625,8477488,Brett Pesce,Carolina Hurricanes,D,21:32,0,0,1,1,0,0,0,0,0,0,1,0,0,3,0,17:25,0:00,4:07,NA
+2018020625,8475177,Calvin de Haan,Carolina Hurricanes,D,20:19,2,0,0,7,0,0,0,0,0,0,1,0,0,1,2,18:20,0:10,1:49,NA
+2018020625,8478027,Lucas Wallmark,Carolina Hurricanes,C,19:07,0,0,0,1,0,0,0,9,26,0,1,0,0,0,0,15:52,0:49,2:26,34.62
+2018020625,8476882,Teuvo Teravainen,Carolina Hurricanes,LW,18:37,1,2,2,1,1,0,0,0,1,1,1,0,0,1,2,14:25,2:41,1:31,0
+2018020625,8477357,Saku Maenalanen,Carolina Hurricanes,RW,6:32,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,6:32,0:00,0:00,100
+2018020625,8478056,Clark Bishop,Carolina Hurricanes,C,2:15,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,2:15,0:00,0:00,50
+2018020625,8476462,Dougie Hamilton,Carolina Hurricanes,D,14:22,1,1,2,0,0,1,4,0,0,0,1,0,0,2,0,13:05,1:09,0:08,NA
+2018020625,8468508,Justin Williams,Carolina Hurricanes,RW,16:48,0,1,3,0,1,0,2,1,3,1,1,0,0,2,-1,13:47,3:01,0:00,33.33
+2018020625,8480830,Andrei Svechnikov,Carolina Hurricanes,RW,15:35,0,0,2,2,0,0,4,1,1,0,1,0,0,1,0,14:36,0:59,0:00,100

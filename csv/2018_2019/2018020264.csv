@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020264,8469506,Jason Pominville,Buffalo Sabres,RW,11:00,0,0,0,0,0,0,0,0,0,0,2,0,0,1,-1,11:00,0:00,0:00,NA
+2018020264,8475728,Johan Larsson,Buffalo Sabres,C,16:13,0,0,1,1,0,0,0,2,11,2,0,0,0,1,0,14:56,0:00,1:17,18.18
+2018020264,8474618,Marco Scandella,Buffalo Sabres,D,18:57,0,0,1,0,0,0,0,0,0,1,1,0,0,3,0,17:54,0:00,1:03,NA
+2018020264,8477839,Conor Sheary,Buffalo Sabres,LW,12:03,1,0,1,0,0,0,0,1,1,2,0,0,0,0,1,12:03,0:00,0:00,100
+2018020264,8476931,Jake McCabe,Buffalo Sabres,D,22:29,0,0,2,1,0,0,0,0,0,0,0,0,0,3,0,21:32,0:00,0:57,NA
+2018020264,8473449,Kyle Okposo,Buffalo Sabres,RW,16:05,0,1,2,0,0,0,0,0,1,1,1,0,0,0,1,14:05,2:00,0:00,0
+2018020264,8474567,Zach Bogosian,Buffalo Sabres,D,24:07,0,0,0,1,0,0,0,0,0,0,2,0,0,3,0,23:04,0:00,1:03,NA
+2018020264,8479999,Casey Mittelstadt,Buffalo Sabres,C,12:39,0,0,1,0,0,0,0,4,7,0,0,0,0,0,1,12:39,0:00,0:00,57.14
+2018020264,8471743,Vladimir Sobotka,Buffalo Sabres,C,15:03,0,0,0,0,0,0,0,5,8,0,0,0,0,0,-1,14:06,0:00,0:57,62.5
+2018020264,8477933,Sam Reinhart,Buffalo Sabres,C,19:24,1,0,2,0,0,0,0,0,3,0,0,0,0,0,1,17:24,2:00,0:00,0
+2018020264,8476878,Zemgus Girgensons,Buffalo Sabres,C,14:48,0,0,0,2,0,0,2,1,1,1,0,0,0,1,0,14:48,0:00,0:00,100
+2018020264,8477499,Rasmus Ristolainen,Buffalo Sabres,D,28:08,0,0,2,9,0,0,0,0,0,0,1,0,0,2,0,25:11,2:00,0:57,NA
+2018020264,8478403,Jack Eichel,Buffalo Sabres,C,19:37,0,0,3,0,0,0,0,6,18,1,0,0,0,0,1,16:34,2:00,1:03,33.33
+2018020264,8475784,Jeff Skinner,Buffalo Sabres,LW,16:46,0,1,3,0,0,0,2,3,4,1,0,0,0,0,1,14:46,2:00,0:00,75
+2018020264,8478542,Evan Rodrigues,Buffalo Sabres,LW,12:34,0,0,0,0,0,0,0,4,7,0,1,0,0,0,-1,11:51,0:00,0:43,57.14
+2018020264,8480839,Rasmus Dahlin,Buffalo Sabres,D,14:36,0,0,0,2,0,0,0,0,0,0,1,0,0,1,1,14:36,0:00,0:00,NA
+2018020264,8479420,Tage Thompson,Buffalo Sabres,RW,11:55,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,11:55,0:00,0:00,NA
+2018020264,8476470,Nathan Beaulieu,Buffalo Sabres,D,9:36,2,0,0,3,0,0,0,0,0,0,0,0,0,1,1,9:36,0:00,0:00,NA
+2018020264,8471958,Dan Girardi,Tampa Bay Lightning,D,18:19,0,0,2,3,0,0,0,0,0,0,0,0,0,1,-2,16:19,0:00,2:00,NA
+2018020264,8471339,Ryan Callahan,Tampa Bay Lightning,RW,8:55,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,8:26,0:00,0:29,NA
+2018020264,8478519,Anthony Cirelli,Tampa Bay Lightning,C,12:04,0,1,2,1,0,0,0,9,19,0,0,0,0,0,1,10:33,0:00,1:31,47.37
+2018020264,8476826,Yanni Gourde,Tampa Bay Lightning,C,15:18,1,0,0,4,0,0,0,2,3,0,0,0,0,0,0,14:18,1:00,0:00,66.67
+2018020264,8476468,J.T. Miller,Tampa Bay Lightning,C,21:33,0,0,1,1,0,0,0,6,8,0,0,0,0,1,0,20:33,1:00,0:00,75
+2018020264,8478416,Erik Cernak,Tampa Bay Lightning,D,17:06,0,0,2,5,0,0,2,0,0,0,0,0,0,0,1,17:06,0:00,0:00,NA
+2018020264,8476975,Cedric Paquette,Tampa Bay Lightning,C,9:52,0,0,2,5,0,0,0,3,5,0,0,0,0,1,0,9:11,0:00,0:41,60
+2018020264,8470601,Braydon Coburn,Tampa Bay Lightning,D,15:09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15:09,0:00,0:00,NA
+2018020264,8473986,Alex Killorn,Tampa Bay Lightning,LW,12:59,1,0,2,0,0,0,0,0,0,0,0,0,0,0,1,10:59,0:41,1:19,NA
+2018020264,8476453,Nikita Kucherov,Tampa Bay Lightning,RW,22:29,0,0,2,0,0,0,0,0,0,0,1,0,0,1,0,21:29,1:00,0:00,NA
+2018020264,8474870,Tyler Johnson,Tampa Bay Lightning,C,15:39,0,0,1,0,0,0,2,7,9,0,0,0,0,0,-2,14:39,1:00,0:00,77.78
+2018020264,8477454,Adam Erne,Tampa Bay Lightning,LW,10:06,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,9:06,1:00,0:00,NA
+2018020264,8475167,Victor Hedman,Tampa Bay Lightning,D,24:25,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-2,23:25,1:00,0:00,NA
+2018020264,8474151,Ryan McDonagh,Tampa Bay Lightning,D,22:06,0,0,1,1,0,0,0,0,0,0,0,0,0,3,1,19:58,0:08,2:00,NA
+2018020264,8474564,Steven Stamkos,Tampa Bay Lightning,C,22:01,0,0,5,1,0,0,0,7,13,0,1,0,0,0,0,21:01,1:00,0:00,53.85
+2018020264,8479410,Mikhail Sergachev,Tampa Bay Lightning,D,20:25,0,0,3,5,0,0,0,0,0,0,0,0,0,1,0,19:14,1:11,0:00,NA
+2018020264,8478472,Mathieu Joseph,Tampa Bay Lightning,RW,11:19,0,0,1,2,0,0,0,0,0,0,1,0,0,0,-1,11:19,0:00,0:00,NA
+2018020264,8478010,Brayden Point,Tampa Bay Lightning,C,17:46,0,0,3,0,0,0,0,1,4,1,1,0,0,0,-2,16:46,1:00,0:00,25

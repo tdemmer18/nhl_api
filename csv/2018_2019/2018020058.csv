@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020058,8476906,Shayne Gostisbehere,Philadelphia Flyers,D,20:12,0,0,4,1,0,0,0,0,0,0,1,0,0,1,0,17:50,2:22,0:00,NA
+2018020058,8474668,Dale Weise,Philadelphia Flyers,RW,11:34,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,9:13,0:22,1:59,NA
+2018020058,8473512,Claude Giroux,Philadelphia Flyers,C,19:35,0,0,2,0,0,0,0,5,6,0,0,0,0,0,-1,16:48,2:10,0:37,83.33
+2018020058,8477948,Travis Sanheim,Philadelphia Flyers,D,17:12,0,0,2,0,0,0,2,0,0,0,0,0,0,2,0,15:54,1:18,0:00,NA
+2018020058,8474627,Jori Lehtera,Philadelphia Flyers,C,10:12,0,0,2,1,0,0,2,3,4,1,0,0,0,0,0,8:10,0:11,1:51,75
+2018020058,8475738,Jordan Weal,Philadelphia Flyers,C,10:46,0,0,2,0,0,0,0,7,10,0,0,0,0,0,0,10:46,0:00,0:00,70
+2018020058,8478844,Mikhail Vorobyev,Philadelphia Flyers,C,14:14,0,0,0,1,0,0,0,2,5,1,0,0,0,2,0,12:35,1:39,0:00,40
+2018020058,8478439,Travis Konecny,Philadelphia Flyers,C,11:50,0,0,0,3,0,0,0,1,2,0,0,0,0,0,0,10:22,1:28,0:00,50
+2018020058,8478500,Ivan Provorov,Philadelphia Flyers,D,26:11,0,0,0,3,0,0,0,0,0,0,2,0,0,1,0,20:21,1:30,4:20,NA
+2018020058,8476872,Scott Laughton,Philadelphia Flyers,C,15:29,0,0,2,0,0,0,0,1,2,0,0,0,0,0,0,12:09,0:00,3:20,50
+2018020058,8474161,Jakub Voracek,Philadelphia Flyers,RW,17:27,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,15:17,2:10,0:00,NA
+2018020058,8477462,Robert Hagg,Philadelphia Flyers,D,19:08,0,0,4,4,0,0,0,0,0,0,0,0,0,2,-1,16:31,0:20,2:17,NA
+2018020058,8478067,Oskar Lindblom,Philadelphia Flyers,LW,12:02,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,10:34,1:28,0:00,NA
+2018020058,8476461,Sean Couturier,Philadelphia Flyers,C,21:06,0,0,3,0,0,0,0,5,8,1,2,0,0,1,-1,17:02,2:10,1:54,62.5
+2018020058,8473584,Andrew MacDonald,Philadelphia Flyers,D,16:17,0,0,0,2,0,0,0,0,0,0,0,0,0,2,-1,14:24,0:20,1:33,NA
+2018020058,8475462,Radko Gudas,Philadelphia Flyers,D,19:26,0,0,0,2,0,0,0,0,0,0,3,0,0,3,0,15:36,0:00,3:50,NA
+2018020058,8477290,Michael Raffl,Philadelphia Flyers,LW,13:28,0,0,1,2,0,0,0,0,1,0,0,0,0,0,0,10:47,0:22,2:19,0
+2018020058,8474190,Wayne Simmonds,Philadelphia Flyers,RW,19:23,0,0,1,3,0,0,2,0,0,0,0,0,0,0,-1,17:13,2:10,0:00,NA
+2018020058,8468674,Deryk Engelland,Vegas Golden Knights,D,8:25,0,0,1,1,0,0,0,0,0,0,0,0,0,6,0,6:07,0:00,2:18,NA
+2018020058,8471817,Ryan Reaves,Vegas Golden Knights,RW,10:23,0,0,1,5,0,0,0,0,1,0,1,0,0,0,0,10:23,0:00,0:00,0
+2018020058,8476539,Jonathan Marchessault,Vegas Golden Knights,C,19:26,0,0,4,4,0,0,2,1,5,1,1,0,0,0,0,16:32,2:54,0:00,20
+2018020058,8476617,Tomas Hyka,Vegas Golden Knights,RW,14:53,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,11:59,2:54,0:00,NA
+2018020058,8475236,Cody Eakin,Vegas Golden Knights,C,13:13,0,1,2,1,0,0,0,3,6,1,1,0,0,1,1,11:46,1:14,0:13,50
+2018020058,8477447,Shea Theodore,Vegas Golden Knights,D,20:09,0,0,3,0,0,0,0,0,0,0,1,0,0,1,0,16:26,3:43,0:00,NA
+2018020058,8477931,Tomas Nosek,Vegas Golden Knights,LW,15:41,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,12:31,1:39,1:31,100
+2018020058,8476525,Colin Miller,Vegas Golden Knights,D,22:17,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,19:29,2:35,0:13,NA
+2018020058,8474207,Nick Holden,Vegas Golden Knights,D,22:08,0,0,0,2,0,0,0,0,0,0,1,0,0,0,1,19:54,0:42,1:32,NA
+2018020058,8477846,Ryan Carpenter,Vegas Golden Knights,C,12:13,1,0,0,4,0,0,0,3,6,0,0,0,0,0,1,11:50,0:00,0:23,50
+2018020058,8476448,William Karlsson,Vegas Golden Knights,C,21:45,0,0,0,0,0,0,0,2,8,0,0,0,0,1,0,15:38,3:51,2:16,25
+2018020058,8475188,Brayden McNabb,Vegas Golden Knights,D,22:12,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,19:47,0:00,2:25,NA
+2018020058,8475287,Erik Haula,Vegas Golden Knights,LW,16:52,0,0,4,1,0,0,0,4,8,1,0,0,0,1,0,13:46,3:06,0:00,50
+2018020058,8475750,Jon Merrill,Vegas Golden Knights,D,20:51,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,18:17,1:02,1:32,NA
+2018020058,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,LW,10:59,0,0,1,0,0,0,0,0,3,1,1,0,0,0,0,9:28,0:00,1:31,0
+2018020058,8477478,William Carrier,Vegas Golden Knights,LW,10:03,0,0,0,2,0,0,2,0,0,1,1,0,0,1,0,10:03,0:00,0:00,NA
+2018020058,8474157,Max Pacioretty,Vegas Golden Knights,LW,15:16,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,12:12,3:04,0:00,NA
+2018020058,8475191,Reilly Smith,Vegas Golden Knights,RW,19:14,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,13:52,3:16,2:06,NA

@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020467,8471702,Matt Niskanen,Washington Capitals,D,21:16,0,0,0,7,0,0,0,0,0,2,1,0,0,0,0,20:02,0:00,1:14,NA
+2018020467,8476905,Chandler Stephenson,Washington Capitals,C,14:14,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,13:27,0:00,0:47,NA
+2018020467,8476329,Travis Boyd,Washington Capitals,C,12:01,0,1,3,0,0,0,0,1,4,0,0,0,0,0,0,11:14,0:00,0:47,25
+2018020467,8475758,Devante Smith-Pelly,Washington Capitals,RW,15:58,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1,14:45,0:00,1:13,NA
+2018020467,8476436,Dmitrij Jaskin,Washington Capitals,RW,11:44,1,0,2,1,0,0,0,0,0,0,1,0,0,0,0,11:44,0:00,0:00,NA
+2018020467,8471214,Alex Ovechkin,Washington Capitals,LW,19:38,0,3,4,1,0,0,0,0,0,0,0,0,0,0,3,17:33,2:05,0:00,NA
+2018020467,8471698,T.J. Oshie,Washington Capitals,RW,16:56,0,1,2,0,1,0,0,0,2,1,1,0,0,0,2,15:14,1:42,0:00,0
+2018020467,8475744,Evgeny Kuznetsov,Washington Capitals,C,15:50,2,0,0,0,0,2,0,6,16,1,2,0,0,1,-1,13:45,2:05,0:00,37.5
+2018020467,8477944,Jakub Vrana,Washington Capitals,LW,13:49,0,0,1,1,0,0,0,0,0,0,2,0,0,0,-1,13:49,0:00,0:00,NA
+2018020467,8475200,Dmitry Orlov,Washington Capitals,D,21:11,0,0,0,1,0,0,2,0,0,0,0,0,0,2,0,21:11,0:00,0:00,NA
+2018020467,8475343,Nic Dowd,Washington Capitals,C,11:20,1,0,0,0,0,0,0,8,9,0,0,0,0,1,0,11:20,0:00,0:00,88.89
+2018020467,8473563,Nicklas Backstrom,Washington Capitals,C,18:39,4,0,2,0,0,1,0,10,22,1,2,0,0,0,3,16:34,2:05,0:00,45.45
+2018020467,8474590,John Carlson,Washington Capitals,D,22:25,2,0,0,0,0,1,0,0,0,1,0,0,0,2,1,19:34,2:05,0:46,NA
+2018020467,8474189,Lars Eller,Washington Capitals,C,15:24,0,0,3,0,0,0,0,7,14,2,0,0,0,0,0,14:11,0:00,1:13,50
+2018020467,8477043,Christian Djoos,Washington Capitals,D,16:23,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,16:22,0:00,0:01,NA
+2018020467,8475792,Brett Connolly,Washington Capitals,RW,14:27,0,1,1,0,1,0,0,0,0,0,0,0,0,0,-1,14:04,0:23,0:00,NA
+2018020467,8477474,Madison Bowey,Washington Capitals,D,16:49,0,0,1,0,0,0,0,0,0,0,2,0,0,1,1,16:03,0:00,0:46,NA
+2018020467,8479482,Michal Kempny,Washington Capitals,D,19:56,1,0,2,1,0,0,0,0,0,0,2,0,0,3,1,18:43,0:00,1:13,NA
+2018020467,8470318,Jonathan Ericsson,Detroit Red Wings,D,17:18,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,16:07,0:00,1:11,NA
+2018020467,8471716,Justin Abdelkader,Detroit Red Wings,LW,18:15,1,0,1,2,0,0,0,0,0,1,1,0,0,1,1,17:40,0:00,0:35,NA
+2018020467,8474679,Gustav Nyquist,Detroit Red Wings,RW,20:01,1,1,4,0,0,0,0,0,0,1,1,0,0,0,1,18:48,1:13,0:00,NA
+2018020467,8476924,Martin Frk,Detroit Red Wings,RW,12:14,0,0,3,3,0,0,0,0,0,0,0,0,0,0,-1,11:27,0:47,0:00,NA
+2018020467,8477946,Dylan Larkin,Detroit Red Wings,C,21:10,0,1,6,1,0,0,0,14,23,4,0,0,0,0,1,18:27,1:13,1:30,60.87
+2018020467,8470110,Trevor Daley,Detroit Red Wings,D,20:17,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,19:06,0:00,1:11,NA
+2018020467,8470144,Frans Nielsen,Detroit Red Wings,C,15:13,0,0,2,1,0,0,4,6,13,0,0,0,0,1,-1,14:00,1:13,0:00,46.15
+2018020467,8475324,Nick Jensen,Detroit Red Wings,D,18:29,1,0,2,3,0,0,0,0,0,1,1,0,0,0,-1,17:35,0:00,0:54,NA
+2018020467,8470598,Thomas Vanek,Detroit Red Wings,LW,14:33,0,0,1,0,0,0,0,0,0,1,1,0,0,0,-2,13:20,1:13,0:00,NA
+2018020467,8476822,Luke Glendening,Detroit Red Wings,C,16:13,0,0,0,1,0,0,0,12,18,0,0,0,0,1,-1,14:27,0:00,1:46,66.67
+2018020467,8474722,Luke Witkowski,Detroit Red Wings,RW,11:56,0,0,2,2,0,0,0,0,0,0,0,0,0,2,-1,11:56,0:00,0:00,NA
+2018020467,8477455,Jacob de la Rose,Detroit Red Wings,C,11:38,0,0,2,2,0,0,0,2,8,0,0,0,0,0,-1,11:19,0:00,0:19,25
+2018020467,8476960,Andreas Athanasiou,Detroit Red Wings,C,18:38,0,0,2,1,0,0,0,0,3,1,1,0,0,0,-1,17:51,0:47,0:00,0
+2018020467,8477479,Tyler Bertuzzi,Detroit Red Wings,LW,16:44,0,0,2,0,0,0,0,0,1,2,0,0,0,1,-1,15:57,0:47,0:00,0
+2018020467,8471242,Mike Green,Detroit Red Wings,D,15:46,0,0,3,1,0,0,0,0,0,0,0,0,0,0,-1,14:59,0:47,0:00,NA
+2018020467,8479992,Michael Rasmussen,Detroit Red Wings,C,15:16,0,0,1,0,0,0,0,1,1,0,0,0,0,1,-1,14:29,0:47,0:00,100
+2018020467,8479395,Dennis Cholowski,Detroit Red Wings,D,16:05,0,0,1,0,0,0,0,0,0,0,0,0,0,4,-2,14:52,1:13,0:00,NA
+2018020467,8468509,Niklas Kronwall,Detroit Red Wings,D,18:09,0,0,3,0,0,0,0,0,0,0,0,0,0,1,-1,17:15,0:00,0:54,NA

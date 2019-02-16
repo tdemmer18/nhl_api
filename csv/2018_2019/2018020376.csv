@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020376,8470626,Loui Eriksson,Vancouver Canucks,LW,11:06,0,0,2,0,0,0,0,0,0,1,0,0,0,1,1,8:07,1:22,1:37,NA
+2018020376,8474849,Antoine Roussel,Vancouver Canucks,LW,16:40,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,14:33,0:00,2:07,NA
+2018020376,8477958,Nikolay Goldobin,Vancouver Canucks,RW,18:49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17:42,1:07,0:00,NA
+2018020376,8477937,Jake Virtanen,Vancouver Canucks,RW,12:51,0,0,0,3,0,0,0,0,1,0,1,0,0,0,1,12:36,0:15,0:00,0
+2018020376,8477018,Ben Hutton,Vancouver Canucks,D,21:28,0,0,4,1,0,0,0,0,0,0,0,0,0,1,0,17:19,1:26,2:43,NA
+2018020376,8473415,Alex Biega,Vancouver Canucks,D,15:50,1,0,2,2,0,0,4,0,0,0,1,0,0,1,0,15:50,0:00,0:00,NA
+2018020376,8471303,Alexander Edler,Vancouver Canucks,D,21:56,1,0,4,0,0,0,0,0,0,0,0,0,0,4,0,16:42,2:34,2:40,NA
+2018020376,8478874,Adam Gaudette,Vancouver Canucks,C,3:52,0,0,1,1,0,0,0,0,1,1,0,0,0,0,-1,3:52,0:00,0:00,0
+2018020376,8474584,Michael Del Zotto,Vancouver Canucks,D,20:13,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,16:56,0:00,3:17,NA
+2018020376,8478444,Brock Boeser,Vancouver Canucks,RW,18:36,0,0,3,0,0,0,0,0,0,2,0,0,0,0,-1,15:58,2:38,0:00,NA
+2018020376,8476894,Brendan Leipsic,Vancouver Canucks,LW,7:27,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6:39,0:48,0:00,NA
+2018020376,8477500,Bo Horvat,Vancouver Canucks,C,23:27,0,0,2,1,0,0,0,14,30,0,0,0,0,0,-1,19:18,2:38,1:31,46.67
+2018020376,8474040,Sam Gagner,Vancouver Canucks,C,18:41,0,0,1,0,0,0,0,0,1,0,0,0,0,1,-1,16:03,2:38,0:00,0
+2018020376,8475690,Christopher Tanev,Vancouver Canucks,D,20:27,0,0,3,1,0,0,2,0,0,0,0,0,0,5,-1,18:06,0:00,2:21,NA
+2018020376,8476440,Markus Granlund,Vancouver Canucks,C,17:48,0,1,3,1,0,0,0,2,9,1,0,0,0,1,1,13:31,1:22,2:55,22.22
+2018020376,8479442,Troy Stecher,Vancouver Canucks,D,17:31,0,0,2,1,0,0,0,0,0,1,0,0,0,2,0,16:17,0:15,0:59,NA
+2018020376,8477353,Tyler Motte,Vancouver Canucks,C,10:03,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-1,6:16,0:00,3:47,NA
+2018020376,8480012,Elias Pettersson,Vancouver Canucks,C,19:56,0,0,1,0,0,0,0,4,10,0,0,0,0,0,0,16:56,2:57,0:03,40
+2018020376,8470604,Jeff Carter,Los Angeles Kings,C,20:15,0,0,3,1,0,0,2,12,17,0,0,0,0,0,0,16:06,3:38,0:31,70.59
+2018020376,8470602,Dion Phaneuf,Los Angeles Kings,D,13:14,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,11:29,1:45,0:00,NA
+2018020376,8470606,Dustin Brown,Los Angeles Kings,RW,21:31,1,1,2,3,0,0,0,0,0,0,0,0,0,0,2,15:20,4:00,2:11,NA
+2018020376,8471685,Anze Kopitar,Los Angeles Kings,C,22:09,2,0,1,0,0,0,0,9,14,2,1,0,0,0,2,17:02,4:00,1:07,64.29
+2018020376,8475726,Tyler Toffoli,Los Angeles Kings,RW,21:03,0,0,3,0,0,0,0,0,0,1,0,0,0,2,0,16:36,3:56,0:31,NA
+2018020376,8470775,Nate Thompson,Los Angeles Kings,C,17:29,0,0,0,0,0,0,0,8,13,0,1,0,0,1,-1,12:52,2:00,2:37,61.54
+2018020376,8477960,Adrian Kempe,Los Angeles Kings,C,15:43,0,0,1,2,0,0,0,1,5,0,0,0,0,0,-1,12:40,2:00,1:03,20
+2018020376,8478455,Austin Wagner,Los Angeles Kings,LW,7:04,0,0,0,2,0,0,2,1,1,0,0,0,0,0,0,7:04,0:00,0:00,100
+2018020376,8476983,Paul LaDue,Los Angeles Kings,D,12:21,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,12:21,0:00,0:00,NA
+2018020376,8474162,Jake Muzzin,Los Angeles Kings,D,21:02,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,18:18,0:37,2:07,NA
+2018020376,8474563,Drew Doughty,Los Angeles Kings,D,28:04,0,0,2,1,0,0,0,0,0,0,0,0,0,3,0,22:15,3:55,1:54,NA
+2018020376,8475762,Derek Forbort,Los Angeles Kings,D,22:12,0,0,4,2,0,0,0,0,0,0,1,0,0,1,0,20:19,0:00,1:53,NA
+2018020376,8479644,Matt Luff,Los Angeles Kings,RW,13:30,0,0,3,1,0,0,0,0,0,0,0,0,0,1,-1,13:30,0:00,0:00,NA
+2018020376,8474166,Alec Martinez,Los Angeles Kings,D,18:31,1,0,3,0,0,0,0,0,0,1,0,0,0,4,1,16:05,0:20,2:06,NA
+2018020376,8469454,Ilya Kovalchuk,Los Angeles Kings,LW,9:05,0,0,1,2,0,0,0,1,2,1,0,0,0,2,0,7:20,1:45,0:00,50
+2018020376,8475160,Kyle Clifford,Los Angeles Kings,LW,14:19,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,13:59,0:20,0:00,NA
+2018020376,8480113,Alex Iafallo,Los Angeles Kings,LW,16:54,0,1,2,1,0,0,0,0,0,0,0,0,0,0,1,15:10,1:44,0:00,NA
+2018020376,8480776,Sheldon Rempal,Los Angeles Kings,RW,4:45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4:45,0:00,0:00,NA

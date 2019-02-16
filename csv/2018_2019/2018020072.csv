@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020072,8474565,Alex Pietrangelo,St. Louis Blues,D,24:21,0,0,2,0,0,0,0,0,0,1,0,0,0,2,-1,19:07,2:44,2:30,NA
+2018020072,8477964,Ivan Barbashev,St. Louis Blues,C,10:21,0,0,0,3,0,0,0,1,2,1,0,0,0,1,0,8:56,0:00,1:25,50
+2018020072,8475765,Vladimir Tarasenko,St. Louis Blues,RW,19:29,1,0,3,2,0,0,0,0,0,1,0,0,0,0,1,17:24,2:05,0:00,NA
+2018020072,8470257,Alexander Steen,St. Louis Blues,LW,19:44,0,1,2,1,0,0,0,0,0,0,0,0,0,0,1,15:21,2:42,1:41,NA
+2018020072,8478407,Vince Dunn,St. Louis Blues,D,10:22,0,0,3,0,0,0,0,0,0,1,1,0,0,0,0,8:31,1:51,0:00,NA
+2018020072,8476877,Jordan Schmaltz,St. Louis Blues,D,11:15,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0,11:09,0:06,0:00,NA
+2018020072,8478104,Sammy Blais,St. Louis Blues,LW,17:03,0,0,1,1,0,0,0,0,0,1,0,0,0,2,-1,14:41,2:22,0:00,NA
+2018020072,8475158,Ryan O'Reilly,St. Louis Blues,C,19:30,0,0,5,0,0,0,0,19,25,1,0,0,0,0,1,16:09,1:45,1:36,76
+2018020072,8474102,David Perron,St. Louis Blues,LW,19:58,0,0,0,0,0,0,0,2,2,1,0,0,0,1,-1,16:45,2:56,0:17,100
+2018020072,8474145,Robert Bortuzzo,St. Louis Blues,D,5:33,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,5:33,0:00,0:00,NA
+2018020072,8474034,Pat Maroon,St. Louis Blues,LW,14:24,1,0,2,1,0,1,0,0,0,1,0,0,0,0,-1,12:39,1:45,0:00,NA
+2018020072,8475098,Tyler Bozak,St. Louis Blues,C,16:30,0,1,2,2,1,0,0,9,16,0,0,0,0,0,-1,13:52,1:29,1:09,56.25
+2018020072,8476441,Joel Edmundson,St. Louis Blues,D,18:58,1,0,1,2,0,0,4,0,0,0,2,0,0,1,0,18:52,0:06,0:00,NA
+2018020072,8470151,Jay Bouwmeester,St. Louis Blues,D,22:05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,19:09,0:22,2:34,NA
+2018020072,8476892,Colton Parayko,St. Louis Blues,D,22:48,0,0,1,4,0,0,0,0,0,1,0,0,0,0,0,20:58,0:08,1:42,NA
+2018020072,8475170,Brayden Schenn,St. Louis Blues,C,20:17,0,0,3,5,0,0,0,9,17,1,1,0,0,0,-1,16:43,2:56,0:38,52.94
+2018020072,8479385,Jordan Kyrou,St. Louis Blues,C,15:06,0,0,1,0,0,0,0,1,1,0,0,0,0,0,-1,15:06,0:00,0:00,100
+2018020072,8480023,Robert Thomas,St. Louis Blues,C,10:41,0,0,1,0,0,0,0,4,6,0,0,0,0,2,0,10:33,0:08,0:00,66.67
+2018020072,8470616,Ryan Kesler,Anaheim Ducks,C,20:23,1,0,1,1,0,1,2,10,23,0,0,0,0,1,0,16:42,1:17,2:24,43.48
+2018020072,8480031,Max Comtois,Anaheim Ducks,LW,14:09,1,0,0,2,0,0,0,0,1,0,0,0,0,0,0,12:43,1:26,0:00,0
+2018020072,8477969,Marcus Pettersson,Anaheim Ducks,D,10:55,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,10:55,0:00,0:00,NA
+2018020072,8475764,Cam Fowler,Anaheim Ducks,D,27:48,1,0,1,0,0,0,0,0,0,0,0,0,0,3,1,21:28,2:53,3:27,NA
+2018020072,8477986,Brandon Montour,Anaheim Ducks,D,19:57,0,0,3,3,0,0,0,0,0,0,0,0,0,2,0,17:54,0:47,1:16,NA
+2018020072,8476854,Hampus Lindholm,Anaheim Ducks,D,22:16,2,0,0,1,0,1,0,0,0,0,1,0,0,3,0,19:45,1:17,1:14,NA
+2018020072,8477205,Andrej Sustr,Anaheim Ducks,D,11:52,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,11:52,0:00,0:00,NA
+2018020072,8471699,Andrew Cogliano,Anaheim Ducks,LW,18:18,0,1,5,0,1,0,0,0,0,1,0,0,0,0,0,16:26,0:08,1:44,NA
+2018020072,8476207,Brian Gibbons,Anaheim Ducks,C,8:09,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,7:42,0:00,0:27,NA
+2018020072,8478873,Troy Terry,Anaheim Ducks,RW,11:10,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,10:06,1:04,0:00,NA
+2018020072,8476312,Josh Manson,Anaheim Ducks,D,25:39,1,0,3,3,0,0,0,0,0,1,0,0,0,0,1,22:14,0:00,3:25,NA
+2018020072,8474641,Adam Henrique,Anaheim Ducks,C,16:45,0,0,0,0,0,0,0,8,20,0,0,0,0,3,0,14:20,1:49,0:36,40
+2018020072,8480748,Kiefer Sherwood,Anaheim Ducks,RW,15:19,0,0,2,1,0,0,0,1,1,1,0,0,0,0,1,15:19,0:00,0:00,100
+2018020072,8476043,Ben Street,Anaheim Ducks,C,9:32,0,1,2,3,0,0,0,1,7,1,0,0,0,0,1,7:44,0:00,1:48,14.29
+2018020072,8476483,Rickard Rakell,Anaheim Ducks,C,22:15,0,0,6,2,0,0,0,0,1,2,0,0,0,4,-1,20:10,1:57,0:08,0
+2018020072,8475164,Jakob Silfverberg,Anaheim Ducks,RW,8:55,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,6:22,1:02,1:31,NA
+2018020072,8480806,Isac Lundestrom,Anaheim Ducks,C,15:51,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,13:41,1:26,0:44,0
+2018020072,8479351,Sam Steel,Anaheim Ducks,C,15:33,0,0,0,1,0,0,2,4,15,0,0,0,0,0,0,13:44,1:49,0:00,26.67

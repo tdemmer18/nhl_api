@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020338,8468674,Deryk Engelland,Vegas Golden Knights,D,19:44,0,0,1,2,0,0,2,0,0,0,0,0,0,5,1,18:57,0:00,0:47,NA
+2018020338,8471817,Ryan Reaves,Vegas Golden Knights,RW,11:34,0,0,0,5,0,0,0,0,1,0,1,0,0,0,0,10:01,1:33,0:00,0
+2018020338,8476539,Jonathan Marchessault,Vegas Golden Knights,C,20:03,0,0,4,5,0,0,0,1,4,1,1,0,0,0,0,18:20,1:43,0:00,25
+2018020338,8477949,Alex Tuch,Vegas Golden Knights,RW,15:00,1,1,2,0,0,1,0,0,2,2,1,0,0,1,1,13:17,1:43,0:00,0
+2018020338,8475236,Cody Eakin,Vegas Golden Knights,C,16:12,1,0,3,2,0,0,2,6,14,1,0,0,0,0,1,14:45,1:27,0:00,42.86
+2018020338,8477447,Shea Theodore,Vegas Golden Knights,D,19:19,0,0,2,0,0,0,0,0,0,1,1,0,0,2,1,17:52,1:27,0:00,NA
+2018020338,8477931,Tomas Nosek,Vegas Golden Knights,LW,12:15,0,0,3,4,0,0,0,1,4,0,0,0,0,1,0,11:15,0:00,1:00,25
+2018020338,8476525,Colin Miller,Vegas Golden Knights,D,19:44,0,1,3,3,1,0,0,0,0,1,2,0,0,3,0,16:39,2:05,1:00,NA
+2018020338,8474207,Nick Holden,Vegas Golden Knights,D,18:14,0,0,1,1,0,0,0,0,0,1,0,0,0,2,0,16:52,0:22,1:00,NA
+2018020338,8477901,Daniel Carr,Vegas Golden Knights,LW,12:06,0,0,1,1,0,0,0,0,0,1,1,0,0,1,0,12:06,0:00,0:00,NA
+2018020338,8477846,Ryan Carpenter,Vegas Golden Knights,C,13:55,0,0,3,0,0,0,0,2,4,0,1,0,0,0,0,13:20,0:16,0:19,50
+2018020338,8476448,William Karlsson,Vegas Golden Knights,C,21:41,0,0,4,1,0,0,0,8,14,1,0,0,0,0,0,19:27,1:27,0:47,57.14
+2018020338,8475188,Brayden McNabb,Vegas Golden Knights,D,20:17,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,19:17,0:00,1:00,NA
+2018020338,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,C,11:29,0,0,0,1,0,0,0,4,7,0,0,0,0,0,0,10:13,0:22,0:54,57.14
+2018020338,8477478,William Carrier,Vegas Golden Knights,LW,9:49,0,0,0,6,0,0,0,0,0,1,0,0,0,0,0,9:27,0:22,0:00,NA
+2018020338,8474157,Max Pacioretty,Vegas Golden Knights,LW,15:56,1,0,0,1,0,0,0,1,1,0,0,0,0,1,1,14:00,1:43,0:13,100
+2018020338,8477220,Nate Schmidt,Vegas Golden Knights,D,20:59,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,19:19,1:27,0:13,NA
+2018020338,8475191,Reilly Smith,Vegas Golden Knights,RW,19:43,1,0,1,1,0,1,0,0,0,0,1,0,0,1,0,17:13,1:43,0:47,NA
+2018020338,8470966,Mark Giordano,Calgary Flames,D,23:27,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,20:38,0:58,1:51,NA
+2018020338,8471707,James Neal,Calgary Flames,LW,15:56,0,0,3,4,0,0,2,0,0,0,0,0,0,0,0,14:54,1:02,0:00,NA
+2018020338,8477903,Garnet Hathaway,Calgary Flames,RW,10:46,0,0,3,3,0,0,0,0,0,1,0,0,0,0,0,9:05,0:00,1:41,NA
+2018020338,8477935,Sam Bennett,Calgary Flames,C,16:46,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,15:44,1:02,0:00,NA
+2018020338,8474612,Travis Hamonic,Calgary Flames,D,18:48,0,0,3,1,0,0,0,0,0,1,0,0,0,2,-1,16:51,0:00,1:57,NA
+2018020338,8479976,Juuso Valimaki,Calgary Flames,D,17:47,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,16:12,0:00,1:35,NA
+2018020338,8474673,TJ Brodie,Calgary Flames,D,22:26,0,0,3,0,0,0,0,0,0,1,0,0,0,2,0,20:41,0:10,1:35,NA
+2018020338,8479346,Dillon Dube,Calgary Flames,C,12:47,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,12:47,0:00,0:00,0
+2018020338,8476873,Mark Jankowski,Calgary Flames,C,10:41,0,0,1,0,0,0,0,5,7,1,0,0,0,2,0,10:20,0:00,0:21,71.43
+2018020338,8474150,Mikael Backlund,Calgary Flames,C,16:39,0,0,2,0,0,0,0,6,10,0,1,0,0,1,0,14:02,1:02,1:35,60
+2018020338,8476346,Johnny Gaudreau,Calgary Flames,LW,18:07,0,0,4,0,0,0,4,0,0,0,1,0,0,0,-1,17:09,0:58,0:00,NA
+2018020338,8479314,Matthew Tkachuk,Calgary Flames,LW,17:39,0,0,1,2,0,0,2,0,0,1,0,0,0,0,0,16:51,0:48,0:00,NA
+2018020338,8478512,Austin Czarnik,Calgary Flames,C,8:49,0,0,0,1,0,0,0,0,0,0,0,0,0,1,-1,8:49,0:00,0:00,NA
+2018020338,8478397,Rasmus Andersson,Calgary Flames,D,16:56,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,16:56,0:00,0:00,NA
+2018020338,8478396,Noah Hanifin,Calgary Flames,D,18:46,0,0,1,2,0,0,0,0,0,0,1,0,0,1,-1,17:38,1:02,0:06,NA
+2018020338,8477497,Sean Monahan,Calgary Flames,C,18:10,0,0,2,1,0,0,0,3,7,3,0,0,0,0,-1,17:12,0:58,0:00,42.86
+2018020338,8478585,Derek Ryan,Calgary Flames,C,14:51,0,0,0,0,0,0,0,7,13,1,0,0,0,0,0,11:57,1:02,1:52,53.85
+2018020338,8477496,Elias Lindholm,Calgary Flames,C,19:19,0,0,3,0,0,0,0,7,13,0,0,0,0,0,0,16:46,0:58,1:35,53.85

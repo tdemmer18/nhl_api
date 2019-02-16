@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020316,8470626,Loui Eriksson,Vancouver Canucks,LW,13:21,0,0,1,0,0,0,0,0,0,1,0,0,0,1,-3,12:22,0:59,0:00,NA
+2018020316,8474849,Antoine Roussel,Vancouver Canucks,LW,8:44,0,0,0,0,0,0,17,0,0,0,0,0,0,0,-1,7:03,0:00,1:41,NA
+2018020316,8477958,Nikolay Goldobin,Vancouver Canucks,RW,18:19,1,1,3,1,0,1,0,0,0,1,0,0,0,0,0,14:27,3:52,0:00,NA
+2018020316,8477937,Jake Virtanen,Vancouver Canucks,RW,15:50,0,0,4,2,0,0,0,0,0,0,0,0,0,0,-1,14:46,1:04,0:00,NA
+2018020316,8475423,Darren Archibald,Vancouver Canucks,RW,2:25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2:25,0:00,0:00,NA
+2018020316,8477018,Ben Hutton,Vancouver Canucks,D,24:07,1,0,1,2,0,1,0,0,0,0,0,0,0,1,-4,17:03,4:00,3:04,NA
+2018020316,8477213,Tim Schaller,Vancouver Canucks,C,11:29,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-1,6:56,0:00,4:33,NA
+2018020316,8478874,Adam Gaudette,Vancouver Canucks,C,10:53,0,0,1,1,0,0,0,3,10,0,1,0,0,1,0,10:04,0:49,0:00,30
+2018020316,8474584,Michael Del Zotto,Vancouver Canucks,D,19:40,0,0,0,4,0,0,0,0,0,1,0,0,0,2,0,14:00,0:21,5:19,NA
+2018020316,8476884,Derrick Pouliot,Vancouver Canucks,D,17:11,0,0,1,2,0,0,0,0,0,1,0,0,0,3,1,16:40,0:31,0:00,NA
+2018020316,8477500,Bo Horvat,Vancouver Canucks,C,24:38,1,0,2,1,0,0,0,23,33,0,0,0,1,0,-1,18:37,3:48,2:13,69.7
+2018020316,8474040,Sam Gagner,Vancouver Canucks,C,16:47,0,0,2,1,0,0,0,3,3,0,0,0,0,0,-1,12:43,4:03,0:01,100
+2018020316,8475690,Christopher Tanev,Vancouver Canucks,D,19:41,0,0,1,0,0,0,0,0,0,0,0,0,0,3,2,14:30,0:00,5:11,NA
+2018020316,8475790,Erik Gudbranson,Vancouver Canucks,D,19:27,0,0,1,2,0,0,2,0,0,0,1,0,0,1,-4,16:44,0:00,2:43,NA
+2018020316,8476440,Markus Granlund,Vancouver Canucks,C,18:13,0,0,0,2,0,0,2,3,9,0,0,0,0,0,-3,12:15,0:39,5:19,33.33
+2018020316,8479442,Troy Stecher,Vancouver Canucks,D,15:40,0,0,1,2,0,0,2,0,0,0,0,0,0,2,-1,14:50,0:21,0:29,NA
+2018020316,8477353,Tyler Motte,Vancouver Canucks,C,17:24,0,1,4,4,0,0,0,0,0,1,1,1,0,3,0,14:25,0:00,2:59,NA
+2018020316,8480012,Elias Pettersson,Vancouver Canucks,C,19:01,0,1,2,0,1,0,2,4,13,0,1,0,0,0,0,15:08,3:53,0:00,30.77
+2018020316,8473618,Mathieu Perreault,Winnipeg Jets,LW,11:35,0,0,1,0,0,0,0,0,1,0,0,0,0,0,-1,8:36,2:59,0:00,0
+2018020316,8471218,Blake Wheeler,Winnipeg Jets,RW,21:19,0,0,3,1,0,0,2,1,1,1,0,0,0,2,0,14:24,5:24,1:31,100
+2018020316,8470834,Dustin Byfuglien,Winnipeg Jets,D,26:09,1,0,5,1,0,1,2,0,0,0,0,0,0,0,1,18:46,5:24,1:59,NA
+2018020316,8477429,Andrew Copp,Winnipeg Jets,C,13:19,0,0,2,0,0,0,0,1,3,1,0,0,0,1,0,11:54,0:00,1:25,33.33
+2018020316,8473412,Bryan Little,Winnipeg Jets,C,15:29,1,1,3,0,0,0,0,5,13,0,0,0,0,0,4,11:05,2:59,1:25,38.46
+2018020316,8479339,Patrik Laine,Winnipeg Jets,RW,17:25,0,3,6,0,0,0,0,0,2,0,0,0,0,1,3,12:02,5:23,0:00,0
+2018020316,8477504,Josh Morrissey,Winnipeg Jets,D,19:52,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,13:42,2:59,3:11,NA
+2018020316,8476476,Joe Morrow,Winnipeg Jets,D,13:49,0,0,1,1,0,0,0,0,0,0,0,0,0,2,1,13:49,0:00,0:00,NA
+2018020316,8478458,Jack Roslovic,Winnipeg Jets,C,8:44,0,0,0,0,0,0,0,4,7,0,0,0,0,1,0,8:44,0:00,0:00,57.14
+2018020316,8474574,Tyler Myers,Winnipeg Jets,D,16:42,1,0,3,0,0,0,0,0,0,0,0,0,0,1,3,15:59,0:00,0:43,NA
+2018020316,8475279,Ben Chiarot,Winnipeg Jets,D,17:47,0,0,1,2,0,0,0,0,0,0,1,0,0,1,1,16:26,0:01,1:20,NA
+2018020316,8476885,Jacob Trouba,Winnipeg Jets,D,20:23,1,0,3,1,0,0,2,0,0,0,0,0,0,2,1,14:53,2:59,2:31,NA
+2018020316,8477940,Nikolaj Ehlers,Winnipeg Jets,LW,18:03,1,0,4,0,0,0,0,0,0,0,0,0,0,1,1,15:04,2:59,0:00,NA
+2018020316,8476460,Mark Scheifele,Winnipeg Jets,C,21:37,1,1,5,2,0,1,0,13,23,1,0,0,0,0,0,14:42,5:24,1:31,56.52
+2018020316,8477464,Nic Petan,Winnipeg Jets,LW,8:08,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,8:08,0:00,0:00,NA
+2018020316,8478398,Kyle Connor,Winnipeg Jets,LW,16:50,3,1,7,1,1,0,0,0,0,0,0,0,0,0,2,11:26,5:24,0:00,NA
+2018020316,8476392,Adam Lowry,Winnipeg Jets,C,15:00,0,0,1,4,0,0,0,8,18,0,0,0,0,0,-1,13:04,0:00,1:56,44.44
+2018020316,8479293,Brandon Tanev,Winnipeg Jets,LW,13:10,0,0,0,3,0,0,5,0,0,0,0,0,0,2,0,11:14,0:00,1:56,NA

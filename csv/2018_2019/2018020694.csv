@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020694,8470607,Brent Seabrook,Chicago Blackhawks,D,15:20,0,0,0,1,0,0,0,0,0,1,3,0,0,1,-1,12:44,0:45,1:51,NA
+2018020694,8476979,Erik Gustafsson,Chicago Blackhawks,D,25:41,2,0,1,3,0,2,0,0,0,0,2,0,0,1,1,20:58,4:43,0:00,NA
+2018020694,8473604,Jonathan Toews,Chicago Blackhawks,C,22:24,1,0,2,0,0,1,0,12,18,0,0,0,0,0,0,16:00,4:13,2:11,66.67
+2018020694,8470543,Chris Kunitz,Chicago Blackhawks,LW,7:02,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,7:02,0:00,0:00,NA
+2018020694,8476438,Brandon Saad,Chicago Blackhawks,LW,15:57,0,0,2,4,0,0,0,0,0,1,0,0,0,0,-2,13:44,1:15,0:58,NA
+2018020694,8479337,Alex DeBrincat,Chicago Blackhawks,LW,19:06,0,2,5,1,1,0,0,1,2,1,0,0,0,2,0,14:37,4:29,0:00,50
+2018020694,8470281,Duncan Keith,Chicago Blackhawks,D,25:47,0,0,5,1,0,0,0,0,0,0,0,0,0,2,1,22:57,0:59,1:51,NA
+2018020694,8474141,Patrick Kane,Chicago Blackhawks,RW,21:19,1,1,3,1,1,1,0,0,0,0,0,0,0,0,0,16:52,4:13,0:14,NA
+2018020694,8475323,Marcus Kruger,Chicago Blackhawks,C,10:35,0,0,0,1,0,0,0,3,7,1,0,0,0,1,0,9:42,0:00,0:53,42.86
+2018020694,8477401,John Hayden,Chicago Blackhawks,RW,7:22,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,7:22,0:00,0:00,0
+2018020694,8480946,Dominik Kahun,Chicago Blackhawks,C,16:49,1,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,14:52,1:15,0:42,NA
+2018020694,8479465,Drake Caggiula,Chicago Blackhawks,C,13:29,0,0,1,5,0,0,0,0,0,1,0,0,0,1,-2,12:33,0:00,0:56,NA
+2018020694,8473573,Artem Anisimov,Chicago Blackhawks,C,17:25,0,0,1,1,0,0,2,0,0,0,0,0,0,1,0,16:10,1:15,0:00,NA
+2018020694,8478440,Dylan Strome,Chicago Blackhawks,C,17:22,0,0,0,0,0,0,0,5,15,0,0,0,0,1,0,13:09,4:13,0:00,33.33
+2018020694,8477472,Carl Dahlstrom,Chicago Blackhawks,D,18:54,0,0,1,1,0,0,0,0,0,1,1,0,0,2,-3,16:45,0:00,2:09,NA
+2018020694,8476473,Connor Murphy,Chicago Blackhawks,D,18:42,0,0,0,1,0,0,2,0,0,0,0,0,0,3,-2,17:26,0:00,1:16,NA
+2018020694,8480144,David Kampf,Chicago Blackhawks,C,14:31,0,0,1,1,0,0,0,6,13,1,0,0,0,1,-3,12:25,0:00,2:06,46.15
+2018020694,8480035,Henri Jokiharju,Chicago Blackhawks,D,12:39,0,0,0,2,0,0,0,0,0,0,1,0,0,2,-1,11:46,0:00,0:53,NA
+2018020694,8471669,Paul Stastny,Vegas Golden Knights,C,18:29,1,1,3,0,0,0,0,11,19,0,0,0,0,0,2,14:26,1:51,2:12,57.89
+2018020694,8468674,Deryk Engelland,Vegas Golden Knights,D,19:09,0,0,0,1,0,0,0,0,0,0,1,0,0,1,-1,14:46,0:08,4:15,NA
+2018020694,8471817,Ryan Reaves,Vegas Golden Knights,RW,7:11,0,0,0,4,0,0,0,0,0,0,0,0,0,1,0,7:11,0:00,0:00,NA
+2018020694,8476539,Jonathan Marchessault,Vegas Golden Knights,C,19:15,0,0,6,1,0,0,0,0,1,0,1,0,0,1,0,17:17,1:58,0:00,0
+2018020694,8475715,Oscar Lindberg,Vegas Golden Knights,C,13:37,1,0,1,2,0,0,2,0,1,1,0,0,0,1,1,13:37,0:00,0:00,0
+2018020694,8477949,Alex Tuch,Vegas Golden Knights,RW,16:14,1,1,7,2,0,0,0,0,0,0,0,0,0,0,1,14:23,1:51,0:00,NA
+2018020694,8475236,Cody Eakin,Vegas Golden Knights,C,17:51,0,0,2,0,0,0,0,10,15,1,0,0,0,0,1,14:08,2:09,1:34,66.67
+2018020694,8477447,Shea Theodore,Vegas Golden Knights,D,18:38,0,1,2,0,0,0,2,0,0,0,0,0,0,1,1,16:52,1:46,0:00,NA
+2018020694,8475204,Brandon Pirri,Vegas Golden Knights,C,18:02,1,0,4,3,0,0,0,2,4,0,1,0,0,0,1,16:00,2:02,0:00,50
+2018020694,8477931,Tomas Nosek,Vegas Golden Knights,LW,10:25,0,0,2,1,0,0,0,0,0,1,1,0,0,0,0,6:30,2:01,1:54,NA
+2018020694,8474207,Nick Holden,Vegas Golden Knights,D,18:31,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,17:18,0:00,1:13,NA
+2018020694,8477846,Ryan Carpenter,Vegas Golden Knights,C,14:29,0,1,3,1,0,0,0,0,0,1,2,0,0,0,1,13:07,0:00,1:22,NA
+2018020694,8476448,William Karlsson,Vegas Golden Knights,C,19:45,0,0,0,2,0,0,0,3,9,2,0,0,0,0,0,15:36,2:09,2:00,33.33
+2018020694,8475188,Brayden McNabb,Vegas Golden Knights,D,20:17,0,0,0,5,0,0,0,0,0,0,2,0,0,3,1,16:02,0:00,4:15,NA
+2018020694,8475750,Jon Merrill,Vegas Golden Knights,D,18:58,1,0,2,0,0,0,4,0,0,0,0,0,0,1,1,18:27,0:00,0:31,NA
+2018020694,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,C,9:57,0,0,0,0,0,0,0,3,7,1,0,0,0,0,0,8:03,0:00,1:54,42.86
+2018020694,8474157,Max Pacioretty,Vegas Golden Knights,LW,16:04,2,0,1,6,0,0,0,0,0,0,0,0,0,0,1,14:13,1:51,0:00,NA
+2018020694,8477220,Nate Schmidt,Vegas Golden Knights,D,21:37,1,0,1,0,0,0,0,0,0,1,0,0,0,1,2,18:41,2:14,0:42,NA

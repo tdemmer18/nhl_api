@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020352,8476917,Adam Pelech,New York Islanders,D,18:02,0,1,1,0,0,0,2,0,0,0,0,0,0,2,2,18:02,0:00,0:00,NA
+2018020352,8477506,Ryan Pulock,New York Islanders,D,18:25,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,17:46,0:00,0:39,NA
+2018020352,8476429,Scott Mayfield,New York Islanders,D,22:26,1,0,0,2,0,0,0,0,0,0,2,0,0,1,2,19:30,0:00,2:56,NA
+2018020352,8470047,Valtteri Filppula,New York Islanders,C,15:27,0,1,3,0,0,0,0,5,15,1,1,0,0,2,1,13:31,0:00,1:56,33.33
+2018020352,8470187,Johnny Boychuk,New York Islanders,D,20:03,0,0,1,1,0,0,0,0,0,0,0,0,0,2,2,19:07,0:00,0:56,NA
+2018020352,8473504,Cal Clutterbuck,New York Islanders,RW,11:54,0,0,1,5,0,0,0,2,2,0,0,0,0,2,0,9:58,0:00,1:56,100
+2018020352,8475314,Anders Lee,New York Islanders,LW,15:21,2,0,2,2,0,0,0,0,1,0,0,0,0,1,2,14:50,0:31,0:00,0
+2018020352,8475754,Brock Nelson,New York Islanders,C,18:42,2,0,1,0,0,0,2,8,17,0,1,0,0,1,2,16:15,0:31,1:56,47.06
+2018020352,8475832,Tom Kuhnhackl,New York Islanders,RW,13:23,0,0,2,2,0,0,0,0,0,1,2,0,0,1,1,13:23,0:00,0:00,NA
+2018020352,8477527,Ross Johnston,New York Islanders,LW,8:13,0,0,0,3,0,0,5,0,0,0,0,0,0,0,0,8:13,0:00,0:00,NA
+2018020352,8478445,Mathew Barzal,New York Islanders,C,17:37,1,0,2,1,0,0,0,5,11,1,0,0,0,3,1,17:37,0:00,0:00,45.45
+2018020352,8479206,Tanner Fritz,New York Islanders,C,8:24,0,0,0,1,0,0,0,3,6,0,0,0,0,0,0,8:24,0:00,0:00,50
+2018020352,8474573,Josh Bailey,New York Islanders,RW,16:10,1,1,1,0,0,0,0,0,0,0,3,0,0,0,2,15:39,0:31,0:00,NA
+2018020352,8474586,Jordan Eberle,New York Islanders,RW,15:04,0,0,2,3,0,0,2,0,0,1,1,0,0,1,1,14:33,0:31,0:00,NA
+2018020352,8478463,Anthony Beauvillier,New York Islanders,LW,18:39,0,1,1,1,0,0,0,1,1,0,2,0,0,0,1,18:39,0:00,0:00,100
+2018020352,8473463,Leo Komarov,New York Islanders,RW,16:03,1,0,1,3,0,0,0,0,1,1,0,0,0,1,1,14:07,0:00,1:56,0
+2018020352,8474066,Thomas Hickey,New York Islanders,D,20:12,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,17:16,0:00,2:56,NA
+2018020352,8475181,Nick Leddy,New York Islanders,D,20:34,0,0,1,2,0,0,0,0,0,0,0,0,0,0,2,19:46,0:31,0:17,NA
+2018020352,8475907,Micheal Ferland,Carolina Hurricanes,LW,13:51,0,0,1,2,0,0,0,0,3,0,0,0,0,0,0,12:24,1:27,0:00,0
+2018020352,8476934,Brock McGinn,Carolina Hurricanes,LW,13:39,0,0,3,2,0,0,0,1,1,0,0,0,0,1,-2,13:03,0:05,0:31,100
+2018020352,8476858,Phillip Di Giuseppe,Carolina Hurricanes,LW,11:54,0,0,2,2,0,0,0,0,2,0,0,0,0,0,0,11:48,0:06,0:00,0
+2018020352,8473533,Jordan Staal,Carolina Hurricanes,C,18:17,0,0,0,4,0,0,0,8,15,2,0,0,0,0,-2,15:32,2:14,0:31,53.33
+2018020352,8476958,Jaccob Slavin,Carolina Hurricanes,D,23:58,0,0,1,2,0,0,0,0,0,1,1,0,0,1,-2,21:39,2:19,0:00,NA
+2018020352,8477998,Warren Foegele,Carolina Hurricanes,LW,12:19,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,12:13,0:06,0:00,NA
+2018020352,8478427,Sebastian Aho,Carolina Hurricanes,C,19:03,0,0,1,1,0,0,0,10,12,1,1,0,0,0,-1,17:31,1:32,0:00,83.33
+2018020352,8475753,Justin Faulk,Carolina Hurricanes,D,23:04,0,0,2,1,0,0,2,0,0,0,0,0,0,1,-1,21:40,1:24,0:00,NA
+2018020352,8476953,Trevor Carrick,Carolina Hurricanes,D,11:29,0,0,0,1,0,0,5,0,0,0,0,0,0,1,-1,11:29,0:00,0:00,NA
+2018020352,8476921,Jordan Martinook,Carolina Hurricanes,LW,12:45,0,0,2,3,0,0,0,1,5,0,0,0,0,0,-2,12:45,0:00,0:00,20
+2018020352,8476437,Victor Rask,Carolina Hurricanes,C,14:11,0,0,0,4,0,0,0,6,12,1,0,0,0,0,0,14:05,0:06,0:00,50
+2018020352,8477845,Trevor van Riemsdyk,Carolina Hurricanes,D,14:42,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-1,14:05,0:06,0:31,NA
+2018020352,8475177,Calvin de Haan,Carolina Hurricanes,D,22:48,0,0,3,1,0,0,0,0,0,0,0,0,0,0,-1,22:11,0:06,0:31,NA
+2018020352,8478027,Lucas Wallmark,Carolina Hurricanes,C,14:48,1,0,0,0,0,1,0,3,3,1,2,0,0,1,-1,12:34,2:14,0:00,100
+2018020352,8476882,Teuvo Teravainen,Carolina Hurricanes,LW,18:15,0,0,1,1,0,0,0,1,1,1,1,0,0,0,0,16:48,1:27,0:00,100
+2018020352,8476462,Dougie Hamilton,Carolina Hurricanes,D,22:32,1,0,4,4,0,1,0,0,0,0,0,0,0,0,-2,20:10,2:22,0:00,NA
+2018020352,8468508,Justin Williams,Carolina Hurricanes,RW,13:19,0,1,5,0,1,0,0,0,0,0,1,0,0,0,-4,11:00,2:19,0:00,NA
+2018020352,8480830,Andrei Svechnikov,Carolina Hurricanes,RW,17:10,0,0,2,2,0,0,0,0,0,1,1,0,0,2,0,15:43,1:27,0:00,NA

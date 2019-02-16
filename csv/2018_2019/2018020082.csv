@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020082,8471958,Dan Girardi,Tampa Bay Lightning,D,19:47,2,0,0,0,0,0,0,0,0,0,0,0,1,2,1,16:44,0:00,3:03,NA
+2018020082,8478519,Anthony Cirelli,Tampa Bay Lightning,C,16:50,0,0,1,1,0,0,0,7,15,1,1,0,0,1,-1,11:14,0:00,5:36,46.67
+2018020082,8471873,Anton Stralman,Tampa Bay Lightning,D,23:39,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,18:55,0:00,4:44,NA
+2018020082,8476826,Yanni Gourde,Tampa Bay Lightning,C,16:55,0,1,2,0,1,0,0,3,6,1,0,0,0,1,0,13:03,0:19,3:33,50
+2018020082,8476468,J.T. Miller,Tampa Bay Lightning,C,12:01,1,0,0,0,0,0,0,4,6,0,0,0,0,0,1,11:13,0:48,0:00,66.67
+2018020082,8476975,Cedric Paquette,Tampa Bay Lightning,C,10:34,0,0,2,2,0,0,0,6,8,0,0,0,0,1,0,9:05,0:00,1:29,75
+2018020082,8470601,Braydon Coburn,Tampa Bay Lightning,D,13:58,0,0,2,2,0,0,0,0,0,0,0,0,0,1,1,13:37,0:00,0:21,NA
+2018020082,8473986,Alex Killorn,Tampa Bay Lightning,LW,14:12,0,0,2,0,0,0,2,0,0,0,0,0,0,0,-1,11:54,0:48,1:30,NA
+2018020082,8476453,Nikita Kucherov,Tampa Bay Lightning,RW,17:36,1,0,3,0,0,0,0,0,0,2,1,0,0,1,1,16:48,0:48,0:00,NA
+2018020082,8474870,Tyler Johnson,Tampa Bay Lightning,C,17:43,0,3,6,0,0,0,2,8,19,0,1,1,0,2,2,16:09,0:19,1:15,42.11
+2018020082,8477454,Adam Erne,Tampa Bay Lightning,LW,9:37,1,0,2,2,0,0,2,0,0,0,0,0,0,0,1,9:37,0:00,0:00,NA
+2018020082,8475167,Victor Hedman,Tampa Bay Lightning,D,21:58,0,0,1,0,0,0,0,0,0,1,0,0,0,3,0,18:07,0:48,3:03,NA
+2018020082,8474151,Ryan McDonagh,Tampa Bay Lightning,D,23:45,0,0,0,3,0,0,0,0,0,1,1,0,0,5,0,19:09,0:00,4:36,NA
+2018020082,8474564,Steven Stamkos,Tampa Bay Lightning,C,15:59,0,0,1,2,0,0,0,4,7,1,1,0,0,0,-1,13:43,0:48,1:28,57.14
+2018020082,8479410,Mikhail Sergachev,Tampa Bay Lightning,D,15:46,0,0,1,0,0,0,0,0,0,1,3,0,0,3,1,15:14,0:19,0:13,NA
+2018020082,8476292,Ondrej Palat,Tampa Bay Lightning,LW,15:04,1,0,0,4,0,1,0,0,3,0,1,0,0,0,0,14:45,0:19,0:00,0
+2018020082,8478472,Mathieu Joseph,Tampa Bay Lightning,RW,12:15,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,11:06,0:00,1:09,0
+2018020082,8478010,Brayden Point,Tampa Bay Lightning,C,14:21,0,0,3,0,0,0,2,1,2,1,0,0,0,0,0,14:02,0:19,0:00,50
+2018020082,8475907,Micheal Ferland,Carolina Hurricanes,LW,19:18,0,1,5,0,0,0,0,2,3,0,1,0,0,0,0,16:21,2:57,0:00,66.67
+2018020082,8476934,Brock McGinn,Carolina Hurricanes,LW,10:29,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,9:49,0:13,0:27,0
+2018020082,8473533,Jordan Staal,Carolina Hurricanes,C,17:11,0,0,1,0,0,0,0,13,22,0,0,0,0,0,-1,12:36,4:08,0:27,59.09
+2018020082,8476958,Jaccob Slavin,Carolina Hurricanes,D,22:25,0,0,1,2,0,0,0,0,0,0,1,0,0,1,-1,18:31,3:27,0:27,NA
+2018020082,8477998,Warren Foegele,Carolina Hurricanes,LW,15:09,1,0,2,1,0,0,0,1,1,0,0,0,0,1,0,14:29,0:00,0:40,100
+2018020082,8478427,Sebastian Aho,Carolina Hurricanes,RW,20:12,1,0,4,0,0,0,0,7,15,1,0,0,0,0,1,15:52,4:20,0:00,46.67
+2018020082,8475753,Justin Faulk,Carolina Hurricanes,D,20:19,0,0,2,1,0,0,0,0,0,0,1,0,0,2,-1,15:16,5:03,0:00,NA
+2018020082,8477458,Valentin Zykov,Carolina Hurricanes,LW,11:38,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,7:18,4:20,0:00,NA
+2018020082,8476921,Jordan Martinook,Carolina Hurricanes,LW,14:42,0,0,2,1,0,0,0,0,1,2,0,0,0,1,-1,13:49,0:13,0:40,0
+2018020082,8477845,Trevor van Riemsdyk,Carolina Hurricanes,D,15:42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15:02,0:00,0:40,NA
+2018020082,8477488,Brett Pesce,Carolina Hurricanes,D,18:39,0,0,1,0,0,0,0,0,0,0,0,0,0,5,0,18:12,0:00,0:27,NA
+2018020082,8475177,Calvin de Haan,Carolina Hurricanes,D,16:45,0,0,2,4,0,0,0,0,0,0,2,0,0,0,0,15:52,0:13,0:40,NA
+2018020082,8478027,Lucas Wallmark,Carolina Hurricanes,C,14:30,0,0,3,0,0,0,0,6,14,0,0,0,0,0,-1,14:05,0:25,0:00,42.86
+2018020082,8476882,Teuvo Teravainen,Carolina Hurricanes,LW,20:26,1,0,4,0,0,0,0,0,0,0,1,0,0,1,1,16:06,4:20,0:00,NA
+2018020082,8476462,Dougie Hamilton,Carolina Hurricanes,D,22:06,0,0,7,3,0,0,0,0,0,0,0,0,0,1,0,18:39,3:27,0:00,NA
+2018020082,8468508,Justin Williams,Carolina Hurricanes,RW,18:23,0,0,2,2,0,0,0,1,1,0,0,0,0,0,-2,14:56,3:27,0:00,100
+2018020082,8480830,Andrei Svechnikov,Carolina Hurricanes,RW,16:43,0,0,1,1,0,0,0,0,0,0,3,0,0,0,-3,13:16,3:27,0:00,NA
+2018020082,8480039,Martin Necas,Carolina Hurricanes,C,6:43,0,1,1,0,0,0,2,4,9,0,0,0,0,0,1,6:43,0:00,0:00,44.44

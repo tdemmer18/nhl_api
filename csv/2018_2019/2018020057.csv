@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020057,8476918,Jimmy Vesey,New York Rangers,LW,15:36,0,0,1,1,0,0,0,0,0,3,2,0,0,0,0,14:19,1:17,0:00,NA
+2018020057,8471717,Adam McQuaid,New York Rangers,D,17:57,0,0,0,3,0,0,2,0,0,0,0,0,0,0,-1,15:49,0:00,2:08,NA
+2018020057,8471686,Marc Staal,New York Rangers,D,17:22,1,0,0,3,0,0,4,0,0,0,0,0,0,1,1,15:18,0:00,2:04,NA
+2018020057,8476869,Brady Skjei,New York Rangers,D,26:16,0,0,0,2,0,0,0,0,0,0,3,0,0,3,-1,20:54,2:06,3:16,NA
+2018020057,8475727,Ryan Spooner,New York Rangers,C,9:36,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,8:19,1:17,0:00,100
+2018020057,8479968,Vinni Lettieri,New York Rangers,C,8:46,0,0,2,1,0,0,0,1,1,0,0,0,0,1,0,8:46,0:00,0:00,100
+2018020057,8476459,Mika Zibanejad,New York Rangers,C,22:00,0,1,4,3,0,0,0,11,23,1,0,0,0,1,0,15:50,1:54,4:16,47.83
+2018020057,8475855,Jesper Fast,New York Rangers,RW,19:23,0,0,2,2,0,0,0,0,0,0,0,0,0,1,0,15:05,1:11,3:07,NA
+2018020057,8474031,Kevin Shattenkirk,New York Rangers,D,17:39,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,15:42,1:57,0:00,NA
+2018020057,8477402,Pavel Buchnevich,New York Rangers,RW,11:22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9:28,1:54,0:00,NA
+2018020057,8475763,Kevin Hayes,New York Rangers,C,19:00,0,0,2,0,0,0,0,9,14,1,0,0,0,0,0,14:09,2:03,2:48,64.29
+2018020057,8476368,Fredrik Claesson,New York Rangers,D,16:34,0,0,1,3,0,0,0,0,0,0,1,0,0,0,0,13:34,0:00,3:00,NA
+2018020057,8475184,Chris Kreider,New York Rangers,LW,16:24,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,14:30,1:54,0:00,NA
+2018020057,8479353,Brett Howden,New York Rangers,C,14:21,0,0,0,0,0,0,0,6,12,0,1,0,0,1,0,12:15,2:06,0:00,50
+2018020057,8475692,Mats Zuccarello,New York Rangers,RW,19:26,0,0,1,2,0,0,0,0,0,2,0,0,0,1,0,13:41,1:32,4:13,NA
+2018020057,8474090,Brendan Smith,New York Rangers,D,19:09,1,0,1,2,0,0,0,0,0,0,3,0,0,2,1,15:13,0:00,3:56,NA
+2018020057,8480078,Filip Chytil,New York Rangers,C,10:19,0,0,3,0,0,0,0,1,4,0,1,0,0,1,0,9:30,0:49,0:00,25
+2018020057,8476480,Vladislav Namestnikov,New York Rangers,C,12:48,0,0,2,1,0,0,2,0,0,0,0,0,0,0,0,12:48,0:00,0:00,NA
+2018020057,8470803,Kyle Brodziak,Edmonton Oilers,C,10:56,0,0,1,2,0,0,0,5,8,1,0,0,0,2,0,9:25,0:00,1:31,62.5
+2018020057,8471729,Kris Russell,Edmonton Oilers,D,22:35,0,0,2,2,0,0,0,0,0,0,1,0,0,3,1,19:38,0:36,2:21,NA
+2018020057,8476915,Jujhar Khaira,Edmonton Oilers,LW,10:52,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,10:02,0:00,0:50,0
+2018020057,8476457,Adam Larsson,Edmonton Oilers,D,21:32,0,0,1,5,0,0,0,0,0,0,1,0,0,1,-1,19:17,0:36,1:39,NA
+2018020057,8476458,Ryan Strome,Edmonton Oilers,C,13:43,0,0,2,0,0,0,0,3,9,0,0,0,0,0,0,10:51,1:05,1:47,33.33
+2018020057,8477934,Leon Draisaitl,Edmonton Oilers,C,20:28,1,0,2,1,0,1,0,10,20,0,0,0,0,0,-1,14:40,5:31,0:17,50
+2018020057,8479977,Kailer Yamamoto,Edmonton Oilers,RW,11:19,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11:08,0:11,0:00,NA
+2018020057,8476427,Ty Rattie,Edmonton Oilers,RW,13:35,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,13:04,0:31,0:00,NA
+2018020057,8477498,Darnell Nurse,Edmonton Oilers,D,24:13,1,0,3,2,0,0,0,0,0,0,2,0,0,0,0,21:05,1:05,2:03,NA
+2018020057,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,C,23:39,1,1,4,0,0,1,0,4,6,0,1,0,0,0,1,16:07,6:16,1:16,66.67
+2018020057,8476356,Tobias Rieder,Edmonton Oilers,RW,12:11,0,0,1,4,0,0,0,0,0,0,0,0,0,2,0,10:26,0:00,1:45,NA
+2018020057,8474520,Jason Garrison,Edmonton Oilers,D,11:11,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,10:47,0:00,0:24,NA
+2018020057,8478402,Connor McDavid,Edmonton Oilers,C,24:35,1,1,2,0,1,0,0,4,10,2,0,0,0,1,0,18:05,5:56,0:34,40
+2018020057,8480803,Evan Bouchard,Edmonton Oilers,D,11:15,0,0,2,1,0,0,2,0,0,0,0,0,0,1,0,11:15,0:00,0:00,NA
+2018020057,8479465,Drake Caggiula,Edmonton Oilers,LW,11:10,0,0,3,2,0,0,0,0,1,0,0,0,0,0,0,10:14,0:56,0:00,0
+2018020057,8479344,Jesse Puljujarvi,Edmonton Oilers,RW,11:20,0,0,2,1,0,0,0,0,0,1,2,0,0,1,0,10:10,1:10,0:00,NA
+2018020057,8476472,Oscar Klefbom,Edmonton Oilers,D,23:51,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,15:42,6:36,1:33,NA
+2018020057,8473473,Milan Lucic,Edmonton Oilers,LW,17:40,0,0,0,9,0,0,2,0,0,0,0,0,0,1,-1,12:09,5:31,0:00,NA

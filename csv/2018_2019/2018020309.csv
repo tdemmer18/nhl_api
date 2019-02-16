@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020309,8480072,Lias Andersson,New York Rangers,C,9:01,0,0,0,1,0,0,0,75,3,4,2,0,0,0,0,0,8:27,0:00,0:34
+2018020309,8476918,Jimmy Vesey,New York Rangers,LW,16:13,0,1,3,0,0,0,0,NA,0,0,1,3,0,0,1,2,13:26,1:01,1:46
+2018020309,8471686,Marc Staal,New York Rangers,D,22:10,1,0,0,0,0,0,0,NA,0,0,0,0,0,0,3,1,18:47,0:00,3:23
+2018020309,8471657,Cody McLeod,New York Rangers,LW,7:03,0,0,0,7,0,0,0,NA,0,0,0,0,0,0,0,0,7:03,0:00,0:00
+2018020309,8476458,Ryan Strome,New York Rangers,C,14:43,0,0,0,2,0,0,0,NA,0,0,0,1,0,0,0,0,14:06,0:00,0:37
+2018020309,8476459,Mika Zibanejad,New York Rangers,C,17:00,0,0,4,2,0,0,2,46.15,6,13,1,1,0,0,3,0,14:01,1:13,1:46
+2018020309,8475855,Jesper Fast,New York Rangers,RW,16:23,0,0,0,2,0,0,0,NA,0,0,0,2,0,0,1,0,14:43,0:00,1:40
+2018020309,8477950,Tony DeAngelo,New York Rangers,D,18:15,0,0,4,0,0,0,0,NA,0,0,0,1,0,0,1,2,15:57,1:01,1:17
+2018020309,8474031,Kevin Shattenkirk,New York Rangers,D,18:55,0,0,1,1,0,0,0,NA,0,0,1,2,0,0,1,0,18:13,0:42,0:00
+2018020309,8475763,Kevin Hayes,New York Rangers,C,20:09,0,0,2,1,0,0,0,46.67,7,15,1,2,0,0,0,2,17:10,1:01,1:58
+2018020309,8476368,Fredrik Claesson,New York Rangers,D,18:40,0,0,0,0,0,0,2,NA,0,0,0,0,0,0,3,0,17:14,0:00,1:26
+2018020309,8475184,Chris Kreider,New York Rangers,LW,18:13,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,1,0,17:00,1:13,0:00
+2018020309,8479353,Brett Howden,New York Rangers,C,14:56,1,0,1,0,0,0,0,54.55,6,11,1,1,0,0,0,1,12:30,1:01,1:25
+2018020309,8476396,Steven Fogarty,New York Rangers,C,7:25,0,0,1,0,0,0,0,100,2,2,0,0,0,0,0,0,7:25,0:00,0:00
+2018020309,8474090,Brendan Smith,New York Rangers,D,16:03,1,0,1,2,0,0,2,NA,0,0,0,1,0,0,0,1,14:32,0:00,1:31
+2018020309,8480078,Filip Chytil,New York Rangers,C,14:33,0,1,3,0,0,0,0,NA,0,0,1,2,0,0,2,1,13:20,1:13,0:00
+2018020309,8476480,Vladislav Namestnikov,New York Rangers,C,17:17,0,0,2,1,0,0,2,NA,0,0,1,0,0,0,1,0,14:32,1:13,1:32
+2018020309,8480145,Neal Pionk,New York Rangers,D,25:15,0,0,0,4,0,0,0,0,0,1,2,0,0,0,1,0,19:48,1:32,3:55
+2018020309,8476902,Esa Lindell,Dallas Stars,D,23:59,1,0,1,1,0,1,0,NA,0,0,1,2,0,0,1,-1,19:27,3:17,1:15
+2018020309,8473994,Jamie Benn,Dallas Stars,LW,20:13,0,0,0,1,0,0,0,33.33,1,3,0,2,0,0,2,0,16:46,3:22,0:05
+2018020309,8478449,Roope Hintz,Dallas Stars,LW,12:08,0,0,1,0,0,0,0,66.67,2,3,1,1,0,0,0,0,9:44,2:24,0:00
+2018020309,8477810,Joel Hanley,Dallas Stars,D,14:41,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,0,-1,14:41,0:00,0:00
+2018020309,8471228,Alexander Radulov,Dallas Stars,RW,19:40,0,0,1,1,0,0,0,NA,0,0,0,2,0,0,1,0,16:18,3:22,0:00
+2018020309,8477945,Julius Honka,Dallas Stars,D,15:46,0,0,0,0,0,0,0,NA,0,0,1,1,0,0,0,0,15:46,0:00,0:00
+2018020309,8477406,Mattias Janmark,Dallas Stars,C,16:44,0,0,0,0,0,0,0,NA,0,0,2,1,0,0,1,-1,15:31,0:00,1:13
+2018020309,8476889,Radek Faksa,Dallas Stars,C,17:42,0,0,2,1,0,0,0,58.33,7,12,0,0,0,0,0,-1,16:17,0:43,0:42
+2018020309,8479945,Gavin Bayreuther,Dallas Stars,D,19:48,0,0,1,2,0,0,0,NA,0,0,0,2,0,0,0,0,16:49,2:37,0:22
+2018020309,8476966,Gemel Smith,Dallas Stars,C,7:33,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,7:33,0:00,0:00
+2018020309,8471260,Blake Comeau,Dallas Stars,LW,13:12,0,0,1,2,0,0,0,50,1,2,0,0,0,0,1,-2,11:45,0:00,1:27
+2018020309,8471392,Roman Polak,Dallas Stars,D,17:47,0,0,2,2,0,0,0,NA,0,0,0,1,0,0,2,-1,15:52,0:03,1:52
+2018020309,8475794,Tyler Seguin,Dallas Stars,C,21:36,0,1,2,2,1,0,0,58.33,7,12,1,0,0,0,0,0,18:02,3:29,0:05
+2018020309,8477501,Valeri Nichushkin,Dallas Stars,RW,12:51,0,0,0,1,0,0,0,NA,0,0,2,1,0,0,0,0,11:10,1:41,0:00
+2018020309,8475752,Tyler Pitlick,Dallas Stars,C,13:03,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,1,-1,10:04,2:17,0:42
+2018020309,8477450,Jason Dickinson,Dallas Stars,C,12:44,0,0,1,4,0,0,2,25,2,8,0,1,0,0,1,-1,12:30,0:00,0:14
+2018020309,8469455,Jason Spezza,Dallas Stars,C,15:43,1,0,0,1,0,1,0,33.33,2,6,2,0,0,0,1,0,12:37,3:06,0:00
+2018020309,8480036,Miro Heiskanen,Dallas Stars,D,23:07,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,-1,19:39,2:29,0:59

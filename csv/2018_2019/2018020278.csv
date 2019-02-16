@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020278,8476906,Shayne Gostisbehere,Philadelphia Flyers,D,20:33,0,0,4,2,0,0,0,0,0,0,0,0,0,0,-2,15:03,5:30,0:00,NA
+2018020278,8474668,Dale Weise,Philadelphia Flyers,RW,9:43,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,7:53,0:00,1:50,NA
+2018020278,8473512,Claude Giroux,Philadelphia Flyers,C,22:23,0,0,1,1,0,0,0,8,13,0,2,0,0,0,-2,15:36,4:47,2:00,61.54
+2018020278,8477979,Nicolas Aube-Kubel,Philadelphia Flyers,RW,5:36,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5:36,0:00,0:00,NA
+2018020278,8477948,Travis Sanheim,Philadelphia Flyers,D,17:04,0,0,0,2,0,0,0,0,0,0,2,0,0,0,-1,15:58,0:00,1:06,NA
+2018020278,8474037,James van Riemsdyk,Philadelphia Flyers,LW,16:59,0,0,2,0,0,0,0,0,0,1,0,0,0,0,-1,12:12,4:47,0:00,NA
+2018020278,8475738,Jordan Weal,Philadelphia Flyers,C,16:35,0,0,0,2,0,0,0,1,6,0,0,0,0,1,0,13:33,3:02,0:00,16.67
+2018020278,8478439,Travis Konecny,Philadelphia Flyers,RW,18:41,0,0,2,2,0,0,0,0,0,1,0,0,0,2,0,15:46,2:55,0:00,NA
+2018020278,8478500,Ivan Provorov,Philadelphia Flyers,D,23:03,0,0,1,1,0,0,2,0,0,0,1,0,0,3,-1,19:08,2:30,1:25,NA
+2018020278,8476872,Scott Laughton,Philadelphia Flyers,C,9:49,0,0,0,1,0,0,0,4,7,1,0,0,0,1,0,8:02,0:00,1:47,57.14
+2018020278,8477850,Christian Folin,Philadelphia Flyers,D,15:27,0,0,2,4,0,0,2,0,0,0,0,0,0,1,-1,13:51,0:07,1:29,NA
+2018020278,8479974,Nolan Patrick,Philadelphia Flyers,C,15:31,0,0,3,2,0,0,2,5,12,1,1,0,0,1,-1,12:12,3:13,0:06,41.67
+2018020278,8474161,Jakub Voracek,Philadelphia Flyers,RW,17:47,0,0,3,0,0,0,0,0,0,0,1,0,0,0,-3,12:49,4:58,0:00,NA
+2018020278,8477462,Robert Hagg,Philadelphia Flyers,D,19:29,0,0,2,6,0,0,0,0,0,0,1,0,0,3,0,16:47,0:00,2:42,NA
+2018020278,8478067,Oskar Lindblom,Philadelphia Flyers,LW,10:07,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-1,10:01,0:00,0:06,NA
+2018020278,8476461,Sean Couturier,Philadelphia Flyers,C,22:49,0,0,3,0,0,0,0,11,15,0,0,0,0,0,-2,15:40,4:58,2:11,73.33
+2018020278,8473584,Andrew MacDonald,Philadelphia Flyers,D,16:04,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,14:46,0:00,1:18,NA
+2018020278,8474190,Wayne Simmonds,Philadelphia Flyers,RW,17:03,0,0,1,2,0,0,10,0,0,0,0,0,0,0,-1,13:50,3:13,0:00,NA
+2018020278,8476923,Damon Severson,New Jersey Devils,D,22:03,0,0,1,6,0,0,10,0,0,0,1,0,0,0,1,20:34,1:18,0:11,NA
+2018020278,8477509,Mirco Mueller,New Jersey Devils,D,22:39,0,0,0,3,0,0,2,0,0,0,0,0,0,0,2,21:10,0:01,1:28,NA
+2018020278,8471233,Travis Zajac,New Jersey Devils,C,19:36,1,0,0,1,0,0,0,9,20,0,0,0,0,0,2,12:51,2:13,4:32,45
+2018020278,8479407,Jesper Bratt,New Jersey Devils,LW,11:18,0,0,3,3,0,0,2,0,0,1,0,0,0,0,0,9:31,1:47,0:00,NA
+2018020278,8473933,Ben Lovejoy,New Jersey Devils,D,20:28,0,0,1,2,0,0,0,0,0,0,0,0,0,2,1,13:20,0:00,7:08,NA
+2018020278,8477425,Miles Wood,New Jersey Devils,LW,11:23,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,11:23,0:00,0:00,NA
+2018020278,8475149,Marcus Johansson,New Jersey Devils,LW,13:06,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,11:52,1:14,0:00,NA
+2018020278,8472382,Andy Greene,New Jersey Devils,D,25:14,0,0,3,0,0,0,0,0,0,0,1,0,0,4,1,18:43,0:00,6:31,NA
+2018020278,8478401,Pavel Zacha,New Jersey Devils,C,15:23,0,0,1,1,0,0,2,7,13,0,0,0,0,2,0,11:38,0:58,2:47,53.85
+2018020278,8479315,Joey Anderson,New Jersey Devils,RW,14:11,0,1,1,0,0,0,0,0,0,2,0,0,0,0,1,11:05,0:00,3:06,NA
+2018020278,8477355,Will Butcher,New Jersey Devils,D,17:43,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,15:00,2:42,0:01,NA
+2018020278,8477520,Jean-Sebastien Dea,New Jersey Devils,C,13:17,0,0,1,2,0,0,0,5,8,1,0,0,0,0,0,11:20,1:46,0:11,62.5
+2018020278,8476399,Blake Coleman,New Jersey Devils,C,15:36,2,1,5,1,0,0,0,1,3,2,0,0,0,0,3,10:53,0:00,4:43,33.33
+2018020278,8475222,Sami Vatanen,New Jersey Devils,D,9:14,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,7:44,0:49,0:41,NA
+2018020278,8475151,Kyle Palmieri,New Jersey Devils,RW,17:17,1,1,3,3,0,0,0,0,0,1,0,0,0,1,2,14:23,2:13,0:41,NA
+2018020278,8478881,Brett Seney,New Jersey Devils,LW,11:52,1,0,0,1,0,0,0,2,6,0,0,0,0,2,1,11:52,0:00,0:00,33.33
+2018020278,8475791,Taylor Hall,New Jersey Devils,LW,16:22,0,0,2,0,0,0,2,0,2,0,5,0,0,1,0,13:36,2:46,0:00,0
+2018020278,8476474,Stefan Noesen,New Jersey Devils,RW,13:18,0,0,0,3,0,0,0,0,1,0,0,0,0,2,0,11:05,2:13,0:00,0

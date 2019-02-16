@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020260,8480072,Lias Andersson,New York Rangers,C,13:23,0,0,1,2,0,0,0,100,1,1,0,1,0,0,0,0,12:06,0:00,1:17
+2018020260,8476918,Jimmy Vesey,New York Rangers,LW,16:40,1,0,3,0,0,0,0,NA,0,0,1,0,0,0,0,1,12:54,2:35,1:11
+2018020260,8471686,Marc Staal,New York Rangers,D,17:04,0,0,0,2,0,0,0,NA,0,0,0,2,0,0,2,0,13:33,0:13,3:18
+2018020260,8476869,Brady Skjei,New York Rangers,D,20:26,0,0,3,5,0,0,0,NA,0,0,0,0,0,0,1,0,18:16,0:03,2:07
+2018020260,8475727,Ryan Spooner,New York Rangers,C,11:13,0,0,0,0,0,0,0,100,3,3,0,0,0,0,0,-1,7:57,3:16,0:00
+2018020260,8479968,Vinni Lettieri,New York Rangers,C,7:18,0,0,1,0,0,0,0,NA,0,0,1,0,0,0,1,0,7:18,0:00,0:00
+2018020260,8471657,Cody McLeod,New York Rangers,LW,7:28,0,0,0,7,0,0,5,0,0,1,0,0,0,0,1,0,7:28,0:00,0:00
+2018020260,8476459,Mika Zibanejad,New York Rangers,C,19:25,0,0,3,0,0,0,4,60,9,15,1,0,0,0,1,-1,12:41,5:25,1:19
+2018020260,8475855,Jesper Fast,New York Rangers,RW,13:58,1,0,0,1,0,0,0,50,1,2,0,1,0,0,1,1,13:08,0:00,0:50
+2018020260,8477950,Tony DeAngelo,New York Rangers,D,20:05,0,0,1,0,0,0,2,NA,0,0,0,5,0,0,1,-1,17:28,2:22,0:15
+2018020260,8474031,Kevin Shattenkirk,New York Rangers,D,17:24,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,2,1,13:59,3:25,0:00
+2018020260,8475763,Kevin Hayes,New York Rangers,C,19:50,0,0,1,2,0,0,0,58.82,10,17,3,3,0,0,0,0,14:28,2:51,2:31
+2018020260,8476368,Fredrik Claesson,New York Rangers,D,17:04,0,0,0,1,0,0,0,NA,0,0,1,3,0,0,2,1,15:53,0:00,1:11
+2018020260,8475184,Chris Kreider,New York Rangers,LW,17:58,1,0,3,0,0,1,0,33.33,1,3,0,0,0,0,2,0,12:32,5:25,0:01
+2018020260,8479353,Brett Howden,New York Rangers,C,16:59,0,1,2,0,0,0,0,60,3,5,1,2,0,0,0,1,13:41,2:20,0:58
+2018020260,8480078,Filip Chytil,New York Rangers,C,14:08,0,1,6,0,1,0,2,33.33,1,3,2,1,0,0,0,0,11:27,2:41,0:00
+2018020260,8476480,Vladislav Namestnikov,New York Rangers,C,19:56,0,0,2,2,0,0,0,33.33,1,3,2,2,0,0,0,-1,12:53,4:56,2:07
+2018020260,8480145,Neal Pionk,New York Rangers,D,22:26,1,0,0,1,0,1,0,NA,0,0,0,1,0,0,1,-1,14:35,4:28,3:23
+2018020260,8470626,Loui Eriksson,Vancouver Canucks,LW,16:00,0,0,3,0,0,0,2,NA,0,0,0,0,0,0,0,0,13:42,2:18,0:00
+2018020260,8474849,Antoine Roussel,Vancouver Canucks,LW,16:23,0,0,0,1,0,0,0,100,1,1,0,0,0,0,0,1,13:22,0:00,3:01
+2018020260,8477958,Nikolay Goldobin,Vancouver Canucks,RW,18:32,0,1,2,0,0,0,4,NA,0,0,1,1,0,0,1,0,14:42,3:50,0:00
+2018020260,8477937,Jake Virtanen,Vancouver Canucks,RW,16:02,0,0,1,1,0,0,0,0,0,1,0,1,0,0,1,0,13:19,2:32,0:11
+2018020260,8475423,Darren Archibald,Vancouver Canucks,RW,7:27,0,0,1,0,0,0,5,NA,0,0,0,0,0,0,0,0,7:25,0:00,0:02
+2018020260,8477018,Ben Hutton,Vancouver Canucks,D,19:43,1,0,3,2,0,0,2,NA,0,0,0,0,0,0,0,1,13:20,1:31,4:52
+2018020260,8477213,Tim Schaller,Vancouver Canucks,C,9:37,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,7:33,0:00,2:04
+2018020260,8478874,Adam Gaudette,Vancouver Canucks,C,11:35,0,0,0,2,0,0,2,25,1,4,0,0,0,0,0,0,9:08,2:25,0:02
+2018020260,8474584,Michael Del Zotto,Vancouver Canucks,D,18:21,0,0,2,7,0,0,0,NA,0,0,0,0,0,0,2,0,16:23,0:18,1:40
+2018020260,8476894,Brendan Leipsic,Vancouver Canucks,LW,10:06,0,0,2,1,0,0,0,100,1,1,0,0,0,0,1,0,8:57,1:09,0:00
+2018020260,8476884,Derrick Pouliot,Vancouver Canucks,D,22:27,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,2,-1,17:44,3:36,1:07
+2018020260,8477500,Bo Horvat,Vancouver Canucks,C,22:55,0,0,3,0,0,0,0,46.67,14,30,1,0,0,0,2,0,16:41,3:21,2:53
+2018020260,8475690,Christopher Tanev,Vancouver Canucks,D,20:28,0,0,1,0,0,0,0,NA,0,0,0,3,0,0,2,-1,16:32,0:00,3:56
+2018020260,8475790,Erik Gudbranson,Vancouver Canucks,D,16:53,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,3,1,13:00,0:00,3:53
+2018020260,8476440,Markus Granlund,Vancouver Canucks,C,17:16,0,0,1,1,0,0,2,16.67,1,6,1,0,0,0,0,-1,11:48,1:27,4:01
+2018020260,8479442,Troy Stecher,Vancouver Canucks,D,17:47,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,0,0,16:32,0:43,0:32
+2018020260,8477353,Tyler Motte,Vancouver Canucks,C,12:17,1,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,0,8:31,0:00,3:46
+2018020260,8480012,Elias Pettersson,Vancouver Canucks,C,18:22,0,0,4,0,0,0,0,50,5,10,1,0,0,0,0,0,14:42,3:40,0:00

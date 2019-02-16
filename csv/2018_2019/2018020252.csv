@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020252,8470604,Jeff Carter,Los Angeles Kings,C,20:48,0,0,1,2,0,0,0,64.71,11,17,0,1,0,0,0,0,15:44,4:07,0:57
+2018020252,8470602,Dion Phaneuf,Los Angeles Kings,D,11:37,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,3,0,10:26,1:11,0:00
+2018020252,8470606,Dustin Brown,Los Angeles Kings,RW,19:26,0,0,3,0,0,0,0,NA,0,0,0,1,0,0,0,0,14:47,4:12,0:27
+2018020252,8471685,Anze Kopitar,Los Angeles Kings,C,22:37,0,0,0,1,0,0,0,60,12,20,0,1,0,0,0,0,17:55,4:07,0:35
+2018020252,8475726,Tyler Toffoli,Los Angeles Kings,RW,16:49,0,0,1,0,0,0,0,NA,0,0,1,0,0,0,0,0,14:22,1:40,0:47
+2018020252,8470775,Nate Thompson,Los Angeles Kings,C,12:45,0,0,0,3,0,0,0,20,1,5,0,0,0,0,0,0,12:11,0:06,0:28
+2018020252,8476871,Tanner Pearson,Los Angeles Kings,LW,12:20,0,0,2,1,0,0,0,NA,0,0,0,1,0,0,0,-1,10:33,1:47,0:00
+2018020252,8477960,Adrian Kempe,Los Angeles Kings,C,10:03,0,0,1,1,0,0,0,66.67,2,3,1,0,0,0,0,0,10:02,0:01,0:00
+2018020252,8474162,Jake Muzzin,Los Angeles Kings,D,22:19,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,2,0,21:32,0:05,0:42
+2018020252,8474563,Drew Doughty,Los Angeles Kings,D,27:44,0,0,1,1,0,0,0,NA,0,0,0,3,0,0,0,-1,22:18,4:15,1:11
+2018020252,8475762,Derek Forbort,Los Angeles Kings,D,20:38,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,-1,19:17,0:03,1:18
+2018020252,8473453,Trevor Lewis,Los Angeles Kings,C,11:47,0,0,2,0,0,0,0,100,1,1,1,0,0,0,1,-1,10:53,0:08,0:46
+2018020252,8474166,Alec Martinez,Los Angeles Kings,D,20:33,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,2,0,17:59,1:45,0:49
+2018020252,8469454,Ilya Kovalchuk,Los Angeles Kings,LW,19:48,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,1,0,15:07,4:41,0:00
+2018020252,8475160,Kyle Clifford,Los Angeles Kings,LW,10:49,0,0,3,0,0,0,2,NA,0,0,0,0,0,0,1,0,10:49,0:00,0:00
+2018020252,8478020,Michael Amadio,Los Angeles Kings,C,11:11,0,0,0,0,0,0,0,66.67,4,6,2,0,0,0,0,-1,10:59,0:12,0:00
+2018020252,8480113,Alex Iafallo,Los Angeles Kings,LW,16:02,0,0,2,3,0,0,0,0,0,3,0,0,0,0,1,0,14:22,1:40,0:00
+2018020252,8480147,Oscar Fantenberg,Los Angeles Kings,D,11:43,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,2,0,11:43,0:00,0:00
+2018020252,8470966,Mark Giordano,Calgary Flames,D,23:31,0,0,0,2,0,0,0,NA,0,0,0,1,0,0,7,0,19:12,0:55,3:24
+2018020252,8471707,James Neal,Calgary Flames,LW,14:21,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,0,0,13:27,0:54,0:00
+2018020252,8477903,Garnet Hathaway,Calgary Flames,RW,12:45,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,0,1,10:32,0:00,2:13
+2018020252,8477935,Sam Bennett,Calgary Flames,C,11:58,0,0,2,2,0,0,0,25,1,4,0,1,0,0,0,0,11:04,0:54,0:00
+2018020252,8473564,Michael Frolik,Calgary Flames,RW,12:20,0,0,5,1,0,0,0,NA,0,0,0,0,0,0,1,0,11:16,0:00,1:04
+2018020252,8474612,Travis Hamonic,Calgary Flames,D,22:18,0,1,5,0,0,0,0,0,0,1,2,0,0,0,3,1,19:00,0:00,3:18
+2018020252,8479976,Juuso Valimaki,Calgary Flames,D,15:24,0,0,2,2,0,0,2,NA,0,0,1,1,0,0,1,0,13:44,0:00,1:40
+2018020252,8474673,TJ Brodie,Calgary Flames,D,22:22,0,0,2,2,0,0,0,NA,0,0,0,1,0,0,2,0,19:40,0:07,2:35
+2018020252,8476873,Mark Jankowski,Calgary Flames,C,11:50,0,0,1,0,0,0,0,71.43,5,7,0,0,0,0,0,1,9:40,0:00,2:10
+2018020252,8474150,Mikael Backlund,Calgary Flames,C,18:07,0,0,2,0,0,0,0,52.94,9,17,0,0,0,0,0,0,14:40,0:47,2:40
+2018020252,8476346,Johnny Gaudreau,Calgary Flames,LW,19:13,0,0,4,0,0,0,0,NA,0,0,0,0,0,0,0,0,18:06,1:06,0:01
+2018020252,8479314,Matthew Tkachuk,Calgary Flames,LW,15:07,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,0,0,14:01,1:06,0:00
+2018020252,8478512,Austin Czarnik,Calgary Flames,C,9:44,1,0,1,0,0,0,0,50,1,2,0,1,0,0,0,1,8:44,1:00,0:00
+2018020252,8478397,Rasmus Andersson,Calgary Flames,D,13:02,0,0,1,1,0,0,0,NA,0,0,0,1,0,0,0,0,12:55,0:00,0:07
+2018020252,8478396,Noah Hanifin,Calgary Flames,D,21:38,1,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,1,19:37,1:05,0:56
+2018020252,8477497,Sean Monahan,Calgary Flames,C,18:09,0,0,2,0,0,0,0,30,3,10,0,2,0,0,0,0,17:00,1:06,0:03
+2018020252,8478585,Derek Ryan,Calgary Flames,C,13:12,0,0,2,0,0,0,2,28.57,2,7,0,1,0,0,0,0,11:14,0:00,1:58
+2018020252,8477496,Elias Lindholm,Calgary Flames,C,18:59,0,0,3,0,0,0,2,42.86,3,7,0,1,0,0,0,0,16:08,1:00,1:51

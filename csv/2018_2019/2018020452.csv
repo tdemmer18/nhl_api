@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020452,8471769,Niklas Hjalmarsson,Arizona Coyotes,D,20:05,0,0,1,3,0,0,0,0,0,0,1,0,0,3,0,18:40,0:00,1:25,NA
+2018020452,8474613,Derek Stepan,Arizona Coyotes,C,16:25,0,0,4,0,0,0,0,8,16,1,1,0,0,0,-1,15:40,0:00,0:45,50
+2018020452,8475209,Richard Panik,Arizona Coyotes,RW,17:59,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,17:03,0:00,0:56,NA
+2018020452,8478856,Conor Garland,Arizona Coyotes,RW,10:30,0,0,1,1,0,0,0,0,0,0,1,0,0,0,-1,10:30,0:00,0:00,NA
+2018020452,8470755,Brad Richardson,Arizona Coyotes,C,16:56,1,1,3,2,0,0,0,8,14,1,1,0,0,2,-1,15:49,0:00,1:07,57.14
+2018020452,8476326,Josh Archibald,Arizona Coyotes,RW,12:09,0,0,2,3,0,0,0,1,1,0,0,0,0,2,-1,11:05,0:00,1:04,100
+2018020452,8474131,Mario Kempe,Arizona Coyotes,RW,10:24,0,0,0,0,0,0,0,2,6,0,0,0,0,2,0,10:16,0:00,0:08,33.33
+2018020452,8477851,Jordan Oesterle,Arizona Coyotes,D,18:01,0,0,2,0,0,0,0,0,0,0,0,0,0,2,-2,18:01,0:00,0:00,NA
+2018020452,8476851,Alex Galchenyuk,Arizona Coyotes,C,17:48,1,0,0,0,0,1,2,2,5,0,0,0,0,0,-2,17:23,0:25,0:00,40
+2018020452,8477951,Nick Schmaltz,Arizona Coyotes,C,16:59,0,1,2,0,1,0,0,3,13,0,0,0,0,1,-2,16:34,0:25,0:00,23.08
+2018020452,8475246,Kevin Connauton,Arizona Coyotes,D,19:15,0,0,0,3,0,0,0,0,0,0,0,0,0,4,-1,17:50,0:00,1:25,NA
+2018020452,8471274,Alex Goligoski,Arizona Coyotes,D,19:51,0,0,0,3,0,0,0,0,0,1,2,0,0,0,-1,19:16,0:00,0:35,NA
+2018020452,8478474,Lawson Crouse,Arizona Coyotes,LW,12:28,0,0,1,2,0,0,0,0,0,0,1,0,0,0,-1,12:28,0:00,0:00,NA
+2018020452,8479345,Jakob Chychrun,Arizona Coyotes,D,20:14,1,0,0,2,0,0,0,0,0,0,2,0,0,2,1,19:49,0:25,0:00,NA
+2018020452,8478432,Christian Fischer,Arizona Coyotes,RW,14:42,0,0,0,2,0,0,0,0,0,0,0,0,0,1,-1,14:42,0:00,0:00,NA
+2018020452,8479343,Clayton Keller,Arizona Coyotes,C,17:09,1,0,3,0,0,1,0,0,0,2,0,0,0,0,-2,16:44,0:25,0:00,NA
+2018020452,8475171,Oliver Ekman-Larsson,Arizona Coyotes,D,22:34,0,0,0,4,0,0,0,0,0,0,2,0,0,2,-3,21:34,0:25,0:35,NA
+2018020452,8476393,Nick Cousins,Arizona Coyotes,C,15:21,0,0,0,4,0,0,0,0,0,2,2,0,0,1,1,15:21,0:00,0:00,NA
+2018020452,8466138,Joe Thornton,San Jose Sharks,C,14:32,0,0,0,0,0,0,0,9,10,0,0,0,0,0,0,13:57,0:35,0:00,90
+2018020452,8470613,Brent Burns,San Jose Sharks,D,22:28,0,0,5,1,0,0,0,0,0,0,2,0,0,1,-1,20:28,2:00,0:00,NA
+2018020452,8480160,Radim Simek,San Jose Sharks,D,16:46,0,0,1,2,0,0,0,0,0,1,1,0,0,0,-1,16:46,0:00,0:00,NA
+2018020452,8471709,Marc-Edouard Vlasic,San Jose Sharks,D,19:20,1,0,1,0,0,0,0,0,0,0,1,0,0,1,2,18:55,0:00,0:25,NA
+2018020452,8470794,Joe Pavelski,San Jose Sharks,C,19:06,0,1,1,1,0,0,0,9,19,0,2,0,0,2,0,17:37,1:17,0:12,47.37
+2018020452,8475834,Marcus Sorensen,San Jose Sharks,LW,12:59,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,12:59,0:00,0:00,NA
+2018020452,8474027,Justin Braun,San Jose Sharks,D,19:17,1,0,2,0,0,0,0,0,0,1,0,0,0,4,1,18:52,0:00,0:25,NA
+2018020452,8475820,Joonas Donskoi,San Jose Sharks,RW,16:23,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,16:23,0:00,0:00,NA
+2018020452,8476624,Barclay Goodrow,San Jose Sharks,RW,11:36,0,0,1,2,0,0,0,4,7,1,1,0,0,1,1,11:36,0:00,0:00,57.14
+2018020452,8474578,Erik Karlsson,San Jose Sharks,D,23:21,1,0,4,1,0,0,0,0,0,3,1,0,0,2,3,22:33,0:48,0:00,NA
+2018020452,8477922,Melker Karlsson,San Jose Sharks,C,11:32,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,11:32,0:00,0:00,NA
+2018020452,8474053,Logan Couture,San Jose Sharks,C,17:04,1,1,1,1,0,0,0,1,3,0,1,0,0,0,2,15:27,1:12,0:25,33.33
+2018020452,8478414,Timo Meier,San Jose Sharks,RW,17:18,2,0,4,1,0,0,0,0,0,0,3,0,0,1,2,16:35,0:43,0:00,NA
+2018020452,8475455,Brenden Dillon,San Jose Sharks,D,17:36,1,0,0,5,0,0,0,0,0,0,0,0,0,0,2,17:36,0:00,0:00,NA
+2018020452,8475169,Evander Kane,San Jose Sharks,LW,18:25,0,1,4,3,0,0,0,0,2,0,0,0,0,0,0,17:50,0:35,0:00,0
+2018020452,8478099,Kevin Labanc,San Jose Sharks,RW,13:00,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,11:35,1:25,0:00,NA
+2018020452,8476881,Tomas Hertl,San Jose Sharks,C,18:09,1,1,3,0,0,0,0,8,14,0,1,0,0,1,2,16:31,1:25,0:13,57.14
+2018020452,8480780,Lukas Radil,San Jose Sharks,C,10:43,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,10:43,0:00,0:00,NA

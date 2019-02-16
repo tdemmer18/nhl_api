@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020819,8473446,Erik Johnson,Colorado Avalanche,D,21:49,1,1,2,3,0,0,0,0,0,2,0,0,0,0,2,19:27,0:07,2:15,NA
+2018020819,8477507,Nikita Zadorov,Colorado Avalanche,D,17:21,0,1,2,4,0,0,0,0,0,0,0,0,0,2,-2,15:21,0:00,2:00,NA
+2018020819,8474569,Colin Wilson,Colorado Avalanche,C,14:49,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,10:35,4:14,0:00,NA
+2018020819,8475747,Patrik Nemeth,Colorado Avalanche,D,13:41,0,0,0,1,0,0,0,0,0,0,1,0,0,0,-1,11:39,0:00,2:02,NA
+2018020819,8480326,Sheldon Dries,Colorado Avalanche,C,8:40,1,0,0,0,0,0,0,4,5,0,0,0,0,0,1,8:23,0:00,0:17,80
+2018020819,8476442,Matt Nieto,Colorado Avalanche,LW,15:10,0,0,0,2,0,0,0,0,0,1,0,0,0,2,0,13:05,0:03,2:02,NA
+2018020819,8477413,Sven Andrighetto,Colorado Avalanche,RW,11:24,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,7:38,3:46,0:00,NA
+2018020819,8476455,Gabriel Landeskog,Colorado Avalanche,LW,21:07,0,0,6,2,0,0,0,5,7,0,5,0,0,1,-3,16:50,4:14,0:03,71.43
+2018020819,8474685,Matt Calvert,Colorado Avalanche,LW,14:12,0,0,1,4,0,0,0,0,1,0,0,0,0,1,0,12:52,0:00,1:20,0
+2018020819,8477456,J.T. Compher,Colorado Avalanche,LW,16:44,0,0,1,0,0,0,0,3,10,0,0,0,0,1,-1,12:05,3:39,1:00,30
+2018020819,8475268,Gabriel Bourque,Colorado Avalanche,LW,6:58,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5:40,0:00,1:18,NA
+2018020819,8477021,Alexander Kerfoot,Colorado Avalanche,C,16:09,0,0,1,2,0,0,0,6,9,0,0,0,0,1,0,12:26,3:43,0:00,66.67
+2018020819,8474013,Ian Cole,Colorado Avalanche,D,18:08,0,0,2,4,0,0,2,0,0,1,0,0,0,2,0,17:01,0:00,1:07,NA
+2018020819,8475197,Tyson Barrie,Colorado Avalanche,D,21:03,0,0,3,2,0,0,0,0,0,1,0,0,0,3,-2,16:49,4:14,0:00,NA
+2018020819,8471262,Carl Soderberg,Colorado Avalanche,C,17:23,0,0,1,0,0,0,0,7,11,1,1,0,0,0,-2,12:16,3:46,1:21,63.64
+2018020819,8479398,Samuel Girard,Colorado Avalanche,D,18:46,0,1,3,1,0,0,0,0,0,0,1,0,0,1,0,15:00,3:46,0:00,NA
+2018020819,8478420,Mikko Rantanen,Colorado Avalanche,RW,22:08,0,0,2,0,0,0,0,0,1,0,0,0,0,0,-3,17:54,4:14,0:00,0
+2018020819,8477492,Nathan MacKinnon,Colorado Avalanche,C,21:52,1,0,2,0,0,0,0,6,15,3,1,0,0,0,-2,17:35,4:14,0:03,40
+2018020819,8477407,Anthony Duclair,Columbus Blue Jackets,LW,12:29,1,0,6,0,0,1,0,0,1,0,0,0,0,0,-1,11:13,1:16,0:00,0
+2018020819,8478906,Markus Nutivaara,Columbus Blue Jackets,D,15:53,0,0,1,0,0,0,0,0,0,1,0,0,0,2,1,14:25,0:03,1:25,NA
+2018020819,8473422,Nick Foligno,Columbus Blue Jackets,LW,12:49,0,0,1,4,0,0,0,1,4,0,0,0,0,1,1,8:32,2:23,1:54,25
+2018020819,8474715,Cam Atkinson,Columbus Blue Jackets,RW,18:41,0,1,4,1,0,0,0,0,1,0,2,0,0,1,3,13:07,2:18,3:16,0
+2018020819,8477505,Alexander Wennberg,Columbus Blue Jackets,C,15:58,1,1,1,0,1,0,0,5,15,0,0,0,0,0,1,11:55,1:16,2:47,33.33
+2018020819,8476449,Scott Harrington,Columbus Blue Jackets,D,16:58,1,0,1,3,0,0,0,0,0,0,0,0,0,0,0,12:58,0:00,4:00,NA
+2018020819,8477416,Oliver Bjorkstrand,Columbus Blue Jackets,RW,16:27,0,1,2,0,0,0,0,0,1,1,0,0,0,2,1,15:11,1:16,0:00,0
+2018020819,8476310,Lukas Sedlak,Columbus Blue Jackets,C,8:43,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-1,7:26,0:00,1:17,NA
+2018020819,8476981,Josh Anderson,Columbus Blue Jackets,RW,16:15,0,1,2,1,0,0,0,0,0,0,0,0,0,1,-1,11:03,1:16,3:56,NA
+2018020819,8476432,Boone Jenner,Columbus Blue Jackets,C,15:50,2,0,3,2,0,0,2,13,18,1,0,0,0,0,0,12:57,0:03,2:50,72.22
+2018020819,8475233,David Savard,Columbus Blue Jackets,D,20:20,1,0,1,2,0,0,2,0,0,0,1,0,0,2,2,16:54,0:03,3:23,NA
+2018020819,8478567,Dean Kukan,Columbus Blue Jackets,D,11:16,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11:15,0:00,0:01,NA
+2018020819,8474062,Riley Nash,Columbus Blue Jackets,C,8:48,0,0,1,1,0,0,0,4,7,0,0,0,0,0,0,8:45,0:03,0:00,57.14
+2018020819,8477495,Seth Jones,Columbus Blue Jackets,D,26:05,1,0,4,3,0,1,2,0,0,1,3,0,0,2,0,21:18,1:21,3:26,NA
+2018020819,8478550,Artemi Panarin,Columbus Blue Jackets,LW,21:27,1,0,3,1,0,0,0,0,0,0,0,0,0,0,2,19:04,2:23,0:00,NA
+2018020819,8479400,Pierre-Luc Dubois,Columbus Blue Jackets,C,19:07,0,2,4,2,0,0,2,5,12,1,1,0,0,2,2,16:44,2:23,0:00,41.67
+2018020819,8478541,Markus Hannikainen,Columbus Blue Jackets,LW,8:18,0,0,2,1,0,0,0,0,0,0,0,0,0,0,-1,8:15,0:03,0:00,NA
+2018020819,8478460,Zach Werenski,Columbus Blue Jackets,D,26:36,1,0,0,1,0,0,0,0,0,4,1,0,0,1,1,20:28,2:23,3:45,NA

@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020707,8470619,Brian Boyle,New Jersey Devils,C,11:54,0,0,1,3,0,0,0,50,1,2,1,0,0,0,0,0,10:26,0:19,1:09
+2018020707,8476923,Damon Severson,New Jersey Devils,D,20:53,1,0,4,0,0,1,0,NA,0,0,0,2,0,0,0,-1,19:11,0:57,0:45
+2018020707,8477509,Mirco Mueller,New Jersey Devils,D,17:38,0,0,0,2,0,0,0,NA,0,0,1,0,0,0,0,1,17:38,0:00,0:00
+2018020707,8471233,Travis Zajac,New Jersey Devils,C,20:14,2,1,4,0,0,1,0,45.83,11,24,0,0,0,0,0,2,14:47,0:19,5:08
+2018020707,8479407,Jesper Bratt,New Jersey Devils,LW,13:32,2,0,2,2,0,1,0,NA,0,0,0,0,0,0,1,0,12:35,0:57,0:00
+2018020707,8473933,Ben Lovejoy,New Jersey Devils,D,18:11,0,0,2,0,0,0,9,NA,0,0,0,0,0,0,3,1,14:56,0:00,3:15
+2018020707,8477425,Miles Wood,New Jersey Devils,LW,12:43,1,0,1,0,0,0,0,NA,0,0,2,0,0,0,0,0,12:43,0:00,0:00
+2018020707,8475149,Marcus Johansson,New Jersey Devils,LW,18:15,0,0,2,1,0,0,0,NA,0,0,1,0,0,0,0,-1,17:18,0:57,0:00
+2018020707,8471226,Drew Stafford,New Jersey Devils,RW,10:56,1,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,0,10:56,0:00,0:00
+2018020707,8472382,Andy Greene,New Jersey Devils,D,23:24,0,0,1,1,0,0,0,NA,0,0,1,2,0,0,7,2,17:52,0:00,5:32
+2018020707,8478401,Pavel Zacha,New Jersey Devils,C,13:15,1,0,1,0,0,0,0,42.86,3,7,0,0,0,0,0,2,10:45,0:19,2:11
+2018020707,8477355,Will Butcher,New Jersey Devils,D,17:56,1,0,3,1,0,1,0,NA,0,0,0,0,0,0,1,-1,17:37,0:19,0:00
+2018020707,8476399,Blake Coleman,New Jersey Devils,C,18:57,1,2,5,1,0,0,2,33.33,1,3,1,0,0,0,1,2,15:20,0:00,3:37
+2018020707,8475222,Sami Vatanen,New Jersey Devils,D,21:39,1,1,3,1,1,0,0,NA,0,0,0,1,0,0,0,2,17:40,0:57,3:02
+2018020707,8475151,Kyle Palmieri,New Jersey Devils,RW,15:49,0,2,6,1,1,0,0,0,0,1,0,2,0,0,2,1,15:30,0:19,0:00
+2018020707,8478881,Brett Seney,New Jersey Devils,LW,9:41,1,1,1,1,0,0,0,NA,0,0,0,0,0,0,0,1,9:41,0:00,0:00
+2018020707,8480002,Nico Hischier,New Jersey Devils,C,18:53,1,0,3,3,0,0,2,42.86,6,14,1,0,0,0,0,0,17:27,0:57,0:29
+2018020707,8479291,Kevin Rooney,New Jersey Devils,C,9:43,0,1,1,3,0,0,4,33.33,3,9,0,0,0,0,0,-1,9:43,0:00,0:00
+2018020707,8470607,Brent Seabrook,Chicago Blackhawks,D,16:08,0,1,2,1,0,0,0,NA,0,0,0,1,0,0,2,1,14:20,1:13,0:35
+2018020707,8476979,Erik Gustafsson,Chicago Blackhawks,D,14:17,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,-2,8:52,5:25,0:00
+2018020707,8477943,Brendan Perlini,Chicago Blackhawks,LW,11:55,0,0,2,0,0,0,2,NA,0,0,1,0,0,0,0,0,11:55,0:00,0:00
+2018020707,8473604,Jonathan Toews,Chicago Blackhawks,C,20:41,1,0,0,1,0,1,2,57.69,15,26,1,2,0,0,0,-1,15:20,5:02,0:19
+2018020707,8476886,Slater Koekkoek,Chicago Blackhawks,D,12:27,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,-1,12:27,0:00,0:00
+2018020707,8476438,Brandon Saad,Chicago Blackhawks,LW,15:40,0,1,3,1,0,0,0,100,1,1,0,1,0,0,0,-1,13:50,1:15,0:35
+2018020707,8479337,Alex DeBrincat,Chicago Blackhawks,LW,20:12,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,0,-1,15:10,5:02,0:00
+2018020707,8470281,Duncan Keith,Chicago Blackhawks,D,21:36,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,2,-5,19:47,0:52,0:57
+2018020707,8474141,Patrick Kane,Chicago Blackhawks,RW,28:50,2,2,9,0,1,0,0,NA,0,0,0,1,0,0,0,2,23:48,5:02,0:00
+2018020707,8475323,Marcus Kruger,Chicago Blackhawks,C,12:35,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,12:13,0:00,0:22
+2018020707,8480946,Dominik Kahun,Chicago Blackhawks,C,14:51,0,1,2,0,0,0,0,NA,0,0,0,0,0,0,0,-2,13:36,1:15,0:00
+2018020707,8479465,Drake Caggiula,Chicago Blackhawks,C,13:50,0,0,3,3,0,0,5,0,0,1,1,0,0,0,1,-1,13:28,0:00,0:22
+2018020707,8473573,Artem Anisimov,Chicago Blackhawks,C,12:15,0,0,0,0,0,0,0,57.14,4,7,0,0,0,0,0,-1,11:00,1:15,0:00
+2018020707,8478440,Dylan Strome,Chicago Blackhawks,C,19:11,2,0,1,0,0,1,0,50,5,10,0,1,0,0,0,-1,14:09,5:02,0:00
+2018020707,8477472,Carl Dahlstrom,Chicago Blackhawks,D,15:39,1,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,3,15:20,0:00,0:19
+2018020707,8476473,Connor Murphy,Chicago Blackhawks,D,19:25,0,0,4,1,0,0,4,NA,0,0,1,0,0,0,1,1,18:42,0:02,0:41
+2018020707,8480144,David Kampf,Chicago Blackhawks,C,14:25,0,0,0,2,0,0,0,71.43,10,14,0,0,0,0,0,-1,13:31,0:00,0:54
+2018020707,8480035,Henri Jokiharju,Chicago Blackhawks,D,15:26,1,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,-1,15:26,0:00,0:00

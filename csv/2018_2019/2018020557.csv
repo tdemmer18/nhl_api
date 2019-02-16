@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020557,8470803,Kyle Brodziak,Edmonton Oilers,C,15:27,0,0,0,0,0,0,0,57.14,8,14,0,0,0,0,1,0,13:21,0:19,1:47
+2018020557,8475857,Kevin Gravel,Edmonton Oilers,D,18:52,0,0,1,1,0,0,0,NA,0,0,0,2,0,0,3,0,17:41,0:00,1:11
+2018020557,8475727,Ryan Spooner,Edmonton Oilers,C,7:20,0,0,1,2,0,0,0,NA,0,0,1,4,0,0,0,-1,6:50,0:30,0:00
+2018020557,8476457,Adam Larsson,Edmonton Oilers,D,22:44,0,0,1,2,0,0,2,NA,0,0,0,0,0,0,1,-4,22:11,0:00,0:33
+2018020557,8477458,Valentin Zykov,Edmonton Oilers,LW,5:58,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,0,-1,5:28,0:30,0:00
+2018020557,8477934,Leon Draisaitl,Edmonton Oilers,C,21:45,0,1,3,0,1,0,0,40,6,15,3,2,0,0,0,-1,17:01,2:56,1:48
+2018020557,8476988,Matt Benning,Edmonton Oilers,D,15:51,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,1,0,13:29,0:49,1:33
+2018020557,8477498,Darnell Nurse,Edmonton Oilers,D,27:27,1,0,4,2,0,1,0,NA,0,0,0,1,0,0,3,-4,22:47,2:56,1:44
+2018020557,8475178,Zack Kassian,Edmonton Oilers,RW,14:25,0,0,0,2,0,0,14,NA,0,0,1,1,0,0,1,-1,13:26,0:00,0:59
+2018020557,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,C,19:04,1,1,3,2,0,1,0,50,1,2,2,1,0,0,0,-3,15:35,2:56,0:33
+2018020557,8476356,Tobias Rieder,Edmonton Oilers,RW,13:44,0,0,1,2,0,0,2,NA,0,0,1,0,0,0,1,0,13:44,0:00,0:00
+2018020557,8474520,Jason Garrison,Edmonton Oilers,D,12:56,0,0,1,3,0,0,0,NA,0,0,0,0,0,0,0,0,12:15,0:00,0:41
+2018020557,8478402,Connor McDavid,Edmonton Oilers,C,23:27,3,0,5,0,0,2,0,50,9,18,1,1,0,0,0,-3,20:15,2:56,0:16
+2018020557,8478452,Caleb Jones,Edmonton Oilers,D,19:19,0,0,1,0,0,0,0,NA,0,0,2,1,0,0,0,0,18:22,0:49,0:08
+2018020557,8479465,Drake Caggiula,Edmonton Oilers,LW,9:37,0,0,0,2,0,0,0,25,1,4,0,0,0,0,0,-1,9:18,0:19,0:00
+2018020557,8479344,Jesse Puljujarvi,Edmonton Oilers,RW,17:05,1,0,1,2,0,0,0,NA,0,0,1,3,0,0,0,0,16:46,0:19,0:00
+2018020557,8475163,Alex Chiasson,Edmonton Oilers,RW,17:17,0,1,2,2,1,0,2,NA,0,0,0,0,0,0,0,-2,14:24,2:26,0:27
+2018020557,8473473,Milan Lucic,Edmonton Oilers,LW,13:27,0,0,4,1,0,0,0,NA,0,0,0,2,0,0,1,0,12:35,0:52,0:00
+2018020557,8471339,Ryan Callahan,Tampa Bay Lightning,RW,8:52,0,0,2,1,0,0,2,NA,0,0,0,0,0,0,1,0,8:52,0:00,0:00
+2018020557,8478519,Anthony Cirelli,Tampa Bay Lightning,C,15:45,0,0,2,0,0,0,0,57.14,4,7,1,0,0,0,0,1,13:48,0:00,1:57
+2018020557,8471873,Anton Stralman,Tampa Bay Lightning,D,21:17,1,0,4,2,0,0,0,NA,0,0,0,1,0,0,3,2,18:39,0:00,2:38
+2018020557,8476826,Yanni Gourde,Tampa Bay Lightning,C,17:08,0,0,1,0,0,0,0,60,3,5,0,2,0,0,0,0,15:08,0:47,1:13
+2018020557,8476468,J.T. Miller,Tampa Bay Lightning,C,12:56,0,1,3,0,0,0,0,33.33,1,3,1,0,0,0,0,1,12:40,0:16,0:00
+2018020557,8478416,Erik Cernak,Tampa Bay Lightning,D,19:27,1,0,1,6,0,0,0,NA,0,0,0,0,0,0,1,2,18:20,0:00,1:07
+2018020557,8476975,Cedric Paquette,Tampa Bay Lightning,C,11:29,0,0,0,2,0,0,14,60,3,5,0,1,0,0,0,0,9:41,0:00,1:48
+2018020557,8470601,Braydon Coburn,Tampa Bay Lightning,D,12:50,0,0,4,1,0,0,0,NA,0,0,0,0,0,0,0,0,12:50,0:00,0:00
+2018020557,8473986,Alex Killorn,Tampa Bay Lightning,LW,14:14,1,0,4,0,0,0,0,NA,0,0,1,0,0,0,0,1,11:56,0:40,1:38
+2018020557,8476453,Nikita Kucherov,Tampa Bay Lightning,RW,19:49,4,1,3,1,0,1,0,0,0,1,2,1,0,0,0,3,17:10,2:39,0:00
+2018020557,8474870,Tyler Johnson,Tampa Bay Lightning,C,15:51,0,2,2,1,0,0,0,33.33,2,6,1,0,0,0,0,3,15:08,0:43,0:00
+2018020557,8475167,Victor Hedman,Tampa Bay Lightning,D,22:54,1,0,4,1,0,1,0,NA,0,0,1,4,0,0,4,2,18:56,2:15,1:43
+2018020557,8474151,Ryan McDonagh,Tampa Bay Lightning,D,23:48,0,0,0,2,0,0,2,NA,0,0,0,1,0,0,3,2,21:42,0:04,2:02
+2018020557,8474564,Steven Stamkos,Tampa Bay Lightning,C,18:13,0,2,3,0,1,0,2,58.33,7,12,1,0,0,0,1,1,15:35,2:15,0:23
+2018020557,8479410,Mikhail Sergachev,Tampa Bay Lightning,D,16:53,0,0,3,1,0,0,0,NA,0,0,0,0,0,0,0,0,16:13,0:40,0:00
+2018020557,8478365,Danick Martel,Tampa Bay Lightning,LW,9:11,0,0,3,1,0,0,0,NA,0,0,0,1,0,0,0,0,9:11,0:00,0:00
+2018020557,8476292,Ondrej Palat,Tampa Bay Lightning,LW,15:30,0,0,2,3,0,0,0,NA,0,0,1,1,0,0,1,0,13:22,2:08,0:00
+2018020557,8478010,Brayden Point,Tampa Bay Lightning,C,18:08,2,0,4,0,0,0,2,57.14,8,14,0,0,0,0,2,2,15:37,2:08,0:23

@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020873,8473446,Erik Johnson,Colorado Avalanche,D,22:33,0,0,4,0,0,0,0,0,0,1,0,0,0,2,-1,17:17,0:00,5:16,NA
+2018020873,8477507,Nikita Zadorov,Colorado Avalanche,D,18:21,0,0,2,5,0,0,2,0,0,0,0,0,0,0,1,16:31,0:00,1:50,NA
+2018020873,8475747,Patrik Nemeth,Colorado Avalanche,D,17:59,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,13:52,0:00,4:07,NA
+2018020873,8480326,Sheldon Dries,Colorado Avalanche,C,11:01,0,0,0,1,0,0,0,5,5,2,0,0,0,1,0,8:35,0:05,2:21,100
+2018020873,8476442,Matt Nieto,Colorado Avalanche,LW,15:11,0,0,5,1,0,0,0,0,0,1,0,0,0,1,0,12:14,0:00,2:57,NA
+2018020873,8477413,Sven Andrighetto,Colorado Avalanche,RW,10:30,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,7:22,3:08,0:00,NA
+2018020873,8477435,Ryan Graves,Colorado Avalanche,D,14:14,0,1,3,3,0,0,0,0,0,1,1,0,0,3,0,13:33,0:00,0:41,NA
+2018020873,8476455,Gabriel Landeskog,Colorado Avalanche,LW,20:14,0,0,0,4,0,0,0,2,5,0,1,0,0,1,-1,17:22,2:52,0:00,40
+2018020873,8474685,Matt Calvert,Colorado Avalanche,LW,13:41,0,0,2,2,0,0,0,1,3,2,1,0,0,0,0,10:55,0:00,2:46,33.33
+2018020873,8477456,J.T. Compher,Colorado Avalanche,LW,15:54,0,0,1,0,0,0,4,5,10,0,0,0,0,0,0,11:27,2:52,1:35,50
+2018020873,8477021,Alexander Kerfoot,Colorado Avalanche,C,14:06,1,1,1,0,0,0,0,1,1,2,0,0,0,0,1,10:58,3:08,0:00,100
+2018020873,8475197,Tyson Barrie,Colorado Avalanche,D,22:41,0,0,4,0,0,0,2,0,0,0,0,0,0,2,-1,19:09,3:32,0:00,NA
+2018020873,8478421,A.J. Greer,Colorado Avalanche,LW,8:08,0,0,0,0,0,0,2,0,1,0,0,0,0,1,0,8:08,0:00,0:00,0
+2018020873,8471262,Carl Soderberg,Colorado Avalanche,C,16:06,0,0,7,0,0,0,0,5,15,1,0,0,0,0,1,10:43,3:08,2:15,33.33
+2018020873,8479398,Samuel Girard,Colorado Avalanche,D,18:25,2,0,2,0,0,0,0,0,0,2,1,0,0,0,0,15:57,2:28,0:00,NA
+2018020873,8478420,Mikko Rantanen,Colorado Avalanche,RW,20:15,0,0,0,2,0,0,0,0,0,0,1,0,0,0,-1,17:23,2:52,0:00,NA
+2018020873,8477492,Nathan MacKinnon,Colorado Avalanche,C,19:50,0,0,2,1,0,0,0,7,10,1,2,0,0,0,-1,17:03,2:47,0:00,70
+2018020873,8479370,Tyson Jost,Colorado Avalanche,C,14:54,0,0,1,0,0,0,0,4,6,1,0,0,0,0,1,11:46,3:08,0:00,66.67
+2018020873,8477939,William Nylander,Toronto Maple Leafs,RW,13:21,1,0,5,0,0,0,0,0,7,0,0,0,0,0,1,11:02,2:19,0:00,0
+2018020873,8478408,Travis Dermott,Toronto Maple Leafs,D,16:14,0,0,0,1,0,0,2,0,0,2,0,0,0,1,-2,16:14,0:00,0:00,NA
+2018020873,8468493,Ron Hainsey,Toronto Maple Leafs,D,19:01,0,0,0,5,0,0,0,0,0,1,0,0,0,3,-1,14:50,0:00,4:11,NA
+2018020873,8475786,Zach Hyman,Toronto Maple Leafs,LW,16:58,0,0,0,1,0,0,0,0,1,1,0,0,0,2,-1,13:10,0:00,3:48,0
+2018020873,8476853,Morgan Rielly,Toronto Maple Leafs,D,22:37,0,0,2,1,0,0,0,0,0,1,0,0,0,1,0,17:42,3:23,1:32,NA
+2018020873,8477953,Kasperi Kapanen,Toronto Maple Leafs,RW,15:36,0,2,4,1,1,0,2,0,0,0,0,0,0,0,0,12:21,1:28,1:47,NA
+2018020873,8479318,Auston Matthews,Toronto Maple Leafs,C,18:16,2,1,4,0,1,1,0,8,16,3,0,0,0,1,0,14:07,4:09,0:00,50
+2018020873,8479458,Nikita Zaitsev,Toronto Maple Leafs,D,19:45,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,15:17,0:00,4:28,NA
+2018020873,8477015,Connor Brown,Toronto Maple Leafs,RW,12:55,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,10:13,0:00,2:42,100
+2018020873,8475166,John Tavares,Toronto Maple Leafs,C,18:19,2,0,2,0,0,2,0,11,16,0,0,0,0,2,0,14:23,3:50,0:06,68.75
+2018020873,8474162,Jake Muzzin,Toronto Maple Leafs,D,18:12,0,0,2,3,0,0,0,0,0,0,1,0,0,2,2,15:44,0:39,1:49,NA
+2018020873,8480944,Par Lindholm,Toronto Maple Leafs,C,11:20,0,0,2,2,0,0,0,0,4,0,0,0,0,1,0,9:43,0:00,1:37,0
+2018020873,8477512,Frederik Gauthier,Toronto Maple Leafs,C,9:31,0,0,1,0,0,0,0,3,6,0,0,0,0,0,0,9:31,0:00,0:00,50
+2018020873,8477341,Andreas Johnsson,Toronto Maple Leafs,LW,12:20,1,0,0,3,0,0,0,0,0,0,0,0,0,0,1,10:13,2:07,0:00,NA
+2018020873,8474581,Jake Gardiner,Toronto Maple Leafs,D,18:52,0,0,2,0,0,0,0,0,0,0,1,0,0,2,0,16:18,2:34,0:00,NA
+2018020873,8478483,Mitchell Marner,Toronto Maple Leafs,RW,18:40,1,0,0,2,0,1,0,0,0,0,1,0,0,1,-1,13:21,3:19,2:00,NA
+2018020873,8475172,Nazem Kadri,Toronto Maple Leafs,C,14:58,0,2,3,0,1,0,0,2,4,0,0,0,0,0,1,10:49,4:09,0:00,50
+2018020873,8466139,Patrick Marleau,Toronto Maple Leafs,C,17:05,1,0,0,0,0,1,0,1,1,1,0,0,0,3,0,15:17,1:48,0:00,100

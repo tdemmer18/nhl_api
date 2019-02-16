@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020844,8476907,Mackenzie MacEachern,St. Louis Blues,LW,6:48,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,6:48,0:00,0:00,NA
+2018020844,8475768,Jaden Schwartz,St. Louis Blues,LW,16:10,0,0,3,1,0,0,0,1,1,0,0,0,0,0,-1,13:42,2:28,0:00,100
+2018020844,8474565,Alex Pietrangelo,St. Louis Blues,D,23:45,0,0,1,2,0,0,0,0,0,1,3,0,0,2,0,19:53,3:39,0:13,NA
+2018020844,8476897,Oskar Sundqvist,St. Louis Blues,C,15:23,1,0,2,2,0,0,2,3,11,0,0,0,0,0,1,15:19,0:04,0:00,27.27
+2018020844,8477964,Ivan Barbashev,St. Louis Blues,C,9:43,1,0,3,1,0,0,0,3,7,0,0,0,0,0,1,9:21,0:09,0:13,42.86
+2018020844,8475765,Vladimir Tarasenko,St. Louis Blues,RW,17:08,0,1,4,1,0,0,0,0,0,3,2,0,0,1,1,13:43,3:25,0:00,NA
+2018020844,8470257,Alexander Steen,St. Louis Blues,LW,16:21,0,0,0,0,0,0,0,0,0,1,0,0,0,1,-1,14:56,0:07,1:18,NA
+2018020844,8478407,Vince Dunn,St. Louis Blues,D,14:18,0,1,3,1,0,0,0,0,0,0,1,0,0,0,1,11:57,2:21,0:00,NA
+2018020844,8475158,Ryan O'Reilly,St. Louis Blues,C,21:31,0,0,5,0,0,0,0,14,27,2,1,0,0,1,1,16:48,3:25,1:18,51.85
+2018020844,8474145,Robert Bortuzzo,St. Louis Blues,D,14:38,0,0,2,2,0,0,0,0,0,0,0,0,0,1,1,13:20,0:00,1:18,NA
+2018020844,8474034,Pat Maroon,St. Louis Blues,LW,15:44,0,0,2,2,0,0,5,0,0,1,0,0,0,0,0,13:16,2:28,0:00,NA
+2018020844,8475098,Tyler Bozak,St. Louis Blues,C,16:08,0,0,1,1,0,0,0,6,10,1,0,0,0,0,-1,13:38,2:17,0:13,60
+2018020844,8476441,Joel Edmundson,St. Louis Blues,D,19:32,0,0,1,1,0,0,0,0,0,0,1,0,0,2,0,19:15,0:04,0:13,NA
+2018020844,8470151,Jay Bouwmeester,St. Louis Blues,D,21:58,0,0,1,0,0,0,0,0,0,1,0,0,0,2,1,20:40,0:00,1:18,NA
+2018020844,8476892,Colton Parayko,St. Louis Blues,D,22:24,0,0,3,0,0,0,0,0,0,0,0,0,0,1,1,19:53,2:31,0:00,NA
+2018020844,8475170,Brayden Schenn,St. Louis Blues,C,20:39,1,0,0,2,0,0,0,1,1,2,1,0,0,1,1,17:14,3:25,0:00,100
+2018020844,8477482,Zach Sanford,St. Louis Blues,LW,15:04,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,15:00,0:04,0:00,NA
+2018020844,8480023,Robert Thomas,St. Louis Blues,C,11:37,2,0,1,0,0,0,0,1,1,0,0,0,0,0,2,8:04,3:33,0:00,100
+2018020844,8470619,Brian Boyle,Nashville Predators,C,12:51,0,0,2,1,0,0,0,2,7,1,0,0,0,0,-2,9:50,1:18,1:43,28.57
+2018020844,8475218,Mattias Ekholm,Nashville Predators,D,22:47,0,1,2,1,1,0,0,0,0,0,0,0,0,1,-1,19:55,0:13,2:39,NA
+2018020844,8475625,Matt Irwin,Nashville Predators,D,11:41,0,0,0,2,0,0,0,0,0,0,0,0,0,1,-2,11:41,0:00,0:00,NA
+2018020844,8475714,Calle Jarnkrok,Nashville Predators,C,16:08,0,0,1,0,0,0,0,0,0,1,0,0,0,0,-1,13:52,0:00,2:16,NA
+2018020844,8476925,Colton Sissons,Nashville Predators,C,17:50,0,0,0,3,0,0,0,3,4,0,0,0,0,0,-1,16:16,0:00,1:34,75
+2018020844,8475225,Craig Smith,Nashville Predators,RW,15:01,1,0,5,2,0,1,2,1,2,2,0,0,0,0,0,14:48,0:13,0:00,50
+2018020844,8476887,Filip Forsberg,Nashville Predators,LW,19:09,1,0,4,0,0,0,0,0,0,0,0,0,0,2,0,16:37,1:18,1:14,NA
+2018020844,8477942,Kevin Fiala,Nashville Predators,LW,15:22,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,15:22,0:00,0:00,NA
+2018020844,8471657,Cody McLeod,Nashville Predators,LW,3:08,0,0,0,2,0,0,5,0,0,0,0,0,0,0,-1,3:08,0:00,0:00,NA
+2018020844,8474009,Nick Bonino,Nashville Predators,C,12:47,0,0,1,1,0,0,2,5,10,0,1,0,0,1,0,11:14,0:13,1:20,50
+2018020844,8474600,Roman Josi,Nashville Predators,D,25:58,1,0,3,4,0,0,0,0,0,0,0,0,0,4,1,21:19,1:18,3:21,NA
+2018020844,8475793,Ryan Johansen,Nashville Predators,C,21:01,0,1,2,0,0,0,0,12,22,1,0,0,0,0,1,17:45,1:18,1:58,54.55
+2018020844,8477451,Ryan Hartman,Nashville Predators,RW,10:34,0,0,1,0,0,0,0,0,1,0,0,0,0,0,-1,10:34,0:00,0:00,0
+2018020844,8474068,Kyle Turris,Nashville Predators,C,15:13,0,0,2,1,0,0,2,6,12,0,0,0,0,0,0,15:00,0:13,0:00,50
+2018020844,8474056,P.K. Subban,Nashville Predators,D,22:28,1,0,2,5,0,1,0,0,0,0,1,0,0,0,0,22:05,0:13,0:10,NA
+2018020844,8475176,Ryan Ellis,Nashville Predators,D,22:23,0,0,1,3,0,0,0,0,0,1,0,0,0,0,0,19:02,0:00,3:21,NA
+2018020844,8469465,Dan Hamhuis,Nashville Predators,D,13:25,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-2,10:56,0:00,2:29,NA
+2018020844,8478042,Viktor Arvidsson,Nashville Predators,RW,18:58,0,0,1,1,0,0,0,0,0,1,3,0,0,1,0,15:45,1:18,1:55,NA

@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020408,8480072,Lias Andersson,New York Rangers,C,12:37,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,11:53,0:00,0:44,NA
+2018020408,8476918,Jimmy Vesey,New York Rangers,LW,23:51,0,0,0,4,0,0,0,0,0,1,1,0,0,0,0,18:53,2:18,2:40,NA
+2018020408,8471686,Marc Staal,New York Rangers,D,22:26,1,1,1,2,0,0,0,0,0,0,1,0,0,1,0,18:47,0:00,3:39,NA
+2018020408,8479968,Vinni Lettieri,New York Rangers,C,7:31,0,0,1,1,0,0,0,0,0,1,1,0,0,1,0,7:31,0:00,0:00,NA
+2018020408,8476458,Ryan Strome,New York Rangers,C,15:25,1,0,2,2,0,0,2,1,4,0,2,0,0,1,0,12:50,1:28,1:07,25
+2018020408,8476459,Mika Zibanejad,New York Rangers,C,21:39,2,0,0,2,0,0,2,18,29,1,3,0,0,1,3,17:56,1:52,1:51,62.07
+2018020408,8475855,Jesper Fast,New York Rangers,RW,20:13,0,1,2,0,0,0,0,0,0,1,1,0,0,0,1,17:55,0:00,2:18,NA
+2018020408,8477950,Tony DeAngelo,New York Rangers,D,19:44,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,16:40,2:08,0:56,NA
+2018020408,8474031,Kevin Shattenkirk,New York Rangers,D,21:24,0,0,1,0,0,0,0,0,0,0,2,0,0,1,0,18:52,2:32,0:00,NA
+2018020408,8473492,Matt Beleskey,New York Rangers,LW,8:27,0,0,1,4,0,0,0,1,1,0,2,0,0,0,0,8:27,0:00,0:00,100
+2018020408,8475763,Kevin Hayes,New York Rangers,C,21:10,0,0,2,2,0,0,0,9,14,4,2,0,0,0,-1,16:01,2:18,2:51,64.29
+2018020408,8476368,Fredrik Claesson,New York Rangers,D,24:21,0,0,1,5,0,0,0,0,0,0,0,0,0,2,-1,21:46,0:00,2:35,NA
+2018020408,8475184,Chris Kreider,New York Rangers,LW,14:58,0,1,2,1,0,0,0,1,1,0,0,0,0,1,0,13:16,1:42,0:00,100
+2018020408,8479353,Brett Howden,New York Rangers,C,15:16,0,0,0,1,0,0,0,7,10,0,1,0,0,3,1,12:37,1:42,0:57,70
+2018020408,8476396,Steven Fogarty,New York Rangers,C,7:41,0,0,0,1,0,0,0,2,3,1,0,0,0,0,0,7:41,0:00,0:00,66.67
+2018020408,8474090,Brendan Smith,New York Rangers,D,10:15,0,0,1,1,0,0,4,0,0,1,3,0,0,0,1,8:36,0:00,1:39,NA
+2018020408,8480078,Filip Chytil,New York Rangers,C,16:16,0,0,1,0,0,0,0,0,0,1,1,0,0,0,-1,13:58,2:18,0:00,NA
+2018020408,8480145,Neal Pionk,New York Rangers,D,25:32,1,0,1,1,0,0,0,0,0,1,3,0,0,0,2,20:11,1:42,3:39,NA
+2018020408,8473618,Mathieu Perreault,Winnipeg Jets,LW,12:21,1,0,2,3,0,0,2,2,5,0,0,0,0,0,1,9:22,2:59,0:00,40
+2018020408,8471218,Blake Wheeler,Winnipeg Jets,RW,24:30,1,0,4,1,0,1,2,0,1,1,0,0,0,0,-3,20:36,3:20,0:34,0
+2018020408,8478915,Sami Niku,Winnipeg Jets,D,7:54,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7:54,0:00,0:00,NA
+2018020408,8477429,Andrew Copp,Winnipeg Jets,C,11:05,0,0,0,1,0,0,0,0,0,1,3,0,0,0,0,9:46,0:00,1:19,NA
+2018020408,8473412,Bryan Little,Winnipeg Jets,C,18:14,0,1,3,1,0,0,0,3,13,0,0,0,0,1,1,14:24,2:32,1:18,23.08
+2018020408,8476799,Cameron Schilling,Winnipeg Jets,D,9:33,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9:33,0:00,0:00,NA
+2018020408,8479339,Patrik Laine,Winnipeg Jets,RW,19:42,0,0,2,0,0,0,0,1,1,0,1,0,0,2,-1,15:56,3:46,0:00,100
+2018020408,8477504,Josh Morrissey,Winnipeg Jets,D,28:11,1,0,4,1,0,1,0,0,0,1,1,0,0,2,-2,22:46,3:37,1:48,NA
+2018020408,8478458,Jack Roslovic,Winnipeg Jets,C,8:13,0,1,3,0,0,0,0,0,4,0,0,0,0,0,2,8:13,0:00,0:00,0
+2018020408,8474574,Tyler Myers,Winnipeg Jets,D,28:10,0,0,3,3,0,0,0,0,0,1,1,0,0,1,1,23:30,2:28,2:12,NA
+2018020408,8475279,Ben Chiarot,Winnipeg Jets,D,19:36,0,0,5,1,0,0,0,0,0,0,1,0,0,1,0,17:24,0:00,2:12,NA
+2018020408,8476885,Jacob Trouba,Winnipeg Jets,D,26:52,2,0,3,2,0,0,0,0,0,0,0,0,0,4,0,22:27,2:37,1:48,NA
+2018020408,8477940,Nikolaj Ehlers,Winnipeg Jets,LW,21:07,1,0,1,0,0,0,0,0,0,1,0,0,0,1,1,18:13,2:54,0:00,NA
+2018020408,8476460,Mark Scheifele,Winnipeg Jets,C,25:27,0,1,4,6,1,0,0,10,25,2,3,0,0,1,-3,20:50,3:42,0:55,40
+2018020408,8478891,Mason Appleton,Winnipeg Jets,C,7:35,0,0,2,1,0,0,0,0,0,0,0,0,0,1,1,7:35,0:00,0:00,NA
+2018020408,8478398,Kyle Connor,Winnipeg Jets,LW,19:38,0,0,5,1,0,0,0,0,0,3,0,0,0,0,-3,16:08,3:15,0:15,NA
+2018020408,8476392,Adam Lowry,Winnipeg Jets,C,11:58,0,0,0,1,0,0,0,7,13,0,0,0,0,0,0,10:11,0:00,1:47,53.85
+2018020408,8479293,Brandon Tanev,Winnipeg Jets,LW,10:54,0,0,1,3,0,0,0,0,0,0,0,0,0,1,0,9:02,0:00,1:52,NA

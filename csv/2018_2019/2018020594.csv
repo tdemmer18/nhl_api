@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020594,8475906,John Klingberg,Dallas Stars,D,23:31,0,0,2,2,0,0,0,0,0,0,0,0,0,3,1,20:56,2:35,0:00,NA
+2018020594,8476439,Brett Ritchie,Dallas Stars,RW,10:13,0,0,2,5,0,0,2,0,0,0,0,0,0,0,1,10:13,0:00,0:00,NA
+2018020594,8476913,Devin Shore,Dallas Stars,C,13:48,0,0,1,2,0,0,0,3,4,0,0,0,0,2,1,11:06,0:36,2:06,75
+2018020594,8476902,Esa Lindell,Dallas Stars,D,24:42,1,0,2,0,0,0,0,0,0,0,1,0,0,1,2,19:10,0:19,5:13,NA
+2018020594,8473994,Jamie Benn,Dallas Stars,LW,15:07,0,0,2,2,0,0,0,1,2,0,0,0,0,3,0,12:03,2:27,0:37,50
+2018020594,8478449,Roope Hintz,Dallas Stars,LW,14:25,0,0,2,0,0,0,0,9,17,0,1,0,0,0,1,13:14,0:44,0:27,52.94
+2018020594,8471228,Alexander Radulov,Dallas Stars,RW,20:23,0,2,5,0,1,0,0,0,0,0,1,0,0,0,1,17:48,2:35,0:00,NA
+2018020594,8477945,Julius Honka,Dallas Stars,D,15:09,0,0,1,2,0,0,2,0,0,0,0,0,0,1,1,15:09,0:00,0:00,NA
+2018020594,8477406,Mattias Janmark,Dallas Stars,C,15:57,1,0,4,0,0,0,0,0,1,1,1,0,0,0,1,13:07,0:00,2:50,0
+2018020594,8476889,Radek Faksa,Dallas Stars,C,14:43,2,0,3,1,0,0,2,8,14,0,1,0,0,6,2,12:03,0:17,2:23,57.14
+2018020594,8471260,Blake Comeau,Dallas Stars,LW,14:48,1,1,2,2,0,0,2,0,1,0,1,0,0,1,2,12:26,0:00,2:22,0
+2018020594,8471392,Roman Polak,Dallas Stars,D,20:25,0,0,4,2,0,0,0,0,0,0,1,0,0,0,2,15:25,0:00,5:00,NA
+2018020594,8475794,Tyler Seguin,Dallas Stars,C,17:59,1,0,1,1,0,1,0,12,20,0,0,0,0,1,0,14:31,2:35,0:53,60
+2018020594,8475752,Tyler Pitlick,Dallas Stars,C,12:57,0,1,2,3,0,0,0,0,0,0,0,0,0,2,2,11:01,0:00,1:56,NA
+2018020594,8478495,Denis Gurianov,Dallas Stars,RW,12:18,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,11:42,0:36,0:00,NA
+2018020594,8476166,Taylor Fedun,Dallas Stars,D,15:28,1,0,2,0,0,0,0,0,0,0,0,0,0,1,1,13:41,0:00,1:47,NA
+2018020594,8469455,Jason Spezza,Dallas Stars,C,12:59,1,1,1,0,0,1,0,7,12,0,0,0,0,1,1,10:44,2:15,0:00,58.33
+2018020594,8480036,Miro Heiskanen,Dallas Stars,D,18:28,0,0,4,0,0,0,0,0,0,0,0,0,0,0,1,15:58,0:56,1:34,NA
+2018020594,8470318,Jonathan Ericsson,Detroit Red Wings,D,18:23,0,0,2,0,0,0,2,0,0,0,1,0,0,4,0,16:54,0:00,1:29,NA
+2018020594,8471716,Justin Abdelkader,Detroit Red Wings,LW,13:44,0,0,3,1,0,0,2,1,2,0,0,0,0,1,0,12:50,0:00,0:54,50
+2018020594,8474679,Gustav Nyquist,Detroit Red Wings,RW,16:29,1,0,7,0,0,1,0,0,1,0,1,0,0,3,-2,12:35,3:54,0:00,0
+2018020594,8477946,Dylan Larkin,Detroit Red Wings,C,17:12,0,1,9,0,1,0,0,7,21,0,0,0,0,3,0,13:18,3:54,0:00,33.33
+2018020594,8470110,Trevor Daley,Detroit Red Wings,D,17:14,0,0,2,1,0,0,0,0,0,0,1,0,0,1,0,14:55,0:00,2:19,NA
+2018020594,8470144,Frans Nielsen,Detroit Red Wings,C,18:23,1,0,0,1,0,1,0,7,15,0,1,0,0,2,-2,12:40,3:54,1:49,46.67
+2018020594,8475324,Nick Jensen,Detroit Red Wings,D,21:47,0,0,0,1,0,0,0,0,0,0,1,0,0,0,-1,20:55,0:00,0:52,NA
+2018020594,8470598,Thomas Vanek,Detroit Red Wings,LW,17:06,0,0,1,1,0,0,0,0,1,0,0,0,0,0,-2,13:12,3:54,0:00,0
+2018020594,8476822,Luke Glendening,Detroit Red Wings,C,13:56,0,0,1,1,0,0,0,12,17,0,1,0,0,0,0,12:31,0:00,1:25,70.59
+2018020594,8479425,Filip Hronek,Detroit Red Wings,D,18:12,0,0,1,1,0,0,0,0,0,0,1,0,0,0,-3,14:08,2:53,1:11,NA
+2018020594,8477455,Jacob de la Rose,Detroit Red Wings,C,14:03,0,0,0,1,0,0,0,3,7,0,0,0,0,1,-2,12:41,0:00,1:22,42.86
+2018020594,8476960,Andreas Athanasiou,Detroit Red Wings,C,16:44,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,13:51,2:53,0:00,NA
+2018020594,8477479,Tyler Bertuzzi,Detroit Red Wings,LW,15:08,0,0,2,0,0,0,0,1,2,1,1,0,0,0,0,12:15,2:53,0:00,50
+2018020594,8475263,Wade Megan,Detroit Red Wings,C,11:28,0,0,1,0,0,0,0,0,2,0,1,0,0,0,-2,11:28,0:00,0:00,0
+2018020594,8478036,Christoffer Ehn,Detroit Red Wings,C,13:11,0,0,1,2,0,0,0,0,0,0,1,0,0,1,-2,12:19,0:00,0:52,NA
+2018020594,8479992,Michael Rasmussen,Detroit Red Wings,C,13:21,0,0,0,3,0,0,0,0,3,0,0,0,0,1,0,10:28,2:53,0:00,0
+2018020594,8479395,Dennis Cholowski,Detroit Red Wings,D,17:41,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,13:47,3:54,0:00,NA
+2018020594,8468509,Niklas Kronwall,Detroit Red Wings,D,22:49,0,0,0,1,0,0,0,0,0,0,0,0,0,1,-4,19:25,2:53,0:31,NA

@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020393,8475729,Mark Alt,Colorado Avalanche,D,9:43,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,8:54,0:00,0:49,NA
+2018020393,8473446,Erik Johnson,Colorado Avalanche,D,10:22,0,0,0,0,0,0,15,0,0,0,0,0,0,1,0,7:18,1:03,2:01,NA
+2018020393,8477507,Nikita Zadorov,Colorado Avalanche,D,23:22,0,1,1,5,0,0,0,0,0,0,0,0,0,3,0,20:13,0:19,2:50,NA
+2018020393,8474569,Colin Wilson,Colorado Avalanche,C,15:17,0,0,2,1,0,0,2,0,0,0,0,0,0,0,0,10:11,5:06,0:00,NA
+2018020393,8475747,Patrik Nemeth,Colorado Avalanche,D,19:54,0,0,1,2,0,0,0,0,0,0,0,0,0,3,0,16:36,0:00,3:18,NA
+2018020393,8476442,Matt Nieto,Colorado Avalanche,LW,14:12,1,0,1,1,0,0,0,0,0,0,1,0,0,1,1,10:46,0:00,3:26,NA
+2018020393,8477413,Sven Andrighetto,Colorado Avalanche,RW,8:28,0,0,3,2,0,0,0,0,0,0,1,0,0,0,0,8:28,0:00,0:00,NA
+2018020393,8476455,Gabriel Landeskog,Colorado Avalanche,LW,22:16,0,0,1,1,0,0,0,4,10,0,0,0,0,2,0,16:46,5:06,0:24,40
+2018020393,8474685,Matt Calvert,Colorado Avalanche,LW,14:29,0,0,0,1,0,0,0,1,2,4,0,0,0,1,1,11:15,0:00,3:14,50
+2018020393,8477456,J.T. Compher,Colorado Avalanche,LW,14:19,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,9:58,1:24,2:57,80
+2018020393,8477973,Vladislav Kamenev,Colorado Avalanche,C,5:35,0,0,2,1,0,0,0,1,3,0,0,0,0,0,-1,5:17,0:09,0:09,33.33
+2018020393,8477021,Alexander Kerfoot,Colorado Avalanche,C,13:18,0,0,2,0,0,0,0,7,11,0,0,0,0,1,-1,11:49,1:29,0:00,63.64
+2018020393,8474013,Ian Cole,Colorado Avalanche,D,25:03,0,0,2,2,0,0,5,0,0,1,1,0,0,6,0,20:16,0:07,4:40,NA
+2018020393,8471262,Carl Soderberg,Colorado Avalanche,C,17:34,1,0,3,2,0,0,0,5,10,1,0,0,0,2,1,12:42,1:24,3:28,50
+2018020393,8479398,Samuel Girard,Colorado Avalanche,D,26:36,0,0,3,0,0,0,0,0,0,0,0,0,0,2,-1,21:13,5:23,0:00,NA
+2018020393,8478420,Mikko Rantanen,Colorado Avalanche,RW,21:39,0,1,3,2,1,0,2,0,0,1,2,0,0,0,-1,16:33,5:06,0:00,NA
+2018020393,8477492,Nathan MacKinnon,Colorado Avalanche,C,22:57,0,0,3,0,0,0,0,6,18,0,1,0,0,0,-1,17:51,5:06,0:00,33.33
+2018020393,8479370,Tyson Jost,Colorado Avalanche,C,11:03,0,0,1,0,0,0,0,0,1,0,0,0,0,0,-1,9:30,1:33,0:00,0
+2018020393,8474565,Alex Pietrangelo,St. Louis Blues,D,22:33,0,0,1,0,0,0,0,0,0,0,0,0,0,2,-1,16:37,3:18,2:38,NA
+2018020393,8476897,Oskar Sundqvist,St. Louis Blues,C,13:38,0,0,2,0,0,0,0,2,7,0,0,0,0,1,0,11:29,0:00,2:09,28.57
+2018020393,8477964,Ivan Barbashev,St. Louis Blues,C,11:57,1,0,0,3,0,0,0,2,4,0,0,0,0,1,1,8:55,0:00,3:02,50
+2018020393,8475765,Vladimir Tarasenko,St. Louis Blues,RW,19:41,0,1,4,0,0,0,0,0,0,3,0,0,0,0,1,15:50,3:39,0:12,NA
+2018020393,8470257,Alexander Steen,St. Louis Blues,LW,7:58,0,1,2,3,1,0,0,0,0,1,0,0,0,1,0,5:59,1:10,0:49,NA
+2018020393,8478407,Vince Dunn,St. Louis Blues,D,16:18,0,0,2,0,0,0,5,0,0,0,0,0,0,0,0,12:39,3:33,0:06,NA
+2018020393,8478104,Sammy Blais,St. Louis Blues,LW,9:47,0,0,0,2,0,0,0,0,1,1,0,0,0,0,0,9:47,0:00,0:00,0
+2018020393,8477952,Robby Fabbri,St. Louis Blues,C,14:21,0,0,2,0,0,0,0,1,3,0,0,0,0,1,-1,11:03,3:18,0:00,33.33
+2018020393,8475158,Ryan O'Reilly,St. Louis Blues,C,24:46,0,0,3,0,0,0,0,17,29,0,0,0,0,0,0,17:46,4:11,2:49,58.62
+2018020393,8474102,David Perron,St. Louis Blues,LW,15:15,0,0,1,1,0,0,2,0,0,1,2,0,0,0,-1,12:37,2:38,0:00,NA
+2018020393,8474145,Robert Bortuzzo,St. Louis Blues,D,14:31,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,11:41,0:00,2:50,NA
+2018020393,8474034,Pat Maroon,St. Louis Blues,LW,14:56,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,11:38,3:18,0:00,NA
+2018020393,8475098,Tyler Bozak,St. Louis Blues,C,16:50,0,0,0,1,0,0,0,4,8,1,0,0,0,1,0,11:37,2:59,2:14,50
+2018020393,8476441,Joel Edmundson,St. Louis Blues,D,24:27,2,0,3,2,0,0,6,0,0,0,0,0,0,2,2,22:40,0:07,1:40,NA
+2018020393,8470151,Jay Bouwmeester,St. Louis Blues,D,17:27,0,0,3,2,0,0,0,0,0,0,0,0,0,1,0,13:47,0:00,3:40,NA
+2018020393,8476892,Colton Parayko,St. Louis Blues,D,23:17,0,1,5,0,0,0,0,0,0,0,0,0,0,5,2,18:23,2:30,2:24,NA
+2018020393,8475170,Brayden Schenn,St. Louis Blues,C,18:31,0,0,4,1,0,0,0,6,8,1,0,0,0,0,0,13:04,3:24,2:03,75
+2018020393,8477482,Zach Sanford,St. Louis Blues,LW,9:50,0,0,2,0,0,0,2,0,0,0,0,0,0,1,0,9:50,0:00,0:00,NA

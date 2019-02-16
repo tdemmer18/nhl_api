@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020534,8475907,Micheal Ferland,Carolina Hurricanes,LW,15:57,0,0,2,7,0,0,0,0,0,1,0,0,0,0,-1,14:24,1:33,0:00,NA
+2018020534,8476934,Brock McGinn,Carolina Hurricanes,LW,12:57,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,12:45,0:00,0:12,NA
+2018020534,8476858,Phillip Di Giuseppe,Carolina Hurricanes,LW,9:11,0,0,3,4,0,0,0,1,1,0,1,0,0,0,0,9:11,0:00,0:00,100
+2018020534,8473533,Jordan Staal,Carolina Hurricanes,C,17:49,0,0,2,2,0,0,0,12,21,0,0,0,0,0,-1,16:44,0:53,0:12,57.14
+2018020534,8476958,Jaccob Slavin,Carolina Hurricanes,D,22:43,0,0,6,0,0,0,0,0,0,0,0,0,0,0,-1,20:02,2:00,0:41,NA
+2018020534,8477998,Warren Foegele,Carolina Hurricanes,LW,11:54,0,0,1,4,0,0,0,0,0,1,2,0,0,0,0,11:25,0:00,0:29,NA
+2018020534,8478427,Sebastian Aho,Carolina Hurricanes,C,20:40,0,0,3,1,0,0,0,11,18,0,0,0,0,0,-1,18:51,1:49,0:00,61.11
+2018020534,8475753,Justin Faulk,Carolina Hurricanes,D,22:58,1,0,3,3,0,0,2,0,0,0,0,0,0,2,1,21:09,1:49,0:00,NA
+2018020534,8476921,Jordan Martinook,Carolina Hurricanes,LW,15:16,0,0,1,2,0,0,0,1,2,1,1,0,0,0,0,14:47,0:00,0:29,50
+2018020534,8476437,Victor Rask,Carolina Hurricanes,C,9:36,0,0,1,0,0,0,0,3,5,0,1,0,0,0,0,8:02,1:34,0:00,60
+2018020534,8477845,Trevor van Riemsdyk,Carolina Hurricanes,D,13:21,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-2,13:21,0:00,0:00,NA
+2018020534,8477488,Brett Pesce,Carolina Hurricanes,D,18:57,0,0,2,2,0,0,0,0,0,2,0,0,0,0,-1,18:16,0:00,0:41,NA
+2018020534,8475177,Calvin de Haan,Carolina Hurricanes,D,18:36,1,0,3,1,0,0,0,0,0,1,0,0,0,1,1,18:36,0:00,0:00,NA
+2018020534,8478027,Lucas Wallmark,Carolina Hurricanes,C,17:43,0,0,1,0,0,0,0,11,22,0,0,0,0,0,-1,15:32,2:11,0:00,50
+2018020534,8476882,Teuvo Teravainen,Carolina Hurricanes,LW,18:27,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,16:27,2:00,0:00,NA
+2018020534,8476462,Dougie Hamilton,Carolina Hurricanes,D,21:25,0,0,3,3,0,0,0,0,0,0,2,0,0,0,-2,19:14,2:11,0:00,NA
+2018020534,8468508,Justin Williams,Carolina Hurricanes,RW,17:44,0,0,2,0,0,0,0,0,1,1,2,0,0,0,-2,15:33,2:11,0:00,0
+2018020534,8480830,Andrei Svechnikov,Carolina Hurricanes,RW,16:57,0,1,2,1,0,0,0,0,1,1,0,0,0,0,-1,15:08,1:49,0:00,0
+2018020534,8470318,Jonathan Ericsson,Detroit Red Wings,D,23:23,0,1,1,9,0,0,0,0,0,0,0,0,0,2,1,20:49,0:00,2:34,NA
+2018020534,8471716,Justin Abdelkader,Detroit Red Wings,LW,18:37,0,0,2,2,0,0,0,0,1,0,1,0,0,1,1,17:16,0:00,1:21,0
+2018020534,8474679,Gustav Nyquist,Detroit Red Wings,RW,16:42,0,0,2,2,0,0,0,0,0,1,1,0,0,1,1,16:30,0:12,0:00,NA
+2018020534,8476924,Martin Frk,Detroit Red Wings,RW,11:11,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,11:11,0:00,0:00,NA
+2018020534,8477946,Dylan Larkin,Detroit Red Wings,C,19:36,0,1,4,2,0,0,0,9,21,3,2,0,0,0,1,18:04,0:12,1:20,42.86
+2018020534,8470110,Trevor Daley,Detroit Red Wings,D,21:47,0,0,0,0,0,0,0,0,0,0,1,0,0,2,-1,19:27,0:00,2:20,NA
+2018020534,8470144,Frans Nielsen,Detroit Red Wings,C,17:17,0,1,2,4,0,0,0,6,13,0,1,0,0,1,1,15:34,0:12,1:31,46.15
+2018020534,8475324,Nick Jensen,Detroit Red Wings,D,21:20,1,0,1,1,0,0,0,0,0,1,1,0,0,1,2,19:54,0:00,1:26,NA
+2018020534,8470598,Thomas Vanek,Detroit Red Wings,LW,11:33,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,11:21,0:12,0:00,NA
+2018020534,8476822,Luke Glendening,Detroit Red Wings,C,15:49,1,0,1,4,0,0,0,10,14,1,0,0,0,0,1,13:54,0:00,1:55,71.43
+2018020534,8479425,Filip Hronek,Detroit Red Wings,D,18:04,0,0,0,0,0,0,0,0,0,0,1,0,0,3,1,16:51,0:29,0:44,NA
+2018020534,8477455,Jacob de la Rose,Detroit Red Wings,C,12:36,0,0,4,1,0,0,0,1,4,0,1,0,0,1,0,11:17,0:00,1:19,25
+2018020534,8476960,Andreas Athanasiou,Detroit Red Wings,C,12:27,0,0,0,0,0,0,0,4,14,0,0,0,0,0,0,11:58,0:29,0:00,28.57
+2018020534,8477479,Tyler Bertuzzi,Detroit Red Wings,LW,16:24,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,15:55,0:29,0:00,NA
+2018020534,8478036,Christoffer Ehn,Detroit Red Wings,C,12:16,0,0,3,0,0,0,0,2,4,0,1,0,0,0,0,11:42,0:00,0:34,50
+2018020534,8479992,Michael Rasmussen,Detroit Red Wings,C,11:05,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,10:36,0:29,0:00,NA
+2018020534,8479395,Dennis Cholowski,Detroit Red Wings,D,14:18,0,0,1,1,0,0,0,0,0,0,2,0,0,3,-1,14:06,0:12,0:00,NA
+2018020534,8468509,Niklas Kronwall,Detroit Red Wings,D,21:35,1,1,1,0,1,0,2,0,0,0,3,0,0,1,2,20:10,0:29,0:56,NA

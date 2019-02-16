@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020539,8470626,Loui Eriksson,Vancouver Canucks,LW,17:18,0,1,4,0,0,0,0,0,0,0,0,0,0,0,2,13:35,0:38,3:05,NA
+2018020539,8474849,Antoine Roussel,Vancouver Canucks,LW,19:46,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,16:39,0:00,3:07,NA
+2018020539,8477958,Nikolay Goldobin,Vancouver Canucks,RW,9:33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7:54,1:39,0:00,NA
+2018020539,8477937,Jake Virtanen,Vancouver Canucks,RW,12:22,1,1,4,2,0,0,0,0,1,0,0,0,0,1,2,11:44,0:38,0:00,0
+2018020539,8477018,Ben Hutton,Vancouver Canucks,D,23:03,0,0,2,0,0,0,0,0,0,0,1,0,0,1,0,19:44,0:42,2:37,NA
+2018020539,8473415,Alex Biega,Vancouver Canucks,D,18:31,0,0,1,4,0,0,0,0,0,0,0,0,0,1,1,17:40,0:00,0:51,NA
+2018020539,8471303,Alexander Edler,Vancouver Canucks,D,18:07,2,0,2,1,0,1,0,0,0,1,0,0,0,7,2,13:09,1:35,3:23,NA
+2018020539,8478874,Adam Gaudette,Vancouver Canucks,C,10:19,0,1,3,1,0,0,0,5,11,0,0,0,0,0,1,10:19,0:00,0:00,45.45
+2018020539,8478444,Brock Boeser,Vancouver Canucks,RW,16:13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14:34,1:39,0:00,NA
+2018020539,8476410,Josh Leivo,Vancouver Canucks,LW,12:56,0,1,3,1,0,0,0,0,0,0,0,0,0,0,1,12:18,0:38,0:00,NA
+2018020539,8476884,Derrick Pouliot,Vancouver Canucks,D,17:48,0,0,1,1,0,0,2,0,0,1,2,0,0,2,1,17:48,0:00,0:00,NA
+2018020539,8477500,Bo Horvat,Vancouver Canucks,C,16:53,1,1,2,0,1,0,2,11,21,0,0,0,0,0,2,15:14,1:39,0:00,52.38
+2018020539,8475690,Christopher Tanev,Vancouver Canucks,D,16:18,1,0,1,2,0,0,2,0,0,0,0,0,0,1,2,13:59,0:00,2:19,NA
+2018020539,8475790,Erik Gudbranson,Vancouver Canucks,D,23:55,0,0,1,3,0,0,0,0,0,0,0,0,0,3,0,21:05,0:00,2:50,NA
+2018020539,8476440,Markus Granlund,Vancouver Canucks,C,13:44,1,0,1,0,0,0,0,1,1,1,0,0,0,1,1,10:11,0:38,2:55,100
+2018020539,8477353,Tyler Motte,Vancouver Canucks,C,15:06,0,0,0,1,0,0,0,1,3,0,0,0,0,1,0,15:06,0:00,0:00,33.33
+2018020539,8480012,Elias Pettersson,Vancouver Canucks,C,15:16,1,0,1,1,0,1,0,3,10,1,0,0,0,1,0,13:37,1:39,0:00,30
+2018020539,8474291,Jay Beagle,Vancouver Canucks,C,17:19,0,0,2,2,0,0,0,10,17,0,0,0,0,0,0,14:26,0:00,2:53,58.82
+2018020539,8475768,Jaden Schwartz,St. Louis Blues,LW,18:31,0,0,3,3,0,0,0,0,0,0,0,0,0,0,-1,15:35,2:56,0:00,NA
+2018020539,8471761,Chris Butler,St. Louis Blues,D,11:39,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,11:39,0:00,0:00,NA
+2018020539,8476897,Oskar Sundqvist,St. Louis Blues,C,10:06,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,8:48,0:01,1:17,0
+2018020539,8477964,Ivan Barbashev,St. Louis Blues,C,10:31,0,0,0,2,0,0,0,3,6,1,0,0,0,0,0,9:09,0:05,1:17,50
+2018020539,8475325,Jordan Nolan,St. Louis Blues,C,8:27,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,8:22,0:05,0:00,NA
+2018020539,8475765,Vladimir Tarasenko,St. Louis Blues,RW,17:23,0,1,4,0,0,0,0,0,0,0,0,0,0,0,-1,14:27,2:56,0:00,NA
+2018020539,8470257,Alexander Steen,St. Louis Blues,LW,18:18,0,0,3,3,0,0,0,0,0,0,0,0,0,3,0,14:19,2:59,1:00,NA
+2018020539,8478407,Vince Dunn,St. Louis Blues,D,20:14,0,0,1,0,0,0,2,0,0,0,2,0,0,0,-2,16:47,3:27,0:00,NA
+2018020539,8475158,Ryan O'Reilly,St. Louis Blues,C,18:32,0,0,1,0,0,0,0,13,24,2,0,0,0,0,-1,15:19,2:56,0:17,54.17
+2018020539,8474102,David Perron,St. Louis Blues,LW,19:55,0,0,3,3,0,0,2,1,1,0,0,0,0,0,-1,16:52,3:03,0:00,100
+2018020539,8474145,Robert Bortuzzo,St. Louis Blues,D,20:33,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,18:26,0:29,1:38,NA
+2018020539,8474034,Pat Maroon,St. Louis Blues,LW,16:11,0,0,3,1,0,0,0,0,0,0,0,0,0,0,-2,13:12,2:59,0:00,NA
+2018020539,8475098,Tyler Bozak,St. Louis Blues,C,15:31,0,0,5,1,0,0,0,5,10,0,2,0,0,0,-2,11:49,2:59,0:43,50
+2018020539,8476441,Joel Edmundson,St. Louis Blues,D,17:44,0,0,2,6,0,0,0,0,0,0,0,0,0,2,-1,17:01,0:04,0:39,NA
+2018020539,8470151,Jay Bouwmeester,St. Louis Blues,D,22:17,0,0,0,1,0,0,0,0,0,1,0,0,0,1,-1,20:35,0:04,1:38,NA
+2018020539,8476892,Colton Parayko,St. Louis Blues,D,21:43,0,0,1,1,0,0,0,0,0,0,1,0,0,1,-1,19:03,2:01,0:39,NA
+2018020539,8475170,Brayden Schenn,St. Louis Blues,C,18:32,1,0,1,2,0,0,0,10,20,1,1,0,0,1,-1,15:36,2:56,0:00,50
+2018020539,8480023,Robert Thomas,St. Louis Blues,C,11:59,0,0,1,1,0,0,0,1,2,1,0,0,0,1,-2,11:59,0:00,0:00,50

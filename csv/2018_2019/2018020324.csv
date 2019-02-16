@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020324,8471716,Justin Abdelkader,Detroit Red Wings,LW,19:52,0,0,1,4,0,0,0,0,0,0,2,0,0,0,0,19:00,0:00,0:52,NA
+2018020324,8474679,Gustav Nyquist,Detroit Red Wings,RW,15:30,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,15:30,0:00,0:00,NA
+2018020324,8476924,Martin Frk,Detroit Red Wings,RW,7:31,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-1,7:31,0:00,0:00,NA
+2018020324,8477946,Dylan Larkin,Detroit Red Wings,C,20:59,0,0,5,1,0,0,0,14,19,0,4,0,0,1,0,20:23,0:00,0:36,73.68
+2018020324,8470110,Trevor Daley,Detroit Red Wings,D,18:49,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,17:54,0:00,0:55,NA
+2018020324,8470144,Frans Nielsen,Detroit Red Wings,C,14:35,2,0,2,1,0,0,0,6,12,0,0,0,0,0,1,13:55,0:00,0:40,50
+2018020324,8475324,Nick Jensen,Detroit Red Wings,D,24:52,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,23:47,0:00,1:05,NA
+2018020324,8470598,Thomas Vanek,Detroit Red Wings,LW,10:00,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,10:00,0:00,0:00,NA
+2018020324,8476822,Luke Glendening,Detroit Red Wings,C,14:57,0,0,2,6,0,0,0,11,14,0,0,0,0,2,0,13:49,0:00,1:08,78.57
+2018020324,8477455,Jacob de la Rose,Detroit Red Wings,LW,11:53,0,0,0,1,0,0,0,3,12,0,0,0,0,1,0,11:09,0:00,0:44,25
+2018020324,8476960,Andreas Athanasiou,Detroit Red Wings,C,14:13,0,2,2,0,0,0,0,0,0,0,0,0,0,0,1,14:13,0:00,0:00,NA
+2018020324,8477479,Tyler Bertuzzi,Detroit Red Wings,LW,15:58,0,1,1,2,0,0,0,0,0,1,1,0,0,1,0,15:58,0:00,0:00,NA
+2018020324,8477215,Danny DeKeyser,Detroit Red Wings,D,23:44,1,0,1,4,0,0,0,0,0,0,2,0,0,1,1,22:28,0:00,1:16,NA
+2018020324,8477511,Anthony Mantha,Detroit Red Wings,RW,21:07,0,0,2,2,0,0,0,0,0,0,3,0,0,1,0,21:07,0:00,0:00,NA
+2018020324,8471242,Mike Green,Detroit Red Wings,D,22:17,0,0,1,1,0,0,2,0,0,0,0,0,0,0,2,22:17,0:00,0:00,NA
+2018020324,8479992,Michael Rasmussen,Detroit Red Wings,C,12:49,0,0,4,0,0,0,0,0,0,0,1,0,0,1,0,12:49,0:00,0:00,NA
+2018020324,8479395,Dennis Cholowski,Detroit Red Wings,D,16:00,0,0,0,1,0,0,0,0,0,0,1,0,0,0,-1,16:00,0:00,0:00,NA
+2018020324,8468509,Niklas Kronwall,Detroit Red Wings,D,15:21,0,0,1,1,0,0,0,0,0,1,0,0,0,1,-1,14:37,0:00,0:44,NA
+2018020324,8473419,Brad Marchand,Boston Bruins,LW,16:15,0,0,2,0,0,0,0,1,2,0,0,0,0,0,0,15:23,0:52,0:00,50
+2018020324,8475807,Joakim Nordstrom,Boston Bruins,C,14:06,0,0,0,1,0,0,0,4,10,1,0,0,0,0,-1,14:06,0:00,0:00,40
+2018020324,8471276,David Krejci,Boston Bruins,C,17:48,0,0,2,1,0,0,0,4,14,1,1,0,0,1,0,16:45,1:03,0:00,28.57
+2018020324,8470655,David Backes,Boston Bruins,RW,14:17,0,0,4,1,0,0,0,4,9,0,1,0,0,0,0,13:25,0:52,0:00,44.44
+2018020324,8478569,Noel Acciari,Boston Bruins,C,14:15,0,0,1,2,0,0,0,2,4,1,1,0,0,0,0,14:15,0:00,0:00,50
+2018020324,8477956,David Pastrnak,Boston Bruins,RW,18:40,0,0,6,1,0,0,0,0,0,0,0,0,0,0,0,17:48,0:52,0:00,NA
+2018020324,8478417,Jakob Forsbacka Karlsson,Boston Bruins,C,9:25,0,1,1,1,0,0,0,3,11,0,0,0,0,0,0,9:25,0:00,0:00,27.27
+2018020324,8478468,Jeremy Lauzon,Boston Bruins,D,18:50,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-2,18:50,0:00,0:00,NA
+2018020324,8475780,Chris Wagner,Boston Bruins,RW,14:13,0,1,4,4,0,0,0,0,0,0,0,0,0,0,0,14:08,0:05,0:00,NA
+2018020324,8476792,Torey Krug,Boston Bruins,D,22:42,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,21:15,1:27,0:00,NA
+2018020324,8476891,Matt Grzelcyk,Boston Bruins,D,21:34,0,0,2,0,0,0,0,0,0,1,1,0,0,1,1,21:01,0:33,0:00,NA
+2018020324,8476374,Sean Kuraly,Boston Bruins,C,14:45,1,0,1,1,0,0,0,5,7,0,0,0,0,0,0,14:40,0:05,0:00,71.43
+2018020324,8478498,Jake DeBrusk,Boston Bruins,LW,17:19,0,0,1,2,0,0,0,0,0,0,1,0,0,0,0,16:27,0:52,0:00,NA
+2018020324,8477365,Connor Clifton,Boston Bruins,D,20:38,0,0,4,1,0,0,0,0,0,0,0,0,0,2,1,20:38,0:00,0:00,NA
+2018020324,8478046,Danton Heinen,Boston Bruins,C,16:32,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,15:29,1:03,0:00,NA
+2018020324,8474000,Steven Kampfer,Boston Bruins,D,14:15,0,0,1,0,0,0,0,0,0,1,0,0,0,1,-2,13:07,1:08,0:00,NA
+2018020324,8478075,Anders Bjork,Boston Bruins,LW,14:55,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,13:47,1:08,0:00,NA
+2018020324,8476191,Kevan Miller,Boston Bruins,D,21:58,0,0,3,0,0,0,0,0,0,0,2,0,0,1,1,21:58,0:00,0:00,NA

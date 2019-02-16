@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020770,8470626,Loui Eriksson,Vancouver Canucks,LW,14:01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,8:46,1:39,3:36,NA
+2018020770,8474849,Antoine Roussel,Vancouver Canucks,LW,9:36,0,0,1,0,0,0,14,1,1,0,0,0,0,0,0,9:31,0:05,0:00,100
+2018020770,8477937,Jake Virtanen,Vancouver Canucks,RW,9:09,0,0,2,1,0,0,0,0,0,0,0,0,0,0,-2,8:56,0:00,0:13,NA
+2018020770,8477018,Ben Hutton,Vancouver Canucks,D,23:57,0,0,2,1,0,0,0,0,0,0,2,0,0,3,2,18:35,2:04,3:18,NA
+2018020770,8471303,Alexander Edler,Vancouver Canucks,D,28:29,0,0,4,0,0,0,0,0,0,0,2,0,0,4,-2,20:26,1:56,6:07,NA
+2018020770,8478444,Brock Boeser,Vancouver Canucks,RW,18:23,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,16:07,2:16,0:00,NA
+2018020770,8476410,Josh Leivo,Vancouver Canucks,LW,17:11,0,1,2,0,0,0,0,0,0,0,0,0,0,1,1,15:07,2:04,0:00,NA
+2018020770,8476884,Derrick Pouliot,Vancouver Canucks,D,9:29,0,0,1,1,0,0,0,0,0,0,3,0,0,0,-2,9:29,0:00,0:00,NA
+2018020770,8476466,Sven Baertschi,Vancouver Canucks,LW,15:11,0,1,2,1,0,0,0,0,0,0,0,0,0,2,0,13:20,1:51,0:00,NA
+2018020770,8477500,Bo Horvat,Vancouver Canucks,C,19:12,1,0,4,0,0,0,2,11,25,0,0,0,0,1,0,16:18,1:51,1:03,44
+2018020770,8475690,Christopher Tanev,Vancouver Canucks,D,22:36,0,0,0,0,0,0,2,0,0,0,0,0,0,1,-1,17:58,0:05,4:33,NA
+2018020770,8475790,Erik Gudbranson,Vancouver Canucks,D,13:28,0,0,2,1,0,0,14,0,0,0,0,0,0,0,-3,10:30,0:00,2:58,NA
+2018020770,8476440,Markus Granlund,Vancouver Canucks,C,12:33,0,0,3,1,0,0,0,1,2,0,0,0,0,0,-2,8:30,1:39,2:24,50
+2018020770,8479442,Troy Stecher,Vancouver Canucks,D,18:12,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,16:18,0:00,1:54,NA
+2018020770,8477353,Tyler Motte,Vancouver Canucks,C,10:30,0,0,1,2,0,0,0,0,0,0,0,0,0,0,-2,9:53,0:05,0:32,NA
+2018020770,8480012,Elias Pettersson,Vancouver Canucks,C,18:53,1,0,0,0,0,0,0,5,9,1,1,0,0,2,1,15:35,2:16,1:02,55.56
+2018020770,8474291,Jay Beagle,Vancouver Canucks,C,11:51,0,0,0,4,0,0,0,8,10,0,0,0,0,1,-2,8:04,0:05,3:42,80
+2018020770,8474091,Brandon Sutter,Vancouver Canucks,C,16:17,0,0,1,0,0,0,0,8,17,0,2,0,0,0,-1,9:32,2:04,4:41,47.06
+2018020770,8476934,Brock McGinn,Carolina Hurricanes,LW,18:07,0,0,1,2,0,0,0,0,1,0,1,0,0,0,-1,12:20,3:25,2:22,0
+2018020770,8475735,Greg McKegg,Carolina Hurricanes,C,15:39,1,1,1,0,0,0,0,6,15,0,0,0,0,0,2,14:38,1:01,0:00,40
+2018020770,8477938,Haydn Fleury,Carolina Hurricanes,D,8:10,0,0,2,0,0,0,0,0,0,0,0,0,0,2,2,8:10,0:00,0:00,NA
+2018020770,8476958,Jaccob Slavin,Carolina Hurricanes,D,20:02,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,14:41,3:35,1:46,NA
+2018020770,8477998,Warren Foegele,Carolina Hurricanes,LW,14:27,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,12:56,0:23,1:08,NA
+2018020770,8478427,Sebastian Aho,Carolina Hurricanes,C,23:01,2,0,4,1,0,1,0,14,19,1,0,0,0,0,1,16:54,5:37,0:30,73.68
+2018020770,8475753,Justin Faulk,Carolina Hurricanes,D,21:35,0,0,1,2,0,0,0,0,0,0,0,0,0,2,-1,13:31,5:50,2:14,NA
+2018020770,8475799,Nino Niederreiter,Carolina Hurricanes,RW,18:16,0,2,8,0,1,0,0,0,0,0,1,0,0,0,0,13:35,4:41,0:00,NA
+2018020770,8476921,Jordan Martinook,Carolina Hurricanes,LW,12:55,0,0,1,0,0,0,0,3,6,0,0,0,0,0,2,11:55,0:13,0:47,50
+2018020770,8477845,Trevor van Riemsdyk,Carolina Hurricanes,D,14:10,0,0,3,0,0,0,0,0,0,0,0,0,0,2,-1,14:10,0:00,0:00,NA
+2018020770,8477488,Brett Pesce,Carolina Hurricanes,D,18:16,0,0,0,1,0,0,0,0,0,0,0,0,0,3,-1,16:17,0:13,1:46,NA
+2018020770,8475177,Calvin de Haan,Carolina Hurricanes,D,13:33,0,0,0,2,0,0,0,0,0,1,0,0,0,2,-1,11:19,0:00,2:14,NA
+2018020770,8478027,Lucas Wallmark,Carolina Hurricanes,C,17:03,0,0,1,1,0,0,0,6,17,0,0,0,0,0,-1,12:20,3:25,1:18,35.29
+2018020770,8476882,Teuvo Teravainen,Carolina Hurricanes,LW,17:00,2,1,2,1,0,1,2,1,1,0,0,0,0,0,2,10:53,5:37,0:30,100
+2018020770,8477357,Saku Maenalanen,Carolina Hurricanes,RW,11:39,1,0,2,3,0,0,0,0,1,0,0,0,0,0,0,9:51,0:23,1:25,0
+2018020770,8476462,Dougie Hamilton,Carolina Hurricanes,D,18:37,1,1,3,2,0,0,0,0,0,0,0,0,0,0,4,15:02,3:35,0:00,NA
+2018020770,8468508,Justin Williams,Carolina Hurricanes,RW,20:11,0,0,3,0,0,0,2,0,4,1,0,0,0,0,1,14:34,5:37,0:00,0
+2018020770,8480830,Andrei Svechnikov,Carolina Hurricanes,RW,12:23,0,0,1,1,0,0,2,0,0,0,2,0,0,0,0,9:49,2:34,0:00,NA

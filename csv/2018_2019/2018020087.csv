@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020087,8471702,Matt Niskanen,Washington Capitals,D,23:14,0,1,4,3,0,0,0,0,0,1,0,0,0,1,1,19:43,0:10,3:21,NA
+2018020087,8476905,Chandler Stephenson,Washington Capitals,C,15:11,0,0,0,2,0,0,0,0,0,1,0,0,0,0,-1,13:35,0:00,1:36,NA
+2018020087,8468498,Brooks Orpik,Washington Capitals,D,17:38,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,14:27,0:00,3:11,NA
+2018020087,8475758,Devante Smith-Pelly,Washington Capitals,RW,7:01,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,5:32,0:00,1:29,NA
+2018020087,8471214,Alex Ovechkin,Washington Capitals,LW,23:28,0,2,6,3,2,0,0,0,0,2,1,0,0,1,-1,16:56,6:32,0:00,NA
+2018020087,8471698,T.J. Oshie,Washington Capitals,RW,23:48,1,0,2,2,0,0,0,3,6,0,0,0,0,1,2,16:05,6:17,1:26,50
+2018020087,8475744,Evgeny Kuznetsov,Washington Capitals,C,22:35,1,0,5,0,0,0,0,6,18,0,0,0,0,0,0,14:36,6:32,1:27,33.33
+2018020087,8477944,Jakub Vrana,Washington Capitals,LW,12:43,0,0,2,2,0,0,2,0,0,0,1,0,0,0,1,12:43,0:00,0:00,NA
+2018020087,8477444,Andre Burakovsky,Washington Capitals,LW,14:35,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,14:25,0:10,0:00,NA
+2018020087,8475200,Dmitry Orlov,Washington Capitals,D,19:49,0,0,1,2,0,0,2,0,0,2,0,0,0,0,-1,17:39,0:11,1:59,NA
+2018020087,8475343,Nic Dowd,Washington Capitals,C,6:12,0,0,0,1,0,0,2,4,10,0,0,0,0,1,0,5:31,0:00,0:41,40
+2018020087,8473563,Nicklas Backstrom,Washington Capitals,C,23:34,2,0,4,1,0,1,0,14,20,0,0,0,0,0,1,15:36,6:32,1:26,70
+2018020087,8474590,John Carlson,Washington Capitals,D,26:02,2,1,5,0,0,2,0,0,0,2,0,0,0,0,0,17:42,6:31,1:49,NA
+2018020087,8474189,Lars Eller,Washington Capitals,C,16:35,0,0,1,1,0,0,0,8,12,3,0,0,0,1,0,14:49,0:10,1:36,66.67
+2018020087,8477043,Christian Djoos,Washington Capitals,D,12:47,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,12:47,0:00,0:00,NA
+2018020087,8475792,Brett Connolly,Washington Capitals,RW,13:31,1,0,1,1,0,1,0,0,0,0,1,0,0,0,0,13:06,0:25,0:00,NA
+2018020087,8477573,Nathan Walker,Washington Capitals,LW,6:47,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,6:08,0:00,0:39,NA
+2018020087,8479482,Michal Kempny,Washington Capitals,D,16:16,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1,16:16,0:00,0:00,NA
+2018020087,8476918,Jimmy Vesey,New York Rangers,LW,14:09,0,1,2,0,1,0,0,0,0,2,0,0,0,1,0,12:42,1:27,0:00,NA
+2018020087,8471686,Marc Staal,New York Rangers,D,18:02,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,15:29,0:03,2:30,NA
+2018020087,8476869,Brady Skjei,New York Rangers,D,20:10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17:55,0:00,2:15,NA
+2018020087,8475727,Ryan Spooner,New York Rangers,C,13:45,0,0,2,1,0,0,0,2,6,1,1,0,0,0,-1,10:02,3:43,0:00,33.33
+2018020087,8479968,Vinni Lettieri,New York Rangers,C,11:46,0,0,2,1,0,0,0,0,0,1,1,0,0,3,-1,10:33,0:00,1:13,NA
+2018020087,8476459,Mika Zibanejad,New York Rangers,C,22:47,1,1,6,1,0,1,0,12,21,1,2,0,0,0,0,15:39,3:43,3:25,57.14
+2018020087,8475855,Jesper Fast,New York Rangers,RW,16:08,0,0,3,1,0,0,2,0,0,1,0,0,0,3,1,14:22,0:00,1:46,NA
+2018020087,8474031,Kevin Shattenkirk,New York Rangers,D,18:49,0,0,3,0,0,0,0,0,0,0,0,0,0,2,0,15:31,3:18,0:00,NA
+2018020087,8477402,Pavel Buchnevich,New York Rangers,RW,10:30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,10:30,0:00,0:00,NA
+2018020087,8475763,Kevin Hayes,New York Rangers,C,17:27,0,0,2,0,0,0,2,8,21,2,0,0,0,0,0,13:17,1:27,2:43,38.1
+2018020087,8476368,Fredrik Claesson,New York Rangers,D,17:01,0,0,1,4,0,0,0,0,0,0,1,0,0,1,0,14:12,0:00,2:49,NA
+2018020087,8475184,Chris Kreider,New York Rangers,LW,17:07,1,1,6,1,1,0,0,0,0,0,0,0,0,0,1,13:24,3:43,0:00,NA
+2018020087,8479353,Brett Howden,New York Rangers,C,14:23,1,0,0,1,0,1,2,8,14,2,0,0,0,1,0,12:25,1:24,0:34,57.14
+2018020087,8475692,Mats Zuccarello,New York Rangers,RW,20:27,0,0,0,1,0,0,0,0,0,1,1,0,0,1,-1,13:10,3:34,3:43,NA
+2018020087,8474090,Brendan Smith,New York Rangers,D,20:37,0,0,2,1,0,0,2,0,0,1,0,0,0,0,-1,17:42,0:03,2:52,NA
+2018020087,8480078,Filip Chytil,New York Rangers,C,12:34,0,0,1,0,0,0,0,1,4,0,0,0,0,0,0,10:58,1:36,0:00,25
+2018020087,8476480,Vladislav Namestnikov,New York Rangers,C,11:40,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,11:40,0:00,0:00,NA
+2018020087,8480145,Neal Pionk,New York Rangers,D,22:50,3,0,1,1,0,2,0,0,0,0,0,0,0,4,0,18:03,1:49,2:58,NA

@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020764,8470803,Kyle Brodziak,Edmonton Oilers,C,12:07,0,0,4,1,0,0,0,66.67,10,15,1,0,0,0,0,0,10:29,0:00,1:38
+2018020764,8471729,Kris Russell,Edmonton Oilers,D,19:07,0,0,1,1,0,0,0,NA,0,0,0,1,0,0,2,-1,15:16,1:06,2:45
+2018020764,8477529,Colby Cave,Edmonton Oilers,C,6:16,0,0,0,1,0,0,0,50,1,2,0,0,0,0,0,0,6:16,0:00,0:00
+2018020764,8476915,Jujhar Khaira,Edmonton Oilers,LW,13:20,0,0,2,2,0,0,0,33.33,1,3,0,2,0,0,0,0,12:10,0:41,0:29
+2018020764,8475727,Ryan Spooner,Edmonton Oilers,C,6:56,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,0,0,5:58,0:58,0:00
+2018020764,8476457,Adam Larsson,Edmonton Oilers,D,18:46,0,0,1,2,0,0,2,NA,0,0,1,0,0,0,1,1,17:09,0:00,1:37
+2018020764,8475755,Alexander Petrovic,Edmonton Oilers,D,14:04,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,1,-2,13:40,0:00,0:24
+2018020764,8477934,Leon Draisaitl,Edmonton Oilers,C,26:06,1,1,3,1,0,0,2,54.55,12,22,1,2,0,0,1,1,20:02,4:31,1:33
+2018020764,8479977,Kailer Yamamoto,Edmonton Oilers,RW,7:27,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,0,-1,7:27,0:00,0:00
+2018020764,8476988,Matt Benning,Edmonton Oilers,D,21:54,0,1,2,1,0,0,0,NA,0,0,1,2,0,0,1,0,18:14,1:06,2:34
+2018020764,8475430,Brandon Manning,Edmonton Oilers,D,13:58,0,0,1,2,0,0,0,NA,0,0,1,0,0,0,1,-1,12:47,0:00,1:11
+2018020764,8477498,Darnell Nurse,Edmonton Oilers,D,28:00,1,0,1,7,0,0,0,NA,0,0,0,0,0,0,0,1,22:09,3:58,1:53
+2018020764,8475178,Zack Kassian,Edmonton Oilers,RW,15:29,0,0,3,0,0,0,0,NA,0,0,0,1,0,0,0,-1,13:21,0:00,2:08
+2018020764,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,C,22:07,0,0,5,0,0,0,0,33.33,1,3,0,1,0,0,0,-1,16:29,4:06,1:32
+2018020764,8478402,Connor McDavid,Edmonton Oilers,C,26:11,1,0,3,1,0,0,0,53.85,7,13,1,1,0,0,1,-1,20:45,4:14,1:12
+2018020764,8479344,Jesse Puljujarvi,Edmonton Oilers,RW,13:13,0,0,2,2,0,0,0,NA,0,0,1,1,0,0,0,0,12:49,0:24,0:00
+2018020764,8475163,Alex Chiasson,Edmonton Oilers,RW,20:15,1,0,2,3,0,0,0,NA,0,0,0,0,0,0,0,1,14:18,4:05,1:52
+2018020764,8473473,Milan Lucic,Edmonton Oilers,LW,11:13,0,0,1,4,0,0,0,NA,0,0,0,1,0,0,0,0,10:22,0:51,0:00
+2018020764,8470318,Jonathan Ericsson,Detroit Red Wings,D,14:27,0,0,2,3,0,0,0,NA,0,0,0,0,0,0,0,-1,11:39,0:00,2:48
+2018020764,8471716,Justin Abdelkader,Detroit Red Wings,LW,14:07,0,0,1,1,0,0,0,100,1,1,1,0,0,0,1,-1,11:43,0:00,2:24
+2018020764,8474679,Gustav Nyquist,Detroit Red Wings,RW,17:37,1,0,0,0,0,0,0,NA,0,0,0,3,0,0,0,1,15:28,2:09,0:00
+2018020764,8477946,Dylan Larkin,Detroit Red Wings,C,23:20,0,1,3,1,0,0,0,57.14,16,28,0,1,0,0,1,0,18:50,2:53,1:37
+2018020764,8471794,Darren Helm,Detroit Red Wings,LW,15:27,1,0,1,0,0,0,0,NA,0,0,0,0,0,0,1,0,14:10,0:00,1:17
+2018020764,8470144,Frans Nielsen,Detroit Red Wings,C,14:02,0,0,0,0,0,0,2,50,1,2,0,0,0,0,0,0,10:53,2:53,0:16
+2018020764,8475324,Nick Jensen,Detroit Red Wings,D,23:46,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,1,1,20:41,0:10,2:55
+2018020764,8470598,Thomas Vanek,Detroit Red Wings,LW,11:54,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,0,8:35,3:19,0:00
+2018020764,8476822,Luke Glendening,Detroit Red Wings,C,18:12,0,2,4,2,0,0,0,33.33,6,18,0,0,0,0,4,1,15:18,0:20,2:34
+2018020764,8479425,Filip Hronek,Detroit Red Wings,D,15:40,1,0,0,3,0,0,0,NA,0,0,0,0,0,0,1,0,11:24,1:59,2:17
+2018020764,8477455,Jacob de la Rose,Detroit Red Wings,C,11:25,0,0,0,2,0,0,0,20,1,5,0,0,0,0,0,0,9:09,0:00,2:16
+2018020764,8476960,Andreas Athanasiou,Detroit Red Wings,C,14:40,2,0,4,0,0,0,0,33.33,1,3,0,0,0,0,0,1,12:47,1:53,0:00
+2018020764,8477479,Tyler Bertuzzi,Detroit Red Wings,LW,11:57,1,0,3,1,0,0,0,NA,0,0,2,0,0,0,0,1,10:14,1:43,0:00
+2018020764,8477215,Danny DeKeyser,Detroit Red Wings,D,23:13,0,0,0,0,0,0,2,NA,0,0,0,0,0,0,3,1,21:19,0:20,1:34
+2018020764,8477511,Anthony Mantha,Detroit Red Wings,RW,15:53,0,0,3,0,0,0,0,NA,0,0,1,2,0,0,0,0,12:34,3:19,0:00
+2018020764,8471242,Mike Green,Detroit Red Wings,D,19:44,0,0,1,1,0,0,2,NA,0,0,1,1,0,0,1,1,17:35,2:09,0:00
+2018020764,8478036,Christoffer Ehn,Detroit Red Wings,C,7:54,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,7:54,0:00,0:00
+2018020764,8468509,Niklas Kronwall,Detroit Red Wings,D,20:42,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,3,0,16:59,2:53,0:50

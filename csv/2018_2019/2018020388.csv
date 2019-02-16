@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020388,8470803,Kyle Brodziak,Edmonton Oilers,C,14:56,0,0,0,3,0,0,0,61.54,8,13,1,0,0,0,2,0,12:38,0:00,2:18
+2018020388,8471729,Kris Russell,Edmonton Oilers,D,19:36,0,0,0,0,0,0,0,NA,0,0,0,3,0,0,3,-1,17:43,0:00,1:53
+2018020388,8475857,Kevin Gravel,Edmonton Oilers,D,14:04,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,3,1,13:43,0:00,0:21
+2018020388,8476915,Jujhar Khaira,Edmonton Oilers,LW,8:10,0,0,2,5,0,0,2,50,1,2,0,1,0,0,0,0,8:10,0:00,0:00
+2018020388,8475727,Ryan Spooner,Edmonton Oilers,C,6:43,0,0,1,0,0,0,0,25,1,4,0,0,0,0,0,0,6:43,0:00,0:00
+2018020388,8476457,Adam Larsson,Edmonton Oilers,D,23:53,0,0,2,6,0,0,0,NA,0,0,1,1,0,0,4,0,21:03,0:00,2:50
+2018020388,8477934,Leon Draisaitl,Edmonton Oilers,C,25:21,1,0,4,1,0,1,0,53.33,8,15,2,1,0,0,0,0,20:01,2:49,2:31
+2018020388,8476988,Matt Benning,Edmonton Oilers,D,14:05,0,0,0,3,0,0,0,NA,0,0,0,0,0,0,1,1,13:08,0:57,0:00
+2018020388,8477498,Darnell Nurse,Edmonton Oilers,D,21:16,0,0,2,1,0,0,0,NA,0,0,0,3,0,0,3,-1,18:26,0:57,1:53
+2018020388,8475178,Zack Kassian,Edmonton Oilers,RW,14:23,0,0,0,3,0,0,2,NA,0,0,0,0,0,0,0,0,13:16,0:00,1:07
+2018020388,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,C,14:59,2,0,2,1,0,1,2,38.46,5,13,2,0,0,0,1,0,12:12,1:52,0:55
+2018020388,8478402,Connor McDavid,Edmonton Oilers,C,24:35,1,0,4,0,0,1,0,45.45,5,11,5,2,0,0,0,0,21:46,2:49,0:00
+2018020388,8479465,Drake Caggiula,Edmonton Oilers,LW,13:51,1,0,3,5,0,0,0,0,0,2,2,1,0,0,0,0,13:13,0:00,0:38
+2018020388,8479344,Jesse Puljujarvi,Edmonton Oilers,RW,12:07,0,1,2,1,0,0,0,NA,0,0,1,0,0,0,2,0,12:07,0:00,0:00
+2018020388,8475163,Alex Chiasson,Edmonton Oilers,RW,21:25,0,1,5,0,1,0,0,NA,0,0,0,1,0,0,0,0,18:15,1:30,1:40
+2018020388,8479466,Patrick Russell,Edmonton Oilers,RW,7:41,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,0,7:41,0:00,0:00
+2018020388,8476472,Oscar Klefbom,Edmonton Oilers,D,25:14,1,1,3,1,1,1,0,NA,0,0,0,0,0,0,3,0,20:53,1:52,2:29
+2018020388,8473473,Milan Lucic,Edmonton Oilers,LW,12:41,0,0,1,3,0,0,0,NA,0,0,1,0,0,0,0,0,11:22,1:19,0:00
+2018020388,8470604,Jeff Carter,Los Angeles Kings,C,17:23,0,1,3,0,1,0,0,55.56,10,18,1,0,0,0,2,-1,14:42,1:52,0:49
+2018020388,8470602,Dion Phaneuf,Los Angeles Kings,D,12:08,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,3,1,11:37,0:31,0:00
+2018020388,8470606,Dustin Brown,Los Angeles Kings,RW,22:59,0,1,5,5,0,0,0,NA,0,0,1,1,0,0,0,1,18:49,3:08,1:02
+2018020388,8471685,Anze Kopitar,Los Angeles Kings,C,23:40,2,0,2,0,0,1,2,61.54,16,26,1,0,0,0,1,1,20:11,3:08,0:21
+2018020388,8475726,Tyler Toffoli,Los Angeles Kings,RW,16:45,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,-1,13:45,1:52,1:08
+2018020388,8470775,Nate Thompson,Los Angeles Kings,C,12:54,0,0,0,0,0,0,0,62.5,5,8,0,0,0,0,0,0,10:05,1:10,1:39
+2018020388,8477960,Adrian Kempe,Los Angeles Kings,C,11:55,0,0,0,0,0,0,0,14.29,1,7,0,1,0,0,1,0,10:06,1:10,0:39
+2018020388,8478455,Austin Wagner,Los Angeles Kings,LW,7:36,0,0,0,4,0,0,0,NA,0,0,0,0,0,0,0,0,7:36,0:00,0:00
+2018020388,8476983,Paul LaDue,Los Angeles Kings,D,12:43,0,0,2,1,0,0,0,NA,0,0,0,1,0,0,2,1,12:43,0:00,0:00
+2018020388,8474162,Jake Muzzin,Los Angeles Kings,D,20:53,0,0,2,5,0,0,0,NA,0,0,1,0,0,0,3,-1,18:37,0:50,1:26
+2018020388,8474563,Drew Doughty,Los Angeles Kings,D,26:49,1,0,2,4,0,1,2,NA,0,0,1,4,0,0,0,0,21:43,3:24,1:42
+2018020388,8475762,Derek Forbort,Los Angeles Kings,D,22:12,0,0,5,3,0,0,0,NA,0,0,0,3,0,0,1,0,20:49,0:00,1:23
+2018020388,8479644,Matt Luff,Los Angeles Kings,RW,13:20,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,0,0,13:20,0:00,0:00
+2018020388,8474166,Alec Martinez,Los Angeles Kings,D,20:30,0,0,2,0,0,0,0,NA,0,0,0,2,0,0,4,-1,19:12,0:11,1:07
+2018020388,8469454,Ilya Kovalchuk,Los Angeles Kings,LW,14:11,0,0,4,1,0,0,0,NA,0,0,0,1,0,0,0,0,11:08,3:03,0:00
+2018020388,8475160,Kyle Clifford,Los Angeles Kings,LW,13:49,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,0,-1,13:24,0:25,0:00
+2018020388,8480113,Alex Iafallo,Los Angeles Kings,LW,22:00,1,0,3,2,0,0,2,NA,0,0,1,0,0,0,1,1,19:09,2:51,0:00
+2018020388,8480776,Sheldon Rempal,Los Angeles Kings,RW,6:20,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,0,0,6:20,0:00,0:00

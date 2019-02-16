@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020199,8471724,Kris Letang,Pittsburgh Penguins,D,26:59,0,0,3,1,0,0,0,0,0,0,0,0,0,3,-1,18:23,5:52,2:44,NA
+2018020199,8475208,Brian Dumoulin,Pittsburgh Penguins,D,18:33,0,0,3,4,0,0,0,0,0,0,1,0,0,1,-1,15:55,0:02,2:36,NA
+2018020199,8471675,Sidney Crosby,Pittsburgh Penguins,C,20:37,0,0,1,1,0,0,0,11,28,0,2,0,0,0,-3,15:02,5:35,0:00,39.29
+2018020199,8477404,Jake Guentzel,Pittsburgh Penguins,LW,19:13,0,0,1,4,0,0,0,0,3,1,0,0,0,1,-1,14:18,3:37,1:18,0
+2018020199,8471887,Patric Hornqvist,Pittsburgh Penguins,RW,15:41,0,0,1,6,0,0,0,0,0,0,0,0,0,2,-2,11:01,4:40,0:00,NA
+2018020199,8478866,Dominik Simon,Pittsburgh Penguins,C,17:10,0,0,2,0,0,0,0,0,0,1,2,0,0,0,-1,14:31,2:39,0:00,NA
+2018020199,8473548,Phil Kessel,Pittsburgh Penguins,RW,19:30,0,0,6,1,0,0,0,0,1,0,5,0,0,0,-2,13:33,5:57,0:00,0
+2018020199,8475810,Bryan Rust,Pittsburgh Penguins,RW,12:00,0,0,1,1,0,0,2,0,0,0,1,0,0,0,0,10:32,0:07,1:21,NA
+2018020199,8471215,Evgeni Malkin,Pittsburgh Penguins,C,19:42,0,0,1,1,0,0,0,6,17,0,0,0,0,0,-2,13:48,5:54,0:00,35.29
+2018020199,8471677,Jack Johnson,Pittsburgh Penguins,D,19:14,0,0,1,4,0,0,0,0,0,0,1,0,0,1,-1,14:59,2:31,1:44,NA
+2018020199,8475772,Riley Sheahan,Pittsburgh Penguins,C,13:05,0,0,2,3,0,0,0,11,20,0,0,0,0,0,0,10:16,0:13,2:36,55
+2018020199,8474683,Derek Grant,Pittsburgh Penguins,C,7:15,0,0,2,4,0,0,0,1,1,1,0,0,0,0,0,6:55,0:20,0:00,100
+2018020199,8478466,Daniel Sprong,Pittsburgh Penguins,RW,10:21,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,7:36,2:45,0:00,NA
+2018020199,8476874,Olli Maatta,Pittsburgh Penguins,D,19:14,0,0,2,2,0,0,0,0,0,1,1,0,0,3,-1,13:50,3:17,2:07,NA
+2018020199,8476467,Jamie Oleksiak,Pittsburgh Penguins,D,16:40,0,0,1,7,0,0,2,0,0,0,1,0,0,2,-1,15:59,0:10,0:31,NA
+2018020199,8477244,Chad Ruhwedel,Pittsburgh Penguins,D,13:39,0,0,0,4,0,0,0,0,0,1,0,0,0,0,-2,13:39,0:00,0:00,NA
+2018020199,8474176,Carl Hagelin,Pittsburgh Penguins,LW,15:42,0,0,0,3,0,0,2,0,0,0,0,0,0,0,-2,13:30,0:00,2:12,NA
+2018020199,8464989,Matt Cullen,Pittsburgh Penguins,C,10:34,0,0,3,0,0,0,0,6,10,1,0,0,0,0,0,7:53,0:26,2:15,60
+2018020199,8478408,Travis Dermott,Toronto Maple Leafs,D,16:27,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,13:40,0:00,2:47,NA
+2018020199,8468493,Ron Hainsey,Toronto Maple Leafs,D,22:57,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,16:51,0:00,6:06,NA
+2018020199,8475786,Zach Hyman,Toronto Maple Leafs,LW,22:09,0,1,2,2,0,0,0,5,9,1,0,1,0,2,2,16:16,1:53,4:00,55.56
+2018020199,8476853,Morgan Rielly,Toronto Maple Leafs,D,23:09,0,2,3,0,1,0,0,0,0,0,0,0,0,1,2,17:36,2:57,2:36,NA
+2018020199,8477953,Kasperi Kapanen,Toronto Maple Leafs,RW,14:17,2,0,1,3,0,0,0,0,0,0,1,0,0,0,3,10:36,0:01,3:40,NA
+2018020199,8474589,Tyler Ennis,Toronto Maple Leafs,LW,10:09,0,0,4,1,0,0,0,0,0,2,0,0,0,1,0,8:16,1:53,0:00,NA
+2018020199,8479458,Nikita Zaitsev,Toronto Maple Leafs,D,20:20,0,0,0,3,0,0,0,0,0,0,1,0,0,5,2,14:18,0:00,6:02,NA
+2018020199,8477015,Connor Brown,Toronto Maple Leafs,RW,14:03,0,0,1,2,0,0,2,0,1,1,0,0,0,0,0,10:08,0:00,3:55,0
+2018020199,8475166,John Tavares,Toronto Maple Leafs,C,20:26,1,1,6,0,0,0,0,15,29,0,0,0,0,0,2,16:46,2:58,0:42,51.72
+2018020199,8476410,Josh Leivo,Toronto Maple Leafs,LW,8:44,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,6:51,1:53,0:00,NA
+2018020199,8480943,Igor Ozhiganov,Toronto Maple Leafs,D,12:48,0,0,0,3,0,0,4,0,0,0,0,0,0,0,1,12:47,0:01,0:00,NA
+2018020199,8480944,Par Lindholm,Toronto Maple Leafs,C,14:00,0,0,3,1,0,0,0,12,18,1,0,0,0,0,0,10:58,0:00,3:02,66.67
+2018020199,8477512,Frederik Gauthier,Toronto Maple Leafs,C,6:37,0,0,1,0,0,0,0,4,7,0,0,0,0,0,0,6:17,0:00,0:20,57.14
+2018020199,8477341,Andreas Johnsson,Toronto Maple Leafs,LW,12:25,0,0,1,1,0,0,0,1,1,1,0,0,0,0,0,10:38,1:47,0:00,100
+2018020199,8474581,Jake Gardiner,Toronto Maple Leafs,D,20:42,1,0,2,0,0,1,0,0,0,0,0,0,0,0,2,17:44,2:51,0:07,NA
+2018020199,8478483,Mitchell Marner,Toronto Maple Leafs,RW,20:53,2,0,6,1,0,1,0,0,0,0,1,0,0,1,2,16:10,2:58,1:45,NA
+2018020199,8475172,Nazem Kadri,Toronto Maple Leafs,C,15:43,1,0,1,0,0,0,2,8,13,0,0,0,0,0,1,13:30,2:06,0:07,61.54
+2018020199,8466139,Patrick Marleau,Toronto Maple Leafs,C,15:26,0,1,1,2,0,0,2,0,2,0,0,0,0,1,1,12:22,2:57,0:07,0

@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020840,8473468,Eric Gryba,New Jersey Devils,D,11:46,0,0,2,5,0,0,0,0,0,2,0,0,0,1,-1,11:46,0:00,0:00,NA
+2018020840,8476923,Damon Severson,New Jersey Devils,D,25:00,1,0,0,0,0,0,0,0,0,0,2,0,0,2,1,21:00,2:53,1:07,NA
+2018020840,8477509,Mirco Mueller,New Jersey Devils,D,15:40,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,14:31,0:00,1:09,NA
+2018020840,8471233,Travis Zajac,New Jersey Devils,C,19:15,0,0,0,0,0,0,0,12,21,2,0,0,0,0,-1,15:09,2:19,1:47,57.14
+2018020840,8476545,Kurtis Gabriel,New Jersey Devils,RW,5:01,0,0,1,7,0,0,5,0,0,0,0,0,0,0,1,4:50,0:11,0:00,NA
+2018020840,8479407,Jesper Bratt,New Jersey Devils,LW,17:29,0,1,1,1,0,0,0,0,0,0,0,0,0,0,-1,15:43,1:41,0:05,NA
+2018020840,8473933,Ben Lovejoy,New Jersey Devils,D,20:06,0,0,0,0,0,0,2,0,0,1,0,0,0,2,-1,17:15,0:00,2:51,NA
+2018020840,8475149,Marcus Johansson,New Jersey Devils,LW,19:49,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,17:33,2:16,0:00,0
+2018020840,8471226,Drew Stafford,New Jersey Devils,RW,13:51,0,0,2,2,0,0,0,0,0,0,1,0,0,0,-1,12:59,0:52,0:00,NA
+2018020840,8472382,Andy Greene,New Jersey Devils,D,21:41,0,0,1,0,0,0,0,0,0,0,0,0,0,5,-1,18:25,0:03,3:13,NA
+2018020840,8478401,Pavel Zacha,New Jersey Devils,C,15:39,0,0,2,1,0,0,0,3,9,0,1,0,0,0,-1,11:35,1:41,2:23,33.33
+2018020840,8479315,Joey Anderson,New Jersey Devils,RW,14:03,0,0,0,2,0,0,0,0,0,0,1,0,0,0,-1,14:00,0:03,0:00,NA
+2018020840,8477355,Will Butcher,New Jersey Devils,D,19:35,1,0,1,2,0,0,0,0,0,1,2,0,0,1,-1,17:54,1:41,0:00,NA
+2018020840,8476399,Blake Coleman,New Jersey Devils,C,18:13,0,0,2,3,0,0,2,1,4,0,2,0,0,0,-1,15:04,1:44,1:25,25
+2018020840,8475151,Kyle Palmieri,New Jersey Devils,RW,20:49,0,0,3,3,0,0,2,1,1,0,0,0,0,0,0,18:33,2:16,0:00,100
+2018020840,8478881,Brett Seney,New Jersey Devils,LW,8:47,0,1,1,1,0,0,0,0,0,0,1,0,0,0,1,8:47,0:00,0:00,NA
+2018020840,8480002,Nico Hischier,New Jersey Devils,C,23:19,0,0,2,2,0,0,0,5,13,3,1,0,0,1,0,19:39,2:31,1:09,38.46
+2018020840,8479291,Kevin Rooney,New Jersey Devils,C,9:06,0,0,0,3,0,0,0,6,9,0,1,0,0,1,1,7:35,0:00,1:31,66.67
+2018020840,8474716,Jared Spurgeon,Minnesota Wild,D,23:17,0,0,4,0,0,0,0,0,0,0,1,0,0,4,0,20:11,1:31,1:35,NA
+2018020840,8475868,Anthony Bitetto,Minnesota Wild,D,18:24,0,0,1,7,0,0,0,0,0,0,0,0,0,2,0,18:21,0:03,0:00,NA
+2018020840,8470595,Eric Staal,Minnesota Wild,C,16:54,0,0,0,0,0,0,0,11,16,1,0,0,0,0,0,14:40,2:14,0:00,68.75
+2018020840,8470600,Ryan Suter,Minnesota Wild,D,25:25,1,0,2,2,0,1,0,0,0,0,0,0,0,2,0,21:14,2:36,1:35,NA
+2018020840,8470611,Eric Fehr,Minnesota Wild,C,8:07,0,0,1,0,0,0,0,2,6,0,0,0,0,0,-2,7:03,0:00,1:04,33.33
+2018020840,8475798,Mikael Granlund,Minnesota Wild,RW,21:43,0,0,3,2,0,0,0,7,13,2,0,0,0,0,0,18:10,2:14,1:19,53.85
+2018020840,8475722,Jason Zucker,Minnesota Wild,LW,17:37,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0,15:01,2:36,0:00,NA
+2018020840,8474688,Greg Pateryn,Minnesota Wild,D,14:49,1,0,0,2,0,0,0,0,0,0,0,0,0,1,1,12:24,0:00,2:25,NA
+2018020840,8476415,Kyle Rau,Minnesota Wild,C,6:08,0,0,1,2,0,0,0,0,0,1,0,0,0,1,-1,6:08,0:00,0:00,NA
+2018020840,8476437,Victor Rask,Minnesota Wild,C,7:15,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1,5:52,1:23,0:00,0
+2018020840,8475745,Charlie Coyle,Minnesota Wild,C,19:03,0,0,2,1,0,0,0,6,7,0,0,0,0,0,0,16:43,1:34,0:46,85.71
+2018020840,8470610,Zach Parise,Minnesota Wild,LW,20:57,0,1,5,2,1,0,0,0,0,1,2,0,0,1,0,17:03,2:47,1:07,NA
+2018020840,8479316,Luke Kunin,Minnesota Wild,C,15:41,1,1,4,1,0,0,0,1,3,1,0,0,0,0,3,12:27,1:43,1:31,33.33
+2018020840,8478413,Jordan Greenway,Minnesota Wild,LW,16:54,0,0,0,1,0,0,2,0,1,1,0,0,0,0,0,14:58,1:56,0:00,0
+2018020840,8476372,Nick Seeler,Minnesota Wild,D,14:38,0,0,0,0,0,0,2,0,0,1,1,0,0,1,1,13:50,0:00,0:48,NA
+2018020840,8475220,Marcus Foligno,Minnesota Wild,LW,14:26,2,1,1,1,0,0,5,0,0,1,0,0,0,1,2,13:36,0:00,0:50,NA
+2018020840,8476463,Jonas Brodin,Minnesota Wild,D,20:06,1,0,3,0,0,0,0,0,0,0,1,0,0,0,0,18:16,0:13,1:37,NA
+2018020840,8478493,Joel Eriksson Ek,Minnesota Wild,C,14:50,0,1,3,1,0,0,0,3,10,1,0,0,0,2,2,13:13,0:00,1:37,30

@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020742,8470638,Patrice Bergeron,Boston Bruins,C,18:13,1,0,1,0,0,0,2,62.96,17,27,2,1,0,0,0,-1,12:56,4:40,0:37
+2018020742,8473419,Brad Marchand,Boston Bruins,LW,19:29,0,1,4,0,0,0,0,NA,0,0,0,4,0,0,0,-1,12:58,4:51,1:40
+2018020742,8471276,David Krejci,Boston Bruins,C,18:33,0,0,2,0,0,0,0,78.57,11,14,0,0,0,0,0,0,15:02,3:31,0:00
+2018020742,8470655,David Backes,Boston Bruins,RW,13:21,0,0,2,4,0,0,0,33.33,1,3,0,0,0,0,0,1,10:09,3:12,0:00
+2018020742,8478569,Noel Acciari,Boston Bruins,C,12:12,0,0,0,1,0,0,0,80,4,5,0,0,0,0,0,0,11:10,0:03,0:59
+2018020742,8477417,Peter Cehlarik,Boston Bruins,LW,14:56,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,11:56,3:00,0:00
+2018020742,8477956,David Pastrnak,Boston Bruins,RW,19:16,1,0,3,2,0,0,0,NA,0,0,0,0,0,0,0,-1,14:39,4:37,0:00
+2018020742,8478417,Jakob Forsbacka Karlsson,Boston Bruins,C,10:57,1,0,0,1,0,0,0,57.14,4,7,1,1,0,0,0,1,10:57,0:00,0:00
+2018020742,8479325,Charlie McAvoy,Boston Bruins,D,24:55,0,0,2,1,0,0,0,NA,0,0,0,2,0,0,2,-2,20:10,3:46,0:59
+2018020742,8475780,Chris Wagner,Boston Bruins,RW,13:40,0,0,4,6,0,0,2,NA,0,0,0,1,0,0,0,0,11:47,0:14,1:39
+2018020742,8478443,Brandon Carlo,Boston Bruins,D,16:46,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,1,14:12,0:14,2:20
+2018020742,8476792,Torey Krug,Boston Bruins,D,21:02,0,0,0,0,0,0,0,NA,0,0,0,3,0,0,0,1,15:27,5:35,0:00
+2018020742,8476891,Matt Grzelcyk,Boston Bruins,D,17:36,0,0,1,1,0,0,2,NA,0,0,1,0,0,0,0,1,15:19,2:17,0:00
+2018020742,8476374,Sean Kuraly,Boston Bruins,C,14:39,0,0,2,1,0,0,0,50,4,8,0,1,0,0,0,0,12:53,0:03,1:43
+2018020742,8478498,Jake DeBrusk,Boston Bruins,LW,14:47,0,0,1,1,0,0,0,100,1,1,2,0,0,0,0,0,11:00,3:47,0:00
+2018020742,8478046,Danton Heinen,Boston Bruins,C,12:27,0,1,3,1,0,0,0,NA,0,0,0,0,0,0,0,1,11:23,1:04,0:00
+2018020742,8465009,Zdeno Chara,Boston Bruins,D,18:20,0,0,0,1,0,0,2,NA,0,0,0,1,0,0,1,-2,16:37,0:25,1:18
+2018020742,8476191,Kevan Miller,Boston Bruins,D,15:17,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,1,13:10,0:06,2:01
+2018020742,8476918,Jimmy Vesey,New York Rangers,LW,14:22,0,0,0,1,0,0,0,NA,0,0,1,0,0,0,0,0,11:11,0:38,2:33
+2018020742,8471717,Adam McQuaid,New York Rangers,D,17:28,0,0,1,4,0,0,4,NA,0,0,2,0,0,0,3,0,14:00,0:00,3:28
+2018020742,8471686,Marc Staal,New York Rangers,D,25:02,0,0,3,2,0,0,0,NA,0,0,2,1,0,0,1,-1,20:33,0:00,4:29
+2018020742,8476869,Brady Skjei,New York Rangers,D,22:06,1,0,1,2,0,0,0,NA,0,0,1,0,0,0,1,0,17:22,0:00,4:44
+2018020742,8471657,Cody McLeod,New York Rangers,LW,5:14,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,1,-1,5:14,0:00,0:00
+2018020742,8476458,Ryan Strome,New York Rangers,C,16:54,0,0,0,0,0,0,0,46.15,6,13,1,1,0,0,0,1,15:45,0:38,0:31
+2018020742,8476459,Mika Zibanejad,New York Rangers,C,20:18,0,2,2,1,1,0,0,36.67,11,30,3,0,0,0,1,0,14:30,1:55,3:53
+2018020742,8475855,Jesper Fast,New York Rangers,RW,12:50,0,0,1,3,0,0,2,NA,0,0,1,0,0,0,1,0,12:50,0:00,0:00
+2018020742,8476922,Boo Nieves,New York Rangers,C,15:02,0,0,0,1,0,0,0,25,3,12,0,2,0,0,0,0,13:13,0:00,1:49
+2018020742,8477950,Tony DeAngelo,New York Rangers,D,21:33,0,0,0,2,0,0,0,NA,0,0,2,0,0,0,0,0,20:52,0:24,0:17
+2018020742,8474031,Kevin Shattenkirk,New York Rangers,D,18:52,1,0,2,0,0,1,2,NA,0,0,1,0,0,0,1,0,13:20,2:55,2:37
+2018020742,8479324,Ryan Lindgren,New York Rangers,D,11:50,0,0,0,2,0,0,4,NA,0,0,0,1,0,0,0,1,10:51,0:00,0:59
+2018020742,8477402,Pavel Buchnevich,New York Rangers,RW,9:19,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,-1,6:38,2:41,0:00
+2018020742,8475184,Chris Kreider,New York Rangers,LW,18:04,0,0,1,1,0,0,0,0,0,1,1,1,0,0,1,0,15:17,2:41,0:06
+2018020742,8479353,Brett Howden,New York Rangers,C,8:50,0,0,0,0,0,0,0,28.57,2,7,0,0,0,0,1,-1,6:46,0:00,2:04
+2018020742,8475692,Mats Zuccarello,New York Rangers,RW,21:06,2,0,3,1,0,1,0,100,1,1,1,2,0,0,1,1,15:11,2:59,2:56
+2018020742,8480078,Filip Chytil,New York Rangers,C,15:03,0,1,3,1,0,0,0,NA,0,0,0,2,0,0,0,1,14:23,0:38,0:02
+2018020742,8476480,Vladislav Namestnikov,New York Rangers,C,16:07,0,0,2,2,0,0,0,100,1,1,0,1,0,0,0,0,12:21,1:06,2:40

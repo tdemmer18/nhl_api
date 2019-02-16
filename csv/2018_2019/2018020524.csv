@@ -1,0 +1,37 @@
+game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020524,8470803,Kyle Brodziak,Edmonton Oilers,C,12:11,0,0,0,1,0,0,0,50,4,8,0,0,0,0,0,0,9:23,0:37,2:11
+2018020524,8475857,Kevin Gravel,Edmonton Oilers,D,17:51,0,0,2,2,0,0,0,NA,0,0,1,3,0,0,2,0,16:18,0:00,1:33
+2018020524,8476915,Jujhar Khaira,Edmonton Oilers,LW,9:00,1,0,1,5,0,0,15,25,1,4,0,2,0,0,1,0,8:10,0:37,0:13
+2018020524,8476457,Adam Larsson,Edmonton Oilers,D,20:53,0,0,2,3,0,0,0,NA,0,0,0,2,0,0,2,0,18:00,0:36,2:17
+2018020524,8477934,Leon Draisaitl,Edmonton Oilers,C,22:24,0,0,4,0,0,0,0,54.55,6,11,0,1,0,0,0,-1,14:06,7:13,1:05
+2018020524,8476427,Ty Rattie,Edmonton Oilers,RW,13:20,0,0,1,3,0,0,0,NA,0,0,1,0,0,0,0,0,11:35,1:45,0:00
+2018020524,8476988,Matt Benning,Edmonton Oilers,D,15:16,0,0,1,2,0,0,0,NA,0,0,1,0,0,0,1,-2,10:21,2:20,2:35
+2018020524,8477498,Darnell Nurse,Edmonton Oilers,D,28:42,0,0,2,4,0,0,0,NA,0,0,0,2,0,0,0,0,19:55,7:30,1:17
+2018020524,8475178,Zack Kassian,Edmonton Oilers,RW,12:15,0,0,2,1,0,0,0,NA,0,0,1,1,0,0,0,0,10:12,0:35,1:28
+2018020524,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,C,21:59,0,0,0,3,0,0,2,50,7,14,0,2,0,0,0,-2,14:46,6:35,0:38
+2018020524,8476356,Tobias Rieder,Edmonton Oilers,RW,15:37,0,0,2,0,0,0,0,0,0,4,0,0,0,0,0,-1,12:29,1:45,1:23
+2018020524,8474520,Jason Garrison,Edmonton Oilers,D,12:29,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,2,-1,7:18,3:01,2:10
+2018020524,8478402,Connor McDavid,Edmonton Oilers,C,23:42,0,0,1,2,0,0,0,61.54,8,13,4,1,0,0,0,-1,16:29,7:13,0:00
+2018020524,8478452,Caleb Jones,Edmonton Oilers,D,18:16,1,0,0,1,0,0,0,NA,0,0,0,0,0,0,1,-1,18:08,0:00,0:08
+2018020524,8479465,Drake Caggiula,Edmonton Oilers,LW,9:21,0,0,1,0,0,0,0,50,1,2,0,0,0,0,1,0,8:01,0:27,0:53
+2018020524,8479344,Jesse Puljujarvi,Edmonton Oilers,RW,10:11,0,1,2,0,0,0,0,NA,0,0,0,0,0,0,1,-1,8:51,0:27,0:53
+2018020524,8475163,Alex Chiasson,Edmonton Oilers,RW,20:33,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,0,-1,12:30,6:47,1:16
+2018020524,8473473,Milan Lucic,Edmonton Oilers,LW,9:07,0,0,0,3,0,0,0,NA,0,0,0,2,0,0,0,0,6:35,2:32,0:00
+2018020524,8475768,Jaden Schwartz,St. Louis Blues,LW,17:25,1,1,5,0,0,1,0,NA,0,0,0,0,0,0,2,0,12:13,3:24,1:48
+2018020524,8471761,Chris Butler,St. Louis Blues,D,11:42,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,1,-1,10:20,0:00,1:22
+2018020524,8476897,Oskar Sundqvist,St. Louis Blues,C,12:34,0,0,0,0,0,0,0,40,2,5,0,0,0,0,0,0,9:41,0:00,2:53
+2018020524,8477964,Ivan Barbashev,St. Louis Blues,C,11:46,0,0,2,0,0,0,0,75,3,4,0,0,0,0,1,0,8:53,0:00,2:53
+2018020524,8475325,Jordan Nolan,St. Louis Blues,C,5:36,0,0,1,0,0,0,0,NA,0,0,1,0,0,0,0,0,5:36,0:00,0:00
+2018020524,8475765,Vladimir Tarasenko,St. Louis Blues,RW,17:13,0,1,4,1,1,0,0,NA,0,0,0,0,0,0,0,-1,13:40,3:24,0:09
+2018020524,8470257,Alexander Steen,St. Louis Blues,LW,19:01,0,0,1,1,0,0,0,NA,0,0,1,2,0,0,0,1,12:15,1:36,5:10
+2018020524,8478407,Vince Dunn,St. Louis Blues,D,14:49,0,0,2,0,0,0,2,NA,0,0,0,1,0,0,1,0,11:20,2:59,0:30
+2018020524,8475158,Ryan O'Reilly,St. Louis Blues,C,19:29,1,0,1,1,0,0,0,60,15,25,0,0,0,0,1,2,12:27,2:59,4:03
+2018020524,8474102,David Perron,St. Louis Blues,LW,14:34,0,1,2,0,0,0,2,0,0,2,0,1,0,0,1,1,12:58,1:36,0:00
+2018020524,8474145,Robert Bortuzzo,St. Louis Blues,D,19:45,0,0,1,1,0,0,0,NA,0,0,0,1,0,0,2,1,13:18,0:00,6:27
+2018020524,8474034,Pat Maroon,St. Louis Blues,LW,12:38,0,1,2,1,0,0,2,NA,0,0,0,0,0,0,0,1,11:34,1:04,0:00
+2018020524,8475098,Tyler Bozak,St. Louis Blues,C,15:03,1,0,0,4,0,0,0,50,4,8,0,1,0,0,3,1,12:01,1:36,1:26
+2018020524,8476441,Joel Edmundson,St. Louis Blues,D,24:03,0,0,1,3,0,0,2,NA,0,0,0,2,0,0,2,1,20:39,0:57,2:27
+2018020524,8470151,Jay Bouwmeester,St. Louis Blues,D,21:28,1,0,0,4,0,0,0,NA,0,0,0,1,0,0,1,2,15:09,0:00,6:19
+2018020524,8476892,Colton Parayko,St. Louis Blues,D,24:21,0,0,2,3,0,0,0,NA,0,0,0,2,0,0,2,1,19:25,2:01,2:55
+2018020524,8475170,Brayden Schenn,St. Louis Blues,C,17:55,3,0,3,0,0,1,0,41.67,5,12,2,1,0,0,1,0,12:53,3:24,1:38
+2018020524,8480023,Robert Thomas,St. Louis Blues,C,8:38,1,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,1,8:38,0:00,0:00
