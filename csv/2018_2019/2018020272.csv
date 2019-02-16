@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020272,8466138,Joe Thornton,San Jose Sharks,C,14:08,0,1,4,0,0,0,0,42.86,3,7,0,1,0,0,0,2,12:11,1:57,0:00
-2018020272,8470613,Brent Burns,San Jose Sharks,D,22:31,1,0,3,1,0,0,0,NA,0,0,0,0,0,0,0,0,18:12,2:53,1:26
-2018020272,8471709,Marc-Edouard Vlasic,San Jose Sharks,D,22:16,0,0,0,0,0,0,0,NA,0,0,1,1,0,0,2,-1,17:53,1:01,3:22
-2018020272,8470794,Joe Pavelski,San Jose Sharks,C,22:45,0,2,4,0,1,0,0,28.57,8,28,0,1,0,0,2,2,16:56,4:50,0:59
-2018020272,8475834,Marcus Sorensen,San Jose Sharks,LW,11:56,2,1,2,0,0,0,0,NA,0,0,0,0,0,0,0,1,10:34,0:00,1:22
-2018020272,8474027,Justin Braun,San Jose Sharks,D,21:39,1,0,2,0,0,0,0,NA,0,0,2,1,0,0,2,0,17:50,0:35,3:14
-2018020272,8475820,Joonas Donskoi,San Jose Sharks,RW,14:08,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,1,0,13:23,0:37,0:08
-2018020272,8476624,Barclay Goodrow,San Jose Sharks,RW,6:38,0,0,2,2,0,0,0,75,3,4,0,0,0,0,0,-1,5:48,0:00,0:50
-2018020272,8474578,Erik Karlsson,San Jose Sharks,D,24:39,1,0,1,1,0,1,0,NA,0,0,4,0,0,0,2,1,17:47,5:34,1:18
-2018020272,8477922,Melker Karlsson,San Jose Sharks,C,12:09,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,1,0,10:51,0:00,1:18
-2018020272,8474053,Logan Couture,San Jose Sharks,C,21:51,0,0,1,0,0,0,0,44.44,4,9,1,2,0,0,1,-3,15:12,4:49,1:50
-2018020272,8480965,Antti Suomela,San Jose Sharks,C,6:35,0,1,1,0,0,0,0,80,4,5,0,0,0,0,0,1,6:35,0:00,0:00
-2018020272,8478414,Timo Meier,San Jose Sharks,RW,21:35,0,0,4,1,0,0,0,0,0,1,1,1,0,0,0,-1,17:45,2:47,1:03
-2018020272,8475455,Brenden Dillon,San Jose Sharks,D,13:44,0,0,0,2,0,0,2,NA,0,0,0,1,0,0,1,1,13:44,0:00,0:00
-2018020272,8475169,Evander Kane,San Jose Sharks,LW,20:37,0,0,4,1,0,0,0,33.33,1,3,0,2,0,0,2,0,17:24,2:02,1:11
-2018020272,8478099,Kevin Labanc,San Jose Sharks,RW,14:16,0,0,3,0,0,0,4,0,0,1,0,1,0,0,0,0,9:53,4:23,0:00
-2018020272,8477046,Joakim Ryan,San Jose Sharks,D,11:42,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,1,-1,11:42,0:00,0:00
-2018020272,8476881,Tomas Hertl,San Jose Sharks,C,11:00,1,0,1,0,0,1,0,83.33,5,6,0,0,0,0,0,-1,7:18,3:03,0:39
-2018020272,8477919,Frederick Gaudreau,Nashville Predators,C,7:03,0,0,0,0,0,0,0,50,3,6,0,0,0,0,0,2,6:56,0:07,0:00
-2018020272,8475218,Mattias Ekholm,Nashville Predators,D,30:15,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,4,0,24:03,2:31,3:41
-2018020272,8476428,Rocco Grimaldi,Nashville Predators,C,8:52,0,1,2,2,0,0,0,NA,0,0,1,1,0,0,1,1,8:52,0:00,0:00
-2018020272,8475625,Matt Irwin,Nashville Predators,D,10:10,1,0,0,2,0,0,0,NA,0,0,0,0,0,0,1,1,9:25,0:00,0:45
-2018020272,8476925,Colton Sissons,Nashville Predators,C,19:34,0,0,3,1,0,0,0,50,3,6,1,0,0,0,2,-1,15:56,1:43,1:55
-2018020272,8474736,Zac Rinaldo,Nashville Predators,LW,7:48,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,1,0,7:48,0:00,0:00
-2018020272,8475225,Craig Smith,Nashville Predators,RW,15:04,1,1,6,3,0,0,0,50,1,2,2,0,0,0,2,0,12:07,2:57,0:00
-2018020272,8476887,Filip Forsberg,Nashville Predators,LW,18:26,1,2,3,0,0,0,2,NA,0,0,1,2,0,0,1,1,13:55,2:43,1:48
-2018020272,8476447,Miikka Salomaki,Nashville Predators,RW,13:20,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,0,0,11:46,0:00,1:34
-2018020272,8477942,Kevin Fiala,Nashville Predators,LW,14:52,1,0,0,0,0,0,0,NA,0,0,1,1,0,0,0,-1,13:09,1:43,0:00
-2018020272,8474009,Nick Bonino,Nashville Predators,C,18:47,0,0,4,2,0,0,2,70.59,12,17,0,1,0,0,0,1,12:45,2:57,3:05
-2018020272,8474600,Roman Josi,Nashville Predators,D,27:56,0,0,6,1,0,0,0,NA,0,0,0,0,0,0,1,1,21:50,2:16,3:50
-2018020272,8475793,Ryan Johansen,Nashville Predators,C,20:48,1,0,1,0,0,0,0,50,10,20,1,0,0,0,0,0,15:50,3:08,1:50
-2018020272,8477451,Ryan Hartman,Nashville Predators,RW,14:25,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,-1,11:39,0:00,2:46
-2018020272,8474134,Yannick Weber,Nashville Predators,D,17:09,0,0,2,2,0,0,2,NA,0,0,1,0,0,0,0,-2,15:50,0:00,1:19
-2018020272,8474068,Kyle Turris,Nashville Predators,C,17:09,0,0,0,1,0,0,0,53.85,7,13,0,1,0,0,0,-1,15:34,1:25,0:10
-2018020272,8474056,P.K. Subban,Nashville Predators,D,7:07,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,-1,6:02,0:00,1:05
-2018020272,8475176,Ryan Ellis,Nashville Predators,D,25:04,0,0,1,2,0,0,2,NA,0,0,2,1,0,0,2,0,19:46,1:50,3:28
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020272,8466138,Joe Thornton,San Jose Sharks,Nashville Predators,C,14:08,0,1,4,0,0,0,0,42.86,3,7,0,1,0,0,0,2,12:11,1:57,0:00
+2018020272,8470613,Brent Burns,San Jose Sharks,Nashville Predators,D,22:31,1,0,3,1,0,0,0,NA,0,0,0,0,0,0,0,0,18:12,2:53,1:26
+2018020272,8471709,Marc-Edouard Vlasic,San Jose Sharks,Nashville Predators,D,22:16,0,0,0,0,0,0,0,NA,0,0,1,1,0,0,2,-1,17:53,1:01,3:22
+2018020272,8470794,Joe Pavelski,San Jose Sharks,Nashville Predators,C,22:45,0,2,4,0,1,0,0,28.57,8,28,0,1,0,0,2,2,16:56,4:50,0:59
+2018020272,8475834,Marcus Sorensen,San Jose Sharks,Nashville Predators,LW,11:56,2,1,2,0,0,0,0,NA,0,0,0,0,0,0,0,1,10:34,0:00,1:22
+2018020272,8474027,Justin Braun,San Jose Sharks,Nashville Predators,D,21:39,1,0,2,0,0,0,0,NA,0,0,2,1,0,0,2,0,17:50,0:35,3:14
+2018020272,8475820,Joonas Donskoi,San Jose Sharks,Nashville Predators,RW,14:08,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,1,0,13:23,0:37,0:08
+2018020272,8476624,Barclay Goodrow,San Jose Sharks,Nashville Predators,RW,6:38,0,0,2,2,0,0,0,75,3,4,0,0,0,0,0,-1,5:48,0:00,0:50
+2018020272,8474578,Erik Karlsson,San Jose Sharks,Nashville Predators,D,24:39,1,0,1,1,0,1,0,NA,0,0,4,0,0,0,2,1,17:47,5:34,1:18
+2018020272,8477922,Melker Karlsson,San Jose Sharks,Nashville Predators,C,12:09,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,1,0,10:51,0:00,1:18
+2018020272,8474053,Logan Couture,San Jose Sharks,Nashville Predators,C,21:51,0,0,1,0,0,0,0,44.44,4,9,1,2,0,0,1,-3,15:12,4:49,1:50
+2018020272,8480965,Antti Suomela,San Jose Sharks,Nashville Predators,C,6:35,0,1,1,0,0,0,0,80,4,5,0,0,0,0,0,1,6:35,0:00,0:00
+2018020272,8478414,Timo Meier,San Jose Sharks,Nashville Predators,RW,21:35,0,0,4,1,0,0,0,0,0,1,1,1,0,0,0,-1,17:45,2:47,1:03
+2018020272,8475455,Brenden Dillon,San Jose Sharks,Nashville Predators,D,13:44,0,0,0,2,0,0,2,NA,0,0,0,1,0,0,1,1,13:44,0:00,0:00
+2018020272,8475169,Evander Kane,San Jose Sharks,Nashville Predators,LW,20:37,0,0,4,1,0,0,0,33.33,1,3,0,2,0,0,2,0,17:24,2:02,1:11
+2018020272,8478099,Kevin Labanc,San Jose Sharks,Nashville Predators,RW,14:16,0,0,3,0,0,0,4,0,0,1,0,1,0,0,0,0,9:53,4:23,0:00
+2018020272,8477046,Joakim Ryan,San Jose Sharks,Nashville Predators,D,11:42,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,1,-1,11:42,0:00,0:00
+2018020272,8476881,Tomas Hertl,San Jose Sharks,Nashville Predators,C,11:00,1,0,1,0,0,1,0,83.33,5,6,0,0,0,0,0,-1,7:18,3:03,0:39
+2018020272,8477919,Frederick Gaudreau,Nashville Predators,San Jose Sharks,C,7:03,0,0,0,0,0,0,0,50,3,6,0,0,0,0,0,2,6:56,0:07,0:00
+2018020272,8475218,Mattias Ekholm,Nashville Predators,San Jose Sharks,D,30:15,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,4,0,24:03,2:31,3:41
+2018020272,8476428,Rocco Grimaldi,Nashville Predators,San Jose Sharks,C,8:52,0,1,2,2,0,0,0,NA,0,0,1,1,0,0,1,1,8:52,0:00,0:00
+2018020272,8475625,Matt Irwin,Nashville Predators,San Jose Sharks,D,10:10,1,0,0,2,0,0,0,NA,0,0,0,0,0,0,1,1,9:25,0:00,0:45
+2018020272,8476925,Colton Sissons,Nashville Predators,San Jose Sharks,C,19:34,0,0,3,1,0,0,0,50,3,6,1,0,0,0,2,-1,15:56,1:43,1:55
+2018020272,8474736,Zac Rinaldo,Nashville Predators,San Jose Sharks,LW,7:48,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,1,0,7:48,0:00,0:00
+2018020272,8475225,Craig Smith,Nashville Predators,San Jose Sharks,RW,15:04,1,1,6,3,0,0,0,50,1,2,2,0,0,0,2,0,12:07,2:57,0:00
+2018020272,8476887,Filip Forsberg,Nashville Predators,San Jose Sharks,LW,18:26,1,2,3,0,0,0,2,NA,0,0,1,2,0,0,1,1,13:55,2:43,1:48
+2018020272,8476447,Miikka Salomaki,Nashville Predators,San Jose Sharks,RW,13:20,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,0,0,11:46,0:00,1:34
+2018020272,8477942,Kevin Fiala,Nashville Predators,San Jose Sharks,LW,14:52,1,0,0,0,0,0,0,NA,0,0,1,1,0,0,0,-1,13:09,1:43,0:00
+2018020272,8474009,Nick Bonino,Nashville Predators,San Jose Sharks,C,18:47,0,0,4,2,0,0,2,70.59,12,17,0,1,0,0,0,1,12:45,2:57,3:05
+2018020272,8474600,Roman Josi,Nashville Predators,San Jose Sharks,D,27:56,0,0,6,1,0,0,0,NA,0,0,0,0,0,0,1,1,21:50,2:16,3:50
+2018020272,8475793,Ryan Johansen,Nashville Predators,San Jose Sharks,C,20:48,1,0,1,0,0,0,0,50,10,20,1,0,0,0,0,0,15:50,3:08,1:50
+2018020272,8477451,Ryan Hartman,Nashville Predators,San Jose Sharks,RW,14:25,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,-1,11:39,0:00,2:46
+2018020272,8474134,Yannick Weber,Nashville Predators,San Jose Sharks,D,17:09,0,0,2,2,0,0,2,NA,0,0,1,0,0,0,0,-2,15:50,0:00,1:19
+2018020272,8474068,Kyle Turris,Nashville Predators,San Jose Sharks,C,17:09,0,0,0,1,0,0,0,53.85,7,13,0,1,0,0,0,-1,15:34,1:25,0:10
+2018020272,8474056,P.K. Subban,Nashville Predators,San Jose Sharks,D,7:07,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,-1,6:02,0:00,1:05
+2018020272,8475176,Ryan Ellis,Nashville Predators,San Jose Sharks,D,25:04,0,0,1,2,0,0,2,NA,0,0,2,1,0,0,2,0,19:46,1:50,3:28

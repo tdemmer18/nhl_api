@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020673,8476918,Jimmy Vesey,New York Rangers,LW,12:52,1,0,1,1,0,1,2,0,0,1,1,1,0,0,1,-1,10:31,1:18,1:03
-2018020673,8471717,Adam McQuaid,New York Rangers,D,18:21,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,2,-1,15:06,0:04,3:11
-2018020673,8471686,Marc Staal,New York Rangers,D,16:11,0,0,0,1,0,0,2,NA,0,0,1,2,0,0,3,0,15:19,0:00,0:52
-2018020673,8476869,Brady Skjei,New York Rangers,D,18:52,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,1,-1,15:22,0:10,3:20
-2018020673,8471657,Cody McLeod,New York Rangers,LW,7:40,0,0,0,4,0,0,7,NA,0,0,0,1,0,0,0,0,7:40,0:00,0:00
-2018020673,8476458,Ryan Strome,New York Rangers,C,17:29,0,1,2,2,1,0,0,50,7,14,0,1,0,0,0,1,15:15,1:18,0:56
-2018020673,8476459,Mika Zibanejad,New York Rangers,C,22:30,0,0,6,1,0,0,0,33.33,8,24,0,0,0,0,0,0,16:50,3:09,2:31
-2018020673,8475855,Jesper Fast,New York Rangers,RW,15:43,0,1,2,6,0,0,0,100,1,1,2,0,0,0,1,1,14:41,0:00,1:02
-2018020673,8476922,Boo Nieves,New York Rangers,C,8:37,0,0,1,1,0,0,0,37.5,3,8,0,0,0,0,0,0,8:37,0:00,0:00
-2018020673,8474031,Kevin Shattenkirk,New York Rangers,D,24:00,0,1,6,2,0,0,0,NA,0,0,3,0,0,0,3,1,20:50,3:10,0:00
-2018020673,8477402,Pavel Buchnevich,New York Rangers,RW,10:03,1,0,2,2,0,0,0,NA,0,0,0,1,0,0,0,1,10:03,0:00,0:00
-2018020673,8476368,Fredrik Claesson,New York Rangers,D,19:55,1,0,1,4,0,0,0,NA,0,0,0,0,0,0,1,1,19:55,0:00,0:00
-2018020673,8475184,Chris Kreider,New York Rangers,LW,19:11,0,0,2,3,0,0,0,0,0,2,0,1,0,0,1,0,16:02,3:09,0:00
-2018020673,8479353,Brett Howden,New York Rangers,C,13:49,0,0,1,2,0,0,0,55.56,5,9,0,0,0,0,0,-1,12:01,1:14,0:34
-2018020673,8475692,Mats Zuccarello,New York Rangers,RW,20:51,0,0,1,2,0,0,0,NA,0,0,0,2,0,0,0,0,17:03,3:09,0:39
-2018020673,8480078,Filip Chytil,New York Rangers,C,14:54,1,0,0,1,0,1,0,NA,0,0,1,3,0,0,0,0,13:36,1:18,0:00
-2018020673,8476480,Vladislav Namestnikov,New York Rangers,C,15:54,0,0,1,2,0,0,2,NA,0,0,0,0,0,0,0,-1,11:06,3:09,1:39
-2018020673,8480145,Neal Pionk,New York Rangers,D,18:18,1,0,2,1,0,0,0,NA,0,0,1,3,0,0,1,0,16:10,1:07,1:01
-2018020673,8474709,Matt Martin,New York Islanders,LW,9:23,0,0,0,8,0,0,7,100,1,1,0,0,0,0,1,0,9:23,0:00,0:00
-2018020673,8476917,Adam Pelech,New York Islanders,D,15:44,0,0,0,2,0,0,2,NA,0,0,1,0,0,0,1,-1,14:27,0:00,1:17
-2018020673,8477506,Ryan Pulock,New York Islanders,D,21:35,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,3,0,19:01,0:52,1:42
-2018020673,8476429,Scott Mayfield,New York Islanders,D,20:14,0,0,1,3,0,0,0,NA,0,0,0,1,0,0,4,-1,17:19,0:00,2:55
-2018020673,8470047,Valtteri Filppula,New York Islanders,C,15:20,0,0,1,1,0,0,0,66.67,6,9,1,0,0,0,0,0,13:12,0:00,2:08
-2018020673,8470187,Johnny Boychuk,New York Islanders,D,20:16,2,0,1,5,0,0,0,NA,0,0,0,0,0,0,1,2,17:24,0:00,2:52
-2018020673,8473504,Cal Clutterbuck,New York Islanders,RW,13:03,1,0,1,2,0,0,0,NA,0,0,0,0,0,0,0,1,10:33,0:52,1:38
-2018020673,8475314,Anders Lee,New York Islanders,LW,15:30,1,1,1,2,1,1,0,0,0,1,0,0,0,0,2,-1,12:10,3:20,0:00
-2018020673,8475754,Brock Nelson,New York Islanders,C,18:05,0,0,3,2,0,0,0,70.59,12,17,0,0,0,0,3,-1,14:00,3:20,0:45
-2018020673,8477527,Ross Johnston,New York Islanders,LW,7:50,0,0,0,1,0,0,2,NA,0,0,0,1,0,0,0,0,7:50,0:00,0:00
-2018020673,8478445,Mathew Barzal,New York Islanders,C,18:04,2,1,2,1,0,2,0,0,0,6,0,1,0,0,2,0,14:44,3:20,0:00
-2018020673,8478038,Devon Toews,New York Islanders,D,17:05,0,0,0,2,0,0,0,NA,0,0,0,0,0,0,1,-1,16:13,0:52,0:00
-2018020673,8474573,Josh Bailey,New York Islanders,RW,17:39,0,1,2,0,0,0,0,75,6,8,0,0,0,0,0,1,16:47,0:52,0:00
-2018020673,8474586,Jordan Eberle,New York Islanders,RW,15:07,0,1,2,0,1,0,0,NA,0,0,0,0,0,0,0,-1,11:47,3:20,0:00
-2018020673,8478463,Anthony Beauvillier,New York Islanders,LW,16:27,0,0,4,0,0,0,0,NA,0,0,1,0,0,0,0,0,15:35,0:52,0:00
-2018020673,8473463,Leo Komarov,New York Islanders,RW,15:10,0,0,0,2,0,0,2,NA,0,0,1,0,0,0,0,0,13:51,0:00,1:19
-2018020673,8475231,Casey Cizikas,New York Islanders,C,14:07,0,0,0,1,0,0,0,58.82,10,17,0,0,0,0,0,1,12:11,0:00,1:56
-2018020673,8475181,Nick Leddy,New York Islanders,D,22:00,1,0,0,2,0,1,0,NA,0,0,1,0,0,0,2,1,18:18,3:20,0:22
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020673,8476918,Jimmy Vesey,New York Rangers,New York Islanders,LW,12:52,1,0,1,1,0,1,2,0,0,1,1,1,0,0,1,-1,10:31,1:18,1:03
+2018020673,8471717,Adam McQuaid,New York Rangers,New York Islanders,D,18:21,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,2,-1,15:06,0:04,3:11
+2018020673,8471686,Marc Staal,New York Rangers,New York Islanders,D,16:11,0,0,0,1,0,0,2,NA,0,0,1,2,0,0,3,0,15:19,0:00,0:52
+2018020673,8476869,Brady Skjei,New York Rangers,New York Islanders,D,18:52,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,1,-1,15:22,0:10,3:20
+2018020673,8471657,Cody McLeod,New York Rangers,New York Islanders,LW,7:40,0,0,0,4,0,0,7,NA,0,0,0,1,0,0,0,0,7:40,0:00,0:00
+2018020673,8476458,Ryan Strome,New York Rangers,New York Islanders,C,17:29,0,1,2,2,1,0,0,50,7,14,0,1,0,0,0,1,15:15,1:18,0:56
+2018020673,8476459,Mika Zibanejad,New York Rangers,New York Islanders,C,22:30,0,0,6,1,0,0,0,33.33,8,24,0,0,0,0,0,0,16:50,3:09,2:31
+2018020673,8475855,Jesper Fast,New York Rangers,New York Islanders,RW,15:43,0,1,2,6,0,0,0,100,1,1,2,0,0,0,1,1,14:41,0:00,1:02
+2018020673,8476922,Boo Nieves,New York Rangers,New York Islanders,C,8:37,0,0,1,1,0,0,0,37.5,3,8,0,0,0,0,0,0,8:37,0:00,0:00
+2018020673,8474031,Kevin Shattenkirk,New York Rangers,New York Islanders,D,24:00,0,1,6,2,0,0,0,NA,0,0,3,0,0,0,3,1,20:50,3:10,0:00
+2018020673,8477402,Pavel Buchnevich,New York Rangers,New York Islanders,RW,10:03,1,0,2,2,0,0,0,NA,0,0,0,1,0,0,0,1,10:03,0:00,0:00
+2018020673,8476368,Fredrik Claesson,New York Rangers,New York Islanders,D,19:55,1,0,1,4,0,0,0,NA,0,0,0,0,0,0,1,1,19:55,0:00,0:00
+2018020673,8475184,Chris Kreider,New York Rangers,New York Islanders,LW,19:11,0,0,2,3,0,0,0,0,0,2,0,1,0,0,1,0,16:02,3:09,0:00
+2018020673,8479353,Brett Howden,New York Rangers,New York Islanders,C,13:49,0,0,1,2,0,0,0,55.56,5,9,0,0,0,0,0,-1,12:01,1:14,0:34
+2018020673,8475692,Mats Zuccarello,New York Rangers,New York Islanders,RW,20:51,0,0,1,2,0,0,0,NA,0,0,0,2,0,0,0,0,17:03,3:09,0:39
+2018020673,8480078,Filip Chytil,New York Rangers,New York Islanders,C,14:54,1,0,0,1,0,1,0,NA,0,0,1,3,0,0,0,0,13:36,1:18,0:00
+2018020673,8476480,Vladislav Namestnikov,New York Rangers,New York Islanders,C,15:54,0,0,1,2,0,0,2,NA,0,0,0,0,0,0,0,-1,11:06,3:09,1:39
+2018020673,8480145,Neal Pionk,New York Rangers,New York Islanders,D,18:18,1,0,2,1,0,0,0,NA,0,0,1,3,0,0,1,0,16:10,1:07,1:01
+2018020673,8474709,Matt Martin,New York Islanders,New York Rangers,LW,9:23,0,0,0,8,0,0,7,100,1,1,0,0,0,0,1,0,9:23,0:00,0:00
+2018020673,8476917,Adam Pelech,New York Islanders,New York Rangers,D,15:44,0,0,0,2,0,0,2,NA,0,0,1,0,0,0,1,-1,14:27,0:00,1:17
+2018020673,8477506,Ryan Pulock,New York Islanders,New York Rangers,D,21:35,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,3,0,19:01,0:52,1:42
+2018020673,8476429,Scott Mayfield,New York Islanders,New York Rangers,D,20:14,0,0,1,3,0,0,0,NA,0,0,0,1,0,0,4,-1,17:19,0:00,2:55
+2018020673,8470047,Valtteri Filppula,New York Islanders,New York Rangers,C,15:20,0,0,1,1,0,0,0,66.67,6,9,1,0,0,0,0,0,13:12,0:00,2:08
+2018020673,8470187,Johnny Boychuk,New York Islanders,New York Rangers,D,20:16,2,0,1,5,0,0,0,NA,0,0,0,0,0,0,1,2,17:24,0:00,2:52
+2018020673,8473504,Cal Clutterbuck,New York Islanders,New York Rangers,RW,13:03,1,0,1,2,0,0,0,NA,0,0,0,0,0,0,0,1,10:33,0:52,1:38
+2018020673,8475314,Anders Lee,New York Islanders,New York Rangers,LW,15:30,1,1,1,2,1,1,0,0,0,1,0,0,0,0,2,-1,12:10,3:20,0:00
+2018020673,8475754,Brock Nelson,New York Islanders,New York Rangers,C,18:05,0,0,3,2,0,0,0,70.59,12,17,0,0,0,0,3,-1,14:00,3:20,0:45
+2018020673,8477527,Ross Johnston,New York Islanders,New York Rangers,LW,7:50,0,0,0,1,0,0,2,NA,0,0,0,1,0,0,0,0,7:50,0:00,0:00
+2018020673,8478445,Mathew Barzal,New York Islanders,New York Rangers,C,18:04,2,1,2,1,0,2,0,0,0,6,0,1,0,0,2,0,14:44,3:20,0:00
+2018020673,8478038,Devon Toews,New York Islanders,New York Rangers,D,17:05,0,0,0,2,0,0,0,NA,0,0,0,0,0,0,1,-1,16:13,0:52,0:00
+2018020673,8474573,Josh Bailey,New York Islanders,New York Rangers,RW,17:39,0,1,2,0,0,0,0,75,6,8,0,0,0,0,0,1,16:47,0:52,0:00
+2018020673,8474586,Jordan Eberle,New York Islanders,New York Rangers,RW,15:07,0,1,2,0,1,0,0,NA,0,0,0,0,0,0,0,-1,11:47,3:20,0:00
+2018020673,8478463,Anthony Beauvillier,New York Islanders,New York Rangers,LW,16:27,0,0,4,0,0,0,0,NA,0,0,1,0,0,0,0,0,15:35,0:52,0:00
+2018020673,8473463,Leo Komarov,New York Islanders,New York Rangers,RW,15:10,0,0,0,2,0,0,2,NA,0,0,1,0,0,0,0,0,13:51,0:00,1:19
+2018020673,8475231,Casey Cizikas,New York Islanders,New York Rangers,C,14:07,0,0,0,1,0,0,0,58.82,10,17,0,0,0,0,0,1,12:11,0:00,1:56
+2018020673,8475181,Nick Leddy,New York Islanders,New York Rangers,D,22:00,1,0,0,2,0,1,0,NA,0,0,1,0,0,0,2,1,18:18,3:20,0:22

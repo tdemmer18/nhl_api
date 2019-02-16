@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020307,8470616,Ryan Kesler,Anaheim Ducks,C,19:34,0,0,2,2,0,0,0,55.56,15,27,1,1,0,0,2,-1,17:21,1:43,0:30
-2018020307,8476857,Pontus Aberg,Anaheim Ducks,LW,17:54,1,0,2,1,0,0,2,0,0,1,0,1,0,0,0,0,15:12,2:42,0:00
-2018020307,8477969,Marcus Pettersson,Anaheim Ducks,D,13:34,0,0,0,0,0,0,0,NA,0,0,0,2,0,0,0,-1,12:40,0:00,0:54
-2018020307,8476407,Andy Welinski,Anaheim Ducks,D,14:05,0,0,3,0,0,0,0,NA,0,0,0,1,0,0,0,-1,14:05,0:00,0:00
-2018020307,8470612,Ryan Getzlaf,Anaheim Ducks,C,21:50,1,1,3,3,1,0,0,61.54,8,13,1,4,0,0,1,1,18:11,3:28,0:11
-2018020307,8477986,Brandon Montour,Anaheim Ducks,D,25:28,2,1,2,0,0,1,2,NA,0,0,0,1,0,0,2,2,22:06,3:09,0:13
-2018020307,8471699,Andrew Cogliano,Anaheim Ducks,LW,16:12,0,0,0,0,0,0,0,NA,0,0,0,2,0,0,2,-1,15:27,0:20,0:25
-2018020307,8476207,Brian Gibbons,Anaheim Ducks,C,9:07,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,8:13,0:00,0:54
-2018020307,8477941,Nick Ritchie,Anaheim Ducks,LW,16:10,1,0,1,6,0,0,0,NA,0,0,0,1,0,0,0,0,15:33,0:37,0:00
-2018020307,8476312,Josh Manson,Anaheim Ducks,D,24:49,0,0,1,3,0,0,0,NA,0,0,1,0,0,0,3,-1,22:52,0:20,1:37
-2018020307,8474641,Adam Henrique,Anaheim Ducks,C,19:24,1,0,3,0,0,1,0,73.33,11,15,1,0,0,0,1,0,16:29,2:42,0:13
-2018020307,8480748,Kiefer Sherwood,Anaheim Ducks,RW,8:57,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,0,0,8:57,0:00,0:00
-2018020307,8476483,Rickard Rakell,Anaheim Ducks,C,18:29,0,0,3,1,0,0,0,NA,0,0,0,1,0,0,0,1,15:47,2:42,0:00
-2018020307,8475164,Jakob Silfverberg,Anaheim Ducks,RW,18:14,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,2,-1,16:12,1:43,0:19
-2018020307,8478491,Jacob Larsson,Anaheim Ducks,D,23:30,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,3,-1,22:40,0:20,0:30
-2018020307,8478131,Ondrej Kase,Anaheim Ducks,RW,18:09,0,1,6,0,0,0,0,50,1,2,2,1,0,0,1,1,16:46,1:23,0:00
-2018020307,8479372,Josh Mahura,Anaheim Ducks,D,19:40,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,6,2,18:44,0:56,0:00
-2018020307,8479290,Kalle Kossila,Anaheim Ducks,C,8:24,0,0,0,0,0,0,0,40,2,5,0,0,0,0,1,0,7:55,0:00,0:29
-2018020307,8473446,Erik Johnson,Colorado Avalanche,D,25:39,0,0,4,3,0,0,0,NA,0,0,1,3,0,0,2,0,23:11,0:00,2:28
-2018020307,8477507,Nikita Zadorov,Colorado Avalanche,D,14:34,0,0,1,3,0,0,2,NA,0,0,0,0,0,0,1,0,12:37,0:00,1:57
-2018020307,8475747,Patrik Nemeth,Colorado Avalanche,D,13:30,1,0,3,1,0,0,0,NA,0,0,0,0,0,0,1,0,11:33,0:00,1:57
-2018020307,8477448,Marko Dano,Colorado Avalanche,C,6:20,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,6:02,0:00,0:18
-2018020307,8480326,Sheldon Dries,Colorado Avalanche,C,13:08,0,0,1,3,0,0,0,100,2,2,0,0,0,0,0,-1,11:59,0:00,1:09
-2018020307,8477413,Sven Andrighetto,Colorado Avalanche,RW,11:48,0,1,3,2,0,0,0,NA,0,0,0,3,0,0,1,0,10:24,1:24,0:00
-2018020307,8476455,Gabriel Landeskog,Colorado Avalanche,LW,25:24,1,1,5,1,0,1,2,45.45,5,11,0,1,0,0,1,1,23:35,1:37,0:12
-2018020307,8474685,Matt Calvert,Colorado Avalanche,LW,16:24,0,0,0,2,0,0,0,50,1,2,0,0,0,0,1,-1,14:56,0:00,1:28
-2018020307,8475268,Gabriel Bourque,Colorado Avalanche,LW,9:47,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,7:15,0:00,2:32
-2018020307,8477973,Vladislav Kamenev,Colorado Avalanche,C,8:35,1,0,1,1,0,0,0,50,2,4,0,1,0,0,0,1,8:35,0:00,0:00
-2018020307,8477021,Alexander Kerfoot,Colorado Avalanche,C,13:21,0,0,0,0,0,0,2,27.27,3,11,1,0,0,0,0,-1,13:21,0:00,0:00
-2018020307,8474013,Ian Cole,Colorado Avalanche,D,24:16,0,0,0,2,0,0,0,NA,0,0,1,2,0,0,2,0,21:48,0:00,2:28
-2018020307,8475197,Tyson Barrie,Colorado Avalanche,D,24:13,1,0,7,2,0,1,0,NA,0,0,1,2,0,0,1,0,22:36,1:37,0:00
-2018020307,8471262,Carl Soderberg,Colorado Avalanche,C,18:36,0,0,4,1,0,0,0,55.56,5,9,1,0,0,0,0,-1,15:51,0:00,2:45
-2018020307,8479398,Samuel Girard,Colorado Avalanche,D,21:22,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,0,21:22,0:00,0:00
-2018020307,8478420,Mikko Rantanen,Colorado Avalanche,RW,24:13,2,1,3,1,1,1,0,0,0,1,0,4,0,0,0,1,22:29,1:37,0:07
-2018020307,8477492,Nathan MacKinnon,Colorado Avalanche,C,25:43,2,1,7,0,1,1,0,38.1,8,21,1,1,0,0,0,1,23:47,1:37,0:19
-2018020307,8479370,Tyson Jost,Colorado Avalanche,C,13:49,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,0,13:49,0:00,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020307,8470616,Ryan Kesler,Anaheim Ducks,Colorado Avalanche,C,19:34,0,0,2,2,0,0,0,55.56,15,27,1,1,0,0,2,-1,17:21,1:43,0:30
+2018020307,8476857,Pontus Aberg,Anaheim Ducks,Colorado Avalanche,LW,17:54,1,0,2,1,0,0,2,0,0,1,0,1,0,0,0,0,15:12,2:42,0:00
+2018020307,8477969,Marcus Pettersson,Anaheim Ducks,Colorado Avalanche,D,13:34,0,0,0,0,0,0,0,NA,0,0,0,2,0,0,0,-1,12:40,0:00,0:54
+2018020307,8476407,Andy Welinski,Anaheim Ducks,Colorado Avalanche,D,14:05,0,0,3,0,0,0,0,NA,0,0,0,1,0,0,0,-1,14:05,0:00,0:00
+2018020307,8470612,Ryan Getzlaf,Anaheim Ducks,Colorado Avalanche,C,21:50,1,1,3,3,1,0,0,61.54,8,13,1,4,0,0,1,1,18:11,3:28,0:11
+2018020307,8477986,Brandon Montour,Anaheim Ducks,Colorado Avalanche,D,25:28,2,1,2,0,0,1,2,NA,0,0,0,1,0,0,2,2,22:06,3:09,0:13
+2018020307,8471699,Andrew Cogliano,Anaheim Ducks,Colorado Avalanche,LW,16:12,0,0,0,0,0,0,0,NA,0,0,0,2,0,0,2,-1,15:27,0:20,0:25
+2018020307,8476207,Brian Gibbons,Anaheim Ducks,Colorado Avalanche,C,9:07,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,8:13,0:00,0:54
+2018020307,8477941,Nick Ritchie,Anaheim Ducks,Colorado Avalanche,LW,16:10,1,0,1,6,0,0,0,NA,0,0,0,1,0,0,0,0,15:33,0:37,0:00
+2018020307,8476312,Josh Manson,Anaheim Ducks,Colorado Avalanche,D,24:49,0,0,1,3,0,0,0,NA,0,0,1,0,0,0,3,-1,22:52,0:20,1:37
+2018020307,8474641,Adam Henrique,Anaheim Ducks,Colorado Avalanche,C,19:24,1,0,3,0,0,1,0,73.33,11,15,1,0,0,0,1,0,16:29,2:42,0:13
+2018020307,8480748,Kiefer Sherwood,Anaheim Ducks,Colorado Avalanche,RW,8:57,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,0,0,8:57,0:00,0:00
+2018020307,8476483,Rickard Rakell,Anaheim Ducks,Colorado Avalanche,C,18:29,0,0,3,1,0,0,0,NA,0,0,0,1,0,0,0,1,15:47,2:42,0:00
+2018020307,8475164,Jakob Silfverberg,Anaheim Ducks,Colorado Avalanche,RW,18:14,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,2,-1,16:12,1:43,0:19
+2018020307,8478491,Jacob Larsson,Anaheim Ducks,Colorado Avalanche,D,23:30,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,3,-1,22:40,0:20,0:30
+2018020307,8478131,Ondrej Kase,Anaheim Ducks,Colorado Avalanche,RW,18:09,0,1,6,0,0,0,0,50,1,2,2,1,0,0,1,1,16:46,1:23,0:00
+2018020307,8479372,Josh Mahura,Anaheim Ducks,Colorado Avalanche,D,19:40,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,6,2,18:44,0:56,0:00
+2018020307,8479290,Kalle Kossila,Anaheim Ducks,Colorado Avalanche,C,8:24,0,0,0,0,0,0,0,40,2,5,0,0,0,0,1,0,7:55,0:00,0:29
+2018020307,8473446,Erik Johnson,Colorado Avalanche,Anaheim Ducks,D,25:39,0,0,4,3,0,0,0,NA,0,0,1,3,0,0,2,0,23:11,0:00,2:28
+2018020307,8477507,Nikita Zadorov,Colorado Avalanche,Anaheim Ducks,D,14:34,0,0,1,3,0,0,2,NA,0,0,0,0,0,0,1,0,12:37,0:00,1:57
+2018020307,8475747,Patrik Nemeth,Colorado Avalanche,Anaheim Ducks,D,13:30,1,0,3,1,0,0,0,NA,0,0,0,0,0,0,1,0,11:33,0:00,1:57
+2018020307,8477448,Marko Dano,Colorado Avalanche,Anaheim Ducks,C,6:20,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,6:02,0:00,0:18
+2018020307,8480326,Sheldon Dries,Colorado Avalanche,Anaheim Ducks,C,13:08,0,0,1,3,0,0,0,100,2,2,0,0,0,0,0,-1,11:59,0:00,1:09
+2018020307,8477413,Sven Andrighetto,Colorado Avalanche,Anaheim Ducks,RW,11:48,0,1,3,2,0,0,0,NA,0,0,0,3,0,0,1,0,10:24,1:24,0:00
+2018020307,8476455,Gabriel Landeskog,Colorado Avalanche,Anaheim Ducks,LW,25:24,1,1,5,1,0,1,2,45.45,5,11,0,1,0,0,1,1,23:35,1:37,0:12
+2018020307,8474685,Matt Calvert,Colorado Avalanche,Anaheim Ducks,LW,16:24,0,0,0,2,0,0,0,50,1,2,0,0,0,0,1,-1,14:56,0:00,1:28
+2018020307,8475268,Gabriel Bourque,Colorado Avalanche,Anaheim Ducks,LW,9:47,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,7:15,0:00,2:32
+2018020307,8477973,Vladislav Kamenev,Colorado Avalanche,Anaheim Ducks,C,8:35,1,0,1,1,0,0,0,50,2,4,0,1,0,0,0,1,8:35,0:00,0:00
+2018020307,8477021,Alexander Kerfoot,Colorado Avalanche,Anaheim Ducks,C,13:21,0,0,0,0,0,0,2,27.27,3,11,1,0,0,0,0,-1,13:21,0:00,0:00
+2018020307,8474013,Ian Cole,Colorado Avalanche,Anaheim Ducks,D,24:16,0,0,0,2,0,0,0,NA,0,0,1,2,0,0,2,0,21:48,0:00,2:28
+2018020307,8475197,Tyson Barrie,Colorado Avalanche,Anaheim Ducks,D,24:13,1,0,7,2,0,1,0,NA,0,0,1,2,0,0,1,0,22:36,1:37,0:00
+2018020307,8471262,Carl Soderberg,Colorado Avalanche,Anaheim Ducks,C,18:36,0,0,4,1,0,0,0,55.56,5,9,1,0,0,0,0,-1,15:51,0:00,2:45
+2018020307,8479398,Samuel Girard,Colorado Avalanche,Anaheim Ducks,D,21:22,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,0,21:22,0:00,0:00
+2018020307,8478420,Mikko Rantanen,Colorado Avalanche,Anaheim Ducks,RW,24:13,2,1,3,1,1,1,0,0,0,1,0,4,0,0,0,1,22:29,1:37,0:07
+2018020307,8477492,Nathan MacKinnon,Colorado Avalanche,Anaheim Ducks,C,25:43,2,1,7,0,1,1,0,38.1,8,21,1,1,0,0,0,1,23:47,1:37,0:19
+2018020307,8479370,Tyson Jost,Colorado Avalanche,Anaheim Ducks,C,13:49,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,0,13:49,0:00,0:00

@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020045,8470638,Patrice Bergeron,Boston Bruins,C,19:08,1,1,4,1,0,1,0,66.67,14,21,1,0,0,0,1,0,14:17,3:17,1:34
-2018020045,8473419,Brad Marchand,Boston Bruins,LW,20:19,0,1,3,0,1,0,0,50,1,2,0,1,0,0,0,0,15:21,2:51,2:07
-2018020045,8475807,Joakim Nordstrom,Boston Bruins,C,13:43,0,1,2,0,0,0,0,0,0,1,1,1,0,0,0,1,13:43,0:00,0:00
-2018020045,8471276,David Krejci,Boston Bruins,C,19:11,1,0,1,0,0,0,0,50,6,12,3,1,0,0,0,1,17:31,1:31,0:09
-2018020045,8470655,David Backes,Boston Bruins,RW,13:22,0,0,1,2,0,0,2,75,6,8,3,0,0,0,1,1,11:11,1:20,0:51
-2018020045,8478569,Noel Acciari,Boston Bruins,C,10:46,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,1,0,10:43,0:03,0:00
-2018020045,8477956,David Pastrnak,Boston Bruins,RW,17:49,0,1,3,1,1,0,0,NA,0,0,0,2,0,0,0,-1,14:54,2:55,0:00
-2018020045,8479325,Charlie McAvoy,Boston Bruins,D,21:45,0,0,0,1,0,0,2,NA,0,0,1,0,0,0,2,-1,20:07,1:38,0:00
-2018020045,8475780,Chris Wagner,Boston Bruins,RW,11:07,0,0,3,4,0,0,0,NA,0,0,0,0,0,0,0,0,11:04,0:03,0:00
-2018020045,8478443,Brandon Carlo,Boston Bruins,D,20:16,0,0,0,4,0,0,0,NA,0,0,1,1,0,0,1,2,17:42,0:00,2:34
-2018020045,8475186,John Moore,Boston Bruins,D,17:37,0,0,2,3,0,0,0,NA,0,0,0,0,0,0,0,1,16:38,0:59,0:00
-2018020045,8476891,Matt Grzelcyk,Boston Bruins,D,18:57,2,0,1,2,0,2,0,NA,0,0,1,0,0,0,0,0,15:18,3:39,0:00
-2018020045,8476374,Sean Kuraly,Boston Bruins,C,12:56,0,0,6,2,0,0,0,66.67,6,9,2,1,0,0,0,0,12:35,0:03,0:18
-2018020045,8478498,Jake DeBrusk,Boston Bruins,LW,15:02,0,0,2,0,0,0,0,NA,0,0,3,2,0,0,0,1,13:48,1:05,0:09
-2018020045,8478046,Danton Heinen,Boston Bruins,C,10:39,0,0,1,0,0,0,2,NA,0,0,1,0,0,0,0,0,10:39,0:00,0:00
-2018020045,8478075,Anders Bjork,Boston Bruins,LW,12:02,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,1,0,9:51,2:11,0:00
-2018020045,8465009,Zdeno Chara,Boston Bruins,D,23:06,0,0,1,1,0,0,0,NA,0,0,2,0,0,0,3,-1,20:29,0:03,2:34
-2018020045,8476191,Kevan Miller,Boston Bruins,D,16:15,0,0,1,0,0,0,5,NA,0,0,1,0,0,0,1,1,15:48,0:27,0:00
-2018020045,8471729,Kris Russell,Edmonton Oilers,D,17:02,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,2,0,14:44,0:00,2:18
-2018020045,8476915,Jujhar Khaira,Edmonton Oilers,LW,8:28,0,0,0,2,0,0,7,28.57,2,7,2,0,0,0,0,0,8:01,0:00,0:27
-2018020045,8476457,Adam Larsson,Edmonton Oilers,D,25:39,0,0,1,2,0,0,2,NA,0,0,1,1,0,0,1,-1,23:51,0:24,1:24
-2018020045,8476458,Ryan Strome,Edmonton Oilers,C,12:05,0,0,2,3,0,0,0,21.43,3,14,0,1,0,0,0,0,10:04,0:00,2:01
-2018020045,8477934,Leon Draisaitl,Edmonton Oilers,C,20:43,0,0,1,0,0,0,0,64.29,9,14,1,0,0,0,0,-2,18:18,2:10,0:15
-2018020045,8479977,Kailer Yamamoto,Edmonton Oilers,RW,13:47,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,0,-1,12:50,0:00,0:57
-2018020045,8476427,Ty Rattie,Edmonton Oilers,RW,14:30,1,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,1,14:06,0:24,0:00
-2018020045,8476988,Matt Benning,Edmonton Oilers,D,16:44,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,0,0,13:43,0:00,3:01
-2018020045,8477498,Darnell Nurse,Edmonton Oilers,D,22:06,1,0,2,2,0,0,0,NA,0,0,0,1,0,0,0,1,19:59,0:00,2:07
-2018020045,8475178,Zack Kassian,Edmonton Oilers,RW,10:07,0,0,0,1,0,0,0,NA,0,0,1,0,0,0,0,0,9:40,0:00,0:27
-2018020045,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,C,22:34,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,0,17:45,2:34,2:15
-2018020045,8476356,Tobias Rieder,Edmonton Oilers,RW,10:07,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,1,0,9:22,0:00,0:45
-2018020045,8478402,Connor McDavid,Edmonton Oilers,C,23:55,0,1,4,0,0,0,0,35.29,6,17,1,1,0,0,0,0,20:21,2:34,1:00
-2018020045,8480803,Evan Bouchard,Edmonton Oilers,D,13:47,0,0,2,1,0,0,0,NA,0,0,1,0,0,0,0,0,13:36,0:11,0:00
-2018020045,8479465,Drake Caggiula,Edmonton Oilers,LW,11:26,0,0,2,4,0,0,2,NA,0,0,0,0,0,0,1,-1,10:43,0:00,0:43
-2018020045,8479344,Jesse Puljujarvi,Edmonton Oilers,RW,10:26,0,0,0,0,0,0,2,NA,0,0,1,1,0,0,1,0,10:26,0:00,0:00
-2018020045,8476472,Oscar Klefbom,Edmonton Oilers,D,22:37,0,0,3,0,0,0,2,NA,0,0,2,2,0,0,2,-2,20:14,2:23,0:00
-2018020045,8473473,Milan Lucic,Edmonton Oilers,LW,17:50,0,0,1,5,0,0,0,NA,0,0,0,2,0,0,0,-1,15:40,2:10,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020045,8470638,Patrice Bergeron,Boston Bruins,Edmonton Oilers,C,19:08,1,1,4,1,0,1,0,66.67,14,21,1,0,0,0,1,0,14:17,3:17,1:34
+2018020045,8473419,Brad Marchand,Boston Bruins,Edmonton Oilers,LW,20:19,0,1,3,0,1,0,0,50,1,2,0,1,0,0,0,0,15:21,2:51,2:07
+2018020045,8475807,Joakim Nordstrom,Boston Bruins,Edmonton Oilers,C,13:43,0,1,2,0,0,0,0,0,0,1,1,1,0,0,0,1,13:43,0:00,0:00
+2018020045,8471276,David Krejci,Boston Bruins,Edmonton Oilers,C,19:11,1,0,1,0,0,0,0,50,6,12,3,1,0,0,0,1,17:31,1:31,0:09
+2018020045,8470655,David Backes,Boston Bruins,Edmonton Oilers,RW,13:22,0,0,1,2,0,0,2,75,6,8,3,0,0,0,1,1,11:11,1:20,0:51
+2018020045,8478569,Noel Acciari,Boston Bruins,Edmonton Oilers,C,10:46,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,1,0,10:43,0:03,0:00
+2018020045,8477956,David Pastrnak,Boston Bruins,Edmonton Oilers,RW,17:49,0,1,3,1,1,0,0,NA,0,0,0,2,0,0,0,-1,14:54,2:55,0:00
+2018020045,8479325,Charlie McAvoy,Boston Bruins,Edmonton Oilers,D,21:45,0,0,0,1,0,0,2,NA,0,0,1,0,0,0,2,-1,20:07,1:38,0:00
+2018020045,8475780,Chris Wagner,Boston Bruins,Edmonton Oilers,RW,11:07,0,0,3,4,0,0,0,NA,0,0,0,0,0,0,0,0,11:04,0:03,0:00
+2018020045,8478443,Brandon Carlo,Boston Bruins,Edmonton Oilers,D,20:16,0,0,0,4,0,0,0,NA,0,0,1,1,0,0,1,2,17:42,0:00,2:34
+2018020045,8475186,John Moore,Boston Bruins,Edmonton Oilers,D,17:37,0,0,2,3,0,0,0,NA,0,0,0,0,0,0,0,1,16:38,0:59,0:00
+2018020045,8476891,Matt Grzelcyk,Boston Bruins,Edmonton Oilers,D,18:57,2,0,1,2,0,2,0,NA,0,0,1,0,0,0,0,0,15:18,3:39,0:00
+2018020045,8476374,Sean Kuraly,Boston Bruins,Edmonton Oilers,C,12:56,0,0,6,2,0,0,0,66.67,6,9,2,1,0,0,0,0,12:35,0:03,0:18
+2018020045,8478498,Jake DeBrusk,Boston Bruins,Edmonton Oilers,LW,15:02,0,0,2,0,0,0,0,NA,0,0,3,2,0,0,0,1,13:48,1:05,0:09
+2018020045,8478046,Danton Heinen,Boston Bruins,Edmonton Oilers,C,10:39,0,0,1,0,0,0,2,NA,0,0,1,0,0,0,0,0,10:39,0:00,0:00
+2018020045,8478075,Anders Bjork,Boston Bruins,Edmonton Oilers,LW,12:02,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,1,0,9:51,2:11,0:00
+2018020045,8465009,Zdeno Chara,Boston Bruins,Edmonton Oilers,D,23:06,0,0,1,1,0,0,0,NA,0,0,2,0,0,0,3,-1,20:29,0:03,2:34
+2018020045,8476191,Kevan Miller,Boston Bruins,Edmonton Oilers,D,16:15,0,0,1,0,0,0,5,NA,0,0,1,0,0,0,1,1,15:48,0:27,0:00
+2018020045,8471729,Kris Russell,Edmonton Oilers,Boston Bruins,D,17:02,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,2,0,14:44,0:00,2:18
+2018020045,8476915,Jujhar Khaira,Edmonton Oilers,Boston Bruins,LW,8:28,0,0,0,2,0,0,7,28.57,2,7,2,0,0,0,0,0,8:01,0:00,0:27
+2018020045,8476457,Adam Larsson,Edmonton Oilers,Boston Bruins,D,25:39,0,0,1,2,0,0,2,NA,0,0,1,1,0,0,1,-1,23:51,0:24,1:24
+2018020045,8476458,Ryan Strome,Edmonton Oilers,Boston Bruins,C,12:05,0,0,2,3,0,0,0,21.43,3,14,0,1,0,0,0,0,10:04,0:00,2:01
+2018020045,8477934,Leon Draisaitl,Edmonton Oilers,Boston Bruins,C,20:43,0,0,1,0,0,0,0,64.29,9,14,1,0,0,0,0,-2,18:18,2:10,0:15
+2018020045,8479977,Kailer Yamamoto,Edmonton Oilers,Boston Bruins,RW,13:47,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,0,-1,12:50,0:00,0:57
+2018020045,8476427,Ty Rattie,Edmonton Oilers,Boston Bruins,RW,14:30,1,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,1,14:06,0:24,0:00
+2018020045,8476988,Matt Benning,Edmonton Oilers,Boston Bruins,D,16:44,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,0,0,13:43,0:00,3:01
+2018020045,8477498,Darnell Nurse,Edmonton Oilers,Boston Bruins,D,22:06,1,0,2,2,0,0,0,NA,0,0,0,1,0,0,0,1,19:59,0:00,2:07
+2018020045,8475178,Zack Kassian,Edmonton Oilers,Boston Bruins,RW,10:07,0,0,0,1,0,0,0,NA,0,0,1,0,0,0,0,0,9:40,0:00,0:27
+2018020045,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,Boston Bruins,C,22:34,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,0,17:45,2:34,2:15
+2018020045,8476356,Tobias Rieder,Edmonton Oilers,Boston Bruins,RW,10:07,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,1,0,9:22,0:00,0:45
+2018020045,8478402,Connor McDavid,Edmonton Oilers,Boston Bruins,C,23:55,0,1,4,0,0,0,0,35.29,6,17,1,1,0,0,0,0,20:21,2:34,1:00
+2018020045,8480803,Evan Bouchard,Edmonton Oilers,Boston Bruins,D,13:47,0,0,2,1,0,0,0,NA,0,0,1,0,0,0,0,0,13:36,0:11,0:00
+2018020045,8479465,Drake Caggiula,Edmonton Oilers,Boston Bruins,LW,11:26,0,0,2,4,0,0,2,NA,0,0,0,0,0,0,1,-1,10:43,0:00,0:43
+2018020045,8479344,Jesse Puljujarvi,Edmonton Oilers,Boston Bruins,RW,10:26,0,0,0,0,0,0,2,NA,0,0,1,1,0,0,1,0,10:26,0:00,0:00
+2018020045,8476472,Oscar Klefbom,Edmonton Oilers,Boston Bruins,D,22:37,0,0,3,0,0,0,2,NA,0,0,2,2,0,0,2,-2,20:14,2:23,0:00
+2018020045,8473473,Milan Lucic,Edmonton Oilers,Boston Bruins,LW,17:50,0,0,1,5,0,0,0,NA,0,0,0,2,0,0,0,-1,15:40,2:10,0:00

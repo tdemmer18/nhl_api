@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020852,8470619,Brian Boyle,Nashville Predators,C,11:42,0,0,4,3,0,0,0,55.56,5,9,0,0,0,0,0,1,5:10,4:41,1:51
-2018020852,8475218,Mattias Ekholm,Nashville Predators,D,25:46,1,0,4,1,0,0,0,NA,0,0,0,0,0,0,1,0,20:40,1:52,3:14
-2018020852,8475714,Calle Jarnkrok,Nashville Predators,C,16:19,0,0,2,1,0,0,0,100,1,1,0,0,0,0,0,-1,14:25,0:00,1:54
-2018020852,8476925,Colton Sissons,Nashville Predators,C,15:15,0,0,1,1,0,0,0,37.5,3,8,1,1,0,0,1,-1,13:20,0:00,1:55
-2018020852,8475225,Craig Smith,Nashville Predators,RW,15:50,0,0,0,3,0,0,0,NA,0,0,0,1,0,0,0,-1,14:03,1:47,0:00
-2018020852,8476887,Filip Forsberg,Nashville Predators,LW,21:08,0,1,7,3,0,0,0,NA,0,0,2,3,0,0,0,1,15:08,5:08,0:52
-2018020852,8477942,Kevin Fiala,Nashville Predators,LW,12:30,1,0,1,0,0,0,2,NA,0,0,1,0,0,0,0,1,12:30,0:00,0:00
-2018020852,8471657,Cody McLeod,Nashville Predators,LW,2:12,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,0,0,2:12,0:00,0:00
-2018020852,8474009,Nick Bonino,Nashville Predators,C,18:30,0,0,1,2,0,0,0,55.56,10,18,1,3,0,0,1,-1,13:52,2:09,2:29
-2018020852,8474600,Roman Josi,Nashville Predators,D,22:30,1,1,5,0,0,0,0,NA,0,0,1,1,0,0,1,1,15:23,4:41,2:26
-2018020852,8475793,Ryan Johansen,Nashville Predators,C,21:02,2,0,2,2,0,0,2,46.88,15,32,1,0,0,0,0,1,15:01,5:08,0:53
-2018020852,8477451,Ryan Hartman,Nashville Predators,RW,8:56,0,0,1,3,0,0,0,NA,0,0,0,1,0,0,0,1,8:56,0:00,0:00
-2018020852,8474134,Yannick Weber,Nashville Predators,D,10:33,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,0,-1,10:33,0:00,0:00
-2018020852,8474068,Kyle Turris,Nashville Predators,C,14:52,0,0,3,0,0,0,0,54.55,6,11,0,2,0,0,0,-1,13:05,1:47,0:00
-2018020852,8474056,P.K. Subban,Nashville Predators,D,22:56,0,0,6,2,0,0,2,NA,0,0,0,2,0,0,2,-1,20:47,2:09,0:00
-2018020852,8475176,Ryan Ellis,Nashville Predators,D,18:37,2,0,0,2,0,0,0,NA,0,0,0,3,0,0,1,3,16:30,0:05,2:02
-2018020852,8469465,Dan Hamhuis,Nashville Predators,D,14:49,0,0,0,0,0,0,0,NA,0,0,0,2,0,0,0,-1,11:59,0:00,2:50
-2018020852,8478042,Viktor Arvidsson,Nashville Predators,RW,21:00,0,2,6,0,0,0,0,NA,0,0,0,1,0,0,0,1,15:14,5:08,0:38
-2018020852,8476907,Mackenzie MacEachern,St. Louis Blues,LW,5:59,0,0,0,0,0,0,2,NA,0,0,0,0,0,0,0,-1,5:59,0:00,0:00
-2018020852,8475768,Jaden Schwartz,St. Louis Blues,LW,16:52,1,0,2,1,0,0,0,100,1,1,0,0,0,0,0,1,14:30,2:08,0:14
-2018020852,8474565,Alex Pietrangelo,St. Louis Blues,D,21:07,0,1,2,1,1,0,2,NA,0,0,0,1,0,0,6,-2,15:27,2:55,2:45
-2018020852,8476897,Oskar Sundqvist,St. Louis Blues,C,12:59,0,0,2,1,0,0,0,42.86,6,14,0,0,0,0,0,0,11:08,0:15,1:36
-2018020852,8477964,Ivan Barbashev,St. Louis Blues,C,10:36,0,0,1,1,0,0,0,66.67,4,6,0,0,0,0,0,-1,7:32,0:00,3:04
-2018020852,8475765,Vladimir Tarasenko,St. Louis Blues,RW,16:20,0,3,8,1,0,0,2,NA,0,0,1,0,0,0,1,0,13:27,2:53,0:00
-2018020852,8470257,Alexander Steen,St. Louis Blues,LW,15:50,1,0,0,0,0,0,0,NA,0,0,1,0,0,0,1,0,13:03,0:15,2:32
-2018020852,8478407,Vince Dunn,St. Louis Blues,D,12:23,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,2,0,10:01,2:08,0:14
-2018020852,8475158,Ryan O'Reilly,St. Louis Blues,C,21:00,2,0,2,2,0,1,0,56.41,22,39,0,1,0,0,0,1,13:33,2:53,4:34
-2018020852,8474145,Robert Bortuzzo,St. Louis Blues,D,12:52,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,6,0,8:33,0:00,4:19
-2018020852,8474034,Pat Maroon,St. Louis Blues,LW,15:59,0,0,0,2,0,0,0,NA,0,0,0,0,0,0,0,0,13:51,2:08,0:00
-2018020852,8475098,Tyler Bozak,St. Louis Blues,C,16:00,0,1,3,0,0,0,0,46.15,6,13,0,0,0,0,2,1,13:04,2:08,0:48
-2018020852,8476441,Joel Edmundson,St. Louis Blues,D,19:38,0,0,2,1,0,0,2,NA,0,0,0,1,0,0,2,-3,17:06,0:15,2:17
-2018020852,8470151,Jay Bouwmeester,St. Louis Blues,D,24:40,2,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,1,21:59,0:00,2:41
-2018020852,8476892,Colton Parayko,St. Louis Blues,D,27:15,1,0,4,3,0,0,0,NA,0,0,0,0,0,0,3,3,23:20,2:21,1:34
-2018020852,8475170,Brayden Schenn,St. Louis Blues,C,19:02,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,-1,15:55,2:53,0:14
-2018020852,8477482,Zach Sanford,St. Louis Blues,LW,15:16,0,0,2,1,0,0,0,NA,0,0,0,1,0,0,5,0,14:13,0:15,0:48
-2018020852,8480023,Robert Thomas,St. Louis Blues,C,9:00,1,0,0,0,0,1,0,0,0,3,0,1,0,0,0,-1,6:07,2:53,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020852,8470619,Brian Boyle,Nashville Predators,St. Louis Blues,C,11:42,0,0,4,3,0,0,0,55.56,5,9,0,0,0,0,0,1,5:10,4:41,1:51
+2018020852,8475218,Mattias Ekholm,Nashville Predators,St. Louis Blues,D,25:46,1,0,4,1,0,0,0,NA,0,0,0,0,0,0,1,0,20:40,1:52,3:14
+2018020852,8475714,Calle Jarnkrok,Nashville Predators,St. Louis Blues,C,16:19,0,0,2,1,0,0,0,100,1,1,0,0,0,0,0,-1,14:25,0:00,1:54
+2018020852,8476925,Colton Sissons,Nashville Predators,St. Louis Blues,C,15:15,0,0,1,1,0,0,0,37.5,3,8,1,1,0,0,1,-1,13:20,0:00,1:55
+2018020852,8475225,Craig Smith,Nashville Predators,St. Louis Blues,RW,15:50,0,0,0,3,0,0,0,NA,0,0,0,1,0,0,0,-1,14:03,1:47,0:00
+2018020852,8476887,Filip Forsberg,Nashville Predators,St. Louis Blues,LW,21:08,0,1,7,3,0,0,0,NA,0,0,2,3,0,0,0,1,15:08,5:08,0:52
+2018020852,8477942,Kevin Fiala,Nashville Predators,St. Louis Blues,LW,12:30,1,0,1,0,0,0,2,NA,0,0,1,0,0,0,0,1,12:30,0:00,0:00
+2018020852,8471657,Cody McLeod,Nashville Predators,St. Louis Blues,LW,2:12,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,0,0,2:12,0:00,0:00
+2018020852,8474009,Nick Bonino,Nashville Predators,St. Louis Blues,C,18:30,0,0,1,2,0,0,0,55.56,10,18,1,3,0,0,1,-1,13:52,2:09,2:29
+2018020852,8474600,Roman Josi,Nashville Predators,St. Louis Blues,D,22:30,1,1,5,0,0,0,0,NA,0,0,1,1,0,0,1,1,15:23,4:41,2:26
+2018020852,8475793,Ryan Johansen,Nashville Predators,St. Louis Blues,C,21:02,2,0,2,2,0,0,2,46.88,15,32,1,0,0,0,0,1,15:01,5:08,0:53
+2018020852,8477451,Ryan Hartman,Nashville Predators,St. Louis Blues,RW,8:56,0,0,1,3,0,0,0,NA,0,0,0,1,0,0,0,1,8:56,0:00,0:00
+2018020852,8474134,Yannick Weber,Nashville Predators,St. Louis Blues,D,10:33,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,0,-1,10:33,0:00,0:00
+2018020852,8474068,Kyle Turris,Nashville Predators,St. Louis Blues,C,14:52,0,0,3,0,0,0,0,54.55,6,11,0,2,0,0,0,-1,13:05,1:47,0:00
+2018020852,8474056,P.K. Subban,Nashville Predators,St. Louis Blues,D,22:56,0,0,6,2,0,0,2,NA,0,0,0,2,0,0,2,-1,20:47,2:09,0:00
+2018020852,8475176,Ryan Ellis,Nashville Predators,St. Louis Blues,D,18:37,2,0,0,2,0,0,0,NA,0,0,0,3,0,0,1,3,16:30,0:05,2:02
+2018020852,8469465,Dan Hamhuis,Nashville Predators,St. Louis Blues,D,14:49,0,0,0,0,0,0,0,NA,0,0,0,2,0,0,0,-1,11:59,0:00,2:50
+2018020852,8478042,Viktor Arvidsson,Nashville Predators,St. Louis Blues,RW,21:00,0,2,6,0,0,0,0,NA,0,0,0,1,0,0,0,1,15:14,5:08,0:38
+2018020852,8476907,Mackenzie MacEachern,St. Louis Blues,Nashville Predators,LW,5:59,0,0,0,0,0,0,2,NA,0,0,0,0,0,0,0,-1,5:59,0:00,0:00
+2018020852,8475768,Jaden Schwartz,St. Louis Blues,Nashville Predators,LW,16:52,1,0,2,1,0,0,0,100,1,1,0,0,0,0,0,1,14:30,2:08,0:14
+2018020852,8474565,Alex Pietrangelo,St. Louis Blues,Nashville Predators,D,21:07,0,1,2,1,1,0,2,NA,0,0,0,1,0,0,6,-2,15:27,2:55,2:45
+2018020852,8476897,Oskar Sundqvist,St. Louis Blues,Nashville Predators,C,12:59,0,0,2,1,0,0,0,42.86,6,14,0,0,0,0,0,0,11:08,0:15,1:36
+2018020852,8477964,Ivan Barbashev,St. Louis Blues,Nashville Predators,C,10:36,0,0,1,1,0,0,0,66.67,4,6,0,0,0,0,0,-1,7:32,0:00,3:04
+2018020852,8475765,Vladimir Tarasenko,St. Louis Blues,Nashville Predators,RW,16:20,0,3,8,1,0,0,2,NA,0,0,1,0,0,0,1,0,13:27,2:53,0:00
+2018020852,8470257,Alexander Steen,St. Louis Blues,Nashville Predators,LW,15:50,1,0,0,0,0,0,0,NA,0,0,1,0,0,0,1,0,13:03,0:15,2:32
+2018020852,8478407,Vince Dunn,St. Louis Blues,Nashville Predators,D,12:23,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,2,0,10:01,2:08,0:14
+2018020852,8475158,Ryan O'Reilly,St. Louis Blues,Nashville Predators,C,21:00,2,0,2,2,0,1,0,56.41,22,39,0,1,0,0,0,1,13:33,2:53,4:34
+2018020852,8474145,Robert Bortuzzo,St. Louis Blues,Nashville Predators,D,12:52,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,6,0,8:33,0:00,4:19
+2018020852,8474034,Pat Maroon,St. Louis Blues,Nashville Predators,LW,15:59,0,0,0,2,0,0,0,NA,0,0,0,0,0,0,0,0,13:51,2:08,0:00
+2018020852,8475098,Tyler Bozak,St. Louis Blues,Nashville Predators,C,16:00,0,1,3,0,0,0,0,46.15,6,13,0,0,0,0,2,1,13:04,2:08,0:48
+2018020852,8476441,Joel Edmundson,St. Louis Blues,Nashville Predators,D,19:38,0,0,2,1,0,0,2,NA,0,0,0,1,0,0,2,-3,17:06,0:15,2:17
+2018020852,8470151,Jay Bouwmeester,St. Louis Blues,Nashville Predators,D,24:40,2,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,1,21:59,0:00,2:41
+2018020852,8476892,Colton Parayko,St. Louis Blues,Nashville Predators,D,27:15,1,0,4,3,0,0,0,NA,0,0,0,0,0,0,3,3,23:20,2:21,1:34
+2018020852,8475170,Brayden Schenn,St. Louis Blues,Nashville Predators,C,19:02,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,-1,15:55,2:53,0:14
+2018020852,8477482,Zach Sanford,St. Louis Blues,Nashville Predators,LW,15:16,0,0,2,1,0,0,0,NA,0,0,0,1,0,0,5,0,14:13,0:15,0:48
+2018020852,8480023,Robert Thomas,St. Louis Blues,Nashville Predators,C,9:00,1,0,0,0,0,1,0,0,0,3,0,1,0,0,0,-1,6:07,2:53,0:00

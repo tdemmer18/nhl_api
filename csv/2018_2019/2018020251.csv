@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020251,8477407,Anthony Duclair,Columbus Blue Jackets,LW,5:23,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-2,4:10,1:13,0:00
-2018020251,8478906,Markus Nutivaara,Columbus Blue Jackets,D,19:14,1,0,5,1,0,0,0,NA,0,0,0,0,0,0,0,0,19:14,0:00,0:00
-2018020251,8473422,Nick Foligno,Columbus Blue Jackets,LW,22:48,0,1,3,3,0,0,0,100,3,3,0,1,0,0,2,1,19:26,2:15,1:07
-2018020251,8474715,Cam Atkinson,Columbus Blue Jackets,RW,22:07,0,1,2,0,1,0,0,NA,0,0,0,1,0,0,0,1,18:35,2:15,1:17
-2018020251,8477505,Alexander Wennberg,Columbus Blue Jackets,C,12:12,0,1,2,0,0,0,0,100,2,2,0,0,1,0,0,-1,8:54,2:15,1:03
-2018020251,8476449,Scott Harrington,Columbus Blue Jackets,D,11:10,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,1,0,11:10,0:00,0:00
-2018020251,8477416,Oliver Bjorkstrand,Columbus Blue Jackets,RW,7:23,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,-3,7:23,0:00,0:00
-2018020251,8476981,Josh Anderson,Columbus Blue Jackets,RW,21:19,0,0,3,7,0,0,2,NA,0,0,1,0,0,0,1,1,19:10,1:13,0:56
-2018020251,8476850,Ryan Murray,Columbus Blue Jackets,D,21:14,0,0,3,0,0,0,0,NA,0,0,0,1,0,0,1,1,18:30,0:00,2:44
-2018020251,8476432,Boone Jenner,Columbus Blue Jackets,C,22:39,1,0,1,3,0,0,0,61.9,13,21,1,0,0,0,2,0,19:50,1:13,1:36
-2018020251,8475233,David Savard,Columbus Blue Jackets,D,21:47,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,1,-1,20:31,0:00,1:16
-2018020251,8474062,Riley Nash,Columbus Blue Jackets,C,9:38,0,0,0,1,0,0,5,NA,0,0,0,0,0,0,0,-1,9:38,0:00,0:00
-2018020251,8477495,Seth Jones,Columbus Blue Jackets,D,28:11,3,0,3,1,0,1,0,NA,0,0,4,0,0,1,3,0,23:12,2:15,2:44
-2018020251,8478550,Artemi Panarin,Columbus Blue Jackets,LW,20:44,1,0,2,0,0,0,0,NA,0,0,0,3,0,0,1,0,19:31,1:13,0:00
-2018020251,8479400,Pierre-Luc Dubois,Columbus Blue Jackets,C,21:47,1,1,6,0,0,1,2,47.06,8,17,0,3,0,0,0,0,18:52,2:15,0:40
-2018020251,8471273,Brandon Dubinsky,Columbus Blue Jackets,C,15:09,0,0,2,5,0,0,0,68.42,13,19,1,0,0,0,1,0,13:48,0:00,1:21
-2018020251,8478541,Markus Hannikainen,Columbus Blue Jackets,LW,8:23,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,8:23,0:00,0:00
-2018020251,8478460,Zach Werenski,Columbus Blue Jackets,D,19:52,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,-2,17:23,1:13,1:16
-2018020251,8480072,Lias Andersson,New York Rangers,C,15:22,0,0,0,2,0,0,2,0,0,2,1,1,0,0,0,0,14:31,0:00,0:51
-2018020251,8476918,Jimmy Vesey,New York Rangers,LW,18:28,1,1,2,1,0,0,0,0,0,1,1,0,0,0,0,2,15:39,2:35,0:14
-2018020251,8471686,Marc Staal,New York Rangers,D,20:14,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,5,0,17:40,0:11,2:23
-2018020251,8476869,Brady Skjei,New York Rangers,D,20:32,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,1,0,20:30,0:02,0:00
-2018020251,8475727,Ryan Spooner,New York Rangers,C,12:11,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,12:11,0:00,0:00
-2018020251,8471657,Cody McLeod,New York Rangers,LW,8:10,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,0,0,8:10,0:00,0:00
-2018020251,8476459,Mika Zibanejad,New York Rangers,C,19:12,0,1,3,2,0,0,0,42.86,9,21,0,0,0,0,0,-1,16:32,1:45,0:55
-2018020251,8475855,Jesper Fast,New York Rangers,RW,16:55,0,0,2,1,0,0,0,100,1,1,0,0,0,0,1,0,14:30,0:00,2:25
-2018020251,8477950,Tony DeAngelo,New York Rangers,D,21:44,1,0,0,2,0,0,5,NA,0,0,0,0,0,0,1,1,17:57,2:42,1:05
-2018020251,8474031,Kevin Shattenkirk,New York Rangers,D,18:24,1,0,2,0,0,0,0,NA,0,0,1,1,0,0,0,3,15:42,2:42,0:00
-2018020251,8477402,Pavel Buchnevich,New York Rangers,RW,15:41,1,1,2,0,0,0,0,NA,0,0,0,0,0,0,0,0,14:23,1:18,0:00
-2018020251,8475763,Kevin Hayes,New York Rangers,C,21:10,2,0,0,1,0,0,0,62.5,10,16,0,0,0,0,0,1,17:00,2:42,1:28
-2018020251,8476368,Fredrik Claesson,New York Rangers,D,17:12,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,3,1,16:07,0:00,1:05
-2018020251,8475184,Chris Kreider,New York Rangers,LW,17:14,0,1,3,1,0,0,0,NA,0,0,0,0,0,0,0,0,15:49,1:25,0:00
-2018020251,8479353,Brett Howden,New York Rangers,C,17:28,0,0,0,2,0,0,0,20,3,15,0,0,0,0,2,1,14:59,2:15,0:14
-2018020251,8480078,Filip Chytil,New York Rangers,C,8:14,0,0,0,0,0,0,0,20,1,5,1,0,0,0,0,0,8:14,0:00,0:00
-2018020251,8476480,Vladislav Namestnikov,New York Rangers,C,17:28,1,0,1,1,0,0,0,0,0,1,0,1,0,0,0,-1,15:34,1:05,0:49
-2018020251,8480145,Neal Pionk,New York Rangers,D,25:53,0,0,2,2,0,0,0,NA,0,0,2,0,0,0,2,-2,22:12,1:18,2:23
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020251,8477407,Anthony Duclair,Columbus Blue Jackets,New York Rangers,LW,5:23,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-2,4:10,1:13,0:00
+2018020251,8478906,Markus Nutivaara,Columbus Blue Jackets,New York Rangers,D,19:14,1,0,5,1,0,0,0,NA,0,0,0,0,0,0,0,0,19:14,0:00,0:00
+2018020251,8473422,Nick Foligno,Columbus Blue Jackets,New York Rangers,LW,22:48,0,1,3,3,0,0,0,100,3,3,0,1,0,0,2,1,19:26,2:15,1:07
+2018020251,8474715,Cam Atkinson,Columbus Blue Jackets,New York Rangers,RW,22:07,0,1,2,0,1,0,0,NA,0,0,0,1,0,0,0,1,18:35,2:15,1:17
+2018020251,8477505,Alexander Wennberg,Columbus Blue Jackets,New York Rangers,C,12:12,0,1,2,0,0,0,0,100,2,2,0,0,1,0,0,-1,8:54,2:15,1:03
+2018020251,8476449,Scott Harrington,Columbus Blue Jackets,New York Rangers,D,11:10,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,1,0,11:10,0:00,0:00
+2018020251,8477416,Oliver Bjorkstrand,Columbus Blue Jackets,New York Rangers,RW,7:23,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,-3,7:23,0:00,0:00
+2018020251,8476981,Josh Anderson,Columbus Blue Jackets,New York Rangers,RW,21:19,0,0,3,7,0,0,2,NA,0,0,1,0,0,0,1,1,19:10,1:13,0:56
+2018020251,8476850,Ryan Murray,Columbus Blue Jackets,New York Rangers,D,21:14,0,0,3,0,0,0,0,NA,0,0,0,1,0,0,1,1,18:30,0:00,2:44
+2018020251,8476432,Boone Jenner,Columbus Blue Jackets,New York Rangers,C,22:39,1,0,1,3,0,0,0,61.9,13,21,1,0,0,0,2,0,19:50,1:13,1:36
+2018020251,8475233,David Savard,Columbus Blue Jackets,New York Rangers,D,21:47,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,1,-1,20:31,0:00,1:16
+2018020251,8474062,Riley Nash,Columbus Blue Jackets,New York Rangers,C,9:38,0,0,0,1,0,0,5,NA,0,0,0,0,0,0,0,-1,9:38,0:00,0:00
+2018020251,8477495,Seth Jones,Columbus Blue Jackets,New York Rangers,D,28:11,3,0,3,1,0,1,0,NA,0,0,4,0,0,1,3,0,23:12,2:15,2:44
+2018020251,8478550,Artemi Panarin,Columbus Blue Jackets,New York Rangers,LW,20:44,1,0,2,0,0,0,0,NA,0,0,0,3,0,0,1,0,19:31,1:13,0:00
+2018020251,8479400,Pierre-Luc Dubois,Columbus Blue Jackets,New York Rangers,C,21:47,1,1,6,0,0,1,2,47.06,8,17,0,3,0,0,0,0,18:52,2:15,0:40
+2018020251,8471273,Brandon Dubinsky,Columbus Blue Jackets,New York Rangers,C,15:09,0,0,2,5,0,0,0,68.42,13,19,1,0,0,0,1,0,13:48,0:00,1:21
+2018020251,8478541,Markus Hannikainen,Columbus Blue Jackets,New York Rangers,LW,8:23,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,8:23,0:00,0:00
+2018020251,8478460,Zach Werenski,Columbus Blue Jackets,New York Rangers,D,19:52,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,-2,17:23,1:13,1:16
+2018020251,8480072,Lias Andersson,New York Rangers,Columbus Blue Jackets,C,15:22,0,0,0,2,0,0,2,0,0,2,1,1,0,0,0,0,14:31,0:00,0:51
+2018020251,8476918,Jimmy Vesey,New York Rangers,Columbus Blue Jackets,LW,18:28,1,1,2,1,0,0,0,0,0,1,1,0,0,0,0,2,15:39,2:35,0:14
+2018020251,8471686,Marc Staal,New York Rangers,Columbus Blue Jackets,D,20:14,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,5,0,17:40,0:11,2:23
+2018020251,8476869,Brady Skjei,New York Rangers,Columbus Blue Jackets,D,20:32,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,1,0,20:30,0:02,0:00
+2018020251,8475727,Ryan Spooner,New York Rangers,Columbus Blue Jackets,C,12:11,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,12:11,0:00,0:00
+2018020251,8471657,Cody McLeod,New York Rangers,Columbus Blue Jackets,LW,8:10,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,0,0,8:10,0:00,0:00
+2018020251,8476459,Mika Zibanejad,New York Rangers,Columbus Blue Jackets,C,19:12,0,1,3,2,0,0,0,42.86,9,21,0,0,0,0,0,-1,16:32,1:45,0:55
+2018020251,8475855,Jesper Fast,New York Rangers,Columbus Blue Jackets,RW,16:55,0,0,2,1,0,0,0,100,1,1,0,0,0,0,1,0,14:30,0:00,2:25
+2018020251,8477950,Tony DeAngelo,New York Rangers,Columbus Blue Jackets,D,21:44,1,0,0,2,0,0,5,NA,0,0,0,0,0,0,1,1,17:57,2:42,1:05
+2018020251,8474031,Kevin Shattenkirk,New York Rangers,Columbus Blue Jackets,D,18:24,1,0,2,0,0,0,0,NA,0,0,1,1,0,0,0,3,15:42,2:42,0:00
+2018020251,8477402,Pavel Buchnevich,New York Rangers,Columbus Blue Jackets,RW,15:41,1,1,2,0,0,0,0,NA,0,0,0,0,0,0,0,0,14:23,1:18,0:00
+2018020251,8475763,Kevin Hayes,New York Rangers,Columbus Blue Jackets,C,21:10,2,0,0,1,0,0,0,62.5,10,16,0,0,0,0,0,1,17:00,2:42,1:28
+2018020251,8476368,Fredrik Claesson,New York Rangers,Columbus Blue Jackets,D,17:12,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,3,1,16:07,0:00,1:05
+2018020251,8475184,Chris Kreider,New York Rangers,Columbus Blue Jackets,LW,17:14,0,1,3,1,0,0,0,NA,0,0,0,0,0,0,0,0,15:49,1:25,0:00
+2018020251,8479353,Brett Howden,New York Rangers,Columbus Blue Jackets,C,17:28,0,0,0,2,0,0,0,20,3,15,0,0,0,0,2,1,14:59,2:15,0:14
+2018020251,8480078,Filip Chytil,New York Rangers,Columbus Blue Jackets,C,8:14,0,0,0,0,0,0,0,20,1,5,1,0,0,0,0,0,8:14,0:00,0:00
+2018020251,8476480,Vladislav Namestnikov,New York Rangers,Columbus Blue Jackets,C,17:28,1,0,1,1,0,0,0,0,0,1,0,1,0,0,0,-1,15:34,1:05,0:49
+2018020251,8480145,Neal Pionk,New York Rangers,Columbus Blue Jackets,D,25:53,0,0,2,2,0,0,0,NA,0,0,2,0,0,0,2,-2,22:12,1:18,2:23

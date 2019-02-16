@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020695,8475906,John Klingberg,Dallas Stars,D,25:39,1,0,4,1,0,0,0,0,0,0,3,0,0,1,0,24:18,1:21,0:00,NA
-2018020695,8476913,Devin Shore,Dallas Stars,C,12:53,0,0,1,2,0,0,0,0,0,0,0,0,0,2,0,11:53,0:19,0:41,NA
-2018020695,8476902,Esa Lindell,Dallas Stars,D,22:16,0,0,0,3,0,0,0,0,0,0,2,0,0,0,-1,20:12,0:00,2:04,NA
-2018020695,8473588,Erik Condra,Dallas Stars,RW,14:40,0,1,2,0,0,0,0,0,0,0,3,0,0,0,0,14:21,0:19,0:00,NA
-2018020695,8473994,Jamie Benn,Dallas Stars,LW,16:51,0,0,1,1,0,0,0,3,4,0,3,0,0,1,-1,15:47,1:02,0:02,75
-2018020695,8478449,Roope Hintz,Dallas Stars,LW,13:01,0,0,0,4,0,0,0,4,8,0,1,0,0,0,0,12:41,0:19,0:01,50
-2018020695,8471228,Alexander Radulov,Dallas Stars,RW,22:18,0,0,2,2,0,0,0,0,0,0,1,0,0,0,-1,21:14,1:02,0:02,NA
-2018020695,8477945,Julius Honka,Dallas Stars,D,10:34,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,10:33,0:00,0:01,NA
-2018020695,8477406,Mattias Janmark,Dallas Stars,C,15:59,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,15:13,0:00,0:46,NA
-2018020695,8476889,Radek Faksa,Dallas Stars,C,14:20,0,0,2,0,0,0,2,7,16,0,1,0,0,1,0,13:29,0:19,0:32,43.75
-2018020695,8471260,Blake Comeau,Dallas Stars,LW,13:07,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,11:50,0:00,1:17,NA
-2018020695,8471392,Roman Polak,Dallas Stars,D,18:54,0,0,1,4,0,0,0,0,0,1,2,0,0,2,-1,16:50,0:00,2:04,NA
-2018020695,8475794,Tyler Seguin,Dallas Stars,C,21:30,0,0,3,2,0,0,0,8,15,1,1,0,0,0,-1,20:20,1:02,0:08,53.33
-2018020695,8477501,Valeri Nichushkin,Dallas Stars,RW,9:53,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,9:15,0:00,0:38,NA
-2018020695,8475752,Tyler Pitlick,Dallas Stars,C,11:16,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,11:09,0:00,0:07,NA
-2018020695,8476166,Taylor Fedun,Dallas Stars,D,14:45,0,0,0,1,0,0,0,0,0,2,3,0,0,1,0,14:43,0:00,0:02,NA
-2018020695,8469455,Jason Spezza,Dallas Stars,C,14:56,0,0,1,0,0,0,2,6,14,0,4,0,0,1,0,13:54,1:02,0:00,42.86
-2018020695,8480036,Miro Heiskanen,Dallas Stars,D,26:31,0,0,2,0,0,0,0,0,0,2,3,0,0,1,0,26:28,0:00,0:03,NA
-2018020695,8476907,Mackenzie MacEachern,St. Louis Blues,LW,6:52,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6:52,0:00,0:00,NA
-2018020695,8475768,Jaden Schwartz,St. Louis Blues,LW,21:05,1,0,4,0,0,0,0,0,0,1,1,0,0,0,0,20:28,0:37,0:00,NA
-2018020695,8474565,Alex Pietrangelo,St. Louis Blues,D,24:06,0,0,1,2,0,0,0,0,0,0,1,0,0,3,0,21:41,2:07,0:18,NA
-2018020695,8476897,Oskar Sundqvist,St. Louis Blues,C,17:32,2,0,2,1,0,1,0,1,5,0,0,0,0,0,1,14:24,2:05,1:03,20
-2018020695,8477964,Ivan Barbashev,St. Louis Blues,C,9:49,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,9:15,0:00,0:34,0
-2018020695,8475765,Vladimir Tarasenko,St. Louis Blues,RW,19:34,0,2,3,2,1,0,0,0,0,0,1,0,0,0,0,17:44,1:50,0:00,NA
-2018020695,8478407,Vince Dunn,St. Louis Blues,D,11:16,0,0,1,1,0,0,0,0,0,0,1,0,0,1,-1,11:05,0:11,0:00,NA
-2018020695,8478104,Sammy Blais,St. Louis Blues,LW,6:54,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,6:54,0:00,0:00,NA
-2018020695,8477952,Robby Fabbri,St. Louis Blues,C,9:52,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,9:52,0:00,0:00,NA
-2018020695,8475158,Ryan O'Reilly,St. Louis Blues,C,21:40,0,0,4,0,0,0,0,11,25,1,2,0,0,0,0,19:06,1:47,0:47,44
-2018020695,8474102,David Perron,St. Louis Blues,LW,19:09,1,0,1,0,0,1,0,0,0,1,1,0,0,1,0,17:39,1:30,0:00,NA
-2018020695,8474145,Robert Bortuzzo,St. Louis Blues,D,11:19,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,10:16,0:00,1:03,NA
-2018020695,8474034,Pat Maroon,St. Louis Blues,LW,10:52,0,1,3,1,0,0,0,0,0,1,0,0,0,0,1,10:50,0:02,0:00,NA
-2018020695,8476441,Joel Edmundson,St. Louis Blues,D,21:00,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,20:54,0:06,0:00,NA
-2018020695,8470151,Jay Bouwmeester,St. Louis Blues,D,25:16,0,0,1,1,0,0,0,0,0,0,1,0,0,1,2,24:13,0:00,1:03,NA
-2018020695,8476892,Colton Parayko,St. Louis Blues,D,25:02,1,0,3,1,0,0,0,0,0,0,1,0,0,2,2,24:44,0:00,0:18,NA
-2018020695,8475170,Brayden Schenn,St. Louis Blues,C,21:06,0,0,1,2,0,0,0,17,26,0,2,0,0,2,0,20:46,0:20,0:00,65.38
-2018020695,8477482,Zach Sanford,St. Louis Blues,LW,15:36,0,0,2,2,0,0,0,0,0,1,0,0,0,1,0,15:18,0:00,0:18,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020695,8475906,John Klingberg,Dallas Stars,St. Louis Blues,D,25:39,1,0,4,1,0,0,0,0,0,0,3,0,0,1,0,24:18,1:21,0:00,NA
+2018020695,8476913,Devin Shore,Dallas Stars,St. Louis Blues,C,12:53,0,0,1,2,0,0,0,0,0,0,0,0,0,2,0,11:53,0:19,0:41,NA
+2018020695,8476902,Esa Lindell,Dallas Stars,St. Louis Blues,D,22:16,0,0,0,3,0,0,0,0,0,0,2,0,0,0,-1,20:12,0:00,2:04,NA
+2018020695,8473588,Erik Condra,Dallas Stars,St. Louis Blues,RW,14:40,0,1,2,0,0,0,0,0,0,0,3,0,0,0,0,14:21,0:19,0:00,NA
+2018020695,8473994,Jamie Benn,Dallas Stars,St. Louis Blues,LW,16:51,0,0,1,1,0,0,0,3,4,0,3,0,0,1,-1,15:47,1:02,0:02,75
+2018020695,8478449,Roope Hintz,Dallas Stars,St. Louis Blues,LW,13:01,0,0,0,4,0,0,0,4,8,0,1,0,0,0,0,12:41,0:19,0:01,50
+2018020695,8471228,Alexander Radulov,Dallas Stars,St. Louis Blues,RW,22:18,0,0,2,2,0,0,0,0,0,0,1,0,0,0,-1,21:14,1:02,0:02,NA
+2018020695,8477945,Julius Honka,Dallas Stars,St. Louis Blues,D,10:34,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,10:33,0:00,0:01,NA
+2018020695,8477406,Mattias Janmark,Dallas Stars,St. Louis Blues,C,15:59,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,15:13,0:00,0:46,NA
+2018020695,8476889,Radek Faksa,Dallas Stars,St. Louis Blues,C,14:20,0,0,2,0,0,0,2,7,16,0,1,0,0,1,0,13:29,0:19,0:32,43.75
+2018020695,8471260,Blake Comeau,Dallas Stars,St. Louis Blues,LW,13:07,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,11:50,0:00,1:17,NA
+2018020695,8471392,Roman Polak,Dallas Stars,St. Louis Blues,D,18:54,0,0,1,4,0,0,0,0,0,1,2,0,0,2,-1,16:50,0:00,2:04,NA
+2018020695,8475794,Tyler Seguin,Dallas Stars,St. Louis Blues,C,21:30,0,0,3,2,0,0,0,8,15,1,1,0,0,0,-1,20:20,1:02,0:08,53.33
+2018020695,8477501,Valeri Nichushkin,Dallas Stars,St. Louis Blues,RW,9:53,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,9:15,0:00,0:38,NA
+2018020695,8475752,Tyler Pitlick,Dallas Stars,St. Louis Blues,C,11:16,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,11:09,0:00,0:07,NA
+2018020695,8476166,Taylor Fedun,Dallas Stars,St. Louis Blues,D,14:45,0,0,0,1,0,0,0,0,0,2,3,0,0,1,0,14:43,0:00,0:02,NA
+2018020695,8469455,Jason Spezza,Dallas Stars,St. Louis Blues,C,14:56,0,0,1,0,0,0,2,6,14,0,4,0,0,1,0,13:54,1:02,0:00,42.86
+2018020695,8480036,Miro Heiskanen,Dallas Stars,St. Louis Blues,D,26:31,0,0,2,0,0,0,0,0,0,2,3,0,0,1,0,26:28,0:00,0:03,NA
+2018020695,8476907,Mackenzie MacEachern,St. Louis Blues,Dallas Stars,LW,6:52,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6:52,0:00,0:00,NA
+2018020695,8475768,Jaden Schwartz,St. Louis Blues,Dallas Stars,LW,21:05,1,0,4,0,0,0,0,0,0,1,1,0,0,0,0,20:28,0:37,0:00,NA
+2018020695,8474565,Alex Pietrangelo,St. Louis Blues,Dallas Stars,D,24:06,0,0,1,2,0,0,0,0,0,0,1,0,0,3,0,21:41,2:07,0:18,NA
+2018020695,8476897,Oskar Sundqvist,St. Louis Blues,Dallas Stars,C,17:32,2,0,2,1,0,1,0,1,5,0,0,0,0,0,1,14:24,2:05,1:03,20
+2018020695,8477964,Ivan Barbashev,St. Louis Blues,Dallas Stars,C,9:49,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,9:15,0:00,0:34,0
+2018020695,8475765,Vladimir Tarasenko,St. Louis Blues,Dallas Stars,RW,19:34,0,2,3,2,1,0,0,0,0,0,1,0,0,0,0,17:44,1:50,0:00,NA
+2018020695,8478407,Vince Dunn,St. Louis Blues,Dallas Stars,D,11:16,0,0,1,1,0,0,0,0,0,0,1,0,0,1,-1,11:05,0:11,0:00,NA
+2018020695,8478104,Sammy Blais,St. Louis Blues,Dallas Stars,LW,6:54,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,6:54,0:00,0:00,NA
+2018020695,8477952,Robby Fabbri,St. Louis Blues,Dallas Stars,C,9:52,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,9:52,0:00,0:00,NA
+2018020695,8475158,Ryan O'Reilly,St. Louis Blues,Dallas Stars,C,21:40,0,0,4,0,0,0,0,11,25,1,2,0,0,0,0,19:06,1:47,0:47,44
+2018020695,8474102,David Perron,St. Louis Blues,Dallas Stars,LW,19:09,1,0,1,0,0,1,0,0,0,1,1,0,0,1,0,17:39,1:30,0:00,NA
+2018020695,8474145,Robert Bortuzzo,St. Louis Blues,Dallas Stars,D,11:19,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,10:16,0:00,1:03,NA
+2018020695,8474034,Pat Maroon,St. Louis Blues,Dallas Stars,LW,10:52,0,1,3,1,0,0,0,0,0,1,0,0,0,0,1,10:50,0:02,0:00,NA
+2018020695,8476441,Joel Edmundson,St. Louis Blues,Dallas Stars,D,21:00,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,20:54,0:06,0:00,NA
+2018020695,8470151,Jay Bouwmeester,St. Louis Blues,Dallas Stars,D,25:16,0,0,1,1,0,0,0,0,0,0,1,0,0,1,2,24:13,0:00,1:03,NA
+2018020695,8476892,Colton Parayko,St. Louis Blues,Dallas Stars,D,25:02,1,0,3,1,0,0,0,0,0,0,1,0,0,2,2,24:44,0:00,0:18,NA
+2018020695,8475170,Brayden Schenn,St. Louis Blues,Dallas Stars,C,21:06,0,0,1,2,0,0,0,17,26,0,2,0,0,2,0,20:46,0:20,0:00,65.38
+2018020695,8477482,Zach Sanford,St. Louis Blues,Dallas Stars,LW,15:36,0,0,2,2,0,0,0,0,0,1,0,0,0,1,0,15:18,0:00,0:18,NA

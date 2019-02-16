@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020409,8473507,Jeff Petry,Montréal Canadiens,D,19:37,0,1,5,1,0,0,2,0,0,1,0,0,0,2,-1,15:43,2:15,1:39,NA
-2018020409,8474818,Jordie Benn,Montréal Canadiens,D,16:25,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,13:13,0:00,3:12,NA
-2018020409,8475808,Michael Chaput,Montréal Canadiens,C,10:50,0,0,0,1,0,0,2,4,5,0,0,0,0,2,-1,9:18,0:00,1:32,80
-2018020409,8480829,Jesperi Kotkaniemi,Montréal Canadiens,C,12:53,0,0,1,0,0,0,0,4,8,0,1,0,0,0,-1,11:02,1:51,0:00,50
-2018020409,8476967,Brett Kulak,Montréal Canadiens,D,21:54,0,0,2,1,0,0,0,0,0,0,1,0,0,2,0,20:16,0:00,1:38,NA
-2018020409,8474038,Paul Byron,Montréal Canadiens,LW,14:47,0,0,3,1,0,0,0,0,1,0,2,0,0,2,-1,12:35,0:00,2:12,0
-2018020409,8475848,Brendan Gallagher,Montréal Canadiens,RW,15:56,0,0,6,1,0,0,0,0,0,1,0,0,0,1,0,14:11,1:45,0:00,NA
-2018020409,8477503,Max Domi,Montréal Canadiens,LW,17:21,0,0,3,0,0,0,0,3,7,1,0,0,0,0,1,15:23,1:58,0:00,42.86
-2018020409,8476479,Phillip Danault,Montréal Canadiens,C,17:59,0,0,1,2,0,0,0,13,19,0,0,0,0,3,0,13:23,0:00,4:36,68.42
-2018020409,8470642,Shea Weber,Montréal Canadiens,D,25:07,0,0,3,6,0,0,2,0,0,0,2,0,0,1,0,19:38,2:09,3:20,NA
-2018020409,8475844,Kenny Agostino,Montréal Canadiens,LW,11:49,0,0,2,1,0,0,0,0,1,0,0,0,0,1,-1,9:47,2:02,0:00,0
-2018020409,8477476,Artturi Lehkonen,Montréal Canadiens,LW,15:44,0,0,2,3,0,0,0,0,0,0,0,0,0,0,-1,12:28,0:24,2:52,NA
-2018020409,8476422,Mike Reilly,Montréal Canadiens,D,15:42,0,0,5,1,0,0,2,0,0,0,0,0,0,0,0,15:14,0:00,0:28,NA
-2018020409,8475235,Nicolas Deslauriers,Montréal Canadiens,LW,9:01,0,0,0,8,0,0,0,0,0,0,0,0,0,1,-1,9:01,0:00,0:00,NA
-2018020409,8473673,David Schlemko,Montréal Canadiens,D,19:12,0,0,1,1,0,0,0,0,0,0,0,0,0,2,-1,13:50,1:51,3:31,NA
-2018020409,8477494,Jonathan Drouin,Montréal Canadiens,C,18:05,1,0,2,1,0,0,0,0,0,1,1,0,0,0,1,15:51,2:14,0:00,NA
-2018020409,8476381,Andrew Shaw,Montréal Canadiens,RW,17:36,1,0,2,4,0,0,0,8,12,0,2,0,0,0,1,14:41,2:09,0:46,66.67
-2018020409,8475193,Tomas Tatar,Montréal Canadiens,LW,14:51,0,0,1,2,0,0,0,0,0,1,0,0,0,2,0,12:58,1:53,0:00,NA
-2018020409,8466138,Joe Thornton,San Jose Sharks,C,14:44,0,0,0,0,0,0,0,4,14,0,1,0,0,0,1,12:08,2:36,0:00,28.57
-2018020409,8470613,Brent Burns,San Jose Sharks,D,23:08,1,1,3,1,1,0,0,0,0,0,2,0,0,3,1,17:05,4:37,1:26,NA
-2018020409,8480160,Radim Simek,San Jose Sharks,D,13:19,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,13:19,0:00,0:00,NA
-2018020409,8471709,Marc-Edouard Vlasic,San Jose Sharks,D,20:34,0,0,3,0,0,0,0,0,0,0,3,0,0,4,0,17:19,0:41,2:34,NA
-2018020409,8470794,Joe Pavelski,San Jose Sharks,C,20:50,1,1,4,0,0,1,0,3,10,0,1,0,0,2,1,14:53,5:01,0:56,30
-2018020409,8475834,Marcus Sorensen,San Jose Sharks,LW,14:08,0,0,2,3,0,0,0,0,1,0,0,0,0,0,1,12:43,0:00,1:25,0
-2018020409,8474027,Justin Braun,San Jose Sharks,D,21:07,0,1,1,2,0,0,0,0,0,2,1,0,0,5,0,18:15,0:18,2:34,NA
-2018020409,8475820,Joonas Donskoi,San Jose Sharks,RW,12:12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,11:13,0:59,0:00,NA
-2018020409,8476624,Barclay Goodrow,San Jose Sharks,RW,12:09,0,0,0,1,0,0,0,6,10,0,0,0,0,0,0,10:43,0:00,1:26,60
-2018020409,8474578,Erik Karlsson,San Jose Sharks,D,24:38,1,0,2,0,0,1,0,0,0,0,0,0,0,1,0,18:01,5:11,1:26,NA
-2018020409,8477922,Melker Karlsson,San Jose Sharks,C,13:12,0,0,1,2,0,0,2,0,0,0,0,0,0,1,0,12:18,0:00,0:54,NA
-2018020409,8474053,Logan Couture,San Jose Sharks,C,21:21,1,0,2,0,0,0,0,0,1,1,1,0,0,3,1,15:10,5:01,1:10,0
-2018020409,8480965,Antti Suomela,San Jose Sharks,C,11:42,0,0,4,1,0,0,0,3,6,0,1,0,0,1,-1,11:36,0:06,0:00,50
-2018020409,8475455,Brenden Dillon,San Jose Sharks,D,14:39,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,14:39,0:00,0:00,NA
-2018020409,8475169,Evander Kane,San Jose Sharks,LW,16:03,0,0,3,0,0,0,0,0,2,0,0,0,0,0,-1,13:29,1:40,0:54,0
-2018020409,8478099,Kevin Labanc,San Jose Sharks,RW,14:12,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,11:12,3:00,0:00,NA
-2018020409,8476881,Tomas Hertl,San Jose Sharks,C,18:14,0,0,1,1,0,0,0,5,9,0,2,0,0,2,1,12:41,4:18,1:15,55.56
-2018020409,8480780,Lukas Radil,San Jose Sharks,C,9:51,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,9:51,0:00,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020409,8473507,Jeff Petry,Montréal Canadiens,San Jose Sharks,D,19:37,0,1,5,1,0,0,2,0,0,1,0,0,0,2,-1,15:43,2:15,1:39,NA
+2018020409,8474818,Jordie Benn,Montréal Canadiens,San Jose Sharks,D,16:25,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,13:13,0:00,3:12,NA
+2018020409,8475808,Michael Chaput,Montréal Canadiens,San Jose Sharks,C,10:50,0,0,0,1,0,0,2,4,5,0,0,0,0,2,-1,9:18,0:00,1:32,80
+2018020409,8480829,Jesperi Kotkaniemi,Montréal Canadiens,San Jose Sharks,C,12:53,0,0,1,0,0,0,0,4,8,0,1,0,0,0,-1,11:02,1:51,0:00,50
+2018020409,8476967,Brett Kulak,Montréal Canadiens,San Jose Sharks,D,21:54,0,0,2,1,0,0,0,0,0,0,1,0,0,2,0,20:16,0:00,1:38,NA
+2018020409,8474038,Paul Byron,Montréal Canadiens,San Jose Sharks,LW,14:47,0,0,3,1,0,0,0,0,1,0,2,0,0,2,-1,12:35,0:00,2:12,0
+2018020409,8475848,Brendan Gallagher,Montréal Canadiens,San Jose Sharks,RW,15:56,0,0,6,1,0,0,0,0,0,1,0,0,0,1,0,14:11,1:45,0:00,NA
+2018020409,8477503,Max Domi,Montréal Canadiens,San Jose Sharks,LW,17:21,0,0,3,0,0,0,0,3,7,1,0,0,0,0,1,15:23,1:58,0:00,42.86
+2018020409,8476479,Phillip Danault,Montréal Canadiens,San Jose Sharks,C,17:59,0,0,1,2,0,0,0,13,19,0,0,0,0,3,0,13:23,0:00,4:36,68.42
+2018020409,8470642,Shea Weber,Montréal Canadiens,San Jose Sharks,D,25:07,0,0,3,6,0,0,2,0,0,0,2,0,0,1,0,19:38,2:09,3:20,NA
+2018020409,8475844,Kenny Agostino,Montréal Canadiens,San Jose Sharks,LW,11:49,0,0,2,1,0,0,0,0,1,0,0,0,0,1,-1,9:47,2:02,0:00,0
+2018020409,8477476,Artturi Lehkonen,Montréal Canadiens,San Jose Sharks,LW,15:44,0,0,2,3,0,0,0,0,0,0,0,0,0,0,-1,12:28,0:24,2:52,NA
+2018020409,8476422,Mike Reilly,Montréal Canadiens,San Jose Sharks,D,15:42,0,0,5,1,0,0,2,0,0,0,0,0,0,0,0,15:14,0:00,0:28,NA
+2018020409,8475235,Nicolas Deslauriers,Montréal Canadiens,San Jose Sharks,LW,9:01,0,0,0,8,0,0,0,0,0,0,0,0,0,1,-1,9:01,0:00,0:00,NA
+2018020409,8473673,David Schlemko,Montréal Canadiens,San Jose Sharks,D,19:12,0,0,1,1,0,0,0,0,0,0,0,0,0,2,-1,13:50,1:51,3:31,NA
+2018020409,8477494,Jonathan Drouin,Montréal Canadiens,San Jose Sharks,C,18:05,1,0,2,1,0,0,0,0,0,1,1,0,0,0,1,15:51,2:14,0:00,NA
+2018020409,8476381,Andrew Shaw,Montréal Canadiens,San Jose Sharks,RW,17:36,1,0,2,4,0,0,0,8,12,0,2,0,0,0,1,14:41,2:09,0:46,66.67
+2018020409,8475193,Tomas Tatar,Montréal Canadiens,San Jose Sharks,LW,14:51,0,0,1,2,0,0,0,0,0,1,0,0,0,2,0,12:58,1:53,0:00,NA
+2018020409,8466138,Joe Thornton,San Jose Sharks,Montréal Canadiens,C,14:44,0,0,0,0,0,0,0,4,14,0,1,0,0,0,1,12:08,2:36,0:00,28.57
+2018020409,8470613,Brent Burns,San Jose Sharks,Montréal Canadiens,D,23:08,1,1,3,1,1,0,0,0,0,0,2,0,0,3,1,17:05,4:37,1:26,NA
+2018020409,8480160,Radim Simek,San Jose Sharks,Montréal Canadiens,D,13:19,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,13:19,0:00,0:00,NA
+2018020409,8471709,Marc-Edouard Vlasic,San Jose Sharks,Montréal Canadiens,D,20:34,0,0,3,0,0,0,0,0,0,0,3,0,0,4,0,17:19,0:41,2:34,NA
+2018020409,8470794,Joe Pavelski,San Jose Sharks,Montréal Canadiens,C,20:50,1,1,4,0,0,1,0,3,10,0,1,0,0,2,1,14:53,5:01,0:56,30
+2018020409,8475834,Marcus Sorensen,San Jose Sharks,Montréal Canadiens,LW,14:08,0,0,2,3,0,0,0,0,1,0,0,0,0,0,1,12:43,0:00,1:25,0
+2018020409,8474027,Justin Braun,San Jose Sharks,Montréal Canadiens,D,21:07,0,1,1,2,0,0,0,0,0,2,1,0,0,5,0,18:15,0:18,2:34,NA
+2018020409,8475820,Joonas Donskoi,San Jose Sharks,Montréal Canadiens,RW,12:12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,11:13,0:59,0:00,NA
+2018020409,8476624,Barclay Goodrow,San Jose Sharks,Montréal Canadiens,RW,12:09,0,0,0,1,0,0,0,6,10,0,0,0,0,0,0,10:43,0:00,1:26,60
+2018020409,8474578,Erik Karlsson,San Jose Sharks,Montréal Canadiens,D,24:38,1,0,2,0,0,1,0,0,0,0,0,0,0,1,0,18:01,5:11,1:26,NA
+2018020409,8477922,Melker Karlsson,San Jose Sharks,Montréal Canadiens,C,13:12,0,0,1,2,0,0,2,0,0,0,0,0,0,1,0,12:18,0:00,0:54,NA
+2018020409,8474053,Logan Couture,San Jose Sharks,Montréal Canadiens,C,21:21,1,0,2,0,0,0,0,0,1,1,1,0,0,3,1,15:10,5:01,1:10,0
+2018020409,8480965,Antti Suomela,San Jose Sharks,Montréal Canadiens,C,11:42,0,0,4,1,0,0,0,3,6,0,1,0,0,1,-1,11:36,0:06,0:00,50
+2018020409,8475455,Brenden Dillon,San Jose Sharks,Montréal Canadiens,D,14:39,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,14:39,0:00,0:00,NA
+2018020409,8475169,Evander Kane,San Jose Sharks,Montréal Canadiens,LW,16:03,0,0,3,0,0,0,0,0,2,0,0,0,0,0,-1,13:29,1:40,0:54,0
+2018020409,8478099,Kevin Labanc,San Jose Sharks,Montréal Canadiens,RW,14:12,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,11:12,3:00,0:00,NA
+2018020409,8476881,Tomas Hertl,San Jose Sharks,Montréal Canadiens,C,18:14,0,0,1,1,0,0,0,5,9,0,2,0,0,2,1,12:41,4:18,1:15,55.56
+2018020409,8480780,Lukas Radil,San Jose Sharks,Montréal Canadiens,C,9:51,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,9:51,0:00,0:00,NA

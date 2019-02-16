@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020160,8470318,Jonathan Ericsson,Detroit Red Wings,D,19:02,0,1,2,1,0,0,0,0,0,0,3,0,0,1,1,18:23,0:00,0:39,NA
-2018020160,8471716,Justin Abdelkader,Detroit Red Wings,LW,13:41,0,1,2,2,0,0,0,0,0,0,0,0,0,0,1,12:56,0:00,0:45,NA
-2018020160,8474679,Gustav Nyquist,Detroit Red Wings,RW,16:19,1,0,2,1,0,0,0,0,0,1,0,0,0,0,2,14:51,1:28,0:00,NA
-2018020160,8477946,Dylan Larkin,Detroit Red Wings,C,20:19,2,0,3,0,0,0,0,9,12,0,0,0,0,0,1,18:51,1:28,0:00,75
-2018020160,8470110,Trevor Daley,Detroit Red Wings,D,18:59,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,18:10,0:00,0:49,NA
-2018020160,8471794,Darren Helm,Detroit Red Wings,LW,13:53,0,0,1,2,0,0,0,0,1,0,0,0,0,0,-2,13:51,0:00,0:02,0
-2018020160,8470144,Frans Nielsen,Detroit Red Wings,C,15:31,0,0,1,2,0,0,2,4,13,0,0,0,0,1,-1,12:17,3:14,0:00,30.77
-2018020160,8475324,Nick Jensen,Detroit Red Wings,D,13:26,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,13:06,0:12,0:08,NA
-2018020160,8470598,Thomas Vanek,Detroit Red Wings,LW,15:23,1,0,2,1,0,0,0,0,0,0,2,0,0,0,1,12:09,3:14,0:00,NA
-2018020160,8476822,Luke Glendening,Detroit Red Wings,C,14:39,1,0,0,3,0,0,0,8,12,2,0,0,0,3,1,14:05,0:00,0:34,66.67
-2018020160,8477455,Jacob de la Rose,Detroit Red Wings,LW,13:06,0,0,0,2,0,0,0,4,6,0,0,0,0,0,0,13:04,0:00,0:02,66.67
-2018020160,8476960,Andreas Athanasiou,Detroit Red Wings,C,12:21,0,0,1,0,0,0,0,1,3,0,0,0,0,0,0,9:03,3:14,0:04,33.33
-2018020160,8477479,Tyler Bertuzzi,Detroit Red Wings,LW,15:50,0,1,2,6,0,0,0,0,0,0,1,0,0,1,2,14:07,1:28,0:15,NA
-2018020160,8477511,Anthony Mantha,Detroit Red Wings,RW,16:56,0,1,2,0,0,0,0,0,0,1,0,0,0,1,1,15:28,1:28,0:00,NA
-2018020160,8471242,Mike Green,Detroit Red Wings,D,24:02,1,0,3,3,0,0,0,0,0,0,3,0,0,0,1,22:34,1:28,0:00,NA
-2018020160,8479992,Michael Rasmussen,Detroit Red Wings,C,14:32,0,0,0,1,0,0,0,1,3,1,2,0,0,0,0,11:30,3:02,0:00,33.33
-2018020160,8479395,Dennis Cholowski,Detroit Red Wings,D,19:31,0,0,1,0,0,0,0,0,0,0,2,0,0,0,1,16:25,3:02,0:04,NA
-2018020160,8468509,Niklas Kronwall,Detroit Red Wings,D,20:30,1,0,0,2,0,0,0,0,0,0,1,0,0,1,0,20:16,0:12,0:02,NA
-2018020160,8475906,John Klingberg,Dallas Stars,D,23:58,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,20:06,0:43,3:09,NA
-2018020160,8476913,Devin Shore,Dallas Stars,C,12:41,0,0,1,1,0,0,0,2,2,0,0,0,0,0,0,10:52,0:08,1:41,100
-2018020160,8476902,Esa Lindell,Dallas Stars,D,22:38,1,0,2,2,0,0,0,0,0,1,1,0,0,1,-1,19:21,0:08,3:09,NA
-2018020160,8473994,Jamie Benn,Dallas Stars,LW,18:04,0,0,4,1,0,0,2,1,3,0,2,0,0,0,0,16:12,0:43,1:09,33.33
-2018020160,8476941,Connor Carrick,Dallas Stars,D,20:55,0,0,2,0,0,0,0,0,0,0,0,0,0,3,-3,19:55,0:00,1:00,NA
-2018020160,8475413,Justin Dowling,Dallas Stars,C,14:40,0,0,1,2,0,0,0,1,3,0,1,0,0,1,-1,14:35,0:05,0:00,33.33
-2018020160,8477945,Julius Honka,Dallas Stars,D,14:34,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,14:26,0:08,0:00,NA
-2018020160,8477406,Mattias Janmark,Dallas Stars,C,15:32,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,13:31,0:08,1:53,NA
-2018020160,8476889,Radek Faksa,Dallas Stars,C,15:38,0,1,2,1,0,0,0,3,11,0,0,0,0,1,1,14:40,0:00,0:58,27.27
-2018020160,8476966,Gemel Smith,Dallas Stars,C,11:23,0,1,3,2,0,0,0,0,1,0,0,0,0,0,1,11:23,0:00,0:00,0
-2018020160,8471260,Blake Comeau,Dallas Stars,LW,13:30,0,0,0,1,0,0,0,0,0,1,1,0,0,0,-3,12:15,0:00,1:15,NA
-2018020160,8471392,Roman Polak,Dallas Stars,D,14:30,0,0,2,4,0,0,2,0,0,1,0,0,0,1,0,13:57,0:00,0:33,NA
-2018020160,8475794,Tyler Seguin,Dallas Stars,C,19:55,1,0,3,0,0,0,0,4,7,0,0,0,0,0,0,17:26,0:43,1:46,57.14
-2018020160,8477501,Valeri Nichushkin,Dallas Stars,RW,13:33,0,0,1,1,0,0,0,0,0,0,1,0,0,1,-1,13:33,0:00,0:00,NA
-2018020160,8475752,Tyler Pitlick,Dallas Stars,C,13:50,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,13:07,0:43,0:00,0
-2018020160,8477450,Jason Dickinson,Dallas Stars,C,12:16,0,0,0,2,0,0,0,3,10,0,1,0,0,0,-2,11:34,0:00,0:42,30
-2018020160,8469455,Jason Spezza,Dallas Stars,C,15:00,0,0,1,0,0,0,0,9,12,0,0,0,0,0,0,14:17,0:43,0:00,75
-2018020160,8480036,Miro Heiskanen,Dallas Stars,D,22:35,0,0,3,2,0,0,0,0,0,0,1,0,0,0,-1,21:02,0:00,1:33,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020160,8470318,Jonathan Ericsson,Detroit Red Wings,Dallas Stars,D,19:02,0,1,2,1,0,0,0,0,0,0,3,0,0,1,1,18:23,0:00,0:39,NA
+2018020160,8471716,Justin Abdelkader,Detroit Red Wings,Dallas Stars,LW,13:41,0,1,2,2,0,0,0,0,0,0,0,0,0,0,1,12:56,0:00,0:45,NA
+2018020160,8474679,Gustav Nyquist,Detroit Red Wings,Dallas Stars,RW,16:19,1,0,2,1,0,0,0,0,0,1,0,0,0,0,2,14:51,1:28,0:00,NA
+2018020160,8477946,Dylan Larkin,Detroit Red Wings,Dallas Stars,C,20:19,2,0,3,0,0,0,0,9,12,0,0,0,0,0,1,18:51,1:28,0:00,75
+2018020160,8470110,Trevor Daley,Detroit Red Wings,Dallas Stars,D,18:59,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,18:10,0:00,0:49,NA
+2018020160,8471794,Darren Helm,Detroit Red Wings,Dallas Stars,LW,13:53,0,0,1,2,0,0,0,0,1,0,0,0,0,0,-2,13:51,0:00,0:02,0
+2018020160,8470144,Frans Nielsen,Detroit Red Wings,Dallas Stars,C,15:31,0,0,1,2,0,0,2,4,13,0,0,0,0,1,-1,12:17,3:14,0:00,30.77
+2018020160,8475324,Nick Jensen,Detroit Red Wings,Dallas Stars,D,13:26,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,13:06,0:12,0:08,NA
+2018020160,8470598,Thomas Vanek,Detroit Red Wings,Dallas Stars,LW,15:23,1,0,2,1,0,0,0,0,0,0,2,0,0,0,1,12:09,3:14,0:00,NA
+2018020160,8476822,Luke Glendening,Detroit Red Wings,Dallas Stars,C,14:39,1,0,0,3,0,0,0,8,12,2,0,0,0,3,1,14:05,0:00,0:34,66.67
+2018020160,8477455,Jacob de la Rose,Detroit Red Wings,Dallas Stars,LW,13:06,0,0,0,2,0,0,0,4,6,0,0,0,0,0,0,13:04,0:00,0:02,66.67
+2018020160,8476960,Andreas Athanasiou,Detroit Red Wings,Dallas Stars,C,12:21,0,0,1,0,0,0,0,1,3,0,0,0,0,0,0,9:03,3:14,0:04,33.33
+2018020160,8477479,Tyler Bertuzzi,Detroit Red Wings,Dallas Stars,LW,15:50,0,1,2,6,0,0,0,0,0,0,1,0,0,1,2,14:07,1:28,0:15,NA
+2018020160,8477511,Anthony Mantha,Detroit Red Wings,Dallas Stars,RW,16:56,0,1,2,0,0,0,0,0,0,1,0,0,0,1,1,15:28,1:28,0:00,NA
+2018020160,8471242,Mike Green,Detroit Red Wings,Dallas Stars,D,24:02,1,0,3,3,0,0,0,0,0,0,3,0,0,0,1,22:34,1:28,0:00,NA
+2018020160,8479992,Michael Rasmussen,Detroit Red Wings,Dallas Stars,C,14:32,0,0,0,1,0,0,0,1,3,1,2,0,0,0,0,11:30,3:02,0:00,33.33
+2018020160,8479395,Dennis Cholowski,Detroit Red Wings,Dallas Stars,D,19:31,0,0,1,0,0,0,0,0,0,0,2,0,0,0,1,16:25,3:02,0:04,NA
+2018020160,8468509,Niklas Kronwall,Detroit Red Wings,Dallas Stars,D,20:30,1,0,0,2,0,0,0,0,0,0,1,0,0,1,0,20:16,0:12,0:02,NA
+2018020160,8475906,John Klingberg,Dallas Stars,Detroit Red Wings,D,23:58,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,20:06,0:43,3:09,NA
+2018020160,8476913,Devin Shore,Dallas Stars,Detroit Red Wings,C,12:41,0,0,1,1,0,0,0,2,2,0,0,0,0,0,0,10:52,0:08,1:41,100
+2018020160,8476902,Esa Lindell,Dallas Stars,Detroit Red Wings,D,22:38,1,0,2,2,0,0,0,0,0,1,1,0,0,1,-1,19:21,0:08,3:09,NA
+2018020160,8473994,Jamie Benn,Dallas Stars,Detroit Red Wings,LW,18:04,0,0,4,1,0,0,2,1,3,0,2,0,0,0,0,16:12,0:43,1:09,33.33
+2018020160,8476941,Connor Carrick,Dallas Stars,Detroit Red Wings,D,20:55,0,0,2,0,0,0,0,0,0,0,0,0,0,3,-3,19:55,0:00,1:00,NA
+2018020160,8475413,Justin Dowling,Dallas Stars,Detroit Red Wings,C,14:40,0,0,1,2,0,0,0,1,3,0,1,0,0,1,-1,14:35,0:05,0:00,33.33
+2018020160,8477945,Julius Honka,Dallas Stars,Detroit Red Wings,D,14:34,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,14:26,0:08,0:00,NA
+2018020160,8477406,Mattias Janmark,Dallas Stars,Detroit Red Wings,C,15:32,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,13:31,0:08,1:53,NA
+2018020160,8476889,Radek Faksa,Dallas Stars,Detroit Red Wings,C,15:38,0,1,2,1,0,0,0,3,11,0,0,0,0,1,1,14:40,0:00,0:58,27.27
+2018020160,8476966,Gemel Smith,Dallas Stars,Detroit Red Wings,C,11:23,0,1,3,2,0,0,0,0,1,0,0,0,0,0,1,11:23,0:00,0:00,0
+2018020160,8471260,Blake Comeau,Dallas Stars,Detroit Red Wings,LW,13:30,0,0,0,1,0,0,0,0,0,1,1,0,0,0,-3,12:15,0:00,1:15,NA
+2018020160,8471392,Roman Polak,Dallas Stars,Detroit Red Wings,D,14:30,0,0,2,4,0,0,2,0,0,1,0,0,0,1,0,13:57,0:00,0:33,NA
+2018020160,8475794,Tyler Seguin,Dallas Stars,Detroit Red Wings,C,19:55,1,0,3,0,0,0,0,4,7,0,0,0,0,0,0,17:26,0:43,1:46,57.14
+2018020160,8477501,Valeri Nichushkin,Dallas Stars,Detroit Red Wings,RW,13:33,0,0,1,1,0,0,0,0,0,0,1,0,0,1,-1,13:33,0:00,0:00,NA
+2018020160,8475752,Tyler Pitlick,Dallas Stars,Detroit Red Wings,C,13:50,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,13:07,0:43,0:00,0
+2018020160,8477450,Jason Dickinson,Dallas Stars,Detroit Red Wings,C,12:16,0,0,0,2,0,0,0,3,10,0,1,0,0,0,-2,11:34,0:00,0:42,30
+2018020160,8469455,Jason Spezza,Dallas Stars,Detroit Red Wings,C,15:00,0,0,1,0,0,0,0,9,12,0,0,0,0,0,0,14:17,0:43,0:00,75
+2018020160,8480036,Miro Heiskanen,Dallas Stars,Detroit Red Wings,D,22:35,0,0,3,2,0,0,0,0,0,0,1,0,0,0,-1,21:02,0:00,1:33,NA

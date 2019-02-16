@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020788,8475906,John Klingberg,Dallas Stars,D,24:27,0,0,2,0,0,0,0,0,0,0,1,0,0,1,2,23:27,1:00,0:00,NA
-2018020788,8476439,Brett Ritchie,Dallas Stars,RW,9:09,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,8:09,1:00,0:00,NA
-2018020788,8476902,Esa Lindell,Dallas Stars,D,23:53,1,0,0,1,0,0,0,0,0,0,0,0,0,1,2,21:43,0:00,2:10,NA
-2018020788,8473994,Jamie Benn,Dallas Stars,LW,17:50,0,0,2,2,0,0,0,1,5,0,3,0,0,0,0,16:19,1:00,0:31,20
-2018020788,8478449,Roope Hintz,Dallas Stars,LW,13:17,0,0,2,2,0,0,0,2,3,0,0,0,0,1,0,11:07,1:00,1:10,66.67
-2018020788,8471228,Alexander Radulov,Dallas Stars,RW,18:02,0,0,2,1,0,0,0,0,0,1,2,0,0,0,2,17:02,1:00,0:00,NA
-2018020788,8477406,Mattias Janmark,Dallas Stars,C,18:23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,16:46,0:00,1:37,NA
-2018020788,8476889,Radek Faksa,Dallas Stars,C,15:58,0,0,2,0,0,0,0,9,17,2,0,0,0,1,0,13:49,1:00,1:09,52.94
-2018020788,8471699,Andrew Cogliano,Dallas Stars,C,12:15,1,1,2,1,0,0,4,0,0,1,1,0,0,0,2,12:15,0:00,0:00,NA
-2018020788,8471260,Blake Comeau,Dallas Stars,LW,16:45,0,0,2,1,0,0,0,0,1,0,2,0,0,0,0,15:27,0:00,1:18,0
-2018020788,8471392,Roman Polak,Dallas Stars,D,20:09,1,0,1,3,0,0,0,0,0,0,0,0,0,4,1,17:59,0:00,2:10,NA
-2018020788,8475794,Tyler Seguin,Dallas Stars,C,19:02,0,2,5,0,0,0,0,13,25,1,0,0,0,0,2,17:10,1:00,0:52,52
-2018020788,8477501,Valeri Nichushkin,Dallas Stars,RW,14:04,0,0,0,1,0,0,0,0,0,0,4,0,0,0,1,13:29,0:00,0:35,NA
-2018020788,8476467,Jamie Oleksiak,Dallas Stars,D,13:03,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,13:03,0:00,0:00,NA
-2018020788,8478495,Denis Gurianov,Dallas Stars,RW,10:59,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,9:59,1:00,0:00,NA
-2018020788,8476166,Taylor Fedun,Dallas Stars,D,14:17,0,0,2,0,0,0,0,0,0,0,1,0,0,2,0,12:51,0:00,1:26,NA
-2018020788,8469455,Jason Spezza,Dallas Stars,C,12:47,0,0,2,0,0,0,0,5,7,0,1,0,0,0,1,11:47,1:00,0:00,71.43
-2018020788,8480036,Miro Heiskanen,Dallas Stars,D,22:04,1,0,5,1,0,0,0,0,0,0,1,0,0,1,1,19:38,1:00,1:26,NA
-2018020788,8468611,Matt Hendricks,Minnesota Wild,C,7:14,0,0,1,3,0,0,0,1,2,0,0,0,0,0,-1,6:57,0:00,0:17,50
-2018020788,8474716,Jared Spurgeon,Minnesota Wild,D,25:01,0,0,2,1,0,0,0,0,0,0,0,0,0,6,-3,22:38,1:40,0:43,NA
-2018020788,8476857,Pontus Aberg,Minnesota Wild,LW,6:49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6:49,0:00,0:00,NA
-2018020788,8470595,Eric Staal,Minnesota Wild,C,18:24,1,0,0,2,0,1,2,9,16,1,0,0,0,0,-1,16:38,1:46,0:00,56.25
-2018020788,8470600,Ryan Suter,Minnesota Wild,D,27:16,0,0,4,2,0,0,0,0,0,0,1,0,0,0,-3,24:37,1:56,0:43,NA
-2018020788,8470611,Eric Fehr,Minnesota Wild,C,10:00,0,0,0,0,0,0,0,2,4,0,0,0,0,0,-1,9:17,0:00,0:43,50
-2018020788,8475798,Mikael Granlund,Minnesota Wild,RW,19:48,1,0,3,0,0,1,0,1,2,1,3,0,0,0,-2,17:08,1:40,1:00,50
-2018020788,8475722,Jason Zucker,Minnesota Wild,LW,19:05,0,0,2,2,0,0,0,0,0,0,2,0,0,0,-1,17:15,1:50,0:00,NA
-2018020788,8474688,Greg Pateryn,Minnesota Wild,D,21:04,0,0,1,3,0,0,0,0,0,0,1,0,0,2,0,19:47,0:00,1:17,NA
-2018020788,8476437,Victor Rask,Minnesota Wild,C,14:55,0,0,2,0,0,0,0,2,9,0,1,0,0,0,0,13:15,1:40,0:00,22.22
-2018020788,8475745,Charlie Coyle,Minnesota Wild,C,18:52,0,0,0,0,0,0,0,2,5,0,1,0,0,1,-1,16:56,1:56,0:00,40
-2018020788,8470610,Zach Parise,Minnesota Wild,LW,16:42,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-1,14:45,1:40,0:17,NA
-2018020788,8476779,Brad Hunt,Minnesota Wild,D,13:23,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,11:27,1:56,0:00,NA
-2018020788,8478413,Jordan Greenway,Minnesota Wild,LW,16:04,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,16:04,0:00,0:00,0
-2018020788,8476372,Nick Seeler,Minnesota Wild,D,9:57,0,0,1,1,0,0,0,0,0,0,0,0,0,5,0,9:57,0:00,0:00,NA
-2018020788,8475220,Marcus Foligno,Minnesota Wild,LW,12:41,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,11:58,0:00,0:43,NA
-2018020788,8476463,Jonas Brodin,Minnesota Wild,D,21:39,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,20:22,0:00,1:17,NA
-2018020788,8469459,Mikko Koivu,Minnesota Wild,C,19:37,0,0,1,0,0,0,0,11,19,1,1,0,0,1,-2,16:41,1:56,1:00,57.89
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020788,8475906,John Klingberg,Dallas Stars,Minnesota Wild,D,24:27,0,0,2,0,0,0,0,0,0,0,1,0,0,1,2,23:27,1:00,0:00,NA
+2018020788,8476439,Brett Ritchie,Dallas Stars,Minnesota Wild,RW,9:09,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,8:09,1:00,0:00,NA
+2018020788,8476902,Esa Lindell,Dallas Stars,Minnesota Wild,D,23:53,1,0,0,1,0,0,0,0,0,0,0,0,0,1,2,21:43,0:00,2:10,NA
+2018020788,8473994,Jamie Benn,Dallas Stars,Minnesota Wild,LW,17:50,0,0,2,2,0,0,0,1,5,0,3,0,0,0,0,16:19,1:00,0:31,20
+2018020788,8478449,Roope Hintz,Dallas Stars,Minnesota Wild,LW,13:17,0,0,2,2,0,0,0,2,3,0,0,0,0,1,0,11:07,1:00,1:10,66.67
+2018020788,8471228,Alexander Radulov,Dallas Stars,Minnesota Wild,RW,18:02,0,0,2,1,0,0,0,0,0,1,2,0,0,0,2,17:02,1:00,0:00,NA
+2018020788,8477406,Mattias Janmark,Dallas Stars,Minnesota Wild,C,18:23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,16:46,0:00,1:37,NA
+2018020788,8476889,Radek Faksa,Dallas Stars,Minnesota Wild,C,15:58,0,0,2,0,0,0,0,9,17,2,0,0,0,1,0,13:49,1:00,1:09,52.94
+2018020788,8471699,Andrew Cogliano,Dallas Stars,Minnesota Wild,C,12:15,1,1,2,1,0,0,4,0,0,1,1,0,0,0,2,12:15,0:00,0:00,NA
+2018020788,8471260,Blake Comeau,Dallas Stars,Minnesota Wild,LW,16:45,0,0,2,1,0,0,0,0,1,0,2,0,0,0,0,15:27,0:00,1:18,0
+2018020788,8471392,Roman Polak,Dallas Stars,Minnesota Wild,D,20:09,1,0,1,3,0,0,0,0,0,0,0,0,0,4,1,17:59,0:00,2:10,NA
+2018020788,8475794,Tyler Seguin,Dallas Stars,Minnesota Wild,C,19:02,0,2,5,0,0,0,0,13,25,1,0,0,0,0,2,17:10,1:00,0:52,52
+2018020788,8477501,Valeri Nichushkin,Dallas Stars,Minnesota Wild,RW,14:04,0,0,0,1,0,0,0,0,0,0,4,0,0,0,1,13:29,0:00,0:35,NA
+2018020788,8476467,Jamie Oleksiak,Dallas Stars,Minnesota Wild,D,13:03,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,13:03,0:00,0:00,NA
+2018020788,8478495,Denis Gurianov,Dallas Stars,Minnesota Wild,RW,10:59,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,9:59,1:00,0:00,NA
+2018020788,8476166,Taylor Fedun,Dallas Stars,Minnesota Wild,D,14:17,0,0,2,0,0,0,0,0,0,0,1,0,0,2,0,12:51,0:00,1:26,NA
+2018020788,8469455,Jason Spezza,Dallas Stars,Minnesota Wild,C,12:47,0,0,2,0,0,0,0,5,7,0,1,0,0,0,1,11:47,1:00,0:00,71.43
+2018020788,8480036,Miro Heiskanen,Dallas Stars,Minnesota Wild,D,22:04,1,0,5,1,0,0,0,0,0,0,1,0,0,1,1,19:38,1:00,1:26,NA
+2018020788,8468611,Matt Hendricks,Minnesota Wild,Dallas Stars,C,7:14,0,0,1,3,0,0,0,1,2,0,0,0,0,0,-1,6:57,0:00,0:17,50
+2018020788,8474716,Jared Spurgeon,Minnesota Wild,Dallas Stars,D,25:01,0,0,2,1,0,0,0,0,0,0,0,0,0,6,-3,22:38,1:40,0:43,NA
+2018020788,8476857,Pontus Aberg,Minnesota Wild,Dallas Stars,LW,6:49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6:49,0:00,0:00,NA
+2018020788,8470595,Eric Staal,Minnesota Wild,Dallas Stars,C,18:24,1,0,0,2,0,1,2,9,16,1,0,0,0,0,-1,16:38,1:46,0:00,56.25
+2018020788,8470600,Ryan Suter,Minnesota Wild,Dallas Stars,D,27:16,0,0,4,2,0,0,0,0,0,0,1,0,0,0,-3,24:37,1:56,0:43,NA
+2018020788,8470611,Eric Fehr,Minnesota Wild,Dallas Stars,C,10:00,0,0,0,0,0,0,0,2,4,0,0,0,0,0,-1,9:17,0:00,0:43,50
+2018020788,8475798,Mikael Granlund,Minnesota Wild,Dallas Stars,RW,19:48,1,0,3,0,0,1,0,1,2,1,3,0,0,0,-2,17:08,1:40,1:00,50
+2018020788,8475722,Jason Zucker,Minnesota Wild,Dallas Stars,LW,19:05,0,0,2,2,0,0,0,0,0,0,2,0,0,0,-1,17:15,1:50,0:00,NA
+2018020788,8474688,Greg Pateryn,Minnesota Wild,Dallas Stars,D,21:04,0,0,1,3,0,0,0,0,0,0,1,0,0,2,0,19:47,0:00,1:17,NA
+2018020788,8476437,Victor Rask,Minnesota Wild,Dallas Stars,C,14:55,0,0,2,0,0,0,0,2,9,0,1,0,0,0,0,13:15,1:40,0:00,22.22
+2018020788,8475745,Charlie Coyle,Minnesota Wild,Dallas Stars,C,18:52,0,0,0,0,0,0,0,2,5,0,1,0,0,1,-1,16:56,1:56,0:00,40
+2018020788,8470610,Zach Parise,Minnesota Wild,Dallas Stars,LW,16:42,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-1,14:45,1:40,0:17,NA
+2018020788,8476779,Brad Hunt,Minnesota Wild,Dallas Stars,D,13:23,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,11:27,1:56,0:00,NA
+2018020788,8478413,Jordan Greenway,Minnesota Wild,Dallas Stars,LW,16:04,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,16:04,0:00,0:00,0
+2018020788,8476372,Nick Seeler,Minnesota Wild,Dallas Stars,D,9:57,0,0,1,1,0,0,0,0,0,0,0,0,0,5,0,9:57,0:00,0:00,NA
+2018020788,8475220,Marcus Foligno,Minnesota Wild,Dallas Stars,LW,12:41,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,11:58,0:00,0:43,NA
+2018020788,8476463,Jonas Brodin,Minnesota Wild,Dallas Stars,D,21:39,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,20:22,0:00,1:17,NA
+2018020788,8469459,Mikko Koivu,Minnesota Wild,Dallas Stars,C,19:37,0,0,1,0,0,0,0,11,19,1,1,0,0,1,-2,16:41,1:56,1:00,57.89

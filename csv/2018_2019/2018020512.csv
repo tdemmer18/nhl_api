@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020512,8471724,Kris Letang,Pittsburgh Penguins,D,26:04,1,0,2,0,0,1,0,0,0,0,5,0,0,2,-1,19:39,4:48,1:37,NA
-2018020512,8477969,Marcus Pettersson,Pittsburgh Penguins,D,18:07,0,0,3,0,0,0,0,0,0,0,1,0,0,0,-1,16:21,1:46,0:00,NA
-2018020512,8475208,Brian Dumoulin,Pittsburgh Penguins,D,18:05,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,16:24,0:04,1:37,NA
-2018020512,8473544,Derick Brassard,Pittsburgh Penguins,C,13:56,0,0,2,3,0,0,0,8,12,0,1,0,0,0,0,11:49,2:07,0:00,66.67
-2018020512,8471675,Sidney Crosby,Pittsburgh Penguins,C,21:04,1,0,0,1,0,0,2,7,13,0,1,0,0,0,-1,16:06,4:29,0:29,53.85
-2018020512,8477404,Jake Guentzel,Pittsburgh Penguins,LW,18:02,0,0,2,2,0,0,0,0,0,0,0,0,0,0,-1,13:08,4:25,0:29,NA
-2018020512,8473548,Phil Kessel,Pittsburgh Penguins,RW,21:07,1,0,2,0,0,1,0,0,0,3,1,0,0,0,-1,16:48,4:19,0:00,NA
-2018020512,8475810,Bryan Rust,Pittsburgh Penguins,RW,17:38,0,1,5,0,0,0,0,0,0,1,0,0,0,1,0,13:30,2:07,2:01,NA
-2018020512,8479944,Zach Aston-Reese,Pittsburgh Penguins,C,15:24,0,0,4,5,0,0,2,0,0,0,1,0,0,3,0,14:49,0:00,0:35,NA
-2018020512,8471215,Evgeni Malkin,Pittsburgh Penguins,C,21:08,0,1,2,1,1,0,0,4,16,0,1,0,0,0,-1,16:45,4:23,0:00,25
-2018020512,8471677,Jack Johnson,Pittsburgh Penguins,D,18:31,0,0,0,3,0,0,0,0,0,0,0,0,0,1,-1,16:14,0:00,2:17,NA
-2018020512,8476871,Tanner Pearson,Pittsburgh Penguins,LW,11:53,0,0,3,2,0,0,0,0,0,0,0,0,0,0,-1,9:46,2:07,0:00,NA
-2018020512,8475772,Riley Sheahan,Pittsburgh Penguins,C,12:51,0,0,1,2,0,0,0,1,2,0,0,0,0,1,-1,10:48,0:02,2:01,50
-2018020512,8474683,Derek Grant,Pittsburgh Penguins,C,10:15,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,9:24,0:02,0:49,0
-2018020512,8476874,Olli Maatta,Pittsburgh Penguins,D,18:34,0,0,0,3,0,0,0,0,0,0,0,0,0,1,-1,14:06,2:11,2:17,NA
-2018020512,8476467,Jamie Oleksiak,Pittsburgh Penguins,D,15:29,0,0,0,4,0,0,0,0,0,0,1,0,0,2,0,15:29,0:00,0:00,NA
-2018020512,8475253,Garrett Wilson,Pittsburgh Penguins,LW,8:31,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,8:29,0:02,0:00,NA
-2018020512,8464989,Matt Cullen,Pittsburgh Penguins,C,10:14,0,0,2,0,0,0,0,1,6,0,0,0,0,0,-1,8:48,0:02,1:24,16.67
-2018020512,8470616,Ryan Kesler,Anaheim Ducks,C,18:07,0,0,4,2,0,0,0,13,17,1,0,0,0,1,0,12:45,1:37,3:45,76.47
-2018020512,8476857,Pontus Aberg,Anaheim Ducks,LW,17:43,1,0,2,1,0,0,0,0,1,1,2,0,0,0,1,16:04,1:37,0:02,0
-2018020512,8470612,Ryan Getzlaf,Anaheim Ducks,C,17:54,1,1,4,0,0,0,0,5,11,1,0,0,0,2,1,14:02,1:55,1:57,45.45
-2018020512,8477986,Brandon Montour,Anaheim Ducks,D,23:35,0,0,3,2,0,0,0,0,0,0,0,0,0,0,1,17:58,1:37,4:00,NA
-2018020512,8476854,Hampus Lindholm,Anaheim Ducks,D,24:07,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,17:23,2:17,4:27,NA
-2018020512,8471699,Andrew Cogliano,Anaheim Ducks,LW,11:57,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,10:25,0:00,1:32,NA
-2018020512,8477009,Jake Dotchin,Anaheim Ducks,D,14:41,0,0,0,5,0,0,0,0,0,1,0,0,0,1,0,12:49,0:00,1:52,NA
-2018020512,8476207,Brian Gibbons,Anaheim Ducks,C,9:25,0,0,2,1,0,0,0,0,0,0,0,0,0,1,1,9:25,0:00,0:00,NA
-2018020512,8478466,Daniel Sprong,Anaheim Ducks,RW,15:12,1,0,4,3,0,1,0,0,1,0,0,0,0,0,0,13:13,1:59,0:00,0
-2018020512,8477941,Nick Ritchie,Anaheim Ducks,LW,14:56,1,0,2,3,0,1,0,0,0,0,0,0,0,1,0,12:11,2:17,0:28,NA
-2018020512,8476312,Josh Manson,Anaheim Ducks,D,24:50,1,0,1,6,0,0,2,0,0,0,0,0,0,2,2,22:29,0:00,2:21,NA
-2018020512,8474641,Adam Henrique,Anaheim Ducks,C,17:38,1,1,2,0,1,0,0,8,14,0,0,0,0,0,1,13:24,2:17,1:57,57.14
-2018020512,8480748,Kiefer Sherwood,Anaheim Ducks,RW,9:44,0,1,2,2,0,0,0,0,0,0,0,0,0,2,1,9:44,0:00,0:00,NA
-2018020512,8475164,Jakob Silfverberg,Anaheim Ducks,RW,16:28,0,0,1,1,0,0,0,0,0,2,0,0,0,0,0,12:23,2:17,1:48,NA
-2018020512,8478491,Jacob Larsson,Anaheim Ducks,D,17:25,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1,16:57,0:00,0:28,NA
-2018020512,8477240,Carter Rowney,Anaheim Ducks,RW,12:25,1,0,0,2,0,0,2,4,7,0,0,0,0,0,1,11:18,0:00,1:07,57.14
-2018020512,8478131,Ondrej Kase,Anaheim Ducks,RW,15:21,0,1,5,0,0,0,2,0,0,0,0,0,0,2,0,13:29,1:37,0:15,NA
-2018020512,8479372,Josh Mahura,Anaheim Ducks,D,11:41,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,11:41,0:00,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020512,8471724,Kris Letang,Pittsburgh Penguins,Anaheim Ducks,D,26:04,1,0,2,0,0,1,0,0,0,0,5,0,0,2,-1,19:39,4:48,1:37,NA
+2018020512,8477969,Marcus Pettersson,Pittsburgh Penguins,Anaheim Ducks,D,18:07,0,0,3,0,0,0,0,0,0,0,1,0,0,0,-1,16:21,1:46,0:00,NA
+2018020512,8475208,Brian Dumoulin,Pittsburgh Penguins,Anaheim Ducks,D,18:05,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,16:24,0:04,1:37,NA
+2018020512,8473544,Derick Brassard,Pittsburgh Penguins,Anaheim Ducks,C,13:56,0,0,2,3,0,0,0,8,12,0,1,0,0,0,0,11:49,2:07,0:00,66.67
+2018020512,8471675,Sidney Crosby,Pittsburgh Penguins,Anaheim Ducks,C,21:04,1,0,0,1,0,0,2,7,13,0,1,0,0,0,-1,16:06,4:29,0:29,53.85
+2018020512,8477404,Jake Guentzel,Pittsburgh Penguins,Anaheim Ducks,LW,18:02,0,0,2,2,0,0,0,0,0,0,0,0,0,0,-1,13:08,4:25,0:29,NA
+2018020512,8473548,Phil Kessel,Pittsburgh Penguins,Anaheim Ducks,RW,21:07,1,0,2,0,0,1,0,0,0,3,1,0,0,0,-1,16:48,4:19,0:00,NA
+2018020512,8475810,Bryan Rust,Pittsburgh Penguins,Anaheim Ducks,RW,17:38,0,1,5,0,0,0,0,0,0,1,0,0,0,1,0,13:30,2:07,2:01,NA
+2018020512,8479944,Zach Aston-Reese,Pittsburgh Penguins,Anaheim Ducks,C,15:24,0,0,4,5,0,0,2,0,0,0,1,0,0,3,0,14:49,0:00,0:35,NA
+2018020512,8471215,Evgeni Malkin,Pittsburgh Penguins,Anaheim Ducks,C,21:08,0,1,2,1,1,0,0,4,16,0,1,0,0,0,-1,16:45,4:23,0:00,25
+2018020512,8471677,Jack Johnson,Pittsburgh Penguins,Anaheim Ducks,D,18:31,0,0,0,3,0,0,0,0,0,0,0,0,0,1,-1,16:14,0:00,2:17,NA
+2018020512,8476871,Tanner Pearson,Pittsburgh Penguins,Anaheim Ducks,LW,11:53,0,0,3,2,0,0,0,0,0,0,0,0,0,0,-1,9:46,2:07,0:00,NA
+2018020512,8475772,Riley Sheahan,Pittsburgh Penguins,Anaheim Ducks,C,12:51,0,0,1,2,0,0,0,1,2,0,0,0,0,1,-1,10:48,0:02,2:01,50
+2018020512,8474683,Derek Grant,Pittsburgh Penguins,Anaheim Ducks,C,10:15,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,9:24,0:02,0:49,0
+2018020512,8476874,Olli Maatta,Pittsburgh Penguins,Anaheim Ducks,D,18:34,0,0,0,3,0,0,0,0,0,0,0,0,0,1,-1,14:06,2:11,2:17,NA
+2018020512,8476467,Jamie Oleksiak,Pittsburgh Penguins,Anaheim Ducks,D,15:29,0,0,0,4,0,0,0,0,0,0,1,0,0,2,0,15:29,0:00,0:00,NA
+2018020512,8475253,Garrett Wilson,Pittsburgh Penguins,Anaheim Ducks,LW,8:31,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,8:29,0:02,0:00,NA
+2018020512,8464989,Matt Cullen,Pittsburgh Penguins,Anaheim Ducks,C,10:14,0,0,2,0,0,0,0,1,6,0,0,0,0,0,-1,8:48,0:02,1:24,16.67
+2018020512,8470616,Ryan Kesler,Anaheim Ducks,Pittsburgh Penguins,C,18:07,0,0,4,2,0,0,0,13,17,1,0,0,0,1,0,12:45,1:37,3:45,76.47
+2018020512,8476857,Pontus Aberg,Anaheim Ducks,Pittsburgh Penguins,LW,17:43,1,0,2,1,0,0,0,0,1,1,2,0,0,0,1,16:04,1:37,0:02,0
+2018020512,8470612,Ryan Getzlaf,Anaheim Ducks,Pittsburgh Penguins,C,17:54,1,1,4,0,0,0,0,5,11,1,0,0,0,2,1,14:02,1:55,1:57,45.45
+2018020512,8477986,Brandon Montour,Anaheim Ducks,Pittsburgh Penguins,D,23:35,0,0,3,2,0,0,0,0,0,0,0,0,0,0,1,17:58,1:37,4:00,NA
+2018020512,8476854,Hampus Lindholm,Anaheim Ducks,Pittsburgh Penguins,D,24:07,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,17:23,2:17,4:27,NA
+2018020512,8471699,Andrew Cogliano,Anaheim Ducks,Pittsburgh Penguins,LW,11:57,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,10:25,0:00,1:32,NA
+2018020512,8477009,Jake Dotchin,Anaheim Ducks,Pittsburgh Penguins,D,14:41,0,0,0,5,0,0,0,0,0,1,0,0,0,1,0,12:49,0:00,1:52,NA
+2018020512,8476207,Brian Gibbons,Anaheim Ducks,Pittsburgh Penguins,C,9:25,0,0,2,1,0,0,0,0,0,0,0,0,0,1,1,9:25,0:00,0:00,NA
+2018020512,8478466,Daniel Sprong,Anaheim Ducks,Pittsburgh Penguins,RW,15:12,1,0,4,3,0,1,0,0,1,0,0,0,0,0,0,13:13,1:59,0:00,0
+2018020512,8477941,Nick Ritchie,Anaheim Ducks,Pittsburgh Penguins,LW,14:56,1,0,2,3,0,1,0,0,0,0,0,0,0,1,0,12:11,2:17,0:28,NA
+2018020512,8476312,Josh Manson,Anaheim Ducks,Pittsburgh Penguins,D,24:50,1,0,1,6,0,0,2,0,0,0,0,0,0,2,2,22:29,0:00,2:21,NA
+2018020512,8474641,Adam Henrique,Anaheim Ducks,Pittsburgh Penguins,C,17:38,1,1,2,0,1,0,0,8,14,0,0,0,0,0,1,13:24,2:17,1:57,57.14
+2018020512,8480748,Kiefer Sherwood,Anaheim Ducks,Pittsburgh Penguins,RW,9:44,0,1,2,2,0,0,0,0,0,0,0,0,0,2,1,9:44,0:00,0:00,NA
+2018020512,8475164,Jakob Silfverberg,Anaheim Ducks,Pittsburgh Penguins,RW,16:28,0,0,1,1,0,0,0,0,0,2,0,0,0,0,0,12:23,2:17,1:48,NA
+2018020512,8478491,Jacob Larsson,Anaheim Ducks,Pittsburgh Penguins,D,17:25,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1,16:57,0:00,0:28,NA
+2018020512,8477240,Carter Rowney,Anaheim Ducks,Pittsburgh Penguins,RW,12:25,1,0,0,2,0,0,2,4,7,0,0,0,0,0,1,11:18,0:00,1:07,57.14
+2018020512,8478131,Ondrej Kase,Anaheim Ducks,Pittsburgh Penguins,RW,15:21,0,1,5,0,0,0,2,0,0,0,0,0,0,2,0,13:29,1:37,0:15,NA
+2018020512,8479372,Josh Mahura,Anaheim Ducks,Pittsburgh Penguins,D,11:41,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,11:41,0:00,0:00,NA

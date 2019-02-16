@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020049,8476918,Jimmy Vesey,New York Rangers,LW,14:44,0,0,1,1,0,0,0,0,0,1,1,0,0,0,-1,13:11,1:01,0:32,NA
-2018020049,8471717,Adam McQuaid,New York Rangers,D,18:12,0,0,0,2,0,0,0,0,0,0,1,0,0,2,-1,15:13,0:00,2:59,NA
-2018020049,8471686,Marc Staal,New York Rangers,D,16:47,0,0,1,2,0,0,2,0,0,0,0,0,0,1,1,14:34,0:00,2:13,NA
-2018020049,8476869,Brady Skjei,New York Rangers,D,24:24,0,1,4,5,0,0,0,0,0,0,1,0,0,4,0,20:58,1:03,2:23,NA
-2018020049,8475727,Ryan Spooner,New York Rangers,C,12:23,0,0,1,0,0,0,0,0,0,0,1,0,0,0,-1,11:22,1:01,0:00,NA
-2018020049,8479968,Vinni Lettieri,New York Rangers,C,11:58,0,0,1,1,0,0,0,1,1,0,2,0,0,1,0,9:54,0:00,2:04,100
-2018020049,8476459,Mika Zibanejad,New York Rangers,C,16:58,0,0,3,1,0,0,2,6,15,1,1,0,0,1,1,13:10,2:59,0:49,40
-2018020049,8475855,Jesper Fast,New York Rangers,RW,15:54,1,0,1,1,0,0,0,1,1,1,0,0,0,1,1,13:17,0:00,2:37,100
-2018020049,8477950,Tony DeAngelo,New York Rangers,D,20:32,0,0,0,1,0,0,2,0,0,0,2,0,0,0,0,17:35,2:57,0:00,NA
-2018020049,8477402,Pavel Buchnevich,New York Rangers,RW,16:25,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,13:26,2:59,0:00,NA
-2018020049,8475763,Kevin Hayes,New York Rangers,C,15:54,0,0,0,0,0,0,0,5,12,2,1,0,0,2,-1,12:13,1:01,2:40,41.67
-2018020049,8476368,Fredrik Claesson,New York Rangers,D,18:56,0,0,5,4,0,0,0,0,0,0,0,0,0,1,1,16:26,0:00,2:30,NA
-2018020049,8475184,Chris Kreider,New York Rangers,LW,14:50,1,0,2,3,0,0,0,1,2,0,1,0,0,0,1,11:51,2:59,0:00,50
-2018020049,8479353,Brett Howden,New York Rangers,C,17:34,0,1,1,1,0,0,0,8,13,0,2,0,0,1,2,15:44,0:00,1:50,61.54
-2018020049,8475692,Mats Zuccarello,New York Rangers,RW,17:57,1,0,3,0,0,0,0,0,2,0,2,0,0,4,1,13:29,3:00,1:28,0
-2018020049,8474090,Brendan Smith,New York Rangers,D,18:09,0,1,1,1,0,0,2,0,0,0,0,0,0,1,1,16:14,0:00,1:55,NA
-2018020049,8480078,Filip Chytil,New York Rangers,C,11:06,0,0,0,0,0,0,0,2,4,0,0,0,0,0,-2,10:06,1:00,0:00,50
-2018020049,8476480,Vladislav Namestnikov,New York Rangers,C,11:08,0,0,2,1,0,0,0,0,1,2,0,0,0,1,-1,11:08,0:00,0:00,0
-2018020049,8470613,Brent Burns,San Jose Sharks,D,24:02,2,0,6,0,0,0,0,0,0,1,1,0,1,1,1,18:01,3:24,2:37,NA
-2018020049,8471709,Marc-Edouard Vlasic,San Jose Sharks,D,20:45,0,0,3,0,0,0,0,0,0,0,1,0,0,1,-1,18:14,1:08,1:23,NA
-2018020049,8470794,Joe Pavelski,San Jose Sharks,C,17:50,0,0,3,1,0,0,0,5,11,1,1,0,0,1,-1,14:20,3:24,0:06,45.45
-2018020049,8475834,Marcus Sorensen,San Jose Sharks,LW,12:01,0,1,4,0,0,0,0,1,1,0,0,1,0,0,2,10:52,0:23,0:46,100
-2018020049,8474027,Justin Braun,San Jose Sharks,D,21:37,0,0,3,0,0,0,0,0,0,0,1,0,0,1,1,19:29,0:31,1:37,NA
-2018020049,8475820,Joonas Donskoi,San Jose Sharks,RW,12:42,0,1,2,1,0,0,0,0,1,0,2,0,0,1,0,10:14,2:28,0:00,0
-2018020049,8476624,Barclay Goodrow,San Jose Sharks,RW,11:16,0,0,4,0,0,0,0,1,2,1,1,0,0,2,0,9:43,0:00,1:33,50
-2018020049,8474578,Erik Karlsson,San Jose Sharks,D,26:26,0,0,3,1,0,0,0,0,0,1,3,0,0,1,-2,19:19,4:44,2:23,NA
-2018020049,8477922,Melker Karlsson,San Jose Sharks,C,11:05,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,9:35,0:00,1:30,NA
-2018020049,8474053,Logan Couture,San Jose Sharks,C,21:06,0,0,1,0,0,0,0,4,5,1,0,0,0,0,-2,15:50,3:32,1:44,80
-2018020049,8480965,Antti Suomela,San Jose Sharks,C,10:54,1,0,2,1,0,0,0,3,10,0,1,0,0,1,1,10:31,0:23,0:00,30
-2018020049,8478414,Timo Meier,San Jose Sharks,RW,17:16,1,0,2,2,0,0,0,0,2,0,1,0,1,0,0,14:55,2:05,0:16,0
-2018020049,8475455,Brenden Dillon,San Jose Sharks,D,15:18,0,0,0,5,0,0,0,0,0,0,0,0,0,2,0,15:03,0:15,0:00,NA
-2018020049,8475169,Evander Kane,San Jose Sharks,LW,19:21,0,0,2,1,0,0,4,2,4,0,0,0,0,0,-1,16:41,2:13,0:27,50
-2018020049,8478078,Rourke Chartier,San Jose Sharks,C,8:33,0,0,4,0,0,0,0,1,2,0,0,0,0,0,0,8:33,0:00,0:00,50
-2018020049,8478099,Kevin Labanc,San Jose Sharks,RW,16:52,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,14:54,1:58,0:00,NA
-2018020049,8477046,Joakim Ryan,San Jose Sharks,D,10:31,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,10:31,0:00,0:00,NA
-2018020049,8476881,Tomas Hertl,San Jose Sharks,C,18:22,0,0,1,0,0,0,0,10,13,0,0,0,0,1,-2,13:12,3:32,1:38,76.92
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020049,8476918,Jimmy Vesey,New York Rangers,San Jose Sharks,LW,14:44,0,0,1,1,0,0,0,0,0,1,1,0,0,0,-1,13:11,1:01,0:32,NA
+2018020049,8471717,Adam McQuaid,New York Rangers,San Jose Sharks,D,18:12,0,0,0,2,0,0,0,0,0,0,1,0,0,2,-1,15:13,0:00,2:59,NA
+2018020049,8471686,Marc Staal,New York Rangers,San Jose Sharks,D,16:47,0,0,1,2,0,0,2,0,0,0,0,0,0,1,1,14:34,0:00,2:13,NA
+2018020049,8476869,Brady Skjei,New York Rangers,San Jose Sharks,D,24:24,0,1,4,5,0,0,0,0,0,0,1,0,0,4,0,20:58,1:03,2:23,NA
+2018020049,8475727,Ryan Spooner,New York Rangers,San Jose Sharks,C,12:23,0,0,1,0,0,0,0,0,0,0,1,0,0,0,-1,11:22,1:01,0:00,NA
+2018020049,8479968,Vinni Lettieri,New York Rangers,San Jose Sharks,C,11:58,0,0,1,1,0,0,0,1,1,0,2,0,0,1,0,9:54,0:00,2:04,100
+2018020049,8476459,Mika Zibanejad,New York Rangers,San Jose Sharks,C,16:58,0,0,3,1,0,0,2,6,15,1,1,0,0,1,1,13:10,2:59,0:49,40
+2018020049,8475855,Jesper Fast,New York Rangers,San Jose Sharks,RW,15:54,1,0,1,1,0,0,0,1,1,1,0,0,0,1,1,13:17,0:00,2:37,100
+2018020049,8477950,Tony DeAngelo,New York Rangers,San Jose Sharks,D,20:32,0,0,0,1,0,0,2,0,0,0,2,0,0,0,0,17:35,2:57,0:00,NA
+2018020049,8477402,Pavel Buchnevich,New York Rangers,San Jose Sharks,RW,16:25,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,13:26,2:59,0:00,NA
+2018020049,8475763,Kevin Hayes,New York Rangers,San Jose Sharks,C,15:54,0,0,0,0,0,0,0,5,12,2,1,0,0,2,-1,12:13,1:01,2:40,41.67
+2018020049,8476368,Fredrik Claesson,New York Rangers,San Jose Sharks,D,18:56,0,0,5,4,0,0,0,0,0,0,0,0,0,1,1,16:26,0:00,2:30,NA
+2018020049,8475184,Chris Kreider,New York Rangers,San Jose Sharks,LW,14:50,1,0,2,3,0,0,0,1,2,0,1,0,0,0,1,11:51,2:59,0:00,50
+2018020049,8479353,Brett Howden,New York Rangers,San Jose Sharks,C,17:34,0,1,1,1,0,0,0,8,13,0,2,0,0,1,2,15:44,0:00,1:50,61.54
+2018020049,8475692,Mats Zuccarello,New York Rangers,San Jose Sharks,RW,17:57,1,0,3,0,0,0,0,0,2,0,2,0,0,4,1,13:29,3:00,1:28,0
+2018020049,8474090,Brendan Smith,New York Rangers,San Jose Sharks,D,18:09,0,1,1,1,0,0,2,0,0,0,0,0,0,1,1,16:14,0:00,1:55,NA
+2018020049,8480078,Filip Chytil,New York Rangers,San Jose Sharks,C,11:06,0,0,0,0,0,0,0,2,4,0,0,0,0,0,-2,10:06,1:00,0:00,50
+2018020049,8476480,Vladislav Namestnikov,New York Rangers,San Jose Sharks,C,11:08,0,0,2,1,0,0,0,0,1,2,0,0,0,1,-1,11:08,0:00,0:00,0
+2018020049,8470613,Brent Burns,San Jose Sharks,New York Rangers,D,24:02,2,0,6,0,0,0,0,0,0,1,1,0,1,1,1,18:01,3:24,2:37,NA
+2018020049,8471709,Marc-Edouard Vlasic,San Jose Sharks,New York Rangers,D,20:45,0,0,3,0,0,0,0,0,0,0,1,0,0,1,-1,18:14,1:08,1:23,NA
+2018020049,8470794,Joe Pavelski,San Jose Sharks,New York Rangers,C,17:50,0,0,3,1,0,0,0,5,11,1,1,0,0,1,-1,14:20,3:24,0:06,45.45
+2018020049,8475834,Marcus Sorensen,San Jose Sharks,New York Rangers,LW,12:01,0,1,4,0,0,0,0,1,1,0,0,1,0,0,2,10:52,0:23,0:46,100
+2018020049,8474027,Justin Braun,San Jose Sharks,New York Rangers,D,21:37,0,0,3,0,0,0,0,0,0,0,1,0,0,1,1,19:29,0:31,1:37,NA
+2018020049,8475820,Joonas Donskoi,San Jose Sharks,New York Rangers,RW,12:42,0,1,2,1,0,0,0,0,1,0,2,0,0,1,0,10:14,2:28,0:00,0
+2018020049,8476624,Barclay Goodrow,San Jose Sharks,New York Rangers,RW,11:16,0,0,4,0,0,0,0,1,2,1,1,0,0,2,0,9:43,0:00,1:33,50
+2018020049,8474578,Erik Karlsson,San Jose Sharks,New York Rangers,D,26:26,0,0,3,1,0,0,0,0,0,1,3,0,0,1,-2,19:19,4:44,2:23,NA
+2018020049,8477922,Melker Karlsson,San Jose Sharks,New York Rangers,C,11:05,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,9:35,0:00,1:30,NA
+2018020049,8474053,Logan Couture,San Jose Sharks,New York Rangers,C,21:06,0,0,1,0,0,0,0,4,5,1,0,0,0,0,-2,15:50,3:32,1:44,80
+2018020049,8480965,Antti Suomela,San Jose Sharks,New York Rangers,C,10:54,1,0,2,1,0,0,0,3,10,0,1,0,0,1,1,10:31,0:23,0:00,30
+2018020049,8478414,Timo Meier,San Jose Sharks,New York Rangers,RW,17:16,1,0,2,2,0,0,0,0,2,0,1,0,1,0,0,14:55,2:05,0:16,0
+2018020049,8475455,Brenden Dillon,San Jose Sharks,New York Rangers,D,15:18,0,0,0,5,0,0,0,0,0,0,0,0,0,2,0,15:03,0:15,0:00,NA
+2018020049,8475169,Evander Kane,San Jose Sharks,New York Rangers,LW,19:21,0,0,2,1,0,0,4,2,4,0,0,0,0,0,-1,16:41,2:13,0:27,50
+2018020049,8478078,Rourke Chartier,San Jose Sharks,New York Rangers,C,8:33,0,0,4,0,0,0,0,1,2,0,0,0,0,0,0,8:33,0:00,0:00,50
+2018020049,8478099,Kevin Labanc,San Jose Sharks,New York Rangers,RW,16:52,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,14:54,1:58,0:00,NA
+2018020049,8477046,Joakim Ryan,San Jose Sharks,New York Rangers,D,10:31,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,10:31,0:00,0:00,NA
+2018020049,8476881,Tomas Hertl,San Jose Sharks,New York Rangers,C,18:22,0,0,1,0,0,0,0,10,13,0,0,0,0,1,-2,13:12,3:32,1:38,76.92

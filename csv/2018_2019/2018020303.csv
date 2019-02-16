@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020303,8477936,Michael Dal Colle,New York Islanders,LW,9:08,0,0,1,1,0,0,0,0,0,1,0,0,0,0,-1,9:08,0:00,0:00,NA
-2018020303,8477506,Ryan Pulock,New York Islanders,D,20:53,1,0,3,1,0,0,0,0,0,0,3,0,0,0,-1,16:58,1:08,2:47,NA
-2018020303,8476429,Scott Mayfield,New York Islanders,D,22:33,0,1,4,0,0,0,0,0,0,0,0,0,0,4,0,18:57,0:06,3:30,NA
-2018020303,8470047,Valtteri Filppula,New York Islanders,C,15:07,0,0,1,0,0,0,0,8,12,0,1,0,0,0,0,12:27,0:00,2:40,66.67
-2018020303,8472410,Stephen Gionta,New York Islanders,C,10:38,0,0,1,5,0,0,0,5,7,0,1,0,0,0,-1,9:22,0:00,1:16,71.43
-2018020303,8470187,Johnny Boychuk,New York Islanders,D,19:06,0,0,6,1,0,0,0,0,0,0,1,0,0,0,-1,14:36,2:52,1:38,NA
-2018020303,8473504,Cal Clutterbuck,New York Islanders,RW,13:57,0,0,0,3,0,0,0,2,3,0,1,0,0,0,-1,9:29,2:52,1:36,66.67
-2018020303,8475314,Anders Lee,New York Islanders,LW,18:31,0,0,1,6,0,0,0,0,1,0,0,0,0,0,-2,17:20,1:08,0:03,0
-2018020303,8475754,Brock Nelson,New York Islanders,C,16:29,0,0,4,0,0,0,0,12,19,0,0,0,0,1,-2,11:36,2:52,2:01,63.16
-2018020303,8475832,Tom Kuhnhackl,New York Islanders,RW,12:57,0,0,1,1,0,0,2,0,0,0,0,0,0,0,-1,11:43,0:00,1:14,NA
-2018020303,8474579,Luca Sbisa,New York Islanders,D,15:55,0,0,2,1,0,0,0,0,0,0,0,0,0,2,-2,13:30,0:00,2:25,NA
-2018020303,8478445,Mathew Barzal,New York Islanders,C,19:17,1,0,6,0,0,0,0,5,8,0,1,0,0,0,-1,16:25,2:52,0:00,62.5
-2018020303,8474573,Josh Bailey,New York Islanders,RW,18:09,0,0,2,0,0,0,0,1,2,0,1,0,0,1,-1,16:58,1:08,0:03,50
-2018020303,8474586,Jordan Eberle,New York Islanders,RW,13:47,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-2,12:39,1:08,0:00,NA
-2018020303,8478463,Anthony Beauvillier,New York Islanders,LW,14:18,0,1,2,2,0,0,0,0,0,0,1,0,0,0,0,11:26,2:52,0:00,NA
-2018020303,8473463,Leo Komarov,New York Islanders,RW,14:43,1,0,1,2,0,0,0,0,2,0,0,0,0,2,0,11:36,0:00,3:07,0
-2018020303,8474066,Thomas Hickey,New York Islanders,D,19:44,0,0,1,1,0,0,4,0,0,0,1,0,0,3,-1,18:07,0:00,1:37,NA
-2018020303,8475181,Nick Leddy,New York Islanders,D,18:57,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-3,17:52,1:02,0:03,NA
-2018020303,8476902,Esa Lindell,Dallas Stars,D,22:58,0,2,5,1,0,0,2,0,0,0,0,0,0,1,3,18:54,3:32,0:32,NA
-2018020303,8473994,Jamie Benn,Dallas Stars,LW,15:13,3,0,2,2,0,0,0,0,3,2,0,0,0,0,3,11:06,3:55,0:12,0
-2018020303,8478449,Roope Hintz,Dallas Stars,LW,14:20,0,1,2,1,0,0,0,2,3,0,0,0,0,0,0,12:56,1:24,0:00,66.67
-2018020303,8477810,Joel Hanley,Dallas Stars,D,15:26,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,13:58,0:00,1:28,NA
-2018020303,8471228,Alexander Radulov,Dallas Stars,RW,16:31,1,2,4,0,0,0,0,0,0,2,0,0,0,0,3,11:52,4:39,0:00,NA
-2018020303,8477945,Julius Honka,Dallas Stars,D,8:49,1,0,1,0,0,0,0,0,1,0,0,0,0,0,2,8:49,0:00,0:00,0
-2018020303,8477406,Mattias Janmark,Dallas Stars,C,17:04,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,12:34,2:06,2:24,0
-2018020303,8479416,Ben Gleason,Dallas Stars,D,10:59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8:50,2:09,0:00,NA
-2018020303,8476889,Radek Faksa,Dallas Stars,C,18:26,0,0,1,4,0,0,0,4,11,0,0,0,0,0,0,15:59,0:03,2:24,36.36
-2018020303,8479945,Gavin Bayreuther,Dallas Stars,D,19:11,1,0,3,2,0,0,0,0,0,1,1,0,0,2,1,14:58,1:41,2:32,NA
-2018020303,8476966,Gemel Smith,Dallas Stars,C,12:58,0,0,1,1,0,0,0,0,0,2,0,0,0,2,0,12:58,0:00,0:00,NA
-2018020303,8471260,Blake Comeau,Dallas Stars,LW,16:24,0,0,0,1,0,0,0,1,3,0,0,0,0,2,0,14:57,0:03,1:24,33.33
-2018020303,8471392,Roman Polak,Dallas Stars,D,20:12,0,0,1,1,0,0,2,0,0,0,0,0,0,2,0,19:05,0:03,1:04,NA
-2018020303,8475794,Tyler Seguin,Dallas Stars,C,16:54,2,1,5,0,0,0,0,6,10,0,1,0,0,0,2,11:55,4:33,0:26,60
-2018020303,8477501,Valeri Nichushkin,Dallas Stars,RW,16:25,0,0,2,1,0,0,0,0,0,0,0,0,0,1,1,15:48,0:37,0:00,NA
-2018020303,8477450,Jason Dickinson,Dallas Stars,C,17:22,1,0,1,2,0,0,0,1,8,0,0,0,0,0,1,16:09,0:03,1:10,12.5
-2018020303,8469455,Jason Spezza,Dallas Stars,C,15:39,2,0,1,1,0,0,0,7,14,0,2,0,0,0,2,12:28,3:11,0:00,50
-2018020303,8480036,Miro Heiskanen,Dallas Stars,D,21:09,0,0,3,0,0,0,0,0,0,0,2,0,0,0,1,16:44,2:01,2:24,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020303,8477936,Michael Dal Colle,New York Islanders,Dallas Stars,LW,9:08,0,0,1,1,0,0,0,0,0,1,0,0,0,0,-1,9:08,0:00,0:00,NA
+2018020303,8477506,Ryan Pulock,New York Islanders,Dallas Stars,D,20:53,1,0,3,1,0,0,0,0,0,0,3,0,0,0,-1,16:58,1:08,2:47,NA
+2018020303,8476429,Scott Mayfield,New York Islanders,Dallas Stars,D,22:33,0,1,4,0,0,0,0,0,0,0,0,0,0,4,0,18:57,0:06,3:30,NA
+2018020303,8470047,Valtteri Filppula,New York Islanders,Dallas Stars,C,15:07,0,0,1,0,0,0,0,8,12,0,1,0,0,0,0,12:27,0:00,2:40,66.67
+2018020303,8472410,Stephen Gionta,New York Islanders,Dallas Stars,C,10:38,0,0,1,5,0,0,0,5,7,0,1,0,0,0,-1,9:22,0:00,1:16,71.43
+2018020303,8470187,Johnny Boychuk,New York Islanders,Dallas Stars,D,19:06,0,0,6,1,0,0,0,0,0,0,1,0,0,0,-1,14:36,2:52,1:38,NA
+2018020303,8473504,Cal Clutterbuck,New York Islanders,Dallas Stars,RW,13:57,0,0,0,3,0,0,0,2,3,0,1,0,0,0,-1,9:29,2:52,1:36,66.67
+2018020303,8475314,Anders Lee,New York Islanders,Dallas Stars,LW,18:31,0,0,1,6,0,0,0,0,1,0,0,0,0,0,-2,17:20,1:08,0:03,0
+2018020303,8475754,Brock Nelson,New York Islanders,Dallas Stars,C,16:29,0,0,4,0,0,0,0,12,19,0,0,0,0,1,-2,11:36,2:52,2:01,63.16
+2018020303,8475832,Tom Kuhnhackl,New York Islanders,Dallas Stars,RW,12:57,0,0,1,1,0,0,2,0,0,0,0,0,0,0,-1,11:43,0:00,1:14,NA
+2018020303,8474579,Luca Sbisa,New York Islanders,Dallas Stars,D,15:55,0,0,2,1,0,0,0,0,0,0,0,0,0,2,-2,13:30,0:00,2:25,NA
+2018020303,8478445,Mathew Barzal,New York Islanders,Dallas Stars,C,19:17,1,0,6,0,0,0,0,5,8,0,1,0,0,0,-1,16:25,2:52,0:00,62.5
+2018020303,8474573,Josh Bailey,New York Islanders,Dallas Stars,RW,18:09,0,0,2,0,0,0,0,1,2,0,1,0,0,1,-1,16:58,1:08,0:03,50
+2018020303,8474586,Jordan Eberle,New York Islanders,Dallas Stars,RW,13:47,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-2,12:39,1:08,0:00,NA
+2018020303,8478463,Anthony Beauvillier,New York Islanders,Dallas Stars,LW,14:18,0,1,2,2,0,0,0,0,0,0,1,0,0,0,0,11:26,2:52,0:00,NA
+2018020303,8473463,Leo Komarov,New York Islanders,Dallas Stars,RW,14:43,1,0,1,2,0,0,0,0,2,0,0,0,0,2,0,11:36,0:00,3:07,0
+2018020303,8474066,Thomas Hickey,New York Islanders,Dallas Stars,D,19:44,0,0,1,1,0,0,4,0,0,0,1,0,0,3,-1,18:07,0:00,1:37,NA
+2018020303,8475181,Nick Leddy,New York Islanders,Dallas Stars,D,18:57,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-3,17:52,1:02,0:03,NA
+2018020303,8476902,Esa Lindell,Dallas Stars,New York Islanders,D,22:58,0,2,5,1,0,0,2,0,0,0,0,0,0,1,3,18:54,3:32,0:32,NA
+2018020303,8473994,Jamie Benn,Dallas Stars,New York Islanders,LW,15:13,3,0,2,2,0,0,0,0,3,2,0,0,0,0,3,11:06,3:55,0:12,0
+2018020303,8478449,Roope Hintz,Dallas Stars,New York Islanders,LW,14:20,0,1,2,1,0,0,0,2,3,0,0,0,0,0,0,12:56,1:24,0:00,66.67
+2018020303,8477810,Joel Hanley,Dallas Stars,New York Islanders,D,15:26,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,13:58,0:00,1:28,NA
+2018020303,8471228,Alexander Radulov,Dallas Stars,New York Islanders,RW,16:31,1,2,4,0,0,0,0,0,0,2,0,0,0,0,3,11:52,4:39,0:00,NA
+2018020303,8477945,Julius Honka,Dallas Stars,New York Islanders,D,8:49,1,0,1,0,0,0,0,0,1,0,0,0,0,0,2,8:49,0:00,0:00,0
+2018020303,8477406,Mattias Janmark,Dallas Stars,New York Islanders,C,17:04,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,12:34,2:06,2:24,0
+2018020303,8479416,Ben Gleason,Dallas Stars,New York Islanders,D,10:59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8:50,2:09,0:00,NA
+2018020303,8476889,Radek Faksa,Dallas Stars,New York Islanders,C,18:26,0,0,1,4,0,0,0,4,11,0,0,0,0,0,0,15:59,0:03,2:24,36.36
+2018020303,8479945,Gavin Bayreuther,Dallas Stars,New York Islanders,D,19:11,1,0,3,2,0,0,0,0,0,1,1,0,0,2,1,14:58,1:41,2:32,NA
+2018020303,8476966,Gemel Smith,Dallas Stars,New York Islanders,C,12:58,0,0,1,1,0,0,0,0,0,2,0,0,0,2,0,12:58,0:00,0:00,NA
+2018020303,8471260,Blake Comeau,Dallas Stars,New York Islanders,LW,16:24,0,0,0,1,0,0,0,1,3,0,0,0,0,2,0,14:57,0:03,1:24,33.33
+2018020303,8471392,Roman Polak,Dallas Stars,New York Islanders,D,20:12,0,0,1,1,0,0,2,0,0,0,0,0,0,2,0,19:05,0:03,1:04,NA
+2018020303,8475794,Tyler Seguin,Dallas Stars,New York Islanders,C,16:54,2,1,5,0,0,0,0,6,10,0,1,0,0,0,2,11:55,4:33,0:26,60
+2018020303,8477501,Valeri Nichushkin,Dallas Stars,New York Islanders,RW,16:25,0,0,2,1,0,0,0,0,0,0,0,0,0,1,1,15:48,0:37,0:00,NA
+2018020303,8477450,Jason Dickinson,Dallas Stars,New York Islanders,C,17:22,1,0,1,2,0,0,0,1,8,0,0,0,0,0,1,16:09,0:03,1:10,12.5
+2018020303,8469455,Jason Spezza,Dallas Stars,New York Islanders,C,15:39,2,0,1,1,0,0,0,7,14,0,2,0,0,0,2,12:28,3:11,0:00,50
+2018020303,8480036,Miro Heiskanen,Dallas Stars,New York Islanders,D,21:09,0,0,3,0,0,0,0,0,0,0,2,0,0,0,1,16:44,2:01,2:24,NA

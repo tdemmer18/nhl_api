@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020397,8473419,Brad Marchand,Boston Bruins,LW,22:14,0,0,3,4,0,0,2,50,1,2,0,0,0,0,0,-2,15:10,6:07,0:57
-2018020397,8475807,Joakim Nordstrom,Boston Bruins,C,11:12,0,0,1,0,0,0,5,100,2,2,1,0,0,0,0,-1,9:32,0:11,1:29
-2018020397,8477529,Colby Cave,Boston Bruins,C,15:23,1,0,0,1,0,0,4,30.77,4,13,1,0,0,0,0,0,14:41,0:00,0:42
-2018020397,8471276,David Krejci,Boston Bruins,C,17:27,0,0,4,0,0,0,0,33.33,5,15,0,2,0,0,0,-1,13:30,3:50,0:07
-2018020397,8477987,Ryan Donato,Boston Bruins,C,12:10,0,1,6,0,1,0,0,NA,0,0,0,0,0,0,0,-1,8:49,3:21,0:00
-2018020397,8470655,David Backes,Boston Bruins,RW,14:24,0,1,3,3,0,0,0,50,5,10,0,0,0,0,0,0,8:50,5:34,0:00
-2018020397,8478569,Noel Acciari,Boston Bruins,C,11:22,0,0,2,2,0,0,0,22.22,2,9,0,1,0,0,1,-1,9:23,0:05,1:54
-2018020397,8477956,David Pastrnak,Boston Bruins,RW,24:54,1,0,1,1,0,1,0,NA,0,0,0,1,0,0,0,-2,17:50,7:04,0:00
-2018020397,8478468,Jeremy Lauzon,Boston Bruins,D,8:55,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,0,-1,7:01,0:00,1:54
-2018020397,8475780,Chris Wagner,Boston Bruins,RW,12:37,0,0,1,2,0,0,0,0,0,4,0,0,0,0,1,0,11:22,0:09,1:06
-2018020397,8478443,Brandon Carlo,Boston Bruins,D,17:39,0,0,3,0,0,0,0,NA,0,0,0,1,0,0,1,0,14:47,0:25,2:27
-2018020397,8475186,John Moore,Boston Bruins,D,25:52,1,0,3,1,0,0,0,NA,0,0,0,1,0,0,1,0,21:51,1:41,2:20
-2018020397,8476792,Torey Krug,Boston Bruins,D,23:19,1,0,2,2,0,1,0,NA,0,0,1,2,0,0,2,-1,15:36,7:36,0:07
-2018020397,8476891,Matt Grzelcyk,Boston Bruins,D,20:46,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,3,0,16:25,2:27,1:54
-2018020397,8476374,Sean Kuraly,Boston Bruins,C,12:37,0,0,3,2,0,0,2,57.14,4,7,0,1,0,0,0,0,11:15,0:09,1:13
-2018020397,8478498,Jake DeBrusk,Boston Bruins,LW,18:24,0,0,3,0,0,0,0,NA,0,0,1,0,0,0,0,0,11:35,5:35,1:14
-2018020397,8477365,Connor Clifton,Boston Bruins,D,15:10,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,0,-1,14:38,0:32,0:00
-2018020397,8478046,Danton Heinen,Boston Bruins,C,13:08,0,0,3,2,0,0,0,NA,0,0,0,0,0,0,0,0,10:00,3:08,0:00
-2018020397,8470318,Jonathan Ericsson,Detroit Red Wings,D,13:59,0,0,0,2,0,0,0,NA,0,0,0,0,0,0,0,-1,10:38,0:00,3:21
-2018020397,8471716,Justin Abdelkader,Detroit Red Wings,LW,20:08,1,0,3,5,0,1,2,0,0,1,1,0,0,0,1,0,16:28,0:36,3:04
-2018020397,8474679,Gustav Nyquist,Detroit Red Wings,RW,13:58,2,1,4,0,0,1,0,100,1,1,0,0,0,0,0,1,11:59,1:59,0:00
-2018020397,8477946,Dylan Larkin,Detroit Red Wings,C,22:37,0,1,6,1,1,0,0,100,15,15,3,0,0,0,1,-1,17:00,1:59,3:38
-2018020397,8470144,Frans Nielsen,Detroit Red Wings,C,18:03,0,1,2,0,0,0,0,44.44,4,9,0,0,0,0,0,2,11:29,2:07,4:27
-2018020397,8475324,Nick Jensen,Detroit Red Wings,D,22:39,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,1,1,16:37,0:00,6:02
-2018020397,8470598,Thomas Vanek,Detroit Red Wings,LW,11:25,0,0,1,0,0,0,0,100,1,1,0,0,0,0,0,0,9:07,2:07,0:11
-2018020397,8476822,Luke Glendening,Detroit Red Wings,C,19:57,0,0,3,1,0,0,0,59.26,16,27,0,0,0,0,4,1,14:21,0:15,5:21
-2018020397,8474722,Luke Witkowski,Detroit Red Wings,RW,5:54,0,0,0,3,0,0,5,NA,0,0,0,0,0,0,0,0,3:32,0:00,2:22
-2018020397,8477455,Jacob de la Rose,Detroit Red Wings,C,9:36,0,0,0,2,0,0,0,16.67,1,6,0,0,0,0,0,0,7:42,0:15,1:39
-2018020397,8476960,Andreas Athanasiou,Detroit Red Wings,C,14:22,0,0,0,0,0,0,0,NA,0,0,2,2,0,0,1,1,11:59,2:07,0:16
-2018020397,8477479,Tyler Bertuzzi,Detroit Red Wings,LW,13:37,0,1,3,0,0,0,2,50,1,2,0,0,0,0,0,2,12:20,1:16,0:01
-2018020397,8477215,Danny DeKeyser,Detroit Red Wings,D,22:00,1,0,2,1,0,0,2,NA,0,0,0,0,0,0,3,2,16:06,0:00,5:54
-2018020397,8477511,Anthony Mantha,Detroit Red Wings,RW,16:48,0,0,1,3,0,0,0,NA,0,0,1,1,0,0,0,-1,14:49,1:59,0:00
-2018020397,8471242,Mike Green,Detroit Red Wings,D,20:35,1,0,1,0,0,0,2,NA,0,0,0,2,0,0,1,1,17:49,2:35,0:11
-2018020397,8479992,Michael Rasmussen,Detroit Red Wings,C,12:38,1,0,0,3,0,0,0,NA,0,0,1,1,0,0,0,1,10:31,2:07,0:00
-2018020397,8479395,Dennis Cholowski,Detroit Red Wings,D,13:38,0,0,0,1,0,0,4,NA,0,0,0,0,0,0,2,-1,11:30,2:08,0:00
-2018020397,8468509,Niklas Kronwall,Detroit Red Wings,D,18:07,1,0,1,0,0,0,0,NA,0,0,0,0,0,0,2,2,16:38,0:15,1:14
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020397,8473419,Brad Marchand,Boston Bruins,Detroit Red Wings,LW,22:14,0,0,3,4,0,0,2,50,1,2,0,0,0,0,0,-2,15:10,6:07,0:57
+2018020397,8475807,Joakim Nordstrom,Boston Bruins,Detroit Red Wings,C,11:12,0,0,1,0,0,0,5,100,2,2,1,0,0,0,0,-1,9:32,0:11,1:29
+2018020397,8477529,Colby Cave,Boston Bruins,Detroit Red Wings,C,15:23,1,0,0,1,0,0,4,30.77,4,13,1,0,0,0,0,0,14:41,0:00,0:42
+2018020397,8471276,David Krejci,Boston Bruins,Detroit Red Wings,C,17:27,0,0,4,0,0,0,0,33.33,5,15,0,2,0,0,0,-1,13:30,3:50,0:07
+2018020397,8477987,Ryan Donato,Boston Bruins,Detroit Red Wings,C,12:10,0,1,6,0,1,0,0,NA,0,0,0,0,0,0,0,-1,8:49,3:21,0:00
+2018020397,8470655,David Backes,Boston Bruins,Detroit Red Wings,RW,14:24,0,1,3,3,0,0,0,50,5,10,0,0,0,0,0,0,8:50,5:34,0:00
+2018020397,8478569,Noel Acciari,Boston Bruins,Detroit Red Wings,C,11:22,0,0,2,2,0,0,0,22.22,2,9,0,1,0,0,1,-1,9:23,0:05,1:54
+2018020397,8477956,David Pastrnak,Boston Bruins,Detroit Red Wings,RW,24:54,1,0,1,1,0,1,0,NA,0,0,0,1,0,0,0,-2,17:50,7:04,0:00
+2018020397,8478468,Jeremy Lauzon,Boston Bruins,Detroit Red Wings,D,8:55,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,0,-1,7:01,0:00,1:54
+2018020397,8475780,Chris Wagner,Boston Bruins,Detroit Red Wings,RW,12:37,0,0,1,2,0,0,0,0,0,4,0,0,0,0,1,0,11:22,0:09,1:06
+2018020397,8478443,Brandon Carlo,Boston Bruins,Detroit Red Wings,D,17:39,0,0,3,0,0,0,0,NA,0,0,0,1,0,0,1,0,14:47,0:25,2:27
+2018020397,8475186,John Moore,Boston Bruins,Detroit Red Wings,D,25:52,1,0,3,1,0,0,0,NA,0,0,0,1,0,0,1,0,21:51,1:41,2:20
+2018020397,8476792,Torey Krug,Boston Bruins,Detroit Red Wings,D,23:19,1,0,2,2,0,1,0,NA,0,0,1,2,0,0,2,-1,15:36,7:36,0:07
+2018020397,8476891,Matt Grzelcyk,Boston Bruins,Detroit Red Wings,D,20:46,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,3,0,16:25,2:27,1:54
+2018020397,8476374,Sean Kuraly,Boston Bruins,Detroit Red Wings,C,12:37,0,0,3,2,0,0,2,57.14,4,7,0,1,0,0,0,0,11:15,0:09,1:13
+2018020397,8478498,Jake DeBrusk,Boston Bruins,Detroit Red Wings,LW,18:24,0,0,3,0,0,0,0,NA,0,0,1,0,0,0,0,0,11:35,5:35,1:14
+2018020397,8477365,Connor Clifton,Boston Bruins,Detroit Red Wings,D,15:10,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,0,-1,14:38,0:32,0:00
+2018020397,8478046,Danton Heinen,Boston Bruins,Detroit Red Wings,C,13:08,0,0,3,2,0,0,0,NA,0,0,0,0,0,0,0,0,10:00,3:08,0:00
+2018020397,8470318,Jonathan Ericsson,Detroit Red Wings,Boston Bruins,D,13:59,0,0,0,2,0,0,0,NA,0,0,0,0,0,0,0,-1,10:38,0:00,3:21
+2018020397,8471716,Justin Abdelkader,Detroit Red Wings,Boston Bruins,LW,20:08,1,0,3,5,0,1,2,0,0,1,1,0,0,0,1,0,16:28,0:36,3:04
+2018020397,8474679,Gustav Nyquist,Detroit Red Wings,Boston Bruins,RW,13:58,2,1,4,0,0,1,0,100,1,1,0,0,0,0,0,1,11:59,1:59,0:00
+2018020397,8477946,Dylan Larkin,Detroit Red Wings,Boston Bruins,C,22:37,0,1,6,1,1,0,0,100,15,15,3,0,0,0,1,-1,17:00,1:59,3:38
+2018020397,8470144,Frans Nielsen,Detroit Red Wings,Boston Bruins,C,18:03,0,1,2,0,0,0,0,44.44,4,9,0,0,0,0,0,2,11:29,2:07,4:27
+2018020397,8475324,Nick Jensen,Detroit Red Wings,Boston Bruins,D,22:39,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,1,1,16:37,0:00,6:02
+2018020397,8470598,Thomas Vanek,Detroit Red Wings,Boston Bruins,LW,11:25,0,0,1,0,0,0,0,100,1,1,0,0,0,0,0,0,9:07,2:07,0:11
+2018020397,8476822,Luke Glendening,Detroit Red Wings,Boston Bruins,C,19:57,0,0,3,1,0,0,0,59.26,16,27,0,0,0,0,4,1,14:21,0:15,5:21
+2018020397,8474722,Luke Witkowski,Detroit Red Wings,Boston Bruins,RW,5:54,0,0,0,3,0,0,5,NA,0,0,0,0,0,0,0,0,3:32,0:00,2:22
+2018020397,8477455,Jacob de la Rose,Detroit Red Wings,Boston Bruins,C,9:36,0,0,0,2,0,0,0,16.67,1,6,0,0,0,0,0,0,7:42,0:15,1:39
+2018020397,8476960,Andreas Athanasiou,Detroit Red Wings,Boston Bruins,C,14:22,0,0,0,0,0,0,0,NA,0,0,2,2,0,0,1,1,11:59,2:07,0:16
+2018020397,8477479,Tyler Bertuzzi,Detroit Red Wings,Boston Bruins,LW,13:37,0,1,3,0,0,0,2,50,1,2,0,0,0,0,0,2,12:20,1:16,0:01
+2018020397,8477215,Danny DeKeyser,Detroit Red Wings,Boston Bruins,D,22:00,1,0,2,1,0,0,2,NA,0,0,0,0,0,0,3,2,16:06,0:00,5:54
+2018020397,8477511,Anthony Mantha,Detroit Red Wings,Boston Bruins,RW,16:48,0,0,1,3,0,0,0,NA,0,0,1,1,0,0,0,-1,14:49,1:59,0:00
+2018020397,8471242,Mike Green,Detroit Red Wings,Boston Bruins,D,20:35,1,0,1,0,0,0,2,NA,0,0,0,2,0,0,1,1,17:49,2:35,0:11
+2018020397,8479992,Michael Rasmussen,Detroit Red Wings,Boston Bruins,C,12:38,1,0,0,3,0,0,0,NA,0,0,1,1,0,0,0,1,10:31,2:07,0:00
+2018020397,8479395,Dennis Cholowski,Detroit Red Wings,Boston Bruins,D,13:38,0,0,0,1,0,0,4,NA,0,0,0,0,0,0,2,-1,11:30,2:08,0:00
+2018020397,8468509,Niklas Kronwall,Detroit Red Wings,Boston Bruins,D,18:07,1,0,1,0,0,0,0,NA,0,0,0,0,0,0,2,2,16:38,0:15,1:14

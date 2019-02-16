@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020240,8473618,Mathieu Perreault,Winnipeg Jets,LW,13:38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,12:02,1:36,0:00,NA
-2018020240,8471218,Blake Wheeler,Winnipeg Jets,RW,22:09,4,1,1,0,0,2,0,0,0,1,0,0,0,1,3,16:14,2:42,3:13,NA
-2018020240,8470834,Dustin Byfuglien,Winnipeg Jets,D,24:01,1,0,2,6,0,1,4,0,0,1,3,0,0,1,1,19:59,2:42,1:20,NA
-2018020240,8477429,Andrew Copp,Winnipeg Jets,C,10:19,0,0,1,1,0,0,0,3,3,0,0,0,0,0,1,9:20,0:00,0:59,100
-2018020240,8473412,Bryan Little,Winnipeg Jets,C,13:47,0,0,1,1,0,0,2,4,12,0,0,0,0,0,-1,11:11,1:33,1:03,33.33
-2018020240,8479339,Patrik Laine,Winnipeg Jets,RW,14:44,0,1,5,1,1,0,0,1,1,0,2,0,0,0,-1,12:02,2:42,0:00,100
-2018020240,8477504,Josh Morrissey,Winnipeg Jets,D,24:38,1,0,2,2,0,0,0,0,0,1,1,0,0,1,1,17:51,1:33,5:14,NA
-2018020240,8475179,Dmitry Kulikov,Winnipeg Jets,D,6:04,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,6:04,0:00,0:00,NA
-2018020240,8478458,Jack Roslovic,Winnipeg Jets,C,5:27,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,5:27,0:00,0:00,NA
-2018020240,8474574,Tyler Myers,Winnipeg Jets,D,17:59,0,0,1,1,0,0,0,0,0,1,0,0,0,1,-1,15:14,0:00,2:45,NA
-2018020240,8475279,Ben Chiarot,Winnipeg Jets,D,19:44,0,0,0,3,0,0,0,0,0,0,1,0,0,0,1,18:19,0:00,1:25,NA
-2018020240,8476885,Jacob Trouba,Winnipeg Jets,D,25:29,0,0,1,1,0,0,0,0,0,0,2,0,0,3,0,18:42,1:33,5:14,NA
-2018020240,8477940,Nikolaj Ehlers,Winnipeg Jets,LW,16:49,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,15:16,1:33,0:00,NA
-2018020240,8476460,Mark Scheifele,Winnipeg Jets,C,22:58,2,1,3,2,0,1,0,13,25,0,1,0,0,1,3,16:55,2:42,3:21,52
-2018020240,8477464,Nic Petan,Winnipeg Jets,LW,5:45,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,5:36,0:00,0:09,NA
-2018020240,8478398,Kyle Connor,Winnipeg Jets,LW,16:58,0,1,2,0,1,0,0,0,0,0,0,0,0,0,-1,13:33,2:39,0:46,NA
-2018020240,8476392,Adam Lowry,Winnipeg Jets,C,15:47,0,0,1,3,0,0,0,9,15,1,0,0,0,0,-1,13:01,0:00,2:46,60
-2018020240,8479293,Brandon Tanev,Winnipeg Jets,LW,15:44,0,0,3,3,0,0,0,1,1,0,0,0,0,2,-1,12:04,0:00,3:40,100
-2018020240,8473446,Erik Johnson,Colorado Avalanche,D,20:20,0,1,3,4,0,0,2,0,0,0,2,0,0,3,-1,19:03,0:20,0:57,NA
-2018020240,8477507,Nikita Zadorov,Colorado Avalanche,D,12:58,1,0,2,4,0,0,0,0,0,0,0,0,0,0,1,11:49,0:00,1:09,NA
-2018020240,8474569,Colin Wilson,Colorado Avalanche,C,16:51,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,11:05,5:46,0:00,0
-2018020240,8475747,Patrik Nemeth,Colorado Avalanche,D,14:21,0,0,0,1,0,0,2,0,0,0,0,0,0,2,-1,11:05,0:00,3:16,NA
-2018020240,8477448,Marko Dano,Colorado Avalanche,C,6:20,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6:20,0:00,0:00,NA
-2018020240,8480326,Sheldon Dries,Colorado Avalanche,C,15:05,0,0,2,1,0,0,2,0,2,0,1,0,0,0,-2,13:12,0:00,1:53,0
-2018020240,8476455,Gabriel Landeskog,Colorado Avalanche,LW,22:49,0,0,1,1,0,0,0,6,9,2,0,0,0,0,0,17:07,5:42,0:00,66.67
-2018020240,8474685,Matt Calvert,Colorado Avalanche,LW,15:36,0,0,2,2,0,0,0,1,2,0,0,0,0,1,-1,13:49,0:00,1:47,50
-2018020240,8475268,Gabriel Bourque,Colorado Avalanche,LW,12:35,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,10:07,0:00,2:28,NA
-2018020240,8477973,Vladislav Kamenev,Colorado Avalanche,C,7:55,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,6:17,1:31,0:07,0
-2018020240,8477021,Alexander Kerfoot,Colorado Avalanche,C,13:59,1,0,1,0,0,0,2,6,8,0,0,0,0,2,0,12:02,1:57,0:00,75
-2018020240,8474013,Ian Cole,Colorado Avalanche,D,20:11,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,17:03,0:00,3:08,NA
-2018020240,8475197,Tyson Barrie,Colorado Avalanche,D,21:46,1,0,5,0,0,0,0,0,0,0,0,0,0,2,1,18:41,3:05,0:00,NA
-2018020240,8471262,Carl Soderberg,Colorado Avalanche,C,17:33,1,0,1,3,0,0,0,7,17,0,0,0,0,0,0,12:45,2:33,2:15,41.18
-2018020240,8479398,Samuel Girard,Colorado Avalanche,D,21:13,0,0,4,0,0,0,0,0,0,1,0,0,0,3,-2,16:19,4:54,0:00,NA
-2018020240,8478420,Mikko Rantanen,Colorado Avalanche,RW,22:49,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,17:23,5:26,0:00,NA
-2018020240,8477492,Nathan MacKinnon,Colorado Avalanche,C,23:21,0,0,3,0,0,0,0,6,15,0,0,0,0,0,-2,17:04,6:17,0:00,40
-2018020240,8479370,Tyson Jost,Colorado Avalanche,C,11:50,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,9:20,2:30,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020240,8473618,Mathieu Perreault,Winnipeg Jets,Colorado Avalanche,LW,13:38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,12:02,1:36,0:00,NA
+2018020240,8471218,Blake Wheeler,Winnipeg Jets,Colorado Avalanche,RW,22:09,4,1,1,0,0,2,0,0,0,1,0,0,0,1,3,16:14,2:42,3:13,NA
+2018020240,8470834,Dustin Byfuglien,Winnipeg Jets,Colorado Avalanche,D,24:01,1,0,2,6,0,1,4,0,0,1,3,0,0,1,1,19:59,2:42,1:20,NA
+2018020240,8477429,Andrew Copp,Winnipeg Jets,Colorado Avalanche,C,10:19,0,0,1,1,0,0,0,3,3,0,0,0,0,0,1,9:20,0:00,0:59,100
+2018020240,8473412,Bryan Little,Winnipeg Jets,Colorado Avalanche,C,13:47,0,0,1,1,0,0,2,4,12,0,0,0,0,0,-1,11:11,1:33,1:03,33.33
+2018020240,8479339,Patrik Laine,Winnipeg Jets,Colorado Avalanche,RW,14:44,0,1,5,1,1,0,0,1,1,0,2,0,0,0,-1,12:02,2:42,0:00,100
+2018020240,8477504,Josh Morrissey,Winnipeg Jets,Colorado Avalanche,D,24:38,1,0,2,2,0,0,0,0,0,1,1,0,0,1,1,17:51,1:33,5:14,NA
+2018020240,8475179,Dmitry Kulikov,Winnipeg Jets,Colorado Avalanche,D,6:04,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,6:04,0:00,0:00,NA
+2018020240,8478458,Jack Roslovic,Winnipeg Jets,Colorado Avalanche,C,5:27,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,5:27,0:00,0:00,NA
+2018020240,8474574,Tyler Myers,Winnipeg Jets,Colorado Avalanche,D,17:59,0,0,1,1,0,0,0,0,0,1,0,0,0,1,-1,15:14,0:00,2:45,NA
+2018020240,8475279,Ben Chiarot,Winnipeg Jets,Colorado Avalanche,D,19:44,0,0,0,3,0,0,0,0,0,0,1,0,0,0,1,18:19,0:00,1:25,NA
+2018020240,8476885,Jacob Trouba,Winnipeg Jets,Colorado Avalanche,D,25:29,0,0,1,1,0,0,0,0,0,0,2,0,0,3,0,18:42,1:33,5:14,NA
+2018020240,8477940,Nikolaj Ehlers,Winnipeg Jets,Colorado Avalanche,LW,16:49,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,15:16,1:33,0:00,NA
+2018020240,8476460,Mark Scheifele,Winnipeg Jets,Colorado Avalanche,C,22:58,2,1,3,2,0,1,0,13,25,0,1,0,0,1,3,16:55,2:42,3:21,52
+2018020240,8477464,Nic Petan,Winnipeg Jets,Colorado Avalanche,LW,5:45,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,5:36,0:00,0:09,NA
+2018020240,8478398,Kyle Connor,Winnipeg Jets,Colorado Avalanche,LW,16:58,0,1,2,0,1,0,0,0,0,0,0,0,0,0,-1,13:33,2:39,0:46,NA
+2018020240,8476392,Adam Lowry,Winnipeg Jets,Colorado Avalanche,C,15:47,0,0,1,3,0,0,0,9,15,1,0,0,0,0,-1,13:01,0:00,2:46,60
+2018020240,8479293,Brandon Tanev,Winnipeg Jets,Colorado Avalanche,LW,15:44,0,0,3,3,0,0,0,1,1,0,0,0,0,2,-1,12:04,0:00,3:40,100
+2018020240,8473446,Erik Johnson,Colorado Avalanche,Winnipeg Jets,D,20:20,0,1,3,4,0,0,2,0,0,0,2,0,0,3,-1,19:03,0:20,0:57,NA
+2018020240,8477507,Nikita Zadorov,Colorado Avalanche,Winnipeg Jets,D,12:58,1,0,2,4,0,0,0,0,0,0,0,0,0,0,1,11:49,0:00,1:09,NA
+2018020240,8474569,Colin Wilson,Colorado Avalanche,Winnipeg Jets,C,16:51,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,11:05,5:46,0:00,0
+2018020240,8475747,Patrik Nemeth,Colorado Avalanche,Winnipeg Jets,D,14:21,0,0,0,1,0,0,2,0,0,0,0,0,0,2,-1,11:05,0:00,3:16,NA
+2018020240,8477448,Marko Dano,Colorado Avalanche,Winnipeg Jets,C,6:20,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6:20,0:00,0:00,NA
+2018020240,8480326,Sheldon Dries,Colorado Avalanche,Winnipeg Jets,C,15:05,0,0,2,1,0,0,2,0,2,0,1,0,0,0,-2,13:12,0:00,1:53,0
+2018020240,8476455,Gabriel Landeskog,Colorado Avalanche,Winnipeg Jets,LW,22:49,0,0,1,1,0,0,0,6,9,2,0,0,0,0,0,17:07,5:42,0:00,66.67
+2018020240,8474685,Matt Calvert,Colorado Avalanche,Winnipeg Jets,LW,15:36,0,0,2,2,0,0,0,1,2,0,0,0,0,1,-1,13:49,0:00,1:47,50
+2018020240,8475268,Gabriel Bourque,Colorado Avalanche,Winnipeg Jets,LW,12:35,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,10:07,0:00,2:28,NA
+2018020240,8477973,Vladislav Kamenev,Colorado Avalanche,Winnipeg Jets,C,7:55,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,6:17,1:31,0:07,0
+2018020240,8477021,Alexander Kerfoot,Colorado Avalanche,Winnipeg Jets,C,13:59,1,0,1,0,0,0,2,6,8,0,0,0,0,2,0,12:02,1:57,0:00,75
+2018020240,8474013,Ian Cole,Colorado Avalanche,Winnipeg Jets,D,20:11,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,17:03,0:00,3:08,NA
+2018020240,8475197,Tyson Barrie,Colorado Avalanche,Winnipeg Jets,D,21:46,1,0,5,0,0,0,0,0,0,0,0,0,0,2,1,18:41,3:05,0:00,NA
+2018020240,8471262,Carl Soderberg,Colorado Avalanche,Winnipeg Jets,C,17:33,1,0,1,3,0,0,0,7,17,0,0,0,0,0,0,12:45,2:33,2:15,41.18
+2018020240,8479398,Samuel Girard,Colorado Avalanche,Winnipeg Jets,D,21:13,0,0,4,0,0,0,0,0,0,1,0,0,0,3,-2,16:19,4:54,0:00,NA
+2018020240,8478420,Mikko Rantanen,Colorado Avalanche,Winnipeg Jets,RW,22:49,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,17:23,5:26,0:00,NA
+2018020240,8477492,Nathan MacKinnon,Colorado Avalanche,Winnipeg Jets,C,23:21,0,0,3,0,0,0,0,6,15,0,0,0,0,0,-2,17:04,6:17,0:00,40
+2018020240,8479370,Tyson Jost,Colorado Avalanche,Winnipeg Jets,C,11:50,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,9:20,2:30,0:00,NA

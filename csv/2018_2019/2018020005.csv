@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020005,8469506,Jason Pominville,Buffalo Sabres,RW,11:57,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,11:45,0:12,0:00,NA
-2018020005,8474618,Marco Scandella,Buffalo Sabres,D,18:50,0,0,5,1,0,0,0,0,0,0,1,0,0,0,-1,18:11,0:12,0:27,NA
-2018020005,8473534,Patrik Berglund,Buffalo Sabres,C,15:16,0,0,1,3,0,0,0,3,6,0,1,0,0,1,-1,12:57,1:10,1:09,50
-2018020005,8477839,Conor Sheary,Buffalo Sabres,LW,14:25,0,0,2,1,0,0,0,2,2,0,2,0,0,0,-1,14:05,0:20,0:00,100
-2018020005,8476931,Jake McCabe,Buffalo Sabres,D,18:22,0,0,2,4,0,0,0,0,0,0,0,0,0,1,-1,17:13,0:00,1:09,NA
-2018020005,8473449,Kyle Okposo,Buffalo Sabres,RW,16:20,0,0,2,1,0,0,0,0,0,1,3,0,0,0,-1,15:03,1:17,0:00,NA
-2018020005,8479999,Casey Mittelstadt,Buffalo Sabres,C,14:03,0,0,1,0,0,0,0,5,8,0,0,0,0,0,-1,13:09,0:54,0:00,62.5
-2018020005,8471743,Vladimir Sobotka,Buffalo Sabres,C,18:42,0,0,1,2,0,0,4,8,14,0,0,0,0,0,0,18:42,0:00,0:00,57.14
-2018020005,8477933,Sam Reinhart,Buffalo Sabres,C,20:17,0,0,3,0,0,0,0,0,0,0,1,0,0,0,-2,18:10,2:07,0:00,NA
-2018020005,8476878,Zemgus Girgensons,Buffalo Sabres,C,13:02,0,0,0,3,0,0,0,1,4,0,0,0,0,0,0,11:41,0:12,1:09,25
-2018020005,8477499,Rasmus Ristolainen,Buffalo Sabres,D,24:12,0,0,2,5,0,0,0,0,0,0,2,0,0,2,-2,22:19,1:26,0:27,NA
-2018020005,8478403,Jack Eichel,Buffalo Sabres,C,21:31,0,0,4,2,0,0,0,9,15,0,2,0,0,1,-2,19:04,2:00,0:27,60
-2018020005,8475784,Jeff Skinner,Buffalo Sabres,C,17:01,0,0,2,0,0,0,0,4,5,0,2,0,0,2,-2,14:54,2:07,0:00,80
-2018020005,8479268,Casey Nelson,Buffalo Sabres,D,19:07,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,17:46,0:12,1:09,NA
-2018020005,8478542,Evan Rodrigues,Buffalo Sabres,LW,11:58,0,0,2,0,0,0,0,5,11,0,0,0,0,0,0,11:19,0:12,0:27,45.45
-2018020005,8480839,Rasmus Dahlin,Buffalo Sabres,D,22:37,0,0,0,2,0,0,0,0,0,0,1,0,0,0,-1,21:36,1:01,0:00,NA
-2018020005,8479420,Tage Thompson,Buffalo Sabres,C,11:22,0,0,0,1,0,0,0,1,2,0,1,0,0,0,-1,11:02,0:20,0:00,50
-2018020005,8476470,Nathan Beaulieu,Buffalo Sabres,D,14:13,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,14:13,0:00,0:00,NA
-2018020005,8470638,Patrice Bergeron,Boston Bruins,C,15:56,1,1,2,1,0,1,0,12,27,0,1,1,0,1,2,14:18,0:23,1:15,44.44
-2018020005,8473419,Brad Marchand,Boston Bruins,LW,17:10,4,0,0,0,0,1,0,0,1,0,1,0,1,0,3,15:32,0:23,1:15,0
-2018020005,8475807,Joakim Nordstrom,Boston Bruins,C,14:45,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,13:39,0:00,1:06,NA
-2018020005,8471276,David Krejci,Boston Bruins,C,16:38,1,0,1,0,0,0,0,4,11,0,0,0,0,0,1,15:25,1:13,0:00,36.36
-2018020005,8477987,Ryan Donato,Boston Bruins,C,12:45,0,1,2,0,1,0,0,0,2,0,0,0,0,0,0,12:22,0:23,0:00,0
-2018020005,8470655,David Backes,Boston Bruins,RW,16:31,0,0,1,1,0,0,0,1,2,0,0,0,0,0,0,15:00,1:13,0:18,50
-2018020005,8478569,Noel Acciari,Boston Bruins,C,14:16,0,0,2,2,0,0,0,5,11,0,1,0,0,0,0,13:22,0:00,0:54,45.45
-2018020005,8477956,David Pastrnak,Boston Bruins,RW,16:03,0,1,6,2,0,0,0,0,0,1,1,0,0,0,2,15:40,0:23,0:00,NA
-2018020005,8479325,Charlie McAvoy,Boston Bruins,D,22:40,1,0,2,0,0,0,2,0,0,0,0,0,0,1,2,21:27,1:13,0:00,NA
-2018020005,8478443,Brandon Carlo,Boston Bruins,D,17:39,0,0,0,2,0,0,0,0,0,0,1,0,0,1,1,16:12,0:00,1:27,NA
-2018020005,8475186,John Moore,Boston Bruins,D,16:58,0,0,1,0,0,0,0,0,0,0,1,0,0,1,2,15:25,0:00,1:33,NA
-2018020005,8476891,Matt Grzelcyk,Boston Bruins,D,15:28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15:05,0:23,0:00,NA
-2018020005,8476374,Sean Kuraly,Boston Bruins,C,14:19,0,0,1,1,0,0,0,7,13,0,0,0,0,3,0,13:49,0:00,0:30,53.85
-2018020005,8478498,Jake DeBrusk,Boston Bruins,LW,15:26,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,14:13,1:13,0:00,NA
-2018020005,8478046,Danton Heinen,Boston Bruins,C,13:34,0,0,1,0,0,0,2,0,0,0,0,0,0,1,0,12:21,1:13,0:00,NA
-2018020005,8478075,Anders Bjork,Boston Bruins,LW,11:34,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,11:34,0:00,0:00,NA
-2018020005,8465009,Zdeno Chara,Boston Bruins,D,25:55,0,1,2,1,0,0,2,0,0,0,0,0,0,1,1,24:49,0:00,1:06,NA
-2018020005,8476191,Kevan Miller,Boston Bruins,D,19:44,0,0,2,1,0,0,0,0,0,0,0,0,0,3,0,18:32,0:00,1:12,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020005,8469506,Jason Pominville,Buffalo Sabres,Boston Bruins,RW,11:57,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,11:45,0:12,0:00,NA
+2018020005,8474618,Marco Scandella,Buffalo Sabres,Boston Bruins,D,18:50,0,0,5,1,0,0,0,0,0,0,1,0,0,0,-1,18:11,0:12,0:27,NA
+2018020005,8473534,Patrik Berglund,Buffalo Sabres,Boston Bruins,C,15:16,0,0,1,3,0,0,0,3,6,0,1,0,0,1,-1,12:57,1:10,1:09,50
+2018020005,8477839,Conor Sheary,Buffalo Sabres,Boston Bruins,LW,14:25,0,0,2,1,0,0,0,2,2,0,2,0,0,0,-1,14:05,0:20,0:00,100
+2018020005,8476931,Jake McCabe,Buffalo Sabres,Boston Bruins,D,18:22,0,0,2,4,0,0,0,0,0,0,0,0,0,1,-1,17:13,0:00,1:09,NA
+2018020005,8473449,Kyle Okposo,Buffalo Sabres,Boston Bruins,RW,16:20,0,0,2,1,0,0,0,0,0,1,3,0,0,0,-1,15:03,1:17,0:00,NA
+2018020005,8479999,Casey Mittelstadt,Buffalo Sabres,Boston Bruins,C,14:03,0,0,1,0,0,0,0,5,8,0,0,0,0,0,-1,13:09,0:54,0:00,62.5
+2018020005,8471743,Vladimir Sobotka,Buffalo Sabres,Boston Bruins,C,18:42,0,0,1,2,0,0,4,8,14,0,0,0,0,0,0,18:42,0:00,0:00,57.14
+2018020005,8477933,Sam Reinhart,Buffalo Sabres,Boston Bruins,C,20:17,0,0,3,0,0,0,0,0,0,0,1,0,0,0,-2,18:10,2:07,0:00,NA
+2018020005,8476878,Zemgus Girgensons,Buffalo Sabres,Boston Bruins,C,13:02,0,0,0,3,0,0,0,1,4,0,0,0,0,0,0,11:41,0:12,1:09,25
+2018020005,8477499,Rasmus Ristolainen,Buffalo Sabres,Boston Bruins,D,24:12,0,0,2,5,0,0,0,0,0,0,2,0,0,2,-2,22:19,1:26,0:27,NA
+2018020005,8478403,Jack Eichel,Buffalo Sabres,Boston Bruins,C,21:31,0,0,4,2,0,0,0,9,15,0,2,0,0,1,-2,19:04,2:00,0:27,60
+2018020005,8475784,Jeff Skinner,Buffalo Sabres,Boston Bruins,C,17:01,0,0,2,0,0,0,0,4,5,0,2,0,0,2,-2,14:54,2:07,0:00,80
+2018020005,8479268,Casey Nelson,Buffalo Sabres,Boston Bruins,D,19:07,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,17:46,0:12,1:09,NA
+2018020005,8478542,Evan Rodrigues,Buffalo Sabres,Boston Bruins,LW,11:58,0,0,2,0,0,0,0,5,11,0,0,0,0,0,0,11:19,0:12,0:27,45.45
+2018020005,8480839,Rasmus Dahlin,Buffalo Sabres,Boston Bruins,D,22:37,0,0,0,2,0,0,0,0,0,0,1,0,0,0,-1,21:36,1:01,0:00,NA
+2018020005,8479420,Tage Thompson,Buffalo Sabres,Boston Bruins,C,11:22,0,0,0,1,0,0,0,1,2,0,1,0,0,0,-1,11:02,0:20,0:00,50
+2018020005,8476470,Nathan Beaulieu,Buffalo Sabres,Boston Bruins,D,14:13,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,14:13,0:00,0:00,NA
+2018020005,8470638,Patrice Bergeron,Boston Bruins,Buffalo Sabres,C,15:56,1,1,2,1,0,1,0,12,27,0,1,1,0,1,2,14:18,0:23,1:15,44.44
+2018020005,8473419,Brad Marchand,Boston Bruins,Buffalo Sabres,LW,17:10,4,0,0,0,0,1,0,0,1,0,1,0,1,0,3,15:32,0:23,1:15,0
+2018020005,8475807,Joakim Nordstrom,Boston Bruins,Buffalo Sabres,C,14:45,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,13:39,0:00,1:06,NA
+2018020005,8471276,David Krejci,Boston Bruins,Buffalo Sabres,C,16:38,1,0,1,0,0,0,0,4,11,0,0,0,0,0,1,15:25,1:13,0:00,36.36
+2018020005,8477987,Ryan Donato,Boston Bruins,Buffalo Sabres,C,12:45,0,1,2,0,1,0,0,0,2,0,0,0,0,0,0,12:22,0:23,0:00,0
+2018020005,8470655,David Backes,Boston Bruins,Buffalo Sabres,RW,16:31,0,0,1,1,0,0,0,1,2,0,0,0,0,0,0,15:00,1:13,0:18,50
+2018020005,8478569,Noel Acciari,Boston Bruins,Buffalo Sabres,C,14:16,0,0,2,2,0,0,0,5,11,0,1,0,0,0,0,13:22,0:00,0:54,45.45
+2018020005,8477956,David Pastrnak,Boston Bruins,Buffalo Sabres,RW,16:03,0,1,6,2,0,0,0,0,0,1,1,0,0,0,2,15:40,0:23,0:00,NA
+2018020005,8479325,Charlie McAvoy,Boston Bruins,Buffalo Sabres,D,22:40,1,0,2,0,0,0,2,0,0,0,0,0,0,1,2,21:27,1:13,0:00,NA
+2018020005,8478443,Brandon Carlo,Boston Bruins,Buffalo Sabres,D,17:39,0,0,0,2,0,0,0,0,0,0,1,0,0,1,1,16:12,0:00,1:27,NA
+2018020005,8475186,John Moore,Boston Bruins,Buffalo Sabres,D,16:58,0,0,1,0,0,0,0,0,0,0,1,0,0,1,2,15:25,0:00,1:33,NA
+2018020005,8476891,Matt Grzelcyk,Boston Bruins,Buffalo Sabres,D,15:28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15:05,0:23,0:00,NA
+2018020005,8476374,Sean Kuraly,Boston Bruins,Buffalo Sabres,C,14:19,0,0,1,1,0,0,0,7,13,0,0,0,0,3,0,13:49,0:00,0:30,53.85
+2018020005,8478498,Jake DeBrusk,Boston Bruins,Buffalo Sabres,LW,15:26,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,14:13,1:13,0:00,NA
+2018020005,8478046,Danton Heinen,Boston Bruins,Buffalo Sabres,C,13:34,0,0,1,0,0,0,2,0,0,0,0,0,0,1,0,12:21,1:13,0:00,NA
+2018020005,8478075,Anders Bjork,Boston Bruins,Buffalo Sabres,LW,11:34,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,11:34,0:00,0:00,NA
+2018020005,8465009,Zdeno Chara,Boston Bruins,Buffalo Sabres,D,25:55,0,1,2,1,0,0,2,0,0,0,0,0,0,1,1,24:49,0:00,1:06,NA
+2018020005,8476191,Kevan Miller,Boston Bruins,Buffalo Sabres,D,19:44,0,0,2,1,0,0,0,0,0,0,0,0,0,3,0,18:32,0:00,1:12,NA

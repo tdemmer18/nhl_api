@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020801,8466138,Joe Thornton,San Jose Sharks,C,15:16,1,0,1,0,0,0,0,71.43,5,7,0,1,0,0,0,0,13:15,2:01,0:00
-2018020801,8470613,Brent Burns,San Jose Sharks,D,29:54,1,1,8,0,0,0,2,NA,0,0,2,0,0,0,1,1,21:28,3:20,5:06
-2018020801,8480160,Radim Simek,San Jose Sharks,D,18:16,0,0,0,3,0,0,0,NA,0,0,0,0,0,0,2,0,15:41,0:00,2:35
-2018020801,8471709,Marc-Edouard Vlasic,San Jose Sharks,D,23:59,0,0,1,2,0,0,0,NA,0,0,1,2,0,0,0,-1,16:52,0:40,6:27
-2018020801,8470794,Joe Pavelski,San Jose Sharks,C,18:47,0,1,3,0,0,0,0,50,6,12,0,0,0,0,1,0,14:41,1:59,2:07
-2018020801,8475834,Marcus Sorensen,San Jose Sharks,LW,10:29,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,0,10:12,0:00,0:17
-2018020801,8474027,Justin Braun,San Jose Sharks,D,21:13,0,0,1,1,0,0,2,NA,0,0,0,1,0,0,2,1,17:26,0:00,3:47
-2018020801,8475841,Tim Heed,San Jose Sharks,D,11:52,0,0,2,1,0,0,2,NA,0,0,0,0,0,0,0,-1,10:17,1:35,0:00
-2018020801,8475820,Joonas Donskoi,San Jose Sharks,RW,12:47,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,1,0,12:47,0:00,0:00
-2018020801,8476624,Barclay Goodrow,San Jose Sharks,RW,12:03,0,0,1,3,0,0,0,66.67,2,3,1,0,0,0,2,0,9:40,0:00,2:23
-2018020801,8477922,Melker Karlsson,San Jose Sharks,C,12:55,0,0,0,5,0,0,0,NA,0,0,2,0,0,0,0,0,10:16,0:00,2:39
-2018020801,8474053,Logan Couture,San Jose Sharks,C,18:24,1,0,1,2,0,0,0,50,2,4,1,0,0,0,0,0,12:53,1:54,3:37
-2018020801,8478414,Timo Meier,San Jose Sharks,RW,15:42,1,0,3,0,0,0,0,100,1,1,0,1,0,0,0,0,13:03,2:06,0:33
-2018020801,8475455,Brenden Dillon,San Jose Sharks,D,16:42,0,0,0,3,0,0,2,NA,0,0,0,0,0,0,1,1,15:27,0:00,1:15
-2018020801,8475169,Evander Kane,San Jose Sharks,LW,19:39,0,0,8,1,0,0,0,66.67,2,3,0,3,0,0,0,0,15:45,1:56,1:58
-2018020801,8478099,Kevin Labanc,San Jose Sharks,RW,11:43,0,1,2,3,0,0,0,0,0,1,0,0,0,0,0,1,9:18,2:25,0:00
-2018020801,8476881,Tomas Hertl,San Jose Sharks,C,20:56,1,0,2,0,0,0,0,50,9,18,0,3,0,0,1,1,14:51,2:04,4:01
-2018020801,8480780,Lukas Radil,San Jose Sharks,C,9:10,0,0,0,2,0,0,0,NA,0,0,0,0,0,0,0,0,9:10,0:00,0:00
-2018020801,8471769,Niklas Hjalmarsson,Arizona Coyotes,D,18:24,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,3,0,15:02,0:00,3:22
-2018020801,8474613,Derek Stepan,Arizona Coyotes,C,19:16,0,0,2,0,0,0,0,57.89,11,19,1,0,0,0,1,0,12:52,4:16,2:08
-2018020801,8475209,Richard Panik,Arizona Coyotes,RW,17:02,0,0,3,2,0,0,0,NA,0,0,0,0,0,0,0,-1,13:12,3:01,0:49
-2018020801,8475738,Jordan Weal,Arizona Coyotes,C,10:10,0,0,2,0,0,0,0,50,4,8,1,0,0,0,0,1,9:59,0:00,0:11
-2018020801,8478856,Conor Garland,Arizona Coyotes,RW,14:06,0,1,1,1,0,0,0,NA,0,0,1,0,0,0,0,1,8:57,5:09,0:00
-2018020801,8476326,Josh Archibald,Arizona Coyotes,RW,13:10,0,1,2,3,0,0,0,NA,0,0,0,0,0,0,0,0,11:15,0:03,1:52
-2018020801,8474131,Mario Kempe,Arizona Coyotes,RW,10:45,1,0,0,2,0,0,0,20,1,5,0,0,0,0,0,0,10:19,0:00,0:26
-2018020801,8477851,Jordan Oesterle,Arizona Coyotes,D,21:39,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,4,-1,18:13,3:26,0:00
-2018020801,8476994,Vinnie Hinostroza,Arizona Coyotes,C,15:15,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,2,0,14:37,0:00,0:38
-2018020801,8476851,Alex Galchenyuk,Arizona Coyotes,C,20:46,0,0,0,1,0,0,0,14.29,1,7,0,3,0,0,2,-1,13:40,7:01,0:05
-2018020801,8475246,Kevin Connauton,Arizona Coyotes,D,16:29,0,0,4,1,0,0,0,NA,0,0,0,1,0,0,0,1,13:07,0:00,3:22
-2018020801,8471274,Alex Goligoski,Arizona Coyotes,D,22:35,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,2,-1,18:57,3:00,0:38
-2018020801,8478474,Lawson Crouse,Arizona Coyotes,LW,13:59,1,0,4,6,0,0,0,33.33,1,3,0,0,0,0,0,0,12:05,0:03,1:51
-2018020801,8478432,Christian Fischer,Arizona Coyotes,RW,10:25,0,0,2,2,0,0,0,NA,0,0,0,1,0,0,0,1,8:08,2:17,0:00
-2018020801,8479343,Clayton Keller,Arizona Coyotes,C,23:08,0,0,7,0,0,0,0,NA,0,0,2,1,0,0,0,-2,16:11,6:57,0:00
-2018020801,8475171,Oliver Ekman-Larsson,Arizona Coyotes,D,26:30,0,0,1,0,0,0,2,NA,0,0,1,2,0,0,0,-1,19:25,6:27,0:38
-2018020801,8476393,Nick Cousins,Arizona Coyotes,C,20:40,0,0,4,1,0,0,0,57.14,4,7,2,1,0,0,2,-1,15:35,5:05,0:00
-2018020801,8480950,Ilya Lyubushkin,Arizona Coyotes,D,11:48,0,0,0,2,0,0,2,NA,0,0,0,0,0,0,1,1,11:48,0:00,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020801,8466138,Joe Thornton,San Jose Sharks,Arizona Coyotes,C,15:16,1,0,1,0,0,0,0,71.43,5,7,0,1,0,0,0,0,13:15,2:01,0:00
+2018020801,8470613,Brent Burns,San Jose Sharks,Arizona Coyotes,D,29:54,1,1,8,0,0,0,2,NA,0,0,2,0,0,0,1,1,21:28,3:20,5:06
+2018020801,8480160,Radim Simek,San Jose Sharks,Arizona Coyotes,D,18:16,0,0,0,3,0,0,0,NA,0,0,0,0,0,0,2,0,15:41,0:00,2:35
+2018020801,8471709,Marc-Edouard Vlasic,San Jose Sharks,Arizona Coyotes,D,23:59,0,0,1,2,0,0,0,NA,0,0,1,2,0,0,0,-1,16:52,0:40,6:27
+2018020801,8470794,Joe Pavelski,San Jose Sharks,Arizona Coyotes,C,18:47,0,1,3,0,0,0,0,50,6,12,0,0,0,0,1,0,14:41,1:59,2:07
+2018020801,8475834,Marcus Sorensen,San Jose Sharks,Arizona Coyotes,LW,10:29,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,0,10:12,0:00,0:17
+2018020801,8474027,Justin Braun,San Jose Sharks,Arizona Coyotes,D,21:13,0,0,1,1,0,0,2,NA,0,0,0,1,0,0,2,1,17:26,0:00,3:47
+2018020801,8475841,Tim Heed,San Jose Sharks,Arizona Coyotes,D,11:52,0,0,2,1,0,0,2,NA,0,0,0,0,0,0,0,-1,10:17,1:35,0:00
+2018020801,8475820,Joonas Donskoi,San Jose Sharks,Arizona Coyotes,RW,12:47,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,1,0,12:47,0:00,0:00
+2018020801,8476624,Barclay Goodrow,San Jose Sharks,Arizona Coyotes,RW,12:03,0,0,1,3,0,0,0,66.67,2,3,1,0,0,0,2,0,9:40,0:00,2:23
+2018020801,8477922,Melker Karlsson,San Jose Sharks,Arizona Coyotes,C,12:55,0,0,0,5,0,0,0,NA,0,0,2,0,0,0,0,0,10:16,0:00,2:39
+2018020801,8474053,Logan Couture,San Jose Sharks,Arizona Coyotes,C,18:24,1,0,1,2,0,0,0,50,2,4,1,0,0,0,0,0,12:53,1:54,3:37
+2018020801,8478414,Timo Meier,San Jose Sharks,Arizona Coyotes,RW,15:42,1,0,3,0,0,0,0,100,1,1,0,1,0,0,0,0,13:03,2:06,0:33
+2018020801,8475455,Brenden Dillon,San Jose Sharks,Arizona Coyotes,D,16:42,0,0,0,3,0,0,2,NA,0,0,0,0,0,0,1,1,15:27,0:00,1:15
+2018020801,8475169,Evander Kane,San Jose Sharks,Arizona Coyotes,LW,19:39,0,0,8,1,0,0,0,66.67,2,3,0,3,0,0,0,0,15:45,1:56,1:58
+2018020801,8478099,Kevin Labanc,San Jose Sharks,Arizona Coyotes,RW,11:43,0,1,2,3,0,0,0,0,0,1,0,0,0,0,0,1,9:18,2:25,0:00
+2018020801,8476881,Tomas Hertl,San Jose Sharks,Arizona Coyotes,C,20:56,1,0,2,0,0,0,0,50,9,18,0,3,0,0,1,1,14:51,2:04,4:01
+2018020801,8480780,Lukas Radil,San Jose Sharks,Arizona Coyotes,C,9:10,0,0,0,2,0,0,0,NA,0,0,0,0,0,0,0,0,9:10,0:00,0:00
+2018020801,8471769,Niklas Hjalmarsson,Arizona Coyotes,San Jose Sharks,D,18:24,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,3,0,15:02,0:00,3:22
+2018020801,8474613,Derek Stepan,Arizona Coyotes,San Jose Sharks,C,19:16,0,0,2,0,0,0,0,57.89,11,19,1,0,0,0,1,0,12:52,4:16,2:08
+2018020801,8475209,Richard Panik,Arizona Coyotes,San Jose Sharks,RW,17:02,0,0,3,2,0,0,0,NA,0,0,0,0,0,0,0,-1,13:12,3:01,0:49
+2018020801,8475738,Jordan Weal,Arizona Coyotes,San Jose Sharks,C,10:10,0,0,2,0,0,0,0,50,4,8,1,0,0,0,0,1,9:59,0:00,0:11
+2018020801,8478856,Conor Garland,Arizona Coyotes,San Jose Sharks,RW,14:06,0,1,1,1,0,0,0,NA,0,0,1,0,0,0,0,1,8:57,5:09,0:00
+2018020801,8476326,Josh Archibald,Arizona Coyotes,San Jose Sharks,RW,13:10,0,1,2,3,0,0,0,NA,0,0,0,0,0,0,0,0,11:15,0:03,1:52
+2018020801,8474131,Mario Kempe,Arizona Coyotes,San Jose Sharks,RW,10:45,1,0,0,2,0,0,0,20,1,5,0,0,0,0,0,0,10:19,0:00,0:26
+2018020801,8477851,Jordan Oesterle,Arizona Coyotes,San Jose Sharks,D,21:39,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,4,-1,18:13,3:26,0:00
+2018020801,8476994,Vinnie Hinostroza,Arizona Coyotes,San Jose Sharks,C,15:15,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,2,0,14:37,0:00,0:38
+2018020801,8476851,Alex Galchenyuk,Arizona Coyotes,San Jose Sharks,C,20:46,0,0,0,1,0,0,0,14.29,1,7,0,3,0,0,2,-1,13:40,7:01,0:05
+2018020801,8475246,Kevin Connauton,Arizona Coyotes,San Jose Sharks,D,16:29,0,0,4,1,0,0,0,NA,0,0,0,1,0,0,0,1,13:07,0:00,3:22
+2018020801,8471274,Alex Goligoski,Arizona Coyotes,San Jose Sharks,D,22:35,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,2,-1,18:57,3:00,0:38
+2018020801,8478474,Lawson Crouse,Arizona Coyotes,San Jose Sharks,LW,13:59,1,0,4,6,0,0,0,33.33,1,3,0,0,0,0,0,0,12:05,0:03,1:51
+2018020801,8478432,Christian Fischer,Arizona Coyotes,San Jose Sharks,RW,10:25,0,0,2,2,0,0,0,NA,0,0,0,1,0,0,0,1,8:08,2:17,0:00
+2018020801,8479343,Clayton Keller,Arizona Coyotes,San Jose Sharks,C,23:08,0,0,7,0,0,0,0,NA,0,0,2,1,0,0,0,-2,16:11,6:57,0:00
+2018020801,8475171,Oliver Ekman-Larsson,Arizona Coyotes,San Jose Sharks,D,26:30,0,0,1,0,0,0,2,NA,0,0,1,2,0,0,0,-1,19:25,6:27,0:38
+2018020801,8476393,Nick Cousins,Arizona Coyotes,San Jose Sharks,C,20:40,0,0,4,1,0,0,0,57.14,4,7,2,1,0,0,2,-1,15:35,5:05,0:00
+2018020801,8480950,Ilya Lyubushkin,Arizona Coyotes,San Jose Sharks,D,11:48,0,0,0,2,0,0,2,NA,0,0,0,0,0,0,1,1,11:48,0:00,0:00

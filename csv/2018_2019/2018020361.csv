@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020361,8470604,Jeff Carter,Los Angeles Kings,C,22:04,1,0,1,1,0,1,2,70,14,20,0,1,0,0,0,0,15:11,5:30,1:23
-2018020361,8470602,Dion Phaneuf,Los Angeles Kings,D,11:56,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,0,10:59,0:57,0:00
-2018020361,8470606,Dustin Brown,Los Angeles Kings,RW,21:39,0,3,5,3,2,0,0,NA,0,0,1,1,0,0,1,2,14:01,5:49,1:49
-2018020361,8471685,Anze Kopitar,Los Angeles Kings,C,24:26,2,1,3,0,0,1,2,48,12,25,0,2,0,0,1,2,16:36,5:49,2:01
-2018020361,8475726,Tyler Toffoli,Los Angeles Kings,RW,17:40,0,0,0,0,0,0,2,100,1,1,0,1,0,0,1,0,12:00,4:36,1:04
-2018020361,8470775,Nate Thompson,Los Angeles Kings,C,13:23,1,0,0,0,0,0,0,83.33,5,6,0,0,0,0,1,2,10:26,1:04,1:53
-2018020361,8477960,Adrian Kempe,Los Angeles Kings,C,14:59,0,0,0,0,0,0,0,33.33,4,12,0,2,0,0,0,0,13:09,1:12,0:38
-2018020361,8478455,Austin Wagner,Los Angeles Kings,LW,12:11,0,0,2,3,0,0,0,100,1,1,0,0,0,0,1,-1,11:52,0:19,0:00
-2018020361,8476983,Paul LaDue,Los Angeles Kings,D,9:55,0,0,0,2,0,0,0,NA,0,0,0,2,0,0,1,0,9:55,0:00,0:00
-2018020361,8474162,Jake Muzzin,Los Angeles Kings,D,18:50,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,0,0,16:03,0:30,2:17
-2018020361,8474563,Drew Doughty,Los Angeles Kings,D,30:18,1,0,5,4,0,1,0,NA,0,0,0,4,0,0,2,2,22:03,5:53,2:22
-2018020361,8475762,Derek Forbort,Los Angeles Kings,D,24:16,2,0,3,0,0,0,0,NA,0,0,0,0,0,0,2,2,21:16,0:50,2:10
-2018020361,8479644,Matt Luff,Los Angeles Kings,RW,16:34,0,1,3,1,0,0,0,0,0,1,0,0,0,0,1,0,16:15,0:19,0:00
-2018020361,8474166,Alec Martinez,Los Angeles Kings,D,17:34,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,2,0,15:25,0:04,2:05
-2018020361,8469454,Ilya Kovalchuk,Los Angeles Kings,LW,6:20,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,4:50,1:30,0:00
-2018020361,8475160,Kyle Clifford,Los Angeles Kings,LW,12:42,0,0,3,3,0,0,0,NA,0,0,0,0,0,0,0,0,12:36,0:00,0:06
-2018020361,8478020,Michael Amadio,Los Angeles Kings,C,4:59,0,0,0,0,0,0,0,60,3,5,0,0,0,0,0,0,4:40,0:19,0:00
-2018020361,8480113,Alex Iafallo,Los Angeles Kings,LW,16:58,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,1,1,15:39,1:19,0:00
-2018020361,8470803,Kyle Brodziak,Edmonton Oilers,C,13:05,0,0,4,0,0,0,2,44.44,8,18,0,2,0,0,3,0,11:13,0:00,1:52
-2018020361,8471729,Kris Russell,Edmonton Oilers,D,20:57,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,1,0,16:54,0:14,3:49
-2018020361,8475857,Kevin Gravel,Edmonton Oilers,D,11:44,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,2,-1,10:26,0:00,1:18
-2018020361,8476915,Jujhar Khaira,Edmonton Oilers,LW,8:32,0,0,0,3,0,0,2,33.33,1,3,1,0,0,0,0,0,7:07,0:00,1:25
-2018020361,8475727,Ryan Spooner,Edmonton Oilers,C,16:41,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,-1,15:38,1:03,0:00
-2018020361,8476457,Adam Larsson,Edmonton Oilers,D,22:07,0,0,2,0,0,0,0,NA,0,0,0,3,0,0,2,0,18:59,0:06,3:02
-2018020361,8475227,Chris Wideman,Edmonton Oilers,D,13:31,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,-2,12:28,1:03,0:00
-2018020361,8477934,Leon Draisaitl,Edmonton Oilers,C,24:24,0,0,1,0,0,0,0,43.75,7,16,0,1,0,0,0,-2,17:53,3:24,3:07
-2018020361,8476427,Ty Rattie,Edmonton Oilers,RW,3:32,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,3:32,0:00,0:00
-2018020361,8477498,Darnell Nurse,Edmonton Oilers,D,22:27,0,0,1,0,0,0,0,NA,0,0,0,2,0,0,3,-1,17:38,1:17,3:32
-2018020361,8475178,Zack Kassian,Edmonton Oilers,RW,12:59,0,0,3,1,0,0,0,NA,0,0,0,0,0,0,0,0,11:23,0:00,1:36
-2018020361,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,C,20:44,1,0,2,1,0,0,0,43.48,10,23,0,0,0,0,0,-1,14:30,3:04,3:10
-2018020361,8478402,Connor McDavid,Edmonton Oilers,C,24:27,1,0,4,0,0,1,2,55.56,5,9,0,0,0,0,0,-2,20:33,3:24,0:30
-2018020361,8479465,Drake Caggiula,Edmonton Oilers,LW,14:31,0,0,0,1,0,0,0,NA,0,0,1,1,0,0,1,0,12:37,1:03,0:51
-2018020361,8479344,Jesse Puljujarvi,Edmonton Oilers,RW,7:43,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,0,-1,7:37,0:06,0:00
-2018020361,8475163,Alex Chiasson,Edmonton Oilers,RW,16:24,0,2,3,1,1,0,0,0,0,1,0,1,0,0,0,0,11:31,2:23,2:30
-2018020361,8476472,Oscar Klefbom,Edmonton Oilers,D,26:10,2,0,8,0,0,1,2,NA,0,0,0,1,0,0,5,0,20:17,3:10,2:43
-2018020361,8473473,Milan Lucic,Edmonton Oilers,LW,13:39,0,0,3,1,0,0,0,0,0,1,0,0,0,0,1,0,11:41,1:58,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020361,8470604,Jeff Carter,Los Angeles Kings,Edmonton Oilers,C,22:04,1,0,1,1,0,1,2,70,14,20,0,1,0,0,0,0,15:11,5:30,1:23
+2018020361,8470602,Dion Phaneuf,Los Angeles Kings,Edmonton Oilers,D,11:56,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,0,10:59,0:57,0:00
+2018020361,8470606,Dustin Brown,Los Angeles Kings,Edmonton Oilers,RW,21:39,0,3,5,3,2,0,0,NA,0,0,1,1,0,0,1,2,14:01,5:49,1:49
+2018020361,8471685,Anze Kopitar,Los Angeles Kings,Edmonton Oilers,C,24:26,2,1,3,0,0,1,2,48,12,25,0,2,0,0,1,2,16:36,5:49,2:01
+2018020361,8475726,Tyler Toffoli,Los Angeles Kings,Edmonton Oilers,RW,17:40,0,0,0,0,0,0,2,100,1,1,0,1,0,0,1,0,12:00,4:36,1:04
+2018020361,8470775,Nate Thompson,Los Angeles Kings,Edmonton Oilers,C,13:23,1,0,0,0,0,0,0,83.33,5,6,0,0,0,0,1,2,10:26,1:04,1:53
+2018020361,8477960,Adrian Kempe,Los Angeles Kings,Edmonton Oilers,C,14:59,0,0,0,0,0,0,0,33.33,4,12,0,2,0,0,0,0,13:09,1:12,0:38
+2018020361,8478455,Austin Wagner,Los Angeles Kings,Edmonton Oilers,LW,12:11,0,0,2,3,0,0,0,100,1,1,0,0,0,0,1,-1,11:52,0:19,0:00
+2018020361,8476983,Paul LaDue,Los Angeles Kings,Edmonton Oilers,D,9:55,0,0,0,2,0,0,0,NA,0,0,0,2,0,0,1,0,9:55,0:00,0:00
+2018020361,8474162,Jake Muzzin,Los Angeles Kings,Edmonton Oilers,D,18:50,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,0,0,16:03,0:30,2:17
+2018020361,8474563,Drew Doughty,Los Angeles Kings,Edmonton Oilers,D,30:18,1,0,5,4,0,1,0,NA,0,0,0,4,0,0,2,2,22:03,5:53,2:22
+2018020361,8475762,Derek Forbort,Los Angeles Kings,Edmonton Oilers,D,24:16,2,0,3,0,0,0,0,NA,0,0,0,0,0,0,2,2,21:16,0:50,2:10
+2018020361,8479644,Matt Luff,Los Angeles Kings,Edmonton Oilers,RW,16:34,0,1,3,1,0,0,0,0,0,1,0,0,0,0,1,0,16:15,0:19,0:00
+2018020361,8474166,Alec Martinez,Los Angeles Kings,Edmonton Oilers,D,17:34,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,2,0,15:25,0:04,2:05
+2018020361,8469454,Ilya Kovalchuk,Los Angeles Kings,Edmonton Oilers,LW,6:20,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,4:50,1:30,0:00
+2018020361,8475160,Kyle Clifford,Los Angeles Kings,Edmonton Oilers,LW,12:42,0,0,3,3,0,0,0,NA,0,0,0,0,0,0,0,0,12:36,0:00,0:06
+2018020361,8478020,Michael Amadio,Los Angeles Kings,Edmonton Oilers,C,4:59,0,0,0,0,0,0,0,60,3,5,0,0,0,0,0,0,4:40,0:19,0:00
+2018020361,8480113,Alex Iafallo,Los Angeles Kings,Edmonton Oilers,LW,16:58,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,1,1,15:39,1:19,0:00
+2018020361,8470803,Kyle Brodziak,Edmonton Oilers,Los Angeles Kings,C,13:05,0,0,4,0,0,0,2,44.44,8,18,0,2,0,0,3,0,11:13,0:00,1:52
+2018020361,8471729,Kris Russell,Edmonton Oilers,Los Angeles Kings,D,20:57,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,1,0,16:54,0:14,3:49
+2018020361,8475857,Kevin Gravel,Edmonton Oilers,Los Angeles Kings,D,11:44,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,2,-1,10:26,0:00,1:18
+2018020361,8476915,Jujhar Khaira,Edmonton Oilers,Los Angeles Kings,LW,8:32,0,0,0,3,0,0,2,33.33,1,3,1,0,0,0,0,0,7:07,0:00,1:25
+2018020361,8475727,Ryan Spooner,Edmonton Oilers,Los Angeles Kings,C,16:41,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,-1,15:38,1:03,0:00
+2018020361,8476457,Adam Larsson,Edmonton Oilers,Los Angeles Kings,D,22:07,0,0,2,0,0,0,0,NA,0,0,0,3,0,0,2,0,18:59,0:06,3:02
+2018020361,8475227,Chris Wideman,Edmonton Oilers,Los Angeles Kings,D,13:31,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,-2,12:28,1:03,0:00
+2018020361,8477934,Leon Draisaitl,Edmonton Oilers,Los Angeles Kings,C,24:24,0,0,1,0,0,0,0,43.75,7,16,0,1,0,0,0,-2,17:53,3:24,3:07
+2018020361,8476427,Ty Rattie,Edmonton Oilers,Los Angeles Kings,RW,3:32,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,3:32,0:00,0:00
+2018020361,8477498,Darnell Nurse,Edmonton Oilers,Los Angeles Kings,D,22:27,0,0,1,0,0,0,0,NA,0,0,0,2,0,0,3,-1,17:38,1:17,3:32
+2018020361,8475178,Zack Kassian,Edmonton Oilers,Los Angeles Kings,RW,12:59,0,0,3,1,0,0,0,NA,0,0,0,0,0,0,0,0,11:23,0:00,1:36
+2018020361,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,Los Angeles Kings,C,20:44,1,0,2,1,0,0,0,43.48,10,23,0,0,0,0,0,-1,14:30,3:04,3:10
+2018020361,8478402,Connor McDavid,Edmonton Oilers,Los Angeles Kings,C,24:27,1,0,4,0,0,1,2,55.56,5,9,0,0,0,0,0,-2,20:33,3:24,0:30
+2018020361,8479465,Drake Caggiula,Edmonton Oilers,Los Angeles Kings,LW,14:31,0,0,0,1,0,0,0,NA,0,0,1,1,0,0,1,0,12:37,1:03,0:51
+2018020361,8479344,Jesse Puljujarvi,Edmonton Oilers,Los Angeles Kings,RW,7:43,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,0,-1,7:37,0:06,0:00
+2018020361,8475163,Alex Chiasson,Edmonton Oilers,Los Angeles Kings,RW,16:24,0,2,3,1,1,0,0,0,0,1,0,1,0,0,0,0,11:31,2:23,2:30
+2018020361,8476472,Oscar Klefbom,Edmonton Oilers,Los Angeles Kings,D,26:10,2,0,8,0,0,1,2,NA,0,0,0,1,0,0,5,0,20:17,3:10,2:43
+2018020361,8473473,Milan Lucic,Edmonton Oilers,Los Angeles Kings,LW,13:39,0,0,3,1,0,0,0,0,0,1,0,0,0,0,1,0,11:41,1:58,0:00

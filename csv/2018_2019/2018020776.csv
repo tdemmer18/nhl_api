@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020776,8471724,Kris Letang,Pittsburgh Penguins,D,27:28,1,1,5,3,0,0,0,0,0,2,2,0,0,4,3,23:57,2:58,0:33,NA
-2018020776,8476927,Teddy Blueger,Pittsburgh Penguins,C,6:22,0,0,0,1,0,0,2,1,5,0,0,0,0,1,1,6:22,0:00,0:00,20
-2018020776,8477969,Marcus Pettersson,Pittsburgh Penguins,D,18:16,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,16:48,1:28,0:00,NA
-2018020776,8475208,Brian Dumoulin,Pittsburgh Penguins,D,21:18,0,0,0,2,0,0,2,0,0,0,0,0,0,1,1,20:45,0:00,0:33,NA
-2018020776,8471675,Sidney Crosby,Pittsburgh Penguins,C,22:00,0,1,1,4,0,0,0,15,25,1,1,0,0,0,1,17:46,2:53,1:21,60
-2018020776,8477404,Jake Guentzel,Pittsburgh Penguins,LW,21:33,0,0,6,1,0,0,0,1,1,1,0,0,0,3,0,18:26,1:40,1:27,100
-2018020776,8471887,Patric Hornqvist,Pittsburgh Penguins,RW,14:25,0,0,1,1,0,0,0,0,1,0,0,0,0,0,-1,11:39,2:46,0:00,0
-2018020776,8478866,Dominik Simon,Pittsburgh Penguins,C,18:16,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,16:20,1:56,0:00,NA
-2018020776,8473548,Phil Kessel,Pittsburgh Penguins,RW,19:52,1,1,1,0,0,0,0,1,1,0,1,0,0,1,2,17:06,2:46,0:00,100
-2018020776,8475810,Bryan Rust,Pittsburgh Penguins,RW,16:03,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,15:15,0:00,0:48,NA
-2018020776,8471215,Evgeni Malkin,Pittsburgh Penguins,C,16:58,2,0,2,1,0,0,7,4,9,1,1,0,0,1,2,15:27,1:31,0:00,44.44
-2018020776,8471677,Jack Johnson,Pittsburgh Penguins,D,17:29,0,0,2,8,0,0,0,0,0,0,0,0,0,1,1,15:47,0:00,1:42,NA
-2018020776,8476871,Tanner Pearson,Pittsburgh Penguins,LW,12:05,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,10:48,1:17,0:00,NA
-2018020776,8475772,Riley Sheahan,Pittsburgh Penguins,C,8:43,0,1,2,2,0,0,0,0,2,0,0,0,0,1,1,8:28,0:00,0:15,0
-2018020776,8476874,Olli Maatta,Pittsburgh Penguins,D,17:55,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,15:12,1:01,1:42,NA
-2018020776,8480945,Juuso Riikola,Pittsburgh Penguins,D,16:09,0,0,0,4,0,0,0,0,0,0,0,0,0,0,1,14:15,1:54,0:00,NA
-2018020776,8475253,Garrett Wilson,Pittsburgh Penguins,LW,6:00,1,0,1,6,0,0,0,0,0,0,0,0,0,0,1,6:00,0:00,0:00,NA
-2018020776,8464989,Matt Cullen,Pittsburgh Penguins,C,14:53,0,0,0,0,0,0,2,4,13,1,3,0,0,1,-1,14:14,0:00,0:39,30.77
-2018020776,8471958,Dan Girardi,Tampa Bay Lightning,D,18:03,0,0,3,5,0,0,0,0,0,0,0,0,0,2,-2,15:55,0:00,2:08,NA
-2018020776,8478519,Anthony Cirelli,Tampa Bay Lightning,C,14:25,0,0,0,9,0,0,0,8,10,0,0,0,0,1,1,12:23,0:07,1:55,80
-2018020776,8471873,Anton Stralman,Tampa Bay Lightning,D,17:36,0,0,2,2,0,0,0,0,0,2,0,0,0,1,0,15:43,0:07,1:46,NA
-2018020776,8476826,Yanni Gourde,Tampa Bay Lightning,C,14:08,0,0,1,2,0,0,0,6,7,1,0,0,0,0,-1,12:30,0:24,1:14,85.71
-2018020776,8476468,J.T. Miller,Tampa Bay Lightning,C,11:04,0,1,2,2,0,0,0,2,2,0,1,0,0,1,1,10:57,0:07,0:00,100
-2018020776,8478416,Erik Cernak,Tampa Bay Lightning,D,18:52,0,0,0,6,0,0,0,0,0,0,0,0,0,2,0,17:52,0:00,1:00,NA
-2018020776,8476975,Cedric Paquette,Tampa Bay Lightning,C,10:29,0,0,1,7,0,0,4,4,11,1,0,0,0,0,-1,10:03,0:00,0:26,36.36
-2018020776,8473986,Alex Killorn,Tampa Bay Lightning,LW,12:06,1,0,4,6,0,0,2,0,0,0,0,0,0,0,1,11:14,0:07,0:45,NA
-2018020776,8476453,Nikita Kucherov,Tampa Bay Lightning,RW,22:29,1,0,2,2,0,1,0,0,0,0,3,0,0,1,-2,20:21,2:08,0:00,NA
-2018020776,8474870,Tyler Johnson,Tampa Bay Lightning,C,18:18,0,0,2,4,0,0,0,1,6,0,0,0,0,1,-1,18:01,0:00,0:17,16.67
-2018020776,8477454,Adam Erne,Tampa Bay Lightning,LW,9:21,0,0,1,1,0,0,2,0,0,0,0,0,0,1,-1,9:21,0:00,0:00,NA
-2018020776,8475167,Victor Hedman,Tampa Bay Lightning,D,24:57,1,0,4,2,0,1,0,0,1,1,0,0,0,1,-2,19:54,2:08,2:55,0
-2018020776,8474151,Ryan McDonagh,Tampa Bay Lightning,D,20:35,1,0,2,2,0,0,2,0,0,0,2,0,0,0,-1,19:06,0:00,1:29,NA
-2018020776,8474564,Steven Stamkos,Tampa Bay Lightning,C,17:10,0,1,2,1,1,0,5,5,8,0,2,0,0,0,-2,13:44,2:08,1:18,62.5
-2018020776,8479410,Mikhail Sergachev,Tampa Bay Lightning,D,16:32,0,0,2,3,0,0,0,0,0,0,0,0,0,3,-1,16:25,0:07,0:00,NA
-2018020776,8476292,Ondrej Palat,Tampa Bay Lightning,LW,15:07,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-1,13:02,1:44,0:21,NA
-2018020776,8478472,Mathieu Joseph,Tampa Bay Lightning,RW,10:08,0,0,2,3,0,0,0,0,1,0,0,0,0,0,-1,9:32,0:00,0:36,0
-2018020776,8478010,Brayden Point,Tampa Bay Lightning,C,22:14,0,0,3,2,0,0,0,5,11,0,0,0,0,2,-1,20:06,2:08,0:00,45.45
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020776,8471724,Kris Letang,Pittsburgh Penguins,Tampa Bay Lightning,D,27:28,1,1,5,3,0,0,0,0,0,2,2,0,0,4,3,23:57,2:58,0:33,NA
+2018020776,8476927,Teddy Blueger,Pittsburgh Penguins,Tampa Bay Lightning,C,6:22,0,0,0,1,0,0,2,1,5,0,0,0,0,1,1,6:22,0:00,0:00,20
+2018020776,8477969,Marcus Pettersson,Pittsburgh Penguins,Tampa Bay Lightning,D,18:16,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,16:48,1:28,0:00,NA
+2018020776,8475208,Brian Dumoulin,Pittsburgh Penguins,Tampa Bay Lightning,D,21:18,0,0,0,2,0,0,2,0,0,0,0,0,0,1,1,20:45,0:00,0:33,NA
+2018020776,8471675,Sidney Crosby,Pittsburgh Penguins,Tampa Bay Lightning,C,22:00,0,1,1,4,0,0,0,15,25,1,1,0,0,0,1,17:46,2:53,1:21,60
+2018020776,8477404,Jake Guentzel,Pittsburgh Penguins,Tampa Bay Lightning,LW,21:33,0,0,6,1,0,0,0,1,1,1,0,0,0,3,0,18:26,1:40,1:27,100
+2018020776,8471887,Patric Hornqvist,Pittsburgh Penguins,Tampa Bay Lightning,RW,14:25,0,0,1,1,0,0,0,0,1,0,0,0,0,0,-1,11:39,2:46,0:00,0
+2018020776,8478866,Dominik Simon,Pittsburgh Penguins,Tampa Bay Lightning,C,18:16,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,16:20,1:56,0:00,NA
+2018020776,8473548,Phil Kessel,Pittsburgh Penguins,Tampa Bay Lightning,RW,19:52,1,1,1,0,0,0,0,1,1,0,1,0,0,1,2,17:06,2:46,0:00,100
+2018020776,8475810,Bryan Rust,Pittsburgh Penguins,Tampa Bay Lightning,RW,16:03,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,15:15,0:00,0:48,NA
+2018020776,8471215,Evgeni Malkin,Pittsburgh Penguins,Tampa Bay Lightning,C,16:58,2,0,2,1,0,0,7,4,9,1,1,0,0,1,2,15:27,1:31,0:00,44.44
+2018020776,8471677,Jack Johnson,Pittsburgh Penguins,Tampa Bay Lightning,D,17:29,0,0,2,8,0,0,0,0,0,0,0,0,0,1,1,15:47,0:00,1:42,NA
+2018020776,8476871,Tanner Pearson,Pittsburgh Penguins,Tampa Bay Lightning,LW,12:05,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,10:48,1:17,0:00,NA
+2018020776,8475772,Riley Sheahan,Pittsburgh Penguins,Tampa Bay Lightning,C,8:43,0,1,2,2,0,0,0,0,2,0,0,0,0,1,1,8:28,0:00,0:15,0
+2018020776,8476874,Olli Maatta,Pittsburgh Penguins,Tampa Bay Lightning,D,17:55,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,15:12,1:01,1:42,NA
+2018020776,8480945,Juuso Riikola,Pittsburgh Penguins,Tampa Bay Lightning,D,16:09,0,0,0,4,0,0,0,0,0,0,0,0,0,0,1,14:15,1:54,0:00,NA
+2018020776,8475253,Garrett Wilson,Pittsburgh Penguins,Tampa Bay Lightning,LW,6:00,1,0,1,6,0,0,0,0,0,0,0,0,0,0,1,6:00,0:00,0:00,NA
+2018020776,8464989,Matt Cullen,Pittsburgh Penguins,Tampa Bay Lightning,C,14:53,0,0,0,0,0,0,2,4,13,1,3,0,0,1,-1,14:14,0:00,0:39,30.77
+2018020776,8471958,Dan Girardi,Tampa Bay Lightning,Pittsburgh Penguins,D,18:03,0,0,3,5,0,0,0,0,0,0,0,0,0,2,-2,15:55,0:00,2:08,NA
+2018020776,8478519,Anthony Cirelli,Tampa Bay Lightning,Pittsburgh Penguins,C,14:25,0,0,0,9,0,0,0,8,10,0,0,0,0,1,1,12:23,0:07,1:55,80
+2018020776,8471873,Anton Stralman,Tampa Bay Lightning,Pittsburgh Penguins,D,17:36,0,0,2,2,0,0,0,0,0,2,0,0,0,1,0,15:43,0:07,1:46,NA
+2018020776,8476826,Yanni Gourde,Tampa Bay Lightning,Pittsburgh Penguins,C,14:08,0,0,1,2,0,0,0,6,7,1,0,0,0,0,-1,12:30,0:24,1:14,85.71
+2018020776,8476468,J.T. Miller,Tampa Bay Lightning,Pittsburgh Penguins,C,11:04,0,1,2,2,0,0,0,2,2,0,1,0,0,1,1,10:57,0:07,0:00,100
+2018020776,8478416,Erik Cernak,Tampa Bay Lightning,Pittsburgh Penguins,D,18:52,0,0,0,6,0,0,0,0,0,0,0,0,0,2,0,17:52,0:00,1:00,NA
+2018020776,8476975,Cedric Paquette,Tampa Bay Lightning,Pittsburgh Penguins,C,10:29,0,0,1,7,0,0,4,4,11,1,0,0,0,0,-1,10:03,0:00,0:26,36.36
+2018020776,8473986,Alex Killorn,Tampa Bay Lightning,Pittsburgh Penguins,LW,12:06,1,0,4,6,0,0,2,0,0,0,0,0,0,0,1,11:14,0:07,0:45,NA
+2018020776,8476453,Nikita Kucherov,Tampa Bay Lightning,Pittsburgh Penguins,RW,22:29,1,0,2,2,0,1,0,0,0,0,3,0,0,1,-2,20:21,2:08,0:00,NA
+2018020776,8474870,Tyler Johnson,Tampa Bay Lightning,Pittsburgh Penguins,C,18:18,0,0,2,4,0,0,0,1,6,0,0,0,0,1,-1,18:01,0:00,0:17,16.67
+2018020776,8477454,Adam Erne,Tampa Bay Lightning,Pittsburgh Penguins,LW,9:21,0,0,1,1,0,0,2,0,0,0,0,0,0,1,-1,9:21,0:00,0:00,NA
+2018020776,8475167,Victor Hedman,Tampa Bay Lightning,Pittsburgh Penguins,D,24:57,1,0,4,2,0,1,0,0,1,1,0,0,0,1,-2,19:54,2:08,2:55,0
+2018020776,8474151,Ryan McDonagh,Tampa Bay Lightning,Pittsburgh Penguins,D,20:35,1,0,2,2,0,0,2,0,0,0,2,0,0,0,-1,19:06,0:00,1:29,NA
+2018020776,8474564,Steven Stamkos,Tampa Bay Lightning,Pittsburgh Penguins,C,17:10,0,1,2,1,1,0,5,5,8,0,2,0,0,0,-2,13:44,2:08,1:18,62.5
+2018020776,8479410,Mikhail Sergachev,Tampa Bay Lightning,Pittsburgh Penguins,D,16:32,0,0,2,3,0,0,0,0,0,0,0,0,0,3,-1,16:25,0:07,0:00,NA
+2018020776,8476292,Ondrej Palat,Tampa Bay Lightning,Pittsburgh Penguins,LW,15:07,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-1,13:02,1:44,0:21,NA
+2018020776,8478472,Mathieu Joseph,Tampa Bay Lightning,Pittsburgh Penguins,RW,10:08,0,0,2,3,0,0,0,0,1,0,0,0,0,0,-1,9:32,0:00,0:36,0
+2018020776,8478010,Brayden Point,Tampa Bay Lightning,Pittsburgh Penguins,C,22:14,0,0,3,2,0,0,0,5,11,0,0,0,0,2,-1,20:06,2:08,0:00,45.45

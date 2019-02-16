@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020728,8476918,Jimmy Vesey,New York Rangers,LW,14:40,0,0,5,0,0,0,0,0,0,1,1,1,0,0,0,0,13:18,1:01,0:21
-2018020728,8471717,Adam McQuaid,New York Rangers,D,20:48,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,0,2,17:51,0:00,2:57
-2018020728,8471686,Marc Staal,New York Rangers,D,21:53,1,0,0,0,0,0,0,NA,0,0,1,1,0,0,0,3,20:10,0:00,1:43
-2018020728,8476869,Brady Skjei,New York Rangers,D,22:03,0,0,0,1,0,0,0,NA,0,0,1,3,0,0,1,1,18:33,0:00,3:30
-2018020728,8471657,Cody McLeod,New York Rangers,LW,4:37,0,0,1,4,0,0,2,NA,0,0,0,0,0,0,0,0,4:37,0:00,0:00
-2018020728,8476458,Ryan Strome,New York Rangers,C,17:04,0,0,2,0,0,0,0,53.33,8,15,0,1,0,0,0,1,16:03,1:01,0:00
-2018020728,8476459,Mika Zibanejad,New York Rangers,C,20:42,0,1,2,3,0,0,0,55,11,20,2,1,0,0,3,3,16:41,0:59,3:02
-2018020728,8475855,Jesper Fast,New York Rangers,RW,16:41,0,0,2,1,0,0,4,0,0,1,0,1,0,0,0,2,15:55,0:00,0:46
-2018020728,8476922,Boo Nieves,New York Rangers,C,15:14,0,0,0,1,0,0,0,40,6,15,1,0,0,0,1,-1,13:44,0:00,1:30
-2018020728,8477950,Tony DeAngelo,New York Rangers,D,21:46,0,0,3,4,0,0,0,NA,0,0,0,2,0,0,4,2,20:45,1:01,0:00
-2018020728,8474031,Kevin Shattenkirk,New York Rangers,D,17:23,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,1,-1,14:08,0:59,2:16
-2018020728,8479324,Ryan Lindgren,New York Rangers,D,13:58,0,0,2,4,0,0,0,NA,0,0,0,0,0,0,1,-1,13:58,0:00,0:00
-2018020728,8477402,Pavel Buchnevich,New York Rangers,RW,10:12,0,0,1,0,0,0,0,NA,0,0,1,0,0,0,0,0,9:13,0:59,0:00
-2018020728,8475184,Chris Kreider,New York Rangers,LW,16:02,1,1,3,0,0,0,0,NA,0,0,0,1,0,0,0,1,15:03,0:59,0:00
-2018020728,8479353,Brett Howden,New York Rangers,C,6:40,0,0,0,0,0,0,0,50,2,4,0,0,0,0,0,0,6:19,0:00,0:21
-2018020728,8475692,Mats Zuccarello,New York Rangers,RW,20:49,0,1,5,0,0,0,0,NA,0,0,0,1,0,0,2,3,18:09,0:59,1:41
-2018020728,8480078,Filip Chytil,New York Rangers,C,16:52,0,1,4,0,0,0,0,NA,0,0,0,2,0,0,0,1,15:51,1:01,0:00
-2018020728,8476480,Vladislav Namestnikov,New York Rangers,C,17:23,0,0,2,2,0,0,0,33.33,1,3,0,0,0,0,1,-1,13:37,1:01,2:45
-2018020728,8470607,Brent Seabrook,Chicago Blackhawks,D,23:45,1,0,4,0,0,1,0,NA,0,0,0,1,0,0,1,-1,21:07,1:18,1:20
-2018020728,8476979,Erik Gustafsson,Chicago Blackhawks,D,21:06,1,0,0,0,0,1,0,NA,0,0,1,0,0,0,1,-2,17:11,3:55,0:00
-2018020728,8477943,Brendan Perlini,Chicago Blackhawks,LW,7:30,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,-1,7:30,0:00,0:00
-2018020728,8473604,Jonathan Toews,Chicago Blackhawks,C,22:04,0,0,2,0,0,0,0,61.11,11,18,1,2,0,0,1,-2,17:40,3:44,0:40
-2018020728,8470543,Chris Kunitz,Chicago Blackhawks,LW,10:42,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,0,0,10:42,0:00,0:00
-2018020728,8476438,Brandon Saad,Chicago Blackhawks,LW,17:22,0,1,2,1,1,0,0,NA,0,0,0,1,0,0,0,-2,15:34,1:29,0:19
-2018020728,8479337,Alex DeBrincat,Chicago Blackhawks,LW,21:12,0,1,2,1,1,0,0,NA,0,0,0,2,0,0,0,-2,17:17,3:55,0:00
-2018020728,8470281,Duncan Keith,Chicago Blackhawks,D,24:16,0,0,1,0,0,0,0,NA,0,0,0,2,0,0,0,-1,21:58,1:18,1:00
-2018020728,8474141,Patrick Kane,Chicago Blackhawks,RW,25:17,1,0,5,0,0,1,0,NA,0,0,0,3,0,0,0,-2,20:52,4:25,0:00
-2018020728,8475323,Marcus Kruger,Chicago Blackhawks,C,11:02,0,0,1,1,0,0,0,100,1,1,0,1,0,0,0,0,10:23,0:00,0:39
-2018020728,8480946,Dominik Kahun,Chicago Blackhawks,C,10:53,0,1,2,0,0,0,0,NA,0,0,0,0,0,0,0,0,10:05,0:48,0:00
-2018020728,8479465,Drake Caggiula,Chicago Blackhawks,C,13:49,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,13:29,0:00,0:20
-2018020728,8473573,Artem Anisimov,Chicago Blackhawks,C,13:42,1,0,2,0,0,1,0,50,7,14,0,0,0,0,0,-1,11:38,1:23,0:41
-2018020728,8478440,Dylan Strome,Chicago Blackhawks,C,18:27,0,0,1,0,0,0,0,58.33,7,12,0,3,0,0,1,-2,14:37,3:50,0:00
-2018020728,8477472,Carl Dahlstrom,Chicago Blackhawks,D,15:58,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,0,0,14:58,0:00,1:00
-2018020728,8476473,Connor Murphy,Chicago Blackhawks,D,15:43,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,1,0,15:03,0:00,0:40
-2018020728,8480144,David Kampf,Chicago Blackhawks,C,12:22,1,0,1,0,0,0,0,38.46,5,13,0,0,0,0,0,1,11:01,0:00,1:21
-2018020728,8480035,Henri Jokiharju,Chicago Blackhawks,D,14:19,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,0,-1,14:19,0:00,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020728,8476918,Jimmy Vesey,New York Rangers,Chicago Blackhawks,LW,14:40,0,0,5,0,0,0,0,0,0,1,1,1,0,0,0,0,13:18,1:01,0:21
+2018020728,8471717,Adam McQuaid,New York Rangers,Chicago Blackhawks,D,20:48,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,0,2,17:51,0:00,2:57
+2018020728,8471686,Marc Staal,New York Rangers,Chicago Blackhawks,D,21:53,1,0,0,0,0,0,0,NA,0,0,1,1,0,0,0,3,20:10,0:00,1:43
+2018020728,8476869,Brady Skjei,New York Rangers,Chicago Blackhawks,D,22:03,0,0,0,1,0,0,0,NA,0,0,1,3,0,0,1,1,18:33,0:00,3:30
+2018020728,8471657,Cody McLeod,New York Rangers,Chicago Blackhawks,LW,4:37,0,0,1,4,0,0,2,NA,0,0,0,0,0,0,0,0,4:37,0:00,0:00
+2018020728,8476458,Ryan Strome,New York Rangers,Chicago Blackhawks,C,17:04,0,0,2,0,0,0,0,53.33,8,15,0,1,0,0,0,1,16:03,1:01,0:00
+2018020728,8476459,Mika Zibanejad,New York Rangers,Chicago Blackhawks,C,20:42,0,1,2,3,0,0,0,55,11,20,2,1,0,0,3,3,16:41,0:59,3:02
+2018020728,8475855,Jesper Fast,New York Rangers,Chicago Blackhawks,RW,16:41,0,0,2,1,0,0,4,0,0,1,0,1,0,0,0,2,15:55,0:00,0:46
+2018020728,8476922,Boo Nieves,New York Rangers,Chicago Blackhawks,C,15:14,0,0,0,1,0,0,0,40,6,15,1,0,0,0,1,-1,13:44,0:00,1:30
+2018020728,8477950,Tony DeAngelo,New York Rangers,Chicago Blackhawks,D,21:46,0,0,3,4,0,0,0,NA,0,0,0,2,0,0,4,2,20:45,1:01,0:00
+2018020728,8474031,Kevin Shattenkirk,New York Rangers,Chicago Blackhawks,D,17:23,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,1,-1,14:08,0:59,2:16
+2018020728,8479324,Ryan Lindgren,New York Rangers,Chicago Blackhawks,D,13:58,0,0,2,4,0,0,0,NA,0,0,0,0,0,0,1,-1,13:58,0:00,0:00
+2018020728,8477402,Pavel Buchnevich,New York Rangers,Chicago Blackhawks,RW,10:12,0,0,1,0,0,0,0,NA,0,0,1,0,0,0,0,0,9:13,0:59,0:00
+2018020728,8475184,Chris Kreider,New York Rangers,Chicago Blackhawks,LW,16:02,1,1,3,0,0,0,0,NA,0,0,0,1,0,0,0,1,15:03,0:59,0:00
+2018020728,8479353,Brett Howden,New York Rangers,Chicago Blackhawks,C,6:40,0,0,0,0,0,0,0,50,2,4,0,0,0,0,0,0,6:19,0:00,0:21
+2018020728,8475692,Mats Zuccarello,New York Rangers,Chicago Blackhawks,RW,20:49,0,1,5,0,0,0,0,NA,0,0,0,1,0,0,2,3,18:09,0:59,1:41
+2018020728,8480078,Filip Chytil,New York Rangers,Chicago Blackhawks,C,16:52,0,1,4,0,0,0,0,NA,0,0,0,2,0,0,0,1,15:51,1:01,0:00
+2018020728,8476480,Vladislav Namestnikov,New York Rangers,Chicago Blackhawks,C,17:23,0,0,2,2,0,0,0,33.33,1,3,0,0,0,0,1,-1,13:37,1:01,2:45
+2018020728,8470607,Brent Seabrook,Chicago Blackhawks,New York Rangers,D,23:45,1,0,4,0,0,1,0,NA,0,0,0,1,0,0,1,-1,21:07,1:18,1:20
+2018020728,8476979,Erik Gustafsson,Chicago Blackhawks,New York Rangers,D,21:06,1,0,0,0,0,1,0,NA,0,0,1,0,0,0,1,-2,17:11,3:55,0:00
+2018020728,8477943,Brendan Perlini,Chicago Blackhawks,New York Rangers,LW,7:30,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,-1,7:30,0:00,0:00
+2018020728,8473604,Jonathan Toews,Chicago Blackhawks,New York Rangers,C,22:04,0,0,2,0,0,0,0,61.11,11,18,1,2,0,0,1,-2,17:40,3:44,0:40
+2018020728,8470543,Chris Kunitz,Chicago Blackhawks,New York Rangers,LW,10:42,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,0,0,10:42,0:00,0:00
+2018020728,8476438,Brandon Saad,Chicago Blackhawks,New York Rangers,LW,17:22,0,1,2,1,1,0,0,NA,0,0,0,1,0,0,0,-2,15:34,1:29,0:19
+2018020728,8479337,Alex DeBrincat,Chicago Blackhawks,New York Rangers,LW,21:12,0,1,2,1,1,0,0,NA,0,0,0,2,0,0,0,-2,17:17,3:55,0:00
+2018020728,8470281,Duncan Keith,Chicago Blackhawks,New York Rangers,D,24:16,0,0,1,0,0,0,0,NA,0,0,0,2,0,0,0,-1,21:58,1:18,1:00
+2018020728,8474141,Patrick Kane,Chicago Blackhawks,New York Rangers,RW,25:17,1,0,5,0,0,1,0,NA,0,0,0,3,0,0,0,-2,20:52,4:25,0:00
+2018020728,8475323,Marcus Kruger,Chicago Blackhawks,New York Rangers,C,11:02,0,0,1,1,0,0,0,100,1,1,0,1,0,0,0,0,10:23,0:00,0:39
+2018020728,8480946,Dominik Kahun,Chicago Blackhawks,New York Rangers,C,10:53,0,1,2,0,0,0,0,NA,0,0,0,0,0,0,0,0,10:05,0:48,0:00
+2018020728,8479465,Drake Caggiula,Chicago Blackhawks,New York Rangers,C,13:49,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,13:29,0:00,0:20
+2018020728,8473573,Artem Anisimov,Chicago Blackhawks,New York Rangers,C,13:42,1,0,2,0,0,1,0,50,7,14,0,0,0,0,0,-1,11:38,1:23,0:41
+2018020728,8478440,Dylan Strome,Chicago Blackhawks,New York Rangers,C,18:27,0,0,1,0,0,0,0,58.33,7,12,0,3,0,0,1,-2,14:37,3:50,0:00
+2018020728,8477472,Carl Dahlstrom,Chicago Blackhawks,New York Rangers,D,15:58,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,0,0,14:58,0:00,1:00
+2018020728,8476473,Connor Murphy,Chicago Blackhawks,New York Rangers,D,15:43,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,1,0,15:03,0:00,0:40
+2018020728,8480144,David Kampf,Chicago Blackhawks,New York Rangers,C,12:22,1,0,1,0,0,0,0,38.46,5,13,0,0,0,0,0,1,11:01,0:00,1:21
+2018020728,8480035,Henri Jokiharju,Chicago Blackhawks,New York Rangers,D,14:19,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,0,-1,14:19,0:00,0:00

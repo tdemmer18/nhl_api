@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020560,8475907,Micheal Ferland,Carolina Hurricanes,LW,11:23,1,0,0,1,0,0,4,100,1,1,1,1,0,0,0,0,9:26,1:57,0:00
-2018020560,8476934,Brock McGinn,Carolina Hurricanes,LW,11:56,0,0,0,0,0,0,0,25,1,4,0,0,0,0,1,0,7:57,0:00,3:59
-2018020560,8476958,Jaccob Slavin,Carolina Hurricanes,D,23:42,1,0,3,2,0,0,0,NA,0,0,2,1,0,0,1,0,17:22,1:20,5:00
-2018020560,8477998,Warren Foegele,Carolina Hurricanes,LW,16:11,0,0,2,3,0,0,0,NA,0,0,2,1,0,0,2,1,11:55,0:15,4:01
-2018020560,8478427,Sebastian Aho,Carolina Hurricanes,C,21:06,2,2,7,1,0,0,0,41.18,7,17,3,0,1,1,0,4,16:05,3:16,1:45
-2018020560,8475753,Justin Faulk,Carolina Hurricanes,D,21:14,0,1,3,2,0,0,2,NA,0,0,2,0,0,0,1,3,15:15,3:17,2:42
-2018020560,8476921,Jordan Martinook,Carolina Hurricanes,LW,16:17,0,0,0,3,0,0,0,0,0,2,3,1,0,0,0,-1,12:51,0:01,3:25
-2018020560,8476437,Victor Rask,Carolina Hurricanes,C,9:54,0,0,1,0,0,0,0,30,3,10,1,0,0,0,0,0,8:57,0:57,0:00
-2018020560,8477845,Trevor van Riemsdyk,Carolina Hurricanes,D,13:53,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,0,12:22,0:00,1:31
-2018020560,8477488,Brett Pesce,Carolina Hurricanes,D,21:15,0,0,1,1,0,0,0,NA,0,0,4,1,0,0,3,0,16:41,0:00,4:34
-2018020560,8475177,Calvin de Haan,Carolina Hurricanes,D,20:52,0,0,1,3,0,0,0,NA,0,0,2,0,0,0,3,3,16:17,0:14,4:21
-2018020560,8478027,Lucas Wallmark,Carolina Hurricanes,C,17:34,0,0,4,2,0,0,0,42.31,11,26,1,0,0,0,2,-1,11:43,1:33,4:18
-2018020560,8476882,Teuvo Teravainen,Carolina Hurricanes,LW,18:05,2,2,3,0,0,0,0,NA,0,0,2,2,1,1,0,4,13:51,3:16,0:58
-2018020560,8479511,Janne Kuokkanen,Carolina Hurricanes,LW,11:11,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,1,0,9:24,1:47,0:00
-2018020560,8478056,Clark Bishop,Carolina Hurricanes,C,10:08,0,0,2,5,0,0,0,44.44,4,9,0,0,0,0,0,-1,9:53,0:15,0:00
-2018020560,8476462,Dougie Hamilton,Carolina Hurricanes,D,15:41,0,0,3,4,0,0,0,NA,0,0,0,0,0,0,0,0,13:35,1:48,0:18
-2018020560,8468508,Justin Williams,Carolina Hurricanes,RW,13:09,1,0,1,2,0,0,0,50,3,6,0,1,0,0,0,0,10:07,3:02,0:00
-2018020560,8480830,Andrei Svechnikov,Carolina Hurricanes,RW,17:25,0,0,2,2,0,0,4,NA,0,0,0,0,0,0,0,1,14:55,2:30,0:00
-2018020560,8470638,Patrice Bergeron,Boston Bruins,C,20:07,0,0,3,4,0,0,0,63.64,21,33,0,0,0,0,2,0,12:32,5:49,1:46
-2018020560,8473419,Brad Marchand,Boston Bruins,LW,22:30,2,0,2,1,0,1,0,NA,0,0,0,1,0,0,0,0,14:03,6:52,1:35
-2018020560,8475807,Joakim Nordstrom,Boston Bruins,C,13:03,0,0,0,1,0,0,0,0,0,2,0,1,0,0,0,-1,11:22,0:33,1:08
-2018020560,8477529,Colby Cave,Boston Bruins,C,10:48,1,0,1,0,0,0,0,57.14,4,7,0,0,0,0,0,0,9:50,0:33,0:25
-2018020560,8471276,David Krejci,Boston Bruins,C,17:20,0,0,2,0,0,0,0,60,9,15,1,0,0,0,1,-3,13:47,3:33,0:00
-2018020560,8477987,Ryan Donato,Boston Bruins,C,15:16,0,2,5,0,1,0,0,0,0,1,2,0,0,0,1,-2,11:34,3:42,0:00
-2018020560,8470655,David Backes,Boston Bruins,RW,12:54,1,0,1,1,0,0,0,33.33,1,3,0,0,0,0,0,-2,9:33,3:21,0:00
-2018020560,8478569,Noel Acciari,Boston Bruins,C,11:21,0,0,0,7,0,0,2,50,2,4,0,0,0,0,1,0,10:02,0:15,1:04
-2018020560,8477956,David Pastrnak,Boston Bruins,RW,20:46,0,0,3,3,0,0,0,NA,0,0,1,1,0,0,0,0,14:27,6:19,0:00
-2018020560,8479325,Charlie McAvoy,Boston Bruins,D,21:28,0,0,0,5,0,0,0,NA,0,0,1,1,0,0,1,-4,16:26,3:05,1:57
-2018020560,8475780,Chris Wagner,Boston Bruins,RW,9:51,0,0,0,3,0,0,0,100,1,1,0,0,0,0,1,-1,9:03,0:15,0:33
-2018020560,8478443,Brandon Carlo,Boston Bruins,D,20:10,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,0,0,16:38,0:00,3:32
-2018020560,8475186,John Moore,Boston Bruins,D,19:50,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,5,0,16:57,0:00,2:53
-2018020560,8476792,Torey Krug,Boston Bruins,D,25:13,1,0,3,1,0,1,0,NA,0,0,0,0,0,0,2,0,16:36,8:23,0:14
-2018020560,8476891,Matt Grzelcyk,Boston Bruins,D,13:48,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,-3,12:10,0:50,0:48
-2018020560,8476374,Sean Kuraly,Boston Bruins,C,12:19,1,0,1,5,0,0,0,77.78,7,9,0,0,0,0,0,0,9:39,0:15,2:25
-2018020560,8478046,Danton Heinen,Boston Bruins,C,16:43,0,0,4,1,0,0,0,NA,0,0,0,1,0,0,0,0,12:36,4:07,0:00
-2018020560,8474000,Steven Kampfer,Boston Bruins,D,13:02,0,1,2,3,0,0,2,NA,0,0,0,0,0,0,1,1,12:02,0:00,1:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020560,8475907,Micheal Ferland,Carolina Hurricanes,Boston Bruins,LW,11:23,1,0,0,1,0,0,4,100,1,1,1,1,0,0,0,0,9:26,1:57,0:00
+2018020560,8476934,Brock McGinn,Carolina Hurricanes,Boston Bruins,LW,11:56,0,0,0,0,0,0,0,25,1,4,0,0,0,0,1,0,7:57,0:00,3:59
+2018020560,8476958,Jaccob Slavin,Carolina Hurricanes,Boston Bruins,D,23:42,1,0,3,2,0,0,0,NA,0,0,2,1,0,0,1,0,17:22,1:20,5:00
+2018020560,8477998,Warren Foegele,Carolina Hurricanes,Boston Bruins,LW,16:11,0,0,2,3,0,0,0,NA,0,0,2,1,0,0,2,1,11:55,0:15,4:01
+2018020560,8478427,Sebastian Aho,Carolina Hurricanes,Boston Bruins,C,21:06,2,2,7,1,0,0,0,41.18,7,17,3,0,1,1,0,4,16:05,3:16,1:45
+2018020560,8475753,Justin Faulk,Carolina Hurricanes,Boston Bruins,D,21:14,0,1,3,2,0,0,2,NA,0,0,2,0,0,0,1,3,15:15,3:17,2:42
+2018020560,8476921,Jordan Martinook,Carolina Hurricanes,Boston Bruins,LW,16:17,0,0,0,3,0,0,0,0,0,2,3,1,0,0,0,-1,12:51,0:01,3:25
+2018020560,8476437,Victor Rask,Carolina Hurricanes,Boston Bruins,C,9:54,0,0,1,0,0,0,0,30,3,10,1,0,0,0,0,0,8:57,0:57,0:00
+2018020560,8477845,Trevor van Riemsdyk,Carolina Hurricanes,Boston Bruins,D,13:53,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,0,12:22,0:00,1:31
+2018020560,8477488,Brett Pesce,Carolina Hurricanes,Boston Bruins,D,21:15,0,0,1,1,0,0,0,NA,0,0,4,1,0,0,3,0,16:41,0:00,4:34
+2018020560,8475177,Calvin de Haan,Carolina Hurricanes,Boston Bruins,D,20:52,0,0,1,3,0,0,0,NA,0,0,2,0,0,0,3,3,16:17,0:14,4:21
+2018020560,8478027,Lucas Wallmark,Carolina Hurricanes,Boston Bruins,C,17:34,0,0,4,2,0,0,0,42.31,11,26,1,0,0,0,2,-1,11:43,1:33,4:18
+2018020560,8476882,Teuvo Teravainen,Carolina Hurricanes,Boston Bruins,LW,18:05,2,2,3,0,0,0,0,NA,0,0,2,2,1,1,0,4,13:51,3:16,0:58
+2018020560,8479511,Janne Kuokkanen,Carolina Hurricanes,Boston Bruins,LW,11:11,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,1,0,9:24,1:47,0:00
+2018020560,8478056,Clark Bishop,Carolina Hurricanes,Boston Bruins,C,10:08,0,0,2,5,0,0,0,44.44,4,9,0,0,0,0,0,-1,9:53,0:15,0:00
+2018020560,8476462,Dougie Hamilton,Carolina Hurricanes,Boston Bruins,D,15:41,0,0,3,4,0,0,0,NA,0,0,0,0,0,0,0,0,13:35,1:48,0:18
+2018020560,8468508,Justin Williams,Carolina Hurricanes,Boston Bruins,RW,13:09,1,0,1,2,0,0,0,50,3,6,0,1,0,0,0,0,10:07,3:02,0:00
+2018020560,8480830,Andrei Svechnikov,Carolina Hurricanes,Boston Bruins,RW,17:25,0,0,2,2,0,0,4,NA,0,0,0,0,0,0,0,1,14:55,2:30,0:00
+2018020560,8470638,Patrice Bergeron,Boston Bruins,Carolina Hurricanes,C,20:07,0,0,3,4,0,0,0,63.64,21,33,0,0,0,0,2,0,12:32,5:49,1:46
+2018020560,8473419,Brad Marchand,Boston Bruins,Carolina Hurricanes,LW,22:30,2,0,2,1,0,1,0,NA,0,0,0,1,0,0,0,0,14:03,6:52,1:35
+2018020560,8475807,Joakim Nordstrom,Boston Bruins,Carolina Hurricanes,C,13:03,0,0,0,1,0,0,0,0,0,2,0,1,0,0,0,-1,11:22,0:33,1:08
+2018020560,8477529,Colby Cave,Boston Bruins,Carolina Hurricanes,C,10:48,1,0,1,0,0,0,0,57.14,4,7,0,0,0,0,0,0,9:50,0:33,0:25
+2018020560,8471276,David Krejci,Boston Bruins,Carolina Hurricanes,C,17:20,0,0,2,0,0,0,0,60,9,15,1,0,0,0,1,-3,13:47,3:33,0:00
+2018020560,8477987,Ryan Donato,Boston Bruins,Carolina Hurricanes,C,15:16,0,2,5,0,1,0,0,0,0,1,2,0,0,0,1,-2,11:34,3:42,0:00
+2018020560,8470655,David Backes,Boston Bruins,Carolina Hurricanes,RW,12:54,1,0,1,1,0,0,0,33.33,1,3,0,0,0,0,0,-2,9:33,3:21,0:00
+2018020560,8478569,Noel Acciari,Boston Bruins,Carolina Hurricanes,C,11:21,0,0,0,7,0,0,2,50,2,4,0,0,0,0,1,0,10:02,0:15,1:04
+2018020560,8477956,David Pastrnak,Boston Bruins,Carolina Hurricanes,RW,20:46,0,0,3,3,0,0,0,NA,0,0,1,1,0,0,0,0,14:27,6:19,0:00
+2018020560,8479325,Charlie McAvoy,Boston Bruins,Carolina Hurricanes,D,21:28,0,0,0,5,0,0,0,NA,0,0,1,1,0,0,1,-4,16:26,3:05,1:57
+2018020560,8475780,Chris Wagner,Boston Bruins,Carolina Hurricanes,RW,9:51,0,0,0,3,0,0,0,100,1,1,0,0,0,0,1,-1,9:03,0:15,0:33
+2018020560,8478443,Brandon Carlo,Boston Bruins,Carolina Hurricanes,D,20:10,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,0,0,16:38,0:00,3:32
+2018020560,8475186,John Moore,Boston Bruins,Carolina Hurricanes,D,19:50,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,5,0,16:57,0:00,2:53
+2018020560,8476792,Torey Krug,Boston Bruins,Carolina Hurricanes,D,25:13,1,0,3,1,0,1,0,NA,0,0,0,0,0,0,2,0,16:36,8:23,0:14
+2018020560,8476891,Matt Grzelcyk,Boston Bruins,Carolina Hurricanes,D,13:48,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,-3,12:10,0:50,0:48
+2018020560,8476374,Sean Kuraly,Boston Bruins,Carolina Hurricanes,C,12:19,1,0,1,5,0,0,0,77.78,7,9,0,0,0,0,0,0,9:39,0:15,2:25
+2018020560,8478046,Danton Heinen,Boston Bruins,Carolina Hurricanes,C,16:43,0,0,4,1,0,0,0,NA,0,0,0,1,0,0,0,0,12:36,4:07,0:00
+2018020560,8474000,Steven Kampfer,Boston Bruins,Carolina Hurricanes,D,13:02,0,1,2,3,0,0,2,NA,0,0,0,0,0,0,1,1,12:02,0:00,1:00

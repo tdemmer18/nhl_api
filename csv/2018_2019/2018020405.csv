@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020405,8471769,Niklas Hjalmarsson,Arizona Coyotes,D,16:02,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,13:27,0:00,2:35,NA
-2018020405,8474613,Derek Stepan,Arizona Coyotes,C,15:26,2,0,6,0,0,0,0,7,16,0,0,0,0,0,1,10:33,2:50,2:03,43.75
-2018020405,8475209,Richard Panik,Arizona Coyotes,RW,16:45,1,1,3,1,0,0,2,0,0,0,0,0,0,1,2,11:48,3:05,1:52,NA
-2018020405,8470755,Brad Richardson,Arizona Coyotes,C,13:41,0,0,1,1,0,0,0,6,13,0,0,0,0,0,0,11:27,0:00,2:14,46.15
-2018020405,8476326,Josh Archibald,Arizona Coyotes,RW,12:52,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,11:30,0:00,1:22,NA
-2018020405,8473546,Michael Grabner,Arizona Coyotes,RW,3:11,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3:11,0:00,0:00,NA
-2018020405,8477851,Jordan Oesterle,Arizona Coyotes,D,20:45,0,0,1,1,0,0,0,0,0,0,0,0,0,1,2,17:09,3:07,0:29,NA
-2018020405,8476994,Vinnie Hinostroza,Arizona Coyotes,C,14:36,1,0,1,1,0,0,2,1,1,0,0,0,0,2,0,14:36,0:00,0:00,100
-2018020405,8476851,Alex Galchenyuk,Arizona Coyotes,C,19:36,0,0,3,0,0,0,0,4,7,1,0,0,0,0,1,10:54,8:42,0:00,57.14
-2018020405,8477951,Nick Schmaltz,Arizona Coyotes,C,16:53,2,0,5,0,0,0,2,3,14,1,1,0,0,0,2,8:26,8:27,0:00,21.43
-2018020405,8475246,Kevin Connauton,Arizona Coyotes,D,19:08,0,0,1,0,0,0,2,0,0,0,1,0,0,1,1,17:00,0:35,1:33,NA
-2018020405,8471274,Alex Goligoski,Arizona Coyotes,D,20:28,0,1,2,1,0,0,0,0,0,0,3,0,0,2,3,15:28,3:02,1:58,NA
-2018020405,8478474,Lawson Crouse,Arizona Coyotes,LW,12:18,0,0,2,4,0,0,2,0,0,0,0,0,0,0,0,11:49,0:00,0:29,NA
-2018020405,8479345,Jakob Chychrun,Arizona Coyotes,D,21:51,0,1,4,0,1,0,0,0,0,1,0,0,0,2,0,14:00,7:51,0:00,NA
-2018020405,8478432,Christian Fischer,Arizona Coyotes,RW,11:58,0,1,4,0,0,0,0,0,0,0,0,0,0,0,1,9:08,2:50,0:00,NA
-2018020405,8479343,Clayton Keller,Arizona Coyotes,C,18:47,2,1,4,0,0,1,0,0,1,0,0,0,0,0,2,10:20,8:27,0:00,0
-2018020405,8475171,Oliver Ekman-Larsson,Arizona Coyotes,D,22:24,1,0,2,3,0,0,0,0,0,1,1,0,0,2,1,12:30,8:29,1:25,NA
-2018020405,8476393,Nick Cousins,Arizona Coyotes,C,13:30,0,1,4,0,0,0,0,4,9,1,0,0,0,0,1,13:15,0:15,0:00,44.44
-2018020405,8476897,Oskar Sundqvist,St. Louis Blues,C,13:45,0,0,2,2,0,0,4,1,1,0,0,0,0,0,-1,9:29,0:00,4:16,100
-2018020405,8477964,Ivan Barbashev,St. Louis Blues,C,13:24,0,0,1,1,0,0,0,8,11,1,0,0,0,1,-1,8:07,0:00,5:17,73
-2018020405,8475765,Vladimir Tarasenko,St. Louis Blues,RW,15:05,0,0,5,0,0,0,10,1,1,0,0,0,0,1,-3,12:11,2:11,0:43,100
-2018020405,8478407,Vince Dunn,St. Louis Blues,D,18:12,0,0,2,2,0,0,0,0,0,0,1,0,0,1,-1,15:57,1:59,0:16,NA
-2018020405,8476877,Jordan Schmaltz,St. Louis Blues,D,10:27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,9:11,0:00,1:16,NA
-2018020405,8478104,Sammy Blais,St. Louis Blues,LW,9:50,0,0,0,3,0,0,4,0,0,0,0,0,0,1,0,8:50,1:00,0:00,NA
-2018020405,8477952,Robby Fabbri,St. Louis Blues,C,2:55,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2:40,0:00,0:15,NA
-2018020405,8475158,Ryan O'Reilly,St. Louis Blues,C,18:44,1,0,4,2,0,0,0,13,23,1,1,0,0,0,-1,13:40,1:59,3:05,57
-2018020405,8474102,David Perron,St. Louis Blues,LW,16:31,0,0,2,4,0,0,2,0,0,0,0,0,0,0,-2,14:18,2:12,0:01,NA
-2018020405,8474145,Robert Bortuzzo,St. Louis Blues,D,16:47,0,0,0,3,0,0,2,0,0,0,0,0,0,2,-2,12:22,0:02,4:23,NA
-2018020405,8474034,Pat Maroon,St. Louis Blues,LW,14:24,0,0,2,4,0,0,2,0,0,0,0,0,0,0,0,12:38,1:46,0:00,NA
-2018020405,8475098,Tyler Bozak,St. Louis Blues,C,15:28,0,0,0,1,0,0,0,6,11,0,0,0,0,1,0,10:35,1:48,3:05,55
-2018020405,8476441,Joel Edmundson,St. Louis Blues,D,22:47,0,0,1,3,0,0,2,0,0,0,0,0,0,3,-3,17:01,0:12,5:34,NA
-2018020405,8470151,Jay Bouwmeester,St. Louis Blues,D,23:22,1,0,4,1,0,0,0,0,0,1,0,0,0,2,0,18:04,0:00,5:18,NA
-2018020405,8476892,Colton Parayko,St. Louis Blues,D,24:33,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,16:27,1:49,6:17,NA
-2018020405,8475170,Brayden Schenn,St. Louis Blues,C,19:01,0,0,1,3,0,0,0,6,12,1,0,0,0,0,-2,12:47,2:14,4:00,50
-2018020405,8477482,Zach Sanford,St. Louis Blues,LW,12:02,0,0,1,1,0,0,0,0,0,1,1,0,0,1,0,9:20,0:59,1:43,NA
-2018020405,8480023,Robert Thomas,St. Louis Blues,C,15:14,0,1,1,0,0,0,0,1,2,1,0,0,0,1,-1,12:46,1:49,0:39,50
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020405,8471769,Niklas Hjalmarsson,Arizona Coyotes,St. Louis Blues,D,16:02,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,13:27,0:00,2:35,NA
+2018020405,8474613,Derek Stepan,Arizona Coyotes,St. Louis Blues,C,15:26,2,0,6,0,0,0,0,7,16,0,0,0,0,0,1,10:33,2:50,2:03,43.75
+2018020405,8475209,Richard Panik,Arizona Coyotes,St. Louis Blues,RW,16:45,1,1,3,1,0,0,2,0,0,0,0,0,0,1,2,11:48,3:05,1:52,NA
+2018020405,8470755,Brad Richardson,Arizona Coyotes,St. Louis Blues,C,13:41,0,0,1,1,0,0,0,6,13,0,0,0,0,0,0,11:27,0:00,2:14,46.15
+2018020405,8476326,Josh Archibald,Arizona Coyotes,St. Louis Blues,RW,12:52,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,11:30,0:00,1:22,NA
+2018020405,8473546,Michael Grabner,Arizona Coyotes,St. Louis Blues,RW,3:11,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3:11,0:00,0:00,NA
+2018020405,8477851,Jordan Oesterle,Arizona Coyotes,St. Louis Blues,D,20:45,0,0,1,1,0,0,0,0,0,0,0,0,0,1,2,17:09,3:07,0:29,NA
+2018020405,8476994,Vinnie Hinostroza,Arizona Coyotes,St. Louis Blues,C,14:36,1,0,1,1,0,0,2,1,1,0,0,0,0,2,0,14:36,0:00,0:00,100
+2018020405,8476851,Alex Galchenyuk,Arizona Coyotes,St. Louis Blues,C,19:36,0,0,3,0,0,0,0,4,7,1,0,0,0,0,1,10:54,8:42,0:00,57.14
+2018020405,8477951,Nick Schmaltz,Arizona Coyotes,St. Louis Blues,C,16:53,2,0,5,0,0,0,2,3,14,1,1,0,0,0,2,8:26,8:27,0:00,21.43
+2018020405,8475246,Kevin Connauton,Arizona Coyotes,St. Louis Blues,D,19:08,0,0,1,0,0,0,2,0,0,0,1,0,0,1,1,17:00,0:35,1:33,NA
+2018020405,8471274,Alex Goligoski,Arizona Coyotes,St. Louis Blues,D,20:28,0,1,2,1,0,0,0,0,0,0,3,0,0,2,3,15:28,3:02,1:58,NA
+2018020405,8478474,Lawson Crouse,Arizona Coyotes,St. Louis Blues,LW,12:18,0,0,2,4,0,0,2,0,0,0,0,0,0,0,0,11:49,0:00,0:29,NA
+2018020405,8479345,Jakob Chychrun,Arizona Coyotes,St. Louis Blues,D,21:51,0,1,4,0,1,0,0,0,0,1,0,0,0,2,0,14:00,7:51,0:00,NA
+2018020405,8478432,Christian Fischer,Arizona Coyotes,St. Louis Blues,RW,11:58,0,1,4,0,0,0,0,0,0,0,0,0,0,0,1,9:08,2:50,0:00,NA
+2018020405,8479343,Clayton Keller,Arizona Coyotes,St. Louis Blues,C,18:47,2,1,4,0,0,1,0,0,1,0,0,0,0,0,2,10:20,8:27,0:00,0
+2018020405,8475171,Oliver Ekman-Larsson,Arizona Coyotes,St. Louis Blues,D,22:24,1,0,2,3,0,0,0,0,0,1,1,0,0,2,1,12:30,8:29,1:25,NA
+2018020405,8476393,Nick Cousins,Arizona Coyotes,St. Louis Blues,C,13:30,0,1,4,0,0,0,0,4,9,1,0,0,0,0,1,13:15,0:15,0:00,44.44
+2018020405,8476897,Oskar Sundqvist,St. Louis Blues,Arizona Coyotes,C,13:45,0,0,2,2,0,0,4,1,1,0,0,0,0,0,-1,9:29,0:00,4:16,100
+2018020405,8477964,Ivan Barbashev,St. Louis Blues,Arizona Coyotes,C,13:24,0,0,1,1,0,0,0,8,11,1,0,0,0,1,-1,8:07,0:00,5:17,73
+2018020405,8475765,Vladimir Tarasenko,St. Louis Blues,Arizona Coyotes,RW,15:05,0,0,5,0,0,0,10,1,1,0,0,0,0,1,-3,12:11,2:11,0:43,100
+2018020405,8478407,Vince Dunn,St. Louis Blues,Arizona Coyotes,D,18:12,0,0,2,2,0,0,0,0,0,0,1,0,0,1,-1,15:57,1:59,0:16,NA
+2018020405,8476877,Jordan Schmaltz,St. Louis Blues,Arizona Coyotes,D,10:27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,9:11,0:00,1:16,NA
+2018020405,8478104,Sammy Blais,St. Louis Blues,Arizona Coyotes,LW,9:50,0,0,0,3,0,0,4,0,0,0,0,0,0,1,0,8:50,1:00,0:00,NA
+2018020405,8477952,Robby Fabbri,St. Louis Blues,Arizona Coyotes,C,2:55,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2:40,0:00,0:15,NA
+2018020405,8475158,Ryan O'Reilly,St. Louis Blues,Arizona Coyotes,C,18:44,1,0,4,2,0,0,0,13,23,1,1,0,0,0,-1,13:40,1:59,3:05,57
+2018020405,8474102,David Perron,St. Louis Blues,Arizona Coyotes,LW,16:31,0,0,2,4,0,0,2,0,0,0,0,0,0,0,-2,14:18,2:12,0:01,NA
+2018020405,8474145,Robert Bortuzzo,St. Louis Blues,Arizona Coyotes,D,16:47,0,0,0,3,0,0,2,0,0,0,0,0,0,2,-2,12:22,0:02,4:23,NA
+2018020405,8474034,Pat Maroon,St. Louis Blues,Arizona Coyotes,LW,14:24,0,0,2,4,0,0,2,0,0,0,0,0,0,0,0,12:38,1:46,0:00,NA
+2018020405,8475098,Tyler Bozak,St. Louis Blues,Arizona Coyotes,C,15:28,0,0,0,1,0,0,0,6,11,0,0,0,0,1,0,10:35,1:48,3:05,55
+2018020405,8476441,Joel Edmundson,St. Louis Blues,Arizona Coyotes,D,22:47,0,0,1,3,0,0,2,0,0,0,0,0,0,3,-3,17:01,0:12,5:34,NA
+2018020405,8470151,Jay Bouwmeester,St. Louis Blues,Arizona Coyotes,D,23:22,1,0,4,1,0,0,0,0,0,1,0,0,0,2,0,18:04,0:00,5:18,NA
+2018020405,8476892,Colton Parayko,St. Louis Blues,Arizona Coyotes,D,24:33,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,16:27,1:49,6:17,NA
+2018020405,8475170,Brayden Schenn,St. Louis Blues,Arizona Coyotes,C,19:01,0,0,1,3,0,0,0,6,12,1,0,0,0,0,-2,12:47,2:14,4:00,50
+2018020405,8477482,Zach Sanford,St. Louis Blues,Arizona Coyotes,LW,12:02,0,0,1,1,0,0,0,0,0,1,1,0,0,1,0,9:20,0:59,1:43,NA
+2018020405,8480023,Robert Thomas,St. Louis Blues,Arizona Coyotes,C,15:14,0,1,1,0,0,0,0,1,2,1,0,0,0,1,-1,12:46,1:49,0:39,50

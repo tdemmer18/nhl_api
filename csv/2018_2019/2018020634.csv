@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020634,8471769,Niklas Hjalmarsson,Arizona Coyotes,D,20:43,0,0,2,1,0,0,0,0,0,1,0,0,0,1,1,16:43,0:01,3:59,NA
-2018020634,8474613,Derek Stepan,Arizona Coyotes,C,20:00,0,0,1,3,0,0,0,6,16,1,2,0,0,1,-1,14:30,4:31,0:59,37.5
-2018020634,8475209,Richard Panik,Arizona Coyotes,RW,15:29,0,0,1,3,0,0,4,0,0,0,0,0,0,0,0,11:40,2:37,1:12,NA
-2018020634,8478856,Conor Garland,Arizona Coyotes,RW,16:09,0,1,2,0,0,0,0,0,1,1,2,0,0,0,2,10:37,5:32,0:00,0
-2018020634,8470755,Brad Richardson,Arizona Coyotes,C,19:26,0,0,1,1,0,0,0,13,21,1,0,0,0,1,0,16:04,0:01,3:21,61.9
-2018020634,8476326,Josh Archibald,Arizona Coyotes,RW,15:44,0,0,1,5,0,0,0,0,0,0,0,0,0,0,-1,12:30,0:19,2:55,NA
-2018020634,8474131,Mario Kempe,Arizona Coyotes,RW,8:10,0,0,1,1,0,0,0,1,4,0,2,0,0,0,2,6:37,0:00,1:33,25
-2018020634,8477851,Jordan Oesterle,Arizona Coyotes,D,19:21,0,0,0,4,0,0,0,0,0,0,0,0,0,3,-2,15:23,0:21,3:37,NA
-2018020634,8476994,Vinnie Hinostroza,Arizona Coyotes,C,15:39,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,12:57,2:30,0:12,NA
-2018020634,8476851,Alex Galchenyuk,Arizona Coyotes,C,17:30,0,0,4,1,0,0,0,4,8,0,2,0,0,0,-1,11:42,5:48,0:00,50
-2018020634,8471274,Alex Goligoski,Arizona Coyotes,D,16:17,0,0,0,0,0,0,0,0,0,0,3,0,0,0,-2,11:43,2:11,2:23,NA
-2018020634,8478474,Lawson Crouse,Arizona Coyotes,LW,14:34,0,0,1,5,0,0,0,0,1,0,0,0,0,0,-1,12:46,0:00,1:48,0
-2018020634,8479345,Jakob Chychrun,Arizona Coyotes,D,20:02,0,0,3,2,0,0,0,0,0,1,0,0,0,2,1,17:22,2:40,0:00,NA
-2018020634,8478432,Christian Fischer,Arizona Coyotes,RW,13:51,0,1,2,2,0,0,0,0,1,0,0,0,0,0,2,10:27,3:24,0:00,0
-2018020634,8479343,Clayton Keller,Arizona Coyotes,C,19:37,0,0,2,0,0,0,0,0,1,0,0,0,0,0,-1,14:19,5:18,0:00,0
-2018020634,8475171,Oliver Ekman-Larsson,Arizona Coyotes,D,26:48,0,0,1,5,0,0,2,0,0,0,1,0,0,0,1,19:15,6:09,1:24,NA
-2018020634,8476393,Nick Cousins,Arizona Coyotes,C,13:11,0,0,2,1,0,0,0,3,6,0,0,0,0,1,-1,12:53,0:18,0:00,50
-2018020634,8480950,Ilya Lyubushkin,Arizona Coyotes,D,16:39,0,0,0,3,0,0,0,0,0,0,1,0,0,1,1,16:02,0:00,0:37,NA
-2018020634,8470619,Brian Boyle,New Jersey Devils,C,14:35,0,0,0,2,0,0,4,3,6,0,0,0,0,1,-1,8:46,3:23,2:26,50
-2018020634,8476923,Damon Severson,New Jersey Devils,D,23:54,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,19:55,2:25,1:34,NA
-2018020634,8471233,Travis Zajac,New Jersey Devils,C,20:40,1,0,3,3,0,0,2,13,18,1,0,0,0,1,0,14:34,2:51,3:15,72.22
-2018020634,8479407,Jesper Bratt,New Jersey Devils,LW,18:11,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,15:02,3:09,0:00,NA
-2018020634,8473933,Ben Lovejoy,New Jersey Devils,D,18:01,0,0,3,1,0,0,0,0,0,0,2,0,0,2,0,11:15,0:00,6:46,NA
-2018020634,8477425,Miles Wood,New Jersey Devils,LW,16:53,1,0,2,1,0,0,0,0,0,0,2,0,0,0,-1,14:16,2:37,0:00,NA
-2018020634,8471226,Drew Stafford,New Jersey Devils,RW,9:26,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,9:26,0:00,0:00,0
-2018020634,8472382,Andy Greene,New Jersey Devils,D,24:17,0,0,2,1,0,0,0,0,0,0,1,0,0,2,0,17:00,0:00,7:17,NA
-2018020634,8478401,Pavel Zacha,New Jersey Devils,C,17:13,0,0,1,3,0,0,0,5,8,0,1,0,0,0,-1,12:02,3:06,2:05,62.5
-2018020634,8477355,Will Butcher,New Jersey Devils,D,18:55,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,14:55,4:00,0:00,NA
-2018020634,8476399,Blake Coleman,New Jersey Devils,C,17:08,0,1,8,3,0,0,2,2,6,1,2,0,0,2,0,14:05,0:00,3:03,33.33
-2018020634,8475222,Sami Vatanen,New Jersey Devils,D,21:29,0,0,1,0,0,0,0,0,0,0,0,0,0,4,0,18:26,2:00,1:03,NA
-2018020634,8475151,Kyle Palmieri,New Jersey Devils,RW,18:41,1,0,4,0,0,0,0,0,3,1,1,0,0,0,1,13:24,3:35,1:42,0
-2018020634,8478881,Brett Seney,New Jersey Devils,LW,8:31,0,0,1,1,0,0,0,3,5,0,0,0,0,0,0,8:31,0:00,0:00,60
-2018020634,8477463,Steven Santini,New Jersey Devils,D,15:03,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0,15:03,0:00,0:00,NA
-2018020634,8476474,Stefan Noesen,New Jersey Devils,RW,9:50,0,0,0,4,0,0,0,0,0,0,0,0,0,0,-1,9:50,0:00,0:00,NA
-2018020634,8476370,Blake Pietila,New Jersey Devils,LW,11:07,0,0,1,3,0,0,2,0,0,0,0,0,0,0,0,10:47,0:00,0:20,NA
-2018020634,8480002,Nico Hischier,New Jersey Devils,C,21:06,0,1,5,0,0,0,0,6,12,0,1,0,0,1,1,16:03,2:54,2:09,50
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020634,8471769,Niklas Hjalmarsson,Arizona Coyotes,New Jersey Devils,D,20:43,0,0,2,1,0,0,0,0,0,1,0,0,0,1,1,16:43,0:01,3:59,NA
+2018020634,8474613,Derek Stepan,Arizona Coyotes,New Jersey Devils,C,20:00,0,0,1,3,0,0,0,6,16,1,2,0,0,1,-1,14:30,4:31,0:59,37.5
+2018020634,8475209,Richard Panik,Arizona Coyotes,New Jersey Devils,RW,15:29,0,0,1,3,0,0,4,0,0,0,0,0,0,0,0,11:40,2:37,1:12,NA
+2018020634,8478856,Conor Garland,Arizona Coyotes,New Jersey Devils,RW,16:09,0,1,2,0,0,0,0,0,1,1,2,0,0,0,2,10:37,5:32,0:00,0
+2018020634,8470755,Brad Richardson,Arizona Coyotes,New Jersey Devils,C,19:26,0,0,1,1,0,0,0,13,21,1,0,0,0,1,0,16:04,0:01,3:21,61.9
+2018020634,8476326,Josh Archibald,Arizona Coyotes,New Jersey Devils,RW,15:44,0,0,1,5,0,0,0,0,0,0,0,0,0,0,-1,12:30,0:19,2:55,NA
+2018020634,8474131,Mario Kempe,Arizona Coyotes,New Jersey Devils,RW,8:10,0,0,1,1,0,0,0,1,4,0,2,0,0,0,2,6:37,0:00,1:33,25
+2018020634,8477851,Jordan Oesterle,Arizona Coyotes,New Jersey Devils,D,19:21,0,0,0,4,0,0,0,0,0,0,0,0,0,3,-2,15:23,0:21,3:37,NA
+2018020634,8476994,Vinnie Hinostroza,Arizona Coyotes,New Jersey Devils,C,15:39,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,12:57,2:30,0:12,NA
+2018020634,8476851,Alex Galchenyuk,Arizona Coyotes,New Jersey Devils,C,17:30,0,0,4,1,0,0,0,4,8,0,2,0,0,0,-1,11:42,5:48,0:00,50
+2018020634,8471274,Alex Goligoski,Arizona Coyotes,New Jersey Devils,D,16:17,0,0,0,0,0,0,0,0,0,0,3,0,0,0,-2,11:43,2:11,2:23,NA
+2018020634,8478474,Lawson Crouse,Arizona Coyotes,New Jersey Devils,LW,14:34,0,0,1,5,0,0,0,0,1,0,0,0,0,0,-1,12:46,0:00,1:48,0
+2018020634,8479345,Jakob Chychrun,Arizona Coyotes,New Jersey Devils,D,20:02,0,0,3,2,0,0,0,0,0,1,0,0,0,2,1,17:22,2:40,0:00,NA
+2018020634,8478432,Christian Fischer,Arizona Coyotes,New Jersey Devils,RW,13:51,0,1,2,2,0,0,0,0,1,0,0,0,0,0,2,10:27,3:24,0:00,0
+2018020634,8479343,Clayton Keller,Arizona Coyotes,New Jersey Devils,C,19:37,0,0,2,0,0,0,0,0,1,0,0,0,0,0,-1,14:19,5:18,0:00,0
+2018020634,8475171,Oliver Ekman-Larsson,Arizona Coyotes,New Jersey Devils,D,26:48,0,0,1,5,0,0,2,0,0,0,1,0,0,0,1,19:15,6:09,1:24,NA
+2018020634,8476393,Nick Cousins,Arizona Coyotes,New Jersey Devils,C,13:11,0,0,2,1,0,0,0,3,6,0,0,0,0,1,-1,12:53,0:18,0:00,50
+2018020634,8480950,Ilya Lyubushkin,Arizona Coyotes,New Jersey Devils,D,16:39,0,0,0,3,0,0,0,0,0,0,1,0,0,1,1,16:02,0:00,0:37,NA
+2018020634,8470619,Brian Boyle,New Jersey Devils,Arizona Coyotes,C,14:35,0,0,0,2,0,0,4,3,6,0,0,0,0,1,-1,8:46,3:23,2:26,50
+2018020634,8476923,Damon Severson,New Jersey Devils,Arizona Coyotes,D,23:54,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,19:55,2:25,1:34,NA
+2018020634,8471233,Travis Zajac,New Jersey Devils,Arizona Coyotes,C,20:40,1,0,3,3,0,0,2,13,18,1,0,0,0,1,0,14:34,2:51,3:15,72.22
+2018020634,8479407,Jesper Bratt,New Jersey Devils,Arizona Coyotes,LW,18:11,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,15:02,3:09,0:00,NA
+2018020634,8473933,Ben Lovejoy,New Jersey Devils,Arizona Coyotes,D,18:01,0,0,3,1,0,0,0,0,0,0,2,0,0,2,0,11:15,0:00,6:46,NA
+2018020634,8477425,Miles Wood,New Jersey Devils,Arizona Coyotes,LW,16:53,1,0,2,1,0,0,0,0,0,0,2,0,0,0,-1,14:16,2:37,0:00,NA
+2018020634,8471226,Drew Stafford,New Jersey Devils,Arizona Coyotes,RW,9:26,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,9:26,0:00,0:00,0
+2018020634,8472382,Andy Greene,New Jersey Devils,Arizona Coyotes,D,24:17,0,0,2,1,0,0,0,0,0,0,1,0,0,2,0,17:00,0:00,7:17,NA
+2018020634,8478401,Pavel Zacha,New Jersey Devils,Arizona Coyotes,C,17:13,0,0,1,3,0,0,0,5,8,0,1,0,0,0,-1,12:02,3:06,2:05,62.5
+2018020634,8477355,Will Butcher,New Jersey Devils,Arizona Coyotes,D,18:55,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,14:55,4:00,0:00,NA
+2018020634,8476399,Blake Coleman,New Jersey Devils,Arizona Coyotes,C,17:08,0,1,8,3,0,0,2,2,6,1,2,0,0,2,0,14:05,0:00,3:03,33.33
+2018020634,8475222,Sami Vatanen,New Jersey Devils,Arizona Coyotes,D,21:29,0,0,1,0,0,0,0,0,0,0,0,0,0,4,0,18:26,2:00,1:03,NA
+2018020634,8475151,Kyle Palmieri,New Jersey Devils,Arizona Coyotes,RW,18:41,1,0,4,0,0,0,0,0,3,1,1,0,0,0,1,13:24,3:35,1:42,0
+2018020634,8478881,Brett Seney,New Jersey Devils,Arizona Coyotes,LW,8:31,0,0,1,1,0,0,0,3,5,0,0,0,0,0,0,8:31,0:00,0:00,60
+2018020634,8477463,Steven Santini,New Jersey Devils,Arizona Coyotes,D,15:03,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0,15:03,0:00,0:00,NA
+2018020634,8476474,Stefan Noesen,New Jersey Devils,Arizona Coyotes,RW,9:50,0,0,0,4,0,0,0,0,0,0,0,0,0,0,-1,9:50,0:00,0:00,NA
+2018020634,8476370,Blake Pietila,New Jersey Devils,Arizona Coyotes,LW,11:07,0,0,1,3,0,0,2,0,0,0,0,0,0,0,0,10:47,0:00,0:20,NA
+2018020634,8480002,Nico Hischier,New Jersey Devils,Arizona Coyotes,C,21:06,0,1,5,0,0,0,0,6,12,0,1,0,0,1,1,16:03,2:54,2:09,50

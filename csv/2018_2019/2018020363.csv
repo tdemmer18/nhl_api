@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020363,8471735,Keith Yandle,Florida Panthers,D,20:47,0,0,3,0,0,0,0,0,0,0,1,0,0,0,-1,15:58,4:23,0:26,NA
-2018020363,8474149,Evgenii Dadonov,Florida Panthers,RW,20:15,2,0,2,2,0,1,0,0,0,0,2,0,0,0,-1,15:58,4:17,0:00,NA
-2018020363,8477932,Aaron Ekblad,Florida Panthers,D,22:12,1,0,2,1,0,0,0,0,0,0,3,0,0,0,1,18:21,2:43,1:08,NA
-2018020363,8476875,Mike Matheson,Florida Panthers,D,23:14,0,0,3,0,0,0,2,0,0,2,3,0,0,0,-1,19:42,2:18,1:14,NA
-2018020363,8474884,Mike Hoffman,Florida Panthers,LW,20:52,0,1,7,0,0,0,0,2,2,1,2,0,0,1,0,16:36,4:16,0:00,100
-2018020363,8471426,Troy Brouwer,Florida Panthers,RW,14:39,0,0,0,5,0,0,0,0,1,0,1,0,0,1,0,13:04,0:03,1:32,0
-2018020363,8477955,Jared McCann,Florida Panthers,C,13:06,0,1,1,0,0,0,0,5,13,0,1,0,0,1,1,10:20,2:46,0:00,38.46
-2018020363,8474098,Colton Sceviour,Florida Panthers,C,12:21,0,0,5,1,0,0,0,0,1,1,1,0,0,5,1,9:53,0:00,2:28,0
-2018020363,8474230,Micheal Haley,Florida Panthers,C,6:58,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,6:58,0:00,0:00,NA
-2018020363,8475760,Nick Bjugstad,Florida Panthers,C,13:06,0,0,1,3,0,0,0,5,12,0,0,0,0,0,-1,10:00,3:06,0:00,41.67
-2018020363,8480955,Bogdan Kiselevich,Florida Panthers,D,16:10,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,14:47,0:00,1:23,NA
-2018020363,8477996,Juho Lammikko,Florida Panthers,RW,15:22,0,0,1,0,0,0,0,7,12,0,2,0,0,0,0,12:07,0:12,3:03,58.33
-2018020363,8476456,Jonathan Huberdeau,Florida Panthers,LW,15:41,2,1,4,1,0,1,2,0,0,0,0,0,0,0,0,11:25,4:16,0:00,NA
-2018020363,8475796,Mark Pysyk,Florida Panthers,D,18:03,0,0,0,0,0,0,0,0,0,0,1,0,0,4,-1,15:30,0:15,2:18,NA
-2018020363,8477346,MacKenzie Weegar,Florida Panthers,D,16:56,1,0,1,1,0,0,0,0,0,2,0,0,0,1,1,14:52,0:33,1:31,NA
-2018020363,8478366,Frank Vatrano,Florida Panthers,C,13:31,0,0,0,3,0,0,0,0,1,1,0,0,0,0,-1,10:37,2:54,0:00,0
-2018020363,8478211,Dryden Hunt,Florida Panthers,LW,13:59,0,0,2,0,0,0,0,0,1,0,1,0,0,0,1,13:47,0:12,0:00,0
-2018020363,8477493,Aleksander Barkov,Florida Panthers,C,24:02,1,1,2,1,1,0,0,18,28,1,1,0,0,1,-1,19:09,3:56,0:57,64.29
-2018020363,8470619,Brian Boyle,New Jersey Devils,C,11:22,0,0,0,2,0,0,0,2,4,0,1,0,0,0,0,6:04,2:58,2:20,50
-2018020363,8476923,Damon Severson,New Jersey Devils,D,25:08,0,0,1,1,0,0,0,0,0,0,1,0,0,0,-1,22:44,1:05,1:19,NA
-2018020363,8471233,Travis Zajac,New Jersey Devils,C,18:17,0,0,1,1,0,0,2,7,19,2,0,0,0,1,-1,15:16,0:00,3:01,36.84
-2018020363,8479407,Jesper Bratt,New Jersey Devils,LW,17:46,0,1,3,0,0,0,0,0,0,1,2,0,0,0,-1,16:28,1:13,0:05,NA
-2018020363,8473933,Ben Lovejoy,New Jersey Devils,D,16:56,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1,11:21,0:00,5:35,NA
-2018020363,8477425,Miles Wood,New Jersey Devils,LW,11:56,0,1,1,0,0,0,0,0,0,0,2,0,0,0,1,10:54,1:02,0:00,NA
-2018020363,8472382,Andy Greene,New Jersey Devils,D,21:48,0,0,2,1,0,0,0,0,0,1,0,0,0,2,1,16:00,0:00,5:48,NA
-2018020363,8478401,Pavel Zacha,New Jersey Devils,C,16:02,0,0,1,1,0,0,0,8,17,0,1,0,0,0,2,11:40,1:16,3:06,47.06
-2018020363,8477355,Will Butcher,New Jersey Devils,D,16:54,0,0,3,0,0,0,0,0,0,1,0,0,0,0,-1,14:00,2:54,0:00,NA
-2018020363,8477520,Jean-Sebastien Dea,New Jersey Devils,C,9:48,0,0,3,0,0,0,0,4,6,1,1,0,0,0,0,9:47,0:01,0:00,66.67
-2018020363,8476399,Blake Coleman,New Jersey Devils,C,15:34,0,1,3,3,0,0,0,1,2,0,1,1,0,0,0,12:29,0:00,3:05,50
-2018020363,8475222,Sami Vatanen,New Jersey Devils,D,21:29,2,0,0,1,0,0,0,0,0,0,0,0,0,1,0,18:32,1:14,1:43,NA
-2018020363,8475151,Kyle Palmieri,New Jersey Devils,RW,16:38,0,0,2,2,0,0,0,2,2,0,1,0,0,2,0,13:05,2:46,0:47,100
-2018020363,8478881,Brett Seney,New Jersey Devils,LW,8:25,0,0,4,2,0,0,0,2,5,0,1,0,0,1,0,8:24,0:01,0:00,40
-2018020363,8475791,Taylor Hall,New Jersey Devils,LW,21:02,1,0,2,1,0,0,0,2,4,1,0,0,0,1,0,18:13,2:46,0:03,50
-2018020363,8480948,Egor Yakovlev,New Jersey Devils,D,16:37,1,0,1,0,0,0,2,0,0,0,0,0,0,2,1,16:33,0:01,0:03,NA
-2018020363,8476474,Stefan Noesen,New Jersey Devils,RW,11:02,0,0,0,1,0,0,2,1,1,0,0,0,0,2,0,11:02,0:00,0:00,100
-2018020363,8480002,Nico Hischier,New Jersey Devils,C,19:48,0,0,3,1,0,0,0,5,11,2,2,0,0,0,-1,15:46,2:43,1:19,45.45
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020363,8471735,Keith Yandle,Florida Panthers,New Jersey Devils,D,20:47,0,0,3,0,0,0,0,0,0,0,1,0,0,0,-1,15:58,4:23,0:26,NA
+2018020363,8474149,Evgenii Dadonov,Florida Panthers,New Jersey Devils,RW,20:15,2,0,2,2,0,1,0,0,0,0,2,0,0,0,-1,15:58,4:17,0:00,NA
+2018020363,8477932,Aaron Ekblad,Florida Panthers,New Jersey Devils,D,22:12,1,0,2,1,0,0,0,0,0,0,3,0,0,0,1,18:21,2:43,1:08,NA
+2018020363,8476875,Mike Matheson,Florida Panthers,New Jersey Devils,D,23:14,0,0,3,0,0,0,2,0,0,2,3,0,0,0,-1,19:42,2:18,1:14,NA
+2018020363,8474884,Mike Hoffman,Florida Panthers,New Jersey Devils,LW,20:52,0,1,7,0,0,0,0,2,2,1,2,0,0,1,0,16:36,4:16,0:00,100
+2018020363,8471426,Troy Brouwer,Florida Panthers,New Jersey Devils,RW,14:39,0,0,0,5,0,0,0,0,1,0,1,0,0,1,0,13:04,0:03,1:32,0
+2018020363,8477955,Jared McCann,Florida Panthers,New Jersey Devils,C,13:06,0,1,1,0,0,0,0,5,13,0,1,0,0,1,1,10:20,2:46,0:00,38.46
+2018020363,8474098,Colton Sceviour,Florida Panthers,New Jersey Devils,C,12:21,0,0,5,1,0,0,0,0,1,1,1,0,0,5,1,9:53,0:00,2:28,0
+2018020363,8474230,Micheal Haley,Florida Panthers,New Jersey Devils,C,6:58,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,6:58,0:00,0:00,NA
+2018020363,8475760,Nick Bjugstad,Florida Panthers,New Jersey Devils,C,13:06,0,0,1,3,0,0,0,5,12,0,0,0,0,0,-1,10:00,3:06,0:00,41.67
+2018020363,8480955,Bogdan Kiselevich,Florida Panthers,New Jersey Devils,D,16:10,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,14:47,0:00,1:23,NA
+2018020363,8477996,Juho Lammikko,Florida Panthers,New Jersey Devils,RW,15:22,0,0,1,0,0,0,0,7,12,0,2,0,0,0,0,12:07,0:12,3:03,58.33
+2018020363,8476456,Jonathan Huberdeau,Florida Panthers,New Jersey Devils,LW,15:41,2,1,4,1,0,1,2,0,0,0,0,0,0,0,0,11:25,4:16,0:00,NA
+2018020363,8475796,Mark Pysyk,Florida Panthers,New Jersey Devils,D,18:03,0,0,0,0,0,0,0,0,0,0,1,0,0,4,-1,15:30,0:15,2:18,NA
+2018020363,8477346,MacKenzie Weegar,Florida Panthers,New Jersey Devils,D,16:56,1,0,1,1,0,0,0,0,0,2,0,0,0,1,1,14:52,0:33,1:31,NA
+2018020363,8478366,Frank Vatrano,Florida Panthers,New Jersey Devils,C,13:31,0,0,0,3,0,0,0,0,1,1,0,0,0,0,-1,10:37,2:54,0:00,0
+2018020363,8478211,Dryden Hunt,Florida Panthers,New Jersey Devils,LW,13:59,0,0,2,0,0,0,0,0,1,0,1,0,0,0,1,13:47,0:12,0:00,0
+2018020363,8477493,Aleksander Barkov,Florida Panthers,New Jersey Devils,C,24:02,1,1,2,1,1,0,0,18,28,1,1,0,0,1,-1,19:09,3:56,0:57,64.29
+2018020363,8470619,Brian Boyle,New Jersey Devils,Florida Panthers,C,11:22,0,0,0,2,0,0,0,2,4,0,1,0,0,0,0,6:04,2:58,2:20,50
+2018020363,8476923,Damon Severson,New Jersey Devils,Florida Panthers,D,25:08,0,0,1,1,0,0,0,0,0,0,1,0,0,0,-1,22:44,1:05,1:19,NA
+2018020363,8471233,Travis Zajac,New Jersey Devils,Florida Panthers,C,18:17,0,0,1,1,0,0,2,7,19,2,0,0,0,1,-1,15:16,0:00,3:01,36.84
+2018020363,8479407,Jesper Bratt,New Jersey Devils,Florida Panthers,LW,17:46,0,1,3,0,0,0,0,0,0,1,2,0,0,0,-1,16:28,1:13,0:05,NA
+2018020363,8473933,Ben Lovejoy,New Jersey Devils,Florida Panthers,D,16:56,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1,11:21,0:00,5:35,NA
+2018020363,8477425,Miles Wood,New Jersey Devils,Florida Panthers,LW,11:56,0,1,1,0,0,0,0,0,0,0,2,0,0,0,1,10:54,1:02,0:00,NA
+2018020363,8472382,Andy Greene,New Jersey Devils,Florida Panthers,D,21:48,0,0,2,1,0,0,0,0,0,1,0,0,0,2,1,16:00,0:00,5:48,NA
+2018020363,8478401,Pavel Zacha,New Jersey Devils,Florida Panthers,C,16:02,0,0,1,1,0,0,0,8,17,0,1,0,0,0,2,11:40,1:16,3:06,47.06
+2018020363,8477355,Will Butcher,New Jersey Devils,Florida Panthers,D,16:54,0,0,3,0,0,0,0,0,0,1,0,0,0,0,-1,14:00,2:54,0:00,NA
+2018020363,8477520,Jean-Sebastien Dea,New Jersey Devils,Florida Panthers,C,9:48,0,0,3,0,0,0,0,4,6,1,1,0,0,0,0,9:47,0:01,0:00,66.67
+2018020363,8476399,Blake Coleman,New Jersey Devils,Florida Panthers,C,15:34,0,1,3,3,0,0,0,1,2,0,1,1,0,0,0,12:29,0:00,3:05,50
+2018020363,8475222,Sami Vatanen,New Jersey Devils,Florida Panthers,D,21:29,2,0,0,1,0,0,0,0,0,0,0,0,0,1,0,18:32,1:14,1:43,NA
+2018020363,8475151,Kyle Palmieri,New Jersey Devils,Florida Panthers,RW,16:38,0,0,2,2,0,0,0,2,2,0,1,0,0,2,0,13:05,2:46,0:47,100
+2018020363,8478881,Brett Seney,New Jersey Devils,Florida Panthers,LW,8:25,0,0,4,2,0,0,0,2,5,0,1,0,0,1,0,8:24,0:01,0:00,40
+2018020363,8475791,Taylor Hall,New Jersey Devils,Florida Panthers,LW,21:02,1,0,2,1,0,0,0,2,4,1,0,0,0,1,0,18:13,2:46,0:03,50
+2018020363,8480948,Egor Yakovlev,New Jersey Devils,Florida Panthers,D,16:37,1,0,1,0,0,0,2,0,0,0,0,0,0,2,1,16:33,0:01,0:03,NA
+2018020363,8476474,Stefan Noesen,New Jersey Devils,Florida Panthers,RW,11:02,0,0,0,1,0,0,2,1,1,0,0,0,0,2,0,11:02,0:00,0:00,100
+2018020363,8480002,Nico Hischier,New Jersey Devils,Florida Panthers,C,19:48,0,0,3,1,0,0,0,5,11,2,2,0,0,0,-1,15:46,2:43,1:19,45.45

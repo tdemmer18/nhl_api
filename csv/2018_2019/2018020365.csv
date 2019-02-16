@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020365,8480072,Lias Andersson,New York Rangers,C,8:30,0,1,1,2,0,0,0,0,0,5,0,0,0,0,0,1,8:30,0:00,0:00
-2018020365,8476918,Jimmy Vesey,New York Rangers,LW,19:09,0,0,3,0,0,0,2,NA,0,0,0,1,0,0,2,0,15:14,3:03,0:52
-2018020365,8471686,Marc Staal,New York Rangers,D,20:26,0,1,2,2,0,0,0,NA,0,0,1,1,0,0,2,1,17:42,0:01,2:43
-2018020365,8476869,Brady Skjei,New York Rangers,D,19:00,0,0,3,2,0,0,0,NA,0,0,1,2,0,0,1,1,17:25,0:18,1:17
-2018020365,8476458,Ryan Strome,New York Rangers,C,15:13,1,0,1,0,0,0,0,66.67,4,6,0,3,0,0,0,1,14:49,0:00,0:24
-2018020365,8476459,Mika Zibanejad,New York Rangers,C,19:02,1,1,3,3,0,0,2,65,13,20,2,5,0,0,0,2,13:46,4:44,0:32
-2018020365,8475855,Jesper Fast,New York Rangers,RW,16:09,1,0,0,1,0,0,0,NA,0,0,2,0,0,0,0,2,14:13,0:01,1:55
-2018020365,8477950,Tony DeAngelo,New York Rangers,D,18:24,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,0,0,15:18,3:06,0:00
-2018020365,8474031,Kevin Shattenkirk,New York Rangers,D,20:28,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,2,0,16:00,4:28,0:00
-2018020365,8475763,Kevin Hayes,New York Rangers,C,18:42,1,0,2,1,0,0,0,25,3,12,2,0,0,0,0,-1,12:29,3:40,2:33
-2018020365,8475184,Chris Kreider,New York Rangers,LW,16:06,0,1,4,3,0,0,0,100,1,1,0,0,0,0,0,1,11:20,4:46,0:00
-2018020365,8479353,Brett Howden,New York Rangers,C,19:22,0,0,1,1,0,0,0,61.54,8,13,2,0,0,0,0,0,14:19,3:51,1:12
-2018020365,8479364,Timothy Gettinger,New York Rangers,LW,7:30,0,0,1,5,0,0,0,NA,0,0,0,1,0,0,1,1,7:30,0:00,0:00
-2018020365,8476396,Steven Fogarty,New York Rangers,C,6:29,0,0,2,1,0,0,0,100,1,1,0,0,0,0,1,0,6:29,0:00,0:00
-2018020365,8474090,Brendan Smith,New York Rangers,D,14:38,0,0,1,3,0,0,0,NA,0,0,3,0,0,0,0,0,13:33,0:00,1:05
-2018020365,8480078,Filip Chytil,New York Rangers,C,15:58,1,0,2,1,0,0,0,NA,0,0,2,2,0,0,0,-1,12:02,3:56,0:00
-2018020365,8476480,Vladislav Namestnikov,New York Rangers,C,16:09,0,0,1,2,0,0,2,NA,0,0,0,0,0,0,0,0,11:49,3:48,0:32
-2018020365,8480145,Neal Pionk,New York Rangers,D,22:45,0,0,3,1,0,0,0,NA,0,0,0,1,0,0,1,2,16:22,3:28,2:55
-2018020365,8471768,Tom Pyatt,Ottawa Senators,LW,11:16,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,3,-1,7:36,0:15,3:25
-2018020365,8476919,Chris Tierney,Ottawa Senators,C,13:56,0,0,1,0,0,0,0,72.73,8,11,1,1,0,0,1,-1,10:12,0:00,3:44
-2018020365,8476879,Cody Ceci,Ottawa Senators,D,25:26,0,0,4,3,0,0,0,NA,0,0,0,1,0,0,3,-1,20:49,1:01,3:36
-2018020365,8475913,Mark Stone,Ottawa Senators,RW,19:50,0,2,4,1,0,0,2,NA,0,0,1,2,0,0,2,1,16:17,2:08,1:25
-2018020365,8471676,Bobby Ryan,Ottawa Senators,RW,14:44,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,-1,12:23,2:21,0:00
-2018020365,8478868,Christian Jaros,Ottawa Senators,D,9:03,0,0,0,3,0,0,0,NA,0,0,0,2,0,0,0,-1,9:03,0:00,0:00
-2018020365,8476288,Ryan Dzingel,Ottawa Senators,LW,15:13,0,0,3,1,0,0,0,50,1,2,2,1,0,0,1,-1,13:56,1:17,0:00
-2018020365,8477433,Ben Harpur,Ottawa Senators,D,14:52,0,0,2,0,0,0,0,NA,0,0,1,0,0,0,2,-1,11:16,0:00,3:36
-2018020365,8478400,Colin White,Ottawa Senators,C,15:25,1,0,2,0,0,0,0,50,4,8,0,0,0,0,0,1,14:24,0:00,1:01
-2018020365,8480801,Brady Tkachuk,Ottawa Senators,LW,13:18,2,0,1,2,0,0,2,NA,0,0,0,2,0,0,0,1,11:10,2:08,0:00
-2018020365,8474250,Zack Smith,Ottawa Senators,LW,17:19,0,0,0,0,0,0,2,31.58,6,19,1,2,0,0,0,0,13:52,0:20,3:07
-2018020365,8478469,Thomas Chabot,Ottawa Senators,D,25:48,0,0,1,5,0,0,4,NA,0,0,1,1,0,0,4,0,23:04,2:43,0:01
-2018020365,8475168,Matt Duchene,Ottawa Senators,C,17:13,1,0,2,0,0,0,0,52.94,9,17,0,0,0,0,0,-2,14:45,2:28,0:00
-2018020365,8480208,Drake Batherson,Ottawa Senators,RW,10:10,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,1,-1,8:38,1:32,0:00
-2018020365,8475175,Magnus Paajarvi,Ottawa Senators,LW,12:40,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,-1,9:42,0:00,2:58
-2018020365,8479320,Maxime Lajoie,Ottawa Senators,D,19:20,0,0,1,0,0,0,0,NA,0,0,0,2,0,0,1,-1,13:43,1:24,4:13
-2018020365,8476331,Dylan DeMelo,Ottawa Senators,D,23:55,0,0,2,3,0,0,0,NA,0,0,0,1,0,0,3,0,18:50,0:51,4:14
-2018020365,8474571,Mikkel Boedker,Ottawa Senators,LW,12:57,0,0,5,1,0,0,0,NA,0,0,0,0,0,0,0,-1,11:25,1:32,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020365,8480072,Lias Andersson,New York Rangers,Ottawa Senators,C,8:30,0,1,1,2,0,0,0,0,0,5,0,0,0,0,0,1,8:30,0:00,0:00
+2018020365,8476918,Jimmy Vesey,New York Rangers,Ottawa Senators,LW,19:09,0,0,3,0,0,0,2,NA,0,0,0,1,0,0,2,0,15:14,3:03,0:52
+2018020365,8471686,Marc Staal,New York Rangers,Ottawa Senators,D,20:26,0,1,2,2,0,0,0,NA,0,0,1,1,0,0,2,1,17:42,0:01,2:43
+2018020365,8476869,Brady Skjei,New York Rangers,Ottawa Senators,D,19:00,0,0,3,2,0,0,0,NA,0,0,1,2,0,0,1,1,17:25,0:18,1:17
+2018020365,8476458,Ryan Strome,New York Rangers,Ottawa Senators,C,15:13,1,0,1,0,0,0,0,66.67,4,6,0,3,0,0,0,1,14:49,0:00,0:24
+2018020365,8476459,Mika Zibanejad,New York Rangers,Ottawa Senators,C,19:02,1,1,3,3,0,0,2,65,13,20,2,5,0,0,0,2,13:46,4:44,0:32
+2018020365,8475855,Jesper Fast,New York Rangers,Ottawa Senators,RW,16:09,1,0,0,1,0,0,0,NA,0,0,2,0,0,0,0,2,14:13,0:01,1:55
+2018020365,8477950,Tony DeAngelo,New York Rangers,Ottawa Senators,D,18:24,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,0,0,15:18,3:06,0:00
+2018020365,8474031,Kevin Shattenkirk,New York Rangers,Ottawa Senators,D,20:28,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,2,0,16:00,4:28,0:00
+2018020365,8475763,Kevin Hayes,New York Rangers,Ottawa Senators,C,18:42,1,0,2,1,0,0,0,25,3,12,2,0,0,0,0,-1,12:29,3:40,2:33
+2018020365,8475184,Chris Kreider,New York Rangers,Ottawa Senators,LW,16:06,0,1,4,3,0,0,0,100,1,1,0,0,0,0,0,1,11:20,4:46,0:00
+2018020365,8479353,Brett Howden,New York Rangers,Ottawa Senators,C,19:22,0,0,1,1,0,0,0,61.54,8,13,2,0,0,0,0,0,14:19,3:51,1:12
+2018020365,8479364,Timothy Gettinger,New York Rangers,Ottawa Senators,LW,7:30,0,0,1,5,0,0,0,NA,0,0,0,1,0,0,1,1,7:30,0:00,0:00
+2018020365,8476396,Steven Fogarty,New York Rangers,Ottawa Senators,C,6:29,0,0,2,1,0,0,0,100,1,1,0,0,0,0,1,0,6:29,0:00,0:00
+2018020365,8474090,Brendan Smith,New York Rangers,Ottawa Senators,D,14:38,0,0,1,3,0,0,0,NA,0,0,3,0,0,0,0,0,13:33,0:00,1:05
+2018020365,8480078,Filip Chytil,New York Rangers,Ottawa Senators,C,15:58,1,0,2,1,0,0,0,NA,0,0,2,2,0,0,0,-1,12:02,3:56,0:00
+2018020365,8476480,Vladislav Namestnikov,New York Rangers,Ottawa Senators,C,16:09,0,0,1,2,0,0,2,NA,0,0,0,0,0,0,0,0,11:49,3:48,0:32
+2018020365,8480145,Neal Pionk,New York Rangers,Ottawa Senators,D,22:45,0,0,3,1,0,0,0,NA,0,0,0,1,0,0,1,2,16:22,3:28,2:55
+2018020365,8471768,Tom Pyatt,Ottawa Senators,New York Rangers,LW,11:16,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,3,-1,7:36,0:15,3:25
+2018020365,8476919,Chris Tierney,Ottawa Senators,New York Rangers,C,13:56,0,0,1,0,0,0,0,72.73,8,11,1,1,0,0,1,-1,10:12,0:00,3:44
+2018020365,8476879,Cody Ceci,Ottawa Senators,New York Rangers,D,25:26,0,0,4,3,0,0,0,NA,0,0,0,1,0,0,3,-1,20:49,1:01,3:36
+2018020365,8475913,Mark Stone,Ottawa Senators,New York Rangers,RW,19:50,0,2,4,1,0,0,2,NA,0,0,1,2,0,0,2,1,16:17,2:08,1:25
+2018020365,8471676,Bobby Ryan,Ottawa Senators,New York Rangers,RW,14:44,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,-1,12:23,2:21,0:00
+2018020365,8478868,Christian Jaros,Ottawa Senators,New York Rangers,D,9:03,0,0,0,3,0,0,0,NA,0,0,0,2,0,0,0,-1,9:03,0:00,0:00
+2018020365,8476288,Ryan Dzingel,Ottawa Senators,New York Rangers,LW,15:13,0,0,3,1,0,0,0,50,1,2,2,1,0,0,1,-1,13:56,1:17,0:00
+2018020365,8477433,Ben Harpur,Ottawa Senators,New York Rangers,D,14:52,0,0,2,0,0,0,0,NA,0,0,1,0,0,0,2,-1,11:16,0:00,3:36
+2018020365,8478400,Colin White,Ottawa Senators,New York Rangers,C,15:25,1,0,2,0,0,0,0,50,4,8,0,0,0,0,0,1,14:24,0:00,1:01
+2018020365,8480801,Brady Tkachuk,Ottawa Senators,New York Rangers,LW,13:18,2,0,1,2,0,0,2,NA,0,0,0,2,0,0,0,1,11:10,2:08,0:00
+2018020365,8474250,Zack Smith,Ottawa Senators,New York Rangers,LW,17:19,0,0,0,0,0,0,2,31.58,6,19,1,2,0,0,0,0,13:52,0:20,3:07
+2018020365,8478469,Thomas Chabot,Ottawa Senators,New York Rangers,D,25:48,0,0,1,5,0,0,4,NA,0,0,1,1,0,0,4,0,23:04,2:43,0:01
+2018020365,8475168,Matt Duchene,Ottawa Senators,New York Rangers,C,17:13,1,0,2,0,0,0,0,52.94,9,17,0,0,0,0,0,-2,14:45,2:28,0:00
+2018020365,8480208,Drake Batherson,Ottawa Senators,New York Rangers,RW,10:10,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,1,-1,8:38,1:32,0:00
+2018020365,8475175,Magnus Paajarvi,Ottawa Senators,New York Rangers,LW,12:40,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,-1,9:42,0:00,2:58
+2018020365,8479320,Maxime Lajoie,Ottawa Senators,New York Rangers,D,19:20,0,0,1,0,0,0,0,NA,0,0,0,2,0,0,1,-1,13:43,1:24,4:13
+2018020365,8476331,Dylan DeMelo,Ottawa Senators,New York Rangers,D,23:55,0,0,2,3,0,0,0,NA,0,0,0,1,0,0,3,0,18:50,0:51,4:14
+2018020365,8474571,Mikkel Boedker,Ottawa Senators,New York Rangers,LW,12:57,0,0,5,1,0,0,0,NA,0,0,0,0,0,0,0,-1,11:25,1:32,0:00

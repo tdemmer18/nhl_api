@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020732,8475906,John Klingberg,Dallas Stars,D,26:40,1,0,3,2,0,0,2,0,0,0,1,0,0,2,0,24:00,2:40,0:00,NA
-2018020732,8476439,Brett Ritchie,Dallas Stars,RW,11:29,0,0,1,4,0,0,0,0,0,0,1,0,0,0,0,10:48,0:41,0:00,NA
-2018020732,8476902,Esa Lindell,Dallas Stars,D,19:08,0,1,1,3,0,0,0,0,0,1,3,0,0,5,0,17:45,1:20,0:03,NA
-2018020732,8473994,Jamie Benn,Dallas Stars,LW,22:21,0,0,1,2,0,0,0,2,6,1,1,0,0,0,0,19:22,2:59,0:00,33.33
-2018020732,8476941,Connor Carrick,Dallas Stars,D,10:01,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,10:01,0:00,0:00,NA
-2018020732,8478449,Roope Hintz,Dallas Stars,LW,15:13,0,0,0,2,0,0,0,5,11,1,1,0,0,0,0,13:49,1:24,0:00,45.45
-2018020732,8471228,Alexander Radulov,Dallas Stars,RW,19:09,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,17:59,1:10,0:00,NA
-2018020732,8477406,Mattias Janmark,Dallas Stars,C,14:21,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,14:21,0:00,0:00,0
-2018020732,8476889,Radek Faksa,Dallas Stars,C,14:23,0,0,1,2,0,0,0,4,12,1,0,0,0,1,0,12:18,2:02,0:03,33.33
-2018020732,8471699,Andrew Cogliano,Dallas Stars,C,12:55,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,12:55,0:00,0:00,0
-2018020732,8471260,Blake Comeau,Dallas Stars,LW,15:10,0,0,0,2,0,0,0,0,1,0,1,0,0,0,0,15:00,0:07,0:03,0
-2018020732,8471392,Roman Polak,Dallas Stars,D,18:29,0,0,4,0,0,0,0,0,0,0,0,0,0,3,0,18:26,0:00,0:03,NA
-2018020732,8475794,Tyler Seguin,Dallas Stars,C,21:51,0,0,8,0,0,0,0,6,12,1,1,0,0,0,0,19:22,2:29,0:00,50
-2018020732,8475752,Tyler Pitlick,Dallas Stars,C,8:26,0,0,1,0,0,0,0,0,0,0,2,0,0,1,0,7:25,1:01,0:00,NA
-2018020732,8477450,Jason Dickinson,Dallas Stars,C,12:36,0,0,1,2,0,0,0,0,3,1,0,0,0,0,0,12:29,0:07,0:00,0
-2018020732,8476166,Taylor Fedun,Dallas Stars,D,13:25,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,13:18,0:07,0:00,NA
-2018020732,8469455,Jason Spezza,Dallas Stars,C,16:54,0,0,2,0,0,0,0,9,14,0,2,0,0,0,1,14:25,2:29,0:00,64.29
-2018020732,8480036,Miro Heiskanen,Dallas Stars,D,29:48,0,0,2,0,0,0,0,0,0,0,1,0,0,6,0,28:24,1:24,0:00,NA
-2018020732,8470604,Jeff Carter,Los Angeles Kings,C,15:58,1,0,1,2,0,1,0,8,15,0,1,0,0,0,0,14:30,0:03,1:25,53.33
-2018020732,8470602,Dion Phaneuf,Los Angeles Kings,D,15:03,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,14:58,0:00,0:05,NA
-2018020732,8470606,Dustin Brown,Los Angeles Kings,RW,19:47,0,1,2,3,1,0,0,0,0,0,1,0,0,0,0,18:28,0:03,1:16,NA
-2018020732,8471685,Anze Kopitar,Los Angeles Kings,C,20:38,0,0,3,0,0,0,2,15,24,1,1,0,0,3,0,20:00,0:03,0:35,62.5
-2018020732,8475726,Tyler Toffoli,Los Angeles Kings,RW,15:59,1,0,2,0,0,0,0,1,2,0,0,0,0,2,0,14:48,0:00,1:11,50
-2018020732,8470775,Nate Thompson,Los Angeles Kings,C,13:19,0,0,1,0,0,0,0,5,7,0,2,0,0,0,0,11:27,0:00,1:52,71.43
-2018020732,8477960,Adrian Kempe,Los Angeles Kings,C,15:05,0,0,0,2,0,0,0,4,7,0,1,0,0,0,0,14:57,0:00,0:08,57.14
-2018020732,8476894,Brendan Leipsic,Los Angeles Kings,LW,12:21,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,12:21,0:00,0:00,0
-2018020732,8478455,Austin Wagner,Los Angeles Kings,LW,7:28,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,7:28,0:00,0:00,NA
-2018020732,8474162,Jake Muzzin,Los Angeles Kings,D,22:50,0,0,2,0,0,0,0,0,0,0,2,0,0,2,1,21:21,0:00,1:29,NA
-2018020732,8474563,Drew Doughty,Los Angeles Kings,D,24:35,1,0,0,4,0,1,0,0,0,0,0,0,0,2,-1,22:06,0:03,2:26,NA
-2018020732,8475762,Derek Forbort,Los Angeles Kings,D,21:47,0,0,2,3,0,0,0,0,0,0,0,0,0,3,-1,19:21,0:00,2:26,NA
-2018020732,8474166,Alec Martinez,Los Angeles Kings,D,21:50,0,0,0,2,0,0,0,0,0,1,0,0,0,6,1,20:21,0:00,1:29,NA
-2018020732,8474176,Carl Hagelin,Los Angeles Kings,LW,16:33,0,1,1,1,0,0,2,1,4,1,0,0,0,0,0,16:11,0:00,0:22,25
-2018020732,8469454,Ilya Kovalchuk,Los Angeles Kings,LW,15:37,0,0,2,0,0,0,0,0,0,0,2,0,0,2,0,15:34,0:03,0:00,NA
-2018020732,8475160,Kyle Clifford,Los Angeles Kings,LW,7:51,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7:51,0:00,0:00,NA
-2018020732,8480113,Alex Iafallo,Los Angeles Kings,LW,15:44,0,0,1,2,0,0,0,1,1,0,0,0,0,0,0,14:33,0:00,1:11,100
-2018020732,8480336,Sean Walker,Los Angeles Kings,D,13:52,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,13:47,0:00,0:05,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020732,8475906,John Klingberg,Dallas Stars,Los Angeles Kings,D,26:40,1,0,3,2,0,0,2,0,0,0,1,0,0,2,0,24:00,2:40,0:00,NA
+2018020732,8476439,Brett Ritchie,Dallas Stars,Los Angeles Kings,RW,11:29,0,0,1,4,0,0,0,0,0,0,1,0,0,0,0,10:48,0:41,0:00,NA
+2018020732,8476902,Esa Lindell,Dallas Stars,Los Angeles Kings,D,19:08,0,1,1,3,0,0,0,0,0,1,3,0,0,5,0,17:45,1:20,0:03,NA
+2018020732,8473994,Jamie Benn,Dallas Stars,Los Angeles Kings,LW,22:21,0,0,1,2,0,0,0,2,6,1,1,0,0,0,0,19:22,2:59,0:00,33.33
+2018020732,8476941,Connor Carrick,Dallas Stars,Los Angeles Kings,D,10:01,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,10:01,0:00,0:00,NA
+2018020732,8478449,Roope Hintz,Dallas Stars,Los Angeles Kings,LW,15:13,0,0,0,2,0,0,0,5,11,1,1,0,0,0,0,13:49,1:24,0:00,45.45
+2018020732,8471228,Alexander Radulov,Dallas Stars,Los Angeles Kings,RW,19:09,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,17:59,1:10,0:00,NA
+2018020732,8477406,Mattias Janmark,Dallas Stars,Los Angeles Kings,C,14:21,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,14:21,0:00,0:00,0
+2018020732,8476889,Radek Faksa,Dallas Stars,Los Angeles Kings,C,14:23,0,0,1,2,0,0,0,4,12,1,0,0,0,1,0,12:18,2:02,0:03,33.33
+2018020732,8471699,Andrew Cogliano,Dallas Stars,Los Angeles Kings,C,12:55,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,12:55,0:00,0:00,0
+2018020732,8471260,Blake Comeau,Dallas Stars,Los Angeles Kings,LW,15:10,0,0,0,2,0,0,0,0,1,0,1,0,0,0,0,15:00,0:07,0:03,0
+2018020732,8471392,Roman Polak,Dallas Stars,Los Angeles Kings,D,18:29,0,0,4,0,0,0,0,0,0,0,0,0,0,3,0,18:26,0:00,0:03,NA
+2018020732,8475794,Tyler Seguin,Dallas Stars,Los Angeles Kings,C,21:51,0,0,8,0,0,0,0,6,12,1,1,0,0,0,0,19:22,2:29,0:00,50
+2018020732,8475752,Tyler Pitlick,Dallas Stars,Los Angeles Kings,C,8:26,0,0,1,0,0,0,0,0,0,0,2,0,0,1,0,7:25,1:01,0:00,NA
+2018020732,8477450,Jason Dickinson,Dallas Stars,Los Angeles Kings,C,12:36,0,0,1,2,0,0,0,0,3,1,0,0,0,0,0,12:29,0:07,0:00,0
+2018020732,8476166,Taylor Fedun,Dallas Stars,Los Angeles Kings,D,13:25,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,13:18,0:07,0:00,NA
+2018020732,8469455,Jason Spezza,Dallas Stars,Los Angeles Kings,C,16:54,0,0,2,0,0,0,0,9,14,0,2,0,0,0,1,14:25,2:29,0:00,64.29
+2018020732,8480036,Miro Heiskanen,Dallas Stars,Los Angeles Kings,D,29:48,0,0,2,0,0,0,0,0,0,0,1,0,0,6,0,28:24,1:24,0:00,NA
+2018020732,8470604,Jeff Carter,Los Angeles Kings,Dallas Stars,C,15:58,1,0,1,2,0,1,0,8,15,0,1,0,0,0,0,14:30,0:03,1:25,53.33
+2018020732,8470602,Dion Phaneuf,Los Angeles Kings,Dallas Stars,D,15:03,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,14:58,0:00,0:05,NA
+2018020732,8470606,Dustin Brown,Los Angeles Kings,Dallas Stars,RW,19:47,0,1,2,3,1,0,0,0,0,0,1,0,0,0,0,18:28,0:03,1:16,NA
+2018020732,8471685,Anze Kopitar,Los Angeles Kings,Dallas Stars,C,20:38,0,0,3,0,0,0,2,15,24,1,1,0,0,3,0,20:00,0:03,0:35,62.5
+2018020732,8475726,Tyler Toffoli,Los Angeles Kings,Dallas Stars,RW,15:59,1,0,2,0,0,0,0,1,2,0,0,0,0,2,0,14:48,0:00,1:11,50
+2018020732,8470775,Nate Thompson,Los Angeles Kings,Dallas Stars,C,13:19,0,0,1,0,0,0,0,5,7,0,2,0,0,0,0,11:27,0:00,1:52,71.43
+2018020732,8477960,Adrian Kempe,Los Angeles Kings,Dallas Stars,C,15:05,0,0,0,2,0,0,0,4,7,0,1,0,0,0,0,14:57,0:00,0:08,57.14
+2018020732,8476894,Brendan Leipsic,Los Angeles Kings,Dallas Stars,LW,12:21,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,12:21,0:00,0:00,0
+2018020732,8478455,Austin Wagner,Los Angeles Kings,Dallas Stars,LW,7:28,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,7:28,0:00,0:00,NA
+2018020732,8474162,Jake Muzzin,Los Angeles Kings,Dallas Stars,D,22:50,0,0,2,0,0,0,0,0,0,0,2,0,0,2,1,21:21,0:00,1:29,NA
+2018020732,8474563,Drew Doughty,Los Angeles Kings,Dallas Stars,D,24:35,1,0,0,4,0,1,0,0,0,0,0,0,0,2,-1,22:06,0:03,2:26,NA
+2018020732,8475762,Derek Forbort,Los Angeles Kings,Dallas Stars,D,21:47,0,0,2,3,0,0,0,0,0,0,0,0,0,3,-1,19:21,0:00,2:26,NA
+2018020732,8474166,Alec Martinez,Los Angeles Kings,Dallas Stars,D,21:50,0,0,0,2,0,0,0,0,0,1,0,0,0,6,1,20:21,0:00,1:29,NA
+2018020732,8474176,Carl Hagelin,Los Angeles Kings,Dallas Stars,LW,16:33,0,1,1,1,0,0,2,1,4,1,0,0,0,0,0,16:11,0:00,0:22,25
+2018020732,8469454,Ilya Kovalchuk,Los Angeles Kings,Dallas Stars,LW,15:37,0,0,2,0,0,0,0,0,0,0,2,0,0,2,0,15:34,0:03,0:00,NA
+2018020732,8475160,Kyle Clifford,Los Angeles Kings,Dallas Stars,LW,7:51,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7:51,0:00,0:00,NA
+2018020732,8480113,Alex Iafallo,Los Angeles Kings,Dallas Stars,LW,15:44,0,0,1,2,0,0,0,1,1,0,0,0,0,0,0,14:33,0:00,1:11,100
+2018020732,8480336,Sean Walker,Los Angeles Kings,Dallas Stars,D,13:52,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,13:47,0:00,0:05,NA

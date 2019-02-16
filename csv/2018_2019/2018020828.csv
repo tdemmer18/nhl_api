@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020828,8473507,Jeff Petry,Montréal Canadiens,D,21:50,0,0,1,2,0,0,0,0,0,0,1,0,0,2,0,18:51,1:17,1:42,NA
-2018020828,8474818,Jordie Benn,Montréal Canadiens,D,17:14,0,0,2,2,0,0,0,0,0,0,1,0,0,0,-1,14:56,0:00,2:18,NA
-2018020828,8475808,Michael Chaput,Montréal Canadiens,C,11:00,0,0,2,1,0,0,0,4,8,0,0,0,0,0,0,8:58,0:00,2:02,50
-2018020828,8480829,Jesperi Kotkaniemi,Montréal Canadiens,C,14:11,0,1,2,1,1,0,0,10,19,1,0,0,0,2,-1,13:10,0:50,0:11,52.63
-2018020828,8476967,Brett Kulak,Montréal Canadiens,D,16:45,0,0,1,6,0,0,0,0,0,1,0,0,0,2,-2,16:45,0:00,0:00,NA
-2018020828,8475848,Brendan Gallagher,Montréal Canadiens,RW,15:35,2,0,4,1,0,0,0,0,0,2,0,0,0,0,4,14:24,1:11,0:00,NA
-2018020828,8476948,Charles Hudon,Montréal Canadiens,LW,10:33,0,0,3,1,0,0,0,0,0,0,1,0,0,0,-1,9:22,1:11,0:00,NA
-2018020828,8477503,Max Domi,Montréal Canadiens,C,17:00,0,0,3,0,0,0,4,2,11,1,0,0,0,0,-1,15:33,1:27,0:00,18.18
-2018020828,8476479,Phillip Danault,Montréal Canadiens,C,17:17,3,1,2,0,0,0,0,12,21,2,1,0,0,1,4,14:58,0:16,2:03,57.14
-2018020828,8476469,Joel Armia,Montréal Canadiens,RW,16:15,0,0,4,0,0,0,0,1,2,0,1,0,0,1,0,13:44,0:50,1:41,50
-2018020828,8470642,Shea Weber,Montréal Canadiens,D,22:12,1,1,6,0,0,1,0,0,0,0,1,0,0,1,4,18:54,1:00,2:18,NA
-2018020828,8477476,Artturi Lehkonen,Montréal Canadiens,LW,16:58,0,0,2,3,0,0,0,0,0,1,1,0,0,0,0,13:51,1:15,1:52,NA
-2018020828,8476422,Mike Reilly,Montréal Canadiens,D,19:00,0,0,4,2,0,0,0,0,0,0,3,0,0,1,-1,18:07,0:53,0:00,NA
-2018020828,8475235,Nicolas Deslauriers,Montréal Canadiens,LW,9:19,0,0,1,2,0,0,0,0,0,0,0,0,0,1,-1,9:19,0:00,0:00,NA
-2018020828,8476285,Matthew Peca,Montréal Canadiens,C,15:07,0,0,0,0,0,0,0,1,2,1,1,0,0,4,-1,15:07,0:00,0:00,50
-2018020828,8477494,Jonathan Drouin,Montréal Canadiens,LW,16:13,2,2,9,1,0,1,2,0,0,0,2,0,0,0,3,15:48,0:25,0:00,NA
-2018020828,8479376,Victor Mete,Montréal Canadiens,D,21:35,1,0,3,0,0,0,0,0,0,1,4,0,0,1,4,19:53,0:00,1:42,NA
-2018020828,8475193,Tomas Tatar,Montréal Canadiens,LW,15:56,0,0,4,1,0,0,2,0,0,2,2,0,0,1,-1,14:55,0:50,0:11,NA
-2018020828,8473618,Mathieu Perreault,Winnipeg Jets,LW,14:22,0,0,0,6,0,0,2,0,0,0,1,0,0,1,0,13:44,0:38,0:00,NA
-2018020828,8471218,Blake Wheeler,Winnipeg Jets,RW,18:53,0,0,2,2,0,0,0,0,1,1,1,0,0,0,-3,16:00,2:37,0:16,0
-2018020828,8470834,Dustin Byfuglien,Winnipeg Jets,D,25:32,0,0,3,1,0,0,0,0,0,0,5,0,0,3,-2,21:18,2:55,1:19,NA
-2018020828,8477429,Andrew Copp,Winnipeg Jets,C,10:33,1,0,0,2,0,0,0,4,12,0,0,0,0,1,1,9:45,0:00,0:48,33.33
-2018020828,8473412,Bryan Little,Winnipeg Jets,C,14:17,0,0,2,3,0,0,0,8,16,1,0,0,0,1,0,12:29,1:23,0:25,50
-2018020828,8479339,Patrik Laine,Winnipeg Jets,RW,14:43,0,0,3,0,0,0,0,0,0,0,1,0,0,3,0,13:10,1:33,0:00,NA
-2018020828,8476476,Joe Morrow,Winnipeg Jets,D,15:15,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,15:15,0:00,0:00,NA
-2018020828,8475179,Dmitry Kulikov,Winnipeg Jets,D,16:34,0,0,0,3,0,0,0,0,0,0,4,0,0,1,0,16:34,0:00,0:00,NA
-2018020828,8478458,Jack Roslovic,Winnipeg Jets,C,13:33,0,0,3,1,0,0,0,1,1,0,0,0,0,1,0,11:06,2:27,0:00,100
-2018020828,8474574,Tyler Myers,Winnipeg Jets,D,21:24,0,0,7,1,0,0,2,0,0,0,1,0,0,3,0,18:36,1:50,0:58,NA
-2018020828,8475279,Ben Chiarot,Winnipeg Jets,D,19:41,1,0,2,4,0,0,0,0,0,0,2,0,0,1,-2,18:22,0:00,1:19,NA
-2018020828,8476885,Jacob Trouba,Winnipeg Jets,D,19:20,1,0,0,5,0,0,0,0,0,0,1,0,0,2,0,17:17,1:05,0:58,NA
-2018020828,8477962,Brendan Lemieux,Winnipeg Jets,LW,10:42,0,1,1,7,0,0,0,0,0,0,0,0,0,0,1,9:51,0:51,0:00,NA
-2018020828,8476460,Mark Scheifele,Winnipeg Jets,C,19:31,0,1,2,0,0,0,2,9,17,0,0,0,0,0,-2,17:05,2:10,0:16,52.94
-2018020828,8478891,Mason Appleton,Winnipeg Jets,C,12:38,0,0,2,3,0,0,0,0,0,0,1,0,0,1,1,12:21,0:00,0:17,NA
-2018020828,8478398,Kyle Connor,Winnipeg Jets,LW,18:59,1,0,3,0,0,0,2,0,0,0,0,0,0,0,-3,16:28,2:31,0:00,NA
-2018020828,8476392,Adam Lowry,Winnipeg Jets,C,15:18,0,0,4,3,0,0,0,11,16,1,1,0,0,1,0,14:05,0:00,1:13,68.75
-2018020828,8479293,Brandon Tanev,Winnipeg Jets,LW,14:28,0,0,0,5,0,0,0,0,0,0,1,0,0,2,0,13:09,0:00,1:19,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020828,8473507,Jeff Petry,Montréal Canadiens,Winnipeg Jets,D,21:50,0,0,1,2,0,0,0,0,0,0,1,0,0,2,0,18:51,1:17,1:42,NA
+2018020828,8474818,Jordie Benn,Montréal Canadiens,Winnipeg Jets,D,17:14,0,0,2,2,0,0,0,0,0,0,1,0,0,0,-1,14:56,0:00,2:18,NA
+2018020828,8475808,Michael Chaput,Montréal Canadiens,Winnipeg Jets,C,11:00,0,0,2,1,0,0,0,4,8,0,0,0,0,0,0,8:58,0:00,2:02,50
+2018020828,8480829,Jesperi Kotkaniemi,Montréal Canadiens,Winnipeg Jets,C,14:11,0,1,2,1,1,0,0,10,19,1,0,0,0,2,-1,13:10,0:50,0:11,52.63
+2018020828,8476967,Brett Kulak,Montréal Canadiens,Winnipeg Jets,D,16:45,0,0,1,6,0,0,0,0,0,1,0,0,0,2,-2,16:45,0:00,0:00,NA
+2018020828,8475848,Brendan Gallagher,Montréal Canadiens,Winnipeg Jets,RW,15:35,2,0,4,1,0,0,0,0,0,2,0,0,0,0,4,14:24,1:11,0:00,NA
+2018020828,8476948,Charles Hudon,Montréal Canadiens,Winnipeg Jets,LW,10:33,0,0,3,1,0,0,0,0,0,0,1,0,0,0,-1,9:22,1:11,0:00,NA
+2018020828,8477503,Max Domi,Montréal Canadiens,Winnipeg Jets,C,17:00,0,0,3,0,0,0,4,2,11,1,0,0,0,0,-1,15:33,1:27,0:00,18.18
+2018020828,8476479,Phillip Danault,Montréal Canadiens,Winnipeg Jets,C,17:17,3,1,2,0,0,0,0,12,21,2,1,0,0,1,4,14:58,0:16,2:03,57.14
+2018020828,8476469,Joel Armia,Montréal Canadiens,Winnipeg Jets,RW,16:15,0,0,4,0,0,0,0,1,2,0,1,0,0,1,0,13:44,0:50,1:41,50
+2018020828,8470642,Shea Weber,Montréal Canadiens,Winnipeg Jets,D,22:12,1,1,6,0,0,1,0,0,0,0,1,0,0,1,4,18:54,1:00,2:18,NA
+2018020828,8477476,Artturi Lehkonen,Montréal Canadiens,Winnipeg Jets,LW,16:58,0,0,2,3,0,0,0,0,0,1,1,0,0,0,0,13:51,1:15,1:52,NA
+2018020828,8476422,Mike Reilly,Montréal Canadiens,Winnipeg Jets,D,19:00,0,0,4,2,0,0,0,0,0,0,3,0,0,1,-1,18:07,0:53,0:00,NA
+2018020828,8475235,Nicolas Deslauriers,Montréal Canadiens,Winnipeg Jets,LW,9:19,0,0,1,2,0,0,0,0,0,0,0,0,0,1,-1,9:19,0:00,0:00,NA
+2018020828,8476285,Matthew Peca,Montréal Canadiens,Winnipeg Jets,C,15:07,0,0,0,0,0,0,0,1,2,1,1,0,0,4,-1,15:07,0:00,0:00,50
+2018020828,8477494,Jonathan Drouin,Montréal Canadiens,Winnipeg Jets,LW,16:13,2,2,9,1,0,1,2,0,0,0,2,0,0,0,3,15:48,0:25,0:00,NA
+2018020828,8479376,Victor Mete,Montréal Canadiens,Winnipeg Jets,D,21:35,1,0,3,0,0,0,0,0,0,1,4,0,0,1,4,19:53,0:00,1:42,NA
+2018020828,8475193,Tomas Tatar,Montréal Canadiens,Winnipeg Jets,LW,15:56,0,0,4,1,0,0,2,0,0,2,2,0,0,1,-1,14:55,0:50,0:11,NA
+2018020828,8473618,Mathieu Perreault,Winnipeg Jets,Montréal Canadiens,LW,14:22,0,0,0,6,0,0,2,0,0,0,1,0,0,1,0,13:44,0:38,0:00,NA
+2018020828,8471218,Blake Wheeler,Winnipeg Jets,Montréal Canadiens,RW,18:53,0,0,2,2,0,0,0,0,1,1,1,0,0,0,-3,16:00,2:37,0:16,0
+2018020828,8470834,Dustin Byfuglien,Winnipeg Jets,Montréal Canadiens,D,25:32,0,0,3,1,0,0,0,0,0,0,5,0,0,3,-2,21:18,2:55,1:19,NA
+2018020828,8477429,Andrew Copp,Winnipeg Jets,Montréal Canadiens,C,10:33,1,0,0,2,0,0,0,4,12,0,0,0,0,1,1,9:45,0:00,0:48,33.33
+2018020828,8473412,Bryan Little,Winnipeg Jets,Montréal Canadiens,C,14:17,0,0,2,3,0,0,0,8,16,1,0,0,0,1,0,12:29,1:23,0:25,50
+2018020828,8479339,Patrik Laine,Winnipeg Jets,Montréal Canadiens,RW,14:43,0,0,3,0,0,0,0,0,0,0,1,0,0,3,0,13:10,1:33,0:00,NA
+2018020828,8476476,Joe Morrow,Winnipeg Jets,Montréal Canadiens,D,15:15,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,15:15,0:00,0:00,NA
+2018020828,8475179,Dmitry Kulikov,Winnipeg Jets,Montréal Canadiens,D,16:34,0,0,0,3,0,0,0,0,0,0,4,0,0,1,0,16:34,0:00,0:00,NA
+2018020828,8478458,Jack Roslovic,Winnipeg Jets,Montréal Canadiens,C,13:33,0,0,3,1,0,0,0,1,1,0,0,0,0,1,0,11:06,2:27,0:00,100
+2018020828,8474574,Tyler Myers,Winnipeg Jets,Montréal Canadiens,D,21:24,0,0,7,1,0,0,2,0,0,0,1,0,0,3,0,18:36,1:50,0:58,NA
+2018020828,8475279,Ben Chiarot,Winnipeg Jets,Montréal Canadiens,D,19:41,1,0,2,4,0,0,0,0,0,0,2,0,0,1,-2,18:22,0:00,1:19,NA
+2018020828,8476885,Jacob Trouba,Winnipeg Jets,Montréal Canadiens,D,19:20,1,0,0,5,0,0,0,0,0,0,1,0,0,2,0,17:17,1:05,0:58,NA
+2018020828,8477962,Brendan Lemieux,Winnipeg Jets,Montréal Canadiens,LW,10:42,0,1,1,7,0,0,0,0,0,0,0,0,0,0,1,9:51,0:51,0:00,NA
+2018020828,8476460,Mark Scheifele,Winnipeg Jets,Montréal Canadiens,C,19:31,0,1,2,0,0,0,2,9,17,0,0,0,0,0,-2,17:05,2:10,0:16,52.94
+2018020828,8478891,Mason Appleton,Winnipeg Jets,Montréal Canadiens,C,12:38,0,0,2,3,0,0,0,0,0,0,1,0,0,1,1,12:21,0:00,0:17,NA
+2018020828,8478398,Kyle Connor,Winnipeg Jets,Montréal Canadiens,LW,18:59,1,0,3,0,0,0,2,0,0,0,0,0,0,0,-3,16:28,2:31,0:00,NA
+2018020828,8476392,Adam Lowry,Winnipeg Jets,Montréal Canadiens,C,15:18,0,0,4,3,0,0,0,11,16,1,1,0,0,1,0,14:05,0:00,1:13,68.75
+2018020828,8479293,Brandon Tanev,Winnipeg Jets,Montréal Canadiens,LW,14:28,0,0,0,5,0,0,0,0,0,0,1,0,0,2,0,13:09,0:00,1:19,NA

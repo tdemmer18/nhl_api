@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020438,8468674,Deryk Engelland,Vegas Golden Knights,D,23:16,0,1,3,1,0,0,0,0,0,2,0,0,0,3,1,19:42,0:00,3:34,NA
-2018020438,8471817,Ryan Reaves,Vegas Golden Knights,RW,11:49,0,0,0,3,0,0,0,1,1,0,0,0,0,0,-1,11:49,0:00,0:00,100
-2018020438,8476539,Jonathan Marchessault,Vegas Golden Knights,C,17:13,1,1,3,1,0,1,2,2,7,3,1,0,0,1,2,16:58,0:09,0:06,28.57
-2018020438,8475715,Oscar Lindberg,Vegas Golden Knights,C,8:58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8:58,0:00,0:00,NA
-2018020438,8477949,Alex Tuch,Vegas Golden Knights,RW,15:01,0,1,3,2,0,0,0,0,0,1,1,0,0,1,-1,14:24,0:37,0:00,NA
-2018020438,8475236,Cody Eakin,Vegas Golden Knights,C,16:44,0,0,3,0,0,0,0,6,14,1,0,0,0,2,-2,14:03,0:28,2:13,42.86
-2018020438,8477447,Shea Theodore,Vegas Golden Knights,D,18:37,1,0,2,0,0,0,2,0,0,0,1,0,0,1,1,17:50,0:28,0:19,NA
-2018020438,8477931,Tomas Nosek,Vegas Golden Knights,LW,12:44,0,0,3,1,0,0,2,3,5,0,0,0,0,3,0,11:07,0:00,1:37,60
-2018020438,8476525,Colin Miller,Vegas Golden Knights,D,13:35,0,0,0,1,0,0,2,0,0,1,2,0,0,0,-1,12:58,0:37,0:00,NA
-2018020438,8474207,Nick Holden,Vegas Golden Knights,D,16:30,0,0,0,0,0,0,0,0,0,0,2,0,0,1,-1,13:33,0:00,2:57,NA
-2018020438,8477846,Ryan Carpenter,Vegas Golden Knights,C,14:16,0,0,1,1,0,0,0,1,6,2,0,0,0,1,0,12:03,0:00,2:13,16.67
-2018020438,8476448,William Karlsson,Vegas Golden Knights,C,17:51,1,0,2,2,0,0,0,6,18,1,0,0,0,0,2,16:11,0:00,1:40,33.33
-2018020438,8475188,Brayden McNabb,Vegas Golden Knights,D,24:37,0,0,3,2,0,0,0,0,0,1,0,0,0,4,0,21:25,0:00,3:12,NA
-2018020438,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,C,16:22,0,0,2,0,0,0,0,4,8,1,0,0,0,0,0,13:53,0:00,2:29,50
-2018020438,8477478,William Carrier,Vegas Golden Knights,LW,8:55,0,0,1,6,0,0,0,0,0,1,0,0,0,1,-1,8:55,0:00,0:00,NA
-2018020438,8474157,Max Pacioretty,Vegas Golden Knights,LW,15:09,2,0,2,0,0,1,0,0,0,0,1,0,0,1,-1,14:26,0:37,0:06,NA
-2018020438,8477220,Nate Schmidt,Vegas Golden Knights,D,23:10,0,0,3,0,0,0,0,0,0,1,0,0,0,2,0,20:16,0:00,2:54,NA
-2018020438,8475191,Reilly Smith,Vegas Golden Knights,RW,17:30,2,1,5,0,1,0,0,0,0,2,0,0,0,1,2,14:49,0:09,2:32,NA
-2018020438,8480172,Jan Rutta,Chicago Blackhawks,D,16:05,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,15:41,0:00,0:24,NA
-2018020438,8470607,Brent Seabrook,Chicago Blackhawks,D,18:55,0,0,2,1,0,0,2,0,0,0,2,0,0,0,-1,15:05,3:41,0:09,NA
-2018020438,8476979,Erik Gustafsson,Chicago Blackhawks,D,26:05,0,0,1,0,0,0,0,0,0,0,1,0,0,0,-1,23:16,2:45,0:04,NA
-2018020438,8477943,Brendan Perlini,Chicago Blackhawks,LW,5:26,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,5:26,0:00,0:00,NA
-2018020438,8473604,Jonathan Toews,Chicago Blackhawks,C,19:19,0,1,7,2,0,0,0,16,23,3,0,0,0,1,-1,15:18,3:52,0:09,69.57
-2018020438,8476438,Brandon Saad,Chicago Blackhawks,LW,17:45,0,0,1,0,0,0,0,0,0,1,0,0,0,1,-2,14:41,3:04,0:00,NA
-2018020438,8479337,Alex DeBrincat,Chicago Blackhawks,LW,18:48,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,15:07,3:41,0:00,NA
-2018020438,8475430,Brandon Manning,Chicago Blackhawks,D,14:34,0,0,1,3,0,0,0,0,0,1,0,0,0,1,-1,14:21,0:00,0:13,NA
-2018020438,8470281,Duncan Keith,Chicago Blackhawks,D,25:11,2,0,4,0,0,0,0,0,0,1,0,0,0,1,1,24:45,0:02,0:24,NA
-2018020438,8474141,Patrick Kane,Chicago Blackhawks,RW,27:49,1,0,4,0,0,0,0,0,0,0,1,0,0,0,1,23:44,4:01,0:04,NA
-2018020438,8475323,Marcus Kruger,Chicago Blackhawks,C,8:50,0,0,0,2,0,0,0,1,4,0,0,0,0,0,0,8:15,0:02,0:33,25
-2018020438,8477401,John Hayden,Chicago Blackhawks,RW,13:22,0,0,0,3,0,0,0,0,2,2,0,0,0,0,1,9:58,3:24,0:00,0
-2018020438,8480946,Dominik Kahun,Chicago Blackhawks,C,16:58,0,0,1,0,0,0,0,1,1,0,0,0,0,1,1,14:31,2:27,0:00,100
-2018020438,8473573,Artem Anisimov,Chicago Blackhawks,C,18:10,0,1,5,0,0,0,2,6,9,0,0,0,0,0,1,15:32,2:34,0:04,66.67
-2018020438,8478440,Dylan Strome,Chicago Blackhawks,C,19:14,0,1,2,0,0,0,0,10,18,2,1,0,0,3,0,16:29,2:45,0:00,55.56
-2018020438,8478561,Andreas Martinsen,Chicago Blackhawks,LW,8:21,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,8:19,0:02,0:00,NA
-2018020438,8480144,David Kampf,Chicago Blackhawks,C,13:07,1,0,1,0,0,0,0,2,2,1,0,0,0,1,-1,12:43,0:00,0:24,100
-2018020438,8480035,Henri Jokiharju,Chicago Blackhawks,D,12:37,0,0,1,2,0,0,0,0,0,2,1,0,0,2,2,12:35,0:02,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020438,8468674,Deryk Engelland,Vegas Golden Knights,Chicago Blackhawks,D,23:16,0,1,3,1,0,0,0,0,0,2,0,0,0,3,1,19:42,0:00,3:34,NA
+2018020438,8471817,Ryan Reaves,Vegas Golden Knights,Chicago Blackhawks,RW,11:49,0,0,0,3,0,0,0,1,1,0,0,0,0,0,-1,11:49,0:00,0:00,100
+2018020438,8476539,Jonathan Marchessault,Vegas Golden Knights,Chicago Blackhawks,C,17:13,1,1,3,1,0,1,2,2,7,3,1,0,0,1,2,16:58,0:09,0:06,28.57
+2018020438,8475715,Oscar Lindberg,Vegas Golden Knights,Chicago Blackhawks,C,8:58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8:58,0:00,0:00,NA
+2018020438,8477949,Alex Tuch,Vegas Golden Knights,Chicago Blackhawks,RW,15:01,0,1,3,2,0,0,0,0,0,1,1,0,0,1,-1,14:24,0:37,0:00,NA
+2018020438,8475236,Cody Eakin,Vegas Golden Knights,Chicago Blackhawks,C,16:44,0,0,3,0,0,0,0,6,14,1,0,0,0,2,-2,14:03,0:28,2:13,42.86
+2018020438,8477447,Shea Theodore,Vegas Golden Knights,Chicago Blackhawks,D,18:37,1,0,2,0,0,0,2,0,0,0,1,0,0,1,1,17:50,0:28,0:19,NA
+2018020438,8477931,Tomas Nosek,Vegas Golden Knights,Chicago Blackhawks,LW,12:44,0,0,3,1,0,0,2,3,5,0,0,0,0,3,0,11:07,0:00,1:37,60
+2018020438,8476525,Colin Miller,Vegas Golden Knights,Chicago Blackhawks,D,13:35,0,0,0,1,0,0,2,0,0,1,2,0,0,0,-1,12:58,0:37,0:00,NA
+2018020438,8474207,Nick Holden,Vegas Golden Knights,Chicago Blackhawks,D,16:30,0,0,0,0,0,0,0,0,0,0,2,0,0,1,-1,13:33,0:00,2:57,NA
+2018020438,8477846,Ryan Carpenter,Vegas Golden Knights,Chicago Blackhawks,C,14:16,0,0,1,1,0,0,0,1,6,2,0,0,0,1,0,12:03,0:00,2:13,16.67
+2018020438,8476448,William Karlsson,Vegas Golden Knights,Chicago Blackhawks,C,17:51,1,0,2,2,0,0,0,6,18,1,0,0,0,0,2,16:11,0:00,1:40,33.33
+2018020438,8475188,Brayden McNabb,Vegas Golden Knights,Chicago Blackhawks,D,24:37,0,0,3,2,0,0,0,0,0,1,0,0,0,4,0,21:25,0:00,3:12,NA
+2018020438,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,Chicago Blackhawks,C,16:22,0,0,2,0,0,0,0,4,8,1,0,0,0,0,0,13:53,0:00,2:29,50
+2018020438,8477478,William Carrier,Vegas Golden Knights,Chicago Blackhawks,LW,8:55,0,0,1,6,0,0,0,0,0,1,0,0,0,1,-1,8:55,0:00,0:00,NA
+2018020438,8474157,Max Pacioretty,Vegas Golden Knights,Chicago Blackhawks,LW,15:09,2,0,2,0,0,1,0,0,0,0,1,0,0,1,-1,14:26,0:37,0:06,NA
+2018020438,8477220,Nate Schmidt,Vegas Golden Knights,Chicago Blackhawks,D,23:10,0,0,3,0,0,0,0,0,0,1,0,0,0,2,0,20:16,0:00,2:54,NA
+2018020438,8475191,Reilly Smith,Vegas Golden Knights,Chicago Blackhawks,RW,17:30,2,1,5,0,1,0,0,0,0,2,0,0,0,1,2,14:49,0:09,2:32,NA
+2018020438,8480172,Jan Rutta,Chicago Blackhawks,Vegas Golden Knights,D,16:05,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,15:41,0:00,0:24,NA
+2018020438,8470607,Brent Seabrook,Chicago Blackhawks,Vegas Golden Knights,D,18:55,0,0,2,1,0,0,2,0,0,0,2,0,0,0,-1,15:05,3:41,0:09,NA
+2018020438,8476979,Erik Gustafsson,Chicago Blackhawks,Vegas Golden Knights,D,26:05,0,0,1,0,0,0,0,0,0,0,1,0,0,0,-1,23:16,2:45,0:04,NA
+2018020438,8477943,Brendan Perlini,Chicago Blackhawks,Vegas Golden Knights,LW,5:26,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,5:26,0:00,0:00,NA
+2018020438,8473604,Jonathan Toews,Chicago Blackhawks,Vegas Golden Knights,C,19:19,0,1,7,2,0,0,0,16,23,3,0,0,0,1,-1,15:18,3:52,0:09,69.57
+2018020438,8476438,Brandon Saad,Chicago Blackhawks,Vegas Golden Knights,LW,17:45,0,0,1,0,0,0,0,0,0,1,0,0,0,1,-2,14:41,3:04,0:00,NA
+2018020438,8479337,Alex DeBrincat,Chicago Blackhawks,Vegas Golden Knights,LW,18:48,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,15:07,3:41,0:00,NA
+2018020438,8475430,Brandon Manning,Chicago Blackhawks,Vegas Golden Knights,D,14:34,0,0,1,3,0,0,0,0,0,1,0,0,0,1,-1,14:21,0:00,0:13,NA
+2018020438,8470281,Duncan Keith,Chicago Blackhawks,Vegas Golden Knights,D,25:11,2,0,4,0,0,0,0,0,0,1,0,0,0,1,1,24:45,0:02,0:24,NA
+2018020438,8474141,Patrick Kane,Chicago Blackhawks,Vegas Golden Knights,RW,27:49,1,0,4,0,0,0,0,0,0,0,1,0,0,0,1,23:44,4:01,0:04,NA
+2018020438,8475323,Marcus Kruger,Chicago Blackhawks,Vegas Golden Knights,C,8:50,0,0,0,2,0,0,0,1,4,0,0,0,0,0,0,8:15,0:02,0:33,25
+2018020438,8477401,John Hayden,Chicago Blackhawks,Vegas Golden Knights,RW,13:22,0,0,0,3,0,0,0,0,2,2,0,0,0,0,1,9:58,3:24,0:00,0
+2018020438,8480946,Dominik Kahun,Chicago Blackhawks,Vegas Golden Knights,C,16:58,0,0,1,0,0,0,0,1,1,0,0,0,0,1,1,14:31,2:27,0:00,100
+2018020438,8473573,Artem Anisimov,Chicago Blackhawks,Vegas Golden Knights,C,18:10,0,1,5,0,0,0,2,6,9,0,0,0,0,0,1,15:32,2:34,0:04,66.67
+2018020438,8478440,Dylan Strome,Chicago Blackhawks,Vegas Golden Knights,C,19:14,0,1,2,0,0,0,0,10,18,2,1,0,0,3,0,16:29,2:45,0:00,55.56
+2018020438,8478561,Andreas Martinsen,Chicago Blackhawks,Vegas Golden Knights,LW,8:21,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,8:19,0:02,0:00,NA
+2018020438,8480144,David Kampf,Chicago Blackhawks,Vegas Golden Knights,C,13:07,1,0,1,0,0,0,0,2,2,1,0,0,0,1,-1,12:43,0:00,0:24,100
+2018020438,8480035,Henri Jokiharju,Chicago Blackhawks,Vegas Golden Knights,D,12:37,0,0,1,2,0,0,0,0,0,2,1,0,0,2,2,12:35,0:02,0:00,NA

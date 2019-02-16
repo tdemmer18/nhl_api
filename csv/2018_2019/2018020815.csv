@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020815,8473507,Jeff Petry,Montréal Canadiens,D,19:38,0,0,2,1,0,0,0,0,0,2,0,0,0,0,1,16:22,2:23,0:53,NA
-2018020815,8474818,Jordie Benn,Montréal Canadiens,D,18:27,0,0,0,1,0,0,0,0,0,0,6,0,0,3,0,17:20,0:00,1:07,NA
-2018020815,8475808,Michael Chaput,Montréal Canadiens,C,11:52,0,0,1,5,0,0,0,6,10,1,1,0,0,0,-1,10:59,0:00,0:53,60
-2018020815,8480829,Jesperi Kotkaniemi,Montréal Canadiens,C,15:10,0,1,1,1,0,0,0,6,16,0,2,0,0,1,1,11:50,3:20,0:00,37.5
-2018020815,8476967,Brett Kulak,Montréal Canadiens,D,19:36,0,0,1,2,0,0,2,0,0,0,0,0,0,0,0,19:36,0:00,0:00,NA
-2018020815,8475848,Brendan Gallagher,Montréal Canadiens,RW,16:05,1,2,2,2,0,0,0,1,1,1,0,0,0,0,3,13:41,2:24,0:00,100
-2018020815,8476948,Charles Hudon,Montréal Canadiens,LW,16:05,0,0,1,3,0,0,0,0,0,0,1,0,0,1,0,13:51,2:14,0:00,NA
-2018020815,8477503,Max Domi,Montréal Canadiens,C,16:35,0,0,4,0,0,0,0,4,11,0,1,0,0,0,0,14:21,2:14,0:00,36.36
-2018020815,8476479,Phillip Danault,Montréal Canadiens,C,17:24,0,1,3,1,0,0,0,5,13,1,1,0,0,1,3,15:37,0:16,1:31,38.46
-2018020815,8476469,Joel Armia,Montréal Canadiens,RW,14:58,1,0,5,1,0,0,0,0,1,0,1,0,0,0,1,11:09,3:20,0:29,0
-2018020815,8470642,Shea Weber,Montréal Canadiens,D,21:42,1,0,3,0,0,0,0,0,0,0,2,0,0,4,2,16:58,3:37,1:07,NA
-2018020815,8475844,Kenny Agostino,Montréal Canadiens,LW,11:24,0,0,0,1,0,0,0,0,0,0,1,0,0,1,-1,11:08,0:16,0:00,NA
-2018020815,8477476,Artturi Lehkonen,Montréal Canadiens,LW,16:35,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,12:08,3:20,1:07,0
-2018020815,8476422,Mike Reilly,Montréal Canadiens,D,19:36,1,0,1,1,0,0,0,0,0,0,1,0,0,1,1,16:56,2:40,0:00,NA
-2018020815,8475235,Nicolas Deslauriers,Montréal Canadiens,LW,13:21,0,0,1,4,0,0,0,0,0,0,0,0,0,0,-1,13:21,0:00,0:00,NA
-2018020815,8476285,Matthew Peca,Montréal Canadiens,C,14:58,0,0,2,2,0,0,0,0,0,0,1,0,0,3,0,14:32,0:26,0:00,NA
-2018020815,8477494,Jonathan Drouin,Montréal Canadiens,LW,17:09,3,0,2,0,0,0,0,0,0,0,0,0,0,1,3,13:49,3:20,0:00,NA
-2018020815,8479376,Victor Mete,Montréal Canadiens,D,17:47,0,0,3,0,0,0,0,0,0,0,1,0,0,3,2,16:54,0:00,0:53,NA
-2018020815,8470616,Ryan Kesler,Anaheim Ducks,C,16:17,0,0,0,2,0,0,0,13,20,0,0,0,0,0,-1,13:45,0:00,2:32,65
-2018020815,8476913,Devin Shore,Anaheim Ducks,C,15:04,1,0,0,2,0,0,0,0,0,0,0,0,0,2,0,12:59,0:28,1:37,NA
-2018020815,8475764,Cam Fowler,Anaheim Ducks,D,24:14,0,0,0,0,0,0,0,0,0,1,0,0,0,1,-2,20:20,1:07,2:47,NA
-2018020815,8470612,Ryan Getzlaf,Anaheim Ducks,C,18:46,0,1,3,2,0,0,0,8,10,0,2,0,0,2,-2,17:06,1:32,0:08,80
-2018020815,8477986,Brandon Montour,Anaheim Ducks,D,20:52,0,0,4,1,0,0,2,0,0,0,2,0,0,5,-1,19:12,0:53,0:47,NA
-2018020815,8476854,Hampus Lindholm,Anaheim Ducks,D,20:46,0,0,0,0,0,0,2,0,0,0,4,0,0,0,-1,17:40,0:28,2:38,NA
-2018020815,8470621,Corey Perry,Anaheim Ducks,RW,18:03,1,0,2,0,0,0,0,0,0,0,0,0,0,0,-2,16:31,1:32,0:00,NA
-2018020815,8476207,Brian Gibbons,Anaheim Ducks,LW,9:31,0,0,1,2,0,0,2,0,0,0,0,0,0,0,0,9:31,0:00,0:00,NA
-2018020815,8471490,Adam Cracknell,Anaheim Ducks,RW,8:59,0,0,3,4,0,0,0,0,0,0,0,0,0,0,0,8:39,0:00,0:20,NA
-2018020815,8478466,Daniel Sprong,Anaheim Ducks,RW,13:58,0,0,2,1,0,0,0,0,0,2,1,0,0,2,0,13:58,0:00,0:00,NA
-2018020815,8474584,Michael Del Zotto,Anaheim Ducks,D,16:31,0,0,1,1,0,0,0,0,0,0,0,0,0,2,-1,15:01,0:00,1:30,NA
-2018020815,8477941,Nick Ritchie,Anaheim Ducks,LW,15:00,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,12:55,1:07,0:58,NA
-2018020815,8476312,Josh Manson,Anaheim Ducks,D,22:02,0,0,2,5,0,0,0,0,0,0,3,0,0,3,-2,18:30,0:00,3:32,NA
-2018020815,8474641,Adam Henrique,Anaheim Ducks,C,14:06,0,0,2,3,0,0,0,4,13,1,0,0,0,1,0,11:48,0:53,1:25,30.77
-2018020815,8476483,Rickard Rakell,Anaheim Ducks,LW,16:45,0,0,0,2,0,0,0,0,0,1,2,0,0,0,-3,15:38,1:07,0:00,NA
-2018020815,8475164,Jakob Silfverberg,Anaheim Ducks,RW,16:45,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-1,13:20,0:53,2:32,NA
-2018020815,8477034,Jaycob Megna,Anaheim Ducks,D,14:22,0,0,1,0,0,0,0,0,0,1,5,0,0,0,1,13:36,0:00,0:46,NA
-2018020815,8477240,Carter Rowney,Anaheim Ducks,C,11:59,0,0,0,3,0,0,0,6,10,0,0,0,0,0,0,9:31,0:00,2:28,60
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020815,8473507,Jeff Petry,Montréal Canadiens,Anaheim Ducks,D,19:38,0,0,2,1,0,0,0,0,0,2,0,0,0,0,1,16:22,2:23,0:53,NA
+2018020815,8474818,Jordie Benn,Montréal Canadiens,Anaheim Ducks,D,18:27,0,0,0,1,0,0,0,0,0,0,6,0,0,3,0,17:20,0:00,1:07,NA
+2018020815,8475808,Michael Chaput,Montréal Canadiens,Anaheim Ducks,C,11:52,0,0,1,5,0,0,0,6,10,1,1,0,0,0,-1,10:59,0:00,0:53,60
+2018020815,8480829,Jesperi Kotkaniemi,Montréal Canadiens,Anaheim Ducks,C,15:10,0,1,1,1,0,0,0,6,16,0,2,0,0,1,1,11:50,3:20,0:00,37.5
+2018020815,8476967,Brett Kulak,Montréal Canadiens,Anaheim Ducks,D,19:36,0,0,1,2,0,0,2,0,0,0,0,0,0,0,0,19:36,0:00,0:00,NA
+2018020815,8475848,Brendan Gallagher,Montréal Canadiens,Anaheim Ducks,RW,16:05,1,2,2,2,0,0,0,1,1,1,0,0,0,0,3,13:41,2:24,0:00,100
+2018020815,8476948,Charles Hudon,Montréal Canadiens,Anaheim Ducks,LW,16:05,0,0,1,3,0,0,0,0,0,0,1,0,0,1,0,13:51,2:14,0:00,NA
+2018020815,8477503,Max Domi,Montréal Canadiens,Anaheim Ducks,C,16:35,0,0,4,0,0,0,0,4,11,0,1,0,0,0,0,14:21,2:14,0:00,36.36
+2018020815,8476479,Phillip Danault,Montréal Canadiens,Anaheim Ducks,C,17:24,0,1,3,1,0,0,0,5,13,1,1,0,0,1,3,15:37,0:16,1:31,38.46
+2018020815,8476469,Joel Armia,Montréal Canadiens,Anaheim Ducks,RW,14:58,1,0,5,1,0,0,0,0,1,0,1,0,0,0,1,11:09,3:20,0:29,0
+2018020815,8470642,Shea Weber,Montréal Canadiens,Anaheim Ducks,D,21:42,1,0,3,0,0,0,0,0,0,0,2,0,0,4,2,16:58,3:37,1:07,NA
+2018020815,8475844,Kenny Agostino,Montréal Canadiens,Anaheim Ducks,LW,11:24,0,0,0,1,0,0,0,0,0,0,1,0,0,1,-1,11:08,0:16,0:00,NA
+2018020815,8477476,Artturi Lehkonen,Montréal Canadiens,Anaheim Ducks,LW,16:35,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,12:08,3:20,1:07,0
+2018020815,8476422,Mike Reilly,Montréal Canadiens,Anaheim Ducks,D,19:36,1,0,1,1,0,0,0,0,0,0,1,0,0,1,1,16:56,2:40,0:00,NA
+2018020815,8475235,Nicolas Deslauriers,Montréal Canadiens,Anaheim Ducks,LW,13:21,0,0,1,4,0,0,0,0,0,0,0,0,0,0,-1,13:21,0:00,0:00,NA
+2018020815,8476285,Matthew Peca,Montréal Canadiens,Anaheim Ducks,C,14:58,0,0,2,2,0,0,0,0,0,0,1,0,0,3,0,14:32,0:26,0:00,NA
+2018020815,8477494,Jonathan Drouin,Montréal Canadiens,Anaheim Ducks,LW,17:09,3,0,2,0,0,0,0,0,0,0,0,0,0,1,3,13:49,3:20,0:00,NA
+2018020815,8479376,Victor Mete,Montréal Canadiens,Anaheim Ducks,D,17:47,0,0,3,0,0,0,0,0,0,0,1,0,0,3,2,16:54,0:00,0:53,NA
+2018020815,8470616,Ryan Kesler,Anaheim Ducks,Montréal Canadiens,C,16:17,0,0,0,2,0,0,0,13,20,0,0,0,0,0,-1,13:45,0:00,2:32,65
+2018020815,8476913,Devin Shore,Anaheim Ducks,Montréal Canadiens,C,15:04,1,0,0,2,0,0,0,0,0,0,0,0,0,2,0,12:59,0:28,1:37,NA
+2018020815,8475764,Cam Fowler,Anaheim Ducks,Montréal Canadiens,D,24:14,0,0,0,0,0,0,0,0,0,1,0,0,0,1,-2,20:20,1:07,2:47,NA
+2018020815,8470612,Ryan Getzlaf,Anaheim Ducks,Montréal Canadiens,C,18:46,0,1,3,2,0,0,0,8,10,0,2,0,0,2,-2,17:06,1:32,0:08,80
+2018020815,8477986,Brandon Montour,Anaheim Ducks,Montréal Canadiens,D,20:52,0,0,4,1,0,0,2,0,0,0,2,0,0,5,-1,19:12,0:53,0:47,NA
+2018020815,8476854,Hampus Lindholm,Anaheim Ducks,Montréal Canadiens,D,20:46,0,0,0,0,0,0,2,0,0,0,4,0,0,0,-1,17:40,0:28,2:38,NA
+2018020815,8470621,Corey Perry,Anaheim Ducks,Montréal Canadiens,RW,18:03,1,0,2,0,0,0,0,0,0,0,0,0,0,0,-2,16:31,1:32,0:00,NA
+2018020815,8476207,Brian Gibbons,Anaheim Ducks,Montréal Canadiens,LW,9:31,0,0,1,2,0,0,2,0,0,0,0,0,0,0,0,9:31,0:00,0:00,NA
+2018020815,8471490,Adam Cracknell,Anaheim Ducks,Montréal Canadiens,RW,8:59,0,0,3,4,0,0,0,0,0,0,0,0,0,0,0,8:39,0:00,0:20,NA
+2018020815,8478466,Daniel Sprong,Anaheim Ducks,Montréal Canadiens,RW,13:58,0,0,2,1,0,0,0,0,0,2,1,0,0,2,0,13:58,0:00,0:00,NA
+2018020815,8474584,Michael Del Zotto,Anaheim Ducks,Montréal Canadiens,D,16:31,0,0,1,1,0,0,0,0,0,0,0,0,0,2,-1,15:01,0:00,1:30,NA
+2018020815,8477941,Nick Ritchie,Anaheim Ducks,Montréal Canadiens,LW,15:00,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,12:55,1:07,0:58,NA
+2018020815,8476312,Josh Manson,Anaheim Ducks,Montréal Canadiens,D,22:02,0,0,2,5,0,0,0,0,0,0,3,0,0,3,-2,18:30,0:00,3:32,NA
+2018020815,8474641,Adam Henrique,Anaheim Ducks,Montréal Canadiens,C,14:06,0,0,2,3,0,0,0,4,13,1,0,0,0,1,0,11:48,0:53,1:25,30.77
+2018020815,8476483,Rickard Rakell,Anaheim Ducks,Montréal Canadiens,LW,16:45,0,0,0,2,0,0,0,0,0,1,2,0,0,0,-3,15:38,1:07,0:00,NA
+2018020815,8475164,Jakob Silfverberg,Anaheim Ducks,Montréal Canadiens,RW,16:45,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-1,13:20,0:53,2:32,NA
+2018020815,8477034,Jaycob Megna,Anaheim Ducks,Montréal Canadiens,D,14:22,0,0,1,0,0,0,0,0,0,1,5,0,0,0,1,13:36,0:00,0:46,NA
+2018020815,8477240,Carter Rowney,Anaheim Ducks,Montréal Canadiens,C,11:59,0,0,0,3,0,0,0,6,10,0,0,0,0,0,0,9:31,0:00,2:28,60

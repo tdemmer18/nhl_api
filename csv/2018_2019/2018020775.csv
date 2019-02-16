@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020775,8477407,Anthony Duclair,Columbus Blue Jackets,LW,8:59,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-1,8:09,0:50,0:00,NA
-2018020775,8478906,Markus Nutivaara,Columbus Blue Jackets,D,13:30,0,0,1,2,0,0,0,0,0,1,0,0,0,2,-2,13:27,0:03,0:00,NA
-2018020775,8473422,Nick Foligno,Columbus Blue Jackets,LW,19:56,0,1,3,5,1,0,0,3,8,0,0,0,0,1,1,16:51,2:34,0:31,37.5
-2018020775,8474715,Cam Atkinson,Columbus Blue Jackets,RW,23:01,1,1,7,0,0,0,0,0,0,0,0,0,0,0,0,18:55,2:36,1:30,NA
-2018020775,8477505,Alexander Wennberg,Columbus Blue Jackets,C,15:04,0,0,0,1,0,0,0,6,17,0,1,0,0,1,-1,12:44,0:50,1:30,35.29
-2018020775,8476449,Scott Harrington,Columbus Blue Jackets,D,12:06,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,10:56,0:00,1:10,NA
-2018020775,8477416,Oliver Bjorkstrand,Columbus Blue Jackets,RW,13:41,0,0,3,2,0,0,0,0,0,1,0,0,0,1,-1,12:51,0:50,0:00,NA
-2018020775,8476310,Lukas Sedlak,Columbus Blue Jackets,C,7:36,0,0,2,2,0,0,0,0,5,0,0,0,0,0,0,7:02,0:03,0:31,0
-2018020775,8476981,Josh Anderson,Columbus Blue Jackets,RW,18:50,1,0,2,3,0,0,0,0,0,0,1,0,0,1,1,16:02,0:50,1:58,NA
-2018020775,8476850,Ryan Murray,Columbus Blue Jackets,D,19:57,2,0,2,1,0,0,0,0,0,0,0,0,0,3,0,18:01,0:18,1:38,NA
-2018020775,8475233,David Savard,Columbus Blue Jackets,D,19:13,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,17:11,0:00,2:02,NA
-2018020775,8474062,Riley Nash,Columbus Blue Jackets,C,8:24,0,0,1,0,0,0,0,1,2,1,0,0,0,0,-1,8:21,0:03,0:00,50
-2018020775,8477495,Seth Jones,Columbus Blue Jackets,D,25:55,0,0,3,0,0,0,2,0,0,2,0,0,0,0,-1,23:35,1:01,1:19,NA
-2018020775,8478550,Artemi Panarin,Columbus Blue Jackets,LW,22:12,2,0,3,0,0,1,2,0,0,0,1,0,0,0,0,19:20,2:51,0:01,NA
-2018020775,8479400,Pierre-Luc Dubois,Columbus Blue Jackets,C,21:57,1,1,3,3,0,1,0,7,13,0,1,0,0,0,0,19:05,2:51,0:01,53.85
-2018020775,8471273,Brandon Dubinsky,Columbus Blue Jackets,C,12:41,0,1,1,3,0,0,0,11,16,0,0,0,0,2,-2,10:43,0:00,1:58,68.75
-2018020775,8478541,Markus Hannikainen,Columbus Blue Jackets,LW,8:41,0,0,0,2,0,0,0,0,0,2,0,0,0,0,-1,8:32,0:09,0:00,NA
-2018020775,8478460,Zach Werenski,Columbus Blue Jackets,D,26:15,0,0,3,1,0,0,0,0,0,1,0,0,0,1,-1,21:33,2:51,1:51,NA
-2018020775,8469506,Jason Pominville,Buffalo Sabres,RW,11:05,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,11:03,0:02,0:00,NA
-2018020775,8475728,Johan Larsson,Buffalo Sabres,C,14:16,0,0,0,1,0,0,0,8,14,0,0,0,0,0,-1,12:37,0:00,1:39,57.14
-2018020775,8474618,Marco Scandella,Buffalo Sabres,D,15:32,0,0,0,1,0,0,0,0,0,0,0,0,0,1,-1,14:49,0:00,0:43,NA
-2018020775,8477839,Conor Sheary,Buffalo Sabres,LW,10:56,1,1,3,0,0,0,2,0,0,0,0,0,0,0,1,10:32,0:24,0:00,NA
-2018020775,8471436,Matt Hunwick,Buffalo Sabres,D,13:30,0,0,1,0,0,0,0,0,0,0,0,0,0,2,-1,13:27,0:00,0:03,NA
-2018020775,8476931,Jake McCabe,Buffalo Sabres,D,22:34,1,0,1,2,0,0,0,0,0,0,1,0,0,4,-1,19:48,0:00,2:46,NA
-2018020775,8473449,Kyle Okposo,Buffalo Sabres,RW,14:52,0,0,0,1,0,0,0,0,0,0,0,0,0,1,-1,11:18,3:34,0:00,NA
-2018020775,8474567,Zach Bogosian,Buffalo Sabres,D,21:28,2,0,2,0,0,0,0,0,0,0,0,0,0,1,4,18:06,0:24,2:58,NA
-2018020775,8479999,Casey Mittelstadt,Buffalo Sabres,C,11:11,1,0,4,0,0,0,0,4,6,0,0,0,0,2,1,10:47,0:24,0:00,66.67
-2018020775,8471743,Vladimir Sobotka,Buffalo Sabres,C,13:57,0,0,0,2,0,0,0,8,12,0,0,0,0,0,1,12:00,0:02,1:55,66.67
-2018020775,8477933,Sam Reinhart,Buffalo Sabres,C,20:31,0,1,7,1,0,0,0,0,0,0,0,0,0,2,1,16:57,3:34,0:00,NA
-2018020775,8476878,Zemgus Girgensons,Buffalo Sabres,C,13:40,0,0,1,2,0,0,0,0,0,0,1,0,0,1,-1,12:03,0:00,1:37,NA
-2018020775,8477499,Rasmus Ristolainen,Buffalo Sabres,D,26:10,1,0,4,1,0,0,0,0,0,1,0,0,0,1,-1,21:39,3:36,0:55,NA
-2018020775,8478403,Jack Eichel,Buffalo Sabres,C,21:18,1,0,5,0,0,0,0,6,17,0,0,0,0,0,1,17:44,3:34,0:00,35.29
-2018020775,8475784,Jeff Skinner,Buffalo Sabres,LW,22:15,0,1,1,0,0,0,0,4,7,1,0,0,0,0,2,18:41,3:34,0:00,57.14
-2018020775,8478542,Evan Rodrigues,Buffalo Sabres,LW,13:33,1,1,2,0,0,0,0,3,5,0,0,0,0,0,1,11:16,0:00,2:17,60
-2018020775,8480839,Rasmus Dahlin,Buffalo Sabres,D,17:12,2,0,2,0,0,0,0,0,0,0,0,0,0,0,4,16:43,0:26,0:03,NA
-2018020775,8479420,Tage Thompson,Buffalo Sabres,RW,12:34,0,1,1,1,0,0,2,0,0,0,0,0,0,0,0,12:08,0:26,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020775,8477407,Anthony Duclair,Columbus Blue Jackets,Buffalo Sabres,LW,8:59,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-1,8:09,0:50,0:00,NA
+2018020775,8478906,Markus Nutivaara,Columbus Blue Jackets,Buffalo Sabres,D,13:30,0,0,1,2,0,0,0,0,0,1,0,0,0,2,-2,13:27,0:03,0:00,NA
+2018020775,8473422,Nick Foligno,Columbus Blue Jackets,Buffalo Sabres,LW,19:56,0,1,3,5,1,0,0,3,8,0,0,0,0,1,1,16:51,2:34,0:31,37.5
+2018020775,8474715,Cam Atkinson,Columbus Blue Jackets,Buffalo Sabres,RW,23:01,1,1,7,0,0,0,0,0,0,0,0,0,0,0,0,18:55,2:36,1:30,NA
+2018020775,8477505,Alexander Wennberg,Columbus Blue Jackets,Buffalo Sabres,C,15:04,0,0,0,1,0,0,0,6,17,0,1,0,0,1,-1,12:44,0:50,1:30,35.29
+2018020775,8476449,Scott Harrington,Columbus Blue Jackets,Buffalo Sabres,D,12:06,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,10:56,0:00,1:10,NA
+2018020775,8477416,Oliver Bjorkstrand,Columbus Blue Jackets,Buffalo Sabres,RW,13:41,0,0,3,2,0,0,0,0,0,1,0,0,0,1,-1,12:51,0:50,0:00,NA
+2018020775,8476310,Lukas Sedlak,Columbus Blue Jackets,Buffalo Sabres,C,7:36,0,0,2,2,0,0,0,0,5,0,0,0,0,0,0,7:02,0:03,0:31,0
+2018020775,8476981,Josh Anderson,Columbus Blue Jackets,Buffalo Sabres,RW,18:50,1,0,2,3,0,0,0,0,0,0,1,0,0,1,1,16:02,0:50,1:58,NA
+2018020775,8476850,Ryan Murray,Columbus Blue Jackets,Buffalo Sabres,D,19:57,2,0,2,1,0,0,0,0,0,0,0,0,0,3,0,18:01,0:18,1:38,NA
+2018020775,8475233,David Savard,Columbus Blue Jackets,Buffalo Sabres,D,19:13,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,17:11,0:00,2:02,NA
+2018020775,8474062,Riley Nash,Columbus Blue Jackets,Buffalo Sabres,C,8:24,0,0,1,0,0,0,0,1,2,1,0,0,0,0,-1,8:21,0:03,0:00,50
+2018020775,8477495,Seth Jones,Columbus Blue Jackets,Buffalo Sabres,D,25:55,0,0,3,0,0,0,2,0,0,2,0,0,0,0,-1,23:35,1:01,1:19,NA
+2018020775,8478550,Artemi Panarin,Columbus Blue Jackets,Buffalo Sabres,LW,22:12,2,0,3,0,0,1,2,0,0,0,1,0,0,0,0,19:20,2:51,0:01,NA
+2018020775,8479400,Pierre-Luc Dubois,Columbus Blue Jackets,Buffalo Sabres,C,21:57,1,1,3,3,0,1,0,7,13,0,1,0,0,0,0,19:05,2:51,0:01,53.85
+2018020775,8471273,Brandon Dubinsky,Columbus Blue Jackets,Buffalo Sabres,C,12:41,0,1,1,3,0,0,0,11,16,0,0,0,0,2,-2,10:43,0:00,1:58,68.75
+2018020775,8478541,Markus Hannikainen,Columbus Blue Jackets,Buffalo Sabres,LW,8:41,0,0,0,2,0,0,0,0,0,2,0,0,0,0,-1,8:32,0:09,0:00,NA
+2018020775,8478460,Zach Werenski,Columbus Blue Jackets,Buffalo Sabres,D,26:15,0,0,3,1,0,0,0,0,0,1,0,0,0,1,-1,21:33,2:51,1:51,NA
+2018020775,8469506,Jason Pominville,Buffalo Sabres,Columbus Blue Jackets,RW,11:05,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,11:03,0:02,0:00,NA
+2018020775,8475728,Johan Larsson,Buffalo Sabres,Columbus Blue Jackets,C,14:16,0,0,0,1,0,0,0,8,14,0,0,0,0,0,-1,12:37,0:00,1:39,57.14
+2018020775,8474618,Marco Scandella,Buffalo Sabres,Columbus Blue Jackets,D,15:32,0,0,0,1,0,0,0,0,0,0,0,0,0,1,-1,14:49,0:00,0:43,NA
+2018020775,8477839,Conor Sheary,Buffalo Sabres,Columbus Blue Jackets,LW,10:56,1,1,3,0,0,0,2,0,0,0,0,0,0,0,1,10:32,0:24,0:00,NA
+2018020775,8471436,Matt Hunwick,Buffalo Sabres,Columbus Blue Jackets,D,13:30,0,0,1,0,0,0,0,0,0,0,0,0,0,2,-1,13:27,0:00,0:03,NA
+2018020775,8476931,Jake McCabe,Buffalo Sabres,Columbus Blue Jackets,D,22:34,1,0,1,2,0,0,0,0,0,0,1,0,0,4,-1,19:48,0:00,2:46,NA
+2018020775,8473449,Kyle Okposo,Buffalo Sabres,Columbus Blue Jackets,RW,14:52,0,0,0,1,0,0,0,0,0,0,0,0,0,1,-1,11:18,3:34,0:00,NA
+2018020775,8474567,Zach Bogosian,Buffalo Sabres,Columbus Blue Jackets,D,21:28,2,0,2,0,0,0,0,0,0,0,0,0,0,1,4,18:06,0:24,2:58,NA
+2018020775,8479999,Casey Mittelstadt,Buffalo Sabres,Columbus Blue Jackets,C,11:11,1,0,4,0,0,0,0,4,6,0,0,0,0,2,1,10:47,0:24,0:00,66.67
+2018020775,8471743,Vladimir Sobotka,Buffalo Sabres,Columbus Blue Jackets,C,13:57,0,0,0,2,0,0,0,8,12,0,0,0,0,0,1,12:00,0:02,1:55,66.67
+2018020775,8477933,Sam Reinhart,Buffalo Sabres,Columbus Blue Jackets,C,20:31,0,1,7,1,0,0,0,0,0,0,0,0,0,2,1,16:57,3:34,0:00,NA
+2018020775,8476878,Zemgus Girgensons,Buffalo Sabres,Columbus Blue Jackets,C,13:40,0,0,1,2,0,0,0,0,0,0,1,0,0,1,-1,12:03,0:00,1:37,NA
+2018020775,8477499,Rasmus Ristolainen,Buffalo Sabres,Columbus Blue Jackets,D,26:10,1,0,4,1,0,0,0,0,0,1,0,0,0,1,-1,21:39,3:36,0:55,NA
+2018020775,8478403,Jack Eichel,Buffalo Sabres,Columbus Blue Jackets,C,21:18,1,0,5,0,0,0,0,6,17,0,0,0,0,0,1,17:44,3:34,0:00,35.29
+2018020775,8475784,Jeff Skinner,Buffalo Sabres,Columbus Blue Jackets,LW,22:15,0,1,1,0,0,0,0,4,7,1,0,0,0,0,2,18:41,3:34,0:00,57.14
+2018020775,8478542,Evan Rodrigues,Buffalo Sabres,Columbus Blue Jackets,LW,13:33,1,1,2,0,0,0,0,3,5,0,0,0,0,0,1,11:16,0:00,2:17,60
+2018020775,8480839,Rasmus Dahlin,Buffalo Sabres,Columbus Blue Jackets,D,17:12,2,0,2,0,0,0,0,0,0,0,0,0,0,0,4,16:43,0:26,0:03,NA
+2018020775,8479420,Tage Thompson,Buffalo Sabres,Columbus Blue Jackets,RW,12:34,0,1,1,1,0,0,2,0,0,0,0,0,0,0,0,12:08,0:26,0:00,NA

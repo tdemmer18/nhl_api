@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020610,8470803,Kyle Brodziak,Edmonton Oilers,C,12:12,0,0,2,4,0,0,0,46.67,7,15,0,0,0,0,0,-2,10:28,0:00,1:44
-2018020610,8476915,Jujhar Khaira,Edmonton Oilers,LW,15:01,0,0,1,5,0,0,0,NA,0,0,1,0,0,0,1,-1,13:36,0:00,1:25
-2018020610,8475727,Ryan Spooner,Edmonton Oilers,C,14:05,0,0,2,0,0,0,0,100,1,1,0,1,0,0,0,0,14:05,0:00,0:00
-2018020610,8476457,Adam Larsson,Edmonton Oilers,D,20:56,0,0,0,5,0,0,2,NA,0,0,0,0,0,0,1,0,20:02,0:00,0:54
-2018020610,8475755,Alexander Petrovic,Edmonton Oilers,D,20:21,1,0,0,5,0,0,0,NA,0,0,0,3,0,0,1,-1,19:56,0:00,0:25
-2018020610,8477934,Leon Draisaitl,Edmonton Oilers,C,21:45,0,2,4,1,1,0,0,35.71,5,14,1,2,0,0,0,0,20:16,0:38,0:51
-2018020610,8476427,Ty Rattie,Edmonton Oilers,RW,14:56,0,0,3,1,0,0,0,NA,0,0,1,0,0,0,0,0,14:18,0:38,0:00
-2018020610,8476988,Matt Benning,Edmonton Oilers,D,15:53,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,-1,13:12,0:00,2:41
-2018020610,8475430,Brandon Manning,Edmonton Oilers,D,12:54,0,0,1,3,0,0,0,NA,0,0,0,1,0,0,5,-1,12:54,0:00,0:00
-2018020610,8477498,Darnell Nurse,Edmonton Oilers,D,25:23,1,0,1,4,0,1,0,NA,0,0,0,0,0,0,4,-1,22:36,0:38,2:09
-2018020610,8475178,Zack Kassian,Edmonton Oilers,RW,11:51,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,-2,10:07,0:00,1:44
-2018020610,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,C,20:05,1,1,1,1,0,1,0,58.33,7,12,1,2,0,0,1,1,18:02,0:38,1:25
-2018020610,8476356,Tobias Rieder,Edmonton Oilers,RW,14:54,0,0,2,3,0,0,2,NA,0,0,0,0,0,0,2,-1,14:54,0:00,0:00
-2018020610,8478402,Connor McDavid,Edmonton Oilers,C,22:09,2,0,1,1,0,0,0,52.94,9,17,2,2,0,0,0,1,20:40,0:38,0:51
-2018020610,8478452,Caleb Jones,Edmonton Oilers,D,23:56,0,0,1,4,0,0,0,NA,0,0,2,2,0,0,1,0,22:05,0:00,1:51
-2018020610,8479344,Jesse Puljujarvi,Edmonton Oilers,RW,13:11,0,0,1,3,0,0,0,NA,0,0,1,1,0,0,2,-1,13:11,0:00,0:00
-2018020610,8473473,Milan Lucic,Edmonton Oilers,LW,12:22,0,0,1,4,0,0,0,NA,0,0,1,0,0,0,0,0,12:22,0:00,0:00
-2018020610,8479970,Joseph Gambardella,Edmonton Oilers,C,5:57,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,-1,5:57,0:00,0:00
-2018020610,8473618,Mathieu Perreault,Winnipeg Jets,LW,14:10,0,0,3,6,0,0,0,NA,0,0,1,0,0,0,0,0,13:04,1:06,0:00
-2018020610,8471218,Blake Wheeler,Winnipeg Jets,RW,19:38,0,1,4,2,0,0,0,NA,0,0,3,0,0,0,0,0,16:49,2:49,0:00
-2018020610,8477429,Andrew Copp,Winnipeg Jets,C,12:12,2,0,5,1,0,0,0,71.43,5,7,0,0,0,0,0,2,12:07,0:05,0:00
-2018020610,8473412,Bryan Little,Winnipeg Jets,C,14:05,0,0,1,0,0,0,0,44.44,4,9,0,1,0,0,0,0,12:59,1:06,0:00
-2018020610,8479339,Patrik Laine,Winnipeg Jets,RW,17:20,0,0,1,1,0,0,0,0,0,2,0,2,0,0,1,0,14:31,2:49,0:00
-2018020610,8477504,Josh Morrissey,Winnipeg Jets,D,26:28,1,0,1,1,0,0,0,NA,0,0,1,0,0,0,4,-1,22:43,3:07,0:38
-2018020610,8476476,Joe Morrow,Winnipeg Jets,D,12:39,1,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,1,12:39,0:00,0:00
-2018020610,8475179,Dmitry Kulikov,Winnipeg Jets,D,12:29,0,0,1,2,0,0,0,NA,0,0,0,2,0,0,1,2,12:29,0:00,0:00
-2018020610,8478458,Jack Roslovic,Winnipeg Jets,C,8:45,1,0,1,0,0,0,0,NA,0,0,2,0,0,0,1,2,8:45,0:00,0:00
-2018020610,8474574,Tyler Myers,Winnipeg Jets,D,23:02,0,0,2,2,0,0,0,NA,0,0,2,0,0,0,4,2,21:56,1:06,0:00
-2018020610,8475279,Ben Chiarot,Winnipeg Jets,D,19:53,0,0,4,2,0,0,0,NA,0,0,0,1,0,0,5,1,19:53,0:00,0:00
-2018020610,8476885,Jacob Trouba,Winnipeg Jets,D,22:40,1,0,1,0,0,0,0,NA,0,0,1,2,0,0,3,-1,21:04,0:58,0:38
-2018020610,8477940,Nikolaj Ehlers,Winnipeg Jets,LW,18:52,0,0,4,0,0,0,0,NA,0,0,0,1,0,0,0,0,17:46,1:06,0:00
-2018020610,8477962,Brendan Lemieux,Winnipeg Jets,LW,7:49,0,2,2,3,0,0,2,NA,0,0,1,0,0,0,0,2,7:49,0:00,0:00
-2018020610,8476460,Mark Scheifele,Winnipeg Jets,C,20:05,0,0,1,0,0,0,0,45.83,11,24,1,1,0,0,0,0,17:16,2:49,0:00
-2018020610,8478398,Kyle Connor,Winnipeg Jets,LW,16:37,0,0,1,0,0,0,0,NA,0,0,1,0,0,0,0,0,13:48,2:49,0:00
-2018020610,8476392,Adam Lowry,Winnipeg Jets,C,16:50,0,0,0,2,0,0,0,61.11,11,18,1,0,0,0,0,0,16:07,0:05,0:38
-2018020610,8479293,Brandon Tanev,Winnipeg Jets,LW,15:55,0,1,3,2,0,0,0,NA,0,0,1,0,0,0,0,0,15:12,0:05,0:38
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020610,8470803,Kyle Brodziak,Edmonton Oilers,Winnipeg Jets,C,12:12,0,0,2,4,0,0,0,46.67,7,15,0,0,0,0,0,-2,10:28,0:00,1:44
+2018020610,8476915,Jujhar Khaira,Edmonton Oilers,Winnipeg Jets,LW,15:01,0,0,1,5,0,0,0,NA,0,0,1,0,0,0,1,-1,13:36,0:00,1:25
+2018020610,8475727,Ryan Spooner,Edmonton Oilers,Winnipeg Jets,C,14:05,0,0,2,0,0,0,0,100,1,1,0,1,0,0,0,0,14:05,0:00,0:00
+2018020610,8476457,Adam Larsson,Edmonton Oilers,Winnipeg Jets,D,20:56,0,0,0,5,0,0,2,NA,0,0,0,0,0,0,1,0,20:02,0:00,0:54
+2018020610,8475755,Alexander Petrovic,Edmonton Oilers,Winnipeg Jets,D,20:21,1,0,0,5,0,0,0,NA,0,0,0,3,0,0,1,-1,19:56,0:00,0:25
+2018020610,8477934,Leon Draisaitl,Edmonton Oilers,Winnipeg Jets,C,21:45,0,2,4,1,1,0,0,35.71,5,14,1,2,0,0,0,0,20:16,0:38,0:51
+2018020610,8476427,Ty Rattie,Edmonton Oilers,Winnipeg Jets,RW,14:56,0,0,3,1,0,0,0,NA,0,0,1,0,0,0,0,0,14:18,0:38,0:00
+2018020610,8476988,Matt Benning,Edmonton Oilers,Winnipeg Jets,D,15:53,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,-1,13:12,0:00,2:41
+2018020610,8475430,Brandon Manning,Edmonton Oilers,Winnipeg Jets,D,12:54,0,0,1,3,0,0,0,NA,0,0,0,1,0,0,5,-1,12:54,0:00,0:00
+2018020610,8477498,Darnell Nurse,Edmonton Oilers,Winnipeg Jets,D,25:23,1,0,1,4,0,1,0,NA,0,0,0,0,0,0,4,-1,22:36,0:38,2:09
+2018020610,8475178,Zack Kassian,Edmonton Oilers,Winnipeg Jets,RW,11:51,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,-2,10:07,0:00,1:44
+2018020610,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,Winnipeg Jets,C,20:05,1,1,1,1,0,1,0,58.33,7,12,1,2,0,0,1,1,18:02,0:38,1:25
+2018020610,8476356,Tobias Rieder,Edmonton Oilers,Winnipeg Jets,RW,14:54,0,0,2,3,0,0,2,NA,0,0,0,0,0,0,2,-1,14:54,0:00,0:00
+2018020610,8478402,Connor McDavid,Edmonton Oilers,Winnipeg Jets,C,22:09,2,0,1,1,0,0,0,52.94,9,17,2,2,0,0,0,1,20:40,0:38,0:51
+2018020610,8478452,Caleb Jones,Edmonton Oilers,Winnipeg Jets,D,23:56,0,0,1,4,0,0,0,NA,0,0,2,2,0,0,1,0,22:05,0:00,1:51
+2018020610,8479344,Jesse Puljujarvi,Edmonton Oilers,Winnipeg Jets,RW,13:11,0,0,1,3,0,0,0,NA,0,0,1,1,0,0,2,-1,13:11,0:00,0:00
+2018020610,8473473,Milan Lucic,Edmonton Oilers,Winnipeg Jets,LW,12:22,0,0,1,4,0,0,0,NA,0,0,1,0,0,0,0,0,12:22,0:00,0:00
+2018020610,8479970,Joseph Gambardella,Edmonton Oilers,Winnipeg Jets,C,5:57,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,-1,5:57,0:00,0:00
+2018020610,8473618,Mathieu Perreault,Winnipeg Jets,Edmonton Oilers,LW,14:10,0,0,3,6,0,0,0,NA,0,0,1,0,0,0,0,0,13:04,1:06,0:00
+2018020610,8471218,Blake Wheeler,Winnipeg Jets,Edmonton Oilers,RW,19:38,0,1,4,2,0,0,0,NA,0,0,3,0,0,0,0,0,16:49,2:49,0:00
+2018020610,8477429,Andrew Copp,Winnipeg Jets,Edmonton Oilers,C,12:12,2,0,5,1,0,0,0,71.43,5,7,0,0,0,0,0,2,12:07,0:05,0:00
+2018020610,8473412,Bryan Little,Winnipeg Jets,Edmonton Oilers,C,14:05,0,0,1,0,0,0,0,44.44,4,9,0,1,0,0,0,0,12:59,1:06,0:00
+2018020610,8479339,Patrik Laine,Winnipeg Jets,Edmonton Oilers,RW,17:20,0,0,1,1,0,0,0,0,0,2,0,2,0,0,1,0,14:31,2:49,0:00
+2018020610,8477504,Josh Morrissey,Winnipeg Jets,Edmonton Oilers,D,26:28,1,0,1,1,0,0,0,NA,0,0,1,0,0,0,4,-1,22:43,3:07,0:38
+2018020610,8476476,Joe Morrow,Winnipeg Jets,Edmonton Oilers,D,12:39,1,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,1,12:39,0:00,0:00
+2018020610,8475179,Dmitry Kulikov,Winnipeg Jets,Edmonton Oilers,D,12:29,0,0,1,2,0,0,0,NA,0,0,0,2,0,0,1,2,12:29,0:00,0:00
+2018020610,8478458,Jack Roslovic,Winnipeg Jets,Edmonton Oilers,C,8:45,1,0,1,0,0,0,0,NA,0,0,2,0,0,0,1,2,8:45,0:00,0:00
+2018020610,8474574,Tyler Myers,Winnipeg Jets,Edmonton Oilers,D,23:02,0,0,2,2,0,0,0,NA,0,0,2,0,0,0,4,2,21:56,1:06,0:00
+2018020610,8475279,Ben Chiarot,Winnipeg Jets,Edmonton Oilers,D,19:53,0,0,4,2,0,0,0,NA,0,0,0,1,0,0,5,1,19:53,0:00,0:00
+2018020610,8476885,Jacob Trouba,Winnipeg Jets,Edmonton Oilers,D,22:40,1,0,1,0,0,0,0,NA,0,0,1,2,0,0,3,-1,21:04,0:58,0:38
+2018020610,8477940,Nikolaj Ehlers,Winnipeg Jets,Edmonton Oilers,LW,18:52,0,0,4,0,0,0,0,NA,0,0,0,1,0,0,0,0,17:46,1:06,0:00
+2018020610,8477962,Brendan Lemieux,Winnipeg Jets,Edmonton Oilers,LW,7:49,0,2,2,3,0,0,2,NA,0,0,1,0,0,0,0,2,7:49,0:00,0:00
+2018020610,8476460,Mark Scheifele,Winnipeg Jets,Edmonton Oilers,C,20:05,0,0,1,0,0,0,0,45.83,11,24,1,1,0,0,0,0,17:16,2:49,0:00
+2018020610,8478398,Kyle Connor,Winnipeg Jets,Edmonton Oilers,LW,16:37,0,0,1,0,0,0,0,NA,0,0,1,0,0,0,0,0,13:48,2:49,0:00
+2018020610,8476392,Adam Lowry,Winnipeg Jets,Edmonton Oilers,C,16:50,0,0,0,2,0,0,0,61.11,11,18,1,0,0,0,0,0,16:07,0:05,0:38
+2018020610,8479293,Brandon Tanev,Winnipeg Jets,Edmonton Oilers,LW,15:55,0,1,3,2,0,0,0,NA,0,0,1,0,0,0,0,0,15:12,0:05,0:38

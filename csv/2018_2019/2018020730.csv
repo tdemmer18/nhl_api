@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020730,8477919,Frederick Gaudreau,Nashville Predators,C,10:25,0,0,0,1,0,0,0,50,3,6,0,0,0,0,1,-1,10:25,0:00,0:00
-2018020730,8475218,Mattias Ekholm,Nashville Predators,D,21:34,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,0,1,17:24,1:24,2:46
-2018020730,8476428,Rocco Grimaldi,Nashville Predators,C,9:35,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,-2,9:35,0:00,0:00
-2018020730,8475714,Calle Jarnkrok,Nashville Predators,C,12:40,0,0,0,2,0,0,0,70,7,10,0,0,0,0,0,-2,11:03,0:00,1:37
-2018020730,8476925,Colton Sissons,Nashville Predators,C,17:43,0,0,1,1,0,0,0,46.15,6,13,0,1,0,0,2,0,14:58,1:37,1:08
-2018020730,8475225,Craig Smith,Nashville Predators,RW,11:49,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,-1,10:07,1:42,0:00
-2018020730,8476887,Filip Forsberg,Nashville Predators,LW,17:56,1,0,3,1,0,0,0,NA,0,0,1,1,0,0,0,-1,10:35,5:49,1:32
-2018020730,8477942,Kevin Fiala,Nashville Predators,LW,11:25,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,-1,11:25,0:00,0:00
-2018020730,8474009,Nick Bonino,Nashville Predators,C,16:44,0,0,0,1,0,0,0,33.33,4,12,0,2,0,0,0,0,14:41,1:24,0:39
-2018020730,8475766,Austin Watson,Nashville Predators,LW,16:57,0,0,3,2,0,0,0,NA,0,0,0,0,0,0,1,-1,14:59,0:00,1:58
-2018020730,8474600,Roman Josi,Nashville Predators,D,25:00,0,0,4,0,0,0,0,NA,0,0,1,2,0,0,2,-1,16:07,5:44,3:09
-2018020730,8475793,Ryan Johansen,Nashville Predators,C,18:24,0,0,5,3,0,0,2,66.67,12,18,1,2,0,0,0,-1,11:06,5:36,1:42
-2018020730,8477451,Ryan Hartman,Nashville Predators,RW,11:03,0,0,2,1,0,0,0,NA,0,0,1,2,0,0,0,0,11:03,0:00,0:00
-2018020730,8474134,Yannick Weber,Nashville Predators,D,12:51,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-4,12:49,0:00,0:02
-2018020730,8474056,P.K. Subban,Nashville Predators,D,24:28,0,0,3,0,0,0,2,NA,0,0,0,2,0,0,0,-1,17:47,5:49,0:52
-2018020730,8475176,Ryan Ellis,Nashville Predators,D,22:14,1,0,4,0,0,0,0,NA,0,0,1,1,0,0,2,1,18:15,1:29,2:30
-2018020730,8469465,Dan Hamhuis,Nashville Predators,D,14:23,0,0,1,0,0,0,2,NA,0,0,0,0,0,0,0,-4,13:16,0:00,1:07
-2018020730,8478042,Viktor Arvidsson,Nashville Predators,RW,18:49,0,1,5,0,0,0,0,NA,0,0,0,3,0,0,0,-2,11:28,5:31,1:50
-2018020730,8473618,Mathieu Perreault,Winnipeg Jets,LW,10:33,0,0,0,1,0,0,0,0,0,2,0,0,0,0,1,0,9:23,1:10,0:00
-2018020730,8471218,Blake Wheeler,Winnipeg Jets,RW,19:29,0,0,5,1,0,0,2,100,1,1,0,1,0,0,1,0,13:53,3:53,1:43
-2018020730,8478915,Sami Niku,Winnipeg Jets,D,14:19,2,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,4,14:19,0:00,0:00
-2018020730,8477429,Andrew Copp,Winnipeg Jets,C,11:03,1,0,1,0,0,0,0,37.5,3,8,0,1,0,0,0,3,10:32,0:00,0:31
-2018020730,8473412,Bryan Little,Winnipeg Jets,C,14:43,0,1,1,1,0,0,0,50,5,10,0,0,0,0,0,1,12:24,1:20,0:59
-2018020730,8479339,Patrik Laine,Winnipeg Jets,RW,16:39,1,0,6,3,0,0,0,NA,0,0,0,1,0,0,1,1,12:36,4:03,0:00
-2018020730,8477504,Josh Morrissey,Winnipeg Jets,D,21:27,0,0,0,0,0,0,0,NA,0,0,2,3,0,0,1,0,16:19,0:38,4:30
-2018020730,8476476,Joe Morrow,Winnipeg Jets,D,15:49,2,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,4,15:26,0:00,0:23
-2018020730,8475179,Dmitry Kulikov,Winnipeg Jets,D,18:54,0,0,0,1,0,0,0,NA,0,0,0,2,0,0,2,0,16:11,0:00,2:43
-2018020730,8478458,Jack Roslovic,Winnipeg Jets,C,14:38,1,0,0,0,0,0,0,100,1,1,2,2,0,0,1,1,13:18,1:10,0:10
-2018020730,8474574,Tyler Myers,Winnipeg Jets,D,21:42,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,3,0,16:34,1:10,3:58
-2018020730,8476885,Jacob Trouba,Winnipeg Jets,D,23:51,0,0,2,3,0,0,4,NA,0,0,0,2,0,0,4,0,16:24,4:35,2:52
-2018020730,8477962,Brendan Lemieux,Winnipeg Jets,LW,10:10,0,2,4,0,0,0,2,NA,0,0,0,0,0,0,0,3,10:10,0:00,0:00
-2018020730,8476460,Mark Scheifele,Winnipeg Jets,C,20:27,0,0,2,0,0,0,0,47.83,11,23,1,0,0,0,0,-1,14:15,4:03,2:09
-2018020730,8478891,Mason Appleton,Winnipeg Jets,C,9:27,0,1,2,3,0,0,0,NA,0,0,0,0,0,0,0,3,9:27,0:00,0:00
-2018020730,8478398,Kyle Connor,Winnipeg Jets,LW,19:12,0,0,3,0,0,0,0,NA,0,0,1,0,0,0,0,0,14:20,4:03,0:49
-2018020730,8476392,Adam Lowry,Winnipeg Jets,C,15:02,1,0,1,0,0,0,0,42.86,6,14,0,0,0,0,2,1,11:02,0:00,4:00
-2018020730,8479293,Brandon Tanev,Winnipeg Jets,LW,14:35,0,1,2,2,0,0,0,NA,0,0,0,2,0,0,2,0,10:30,0:00,4:05
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020730,8477919,Frederick Gaudreau,Nashville Predators,Winnipeg Jets,C,10:25,0,0,0,1,0,0,0,50,3,6,0,0,0,0,1,-1,10:25,0:00,0:00
+2018020730,8475218,Mattias Ekholm,Nashville Predators,Winnipeg Jets,D,21:34,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,0,1,17:24,1:24,2:46
+2018020730,8476428,Rocco Grimaldi,Nashville Predators,Winnipeg Jets,C,9:35,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,-2,9:35,0:00,0:00
+2018020730,8475714,Calle Jarnkrok,Nashville Predators,Winnipeg Jets,C,12:40,0,0,0,2,0,0,0,70,7,10,0,0,0,0,0,-2,11:03,0:00,1:37
+2018020730,8476925,Colton Sissons,Nashville Predators,Winnipeg Jets,C,17:43,0,0,1,1,0,0,0,46.15,6,13,0,1,0,0,2,0,14:58,1:37,1:08
+2018020730,8475225,Craig Smith,Nashville Predators,Winnipeg Jets,RW,11:49,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,-1,10:07,1:42,0:00
+2018020730,8476887,Filip Forsberg,Nashville Predators,Winnipeg Jets,LW,17:56,1,0,3,1,0,0,0,NA,0,0,1,1,0,0,0,-1,10:35,5:49,1:32
+2018020730,8477942,Kevin Fiala,Nashville Predators,Winnipeg Jets,LW,11:25,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,-1,11:25,0:00,0:00
+2018020730,8474009,Nick Bonino,Nashville Predators,Winnipeg Jets,C,16:44,0,0,0,1,0,0,0,33.33,4,12,0,2,0,0,0,0,14:41,1:24,0:39
+2018020730,8475766,Austin Watson,Nashville Predators,Winnipeg Jets,LW,16:57,0,0,3,2,0,0,0,NA,0,0,0,0,0,0,1,-1,14:59,0:00,1:58
+2018020730,8474600,Roman Josi,Nashville Predators,Winnipeg Jets,D,25:00,0,0,4,0,0,0,0,NA,0,0,1,2,0,0,2,-1,16:07,5:44,3:09
+2018020730,8475793,Ryan Johansen,Nashville Predators,Winnipeg Jets,C,18:24,0,0,5,3,0,0,2,66.67,12,18,1,2,0,0,0,-1,11:06,5:36,1:42
+2018020730,8477451,Ryan Hartman,Nashville Predators,Winnipeg Jets,RW,11:03,0,0,2,1,0,0,0,NA,0,0,1,2,0,0,0,0,11:03,0:00,0:00
+2018020730,8474134,Yannick Weber,Nashville Predators,Winnipeg Jets,D,12:51,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-4,12:49,0:00,0:02
+2018020730,8474056,P.K. Subban,Nashville Predators,Winnipeg Jets,D,24:28,0,0,3,0,0,0,2,NA,0,0,0,2,0,0,0,-1,17:47,5:49,0:52
+2018020730,8475176,Ryan Ellis,Nashville Predators,Winnipeg Jets,D,22:14,1,0,4,0,0,0,0,NA,0,0,1,1,0,0,2,1,18:15,1:29,2:30
+2018020730,8469465,Dan Hamhuis,Nashville Predators,Winnipeg Jets,D,14:23,0,0,1,0,0,0,2,NA,0,0,0,0,0,0,0,-4,13:16,0:00,1:07
+2018020730,8478042,Viktor Arvidsson,Nashville Predators,Winnipeg Jets,RW,18:49,0,1,5,0,0,0,0,NA,0,0,0,3,0,0,0,-2,11:28,5:31,1:50
+2018020730,8473618,Mathieu Perreault,Winnipeg Jets,Nashville Predators,LW,10:33,0,0,0,1,0,0,0,0,0,2,0,0,0,0,1,0,9:23,1:10,0:00
+2018020730,8471218,Blake Wheeler,Winnipeg Jets,Nashville Predators,RW,19:29,0,0,5,1,0,0,2,100,1,1,0,1,0,0,1,0,13:53,3:53,1:43
+2018020730,8478915,Sami Niku,Winnipeg Jets,Nashville Predators,D,14:19,2,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,4,14:19,0:00,0:00
+2018020730,8477429,Andrew Copp,Winnipeg Jets,Nashville Predators,C,11:03,1,0,1,0,0,0,0,37.5,3,8,0,1,0,0,0,3,10:32,0:00,0:31
+2018020730,8473412,Bryan Little,Winnipeg Jets,Nashville Predators,C,14:43,0,1,1,1,0,0,0,50,5,10,0,0,0,0,0,1,12:24,1:20,0:59
+2018020730,8479339,Patrik Laine,Winnipeg Jets,Nashville Predators,RW,16:39,1,0,6,3,0,0,0,NA,0,0,0,1,0,0,1,1,12:36,4:03,0:00
+2018020730,8477504,Josh Morrissey,Winnipeg Jets,Nashville Predators,D,21:27,0,0,0,0,0,0,0,NA,0,0,2,3,0,0,1,0,16:19,0:38,4:30
+2018020730,8476476,Joe Morrow,Winnipeg Jets,Nashville Predators,D,15:49,2,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,4,15:26,0:00,0:23
+2018020730,8475179,Dmitry Kulikov,Winnipeg Jets,Nashville Predators,D,18:54,0,0,0,1,0,0,0,NA,0,0,0,2,0,0,2,0,16:11,0:00,2:43
+2018020730,8478458,Jack Roslovic,Winnipeg Jets,Nashville Predators,C,14:38,1,0,0,0,0,0,0,100,1,1,2,2,0,0,1,1,13:18,1:10,0:10
+2018020730,8474574,Tyler Myers,Winnipeg Jets,Nashville Predators,D,21:42,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,3,0,16:34,1:10,3:58
+2018020730,8476885,Jacob Trouba,Winnipeg Jets,Nashville Predators,D,23:51,0,0,2,3,0,0,4,NA,0,0,0,2,0,0,4,0,16:24,4:35,2:52
+2018020730,8477962,Brendan Lemieux,Winnipeg Jets,Nashville Predators,LW,10:10,0,2,4,0,0,0,2,NA,0,0,0,0,0,0,0,3,10:10,0:00,0:00
+2018020730,8476460,Mark Scheifele,Winnipeg Jets,Nashville Predators,C,20:27,0,0,2,0,0,0,0,47.83,11,23,1,0,0,0,0,-1,14:15,4:03,2:09
+2018020730,8478891,Mason Appleton,Winnipeg Jets,Nashville Predators,C,9:27,0,1,2,3,0,0,0,NA,0,0,0,0,0,0,0,3,9:27,0:00,0:00
+2018020730,8478398,Kyle Connor,Winnipeg Jets,Nashville Predators,LW,19:12,0,0,3,0,0,0,0,NA,0,0,1,0,0,0,0,0,14:20,4:03,0:49
+2018020730,8476392,Adam Lowry,Winnipeg Jets,Nashville Predators,C,15:02,1,0,1,0,0,0,0,42.86,6,14,0,0,0,0,2,1,11:02,0:00,4:00
+2018020730,8479293,Brandon Tanev,Winnipeg Jets,Nashville Predators,LW,14:35,0,1,2,2,0,0,0,NA,0,0,0,2,0,0,2,0,10:30,0:00,4:05

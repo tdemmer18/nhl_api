@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020360,8477919,Frederick Gaudreau,Nashville Predators,C,7:53,0,0,1,0,0,0,0,50,3,6,0,0,0,0,0,0,7:53,0:00,0:00
-2018020360,8475218,Mattias Ekholm,Nashville Predators,D,23:56,1,0,1,0,0,1,0,NA,0,0,0,2,0,0,0,1,18:08,2:55,2:53
-2018020360,8475625,Matt Irwin,Nashville Predators,D,11:11,0,0,0,4,0,0,4,NA,0,0,0,0,0,0,1,1,11:03,0:00,0:08
-2018020360,8475714,Calle Jarnkrok,Nashville Predators,C,16:56,0,0,2,1,0,0,0,25,3,12,0,0,0,0,0,0,12:17,1:59,2:40
-2018020360,8476925,Colton Sissons,Nashville Predators,C,17:47,2,0,0,1,0,0,0,73.68,14,19,0,0,0,0,1,2,11:22,2:26,3:59
-2018020360,8474736,Zac Rinaldo,Nashville Predators,LW,4:44,0,0,0,2,0,0,0,NA,0,0,0,1,0,0,0,0,4:44,0:00,0:00
-2018020360,8475225,Craig Smith,Nashville Predators,RW,16:18,0,1,4,1,1,0,2,50,1,2,0,0,0,0,0,0,13:12,3:06,0:00
-2018020360,8476887,Filip Forsberg,Nashville Predators,LW,17:17,1,0,2,0,0,1,2,NA,0,0,2,2,0,0,1,0,12:47,3:12,1:18
-2018020360,8476447,Miikka Salomaki,Nashville Predators,RW,8:47,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,-1,8:47,0:00,0:00
-2018020360,8477942,Kevin Fiala,Nashville Predators,LW,14:29,1,0,4,0,0,1,0,100,1,1,0,3,0,0,0,0,10:58,3:31,0:00
-2018020360,8474009,Nick Bonino,Nashville Predators,C,18:04,1,1,5,0,0,0,2,66.67,8,12,0,0,0,0,1,2,11:42,3:12,3:10
-2018020360,8475766,Austin Watson,Nashville Predators,LW,16:06,0,3,4,0,1,0,0,0,0,1,0,0,0,0,0,3,12:01,0:23,3:42
-2018020360,8474600,Roman Josi,Nashville Predators,D,25:01,2,0,4,1,0,1,0,NA,0,0,0,1,0,0,3,0,15:47,4:03,5:11
-2018020360,8475793,Ryan Johansen,Nashville Predators,C,20:21,0,0,0,0,0,0,2,31.25,5,16,0,1,0,0,0,0,14:16,4:30,1:35
-2018020360,8477451,Ryan Hartman,Nashville Predators,RW,13:34,0,0,0,1,0,0,2,NA,0,0,0,1,0,0,0,0,13:21,0:13,0:00
-2018020360,8474134,Yannick Weber,Nashville Predators,D,11:58,0,0,2,1,0,0,2,NA,0,0,0,2,0,0,2,1,11:50,0:00,0:08
-2018020360,8475176,Ryan Ellis,Nashville Predators,D,25:59,1,0,4,1,0,0,0,NA,0,0,0,1,0,0,1,0,16:47,4:01,5:11
-2018020360,8469465,Dan Hamhuis,Nashville Predators,D,19:27,0,0,0,0,0,0,0,NA,0,0,0,2,0,0,0,1,16:34,0:00,2:53
-2018020360,8470616,Ryan Kesler,Anaheim Ducks,C,17:04,0,0,2,2,0,0,0,47.62,10,21,0,1,0,0,0,-1,9:58,3:58,3:08
-2018020360,8476857,Pontus Aberg,Anaheim Ducks,LW,14:04,0,0,1,0,0,0,0,NA,0,0,1,1,0,0,0,-1,10:09,3:55,0:00
-2018020360,8477969,Marcus Pettersson,Anaheim Ducks,D,20:14,1,0,1,0,0,0,0,NA,0,0,1,0,0,0,1,0,16:09,2:01,2:04
-2018020360,8470612,Ryan Getzlaf,Anaheim Ducks,C,21:52,0,0,1,0,0,0,2,52.63,10,19,0,2,0,0,0,-2,15:58,4:48,1:06
-2018020360,8477986,Brandon Montour,Anaheim Ducks,D,25:43,1,0,1,1,0,1,2,NA,0,0,0,1,0,0,0,-2,16:27,6:27,2:49
-2018020360,8477205,Andrej Sustr,Anaheim Ducks,D,11:05,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,-1,10:10,0:32,0:23
-2018020360,8471699,Andrew Cogliano,Anaheim Ducks,LW,10:40,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,9:14,0:00,1:26
-2018020360,8477009,Jake Dotchin,Anaheim Ducks,D,13:46,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,0,13:25,0:00,0:21
-2018020360,8477941,Nick Ritchie,Anaheim Ducks,LW,14:52,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,11:16,3:36,0:00
-2018020360,8476312,Josh Manson,Anaheim Ducks,D,19:44,0,0,0,2,0,0,4,NA,0,0,0,1,0,0,1,0,15:21,0:19,4:04
-2018020360,8474641,Adam Henrique,Anaheim Ducks,C,16:46,0,1,1,0,1,0,2,55,11,20,0,1,0,0,0,0,11:16,4:04,1:26
-2018020360,8480748,Kiefer Sherwood,Anaheim Ducks,RW,10:44,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,0,10:28,0:16,0:00
-2018020360,8476043,Ben Street,Anaheim Ducks,C,11:23,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,8:23,0:35,2:25
-2018020360,8476483,Rickard Rakell,Anaheim Ducks,C,19:17,1,0,0,0,0,1,0,NA,0,0,0,2,0,0,0,-2,14:59,4:18,0:00
-2018020360,8475164,Jakob Silfverberg,Anaheim Ducks,RW,16:29,0,0,2,1,0,0,2,NA,0,0,0,1,0,0,0,-1,11:36,3:05,1:48
-2018020360,8478491,Jacob Larsson,Anaheim Ducks,D,21:20,0,0,2,4,0,0,0,NA,0,0,1,1,0,0,0,0,18:02,0:16,3:02
-2018020360,8478131,Ondrej Kase,Anaheim Ducks,RW,15:59,0,1,2,0,0,0,0,NA,0,0,0,1,0,0,0,-1,13:44,2:15,0:00
-2018020360,8479290,Kalle Kossila,Anaheim Ducks,C,10:19,0,0,2,1,0,0,4,37.5,3,8,0,0,0,0,0,0,7:35,0:35,2:09
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020360,8477919,Frederick Gaudreau,Nashville Predators,Anaheim Ducks,C,7:53,0,0,1,0,0,0,0,50,3,6,0,0,0,0,0,0,7:53,0:00,0:00
+2018020360,8475218,Mattias Ekholm,Nashville Predators,Anaheim Ducks,D,23:56,1,0,1,0,0,1,0,NA,0,0,0,2,0,0,0,1,18:08,2:55,2:53
+2018020360,8475625,Matt Irwin,Nashville Predators,Anaheim Ducks,D,11:11,0,0,0,4,0,0,4,NA,0,0,0,0,0,0,1,1,11:03,0:00,0:08
+2018020360,8475714,Calle Jarnkrok,Nashville Predators,Anaheim Ducks,C,16:56,0,0,2,1,0,0,0,25,3,12,0,0,0,0,0,0,12:17,1:59,2:40
+2018020360,8476925,Colton Sissons,Nashville Predators,Anaheim Ducks,C,17:47,2,0,0,1,0,0,0,73.68,14,19,0,0,0,0,1,2,11:22,2:26,3:59
+2018020360,8474736,Zac Rinaldo,Nashville Predators,Anaheim Ducks,LW,4:44,0,0,0,2,0,0,0,NA,0,0,0,1,0,0,0,0,4:44,0:00,0:00
+2018020360,8475225,Craig Smith,Nashville Predators,Anaheim Ducks,RW,16:18,0,1,4,1,1,0,2,50,1,2,0,0,0,0,0,0,13:12,3:06,0:00
+2018020360,8476887,Filip Forsberg,Nashville Predators,Anaheim Ducks,LW,17:17,1,0,2,0,0,1,2,NA,0,0,2,2,0,0,1,0,12:47,3:12,1:18
+2018020360,8476447,Miikka Salomaki,Nashville Predators,Anaheim Ducks,RW,8:47,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,-1,8:47,0:00,0:00
+2018020360,8477942,Kevin Fiala,Nashville Predators,Anaheim Ducks,LW,14:29,1,0,4,0,0,1,0,100,1,1,0,3,0,0,0,0,10:58,3:31,0:00
+2018020360,8474009,Nick Bonino,Nashville Predators,Anaheim Ducks,C,18:04,1,1,5,0,0,0,2,66.67,8,12,0,0,0,0,1,2,11:42,3:12,3:10
+2018020360,8475766,Austin Watson,Nashville Predators,Anaheim Ducks,LW,16:06,0,3,4,0,1,0,0,0,0,1,0,0,0,0,0,3,12:01,0:23,3:42
+2018020360,8474600,Roman Josi,Nashville Predators,Anaheim Ducks,D,25:01,2,0,4,1,0,1,0,NA,0,0,0,1,0,0,3,0,15:47,4:03,5:11
+2018020360,8475793,Ryan Johansen,Nashville Predators,Anaheim Ducks,C,20:21,0,0,0,0,0,0,2,31.25,5,16,0,1,0,0,0,0,14:16,4:30,1:35
+2018020360,8477451,Ryan Hartman,Nashville Predators,Anaheim Ducks,RW,13:34,0,0,0,1,0,0,2,NA,0,0,0,1,0,0,0,0,13:21,0:13,0:00
+2018020360,8474134,Yannick Weber,Nashville Predators,Anaheim Ducks,D,11:58,0,0,2,1,0,0,2,NA,0,0,0,2,0,0,2,1,11:50,0:00,0:08
+2018020360,8475176,Ryan Ellis,Nashville Predators,Anaheim Ducks,D,25:59,1,0,4,1,0,0,0,NA,0,0,0,1,0,0,1,0,16:47,4:01,5:11
+2018020360,8469465,Dan Hamhuis,Nashville Predators,Anaheim Ducks,D,19:27,0,0,0,0,0,0,0,NA,0,0,0,2,0,0,0,1,16:34,0:00,2:53
+2018020360,8470616,Ryan Kesler,Anaheim Ducks,Nashville Predators,C,17:04,0,0,2,2,0,0,0,47.62,10,21,0,1,0,0,0,-1,9:58,3:58,3:08
+2018020360,8476857,Pontus Aberg,Anaheim Ducks,Nashville Predators,LW,14:04,0,0,1,0,0,0,0,NA,0,0,1,1,0,0,0,-1,10:09,3:55,0:00
+2018020360,8477969,Marcus Pettersson,Anaheim Ducks,Nashville Predators,D,20:14,1,0,1,0,0,0,0,NA,0,0,1,0,0,0,1,0,16:09,2:01,2:04
+2018020360,8470612,Ryan Getzlaf,Anaheim Ducks,Nashville Predators,C,21:52,0,0,1,0,0,0,2,52.63,10,19,0,2,0,0,0,-2,15:58,4:48,1:06
+2018020360,8477986,Brandon Montour,Anaheim Ducks,Nashville Predators,D,25:43,1,0,1,1,0,1,2,NA,0,0,0,1,0,0,0,-2,16:27,6:27,2:49
+2018020360,8477205,Andrej Sustr,Anaheim Ducks,Nashville Predators,D,11:05,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,-1,10:10,0:32,0:23
+2018020360,8471699,Andrew Cogliano,Anaheim Ducks,Nashville Predators,LW,10:40,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,9:14,0:00,1:26
+2018020360,8477009,Jake Dotchin,Anaheim Ducks,Nashville Predators,D,13:46,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,0,13:25,0:00,0:21
+2018020360,8477941,Nick Ritchie,Anaheim Ducks,Nashville Predators,LW,14:52,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,11:16,3:36,0:00
+2018020360,8476312,Josh Manson,Anaheim Ducks,Nashville Predators,D,19:44,0,0,0,2,0,0,4,NA,0,0,0,1,0,0,1,0,15:21,0:19,4:04
+2018020360,8474641,Adam Henrique,Anaheim Ducks,Nashville Predators,C,16:46,0,1,1,0,1,0,2,55,11,20,0,1,0,0,0,0,11:16,4:04,1:26
+2018020360,8480748,Kiefer Sherwood,Anaheim Ducks,Nashville Predators,RW,10:44,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,0,10:28,0:16,0:00
+2018020360,8476043,Ben Street,Anaheim Ducks,Nashville Predators,C,11:23,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,8:23,0:35,2:25
+2018020360,8476483,Rickard Rakell,Anaheim Ducks,Nashville Predators,C,19:17,1,0,0,0,0,1,0,NA,0,0,0,2,0,0,0,-2,14:59,4:18,0:00
+2018020360,8475164,Jakob Silfverberg,Anaheim Ducks,Nashville Predators,RW,16:29,0,0,2,1,0,0,2,NA,0,0,0,1,0,0,0,-1,11:36,3:05,1:48
+2018020360,8478491,Jacob Larsson,Anaheim Ducks,Nashville Predators,D,21:20,0,0,2,4,0,0,0,NA,0,0,1,1,0,0,0,0,18:02,0:16,3:02
+2018020360,8478131,Ondrej Kase,Anaheim Ducks,Nashville Predators,RW,15:59,0,1,2,0,0,0,0,NA,0,0,0,1,0,0,0,-1,13:44,2:15,0:00
+2018020360,8479290,Kalle Kossila,Anaheim Ducks,Nashville Predators,C,10:19,0,0,2,1,0,0,4,37.5,3,8,0,0,0,0,0,0,7:35,0:35,2:09

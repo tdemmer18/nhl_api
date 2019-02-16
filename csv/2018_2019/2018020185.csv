@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020185,8471958,Dan Girardi,Tampa Bay Lightning,D,17:00,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,16:19,0:00,0:41,NA
-2018020185,8471339,Ryan Callahan,Tampa Bay Lightning,RW,11:55,0,0,1,3,0,0,0,0,1,0,0,0,0,0,0,11:11,0:00,0:44,0
-2018020185,8478519,Anthony Cirelli,Tampa Bay Lightning,C,13:50,1,0,0,2,0,0,0,9,10,0,0,0,0,1,0,13:15,0:00,0:35,90
-2018020185,8471873,Anton Stralman,Tampa Bay Lightning,D,20:07,0,0,3,1,0,0,0,0,0,0,0,0,0,0,-3,18:48,0:00,1:19,NA
-2018020185,8476826,Yanni Gourde,Tampa Bay Lightning,C,17:02,0,0,4,0,0,0,0,0,2,0,0,0,0,1,0,14:40,1:41,0:41,0
-2018020185,8476468,J.T. Miller,Tampa Bay Lightning,C,17:26,0,0,2,4,0,0,0,4,9,2,0,0,0,0,-3,15:07,2:19,0:00,44.44
-2018020185,8476886,Slater Koekkoek,Tampa Bay Lightning,D,17:21,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,17:21,0:00,0:00,NA
-2018020185,8476975,Cedric Paquette,Tampa Bay Lightning,C,11:29,0,0,2,5,0,0,0,4,9,1,0,0,0,0,0,10:48,0:00,0:41,44.44
-2018020185,8470601,Braydon Coburn,Tampa Bay Lightning,D,19:33,0,0,3,2,0,0,0,0,0,1,0,0,0,1,-1,18:52,0:00,0:41,NA
-2018020185,8473986,Alex Killorn,Tampa Bay Lightning,LW,16:15,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,13:33,2:07,0:35,NA
-2018020185,8476453,Nikita Kucherov,Tampa Bay Lightning,RW,17:39,0,0,1,0,0,0,0,0,0,1,1,0,0,0,-2,14:58,2:41,0:00,NA
-2018020185,8474870,Tyler Johnson,Tampa Bay Lightning,C,17:34,0,0,2,2,0,0,0,3,11,0,1,0,0,0,-1,15:09,1:41,0:44,27.27
-2018020185,8477454,Adam Erne,Tampa Bay Lightning,LW,11:59,0,0,1,2,0,0,0,1,1,0,0,0,0,2,0,10:06,1:53,0:00,100
-2018020185,8474151,Ryan McDonagh,Tampa Bay Lightning,D,21:51,0,0,7,0,0,0,0,0,0,0,0,0,0,1,-2,18:03,2:29,1:19,NA
-2018020185,8474564,Steven Stamkos,Tampa Bay Lightning,C,17:13,0,0,3,0,0,0,0,5,10,0,1,0,0,1,-2,14:54,2:19,0:00,50
-2018020185,8479410,Mikhail Sergachev,Tampa Bay Lightning,D,19:56,0,0,4,2,0,0,0,0,0,1,0,0,0,0,-1,18:25,1:31,0:00,NA
-2018020185,8478472,Mathieu Joseph,Tampa Bay Lightning,RW,13:39,0,0,4,3,0,0,0,0,0,2,0,0,0,0,-1,13:39,0:00,0:00,NA
-2018020185,8478010,Brayden Point,Tampa Bay Lightning,C,16:27,0,0,1,1,0,0,2,3,6,1,0,0,0,0,-1,15:08,1:19,0:00,50
-2018020185,8477919,Frederick Gaudreau,Nashville Predators,C,7:04,0,0,1,0,0,0,0,1,4,0,0,0,0,0,-1,7:04,0:00,0:00,25
-2018020185,8475218,Mattias Ekholm,Nashville Predators,D,22:36,1,0,2,0,0,0,2,0,0,1,0,0,0,1,2,21:36,0:05,0:55,NA
-2018020185,8476428,Rocco Grimaldi,Nashville Predators,C,7:35,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1,7:35,0:00,0:00,NA
-2018020185,8475625,Matt Irwin,Nashville Predators,D,15:52,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,14:12,0:00,1:40,NA
-2018020185,8475714,Calle Jarnkrok,Nashville Predators,C,18:19,1,1,1,0,0,0,0,0,0,0,0,0,0,2,2,15:49,1:06,1:24,NA
-2018020185,8476925,Colton Sissons,Nashville Predators,C,16:59,0,0,2,1,0,0,0,2,3,0,0,0,0,0,1,15:12,0:37,1:10,66.67
-2018020185,8475225,Craig Smith,Nashville Predators,RW,17:07,0,0,3,7,0,0,0,0,0,2,0,0,0,0,1,16:01,1:06,0:00,NA
-2018020185,8476887,Filip Forsberg,Nashville Predators,LW,17:36,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,14:49,1:09,1:38,NA
-2018020185,8476447,Miikka Salomaki,Nashville Predators,RW,8:18,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,8:18,0:00,0:00,NA
-2018020185,8477942,Kevin Fiala,Nashville Predators,LW,15:10,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,14:16,0:54,0:00,NA
-2018020185,8474009,Nick Bonino,Nashville Predators,C,17:13,0,0,1,0,0,0,0,5,12,0,1,0,0,0,0,15:37,0:00,1:36,41.67
-2018020185,8474600,Roman Josi,Nashville Predators,D,22:22,0,1,2,2,0,0,2,0,0,0,1,0,0,0,1,20:00,0:57,1:25,NA
-2018020185,8475793,Ryan Johansen,Nashville Predators,C,18:31,2,0,1,0,0,0,0,17,23,2,0,0,0,2,2,15:42,1:03,1:46,73.91
-2018020185,8477451,Ryan Hartman,Nashville Predators,RW,15:59,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,15:16,0:17,0:26,0
-2018020185,8474134,Yannick Weber,Nashville Predators,D,13:28,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,13:28,0:00,0:00,NA
-2018020185,8474068,Kyle Turris,Nashville Predators,C,16:53,1,1,3,0,0,0,0,5,16,1,0,0,0,0,2,16:07,0:46,0:00,31.25
-2018020185,8474056,P.K. Subban,Nashville Predators,D,21:57,0,0,1,2,0,0,0,0,0,1,1,0,0,0,1,19:14,1:03,1:40,NA
-2018020185,8475176,Ryan Ellis,Nashville Predators,D,23:01,1,0,3,0,0,0,0,0,0,0,0,0,0,4,1,19:44,0:57,2:20,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020185,8471958,Dan Girardi,Tampa Bay Lightning,Nashville Predators,D,17:00,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,16:19,0:00,0:41,NA
+2018020185,8471339,Ryan Callahan,Tampa Bay Lightning,Nashville Predators,RW,11:55,0,0,1,3,0,0,0,0,1,0,0,0,0,0,0,11:11,0:00,0:44,0
+2018020185,8478519,Anthony Cirelli,Tampa Bay Lightning,Nashville Predators,C,13:50,1,0,0,2,0,0,0,9,10,0,0,0,0,1,0,13:15,0:00,0:35,90
+2018020185,8471873,Anton Stralman,Tampa Bay Lightning,Nashville Predators,D,20:07,0,0,3,1,0,0,0,0,0,0,0,0,0,0,-3,18:48,0:00,1:19,NA
+2018020185,8476826,Yanni Gourde,Tampa Bay Lightning,Nashville Predators,C,17:02,0,0,4,0,0,0,0,0,2,0,0,0,0,1,0,14:40,1:41,0:41,0
+2018020185,8476468,J.T. Miller,Tampa Bay Lightning,Nashville Predators,C,17:26,0,0,2,4,0,0,0,4,9,2,0,0,0,0,-3,15:07,2:19,0:00,44.44
+2018020185,8476886,Slater Koekkoek,Tampa Bay Lightning,Nashville Predators,D,17:21,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,17:21,0:00,0:00,NA
+2018020185,8476975,Cedric Paquette,Tampa Bay Lightning,Nashville Predators,C,11:29,0,0,2,5,0,0,0,4,9,1,0,0,0,0,0,10:48,0:00,0:41,44.44
+2018020185,8470601,Braydon Coburn,Tampa Bay Lightning,Nashville Predators,D,19:33,0,0,3,2,0,0,0,0,0,1,0,0,0,1,-1,18:52,0:00,0:41,NA
+2018020185,8473986,Alex Killorn,Tampa Bay Lightning,Nashville Predators,LW,16:15,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,13:33,2:07,0:35,NA
+2018020185,8476453,Nikita Kucherov,Tampa Bay Lightning,Nashville Predators,RW,17:39,0,0,1,0,0,0,0,0,0,1,1,0,0,0,-2,14:58,2:41,0:00,NA
+2018020185,8474870,Tyler Johnson,Tampa Bay Lightning,Nashville Predators,C,17:34,0,0,2,2,0,0,0,3,11,0,1,0,0,0,-1,15:09,1:41,0:44,27.27
+2018020185,8477454,Adam Erne,Tampa Bay Lightning,Nashville Predators,LW,11:59,0,0,1,2,0,0,0,1,1,0,0,0,0,2,0,10:06,1:53,0:00,100
+2018020185,8474151,Ryan McDonagh,Tampa Bay Lightning,Nashville Predators,D,21:51,0,0,7,0,0,0,0,0,0,0,0,0,0,1,-2,18:03,2:29,1:19,NA
+2018020185,8474564,Steven Stamkos,Tampa Bay Lightning,Nashville Predators,C,17:13,0,0,3,0,0,0,0,5,10,0,1,0,0,1,-2,14:54,2:19,0:00,50
+2018020185,8479410,Mikhail Sergachev,Tampa Bay Lightning,Nashville Predators,D,19:56,0,0,4,2,0,0,0,0,0,1,0,0,0,0,-1,18:25,1:31,0:00,NA
+2018020185,8478472,Mathieu Joseph,Tampa Bay Lightning,Nashville Predators,RW,13:39,0,0,4,3,0,0,0,0,0,2,0,0,0,0,-1,13:39,0:00,0:00,NA
+2018020185,8478010,Brayden Point,Tampa Bay Lightning,Nashville Predators,C,16:27,0,0,1,1,0,0,2,3,6,1,0,0,0,0,-1,15:08,1:19,0:00,50
+2018020185,8477919,Frederick Gaudreau,Nashville Predators,Tampa Bay Lightning,C,7:04,0,0,1,0,0,0,0,1,4,0,0,0,0,0,-1,7:04,0:00,0:00,25
+2018020185,8475218,Mattias Ekholm,Nashville Predators,Tampa Bay Lightning,D,22:36,1,0,2,0,0,0,2,0,0,1,0,0,0,1,2,21:36,0:05,0:55,NA
+2018020185,8476428,Rocco Grimaldi,Nashville Predators,Tampa Bay Lightning,C,7:35,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1,7:35,0:00,0:00,NA
+2018020185,8475625,Matt Irwin,Nashville Predators,Tampa Bay Lightning,D,15:52,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,14:12,0:00,1:40,NA
+2018020185,8475714,Calle Jarnkrok,Nashville Predators,Tampa Bay Lightning,C,18:19,1,1,1,0,0,0,0,0,0,0,0,0,0,2,2,15:49,1:06,1:24,NA
+2018020185,8476925,Colton Sissons,Nashville Predators,Tampa Bay Lightning,C,16:59,0,0,2,1,0,0,0,2,3,0,0,0,0,0,1,15:12,0:37,1:10,66.67
+2018020185,8475225,Craig Smith,Nashville Predators,Tampa Bay Lightning,RW,17:07,0,0,3,7,0,0,0,0,0,2,0,0,0,0,1,16:01,1:06,0:00,NA
+2018020185,8476887,Filip Forsberg,Nashville Predators,Tampa Bay Lightning,LW,17:36,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,14:49,1:09,1:38,NA
+2018020185,8476447,Miikka Salomaki,Nashville Predators,Tampa Bay Lightning,RW,8:18,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,8:18,0:00,0:00,NA
+2018020185,8477942,Kevin Fiala,Nashville Predators,Tampa Bay Lightning,LW,15:10,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,14:16,0:54,0:00,NA
+2018020185,8474009,Nick Bonino,Nashville Predators,Tampa Bay Lightning,C,17:13,0,0,1,0,0,0,0,5,12,0,1,0,0,0,0,15:37,0:00,1:36,41.67
+2018020185,8474600,Roman Josi,Nashville Predators,Tampa Bay Lightning,D,22:22,0,1,2,2,0,0,2,0,0,0,1,0,0,0,1,20:00,0:57,1:25,NA
+2018020185,8475793,Ryan Johansen,Nashville Predators,Tampa Bay Lightning,C,18:31,2,0,1,0,0,0,0,17,23,2,0,0,0,2,2,15:42,1:03,1:46,73.91
+2018020185,8477451,Ryan Hartman,Nashville Predators,Tampa Bay Lightning,RW,15:59,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,15:16,0:17,0:26,0
+2018020185,8474134,Yannick Weber,Nashville Predators,Tampa Bay Lightning,D,13:28,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,13:28,0:00,0:00,NA
+2018020185,8474068,Kyle Turris,Nashville Predators,Tampa Bay Lightning,C,16:53,1,1,3,0,0,0,0,5,16,1,0,0,0,0,2,16:07,0:46,0:00,31.25
+2018020185,8474056,P.K. Subban,Nashville Predators,Tampa Bay Lightning,D,21:57,0,0,1,2,0,0,0,0,0,1,1,0,0,0,1,19:14,1:03,1:40,NA
+2018020185,8475176,Ryan Ellis,Nashville Predators,Tampa Bay Lightning,D,23:01,1,0,3,0,0,0,0,0,0,0,0,0,0,4,1,19:44,0:57,2:20,NA

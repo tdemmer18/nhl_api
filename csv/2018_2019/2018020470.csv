@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020470,8475768,Jaden Schwartz,St. Louis Blues,LW,17:29,2,0,2,2,0,0,0,0,0,3,0,0,0,1,2,14:50,2:39,0:00,NA
-2018020470,8471761,Chris Butler,St. Louis Blues,D,10:48,0,0,1,1,0,0,0,0,0,0,0,0,0,2,2,9:20,0:00,1:28,NA
-2018020470,8476897,Oskar Sundqvist,St. Louis Blues,C,6:57,1,0,0,1,0,0,0,1,4,2,0,0,0,0,1,5:52,0:00,1:05,25
-2018020470,8477964,Ivan Barbashev,St. Louis Blues,C,9:29,0,1,2,0,0,0,0,0,2,0,0,0,0,1,1,6:51,0:05,2:33,0
-2018020470,8475325,Jordan Nolan,St. Louis Blues,C,5:08,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,5:08,0:00,0:00,NA
-2018020470,8475765,Vladimir Tarasenko,St. Louis Blues,RW,18:27,0,0,2,1,0,0,0,0,0,2,1,0,0,1,-2,15:23,3:04,0:00,NA
-2018020470,8470257,Alexander Steen,St. Louis Blues,LW,18:43,1,0,1,1,0,0,0,0,1,0,0,0,0,0,-1,15:18,2:30,0:55,0
-2018020470,8478407,Vince Dunn,St. Louis Blues,D,22:25,1,0,3,0,0,0,0,0,0,0,0,0,0,1,1,19:09,3:16,0:00,NA
-2018020470,8476877,Jordan Schmaltz,St. Louis Blues,D,10:15,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,10:10,0:05,0:00,NA
-2018020470,8475158,Ryan O'Reilly,St. Louis Blues,C,20:49,0,0,6,1,0,0,0,9,20,2,1,0,0,0,-2,16:01,3:21,1:27,45
-2018020470,8474102,David Perron,St. Louis Blues,LW,19:08,0,2,4,0,0,0,0,2,2,1,0,0,0,0,2,16:29,2:39,0:00,100
-2018020470,8474145,Robert Bortuzzo,St. Louis Blues,D,21:07,0,0,2,3,0,0,0,0,0,0,0,0,0,3,1,18:58,0:09,2:00,NA
-2018020470,8474034,Pat Maroon,St. Louis Blues,LW,14:16,0,0,1,2,0,0,0,0,0,0,1,0,0,0,-1,10:55,3:21,0:00,NA
-2018020470,8475098,Tyler Bozak,St. Louis Blues,C,20:20,0,0,1,1,0,0,0,13,20,1,0,0,0,0,0,15:04,3:16,2:00,65
-2018020470,8470151,Jay Bouwmeester,St. Louis Blues,D,23:00,0,0,1,0,0,0,0,0,0,0,2,0,0,2,-2,20:19,0:09,2:32,NA
-2018020470,8476892,Colton Parayko,St. Louis Blues,D,26:51,0,0,3,1,0,0,0,0,0,1,1,0,0,2,-1,22:04,2:47,2:00,NA
-2018020470,8475170,Brayden Schenn,St. Louis Blues,C,18:01,1,1,2,1,0,0,0,8,18,1,2,0,0,1,2,15:22,2:39,0:00,44.44
-2018020470,8480023,Robert Thomas,St. Louis Blues,C,12:47,1,0,1,0,0,0,2,1,1,1,0,0,0,2,1,12:47,0:00,0:00,100
-2018020470,8471735,Keith Yandle,Florida Panthers,D,22:24,0,0,3,0,0,0,0,0,0,0,1,0,0,1,1,18:03,3:33,0:48,NA
-2018020470,8474149,Evgenii Dadonov,Florida Panthers,RW,20:35,0,1,2,0,0,0,0,0,0,0,0,0,0,2,0,16:55,3:40,0:00,NA
-2018020470,8477932,Aaron Ekblad,Florida Panthers,D,19:49,0,0,2,2,0,0,0,0,0,0,0,0,0,0,2,17:35,0:20,1:54,NA
-2018020470,8476875,Mike Matheson,Florida Panthers,D,20:50,0,0,2,0,0,0,4,0,0,0,2,0,0,2,-3,19:07,0:27,1:16,NA
-2018020470,8474884,Mike Hoffman,Florida Panthers,LW,19:27,0,1,1,0,0,0,0,0,0,1,1,0,0,0,-1,15:27,4:00,0:00,NA
-2018020470,8471426,Troy Brouwer,Florida Panthers,RW,12:03,0,0,0,1,0,0,0,1,1,0,0,0,0,0,-1,9:56,0:00,2:07,100
-2018020470,8475755,Alexander Petrovic,Florida Panthers,D,19:54,0,0,2,1,0,0,0,0,0,2,0,0,0,2,-3,18:14,0:00,1:40,NA
-2018020470,8477955,Jared McCann,Florida Panthers,C,14:23,1,0,0,3,0,0,0,5,13,2,0,0,0,0,0,11:18,0:20,2:45,38.46
-2018020470,8474098,Colton Sceviour,Florida Panthers,C,13:13,0,0,0,0,0,0,0,0,1,1,1,0,0,3,-1,11:06,0:00,2:07,0
-2018020470,8474230,Micheal Haley,Florida Panthers,C,7:48,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,7:48,0:00,0:00,0
-2018020470,8478843,Denis Malgin,Florida Panthers,C,13:51,0,0,1,0,0,0,0,5,12,0,0,0,0,0,-1,13:51,0:00,0:00,41.67
-2018020470,8477996,Juho Lammikko,Florida Panthers,RW,9:26,0,0,1,0,0,0,0,4,7,0,0,0,0,0,0,7:47,0:00,1:39,57.14
-2018020470,8476456,Jonathan Huberdeau,Florida Panthers,LW,21:19,2,0,1,1,0,0,0,0,0,1,0,0,0,1,1,15:53,3:40,1:46,NA
-2018020470,8475796,Mark Pysyk,Florida Panthers,D,15:53,1,0,2,2,0,0,0,0,0,0,0,0,0,1,1,12:42,0:00,3:11,NA
-2018020470,8477346,MacKenzie Weegar,Florida Panthers,D,17:07,0,1,1,0,0,0,0,1,1,0,0,0,0,1,1,13:56,0:00,3:11,100
-2018020470,8478366,Frank Vatrano,Florida Panthers,C,13:16,0,0,3,0,0,0,0,1,2,0,0,0,0,0,-1,12:56,0:20,0:00,50
-2018020470,8478211,Dryden Hunt,Florida Panthers,LW,10:09,0,0,2,1,0,0,2,0,0,1,0,0,0,0,0,10:09,0:00,0:00,NA
-2018020470,8477493,Aleksander Barkov,Florida Panthers,C,23:42,1,0,2,0,0,0,0,17,30,0,0,0,0,1,0,18:26,3:40,1:36,56.67
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020470,8475768,Jaden Schwartz,St. Louis Blues,Florida Panthers,LW,17:29,2,0,2,2,0,0,0,0,0,3,0,0,0,1,2,14:50,2:39,0:00,NA
+2018020470,8471761,Chris Butler,St. Louis Blues,Florida Panthers,D,10:48,0,0,1,1,0,0,0,0,0,0,0,0,0,2,2,9:20,0:00,1:28,NA
+2018020470,8476897,Oskar Sundqvist,St. Louis Blues,Florida Panthers,C,6:57,1,0,0,1,0,0,0,1,4,2,0,0,0,0,1,5:52,0:00,1:05,25
+2018020470,8477964,Ivan Barbashev,St. Louis Blues,Florida Panthers,C,9:29,0,1,2,0,0,0,0,0,2,0,0,0,0,1,1,6:51,0:05,2:33,0
+2018020470,8475325,Jordan Nolan,St. Louis Blues,Florida Panthers,C,5:08,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,5:08,0:00,0:00,NA
+2018020470,8475765,Vladimir Tarasenko,St. Louis Blues,Florida Panthers,RW,18:27,0,0,2,1,0,0,0,0,0,2,1,0,0,1,-2,15:23,3:04,0:00,NA
+2018020470,8470257,Alexander Steen,St. Louis Blues,Florida Panthers,LW,18:43,1,0,1,1,0,0,0,0,1,0,0,0,0,0,-1,15:18,2:30,0:55,0
+2018020470,8478407,Vince Dunn,St. Louis Blues,Florida Panthers,D,22:25,1,0,3,0,0,0,0,0,0,0,0,0,0,1,1,19:09,3:16,0:00,NA
+2018020470,8476877,Jordan Schmaltz,St. Louis Blues,Florida Panthers,D,10:15,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,10:10,0:05,0:00,NA
+2018020470,8475158,Ryan O'Reilly,St. Louis Blues,Florida Panthers,C,20:49,0,0,6,1,0,0,0,9,20,2,1,0,0,0,-2,16:01,3:21,1:27,45
+2018020470,8474102,David Perron,St. Louis Blues,Florida Panthers,LW,19:08,0,2,4,0,0,0,0,2,2,1,0,0,0,0,2,16:29,2:39,0:00,100
+2018020470,8474145,Robert Bortuzzo,St. Louis Blues,Florida Panthers,D,21:07,0,0,2,3,0,0,0,0,0,0,0,0,0,3,1,18:58,0:09,2:00,NA
+2018020470,8474034,Pat Maroon,St. Louis Blues,Florida Panthers,LW,14:16,0,0,1,2,0,0,0,0,0,0,1,0,0,0,-1,10:55,3:21,0:00,NA
+2018020470,8475098,Tyler Bozak,St. Louis Blues,Florida Panthers,C,20:20,0,0,1,1,0,0,0,13,20,1,0,0,0,0,0,15:04,3:16,2:00,65
+2018020470,8470151,Jay Bouwmeester,St. Louis Blues,Florida Panthers,D,23:00,0,0,1,0,0,0,0,0,0,0,2,0,0,2,-2,20:19,0:09,2:32,NA
+2018020470,8476892,Colton Parayko,St. Louis Blues,Florida Panthers,D,26:51,0,0,3,1,0,0,0,0,0,1,1,0,0,2,-1,22:04,2:47,2:00,NA
+2018020470,8475170,Brayden Schenn,St. Louis Blues,Florida Panthers,C,18:01,1,1,2,1,0,0,0,8,18,1,2,0,0,1,2,15:22,2:39,0:00,44.44
+2018020470,8480023,Robert Thomas,St. Louis Blues,Florida Panthers,C,12:47,1,0,1,0,0,0,2,1,1,1,0,0,0,2,1,12:47,0:00,0:00,100
+2018020470,8471735,Keith Yandle,Florida Panthers,St. Louis Blues,D,22:24,0,0,3,0,0,0,0,0,0,0,1,0,0,1,1,18:03,3:33,0:48,NA
+2018020470,8474149,Evgenii Dadonov,Florida Panthers,St. Louis Blues,RW,20:35,0,1,2,0,0,0,0,0,0,0,0,0,0,2,0,16:55,3:40,0:00,NA
+2018020470,8477932,Aaron Ekblad,Florida Panthers,St. Louis Blues,D,19:49,0,0,2,2,0,0,0,0,0,0,0,0,0,0,2,17:35,0:20,1:54,NA
+2018020470,8476875,Mike Matheson,Florida Panthers,St. Louis Blues,D,20:50,0,0,2,0,0,0,4,0,0,0,2,0,0,2,-3,19:07,0:27,1:16,NA
+2018020470,8474884,Mike Hoffman,Florida Panthers,St. Louis Blues,LW,19:27,0,1,1,0,0,0,0,0,0,1,1,0,0,0,-1,15:27,4:00,0:00,NA
+2018020470,8471426,Troy Brouwer,Florida Panthers,St. Louis Blues,RW,12:03,0,0,0,1,0,0,0,1,1,0,0,0,0,0,-1,9:56,0:00,2:07,100
+2018020470,8475755,Alexander Petrovic,Florida Panthers,St. Louis Blues,D,19:54,0,0,2,1,0,0,0,0,0,2,0,0,0,2,-3,18:14,0:00,1:40,NA
+2018020470,8477955,Jared McCann,Florida Panthers,St. Louis Blues,C,14:23,1,0,0,3,0,0,0,5,13,2,0,0,0,0,0,11:18,0:20,2:45,38.46
+2018020470,8474098,Colton Sceviour,Florida Panthers,St. Louis Blues,C,13:13,0,0,0,0,0,0,0,0,1,1,1,0,0,3,-1,11:06,0:00,2:07,0
+2018020470,8474230,Micheal Haley,Florida Panthers,St. Louis Blues,C,7:48,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,7:48,0:00,0:00,0
+2018020470,8478843,Denis Malgin,Florida Panthers,St. Louis Blues,C,13:51,0,0,1,0,0,0,0,5,12,0,0,0,0,0,-1,13:51,0:00,0:00,41.67
+2018020470,8477996,Juho Lammikko,Florida Panthers,St. Louis Blues,RW,9:26,0,0,1,0,0,0,0,4,7,0,0,0,0,0,0,7:47,0:00,1:39,57.14
+2018020470,8476456,Jonathan Huberdeau,Florida Panthers,St. Louis Blues,LW,21:19,2,0,1,1,0,0,0,0,0,1,0,0,0,1,1,15:53,3:40,1:46,NA
+2018020470,8475796,Mark Pysyk,Florida Panthers,St. Louis Blues,D,15:53,1,0,2,2,0,0,0,0,0,0,0,0,0,1,1,12:42,0:00,3:11,NA
+2018020470,8477346,MacKenzie Weegar,Florida Panthers,St. Louis Blues,D,17:07,0,1,1,0,0,0,0,1,1,0,0,0,0,1,1,13:56,0:00,3:11,100
+2018020470,8478366,Frank Vatrano,Florida Panthers,St. Louis Blues,C,13:16,0,0,3,0,0,0,0,1,2,0,0,0,0,0,-1,12:56,0:20,0:00,50
+2018020470,8478211,Dryden Hunt,Florida Panthers,St. Louis Blues,LW,10:09,0,0,2,1,0,0,2,0,0,1,0,0,0,0,0,10:09,0:00,0:00,NA
+2018020470,8477493,Aleksander Barkov,Florida Panthers,St. Louis Blues,C,23:42,1,0,2,0,0,0,0,17,30,0,0,0,0,1,0,18:26,3:40,1:36,56.67

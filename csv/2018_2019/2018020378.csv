@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020378,8471735,Keith Yandle,Florida Panthers,D,21:24,1,0,4,1,0,1,2,0,0,0,3,0,0,0,0,18:10,3:14,0:00,NA
-2018020378,8474149,Evgenii Dadonov,Florida Panthers,RW,20:04,0,1,5,0,1,0,0,0,0,0,1,0,0,0,-1,16:50,3:14,0:00,NA
-2018020378,8477932,Aaron Ekblad,Florida Panthers,D,23:48,0,1,1,1,0,0,0,0,0,2,1,0,0,0,0,20:19,0:53,2:36,NA
-2018020378,8476875,Mike Matheson,Florida Panthers,D,24:58,0,0,2,0,0,0,0,0,0,0,2,0,0,1,-1,21:27,0:53,2:38,NA
-2018020378,8474884,Mike Hoffman,Florida Panthers,LW,21:24,0,0,3,0,0,0,0,0,3,0,1,0,0,0,0,18:10,3:14,0:00,0
-2018020378,8471426,Troy Brouwer,Florida Panthers,RW,14:28,0,0,4,1,0,0,2,2,3,2,0,0,0,0,0,13:02,0:39,0:47,66.67
-2018020378,8477955,Jared McCann,Florida Panthers,C,15:51,0,0,2,0,0,0,0,8,13,0,1,0,0,0,-1,14:04,0:53,0:54,61.54
-2018020378,8474098,Colton Sceviour,Florida Panthers,C,10:25,0,0,4,3,0,0,0,0,0,0,1,0,0,0,-1,7:43,0:00,2:42,NA
-2018020378,8474230,Micheal Haley,Florida Panthers,C,6:51,0,0,1,2,0,0,0,2,3,0,0,0,0,0,-1,6:51,0:00,0:00,66.67
-2018020378,8475760,Nick Bjugstad,Florida Panthers,C,12:22,0,0,3,2,0,0,0,4,11,1,1,0,0,1,0,12:08,0:14,0:00,36.36
-2018020378,8480955,Bogdan Kiselevich,Florida Panthers,D,16:29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,15:05,0:00,1:24,NA
-2018020378,8477996,Juho Lammikko,Florida Panthers,RW,9:03,0,0,0,0,0,0,0,1,8,1,0,0,0,1,-2,7:07,0:00,1:56,12.5
-2018020378,8476456,Jonathan Huberdeau,Florida Panthers,LW,17:54,2,0,0,2,0,1,0,0,0,1,1,0,0,0,0,14:40,3:14,0:00,NA
-2018020378,8475796,Mark Pysyk,Florida Panthers,D,14:22,0,0,2,1,0,0,0,0,0,0,0,0,0,0,-1,14:22,0:00,0:00,NA
-2018020378,8477346,MacKenzie Weegar,Florida Panthers,D,15:48,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-1,14:26,0:00,1:22,NA
-2018020378,8478366,Frank Vatrano,Florida Panthers,C,14:29,0,0,4,0,0,0,0,0,0,1,1,0,0,1,-1,13:36,0:53,0:00,NA
-2018020378,8478211,Dryden Hunt,Florida Panthers,LW,14:02,0,0,5,1,0,0,0,0,0,2,0,0,0,1,0,14:02,0:00,0:00,NA
-2018020378,8477493,Aleksander Barkov,Florida Panthers,C,23:39,1,0,2,1,0,0,0,10,24,0,0,0,0,1,1,18:44,3:14,1:41,41.67
-2018020378,8470616,Ryan Kesler,Anaheim Ducks,C,19:48,0,0,0,0,0,0,0,13,19,0,0,0,0,1,0,15:04,1:30,3:14,68.42
-2018020378,8476857,Pontus Aberg,Anaheim Ducks,LW,10:15,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,9:03,1:12,0:00,0
-2018020378,8477969,Marcus Pettersson,Anaheim Ducks,D,21:49,1,0,3,2,0,0,2,0,0,0,0,0,0,3,1,20:21,0:00,1:28,NA
-2018020378,8476407,Andy Welinski,Anaheim Ducks,D,15:04,0,0,1,1,0,0,0,0,0,1,0,0,0,0,-1,13:21,1:43,0:00,NA
-2018020378,8470612,Ryan Getzlaf,Anaheim Ducks,C,20:51,1,0,3,2,0,0,2,10,16,1,1,0,0,1,1,18:03,2:48,0:00,62.5
-2018020378,8477986,Brandon Montour,Anaheim Ducks,D,24:45,0,0,1,1,0,0,0,0,0,0,2,0,0,0,0,21:25,2:17,1:03,NA
-2018020378,8471699,Andrew Cogliano,Anaheim Ducks,LW,14:00,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,13:26,0:00,0:34,NA
-2018020378,8477009,Jake Dotchin,Anaheim Ducks,D,14:00,0,0,1,0,0,0,2,0,0,0,1,0,0,2,1,14:00,0:00,0:00,NA
-2018020378,8476207,Brian Gibbons,Anaheim Ducks,C,8:52,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,8:33,0:00,0:19,0
-2018020378,8477941,Nick Ritchie,Anaheim Ducks,LW,14:41,0,2,2,3,0,0,0,0,0,0,1,0,0,0,2,12:58,1:43,0:00,NA
-2018020378,8476312,Josh Manson,Anaheim Ducks,D,22:33,0,1,2,2,0,0,0,0,0,0,2,0,0,1,2,19:30,0:00,3:03,NA
-2018020378,8474641,Adam Henrique,Anaheim Ducks,C,14:21,1,0,0,0,0,0,0,9,14,1,1,0,0,0,1,11:13,2:17,0:51,64.29
-2018020378,8480748,Kiefer Sherwood,Anaheim Ducks,RW,13:52,0,0,2,2,0,0,0,0,1,0,1,0,0,1,1,13:52,0:00,0:00,0
-2018020378,8476483,Rickard Rakell,Anaheim Ducks,C,17:43,0,0,2,0,0,0,0,0,0,2,2,0,0,0,0,15:13,2:30,0:00,NA
-2018020378,8475164,Jakob Silfverberg,Anaheim Ducks,RW,21:29,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,16:21,2:30,2:38,NA
-2018020378,8478491,Jacob Larsson,Anaheim Ducks,D,17:44,0,0,2,1,0,0,0,0,0,0,2,0,0,0,1,15:04,0:00,2:40,NA
-2018020378,8477240,Carter Rowney,Anaheim Ducks,RW,10:39,1,0,0,1,0,0,0,6,11,1,0,0,0,1,0,10:01,0:00,0:38,54.55
-2018020378,8478131,Ondrej Kase,Anaheim Ducks,RW,13:27,1,0,1,0,0,0,0,0,2,0,0,0,0,0,1,11:57,1:30,0:00,0
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020378,8471735,Keith Yandle,Florida Panthers,Anaheim Ducks,D,21:24,1,0,4,1,0,1,2,0,0,0,3,0,0,0,0,18:10,3:14,0:00,NA
+2018020378,8474149,Evgenii Dadonov,Florida Panthers,Anaheim Ducks,RW,20:04,0,1,5,0,1,0,0,0,0,0,1,0,0,0,-1,16:50,3:14,0:00,NA
+2018020378,8477932,Aaron Ekblad,Florida Panthers,Anaheim Ducks,D,23:48,0,1,1,1,0,0,0,0,0,2,1,0,0,0,0,20:19,0:53,2:36,NA
+2018020378,8476875,Mike Matheson,Florida Panthers,Anaheim Ducks,D,24:58,0,0,2,0,0,0,0,0,0,0,2,0,0,1,-1,21:27,0:53,2:38,NA
+2018020378,8474884,Mike Hoffman,Florida Panthers,Anaheim Ducks,LW,21:24,0,0,3,0,0,0,0,0,3,0,1,0,0,0,0,18:10,3:14,0:00,0
+2018020378,8471426,Troy Brouwer,Florida Panthers,Anaheim Ducks,RW,14:28,0,0,4,1,0,0,2,2,3,2,0,0,0,0,0,13:02,0:39,0:47,66.67
+2018020378,8477955,Jared McCann,Florida Panthers,Anaheim Ducks,C,15:51,0,0,2,0,0,0,0,8,13,0,1,0,0,0,-1,14:04,0:53,0:54,61.54
+2018020378,8474098,Colton Sceviour,Florida Panthers,Anaheim Ducks,C,10:25,0,0,4,3,0,0,0,0,0,0,1,0,0,0,-1,7:43,0:00,2:42,NA
+2018020378,8474230,Micheal Haley,Florida Panthers,Anaheim Ducks,C,6:51,0,0,1,2,0,0,0,2,3,0,0,0,0,0,-1,6:51,0:00,0:00,66.67
+2018020378,8475760,Nick Bjugstad,Florida Panthers,Anaheim Ducks,C,12:22,0,0,3,2,0,0,0,4,11,1,1,0,0,1,0,12:08,0:14,0:00,36.36
+2018020378,8480955,Bogdan Kiselevich,Florida Panthers,Anaheim Ducks,D,16:29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,15:05,0:00,1:24,NA
+2018020378,8477996,Juho Lammikko,Florida Panthers,Anaheim Ducks,RW,9:03,0,0,0,0,0,0,0,1,8,1,0,0,0,1,-2,7:07,0:00,1:56,12.5
+2018020378,8476456,Jonathan Huberdeau,Florida Panthers,Anaheim Ducks,LW,17:54,2,0,0,2,0,1,0,0,0,1,1,0,0,0,0,14:40,3:14,0:00,NA
+2018020378,8475796,Mark Pysyk,Florida Panthers,Anaheim Ducks,D,14:22,0,0,2,1,0,0,0,0,0,0,0,0,0,0,-1,14:22,0:00,0:00,NA
+2018020378,8477346,MacKenzie Weegar,Florida Panthers,Anaheim Ducks,D,15:48,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-1,14:26,0:00,1:22,NA
+2018020378,8478366,Frank Vatrano,Florida Panthers,Anaheim Ducks,C,14:29,0,0,4,0,0,0,0,0,0,1,1,0,0,1,-1,13:36,0:53,0:00,NA
+2018020378,8478211,Dryden Hunt,Florida Panthers,Anaheim Ducks,LW,14:02,0,0,5,1,0,0,0,0,0,2,0,0,0,1,0,14:02,0:00,0:00,NA
+2018020378,8477493,Aleksander Barkov,Florida Panthers,Anaheim Ducks,C,23:39,1,0,2,1,0,0,0,10,24,0,0,0,0,1,1,18:44,3:14,1:41,41.67
+2018020378,8470616,Ryan Kesler,Anaheim Ducks,Florida Panthers,C,19:48,0,0,0,0,0,0,0,13,19,0,0,0,0,1,0,15:04,1:30,3:14,68.42
+2018020378,8476857,Pontus Aberg,Anaheim Ducks,Florida Panthers,LW,10:15,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,9:03,1:12,0:00,0
+2018020378,8477969,Marcus Pettersson,Anaheim Ducks,Florida Panthers,D,21:49,1,0,3,2,0,0,2,0,0,0,0,0,0,3,1,20:21,0:00,1:28,NA
+2018020378,8476407,Andy Welinski,Anaheim Ducks,Florida Panthers,D,15:04,0,0,1,1,0,0,0,0,0,1,0,0,0,0,-1,13:21,1:43,0:00,NA
+2018020378,8470612,Ryan Getzlaf,Anaheim Ducks,Florida Panthers,C,20:51,1,0,3,2,0,0,2,10,16,1,1,0,0,1,1,18:03,2:48,0:00,62.5
+2018020378,8477986,Brandon Montour,Anaheim Ducks,Florida Panthers,D,24:45,0,0,1,1,0,0,0,0,0,0,2,0,0,0,0,21:25,2:17,1:03,NA
+2018020378,8471699,Andrew Cogliano,Anaheim Ducks,Florida Panthers,LW,14:00,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,13:26,0:00,0:34,NA
+2018020378,8477009,Jake Dotchin,Anaheim Ducks,Florida Panthers,D,14:00,0,0,1,0,0,0,2,0,0,0,1,0,0,2,1,14:00,0:00,0:00,NA
+2018020378,8476207,Brian Gibbons,Anaheim Ducks,Florida Panthers,C,8:52,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,8:33,0:00,0:19,0
+2018020378,8477941,Nick Ritchie,Anaheim Ducks,Florida Panthers,LW,14:41,0,2,2,3,0,0,0,0,0,0,1,0,0,0,2,12:58,1:43,0:00,NA
+2018020378,8476312,Josh Manson,Anaheim Ducks,Florida Panthers,D,22:33,0,1,2,2,0,0,0,0,0,0,2,0,0,1,2,19:30,0:00,3:03,NA
+2018020378,8474641,Adam Henrique,Anaheim Ducks,Florida Panthers,C,14:21,1,0,0,0,0,0,0,9,14,1,1,0,0,0,1,11:13,2:17,0:51,64.29
+2018020378,8480748,Kiefer Sherwood,Anaheim Ducks,Florida Panthers,RW,13:52,0,0,2,2,0,0,0,0,1,0,1,0,0,1,1,13:52,0:00,0:00,0
+2018020378,8476483,Rickard Rakell,Anaheim Ducks,Florida Panthers,C,17:43,0,0,2,0,0,0,0,0,0,2,2,0,0,0,0,15:13,2:30,0:00,NA
+2018020378,8475164,Jakob Silfverberg,Anaheim Ducks,Florida Panthers,RW,21:29,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,16:21,2:30,2:38,NA
+2018020378,8478491,Jacob Larsson,Anaheim Ducks,Florida Panthers,D,17:44,0,0,2,1,0,0,0,0,0,0,2,0,0,0,1,15:04,0:00,2:40,NA
+2018020378,8477240,Carter Rowney,Anaheim Ducks,Florida Panthers,RW,10:39,1,0,0,1,0,0,0,6,11,1,0,0,0,1,0,10:01,0:00,0:38,54.55
+2018020378,8478131,Ondrej Kase,Anaheim Ducks,Florida Panthers,RW,13:27,1,0,1,0,0,0,0,0,2,0,0,0,0,0,1,11:57,1:30,0:00,0

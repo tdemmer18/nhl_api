@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020346,8466138,Joe Thornton,San Jose Sharks,C,14:51,2,0,2,0,0,2,0,60,3,5,1,0,0,0,0,0,11:14,3:37,0:00
-2018020346,8470613,Brent Burns,San Jose Sharks,D,23:03,1,0,0,0,0,1,0,NA,0,0,5,0,0,0,4,0,16:04,4:07,2:52
-2018020346,8471709,Marc-Edouard Vlasic,San Jose Sharks,D,19:37,0,0,0,1,0,0,2,NA,0,0,0,1,0,0,2,0,16:29,0:00,3:08
-2018020346,8470794,Joe Pavelski,San Jose Sharks,C,18:12,0,0,2,2,0,0,0,75,6,8,1,1,0,0,0,0,12:53,4:33,0:46
-2018020346,8475834,Marcus Sorensen,San Jose Sharks,LW,13:18,0,0,1,1,0,0,0,NA,0,0,1,1,0,0,0,0,11:09,0:00,2:09
-2018020346,8474027,Justin Braun,San Jose Sharks,D,21:39,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,2,0,18:31,0:00,3:08
-2018020346,8475841,Tim Heed,San Jose Sharks,D,11:07,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,3,0,9:36,1:31,0:00
-2018020346,8475820,Joonas Donskoi,San Jose Sharks,RW,11:54,0,0,0,1,0,0,0,0,0,1,2,0,0,0,0,0,11:54,0:00,0:00
-2018020346,8476624,Barclay Goodrow,San Jose Sharks,RW,12:15,0,0,1,3,0,0,0,66.67,6,9,0,0,0,0,2,1,10:43,0:00,1:32
-2018020346,8474578,Erik Karlsson,San Jose Sharks,D,22:09,2,1,2,0,1,1,0,NA,0,0,0,3,0,0,1,1,16:03,3:14,2:52
-2018020346,8477922,Melker Karlsson,San Jose Sharks,C,12:37,0,1,1,0,0,0,0,NA,0,0,1,1,0,0,0,1,10:50,0:00,1:47
-2018020346,8474053,Logan Couture,San Jose Sharks,C,17:46,0,1,4,0,1,0,0,0,0,1,2,0,0,0,0,0,11:49,3:44,2:13
-2018020346,8478414,Timo Meier,San Jose Sharks,RW,16:12,0,1,3,2,1,0,0,NA,0,0,1,1,0,0,1,0,12:36,2:59,0:37
-2018020346,8475455,Brenden Dillon,San Jose Sharks,D,16:40,1,0,1,5,0,0,2,NA,0,0,0,0,0,0,1,1,16:40,0:00,0:00
-2018020346,8475169,Evander Kane,San Jose Sharks,LW,16:56,0,0,4,3,0,0,2,83.33,5,6,0,1,0,0,0,0,13:20,2:59,0:37
-2018020346,8478099,Kevin Labanc,San Jose Sharks,RW,16:20,2,0,1,1,0,2,0,0,0,1,0,0,0,0,0,0,10:41,5:39,0:00
-2018020346,8476881,Tomas Hertl,San Jose Sharks,C,18:59,0,0,0,1,0,0,0,72.73,8,11,0,0,0,0,0,0,12:18,4:22,2:19
-2018020346,8480780,Lukas Radil,San Jose Sharks,C,10:25,0,0,2,0,0,0,2,NA,0,0,0,0,0,0,0,1,10:25,0:00,0:00
-2018020346,8470626,Loui Eriksson,Vancouver Canucks,LW,12:20,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,1,0,10:28,1:52,0:00
-2018020346,8474849,Antoine Roussel,Vancouver Canucks,LW,14:49,0,0,2,2,0,0,18,NA,0,0,0,0,0,0,0,0,14:05,0:00,0:44
-2018020346,8477958,Nikolay Goldobin,Vancouver Canucks,RW,16:43,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,0,12:53,3:50,0:00
-2018020346,8477937,Jake Virtanen,Vancouver Canucks,RW,13:21,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,10:37,2:44,0:00
-2018020346,8477018,Ben Hutton,Vancouver Canucks,D,21:28,0,0,2,1,0,0,0,NA,0,0,2,0,0,0,3,-1,16:19,3:39,1:30
-2018020346,8477213,Tim Schaller,Vancouver Canucks,C,9:46,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,1,-1,5:47,0:00,3:59
-2018020346,8478874,Adam Gaudette,Vancouver Canucks,C,11:57,0,0,0,0,0,0,0,50,2,4,0,1,0,0,0,0,11:22,0:35,0:00
-2018020346,8474584,Michael Del Zotto,Vancouver Canucks,D,22:47,0,0,2,4,0,0,0,NA,0,0,0,1,0,0,2,0,16:54,0:02,5:51
-2018020346,8476894,Brendan Leipsic,Vancouver Canucks,LW,12:59,0,0,3,2,0,0,0,0,0,1,1,0,0,0,0,0,11:07,1:52,0:00
-2018020346,8476884,Derrick Pouliot,Vancouver Canucks,D,16:09,0,0,0,4,0,0,4,NA,0,0,0,0,0,0,0,0,13:50,2:19,0:00
-2018020346,8477500,Bo Horvat,Vancouver Canucks,C,19:26,0,0,1,0,0,0,0,36.84,7,19,0,0,0,0,0,-1,14:52,3:17,1:17
-2018020346,8474040,Sam Gagner,Vancouver Canucks,C,17:58,0,0,3,0,0,0,2,0,0,1,1,1,0,0,1,-1,14:59,2:59,0:00
-2018020346,8475690,Christopher Tanev,Vancouver Canucks,D,20:36,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,4,0,14:38,0:17,5:41
-2018020346,8475790,Erik Gudbranson,Vancouver Canucks,D,19:26,0,0,1,5,0,0,0,NA,0,0,0,0,0,0,1,-1,17:46,0:00,1:40
-2018020346,8476440,Markus Granlund,Vancouver Canucks,C,18:32,0,0,1,1,0,0,0,28.57,2,7,2,0,0,0,1,0,10:33,2:08,5:51
-2018020346,8479442,Troy Stecher,Vancouver Canucks,D,14:03,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,13:45,0:18,0:00
-2018020346,8477353,Tyler Motte,Vancouver Canucks,C,13:22,0,0,0,4,0,0,0,NA,0,0,0,0,0,0,1,0,10:31,0:00,2:51
-2018020346,8480012,Elias Pettersson,Vancouver Canucks,C,16:57,0,0,0,0,0,0,0,30,3,10,0,0,0,0,1,0,12:49,4:08,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020346,8466138,Joe Thornton,San Jose Sharks,Vancouver Canucks,C,14:51,2,0,2,0,0,2,0,60,3,5,1,0,0,0,0,0,11:14,3:37,0:00
+2018020346,8470613,Brent Burns,San Jose Sharks,Vancouver Canucks,D,23:03,1,0,0,0,0,1,0,NA,0,0,5,0,0,0,4,0,16:04,4:07,2:52
+2018020346,8471709,Marc-Edouard Vlasic,San Jose Sharks,Vancouver Canucks,D,19:37,0,0,0,1,0,0,2,NA,0,0,0,1,0,0,2,0,16:29,0:00,3:08
+2018020346,8470794,Joe Pavelski,San Jose Sharks,Vancouver Canucks,C,18:12,0,0,2,2,0,0,0,75,6,8,1,1,0,0,0,0,12:53,4:33,0:46
+2018020346,8475834,Marcus Sorensen,San Jose Sharks,Vancouver Canucks,LW,13:18,0,0,1,1,0,0,0,NA,0,0,1,1,0,0,0,0,11:09,0:00,2:09
+2018020346,8474027,Justin Braun,San Jose Sharks,Vancouver Canucks,D,21:39,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,2,0,18:31,0:00,3:08
+2018020346,8475841,Tim Heed,San Jose Sharks,Vancouver Canucks,D,11:07,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,3,0,9:36,1:31,0:00
+2018020346,8475820,Joonas Donskoi,San Jose Sharks,Vancouver Canucks,RW,11:54,0,0,0,1,0,0,0,0,0,1,2,0,0,0,0,0,11:54,0:00,0:00
+2018020346,8476624,Barclay Goodrow,San Jose Sharks,Vancouver Canucks,RW,12:15,0,0,1,3,0,0,0,66.67,6,9,0,0,0,0,2,1,10:43,0:00,1:32
+2018020346,8474578,Erik Karlsson,San Jose Sharks,Vancouver Canucks,D,22:09,2,1,2,0,1,1,0,NA,0,0,0,3,0,0,1,1,16:03,3:14,2:52
+2018020346,8477922,Melker Karlsson,San Jose Sharks,Vancouver Canucks,C,12:37,0,1,1,0,0,0,0,NA,0,0,1,1,0,0,0,1,10:50,0:00,1:47
+2018020346,8474053,Logan Couture,San Jose Sharks,Vancouver Canucks,C,17:46,0,1,4,0,1,0,0,0,0,1,2,0,0,0,0,0,11:49,3:44,2:13
+2018020346,8478414,Timo Meier,San Jose Sharks,Vancouver Canucks,RW,16:12,0,1,3,2,1,0,0,NA,0,0,1,1,0,0,1,0,12:36,2:59,0:37
+2018020346,8475455,Brenden Dillon,San Jose Sharks,Vancouver Canucks,D,16:40,1,0,1,5,0,0,2,NA,0,0,0,0,0,0,1,1,16:40,0:00,0:00
+2018020346,8475169,Evander Kane,San Jose Sharks,Vancouver Canucks,LW,16:56,0,0,4,3,0,0,2,83.33,5,6,0,1,0,0,0,0,13:20,2:59,0:37
+2018020346,8478099,Kevin Labanc,San Jose Sharks,Vancouver Canucks,RW,16:20,2,0,1,1,0,2,0,0,0,1,0,0,0,0,0,0,10:41,5:39,0:00
+2018020346,8476881,Tomas Hertl,San Jose Sharks,Vancouver Canucks,C,18:59,0,0,0,1,0,0,0,72.73,8,11,0,0,0,0,0,0,12:18,4:22,2:19
+2018020346,8480780,Lukas Radil,San Jose Sharks,Vancouver Canucks,C,10:25,0,0,2,0,0,0,2,NA,0,0,0,0,0,0,0,1,10:25,0:00,0:00
+2018020346,8470626,Loui Eriksson,Vancouver Canucks,San Jose Sharks,LW,12:20,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,1,0,10:28,1:52,0:00
+2018020346,8474849,Antoine Roussel,Vancouver Canucks,San Jose Sharks,LW,14:49,0,0,2,2,0,0,18,NA,0,0,0,0,0,0,0,0,14:05,0:00,0:44
+2018020346,8477958,Nikolay Goldobin,Vancouver Canucks,San Jose Sharks,RW,16:43,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,0,12:53,3:50,0:00
+2018020346,8477937,Jake Virtanen,Vancouver Canucks,San Jose Sharks,RW,13:21,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,10:37,2:44,0:00
+2018020346,8477018,Ben Hutton,Vancouver Canucks,San Jose Sharks,D,21:28,0,0,2,1,0,0,0,NA,0,0,2,0,0,0,3,-1,16:19,3:39,1:30
+2018020346,8477213,Tim Schaller,Vancouver Canucks,San Jose Sharks,C,9:46,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,1,-1,5:47,0:00,3:59
+2018020346,8478874,Adam Gaudette,Vancouver Canucks,San Jose Sharks,C,11:57,0,0,0,0,0,0,0,50,2,4,0,1,0,0,0,0,11:22,0:35,0:00
+2018020346,8474584,Michael Del Zotto,Vancouver Canucks,San Jose Sharks,D,22:47,0,0,2,4,0,0,0,NA,0,0,0,1,0,0,2,0,16:54,0:02,5:51
+2018020346,8476894,Brendan Leipsic,Vancouver Canucks,San Jose Sharks,LW,12:59,0,0,3,2,0,0,0,0,0,1,1,0,0,0,0,0,11:07,1:52,0:00
+2018020346,8476884,Derrick Pouliot,Vancouver Canucks,San Jose Sharks,D,16:09,0,0,0,4,0,0,4,NA,0,0,0,0,0,0,0,0,13:50,2:19,0:00
+2018020346,8477500,Bo Horvat,Vancouver Canucks,San Jose Sharks,C,19:26,0,0,1,0,0,0,0,36.84,7,19,0,0,0,0,0,-1,14:52,3:17,1:17
+2018020346,8474040,Sam Gagner,Vancouver Canucks,San Jose Sharks,C,17:58,0,0,3,0,0,0,2,0,0,1,1,1,0,0,1,-1,14:59,2:59,0:00
+2018020346,8475690,Christopher Tanev,Vancouver Canucks,San Jose Sharks,D,20:36,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,4,0,14:38,0:17,5:41
+2018020346,8475790,Erik Gudbranson,Vancouver Canucks,San Jose Sharks,D,19:26,0,0,1,5,0,0,0,NA,0,0,0,0,0,0,1,-1,17:46,0:00,1:40
+2018020346,8476440,Markus Granlund,Vancouver Canucks,San Jose Sharks,C,18:32,0,0,1,1,0,0,0,28.57,2,7,2,0,0,0,1,0,10:33,2:08,5:51
+2018020346,8479442,Troy Stecher,Vancouver Canucks,San Jose Sharks,D,14:03,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,13:45,0:18,0:00
+2018020346,8477353,Tyler Motte,Vancouver Canucks,San Jose Sharks,C,13:22,0,0,0,4,0,0,0,NA,0,0,0,0,0,0,1,0,10:31,0:00,2:51
+2018020346,8480012,Elias Pettersson,Vancouver Canucks,San Jose Sharks,C,16:57,0,0,0,0,0,0,0,30,3,10,0,0,0,0,1,0,12:49,4:08,0:00

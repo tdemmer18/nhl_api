@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020292,8476923,Damon Severson,New Jersey Devils,D,26:16,1,0,2,0,0,0,2,0,0,0,1,0,1,2,0,25:00,0:00,1:16,NA
-2018020292,8477509,Mirco Mueller,New Jersey Devils,D,23:32,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,22:14,0:00,1:18,NA
-2018020292,8471233,Travis Zajac,New Jersey Devils,C,19:26,0,0,2,0,0,0,0,10,22,0,0,0,0,0,1,17:48,0:00,1:38,45.45
-2018020292,8479407,Jesper Bratt,New Jersey Devils,LW,14:08,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,14:08,0:00,0:00,NA
-2018020292,8473933,Ben Lovejoy,New Jersey Devils,D,18:48,0,0,2,2,0,0,2,0,0,1,0,0,0,1,0,16:48,0:00,2:00,NA
-2018020292,8477425,Miles Wood,New Jersey Devils,LW,12:30,0,0,3,1,0,0,0,0,0,2,0,0,0,0,-1,12:30,0:00,0:00,NA
-2018020292,8475149,Marcus Johansson,New Jersey Devils,LW,16:27,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,16:27,0:00,0:00,NA
-2018020292,8472382,Andy Greene,New Jersey Devils,D,24:05,1,0,4,0,0,0,0,0,0,1,1,0,1,1,1,21:08,0:00,2:57,NA
-2018020292,8478401,Pavel Zacha,New Jersey Devils,C,16:37,0,1,3,1,0,0,0,6,13,1,0,0,0,2,1,14:49,0:00,1:48,46.15
-2018020292,8479315,Joey Anderson,New Jersey Devils,RW,13:10,0,0,2,2,0,0,0,0,0,1,0,0,0,0,0,11:57,0:00,1:13,NA
-2018020292,8477355,Will Butcher,New Jersey Devils,D,16:18,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-1,15:49,0:00,0:29,NA
-2018020292,8477520,Jean-Sebastien Dea,New Jersey Devils,C,12:49,0,0,1,0,0,0,0,4,7,1,0,0,0,2,-1,12:49,0:00,0:00,57.14
-2018020292,8476399,Blake Coleman,New Jersey Devils,C,15:18,0,1,4,4,0,0,0,2,4,0,1,1,0,0,1,12:31,0:00,2:47,50
-2018020292,8475151,Kyle Palmieri,New Jersey Devils,RW,17:21,0,0,5,3,0,0,4,0,2,1,1,0,0,0,0,16:47,0:00,0:34,0
-2018020292,8478881,Brett Seney,New Jersey Devils,LW,11:36,0,0,1,0,0,0,0,3,7,1,0,0,0,0,-2,11:36,0:00,0:00,42.86
-2018020292,8475791,Taylor Hall,New Jersey Devils,LW,19:57,0,0,3,0,0,0,0,0,1,0,0,0,0,1,-2,19:57,0:00,0:00,0
-2018020292,8480948,Egor Yakovlev,New Jersey Devils,D,15:39,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,15:39,0:00,0:00,NA
-2018020292,8476474,Stefan Noesen,New Jersey Devils,RW,12:30,0,0,4,1,0,0,0,1,3,0,0,0,0,1,-1,12:30,0:00,0:00,33.33
-2018020292,8471716,Justin Abdelkader,Detroit Red Wings,LW,18:13,0,0,1,4,0,0,2,0,1,0,1,0,0,0,0,16:19,1:54,0:00,0
-2018020292,8474679,Gustav Nyquist,Detroit Red Wings,RW,19:01,0,0,3,0,0,0,2,1,1,2,0,0,0,0,-1,17:58,1:03,0:00,100
-2018020292,8476924,Martin Frk,Detroit Red Wings,RW,10:08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,8:52,1:16,0:00,NA
-2018020292,8477946,Dylan Larkin,Detroit Red Wings,C,21:44,0,1,5,2,0,0,0,11,19,0,0,0,0,0,0,19:09,2:35,0:00,57.89
-2018020292,8470110,Trevor Daley,Detroit Red Wings,D,16:48,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,16:48,0:00,0:00,NA
-2018020292,8471794,Darren Helm,Detroit Red Wings,LW,2:03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2:03,0:00,0:00,NA
-2018020292,8470144,Frans Nielsen,Detroit Red Wings,C,18:44,0,0,0,2,0,0,0,3,13,0,0,0,0,0,-1,17:03,1:41,0:00,23.08
-2018020292,8475324,Nick Jensen,Detroit Red Wings,D,24:27,0,0,2,1,0,0,0,0,0,0,0,0,0,2,0,23:11,1:16,0:00,NA
-2018020292,8476822,Luke Glendening,Detroit Red Wings,C,16:29,0,1,2,0,0,0,0,15,17,0,1,0,0,2,2,16:14,0:15,0:00,88.24
-2018020292,8477455,Jacob de la Rose,Detroit Red Wings,LW,11:46,0,0,1,1,0,0,0,2,5,0,0,0,0,0,1,11:31,0:15,0:00,40
-2018020292,8476960,Andreas Athanasiou,Detroit Red Wings,C,19:11,0,0,5,1,0,0,0,1,1,0,1,0,0,3,-1,17:02,2:09,0:00,100
-2018020292,8477479,Tyler Bertuzzi,Detroit Red Wings,LW,18:21,2,0,1,3,0,0,0,0,0,1,3,0,0,0,2,17:46,0:35,0:00,NA
-2018020292,8477215,Danny DeKeyser,Detroit Red Wings,D,25:09,0,0,0,1,0,0,0,0,0,1,0,0,0,4,1,24:06,1:03,0:00,NA
-2018020292,8477511,Anthony Mantha,Detroit Red Wings,RW,19:41,1,0,2,2,0,0,0,0,1,0,0,0,0,0,0,17:50,1:51,0:00,0
-2018020292,8471242,Mike Green,Detroit Red Wings,D,19:18,1,0,3,2,0,0,0,0,0,0,2,0,0,1,-1,18:15,1:03,0:00,NA
-2018020292,8479992,Michael Rasmussen,Detroit Red Wings,C,13:41,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,12:31,1:10,0:00,0
-2018020292,8479395,Dennis Cholowski,Detroit Red Wings,D,18:47,1,0,1,0,0,0,0,0,0,0,1,0,0,3,1,17:06,1:41,0:00,NA
-2018020292,8468509,Niklas Kronwall,Detroit Red Wings,D,16:56,0,0,1,1,0,0,0,0,0,0,1,0,0,1,1,16:43,0:13,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020292,8476923,Damon Severson,New Jersey Devils,Detroit Red Wings,D,26:16,1,0,2,0,0,0,2,0,0,0,1,0,1,2,0,25:00,0:00,1:16,NA
+2018020292,8477509,Mirco Mueller,New Jersey Devils,Detroit Red Wings,D,23:32,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,22:14,0:00,1:18,NA
+2018020292,8471233,Travis Zajac,New Jersey Devils,Detroit Red Wings,C,19:26,0,0,2,0,0,0,0,10,22,0,0,0,0,0,1,17:48,0:00,1:38,45.45
+2018020292,8479407,Jesper Bratt,New Jersey Devils,Detroit Red Wings,LW,14:08,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,14:08,0:00,0:00,NA
+2018020292,8473933,Ben Lovejoy,New Jersey Devils,Detroit Red Wings,D,18:48,0,0,2,2,0,0,2,0,0,1,0,0,0,1,0,16:48,0:00,2:00,NA
+2018020292,8477425,Miles Wood,New Jersey Devils,Detroit Red Wings,LW,12:30,0,0,3,1,0,0,0,0,0,2,0,0,0,0,-1,12:30,0:00,0:00,NA
+2018020292,8475149,Marcus Johansson,New Jersey Devils,Detroit Red Wings,LW,16:27,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,16:27,0:00,0:00,NA
+2018020292,8472382,Andy Greene,New Jersey Devils,Detroit Red Wings,D,24:05,1,0,4,0,0,0,0,0,0,1,1,0,1,1,1,21:08,0:00,2:57,NA
+2018020292,8478401,Pavel Zacha,New Jersey Devils,Detroit Red Wings,C,16:37,0,1,3,1,0,0,0,6,13,1,0,0,0,2,1,14:49,0:00,1:48,46.15
+2018020292,8479315,Joey Anderson,New Jersey Devils,Detroit Red Wings,RW,13:10,0,0,2,2,0,0,0,0,0,1,0,0,0,0,0,11:57,0:00,1:13,NA
+2018020292,8477355,Will Butcher,New Jersey Devils,Detroit Red Wings,D,16:18,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-1,15:49,0:00,0:29,NA
+2018020292,8477520,Jean-Sebastien Dea,New Jersey Devils,Detroit Red Wings,C,12:49,0,0,1,0,0,0,0,4,7,1,0,0,0,2,-1,12:49,0:00,0:00,57.14
+2018020292,8476399,Blake Coleman,New Jersey Devils,Detroit Red Wings,C,15:18,0,1,4,4,0,0,0,2,4,0,1,1,0,0,1,12:31,0:00,2:47,50
+2018020292,8475151,Kyle Palmieri,New Jersey Devils,Detroit Red Wings,RW,17:21,0,0,5,3,0,0,4,0,2,1,1,0,0,0,0,16:47,0:00,0:34,0
+2018020292,8478881,Brett Seney,New Jersey Devils,Detroit Red Wings,LW,11:36,0,0,1,0,0,0,0,3,7,1,0,0,0,0,-2,11:36,0:00,0:00,42.86
+2018020292,8475791,Taylor Hall,New Jersey Devils,Detroit Red Wings,LW,19:57,0,0,3,0,0,0,0,0,1,0,0,0,0,1,-2,19:57,0:00,0:00,0
+2018020292,8480948,Egor Yakovlev,New Jersey Devils,Detroit Red Wings,D,15:39,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,15:39,0:00,0:00,NA
+2018020292,8476474,Stefan Noesen,New Jersey Devils,Detroit Red Wings,RW,12:30,0,0,4,1,0,0,0,1,3,0,0,0,0,1,-1,12:30,0:00,0:00,33.33
+2018020292,8471716,Justin Abdelkader,Detroit Red Wings,New Jersey Devils,LW,18:13,0,0,1,4,0,0,2,0,1,0,1,0,0,0,0,16:19,1:54,0:00,0
+2018020292,8474679,Gustav Nyquist,Detroit Red Wings,New Jersey Devils,RW,19:01,0,0,3,0,0,0,2,1,1,2,0,0,0,0,-1,17:58,1:03,0:00,100
+2018020292,8476924,Martin Frk,Detroit Red Wings,New Jersey Devils,RW,10:08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,8:52,1:16,0:00,NA
+2018020292,8477946,Dylan Larkin,Detroit Red Wings,New Jersey Devils,C,21:44,0,1,5,2,0,0,0,11,19,0,0,0,0,0,0,19:09,2:35,0:00,57.89
+2018020292,8470110,Trevor Daley,Detroit Red Wings,New Jersey Devils,D,16:48,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,16:48,0:00,0:00,NA
+2018020292,8471794,Darren Helm,Detroit Red Wings,New Jersey Devils,LW,2:03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2:03,0:00,0:00,NA
+2018020292,8470144,Frans Nielsen,Detroit Red Wings,New Jersey Devils,C,18:44,0,0,0,2,0,0,0,3,13,0,0,0,0,0,-1,17:03,1:41,0:00,23.08
+2018020292,8475324,Nick Jensen,Detroit Red Wings,New Jersey Devils,D,24:27,0,0,2,1,0,0,0,0,0,0,0,0,0,2,0,23:11,1:16,0:00,NA
+2018020292,8476822,Luke Glendening,Detroit Red Wings,New Jersey Devils,C,16:29,0,1,2,0,0,0,0,15,17,0,1,0,0,2,2,16:14,0:15,0:00,88.24
+2018020292,8477455,Jacob de la Rose,Detroit Red Wings,New Jersey Devils,LW,11:46,0,0,1,1,0,0,0,2,5,0,0,0,0,0,1,11:31,0:15,0:00,40
+2018020292,8476960,Andreas Athanasiou,Detroit Red Wings,New Jersey Devils,C,19:11,0,0,5,1,0,0,0,1,1,0,1,0,0,3,-1,17:02,2:09,0:00,100
+2018020292,8477479,Tyler Bertuzzi,Detroit Red Wings,New Jersey Devils,LW,18:21,2,0,1,3,0,0,0,0,0,1,3,0,0,0,2,17:46,0:35,0:00,NA
+2018020292,8477215,Danny DeKeyser,Detroit Red Wings,New Jersey Devils,D,25:09,0,0,0,1,0,0,0,0,0,1,0,0,0,4,1,24:06,1:03,0:00,NA
+2018020292,8477511,Anthony Mantha,Detroit Red Wings,New Jersey Devils,RW,19:41,1,0,2,2,0,0,0,0,1,0,0,0,0,0,0,17:50,1:51,0:00,0
+2018020292,8471242,Mike Green,Detroit Red Wings,New Jersey Devils,D,19:18,1,0,3,2,0,0,0,0,0,0,2,0,0,1,-1,18:15,1:03,0:00,NA
+2018020292,8479992,Michael Rasmussen,Detroit Red Wings,New Jersey Devils,C,13:41,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,12:31,1:10,0:00,0
+2018020292,8479395,Dennis Cholowski,Detroit Red Wings,New Jersey Devils,D,18:47,1,0,1,0,0,0,0,0,0,0,1,0,0,3,1,17:06,1:41,0:00,NA
+2018020292,8468509,Niklas Kronwall,Detroit Red Wings,New Jersey Devils,D,16:56,0,0,1,1,0,0,0,0,0,0,1,0,0,1,1,16:43,0:13,0:00,NA

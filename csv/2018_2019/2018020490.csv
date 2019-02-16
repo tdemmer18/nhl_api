@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020490,8470318,Jonathan Ericsson,Detroit Red Wings,D,15:53,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,13:59,0:00,1:54,NA
-2018020490,8471716,Justin Abdelkader,Detroit Red Wings,LW,18:59,0,0,1,3,0,0,0,0,0,0,0,0,0,2,1,16:34,0:00,2:25,NA
-2018020490,8474679,Gustav Nyquist,Detroit Red Wings,RW,21:04,0,0,4,0,0,0,0,0,0,1,0,0,0,0,0,16:44,3:06,1:14,NA
-2018020490,8476924,Martin Frk,Detroit Red Wings,RW,8:02,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1,8:01,0:01,0:00,NA
-2018020490,8477946,Dylan Larkin,Detroit Red Wings,C,21:01,0,1,8,2,0,0,4,10,16,1,1,0,0,1,0,17:48,2:50,0:23,62.5
-2018020490,8470110,Trevor Daley,Detroit Red Wings,D,22:13,0,0,3,0,0,0,0,0,0,0,0,0,0,2,1,19:15,0:00,2:58,NA
-2018020490,8470144,Frans Nielsen,Detroit Red Wings,C,18:53,1,0,0,2,0,0,0,7,13,0,1,0,0,1,1,13:12,3:06,2:35,53.85
-2018020490,8475324,Nick Jensen,Detroit Red Wings,D,20:21,0,0,1,2,0,0,0,0,0,0,0,0,0,1,-1,18:29,0:00,1:52,NA
-2018020490,8470598,Thomas Vanek,Detroit Red Wings,LW,12:20,0,0,1,0,0,0,0,1,2,0,0,0,0,0,-2,8:42,2:50,0:48,50
-2018020490,8476822,Luke Glendening,Detroit Red Wings,C,14:16,0,1,2,1,0,0,0,10,13,0,0,0,0,2,1,12:24,0:09,1:43,76.92
-2018020490,8479425,Filip Hronek,Detroit Red Wings,D,11:51,0,0,1,1,0,0,0,0,0,1,0,0,0,0,-1,11:42,0:09,0:00,NA
-2018020490,8477455,Jacob de la Rose,Detroit Red Wings,C,9:26,0,0,0,0,0,0,0,1,5,1,0,0,0,1,-2,8:06,0:00,1:20,20
-2018020490,8476960,Andreas Athanasiou,Detroit Red Wings,C,16:20,0,0,1,0,0,0,2,0,0,1,3,0,0,1,0,14:56,0:26,0:58,NA
-2018020490,8477479,Tyler Bertuzzi,Detroit Red Wings,LW,13:51,1,0,2,1,0,0,0,1,1,0,0,0,0,0,-1,13:41,0:10,0:00,100
-2018020490,8478036,Christoffer Ehn,Detroit Red Wings,C,13:43,0,0,2,2,0,0,0,2,4,0,1,0,0,2,0,13:43,0:00,0:00,50
-2018020490,8479992,Michael Rasmussen,Detroit Red Wings,C,10:32,1,0,1,2,0,0,5,0,0,1,0,0,0,1,1,10:31,0:01,0:00,NA
-2018020490,8479395,Dennis Cholowski,Detroit Red Wings,D,24:23,0,0,1,0,0,0,0,0,0,0,2,0,0,2,0,20:33,3:06,0:44,NA
-2018020490,8468509,Niklas Kronwall,Detroit Red Wings,D,22:28,1,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,19:18,0:26,2:44,NA
-2018020490,8476919,Chris Tierney,Ottawa Senators,C,20:42,1,1,3,0,0,1,0,6,17,1,0,0,0,3,0,16:42,1:57,2:03,35.29
-2018020490,8476879,Cody Ceci,Ottawa Senators,D,23:09,0,0,1,1,0,0,0,0,0,1,0,0,0,3,0,18:43,2:18,2:08,NA
-2018020490,8475913,Mark Stone,Ottawa Senators,RW,21:36,0,1,4,0,0,0,0,2,3,4,2,0,0,0,1,16:07,3:26,2:03,66.67
-2018020490,8477426,Nick Paul,Ottawa Senators,LW,6:24,0,0,1,0,0,0,0,1,2,0,0,0,0,0,0,6:24,0:00,0:00,50
-2018020490,8471676,Bobby Ryan,Ottawa Senators,RW,19:30,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,15:42,3:04,0:44,0
-2018020490,8475206,Stefan Elliott,Ottawa Senators,D,5:29,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,5:29,0:00,0:00,NA
-2018020490,8476288,Ryan Dzingel,Ottawa Senators,LW,18:08,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,16:11,1:57,0:00,0
-2018020490,8477433,Ben Harpur,Ottawa Senators,D,17:19,0,0,0,1,0,0,5,0,0,0,3,0,0,5,1,15:11,0:00,2:08,NA
-2018020490,8478400,Colin White,Ottawa Senators,C,18:11,2,0,2,0,0,0,0,5,13,0,1,0,0,0,2,14:53,3:09,0:09,38.46
-2018020490,8480801,Brady Tkachuk,Ottawa Senators,LW,16:30,0,0,4,1,0,0,0,2,3,0,0,0,0,0,0,14:44,1:46,0:00,66.67
-2018020490,8474250,Zack Smith,Ottawa Senators,LW,16:59,0,0,3,1,0,0,2,6,13,0,1,0,0,0,-1,16:22,0:00,0:37,46.15
-2018020490,8475982,Erik Burgdoerfer,Ottawa Senators,D,13:02,0,0,0,6,0,0,2,0,0,0,0,0,0,0,0,12:57,0:05,0:00,NA
-2018020490,8478469,Thomas Chabot,Ottawa Senators,D,25:05,1,1,4,0,0,1,0,0,0,0,1,0,0,0,1,21:01,4:04,0:00,NA
-2018020490,8480208,Drake Batherson,Ottawa Senators,RW,11:59,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,10:57,1:02,0:00,NA
-2018020490,8473992,Justin Falk,Ottawa Senators,D,14:19,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,13:11,0:00,1:08,NA
-2018020490,8475175,Magnus Paajarvi,Ottawa Senators,LW,12:37,0,0,2,2,0,0,0,0,0,0,1,0,0,0,-1,11:41,0:00,0:56,NA
-2018020490,8479320,Maxime Lajoie,Ottawa Senators,D,18:46,0,0,0,1,0,0,0,0,0,0,2,0,0,1,-1,16:36,1:02,1:08,NA
-2018020490,8474571,Mikkel Boedker,Ottawa Senators,LW,16:15,1,1,3,2,1,0,0,0,0,0,2,0,0,0,0,14:35,1:40,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020490,8470318,Jonathan Ericsson,Detroit Red Wings,Ottawa Senators,D,15:53,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,13:59,0:00,1:54,NA
+2018020490,8471716,Justin Abdelkader,Detroit Red Wings,Ottawa Senators,LW,18:59,0,0,1,3,0,0,0,0,0,0,0,0,0,2,1,16:34,0:00,2:25,NA
+2018020490,8474679,Gustav Nyquist,Detroit Red Wings,Ottawa Senators,RW,21:04,0,0,4,0,0,0,0,0,0,1,0,0,0,0,0,16:44,3:06,1:14,NA
+2018020490,8476924,Martin Frk,Detroit Red Wings,Ottawa Senators,RW,8:02,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1,8:01,0:01,0:00,NA
+2018020490,8477946,Dylan Larkin,Detroit Red Wings,Ottawa Senators,C,21:01,0,1,8,2,0,0,4,10,16,1,1,0,0,1,0,17:48,2:50,0:23,62.5
+2018020490,8470110,Trevor Daley,Detroit Red Wings,Ottawa Senators,D,22:13,0,0,3,0,0,0,0,0,0,0,0,0,0,2,1,19:15,0:00,2:58,NA
+2018020490,8470144,Frans Nielsen,Detroit Red Wings,Ottawa Senators,C,18:53,1,0,0,2,0,0,0,7,13,0,1,0,0,1,1,13:12,3:06,2:35,53.85
+2018020490,8475324,Nick Jensen,Detroit Red Wings,Ottawa Senators,D,20:21,0,0,1,2,0,0,0,0,0,0,0,0,0,1,-1,18:29,0:00,1:52,NA
+2018020490,8470598,Thomas Vanek,Detroit Red Wings,Ottawa Senators,LW,12:20,0,0,1,0,0,0,0,1,2,0,0,0,0,0,-2,8:42,2:50,0:48,50
+2018020490,8476822,Luke Glendening,Detroit Red Wings,Ottawa Senators,C,14:16,0,1,2,1,0,0,0,10,13,0,0,0,0,2,1,12:24,0:09,1:43,76.92
+2018020490,8479425,Filip Hronek,Detroit Red Wings,Ottawa Senators,D,11:51,0,0,1,1,0,0,0,0,0,1,0,0,0,0,-1,11:42,0:09,0:00,NA
+2018020490,8477455,Jacob de la Rose,Detroit Red Wings,Ottawa Senators,C,9:26,0,0,0,0,0,0,0,1,5,1,0,0,0,1,-2,8:06,0:00,1:20,20
+2018020490,8476960,Andreas Athanasiou,Detroit Red Wings,Ottawa Senators,C,16:20,0,0,1,0,0,0,2,0,0,1,3,0,0,1,0,14:56,0:26,0:58,NA
+2018020490,8477479,Tyler Bertuzzi,Detroit Red Wings,Ottawa Senators,LW,13:51,1,0,2,1,0,0,0,1,1,0,0,0,0,0,-1,13:41,0:10,0:00,100
+2018020490,8478036,Christoffer Ehn,Detroit Red Wings,Ottawa Senators,C,13:43,0,0,2,2,0,0,0,2,4,0,1,0,0,2,0,13:43,0:00,0:00,50
+2018020490,8479992,Michael Rasmussen,Detroit Red Wings,Ottawa Senators,C,10:32,1,0,1,2,0,0,5,0,0,1,0,0,0,1,1,10:31,0:01,0:00,NA
+2018020490,8479395,Dennis Cholowski,Detroit Red Wings,Ottawa Senators,D,24:23,0,0,1,0,0,0,0,0,0,0,2,0,0,2,0,20:33,3:06,0:44,NA
+2018020490,8468509,Niklas Kronwall,Detroit Red Wings,Ottawa Senators,D,22:28,1,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,19:18,0:26,2:44,NA
+2018020490,8476919,Chris Tierney,Ottawa Senators,Detroit Red Wings,C,20:42,1,1,3,0,0,1,0,6,17,1,0,0,0,3,0,16:42,1:57,2:03,35.29
+2018020490,8476879,Cody Ceci,Ottawa Senators,Detroit Red Wings,D,23:09,0,0,1,1,0,0,0,0,0,1,0,0,0,3,0,18:43,2:18,2:08,NA
+2018020490,8475913,Mark Stone,Ottawa Senators,Detroit Red Wings,RW,21:36,0,1,4,0,0,0,0,2,3,4,2,0,0,0,1,16:07,3:26,2:03,66.67
+2018020490,8477426,Nick Paul,Ottawa Senators,Detroit Red Wings,LW,6:24,0,0,1,0,0,0,0,1,2,0,0,0,0,0,0,6:24,0:00,0:00,50
+2018020490,8471676,Bobby Ryan,Ottawa Senators,Detroit Red Wings,RW,19:30,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,15:42,3:04,0:44,0
+2018020490,8475206,Stefan Elliott,Ottawa Senators,Detroit Red Wings,D,5:29,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,5:29,0:00,0:00,NA
+2018020490,8476288,Ryan Dzingel,Ottawa Senators,Detroit Red Wings,LW,18:08,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,16:11,1:57,0:00,0
+2018020490,8477433,Ben Harpur,Ottawa Senators,Detroit Red Wings,D,17:19,0,0,0,1,0,0,5,0,0,0,3,0,0,5,1,15:11,0:00,2:08,NA
+2018020490,8478400,Colin White,Ottawa Senators,Detroit Red Wings,C,18:11,2,0,2,0,0,0,0,5,13,0,1,0,0,0,2,14:53,3:09,0:09,38.46
+2018020490,8480801,Brady Tkachuk,Ottawa Senators,Detroit Red Wings,LW,16:30,0,0,4,1,0,0,0,2,3,0,0,0,0,0,0,14:44,1:46,0:00,66.67
+2018020490,8474250,Zack Smith,Ottawa Senators,Detroit Red Wings,LW,16:59,0,0,3,1,0,0,2,6,13,0,1,0,0,0,-1,16:22,0:00,0:37,46.15
+2018020490,8475982,Erik Burgdoerfer,Ottawa Senators,Detroit Red Wings,D,13:02,0,0,0,6,0,0,2,0,0,0,0,0,0,0,0,12:57,0:05,0:00,NA
+2018020490,8478469,Thomas Chabot,Ottawa Senators,Detroit Red Wings,D,25:05,1,1,4,0,0,1,0,0,0,0,1,0,0,0,1,21:01,4:04,0:00,NA
+2018020490,8480208,Drake Batherson,Ottawa Senators,Detroit Red Wings,RW,11:59,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,10:57,1:02,0:00,NA
+2018020490,8473992,Justin Falk,Ottawa Senators,Detroit Red Wings,D,14:19,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,13:11,0:00,1:08,NA
+2018020490,8475175,Magnus Paajarvi,Ottawa Senators,Detroit Red Wings,LW,12:37,0,0,2,2,0,0,0,0,0,0,1,0,0,0,-1,11:41,0:00,0:56,NA
+2018020490,8479320,Maxime Lajoie,Ottawa Senators,Detroit Red Wings,D,18:46,0,0,0,1,0,0,0,0,0,0,2,0,0,1,-1,16:36,1:02,1:08,NA
+2018020490,8474571,Mikkel Boedker,Ottawa Senators,Detroit Red Wings,LW,16:15,1,1,3,2,1,0,0,0,0,0,2,0,0,0,0,14:35,1:40,0:00,NA

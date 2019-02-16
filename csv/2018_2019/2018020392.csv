@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020392,8476934,Brock McGinn,Carolina Hurricanes,LW,12:21,0,0,1,5,0,0,0,100,1,1,1,1,0,0,0,0,9:17,0:00,3:04
-2018020392,8476858,Phillip Di Giuseppe,Carolina Hurricanes,LW,8:58,0,0,1,3,0,0,0,NA,0,0,1,0,0,0,0,0,8:54,0:04,0:00
-2018020392,8473533,Jordan Staal,Carolina Hurricanes,C,23:00,0,0,2,6,0,0,0,66.67,10,15,1,2,0,0,0,-1,14:10,5:46,3:04
-2018020392,8476958,Jaccob Slavin,Carolina Hurricanes,D,24:59,0,0,0,1,0,0,2,NA,0,0,4,2,0,0,0,0,19:08,5:00,0:51
-2018020392,8477998,Warren Foegele,Carolina Hurricanes,LW,12:11,0,0,2,5,0,0,0,0,0,1,1,0,0,0,0,0,10:11,0:23,1:37
-2018020392,8478427,Sebastian Aho,Carolina Hurricanes,C,21:36,1,0,6,3,0,0,0,50,1,2,3,0,0,0,0,-1,15:05,6:16,0:15
-2018020392,8475753,Justin Faulk,Carolina Hurricanes,D,26:11,0,0,3,2,0,0,0,NA,0,0,3,1,0,0,1,-2,17:02,5:50,3:19
-2018020392,8476921,Jordan Martinook,Carolina Hurricanes,LW,12:51,0,0,5,2,0,0,0,66.67,2,3,1,0,0,0,0,-1,10:55,0:19,1:37
-2018020392,8476437,Victor Rask,Carolina Hurricanes,C,14:31,0,0,2,2,0,0,0,30,3,10,0,0,0,0,0,0,9:44,4:47,0:00
-2018020392,8477845,Trevor van Riemsdyk,Carolina Hurricanes,D,12:34,0,0,0,0,0,0,0,NA,0,0,1,1,0,0,1,0,10:34,0:23,1:37
-2018020392,8475177,Calvin de Haan,Carolina Hurricanes,D,21:04,0,0,1,4,0,0,0,NA,0,0,4,1,0,0,2,0,17:36,0:09,3:19
-2018020392,8478027,Lucas Wallmark,Carolina Hurricanes,C,15:14,0,0,3,2,0,0,0,38.46,5,13,0,1,0,0,0,0,10:38,4:36,0:00
-2018020392,8476882,Teuvo Teravainen,Carolina Hurricanes,LW,20:06,0,0,0,0,0,0,0,100,1,1,3,0,0,0,0,0,14:18,5:33,0:15
-2018020392,8479402,Jake Bean,Carolina Hurricanes,D,8:48,0,0,0,1,0,0,2,NA,0,0,1,0,0,0,0,0,8:29,0:19,0:00
-2018020392,8478056,Clark Bishop,Carolina Hurricanes,C,9:15,0,0,0,1,0,0,0,77.78,7,9,0,1,0,0,0,0,9:11,0:04,0:00
-2018020392,8476462,Dougie Hamilton,Carolina Hurricanes,D,22:25,1,0,5,4,0,0,0,NA,0,0,2,0,0,0,0,1,16:56,4:43,0:46
-2018020392,8468508,Justin Williams,Carolina Hurricanes,RW,15:02,0,0,0,0,0,0,2,75,3,4,1,0,0,0,0,0,9:43,5:19,0:00
-2018020392,8480830,Andrei Svechnikov,Carolina Hurricanes,RW,16:39,0,1,3,1,0,0,0,NA,0,0,1,1,0,0,0,0,11:30,5:09,0:00
-2018020392,8470616,Ryan Kesler,Anaheim Ducks,C,18:29,0,0,1,1,0,0,0,52.63,10,19,1,0,0,0,3,0,9:53,2:39,5:57
-2018020392,8476857,Pontus Aberg,Anaheim Ducks,LW,15:59,0,1,4,0,0,0,2,NA,0,0,2,2,0,0,0,1,13:56,2:03,0:00
-2018020392,8477969,Marcus Pettersson,Anaheim Ducks,D,18:22,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,5,0,12:34,0:14,5:34
-2018020392,8470612,Ryan Getzlaf,Anaheim Ducks,C,20:08,0,1,4,5,0,0,0,50,8,16,0,1,0,0,0,1,16:01,2:43,1:24
-2018020392,8477986,Brandon Montour,Anaheim Ducks,D,26:42,0,0,2,0,0,0,2,NA,0,0,1,0,0,0,1,0,20:35,3:08,2:59
-2018020392,8476854,Hampus Lindholm,Anaheim Ducks,D,26:09,1,0,3,2,0,0,0,NA,0,0,1,1,0,0,2,1,19:44,1:35,4:50
-2018020392,8471699,Andrew Cogliano,Anaheim Ducks,LW,11:04,0,0,1,2,0,0,2,NA,0,0,0,0,0,0,0,0,9:19,0:00,1:45
-2018020392,8477009,Jake Dotchin,Anaheim Ducks,D,9:14,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,0,0,9:14,0:00,0:00
-2018020392,8476207,Brian Gibbons,Anaheim Ducks,C,9:02,0,0,0,1,0,0,4,NA,0,0,0,0,0,0,0,0,7:29,0:10,1:23
-2018020392,8477941,Nick Ritchie,Anaheim Ducks,LW,12:56,0,0,1,1,0,0,0,NA,0,0,2,2,0,0,1,0,10:07,2:25,0:24
-2018020392,8476312,Josh Manson,Anaheim Ducks,D,24:52,0,0,1,4,0,0,0,NA,0,0,2,0,0,0,3,0,16:53,0:13,7:46
-2018020392,8474641,Adam Henrique,Anaheim Ducks,C,18:45,1,0,0,0,0,0,0,37.5,6,16,3,0,0,0,0,0,12:43,2:12,3:50
-2018020392,8480748,Kiefer Sherwood,Anaheim Ducks,RW,7:10,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,0,7:05,0:05,0:00
-2018020392,8476483,Rickard Rakell,Anaheim Ducks,C,18:35,2,0,1,4,0,0,0,0,0,1,0,1,0,0,0,1,16:18,2:12,0:05
-2018020392,8475164,Jakob Silfverberg,Anaheim Ducks,RW,17:37,0,0,3,1,0,0,0,NA,0,0,2,1,0,0,1,0,11:36,2:12,3:49
-2018020392,8478491,Jacob Larsson,Anaheim Ducks,D,11:50,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,0,11:02,0:05,0:43
-2018020392,8477240,Carter Rowney,Anaheim Ducks,RW,11:25,0,0,1,3,0,0,0,28.57,2,7,0,0,0,0,1,0,8:05,0:05,3:15
-2018020392,8478131,Ondrej Kase,Anaheim Ducks,RW,13:26,0,0,2,2,0,0,0,NA,0,0,2,0,0,0,0,0,10:47,2:39,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020392,8476934,Brock McGinn,Carolina Hurricanes,Anaheim Ducks,LW,12:21,0,0,1,5,0,0,0,100,1,1,1,1,0,0,0,0,9:17,0:00,3:04
+2018020392,8476858,Phillip Di Giuseppe,Carolina Hurricanes,Anaheim Ducks,LW,8:58,0,0,1,3,0,0,0,NA,0,0,1,0,0,0,0,0,8:54,0:04,0:00
+2018020392,8473533,Jordan Staal,Carolina Hurricanes,Anaheim Ducks,C,23:00,0,0,2,6,0,0,0,66.67,10,15,1,2,0,0,0,-1,14:10,5:46,3:04
+2018020392,8476958,Jaccob Slavin,Carolina Hurricanes,Anaheim Ducks,D,24:59,0,0,0,1,0,0,2,NA,0,0,4,2,0,0,0,0,19:08,5:00,0:51
+2018020392,8477998,Warren Foegele,Carolina Hurricanes,Anaheim Ducks,LW,12:11,0,0,2,5,0,0,0,0,0,1,1,0,0,0,0,0,10:11,0:23,1:37
+2018020392,8478427,Sebastian Aho,Carolina Hurricanes,Anaheim Ducks,C,21:36,1,0,6,3,0,0,0,50,1,2,3,0,0,0,0,-1,15:05,6:16,0:15
+2018020392,8475753,Justin Faulk,Carolina Hurricanes,Anaheim Ducks,D,26:11,0,0,3,2,0,0,0,NA,0,0,3,1,0,0,1,-2,17:02,5:50,3:19
+2018020392,8476921,Jordan Martinook,Carolina Hurricanes,Anaheim Ducks,LW,12:51,0,0,5,2,0,0,0,66.67,2,3,1,0,0,0,0,-1,10:55,0:19,1:37
+2018020392,8476437,Victor Rask,Carolina Hurricanes,Anaheim Ducks,C,14:31,0,0,2,2,0,0,0,30,3,10,0,0,0,0,0,0,9:44,4:47,0:00
+2018020392,8477845,Trevor van Riemsdyk,Carolina Hurricanes,Anaheim Ducks,D,12:34,0,0,0,0,0,0,0,NA,0,0,1,1,0,0,1,0,10:34,0:23,1:37
+2018020392,8475177,Calvin de Haan,Carolina Hurricanes,Anaheim Ducks,D,21:04,0,0,1,4,0,0,0,NA,0,0,4,1,0,0,2,0,17:36,0:09,3:19
+2018020392,8478027,Lucas Wallmark,Carolina Hurricanes,Anaheim Ducks,C,15:14,0,0,3,2,0,0,0,38.46,5,13,0,1,0,0,0,0,10:38,4:36,0:00
+2018020392,8476882,Teuvo Teravainen,Carolina Hurricanes,Anaheim Ducks,LW,20:06,0,0,0,0,0,0,0,100,1,1,3,0,0,0,0,0,14:18,5:33,0:15
+2018020392,8479402,Jake Bean,Carolina Hurricanes,Anaheim Ducks,D,8:48,0,0,0,1,0,0,2,NA,0,0,1,0,0,0,0,0,8:29,0:19,0:00
+2018020392,8478056,Clark Bishop,Carolina Hurricanes,Anaheim Ducks,C,9:15,0,0,0,1,0,0,0,77.78,7,9,0,1,0,0,0,0,9:11,0:04,0:00
+2018020392,8476462,Dougie Hamilton,Carolina Hurricanes,Anaheim Ducks,D,22:25,1,0,5,4,0,0,0,NA,0,0,2,0,0,0,0,1,16:56,4:43,0:46
+2018020392,8468508,Justin Williams,Carolina Hurricanes,Anaheim Ducks,RW,15:02,0,0,0,0,0,0,2,75,3,4,1,0,0,0,0,0,9:43,5:19,0:00
+2018020392,8480830,Andrei Svechnikov,Carolina Hurricanes,Anaheim Ducks,RW,16:39,0,1,3,1,0,0,0,NA,0,0,1,1,0,0,0,0,11:30,5:09,0:00
+2018020392,8470616,Ryan Kesler,Anaheim Ducks,Carolina Hurricanes,C,18:29,0,0,1,1,0,0,0,52.63,10,19,1,0,0,0,3,0,9:53,2:39,5:57
+2018020392,8476857,Pontus Aberg,Anaheim Ducks,Carolina Hurricanes,LW,15:59,0,1,4,0,0,0,2,NA,0,0,2,2,0,0,0,1,13:56,2:03,0:00
+2018020392,8477969,Marcus Pettersson,Anaheim Ducks,Carolina Hurricanes,D,18:22,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,5,0,12:34,0:14,5:34
+2018020392,8470612,Ryan Getzlaf,Anaheim Ducks,Carolina Hurricanes,C,20:08,0,1,4,5,0,0,0,50,8,16,0,1,0,0,0,1,16:01,2:43,1:24
+2018020392,8477986,Brandon Montour,Anaheim Ducks,Carolina Hurricanes,D,26:42,0,0,2,0,0,0,2,NA,0,0,1,0,0,0,1,0,20:35,3:08,2:59
+2018020392,8476854,Hampus Lindholm,Anaheim Ducks,Carolina Hurricanes,D,26:09,1,0,3,2,0,0,0,NA,0,0,1,1,0,0,2,1,19:44,1:35,4:50
+2018020392,8471699,Andrew Cogliano,Anaheim Ducks,Carolina Hurricanes,LW,11:04,0,0,1,2,0,0,2,NA,0,0,0,0,0,0,0,0,9:19,0:00,1:45
+2018020392,8477009,Jake Dotchin,Anaheim Ducks,Carolina Hurricanes,D,9:14,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,0,0,9:14,0:00,0:00
+2018020392,8476207,Brian Gibbons,Anaheim Ducks,Carolina Hurricanes,C,9:02,0,0,0,1,0,0,4,NA,0,0,0,0,0,0,0,0,7:29,0:10,1:23
+2018020392,8477941,Nick Ritchie,Anaheim Ducks,Carolina Hurricanes,LW,12:56,0,0,1,1,0,0,0,NA,0,0,2,2,0,0,1,0,10:07,2:25,0:24
+2018020392,8476312,Josh Manson,Anaheim Ducks,Carolina Hurricanes,D,24:52,0,0,1,4,0,0,0,NA,0,0,2,0,0,0,3,0,16:53,0:13,7:46
+2018020392,8474641,Adam Henrique,Anaheim Ducks,Carolina Hurricanes,C,18:45,1,0,0,0,0,0,0,37.5,6,16,3,0,0,0,0,0,12:43,2:12,3:50
+2018020392,8480748,Kiefer Sherwood,Anaheim Ducks,Carolina Hurricanes,RW,7:10,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,0,7:05,0:05,0:00
+2018020392,8476483,Rickard Rakell,Anaheim Ducks,Carolina Hurricanes,C,18:35,2,0,1,4,0,0,0,0,0,1,0,1,0,0,0,1,16:18,2:12,0:05
+2018020392,8475164,Jakob Silfverberg,Anaheim Ducks,Carolina Hurricanes,RW,17:37,0,0,3,1,0,0,0,NA,0,0,2,1,0,0,1,0,11:36,2:12,3:49
+2018020392,8478491,Jacob Larsson,Anaheim Ducks,Carolina Hurricanes,D,11:50,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,0,11:02,0:05,0:43
+2018020392,8477240,Carter Rowney,Anaheim Ducks,Carolina Hurricanes,RW,11:25,0,0,1,3,0,0,0,28.57,2,7,0,0,0,0,1,0,8:05,0:05,3:15
+2018020392,8478131,Ondrej Kase,Anaheim Ducks,Carolina Hurricanes,RW,13:26,0,0,2,2,0,0,0,NA,0,0,2,0,0,0,0,0,10:47,2:39,0:00

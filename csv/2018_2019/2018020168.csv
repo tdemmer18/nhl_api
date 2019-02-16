@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020168,8475208,Brian Dumoulin,Pittsburgh Penguins,D,20:45,1,0,0,5,0,0,0,0,0,2,0,0,0,1,-1,16:34,0:11,4:00,NA
-2018020168,8471675,Sidney Crosby,Pittsburgh Penguins,C,20:21,1,1,7,1,0,0,0,13,21,0,0,0,0,0,2,15:46,4:18,0:17,61.9
-2018020168,8477404,Jake Guentzel,Pittsburgh Penguins,LW,18:44,0,0,4,1,0,0,2,0,0,1,0,0,0,0,2,16:21,2:23,0:00,NA
-2018020168,8471887,Patric Hornqvist,Pittsburgh Penguins,RW,14:47,0,0,4,3,0,0,0,0,0,0,0,0,0,1,-2,10:29,4:18,0:00,NA
-2018020168,8478866,Dominik Simon,Pittsburgh Penguins,C,19:12,0,1,6,2,0,0,0,0,0,0,1,0,0,0,2,17:41,1:31,0:00,NA
-2018020168,8473548,Phil Kessel,Pittsburgh Penguins,RW,19:27,1,0,3,0,0,0,0,0,0,1,2,0,0,0,-1,15:09,4:18,0:00,NA
-2018020168,8475810,Bryan Rust,Pittsburgh Penguins,RW,13:51,0,0,1,2,0,0,0,1,1,0,0,0,0,1,-2,10:00,0:11,3:40,100
-2018020168,8471215,Evgeni Malkin,Pittsburgh Penguins,C,19:10,0,1,3,0,0,0,0,6,11,0,2,0,0,1,-1,14:52,4:18,0:00,54.55
-2018020168,8471677,Jack Johnson,Pittsburgh Penguins,D,18:14,0,0,2,2,0,0,2,0,0,0,0,0,0,2,-2,14:39,1:19,2:16,NA
-2018020168,8475772,Riley Sheahan,Pittsburgh Penguins,C,14:37,0,0,1,0,0,0,0,0,3,1,0,0,0,1,-2,10:50,0:11,3:36,0
-2018020168,8474683,Derek Grant,Pittsburgh Penguins,C,5:42,0,0,1,1,0,0,0,2,4,0,0,0,0,0,-1,5:42,0:00,0:00,50
-2018020168,8478466,Daniel Sprong,Pittsburgh Penguins,RW,8:12,0,0,1,1,0,0,0,0,0,1,0,0,0,0,-1,6:41,1:31,0:00,NA
-2018020168,8476874,Olli Maatta,Pittsburgh Penguins,D,21:29,0,0,1,3,0,0,0,0,0,1,0,0,0,1,1,16:33,1:31,3:25,NA
-2018020168,8476467,Jamie Oleksiak,Pittsburgh Penguins,D,16:59,2,0,1,3,0,0,0,0,0,0,1,0,0,1,1,16:32,0:00,0:27,NA
-2018020168,8480945,Juuso Riikola,Pittsburgh Penguins,D,18:12,0,0,1,3,0,0,2,0,0,0,1,0,0,1,-1,13:42,4:30,0:00,NA
-2018020168,8477244,Chad Ruhwedel,Pittsburgh Penguins,D,17:54,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-2,13:33,0:11,4:10,NA
-2018020168,8474176,Carl Hagelin,Pittsburgh Penguins,LW,14:53,0,0,1,5,0,0,0,0,1,0,3,0,0,0,0,11:41,0:00,3:12,0
-2018020168,8464989,Matt Cullen,Pittsburgh Penguins,C,14:21,0,0,0,0,0,0,0,6,12,0,0,0,0,0,-2,10:37,0:11,3:33,50
-2018020168,8474709,Matt Martin,New York Islanders,LW,11:21,1,1,2,2,0,0,0,0,0,0,1,0,0,0,1,10:56,0:15,0:10,NA
-2018020168,8476917,Adam Pelech,New York Islanders,D,16:47,1,0,3,0,0,0,0,0,0,1,0,0,0,4,1,14:25,0:00,2:22,NA
-2018020168,8477506,Ryan Pulock,New York Islanders,D,21:23,3,0,1,2,0,0,0,0,0,0,0,0,0,1,2,16:46,2:33,2:04,NA
-2018020168,8476429,Scott Mayfield,New York Islanders,D,18:55,0,0,0,1,0,0,0,0,0,2,1,0,0,0,-1,15:09,0:00,3:46,NA
-2018020168,8470047,Valtteri Filppula,New York Islanders,C,15:59,1,0,1,1,0,0,0,7,16,0,0,0,0,1,-1,12:45,0:00,3:14,43.75
-2018020168,8470187,Johnny Boychuk,New York Islanders,D,19:27,0,0,1,4,0,0,0,0,0,0,0,0,0,4,1,16:19,2:07,1:01,NA
-2018020168,8471217,Andrew Ladd,New York Islanders,LW,14:52,0,1,1,1,0,0,2,0,0,0,0,0,0,0,0,11:47,2:22,0:43,NA
-2018020168,8475314,Anders Lee,New York Islanders,LW,17:16,0,0,1,0,0,0,0,1,2,0,0,0,0,1,2,12:44,4:32,0:00,50
-2018020168,8475754,Brock Nelson,New York Islanders,C,16:07,0,1,2,0,0,0,0,8,19,1,0,0,0,2,2,12:52,2:22,0:53,42.11
-2018020168,8475832,Tom Kuhnhackl,New York Islanders,RW,12:11,0,1,1,6,0,0,0,0,0,0,0,0,0,0,2,10:03,0:15,1:53,NA
-2018020168,8478445,Mathew Barzal,New York Islanders,C,16:13,2,0,3,1,0,1,0,3,5,1,0,0,0,0,0,11:11,5:02,0:00,60
-2018020168,8474573,Josh Bailey,New York Islanders,RW,16:41,1,0,0,1,0,0,2,0,0,0,0,0,0,1,1,12:09,4:32,0:00,NA
-2018020168,8474586,Jordan Eberle,New York Islanders,RW,15:45,0,2,3,0,1,0,0,0,0,1,0,0,0,0,-1,11:20,4:25,0:00,NA
-2018020168,8478463,Anthony Beauvillier,New York Islanders,C,13:05,0,0,0,0,0,0,0,0,1,0,0,0,0,2,-1,10:36,2:29,0:00,0
-2018020168,8473463,Leo Komarov,New York Islanders,C,15:52,0,0,1,4,0,0,0,0,1,0,0,0,0,1,0,12:38,0:00,3:14,0
-2018020168,8474066,Thomas Hickey,New York Islanders,D,17:26,0,0,2,1,0,0,2,0,0,0,0,0,0,3,-1,14:34,0:15,2:37,NA
-2018020168,8475231,Casey Cizikas,New York Islanders,C,12:53,1,0,2,2,0,0,0,6,9,0,0,0,0,0,1,10:45,0:15,1:53,66.67
-2018020168,8475181,Nick Leddy,New York Islanders,D,21:47,2,0,1,1,0,1,0,0,0,0,0,0,0,0,2,17:16,4:21,0:10,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020168,8475208,Brian Dumoulin,Pittsburgh Penguins,New York Islanders,D,20:45,1,0,0,5,0,0,0,0,0,2,0,0,0,1,-1,16:34,0:11,4:00,NA
+2018020168,8471675,Sidney Crosby,Pittsburgh Penguins,New York Islanders,C,20:21,1,1,7,1,0,0,0,13,21,0,0,0,0,0,2,15:46,4:18,0:17,61.9
+2018020168,8477404,Jake Guentzel,Pittsburgh Penguins,New York Islanders,LW,18:44,0,0,4,1,0,0,2,0,0,1,0,0,0,0,2,16:21,2:23,0:00,NA
+2018020168,8471887,Patric Hornqvist,Pittsburgh Penguins,New York Islanders,RW,14:47,0,0,4,3,0,0,0,0,0,0,0,0,0,1,-2,10:29,4:18,0:00,NA
+2018020168,8478866,Dominik Simon,Pittsburgh Penguins,New York Islanders,C,19:12,0,1,6,2,0,0,0,0,0,0,1,0,0,0,2,17:41,1:31,0:00,NA
+2018020168,8473548,Phil Kessel,Pittsburgh Penguins,New York Islanders,RW,19:27,1,0,3,0,0,0,0,0,0,1,2,0,0,0,-1,15:09,4:18,0:00,NA
+2018020168,8475810,Bryan Rust,Pittsburgh Penguins,New York Islanders,RW,13:51,0,0,1,2,0,0,0,1,1,0,0,0,0,1,-2,10:00,0:11,3:40,100
+2018020168,8471215,Evgeni Malkin,Pittsburgh Penguins,New York Islanders,C,19:10,0,1,3,0,0,0,0,6,11,0,2,0,0,1,-1,14:52,4:18,0:00,54.55
+2018020168,8471677,Jack Johnson,Pittsburgh Penguins,New York Islanders,D,18:14,0,0,2,2,0,0,2,0,0,0,0,0,0,2,-2,14:39,1:19,2:16,NA
+2018020168,8475772,Riley Sheahan,Pittsburgh Penguins,New York Islanders,C,14:37,0,0,1,0,0,0,0,0,3,1,0,0,0,1,-2,10:50,0:11,3:36,0
+2018020168,8474683,Derek Grant,Pittsburgh Penguins,New York Islanders,C,5:42,0,0,1,1,0,0,0,2,4,0,0,0,0,0,-1,5:42,0:00,0:00,50
+2018020168,8478466,Daniel Sprong,Pittsburgh Penguins,New York Islanders,RW,8:12,0,0,1,1,0,0,0,0,0,1,0,0,0,0,-1,6:41,1:31,0:00,NA
+2018020168,8476874,Olli Maatta,Pittsburgh Penguins,New York Islanders,D,21:29,0,0,1,3,0,0,0,0,0,1,0,0,0,1,1,16:33,1:31,3:25,NA
+2018020168,8476467,Jamie Oleksiak,Pittsburgh Penguins,New York Islanders,D,16:59,2,0,1,3,0,0,0,0,0,0,1,0,0,1,1,16:32,0:00,0:27,NA
+2018020168,8480945,Juuso Riikola,Pittsburgh Penguins,New York Islanders,D,18:12,0,0,1,3,0,0,2,0,0,0,1,0,0,1,-1,13:42,4:30,0:00,NA
+2018020168,8477244,Chad Ruhwedel,Pittsburgh Penguins,New York Islanders,D,17:54,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-2,13:33,0:11,4:10,NA
+2018020168,8474176,Carl Hagelin,Pittsburgh Penguins,New York Islanders,LW,14:53,0,0,1,5,0,0,0,0,1,0,3,0,0,0,0,11:41,0:00,3:12,0
+2018020168,8464989,Matt Cullen,Pittsburgh Penguins,New York Islanders,C,14:21,0,0,0,0,0,0,0,6,12,0,0,0,0,0,-2,10:37,0:11,3:33,50
+2018020168,8474709,Matt Martin,New York Islanders,Pittsburgh Penguins,LW,11:21,1,1,2,2,0,0,0,0,0,0,1,0,0,0,1,10:56,0:15,0:10,NA
+2018020168,8476917,Adam Pelech,New York Islanders,Pittsburgh Penguins,D,16:47,1,0,3,0,0,0,0,0,0,1,0,0,0,4,1,14:25,0:00,2:22,NA
+2018020168,8477506,Ryan Pulock,New York Islanders,Pittsburgh Penguins,D,21:23,3,0,1,2,0,0,0,0,0,0,0,0,0,1,2,16:46,2:33,2:04,NA
+2018020168,8476429,Scott Mayfield,New York Islanders,Pittsburgh Penguins,D,18:55,0,0,0,1,0,0,0,0,0,2,1,0,0,0,-1,15:09,0:00,3:46,NA
+2018020168,8470047,Valtteri Filppula,New York Islanders,Pittsburgh Penguins,C,15:59,1,0,1,1,0,0,0,7,16,0,0,0,0,1,-1,12:45,0:00,3:14,43.75
+2018020168,8470187,Johnny Boychuk,New York Islanders,Pittsburgh Penguins,D,19:27,0,0,1,4,0,0,0,0,0,0,0,0,0,4,1,16:19,2:07,1:01,NA
+2018020168,8471217,Andrew Ladd,New York Islanders,Pittsburgh Penguins,LW,14:52,0,1,1,1,0,0,2,0,0,0,0,0,0,0,0,11:47,2:22,0:43,NA
+2018020168,8475314,Anders Lee,New York Islanders,Pittsburgh Penguins,LW,17:16,0,0,1,0,0,0,0,1,2,0,0,0,0,1,2,12:44,4:32,0:00,50
+2018020168,8475754,Brock Nelson,New York Islanders,Pittsburgh Penguins,C,16:07,0,1,2,0,0,0,0,8,19,1,0,0,0,2,2,12:52,2:22,0:53,42.11
+2018020168,8475832,Tom Kuhnhackl,New York Islanders,Pittsburgh Penguins,RW,12:11,0,1,1,6,0,0,0,0,0,0,0,0,0,0,2,10:03,0:15,1:53,NA
+2018020168,8478445,Mathew Barzal,New York Islanders,Pittsburgh Penguins,C,16:13,2,0,3,1,0,1,0,3,5,1,0,0,0,0,0,11:11,5:02,0:00,60
+2018020168,8474573,Josh Bailey,New York Islanders,Pittsburgh Penguins,RW,16:41,1,0,0,1,0,0,2,0,0,0,0,0,0,1,1,12:09,4:32,0:00,NA
+2018020168,8474586,Jordan Eberle,New York Islanders,Pittsburgh Penguins,RW,15:45,0,2,3,0,1,0,0,0,0,1,0,0,0,0,-1,11:20,4:25,0:00,NA
+2018020168,8478463,Anthony Beauvillier,New York Islanders,Pittsburgh Penguins,C,13:05,0,0,0,0,0,0,0,0,1,0,0,0,0,2,-1,10:36,2:29,0:00,0
+2018020168,8473463,Leo Komarov,New York Islanders,Pittsburgh Penguins,C,15:52,0,0,1,4,0,0,0,0,1,0,0,0,0,1,0,12:38,0:00,3:14,0
+2018020168,8474066,Thomas Hickey,New York Islanders,Pittsburgh Penguins,D,17:26,0,0,2,1,0,0,2,0,0,0,0,0,0,3,-1,14:34,0:15,2:37,NA
+2018020168,8475231,Casey Cizikas,New York Islanders,Pittsburgh Penguins,C,12:53,1,0,2,2,0,0,0,6,9,0,0,0,0,0,1,10:45,0:15,1:53,66.67
+2018020168,8475181,Nick Leddy,New York Islanders,Pittsburgh Penguins,D,21:47,2,0,1,1,0,1,0,0,0,0,0,0,0,0,2,17:16,4:21,0:10,NA

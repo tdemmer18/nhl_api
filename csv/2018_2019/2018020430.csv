@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020430,8471735,Keith Yandle,Florida Panthers,D,22:51,0,0,3,0,0,0,2,0,0,1,0,0,0,0,-2,16:18,6:33,0:00,NA
-2018020430,8474149,Evgenii Dadonov,Florida Panthers,RW,17:24,0,0,6,0,0,0,0,0,0,0,0,0,0,0,-3,11:35,5:49,0:00,NA
-2018020430,8477932,Aaron Ekblad,Florida Panthers,D,22:37,0,1,3,0,1,0,0,0,0,1,0,0,0,0,-1,16:33,2:44,3:20,NA
-2018020430,8476875,Mike Matheson,Florida Panthers,D,23:33,1,0,1,0,0,1,2,0,0,0,2,0,0,2,-1,17:57,2:46,2:50,NA
-2018020430,8474884,Mike Hoffman,Florida Panthers,LW,21:02,0,0,3,1,0,0,0,0,0,1,1,0,0,1,-3,15:17,5:45,0:00,NA
-2018020430,8471426,Troy Brouwer,Florida Panthers,RW,11:15,0,0,0,3,0,0,2,2,3,0,1,0,0,0,1,7:18,0:42,3:15,66.67
-2018020430,8477955,Jared McCann,Florida Panthers,C,15:50,1,0,2,0,0,1,0,4,7,1,1,0,0,0,-1,10:23,3:34,1:53,57.14
-2018020430,8474098,Colton Sceviour,Florida Panthers,C,10:03,0,1,4,5,0,0,0,1,2,0,2,0,0,0,1,7:40,0:00,2:23,50
-2018020430,8474230,Micheal Haley,Florida Panthers,C,7:11,0,0,0,4,0,0,0,1,1,0,0,0,0,0,1,7:11,0:00,0:00,100
-2018020430,8475760,Nick Bjugstad,Florida Panthers,C,14:39,0,0,0,0,0,0,0,2,3,2,0,0,0,1,-1,11:17,3:22,0:00,66.67
-2018020430,8480955,Bogdan Kiselevich,Florida Panthers,D,12:11,1,0,0,2,0,0,2,0,0,0,0,0,0,1,-2,11:28,0:00,0:43,NA
-2018020430,8477996,Juho Lammikko,Florida Panthers,RW,14:30,0,0,1,0,0,0,0,6,14,0,0,0,0,1,-1,12:42,0:00,1:48,42.86
-2018020430,8476456,Jonathan Huberdeau,Florida Panthers,LW,21:38,0,0,6,2,0,0,0,0,0,0,1,0,0,0,-3,14:59,6:35,0:04,NA
-2018020430,8475796,Mark Pysyk,Florida Panthers,D,18:41,0,0,0,0,0,0,0,0,0,1,2,0,0,2,0,16:01,0:00,2:40,NA
-2018020430,8477346,MacKenzie Weegar,Florida Panthers,D,13:47,1,0,0,2,0,0,0,0,0,0,0,0,0,4,-1,10:56,0:00,2:51,NA
-2018020430,8478366,Frank Vatrano,Florida Panthers,C,12:54,0,0,2,0,0,0,0,0,0,0,0,0,0,1,-1,9:24,3:30,0:00,NA
-2018020430,8478211,Dryden Hunt,Florida Panthers,LW,11:14,0,0,1,4,0,0,0,0,0,0,0,0,0,0,-1,11:14,0:00,0:00,NA
-2018020430,8477493,Aleksander Barkov,Florida Panthers,C,24:08,0,0,3,0,0,0,0,17,28,1,2,0,0,1,-3,15:52,5:15,3:01,60.71
-2018020430,8473446,Erik Johnson,Colorado Avalanche,D,20:40,0,0,1,1,0,0,0,0,0,0,1,0,0,1,2,15:20,0:05,5:15,NA
-2018020430,8477507,Nikita Zadorov,Colorado Avalanche,D,16:05,0,0,1,4,0,0,0,0,0,0,0,0,0,0,2,12:52,0:00,3:13,NA
-2018020430,8474569,Colin Wilson,Colorado Avalanche,C,13:55,1,0,2,1,0,0,0,0,0,1,0,0,0,0,0,10:18,3:37,0:00,NA
-2018020430,8475747,Patrik Nemeth,Colorado Avalanche,D,18:25,1,0,2,4,0,0,0,0,0,0,0,0,0,4,1,13:29,0:00,4:56,NA
-2018020430,8476442,Matt Nieto,Colorado Avalanche,LW,15:01,0,1,2,1,0,0,0,0,0,0,0,0,0,1,1,10:45,0:00,4:16,NA
-2018020430,8476455,Gabriel Landeskog,Colorado Avalanche,LW,19:55,1,1,3,0,0,0,2,0,4,0,0,0,0,1,3,16:18,3:37,0:00,0
-2018020430,8474685,Matt Calvert,Colorado Avalanche,LW,12:59,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,10:17,0:00,2:42,NA
-2018020430,8477456,J.T. Compher,Colorado Avalanche,LW,13:47,0,1,4,0,0,0,0,3,8,1,1,0,0,1,1,8:56,2:30,2:21,37.5
-2018020430,8475268,Gabriel Bourque,Colorado Avalanche,LW,10:44,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6:05,0:00,4:39,NA
-2018020430,8477973,Vladislav Kamenev,Colorado Avalanche,C,6:02,0,0,2,0,0,0,2,2,4,0,0,0,0,0,0,6:02,0:00,0:00,50
-2018020430,8477021,Alexander Kerfoot,Colorado Avalanche,C,14:59,0,0,0,0,0,0,2,4,7,0,0,0,0,0,0,12:24,2:35,0:00,57.14
-2018020430,8474013,Ian Cole,Colorado Avalanche,D,20:32,0,0,0,3,0,0,2,0,0,0,1,0,0,2,2,16:34,0:00,3:58,NA
-2018020430,8475197,Tyson Barrie,Colorado Avalanche,D,20:29,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,15:36,3:37,1:16,NA
-2018020430,8471262,Carl Soderberg,Colorado Avalanche,C,17:47,1,1,2,0,0,0,0,7,16,0,0,1,0,2,1,10:32,2:35,4:40,43.75
-2018020430,8479398,Samuel Girard,Colorado Avalanche,D,17:46,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,15:11,2:35,0:00,NA
-2018020430,8478420,Mikko Rantanen,Colorado Avalanche,RW,18:01,0,1,2,0,0,0,2,0,0,0,0,0,0,0,2,14:24,3:37,0:00,NA
-2018020430,8477492,Nathan MacKinnon,Colorado Avalanche,C,19:26,1,0,3,0,0,0,0,9,19,0,1,0,0,1,3,15:49,3:37,0:00,47.37
-2018020430,8479370,Tyson Jost,Colorado Avalanche,C,14:08,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,11:33,2:35,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020430,8471735,Keith Yandle,Florida Panthers,Colorado Avalanche,D,22:51,0,0,3,0,0,0,2,0,0,1,0,0,0,0,-2,16:18,6:33,0:00,NA
+2018020430,8474149,Evgenii Dadonov,Florida Panthers,Colorado Avalanche,RW,17:24,0,0,6,0,0,0,0,0,0,0,0,0,0,0,-3,11:35,5:49,0:00,NA
+2018020430,8477932,Aaron Ekblad,Florida Panthers,Colorado Avalanche,D,22:37,0,1,3,0,1,0,0,0,0,1,0,0,0,0,-1,16:33,2:44,3:20,NA
+2018020430,8476875,Mike Matheson,Florida Panthers,Colorado Avalanche,D,23:33,1,0,1,0,0,1,2,0,0,0,2,0,0,2,-1,17:57,2:46,2:50,NA
+2018020430,8474884,Mike Hoffman,Florida Panthers,Colorado Avalanche,LW,21:02,0,0,3,1,0,0,0,0,0,1,1,0,0,1,-3,15:17,5:45,0:00,NA
+2018020430,8471426,Troy Brouwer,Florida Panthers,Colorado Avalanche,RW,11:15,0,0,0,3,0,0,2,2,3,0,1,0,0,0,1,7:18,0:42,3:15,66.67
+2018020430,8477955,Jared McCann,Florida Panthers,Colorado Avalanche,C,15:50,1,0,2,0,0,1,0,4,7,1,1,0,0,0,-1,10:23,3:34,1:53,57.14
+2018020430,8474098,Colton Sceviour,Florida Panthers,Colorado Avalanche,C,10:03,0,1,4,5,0,0,0,1,2,0,2,0,0,0,1,7:40,0:00,2:23,50
+2018020430,8474230,Micheal Haley,Florida Panthers,Colorado Avalanche,C,7:11,0,0,0,4,0,0,0,1,1,0,0,0,0,0,1,7:11,0:00,0:00,100
+2018020430,8475760,Nick Bjugstad,Florida Panthers,Colorado Avalanche,C,14:39,0,0,0,0,0,0,0,2,3,2,0,0,0,1,-1,11:17,3:22,0:00,66.67
+2018020430,8480955,Bogdan Kiselevich,Florida Panthers,Colorado Avalanche,D,12:11,1,0,0,2,0,0,2,0,0,0,0,0,0,1,-2,11:28,0:00,0:43,NA
+2018020430,8477996,Juho Lammikko,Florida Panthers,Colorado Avalanche,RW,14:30,0,0,1,0,0,0,0,6,14,0,0,0,0,1,-1,12:42,0:00,1:48,42.86
+2018020430,8476456,Jonathan Huberdeau,Florida Panthers,Colorado Avalanche,LW,21:38,0,0,6,2,0,0,0,0,0,0,1,0,0,0,-3,14:59,6:35,0:04,NA
+2018020430,8475796,Mark Pysyk,Florida Panthers,Colorado Avalanche,D,18:41,0,0,0,0,0,0,0,0,0,1,2,0,0,2,0,16:01,0:00,2:40,NA
+2018020430,8477346,MacKenzie Weegar,Florida Panthers,Colorado Avalanche,D,13:47,1,0,0,2,0,0,0,0,0,0,0,0,0,4,-1,10:56,0:00,2:51,NA
+2018020430,8478366,Frank Vatrano,Florida Panthers,Colorado Avalanche,C,12:54,0,0,2,0,0,0,0,0,0,0,0,0,0,1,-1,9:24,3:30,0:00,NA
+2018020430,8478211,Dryden Hunt,Florida Panthers,Colorado Avalanche,LW,11:14,0,0,1,4,0,0,0,0,0,0,0,0,0,0,-1,11:14,0:00,0:00,NA
+2018020430,8477493,Aleksander Barkov,Florida Panthers,Colorado Avalanche,C,24:08,0,0,3,0,0,0,0,17,28,1,2,0,0,1,-3,15:52,5:15,3:01,60.71
+2018020430,8473446,Erik Johnson,Colorado Avalanche,Florida Panthers,D,20:40,0,0,1,1,0,0,0,0,0,0,1,0,0,1,2,15:20,0:05,5:15,NA
+2018020430,8477507,Nikita Zadorov,Colorado Avalanche,Florida Panthers,D,16:05,0,0,1,4,0,0,0,0,0,0,0,0,0,0,2,12:52,0:00,3:13,NA
+2018020430,8474569,Colin Wilson,Colorado Avalanche,Florida Panthers,C,13:55,1,0,2,1,0,0,0,0,0,1,0,0,0,0,0,10:18,3:37,0:00,NA
+2018020430,8475747,Patrik Nemeth,Colorado Avalanche,Florida Panthers,D,18:25,1,0,2,4,0,0,0,0,0,0,0,0,0,4,1,13:29,0:00,4:56,NA
+2018020430,8476442,Matt Nieto,Colorado Avalanche,Florida Panthers,LW,15:01,0,1,2,1,0,0,0,0,0,0,0,0,0,1,1,10:45,0:00,4:16,NA
+2018020430,8476455,Gabriel Landeskog,Colorado Avalanche,Florida Panthers,LW,19:55,1,1,3,0,0,0,2,0,4,0,0,0,0,1,3,16:18,3:37,0:00,0
+2018020430,8474685,Matt Calvert,Colorado Avalanche,Florida Panthers,LW,12:59,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,10:17,0:00,2:42,NA
+2018020430,8477456,J.T. Compher,Colorado Avalanche,Florida Panthers,LW,13:47,0,1,4,0,0,0,0,3,8,1,1,0,0,1,1,8:56,2:30,2:21,37.5
+2018020430,8475268,Gabriel Bourque,Colorado Avalanche,Florida Panthers,LW,10:44,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6:05,0:00,4:39,NA
+2018020430,8477973,Vladislav Kamenev,Colorado Avalanche,Florida Panthers,C,6:02,0,0,2,0,0,0,2,2,4,0,0,0,0,0,0,6:02,0:00,0:00,50
+2018020430,8477021,Alexander Kerfoot,Colorado Avalanche,Florida Panthers,C,14:59,0,0,0,0,0,0,2,4,7,0,0,0,0,0,0,12:24,2:35,0:00,57.14
+2018020430,8474013,Ian Cole,Colorado Avalanche,Florida Panthers,D,20:32,0,0,0,3,0,0,2,0,0,0,1,0,0,2,2,16:34,0:00,3:58,NA
+2018020430,8475197,Tyson Barrie,Colorado Avalanche,Florida Panthers,D,20:29,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,15:36,3:37,1:16,NA
+2018020430,8471262,Carl Soderberg,Colorado Avalanche,Florida Panthers,C,17:47,1,1,2,0,0,0,0,7,16,0,0,1,0,2,1,10:32,2:35,4:40,43.75
+2018020430,8479398,Samuel Girard,Colorado Avalanche,Florida Panthers,D,17:46,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,15:11,2:35,0:00,NA
+2018020430,8478420,Mikko Rantanen,Colorado Avalanche,Florida Panthers,RW,18:01,0,1,2,0,0,0,2,0,0,0,0,0,0,0,2,14:24,3:37,0:00,NA
+2018020430,8477492,Nathan MacKinnon,Colorado Avalanche,Florida Panthers,C,19:26,1,0,3,0,0,0,0,9,19,0,1,0,0,1,3,15:49,3:37,0:00,47.37
+2018020430,8479370,Tyson Jost,Colorado Avalanche,Florida Panthers,C,14:08,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,11:33,2:35,0:00,NA

@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020552,8477939,William Nylander,Toronto Maple Leafs,RW,16:08,0,0,0,0,0,0,0,33.33,2,6,1,1,0,0,0,0,14:46,1:22,0:00
-2018020552,8478408,Travis Dermott,Toronto Maple Leafs,D,14:11,0,0,2,1,0,0,0,NA,0,0,1,0,0,0,1,-1,14:08,0:03,0:00
-2018020552,8468493,Ron Hainsey,Toronto Maple Leafs,D,20:11,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,1,1,17:38,0:00,2:33
-2018020552,8475716,Martin Marincin,Toronto Maple Leafs,D,13:40,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,-1,12:19,0:00,1:21
-2018020552,8476853,Morgan Rielly,Toronto Maple Leafs,D,22:40,1,1,4,2,0,0,0,NA,0,0,2,2,0,0,3,1,18:25,2:28,1:47
-2018020552,8477953,Kasperi Kapanen,Toronto Maple Leafs,RW,17:46,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,0,16:29,0:00,1:17
-2018020552,8474589,Tyler Ennis,Toronto Maple Leafs,LW,5:19,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,0,3:44,1:35,0:00
-2018020552,8479318,Auston Matthews,Toronto Maple Leafs,C,19:15,0,0,3,0,0,0,0,66.67,10,15,0,0,0,0,0,1,16:41,2:34,0:00
-2018020552,8479458,Nikita Zaitsev,Toronto Maple Leafs,D,22:17,0,0,2,1,0,0,0,NA,0,0,0,3,0,0,4,2,20:04,0:00,2:13
-2018020552,8477015,Connor Brown,Toronto Maple Leafs,RW,16:11,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,13:28,0:00,2:43
-2018020552,8475166,John Tavares,Toronto Maple Leafs,C,18:26,2,0,6,2,0,0,2,56.25,9,16,0,1,0,0,0,2,15:59,2:27,0:00
-2018020552,8480944,Par Lindholm,Toronto Maple Leafs,C,10:47,0,0,2,1,0,0,0,66.67,2,3,0,0,0,0,0,-1,7:55,0:00,2:52
-2018020552,8477512,Frederik Gauthier,Toronto Maple Leafs,C,6:57,1,0,0,1,0,0,0,100,4,4,0,0,0,0,0,0,6:57,0:00,0:00
-2018020552,8477341,Andreas Johnsson,Toronto Maple Leafs,LW,15:09,2,1,3,1,0,0,0,NA,0,0,1,0,0,0,1,3,13:43,1:26,0:00
-2018020552,8474581,Jake Gardiner,Toronto Maple Leafs,D,23:04,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,1,2,21:26,1:32,0:06
-2018020552,8478483,Mitchell Marner,Toronto Maple Leafs,RW,19:23,1,2,3,0,0,0,0,100,1,1,1,2,0,0,0,2,15:37,2:38,1:08
-2018020552,8475172,Nazem Kadri,Toronto Maple Leafs,C,17:55,0,0,2,0,0,0,0,80,4,5,1,0,0,0,0,0,15:30,2:25,0:00
-2018020552,8466139,Patrick Marleau,Toronto Maple Leafs,C,17:28,0,1,1,2,0,0,2,NA,0,0,2,2,0,0,1,-1,15:58,1:30,0:00
-2018020552,8480072,Lias Andersson,New York Rangers,C,10:27,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-1,10:27,0:00,0:00
-2018020552,8476918,Jimmy Vesey,New York Rangers,LW,16:14,1,0,1,2,0,0,0,NA,0,0,0,0,0,0,3,0,13:25,1:34,1:15
-2018020552,8471717,Adam McQuaid,New York Rangers,D,15:41,0,0,1,3,0,0,4,NA,0,0,0,0,0,0,1,-3,15:41,0:00,0:00
-2018020552,8471686,Marc Staal,New York Rangers,D,21:43,1,0,2,1,0,0,0,NA,0,0,0,0,0,0,2,1,19:45,0:00,1:58
-2018020552,8476869,Brady Skjei,New York Rangers,D,20:32,1,0,3,3,0,0,0,NA,0,0,0,1,0,0,3,-2,18:30,0:00,2:02
-2018020552,8476458,Ryan Strome,New York Rangers,C,10:35,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1,10:35,0:00,0:00
-2018020552,8476459,Mika Zibanejad,New York Rangers,C,17:32,0,0,4,3,0,0,0,46.15,6,13,1,0,0,0,1,-3,14:16,2:08,1:08
-2018020552,8476922,Boo Nieves,New York Rangers,C,9:55,0,0,1,0,0,0,0,22.22,2,9,1,0,0,0,1,-1,9:55,0:00,0:00
-2018020552,8477402,Pavel Buchnevich,New York Rangers,RW,17:42,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,1,16:17,1:25,0:00
-2018020552,8475763,Kevin Hayes,New York Rangers,C,18:38,1,1,4,0,0,0,0,53.85,7,13,1,1,0,0,1,1,14:26,2:35,1:37
-2018020552,8476368,Fredrik Claesson,New York Rangers,D,13:15,0,0,1,2,0,0,0,NA,0,0,0,2,0,0,0,0,13:15,0:00,0:00
-2018020552,8475184,Chris Kreider,New York Rangers,LW,16:03,0,1,4,2,0,0,0,NA,0,0,0,0,0,0,1,0,13:37,2:26,0:00
-2018020552,8479353,Brett Howden,New York Rangers,C,17:42,0,0,0,1,0,0,0,26.67,4,15,1,0,0,0,0,0,15:02,1:34,1:06
-2018020552,8475692,Mats Zuccarello,New York Rangers,RW,16:09,0,0,0,3,0,0,0,NA,0,0,0,1,0,0,0,-2,12:35,2:26,1:08
-2018020552,8474090,Brendan Smith,New York Rangers,D,18:37,0,0,0,3,0,0,0,NA,0,0,0,2,0,0,2,-1,16:26,0:00,2:11
-2018020552,8480078,Filip Chytil,New York Rangers,C,16:28,1,0,1,0,0,0,0,NA,0,0,1,0,0,0,0,-2,14:54,1:34,0:00
-2018020552,8476480,Vladislav Namestnikov,New York Rangers,C,17:46,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,0,13:34,2:26,1:46
-2018020552,8480145,Neal Pionk,New York Rangers,D,23:16,1,1,4,3,0,0,0,NA,0,0,1,0,0,0,0,2,19:35,1:52,1:49
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020552,8477939,William Nylander,Toronto Maple Leafs,New York Rangers,RW,16:08,0,0,0,0,0,0,0,33.33,2,6,1,1,0,0,0,0,14:46,1:22,0:00
+2018020552,8478408,Travis Dermott,Toronto Maple Leafs,New York Rangers,D,14:11,0,0,2,1,0,0,0,NA,0,0,1,0,0,0,1,-1,14:08,0:03,0:00
+2018020552,8468493,Ron Hainsey,Toronto Maple Leafs,New York Rangers,D,20:11,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,1,1,17:38,0:00,2:33
+2018020552,8475716,Martin Marincin,Toronto Maple Leafs,New York Rangers,D,13:40,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,-1,12:19,0:00,1:21
+2018020552,8476853,Morgan Rielly,Toronto Maple Leafs,New York Rangers,D,22:40,1,1,4,2,0,0,0,NA,0,0,2,2,0,0,3,1,18:25,2:28,1:47
+2018020552,8477953,Kasperi Kapanen,Toronto Maple Leafs,New York Rangers,RW,17:46,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,0,16:29,0:00,1:17
+2018020552,8474589,Tyler Ennis,Toronto Maple Leafs,New York Rangers,LW,5:19,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,0,3:44,1:35,0:00
+2018020552,8479318,Auston Matthews,Toronto Maple Leafs,New York Rangers,C,19:15,0,0,3,0,0,0,0,66.67,10,15,0,0,0,0,0,1,16:41,2:34,0:00
+2018020552,8479458,Nikita Zaitsev,Toronto Maple Leafs,New York Rangers,D,22:17,0,0,2,1,0,0,0,NA,0,0,0,3,0,0,4,2,20:04,0:00,2:13
+2018020552,8477015,Connor Brown,Toronto Maple Leafs,New York Rangers,RW,16:11,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,13:28,0:00,2:43
+2018020552,8475166,John Tavares,Toronto Maple Leafs,New York Rangers,C,18:26,2,0,6,2,0,0,2,56.25,9,16,0,1,0,0,0,2,15:59,2:27,0:00
+2018020552,8480944,Par Lindholm,Toronto Maple Leafs,New York Rangers,C,10:47,0,0,2,1,0,0,0,66.67,2,3,0,0,0,0,0,-1,7:55,0:00,2:52
+2018020552,8477512,Frederik Gauthier,Toronto Maple Leafs,New York Rangers,C,6:57,1,0,0,1,0,0,0,100,4,4,0,0,0,0,0,0,6:57,0:00,0:00
+2018020552,8477341,Andreas Johnsson,Toronto Maple Leafs,New York Rangers,LW,15:09,2,1,3,1,0,0,0,NA,0,0,1,0,0,0,1,3,13:43,1:26,0:00
+2018020552,8474581,Jake Gardiner,Toronto Maple Leafs,New York Rangers,D,23:04,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,1,2,21:26,1:32,0:06
+2018020552,8478483,Mitchell Marner,Toronto Maple Leafs,New York Rangers,RW,19:23,1,2,3,0,0,0,0,100,1,1,1,2,0,0,0,2,15:37,2:38,1:08
+2018020552,8475172,Nazem Kadri,Toronto Maple Leafs,New York Rangers,C,17:55,0,0,2,0,0,0,0,80,4,5,1,0,0,0,0,0,15:30,2:25,0:00
+2018020552,8466139,Patrick Marleau,Toronto Maple Leafs,New York Rangers,C,17:28,0,1,1,2,0,0,2,NA,0,0,2,2,0,0,1,-1,15:58,1:30,0:00
+2018020552,8480072,Lias Andersson,New York Rangers,Toronto Maple Leafs,C,10:27,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-1,10:27,0:00,0:00
+2018020552,8476918,Jimmy Vesey,New York Rangers,Toronto Maple Leafs,LW,16:14,1,0,1,2,0,0,0,NA,0,0,0,0,0,0,3,0,13:25,1:34,1:15
+2018020552,8471717,Adam McQuaid,New York Rangers,Toronto Maple Leafs,D,15:41,0,0,1,3,0,0,4,NA,0,0,0,0,0,0,1,-3,15:41,0:00,0:00
+2018020552,8471686,Marc Staal,New York Rangers,Toronto Maple Leafs,D,21:43,1,0,2,1,0,0,0,NA,0,0,0,0,0,0,2,1,19:45,0:00,1:58
+2018020552,8476869,Brady Skjei,New York Rangers,Toronto Maple Leafs,D,20:32,1,0,3,3,0,0,0,NA,0,0,0,1,0,0,3,-2,18:30,0:00,2:02
+2018020552,8476458,Ryan Strome,New York Rangers,Toronto Maple Leafs,C,10:35,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1,10:35,0:00,0:00
+2018020552,8476459,Mika Zibanejad,New York Rangers,Toronto Maple Leafs,C,17:32,0,0,4,3,0,0,0,46.15,6,13,1,0,0,0,1,-3,14:16,2:08,1:08
+2018020552,8476922,Boo Nieves,New York Rangers,Toronto Maple Leafs,C,9:55,0,0,1,0,0,0,0,22.22,2,9,1,0,0,0,1,-1,9:55,0:00,0:00
+2018020552,8477402,Pavel Buchnevich,New York Rangers,Toronto Maple Leafs,RW,17:42,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,1,16:17,1:25,0:00
+2018020552,8475763,Kevin Hayes,New York Rangers,Toronto Maple Leafs,C,18:38,1,1,4,0,0,0,0,53.85,7,13,1,1,0,0,1,1,14:26,2:35,1:37
+2018020552,8476368,Fredrik Claesson,New York Rangers,Toronto Maple Leafs,D,13:15,0,0,1,2,0,0,0,NA,0,0,0,2,0,0,0,0,13:15,0:00,0:00
+2018020552,8475184,Chris Kreider,New York Rangers,Toronto Maple Leafs,LW,16:03,0,1,4,2,0,0,0,NA,0,0,0,0,0,0,1,0,13:37,2:26,0:00
+2018020552,8479353,Brett Howden,New York Rangers,Toronto Maple Leafs,C,17:42,0,0,0,1,0,0,0,26.67,4,15,1,0,0,0,0,0,15:02,1:34,1:06
+2018020552,8475692,Mats Zuccarello,New York Rangers,Toronto Maple Leafs,RW,16:09,0,0,0,3,0,0,0,NA,0,0,0,1,0,0,0,-2,12:35,2:26,1:08
+2018020552,8474090,Brendan Smith,New York Rangers,Toronto Maple Leafs,D,18:37,0,0,0,3,0,0,0,NA,0,0,0,2,0,0,2,-1,16:26,0:00,2:11
+2018020552,8480078,Filip Chytil,New York Rangers,Toronto Maple Leafs,C,16:28,1,0,1,0,0,0,0,NA,0,0,1,0,0,0,0,-2,14:54,1:34,0:00
+2018020552,8476480,Vladislav Namestnikov,New York Rangers,Toronto Maple Leafs,C,17:46,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,0,13:34,2:26,1:46
+2018020552,8480145,Neal Pionk,New York Rangers,Toronto Maple Leafs,D,23:16,1,1,4,3,0,0,0,NA,0,0,1,0,0,0,0,2,19:35,1:52,1:49

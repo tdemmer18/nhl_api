@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020373,8473618,Mathieu Perreault,Winnipeg Jets,LW,15:42,0,0,2,1,0,0,0,0,0,0,0,0,0,0,-1,15:10,0:32,0:00,NA
-2018020373,8471218,Blake Wheeler,Winnipeg Jets,RW,23:11,2,0,2,0,0,0,0,0,1,0,0,0,0,1,1,18:15,3:43,1:13,0
-2018020373,8470834,Dustin Byfuglien,Winnipeg Jets,D,22:03,0,0,2,2,0,0,0,0,0,0,1,0,0,0,-1,18:35,3:28,0:00,NA
-2018020373,8473412,Bryan Little,Winnipeg Jets,C,18:42,0,0,1,0,0,0,2,11,20,1,0,0,0,0,-1,18:10,0:32,0:00,55
-2018020373,8479339,Patrik Laine,Winnipeg Jets,RW,21:52,0,0,4,1,0,0,0,0,0,0,1,0,0,0,-1,18:24,3:28,0:00,NA
-2018020373,8477504,Josh Morrissey,Winnipeg Jets,D,19:15,0,0,0,1,0,0,0,0,0,2,0,0,0,2,-1,17:46,0:25,1:04,NA
-2018020373,8476476,Joe Morrow,Winnipeg Jets,D,15:26,0,0,1,0,0,0,0,0,0,0,3,0,0,1,0,15:16,0:00,0:10,NA
-2018020373,8478458,Jack Roslovic,Winnipeg Jets,C,4:51,0,0,0,0,0,0,0,1,3,0,0,0,0,0,-2,4:51,0:00,0:00,33.33
-2018020373,8474574,Tyler Myers,Winnipeg Jets,D,18:02,0,0,3,0,0,0,0,0,0,1,3,0,0,0,1,17:06,0:00,0:56,NA
-2018020373,8475279,Ben Chiarot,Winnipeg Jets,D,18:45,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,17:59,0:00,0:46,NA
-2018020373,8476885,Jacob Trouba,Winnipeg Jets,D,20:42,0,0,1,2,0,0,0,0,0,1,1,0,0,0,-1,19:14,0:24,1:04,NA
-2018020373,8477940,Nikolaj Ehlers,Winnipeg Jets,LW,16:51,2,0,2,0,0,0,0,0,0,0,2,0,0,0,0,16:19,0:32,0:00,NA
-2018020373,8477962,Brendan Lemieux,Winnipeg Jets,LW,4:32,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4:32,0:00,0:00,NA
-2018020373,8476460,Mark Scheifele,Winnipeg Jets,C,22:35,0,2,3,0,0,0,0,9,14,1,1,0,0,1,1,18:35,3:28,0:32,64.29
-2018020373,8477464,Nic Petan,Winnipeg Jets,LW,5:09,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1,5:09,0:00,0:00,NA
-2018020373,8478398,Kyle Connor,Winnipeg Jets,LW,22:16,0,0,3,0,0,0,0,0,0,0,3,0,0,1,-1,18:07,3:28,0:41,NA
-2018020373,8476392,Adam Lowry,Winnipeg Jets,C,15:29,1,0,0,3,0,0,0,7,12,0,0,0,1,0,0,14:42,0:00,0:47,58.33
-2018020373,8479293,Brandon Tanev,Winnipeg Jets,LW,14:45,0,1,3,3,0,0,0,0,0,0,0,1,0,0,1,13:58,0:00,0:47,NA
-2018020373,8471724,Kris Letang,Pittsburgh Penguins,D,25:57,1,0,1,1,0,0,0,0,0,0,1,0,0,3,0,22:10,1:22,2:25,NA
-2018020373,8475208,Brian Dumoulin,Pittsburgh Penguins,D,20:01,0,0,3,2,0,0,4,0,0,0,0,0,0,0,2,20:01,0:00,0:00,NA
-2018020373,8473544,Derick Brassard,Pittsburgh Penguins,C,13:54,0,0,2,0,0,0,0,4,7,0,0,0,0,0,1,12:50,1:04,0:00,57.14
-2018020373,8471675,Sidney Crosby,Pittsburgh Penguins,C,20:07,0,1,3,2,0,0,0,9,22,0,0,0,0,1,0,18:10,1:57,0:00,40.91
-2018020373,8477404,Jake Guentzel,Pittsburgh Penguins,LW,17:30,1,0,0,0,0,0,0,0,1,1,0,0,0,2,1,16:44,0:46,0:00,0
-2018020373,8478866,Dominik Simon,Pittsburgh Penguins,C,15:40,1,0,3,1,0,0,0,0,0,0,1,0,0,1,1,15:40,0:00,0:00,NA
-2018020373,8473548,Phil Kessel,Pittsburgh Penguins,RW,16:34,1,0,1,0,0,0,0,0,1,0,1,0,0,0,-1,14:44,1:50,0:00,0
-2018020373,8475810,Bryan Rust,Pittsburgh Penguins,RW,15:55,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-1,14:29,0:03,1:23,NA
-2018020373,8479944,Zach Aston-Reese,Pittsburgh Penguins,C,15:58,0,1,2,0,0,0,0,0,1,1,0,0,0,0,1,13:18,0:03,2:37,0
-2018020373,8471215,Evgeni Malkin,Pittsburgh Penguins,C,17:58,0,0,2,0,0,0,0,5,12,1,0,0,0,0,-3,16:01,1:57,0:00,41.67
-2018020373,8471677,Jack Johnson,Pittsburgh Penguins,D,18:06,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,15:56,0:00,2:10,NA
-2018020373,8476871,Tanner Pearson,Pittsburgh Penguins,LW,14:14,0,0,3,1,0,0,0,0,0,0,0,0,0,2,-2,14:14,0:00,0:00,NA
-2018020373,8475772,Riley Sheahan,Pittsburgh Penguins,C,11:58,0,1,2,1,0,0,0,3,4,0,0,0,0,2,1,9:21,0:00,2:37,75
-2018020373,8474683,Derek Grant,Pittsburgh Penguins,C,9:34,1,1,1,0,0,0,0,1,2,0,0,0,0,0,2,8:01,0:10,1:23,50
-2018020373,8476874,Olli Maatta,Pittsburgh Penguins,D,20:25,1,0,1,2,0,0,0,0,0,0,2,0,0,0,0,18:12,0:38,1:35,NA
-2018020373,8476467,Jamie Oleksiak,Pittsburgh Penguins,D,16:52,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,15:02,0:00,1:50,NA
-2018020373,8480945,Juuso Riikola,Pittsburgh Penguins,D,17:36,0,0,1,2,0,0,0,0,0,2,0,0,0,0,1,17:26,0:10,0:00,NA
-2018020373,8475253,Garrett Wilson,Pittsburgh Penguins,LW,7:41,1,0,0,3,0,0,0,0,0,1,0,0,0,1,2,7:41,0:00,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020373,8473618,Mathieu Perreault,Winnipeg Jets,Pittsburgh Penguins,LW,15:42,0,0,2,1,0,0,0,0,0,0,0,0,0,0,-1,15:10,0:32,0:00,NA
+2018020373,8471218,Blake Wheeler,Winnipeg Jets,Pittsburgh Penguins,RW,23:11,2,0,2,0,0,0,0,0,1,0,0,0,0,1,1,18:15,3:43,1:13,0
+2018020373,8470834,Dustin Byfuglien,Winnipeg Jets,Pittsburgh Penguins,D,22:03,0,0,2,2,0,0,0,0,0,0,1,0,0,0,-1,18:35,3:28,0:00,NA
+2018020373,8473412,Bryan Little,Winnipeg Jets,Pittsburgh Penguins,C,18:42,0,0,1,0,0,0,2,11,20,1,0,0,0,0,-1,18:10,0:32,0:00,55
+2018020373,8479339,Patrik Laine,Winnipeg Jets,Pittsburgh Penguins,RW,21:52,0,0,4,1,0,0,0,0,0,0,1,0,0,0,-1,18:24,3:28,0:00,NA
+2018020373,8477504,Josh Morrissey,Winnipeg Jets,Pittsburgh Penguins,D,19:15,0,0,0,1,0,0,0,0,0,2,0,0,0,2,-1,17:46,0:25,1:04,NA
+2018020373,8476476,Joe Morrow,Winnipeg Jets,Pittsburgh Penguins,D,15:26,0,0,1,0,0,0,0,0,0,0,3,0,0,1,0,15:16,0:00,0:10,NA
+2018020373,8478458,Jack Roslovic,Winnipeg Jets,Pittsburgh Penguins,C,4:51,0,0,0,0,0,0,0,1,3,0,0,0,0,0,-2,4:51,0:00,0:00,33.33
+2018020373,8474574,Tyler Myers,Winnipeg Jets,Pittsburgh Penguins,D,18:02,0,0,3,0,0,0,0,0,0,1,3,0,0,0,1,17:06,0:00,0:56,NA
+2018020373,8475279,Ben Chiarot,Winnipeg Jets,Pittsburgh Penguins,D,18:45,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,17:59,0:00,0:46,NA
+2018020373,8476885,Jacob Trouba,Winnipeg Jets,Pittsburgh Penguins,D,20:42,0,0,1,2,0,0,0,0,0,1,1,0,0,0,-1,19:14,0:24,1:04,NA
+2018020373,8477940,Nikolaj Ehlers,Winnipeg Jets,Pittsburgh Penguins,LW,16:51,2,0,2,0,0,0,0,0,0,0,2,0,0,0,0,16:19,0:32,0:00,NA
+2018020373,8477962,Brendan Lemieux,Winnipeg Jets,Pittsburgh Penguins,LW,4:32,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4:32,0:00,0:00,NA
+2018020373,8476460,Mark Scheifele,Winnipeg Jets,Pittsburgh Penguins,C,22:35,0,2,3,0,0,0,0,9,14,1,1,0,0,1,1,18:35,3:28,0:32,64.29
+2018020373,8477464,Nic Petan,Winnipeg Jets,Pittsburgh Penguins,LW,5:09,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1,5:09,0:00,0:00,NA
+2018020373,8478398,Kyle Connor,Winnipeg Jets,Pittsburgh Penguins,LW,22:16,0,0,3,0,0,0,0,0,0,0,3,0,0,1,-1,18:07,3:28,0:41,NA
+2018020373,8476392,Adam Lowry,Winnipeg Jets,Pittsburgh Penguins,C,15:29,1,0,0,3,0,0,0,7,12,0,0,0,1,0,0,14:42,0:00,0:47,58.33
+2018020373,8479293,Brandon Tanev,Winnipeg Jets,Pittsburgh Penguins,LW,14:45,0,1,3,3,0,0,0,0,0,0,0,1,0,0,1,13:58,0:00,0:47,NA
+2018020373,8471724,Kris Letang,Pittsburgh Penguins,Winnipeg Jets,D,25:57,1,0,1,1,0,0,0,0,0,0,1,0,0,3,0,22:10,1:22,2:25,NA
+2018020373,8475208,Brian Dumoulin,Pittsburgh Penguins,Winnipeg Jets,D,20:01,0,0,3,2,0,0,4,0,0,0,0,0,0,0,2,20:01,0:00,0:00,NA
+2018020373,8473544,Derick Brassard,Pittsburgh Penguins,Winnipeg Jets,C,13:54,0,0,2,0,0,0,0,4,7,0,0,0,0,0,1,12:50,1:04,0:00,57.14
+2018020373,8471675,Sidney Crosby,Pittsburgh Penguins,Winnipeg Jets,C,20:07,0,1,3,2,0,0,0,9,22,0,0,0,0,1,0,18:10,1:57,0:00,40.91
+2018020373,8477404,Jake Guentzel,Pittsburgh Penguins,Winnipeg Jets,LW,17:30,1,0,0,0,0,0,0,0,1,1,0,0,0,2,1,16:44,0:46,0:00,0
+2018020373,8478866,Dominik Simon,Pittsburgh Penguins,Winnipeg Jets,C,15:40,1,0,3,1,0,0,0,0,0,0,1,0,0,1,1,15:40,0:00,0:00,NA
+2018020373,8473548,Phil Kessel,Pittsburgh Penguins,Winnipeg Jets,RW,16:34,1,0,1,0,0,0,0,0,1,0,1,0,0,0,-1,14:44,1:50,0:00,0
+2018020373,8475810,Bryan Rust,Pittsburgh Penguins,Winnipeg Jets,RW,15:55,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-1,14:29,0:03,1:23,NA
+2018020373,8479944,Zach Aston-Reese,Pittsburgh Penguins,Winnipeg Jets,C,15:58,0,1,2,0,0,0,0,0,1,1,0,0,0,0,1,13:18,0:03,2:37,0
+2018020373,8471215,Evgeni Malkin,Pittsburgh Penguins,Winnipeg Jets,C,17:58,0,0,2,0,0,0,0,5,12,1,0,0,0,0,-3,16:01,1:57,0:00,41.67
+2018020373,8471677,Jack Johnson,Pittsburgh Penguins,Winnipeg Jets,D,18:06,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,15:56,0:00,2:10,NA
+2018020373,8476871,Tanner Pearson,Pittsburgh Penguins,Winnipeg Jets,LW,14:14,0,0,3,1,0,0,0,0,0,0,0,0,0,2,-2,14:14,0:00,0:00,NA
+2018020373,8475772,Riley Sheahan,Pittsburgh Penguins,Winnipeg Jets,C,11:58,0,1,2,1,0,0,0,3,4,0,0,0,0,2,1,9:21,0:00,2:37,75
+2018020373,8474683,Derek Grant,Pittsburgh Penguins,Winnipeg Jets,C,9:34,1,1,1,0,0,0,0,1,2,0,0,0,0,0,2,8:01,0:10,1:23,50
+2018020373,8476874,Olli Maatta,Pittsburgh Penguins,Winnipeg Jets,D,20:25,1,0,1,2,0,0,0,0,0,0,2,0,0,0,0,18:12,0:38,1:35,NA
+2018020373,8476467,Jamie Oleksiak,Pittsburgh Penguins,Winnipeg Jets,D,16:52,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,15:02,0:00,1:50,NA
+2018020373,8480945,Juuso Riikola,Pittsburgh Penguins,Winnipeg Jets,D,17:36,0,0,1,2,0,0,0,0,0,2,0,0,0,0,1,17:26,0:10,0:00,NA
+2018020373,8475253,Garrett Wilson,Pittsburgh Penguins,Winnipeg Jets,LW,7:41,1,0,0,3,0,0,0,0,0,1,0,0,0,1,2,7:41,0:00,0:00,NA

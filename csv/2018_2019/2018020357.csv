@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020357,8470604,Jeff Carter,Los Angeles Kings,C,20:28,1,0,2,0,0,1,0,64.29,9,14,0,0,0,0,0,-1,15:43,4:15,0:30
-2018020357,8470602,Dion Phaneuf,Los Angeles Kings,D,15:11,0,0,0,5,0,0,0,NA,0,0,1,1,0,0,0,-2,14:14,0:57,0:00
-2018020357,8470606,Dustin Brown,Los Angeles Kings,RW,18:42,0,0,3,0,0,0,0,NA,0,0,1,0,0,0,0,-2,14:53,3:49,0:00
-2018020357,8471685,Anze Kopitar,Los Angeles Kings,C,22:58,1,0,0,0,0,1,0,66.67,10,15,0,1,0,0,0,-2,18:25,4:33,0:00
-2018020357,8475726,Tyler Toffoli,Los Angeles Kings,RW,19:03,0,0,2,1,0,0,0,NA,0,0,0,1,0,0,1,0,14:57,3:36,0:30
-2018020357,8470775,Nate Thompson,Los Angeles Kings,C,12:24,0,0,0,1,0,0,0,44.44,4,9,1,0,0,0,0,0,11:20,0:27,0:37
-2018020357,8477960,Adrian Kempe,Los Angeles Kings,C,14:42,1,0,2,0,0,0,0,57.14,4,7,0,0,0,0,0,0,14:15,0:27,0:00
-2018020357,8478455,Austin Wagner,Los Angeles Kings,LW,8:08,0,0,4,0,0,0,0,NA,0,0,0,0,0,0,0,0,8:08,0:00,0:00
-2018020357,8474162,Jake Muzzin,Los Angeles Kings,D,21:03,0,0,3,2,0,0,2,NA,0,0,0,3,0,0,1,0,20:36,0:27,0:00
-2018020357,8474563,Drew Doughty,Los Angeles Kings,D,23:43,0,1,3,2,1,0,0,NA,0,0,0,2,0,0,0,0,18:47,3:49,1:07
-2018020357,8475762,Derek Forbort,Los Angeles Kings,D,19:49,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,1,0,19:12,0:00,0:37
-2018020357,8479644,Matt Luff,Los Angeles Kings,RW,12:39,0,1,1,1,0,0,0,100,1,1,1,1,0,0,2,1,12:39,0:00,0:00
-2018020357,8474166,Alec Martinez,Los Angeles Kings,D,23:13,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,2,-1,22:13,0:30,0:30
-2018020357,8474176,Carl Hagelin,Los Angeles Kings,LW,14:13,1,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,13:34,0:00,0:39
-2018020357,8469454,Ilya Kovalchuk,Los Angeles Kings,LW,13:23,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,-1,12:56,0:27,0:00
-2018020357,8475160,Kyle Clifford,Los Angeles Kings,LW,10:34,0,0,1,2,0,0,2,NA,0,0,0,0,0,0,0,0,10:34,0:00,0:00
-2018020357,8480113,Alex Iafallo,Los Angeles Kings,LW,16:35,0,0,0,2,0,0,0,NA,0,0,0,0,0,0,0,-2,15:25,1:10,0:00
-2018020357,8480147,Oscar Fantenberg,Los Angeles Kings,D,12:06,0,0,0,2,0,0,0,NA,0,0,0,2,0,0,0,-1,12:06,0:00,0:00
-2018020357,8470626,Loui Eriksson,Vancouver Canucks,LW,15:51,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,1,15:00,0:00,0:51
-2018020357,8474849,Antoine Roussel,Vancouver Canucks,LW,17:56,0,0,2,2,0,0,0,0,0,1,0,1,0,0,2,0,15:05,0:00,2:51
-2018020357,8477958,Nikolay Goldobin,Vancouver Canucks,RW,15:55,1,0,2,0,0,0,0,NA,0,0,0,0,0,0,1,1,14:18,1:07,0:30
-2018020357,8477937,Jake Virtanen,Vancouver Canucks,RW,20:17,1,0,1,0,0,0,0,NA,0,0,2,0,0,0,1,1,20:17,0:00,0:00
-2018020357,8477018,Ben Hutton,Vancouver Canucks,D,23:56,0,0,3,0,0,0,0,NA,0,0,0,1,0,0,2,-1,22:40,0:00,1:16
-2018020357,8473415,Alex Biega,Vancouver Canucks,D,15:41,0,0,2,3,0,0,0,NA,0,0,0,3,0,0,0,1,15:41,0:00,0:00
-2018020357,8471303,Alexander Edler,Vancouver Canucks,D,16:19,0,0,1,0,0,0,4,NA,0,0,0,0,0,0,0,1,15:12,1:07,0:00
-2018020357,8478874,Adam Gaudette,Vancouver Canucks,C,9:15,0,1,1,0,0,0,0,75,3,4,0,0,0,0,0,1,9:15,0:00,0:00
-2018020357,8474584,Michael Del Zotto,Vancouver Canucks,D,20:11,0,0,3,4,0,0,0,NA,0,0,0,0,0,0,3,2,16:41,0:00,3:30
-2018020357,8476894,Brendan Leipsic,Vancouver Canucks,LW,7:33,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,0,7:33,0:00,0:00
-2018020357,8476423,Reid Boucher,Vancouver Canucks,C,5:28,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,5:28,0:00,0:00
-2018020357,8477500,Bo Horvat,Vancouver Canucks,C,16:55,1,0,4,0,0,1,0,38.1,8,21,0,0,0,0,0,0,15:04,1:07,0:44
-2018020357,8474040,Sam Gagner,Vancouver Canucks,C,16:18,0,1,2,0,1,0,2,100,1,1,0,0,0,0,0,0,15:11,1:07,0:00
-2018020357,8475690,Christopher Tanev,Vancouver Canucks,D,20:53,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,3,1,17:38,0:00,3:15
-2018020357,8475790,Erik Gudbranson,Vancouver Canucks,D,22:19,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,2,0,20:48,0:00,1:31
-2018020357,8476440,Markus Granlund,Vancouver Canucks,C,21:56,0,0,2,0,0,0,0,28.57,2,7,0,0,0,0,0,-1,18:29,0:00,3:27
-2018020357,8477353,Tyler Motte,Vancouver Canucks,C,12:53,0,1,1,3,0,0,0,NA,0,0,0,0,1,0,0,1,11:44,0:00,1:09
-2018020357,8480012,Elias Pettersson,Vancouver Canucks,C,14:08,1,1,1,0,0,1,0,38.46,5,13,0,2,0,0,2,1,13:01,1:07,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020357,8470604,Jeff Carter,Los Angeles Kings,Vancouver Canucks,C,20:28,1,0,2,0,0,1,0,64.29,9,14,0,0,0,0,0,-1,15:43,4:15,0:30
+2018020357,8470602,Dion Phaneuf,Los Angeles Kings,Vancouver Canucks,D,15:11,0,0,0,5,0,0,0,NA,0,0,1,1,0,0,0,-2,14:14,0:57,0:00
+2018020357,8470606,Dustin Brown,Los Angeles Kings,Vancouver Canucks,RW,18:42,0,0,3,0,0,0,0,NA,0,0,1,0,0,0,0,-2,14:53,3:49,0:00
+2018020357,8471685,Anze Kopitar,Los Angeles Kings,Vancouver Canucks,C,22:58,1,0,0,0,0,1,0,66.67,10,15,0,1,0,0,0,-2,18:25,4:33,0:00
+2018020357,8475726,Tyler Toffoli,Los Angeles Kings,Vancouver Canucks,RW,19:03,0,0,2,1,0,0,0,NA,0,0,0,1,0,0,1,0,14:57,3:36,0:30
+2018020357,8470775,Nate Thompson,Los Angeles Kings,Vancouver Canucks,C,12:24,0,0,0,1,0,0,0,44.44,4,9,1,0,0,0,0,0,11:20,0:27,0:37
+2018020357,8477960,Adrian Kempe,Los Angeles Kings,Vancouver Canucks,C,14:42,1,0,2,0,0,0,0,57.14,4,7,0,0,0,0,0,0,14:15,0:27,0:00
+2018020357,8478455,Austin Wagner,Los Angeles Kings,Vancouver Canucks,LW,8:08,0,0,4,0,0,0,0,NA,0,0,0,0,0,0,0,0,8:08,0:00,0:00
+2018020357,8474162,Jake Muzzin,Los Angeles Kings,Vancouver Canucks,D,21:03,0,0,3,2,0,0,2,NA,0,0,0,3,0,0,1,0,20:36,0:27,0:00
+2018020357,8474563,Drew Doughty,Los Angeles Kings,Vancouver Canucks,D,23:43,0,1,3,2,1,0,0,NA,0,0,0,2,0,0,0,0,18:47,3:49,1:07
+2018020357,8475762,Derek Forbort,Los Angeles Kings,Vancouver Canucks,D,19:49,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,1,0,19:12,0:00,0:37
+2018020357,8479644,Matt Luff,Los Angeles Kings,Vancouver Canucks,RW,12:39,0,1,1,1,0,0,0,100,1,1,1,1,0,0,2,1,12:39,0:00,0:00
+2018020357,8474166,Alec Martinez,Los Angeles Kings,Vancouver Canucks,D,23:13,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,2,-1,22:13,0:30,0:30
+2018020357,8474176,Carl Hagelin,Los Angeles Kings,Vancouver Canucks,LW,14:13,1,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,13:34,0:00,0:39
+2018020357,8469454,Ilya Kovalchuk,Los Angeles Kings,Vancouver Canucks,LW,13:23,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,-1,12:56,0:27,0:00
+2018020357,8475160,Kyle Clifford,Los Angeles Kings,Vancouver Canucks,LW,10:34,0,0,1,2,0,0,2,NA,0,0,0,0,0,0,0,0,10:34,0:00,0:00
+2018020357,8480113,Alex Iafallo,Los Angeles Kings,Vancouver Canucks,LW,16:35,0,0,0,2,0,0,0,NA,0,0,0,0,0,0,0,-2,15:25,1:10,0:00
+2018020357,8480147,Oscar Fantenberg,Los Angeles Kings,Vancouver Canucks,D,12:06,0,0,0,2,0,0,0,NA,0,0,0,2,0,0,0,-1,12:06,0:00,0:00
+2018020357,8470626,Loui Eriksson,Vancouver Canucks,Los Angeles Kings,LW,15:51,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,1,15:00,0:00,0:51
+2018020357,8474849,Antoine Roussel,Vancouver Canucks,Los Angeles Kings,LW,17:56,0,0,2,2,0,0,0,0,0,1,0,1,0,0,2,0,15:05,0:00,2:51
+2018020357,8477958,Nikolay Goldobin,Vancouver Canucks,Los Angeles Kings,RW,15:55,1,0,2,0,0,0,0,NA,0,0,0,0,0,0,1,1,14:18,1:07,0:30
+2018020357,8477937,Jake Virtanen,Vancouver Canucks,Los Angeles Kings,RW,20:17,1,0,1,0,0,0,0,NA,0,0,2,0,0,0,1,1,20:17,0:00,0:00
+2018020357,8477018,Ben Hutton,Vancouver Canucks,Los Angeles Kings,D,23:56,0,0,3,0,0,0,0,NA,0,0,0,1,0,0,2,-1,22:40,0:00,1:16
+2018020357,8473415,Alex Biega,Vancouver Canucks,Los Angeles Kings,D,15:41,0,0,2,3,0,0,0,NA,0,0,0,3,0,0,0,1,15:41,0:00,0:00
+2018020357,8471303,Alexander Edler,Vancouver Canucks,Los Angeles Kings,D,16:19,0,0,1,0,0,0,4,NA,0,0,0,0,0,0,0,1,15:12,1:07,0:00
+2018020357,8478874,Adam Gaudette,Vancouver Canucks,Los Angeles Kings,C,9:15,0,1,1,0,0,0,0,75,3,4,0,0,0,0,0,1,9:15,0:00,0:00
+2018020357,8474584,Michael Del Zotto,Vancouver Canucks,Los Angeles Kings,D,20:11,0,0,3,4,0,0,0,NA,0,0,0,0,0,0,3,2,16:41,0:00,3:30
+2018020357,8476894,Brendan Leipsic,Vancouver Canucks,Los Angeles Kings,LW,7:33,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,0,7:33,0:00,0:00
+2018020357,8476423,Reid Boucher,Vancouver Canucks,Los Angeles Kings,C,5:28,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,5:28,0:00,0:00
+2018020357,8477500,Bo Horvat,Vancouver Canucks,Los Angeles Kings,C,16:55,1,0,4,0,0,1,0,38.1,8,21,0,0,0,0,0,0,15:04,1:07,0:44
+2018020357,8474040,Sam Gagner,Vancouver Canucks,Los Angeles Kings,C,16:18,0,1,2,0,1,0,2,100,1,1,0,0,0,0,0,0,15:11,1:07,0:00
+2018020357,8475690,Christopher Tanev,Vancouver Canucks,Los Angeles Kings,D,20:53,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,3,1,17:38,0:00,3:15
+2018020357,8475790,Erik Gudbranson,Vancouver Canucks,Los Angeles Kings,D,22:19,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,2,0,20:48,0:00,1:31
+2018020357,8476440,Markus Granlund,Vancouver Canucks,Los Angeles Kings,C,21:56,0,0,2,0,0,0,0,28.57,2,7,0,0,0,0,0,-1,18:29,0:00,3:27
+2018020357,8477353,Tyler Motte,Vancouver Canucks,Los Angeles Kings,C,12:53,0,1,1,3,0,0,0,NA,0,0,0,0,1,0,0,1,11:44,0:00,1:09
+2018020357,8480012,Elias Pettersson,Vancouver Canucks,Los Angeles Kings,C,14:08,1,1,1,0,0,1,0,38.46,5,13,0,2,0,0,2,1,13:01,1:07,0:00

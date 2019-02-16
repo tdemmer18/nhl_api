@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020578,8470606,Dustin Brown,Los Angeles Kings,RW,22:59,0,1,2,1,0,0,0,0,0,1,0,0,0,0,1,18:17,2:01,2:41,NA
-2018020578,8471685,Anze Kopitar,Los Angeles Kings,C,24:12,1,0,0,0,0,0,2,17,33,0,0,0,0,0,1,19:33,2:01,2:38,51.52
-2018020578,8475726,Tyler Toffoli,Los Angeles Kings,RW,15:33,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,11:43,2:01,1:49,NA
-2018020578,8470775,Nate Thompson,Los Angeles Kings,C,16:18,0,0,0,1,0,0,0,6,11,1,1,0,0,1,1,14:07,0:01,2:10,54.55
-2018020578,8477960,Adrian Kempe,Los Angeles Kings,C,14:23,0,0,2,1,0,0,0,4,15,0,0,0,0,1,0,12:25,1:58,0:00,26.67
-2018020578,8476894,Brendan Leipsic,Los Angeles Kings,LW,14:52,1,0,3,1,0,0,0,0,0,0,0,0,0,0,1,12:54,1:58,0:00,NA
-2018020578,8478455,Austin Wagner,Los Angeles Kings,LW,8:37,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,8:36,0:01,0:00,NA
-2018020578,8476983,Paul LaDue,Los Angeles Kings,D,11:04,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,11:03,0:01,0:00,NA
-2018020578,8474162,Jake Muzzin,Los Angeles Kings,D,21:12,0,1,2,2,0,0,0,0,0,0,2,0,0,0,1,18:19,1:34,1:19,NA
-2018020578,8474563,Drew Doughty,Los Angeles Kings,D,28:14,1,0,3,1,0,0,0,0,0,1,2,0,0,2,1,22:17,2:25,3:32,NA
-2018020578,8475762,Derek Forbort,Los Angeles Kings,D,23:37,0,0,1,2,0,0,0,0,1,0,1,0,0,2,1,19:53,0:00,3:44,0
-2018020578,8479644,Matt Luff,Los Angeles Kings,RW,9:23,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,7:25,1:58,0:00,NA
-2018020578,8469454,Ilya Kovalchuk,Los Angeles Kings,LW,12:56,0,0,2,0,0,0,2,1,1,0,2,0,0,0,0,10:49,2:07,0:00,100
-2018020578,8475160,Kyle Clifford,Los Angeles Kings,LW,11:21,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,11:21,0:00,0:00,NA
-2018020578,8478020,Michael Amadio,Los Angeles Kings,C,9:30,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,9:29,0:01,0:00,0
-2018020578,8480113,Alex Iafallo,Los Angeles Kings,LW,19:08,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,16:28,1:52,0:48,NA
-2018020578,8480147,Oscar Fantenberg,Los Angeles Kings,D,14:09,0,0,2,0,0,0,0,0,0,0,0,0,0,6,0,12:37,0:01,1:31,NA
-2018020578,8480336,Sean Walker,Los Angeles Kings,D,17:37,0,0,3,2,0,0,0,0,0,0,1,0,0,0,1,17:37,0:00,0:00,NA
-2018020578,8471769,Niklas Hjalmarsson,Arizona Coyotes,D,19:40,0,0,0,0,0,0,0,0,0,0,1,0,0,2,-2,16:27,0:00,3:13,NA
-2018020578,8474613,Derek Stepan,Arizona Coyotes,C,23:11,0,0,4,1,0,0,0,19,30,0,0,0,0,0,-1,16:41,4:06,2:24,63.33
-2018020578,8475209,Richard Panik,Arizona Coyotes,RW,20:17,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-1,14:21,4:18,1:38,NA
-2018020578,8478856,Conor Garland,Arizona Coyotes,RW,11:41,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,10:44,0:57,0:00,NA
-2018020578,8476326,Josh Archibald,Arizona Coyotes,RW,13:33,0,0,2,5,0,0,0,0,0,0,0,0,0,4,-1,11:39,0:00,1:54,NA
-2018020578,8474131,Mario Kempe,Arizona Coyotes,RW,10:10,0,0,0,6,0,0,0,3,7,0,0,0,0,1,0,9:24,0:00,0:46,42.86
-2018020578,8477851,Jordan Oesterle,Arizona Coyotes,D,15:06,0,0,1,0,0,0,2,0,0,0,1,0,0,2,0,14:32,0:00,0:34,NA
-2018020578,8476851,Alex Galchenyuk,Arizona Coyotes,C,16:31,1,0,3,0,0,1,0,2,4,0,0,0,0,0,0,15:34,0:57,0:00,50
-2018020578,8477951,Nick Schmaltz,Arizona Coyotes,C,19:03,0,0,0,0,0,0,0,4,9,0,0,0,0,0,0,14:57,4:06,0:00,44.44
-2018020578,8471274,Alex Goligoski,Arizona Coyotes,D,21:09,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,18:35,0:32,2:02,NA
-2018020578,8478474,Lawson Crouse,Arizona Coyotes,LW,11:59,0,0,1,1,0,0,0,0,0,1,0,0,0,0,-1,10:28,0:00,1:31,NA
-2018020578,8479345,Jakob Chychrun,Arizona Coyotes,D,21:23,0,1,2,2,1,0,2,0,0,0,1,0,0,3,0,20:43,0:40,0:00,NA
-2018020578,8478432,Christian Fischer,Arizona Coyotes,RW,12:53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12:08,0:45,0:00,NA
-2018020578,8478047,Michael Bunting,Arizona Coyotes,LW,9:36,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,9:36,0:00,0:00,NA
-2018020578,8479343,Clayton Keller,Arizona Coyotes,C,21:48,0,0,3,0,0,0,0,3,4,0,0,0,0,0,-1,17:25,4:23,0:00,75
-2018020578,8475171,Oliver Ekman-Larsson,Arizona Coyotes,D,24:49,0,0,2,1,0,0,0,0,0,0,0,0,0,0,-2,18:20,4:31,1:58,NA
-2018020578,8476393,Nick Cousins,Arizona Coyotes,C,11:40,0,0,2,1,0,0,2,3,8,0,0,0,0,0,-1,11:40,0:00,0:00,37.5
-2018020578,8480950,Ilya Lyubushkin,Arizona Coyotes,D,13:24,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,13:24,0:00,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020578,8470606,Dustin Brown,Los Angeles Kings,Arizona Coyotes,RW,22:59,0,1,2,1,0,0,0,0,0,1,0,0,0,0,1,18:17,2:01,2:41,NA
+2018020578,8471685,Anze Kopitar,Los Angeles Kings,Arizona Coyotes,C,24:12,1,0,0,0,0,0,2,17,33,0,0,0,0,0,1,19:33,2:01,2:38,51.52
+2018020578,8475726,Tyler Toffoli,Los Angeles Kings,Arizona Coyotes,RW,15:33,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,11:43,2:01,1:49,NA
+2018020578,8470775,Nate Thompson,Los Angeles Kings,Arizona Coyotes,C,16:18,0,0,0,1,0,0,0,6,11,1,1,0,0,1,1,14:07,0:01,2:10,54.55
+2018020578,8477960,Adrian Kempe,Los Angeles Kings,Arizona Coyotes,C,14:23,0,0,2,1,0,0,0,4,15,0,0,0,0,1,0,12:25,1:58,0:00,26.67
+2018020578,8476894,Brendan Leipsic,Los Angeles Kings,Arizona Coyotes,LW,14:52,1,0,3,1,0,0,0,0,0,0,0,0,0,0,1,12:54,1:58,0:00,NA
+2018020578,8478455,Austin Wagner,Los Angeles Kings,Arizona Coyotes,LW,8:37,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,8:36,0:01,0:00,NA
+2018020578,8476983,Paul LaDue,Los Angeles Kings,Arizona Coyotes,D,11:04,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,11:03,0:01,0:00,NA
+2018020578,8474162,Jake Muzzin,Los Angeles Kings,Arizona Coyotes,D,21:12,0,1,2,2,0,0,0,0,0,0,2,0,0,0,1,18:19,1:34,1:19,NA
+2018020578,8474563,Drew Doughty,Los Angeles Kings,Arizona Coyotes,D,28:14,1,0,3,1,0,0,0,0,0,1,2,0,0,2,1,22:17,2:25,3:32,NA
+2018020578,8475762,Derek Forbort,Los Angeles Kings,Arizona Coyotes,D,23:37,0,0,1,2,0,0,0,0,1,0,1,0,0,2,1,19:53,0:00,3:44,0
+2018020578,8479644,Matt Luff,Los Angeles Kings,Arizona Coyotes,RW,9:23,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,7:25,1:58,0:00,NA
+2018020578,8469454,Ilya Kovalchuk,Los Angeles Kings,Arizona Coyotes,LW,12:56,0,0,2,0,0,0,2,1,1,0,2,0,0,0,0,10:49,2:07,0:00,100
+2018020578,8475160,Kyle Clifford,Los Angeles Kings,Arizona Coyotes,LW,11:21,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,11:21,0:00,0:00,NA
+2018020578,8478020,Michael Amadio,Los Angeles Kings,Arizona Coyotes,C,9:30,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,9:29,0:01,0:00,0
+2018020578,8480113,Alex Iafallo,Los Angeles Kings,Arizona Coyotes,LW,19:08,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,16:28,1:52,0:48,NA
+2018020578,8480147,Oscar Fantenberg,Los Angeles Kings,Arizona Coyotes,D,14:09,0,0,2,0,0,0,0,0,0,0,0,0,0,6,0,12:37,0:01,1:31,NA
+2018020578,8480336,Sean Walker,Los Angeles Kings,Arizona Coyotes,D,17:37,0,0,3,2,0,0,0,0,0,0,1,0,0,0,1,17:37,0:00,0:00,NA
+2018020578,8471769,Niklas Hjalmarsson,Arizona Coyotes,Los Angeles Kings,D,19:40,0,0,0,0,0,0,0,0,0,0,1,0,0,2,-2,16:27,0:00,3:13,NA
+2018020578,8474613,Derek Stepan,Arizona Coyotes,Los Angeles Kings,C,23:11,0,0,4,1,0,0,0,19,30,0,0,0,0,0,-1,16:41,4:06,2:24,63.33
+2018020578,8475209,Richard Panik,Arizona Coyotes,Los Angeles Kings,RW,20:17,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-1,14:21,4:18,1:38,NA
+2018020578,8478856,Conor Garland,Arizona Coyotes,Los Angeles Kings,RW,11:41,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,10:44,0:57,0:00,NA
+2018020578,8476326,Josh Archibald,Arizona Coyotes,Los Angeles Kings,RW,13:33,0,0,2,5,0,0,0,0,0,0,0,0,0,4,-1,11:39,0:00,1:54,NA
+2018020578,8474131,Mario Kempe,Arizona Coyotes,Los Angeles Kings,RW,10:10,0,0,0,6,0,0,0,3,7,0,0,0,0,1,0,9:24,0:00,0:46,42.86
+2018020578,8477851,Jordan Oesterle,Arizona Coyotes,Los Angeles Kings,D,15:06,0,0,1,0,0,0,2,0,0,0,1,0,0,2,0,14:32,0:00,0:34,NA
+2018020578,8476851,Alex Galchenyuk,Arizona Coyotes,Los Angeles Kings,C,16:31,1,0,3,0,0,1,0,2,4,0,0,0,0,0,0,15:34,0:57,0:00,50
+2018020578,8477951,Nick Schmaltz,Arizona Coyotes,Los Angeles Kings,C,19:03,0,0,0,0,0,0,0,4,9,0,0,0,0,0,0,14:57,4:06,0:00,44.44
+2018020578,8471274,Alex Goligoski,Arizona Coyotes,Los Angeles Kings,D,21:09,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,18:35,0:32,2:02,NA
+2018020578,8478474,Lawson Crouse,Arizona Coyotes,Los Angeles Kings,LW,11:59,0,0,1,1,0,0,0,0,0,1,0,0,0,0,-1,10:28,0:00,1:31,NA
+2018020578,8479345,Jakob Chychrun,Arizona Coyotes,Los Angeles Kings,D,21:23,0,1,2,2,1,0,2,0,0,0,1,0,0,3,0,20:43,0:40,0:00,NA
+2018020578,8478432,Christian Fischer,Arizona Coyotes,Los Angeles Kings,RW,12:53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12:08,0:45,0:00,NA
+2018020578,8478047,Michael Bunting,Arizona Coyotes,Los Angeles Kings,LW,9:36,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,9:36,0:00,0:00,NA
+2018020578,8479343,Clayton Keller,Arizona Coyotes,Los Angeles Kings,C,21:48,0,0,3,0,0,0,0,3,4,0,0,0,0,0,-1,17:25,4:23,0:00,75
+2018020578,8475171,Oliver Ekman-Larsson,Arizona Coyotes,Los Angeles Kings,D,24:49,0,0,2,1,0,0,0,0,0,0,0,0,0,0,-2,18:20,4:31,1:58,NA
+2018020578,8476393,Nick Cousins,Arizona Coyotes,Los Angeles Kings,C,11:40,0,0,2,1,0,0,2,3,8,0,0,0,0,0,-1,11:40,0:00,0:00,37.5
+2018020578,8480950,Ilya Lyubushkin,Arizona Coyotes,Los Angeles Kings,D,13:24,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,13:24,0:00,0:00,NA

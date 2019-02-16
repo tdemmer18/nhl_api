@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020380,8470966,Mark Giordano,Calgary Flames,D,24:09,1,1,2,0,0,1,0,0,0,1,1,0,0,1,-1,17:19,5:14,1:36,NA
-2018020380,8471707,James Neal,Calgary Flames,LW,18:03,0,0,1,2,0,0,0,0,0,0,2,0,0,0,1,14:45,3:18,0:00,NA
-2018020380,8477903,Garnet Hathaway,Calgary Flames,RW,8:54,0,1,1,1,0,0,0,0,0,1,0,0,0,0,1,8:06,0:01,0:47,NA
-2018020380,8477935,Sam Bennett,Calgary Flames,C,16:43,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,13:41,3:02,0:00,NA
-2018020380,8474612,Travis Hamonic,Calgary Flames,D,20:22,0,0,1,0,0,0,2,0,0,0,0,0,0,0,-1,18:59,0:01,1:22,NA
-2018020380,8474673,TJ Brodie,Calgary Flames,D,20:20,1,0,3,0,0,0,0,0,0,0,2,0,0,0,0,19:18,0:01,1:01,NA
-2018020380,8479346,Dillon Dube,Calgary Flames,C,8:00,1,0,0,0,0,0,2,0,0,0,0,0,0,1,1,7:59,0:01,0:00,NA
-2018020380,8476873,Mark Jankowski,Calgary Flames,C,11:17,1,0,3,1,0,0,0,8,10,2,1,0,0,2,1,10:43,0:01,0:33,80
-2018020380,8474150,Mikael Backlund,Calgary Flames,C,19:07,1,0,2,1,0,0,0,3,13,0,0,0,0,0,1,14:59,3:04,1:04,23.08
-2018020380,8476346,Johnny Gaudreau,Calgary Flames,LW,21:53,0,1,1,0,1,0,0,0,0,0,2,0,0,0,-3,16:49,5:04,0:00,NA
-2018020380,8479314,Matthew Tkachuk,Calgary Flames,LW,18:41,0,0,3,0,0,0,0,0,0,2,2,0,0,0,-1,13:35,5:06,0:00,NA
-2018020380,8478512,Austin Czarnik,Calgary Flames,C,7:11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7:07,0:04,0:00,NA
-2018020380,8478397,Rasmus Andersson,Calgary Flames,D,14:26,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,14:16,0:04,0:06,NA
-2018020380,8478430,Oliver Kylington,Calgary Flames,D,11:32,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,11:32,0:00,0:00,NA
-2018020380,8478396,Noah Hanifin,Calgary Flames,D,21:19,0,0,5,1,0,0,0,0,0,1,2,0,0,1,-1,17:40,2:58,0:41,NA
-2018020380,8477497,Sean Monahan,Calgary Flames,C,21:12,0,0,3,0,0,0,0,4,14,1,0,0,0,0,-3,16:12,5:00,0:00,28.57
-2018020380,8478585,Derek Ryan,Calgary Flames,C,16:24,0,0,0,0,0,0,0,7,11,1,0,0,0,0,0,12:24,3:17,0:43,63.64
-2018020380,8477496,Elias Lindholm,Calgary Flames,C,19:30,1,0,6,0,0,1,0,8,14,1,0,0,0,0,-1,13:02,4:49,1:39,57.14
-2018020380,8476913,Devin Shore,Dallas Stars,C,15:40,0,0,1,0,0,0,0,0,1,0,1,0,0,3,-1,12:37,1:06,1:57,0
-2018020380,8476902,Esa Lindell,Dallas Stars,D,24:49,0,0,3,1,0,0,4,0,0,0,2,0,0,3,-1,21:26,0:48,2:35,NA
-2018020380,8473994,Jamie Benn,Dallas Stars,LW,16:49,1,1,2,1,1,0,4,1,5,0,0,0,0,3,2,15:11,1:33,0:05,20
-2018020380,8478449,Roope Hintz,Dallas Stars,LW,12:28,0,0,1,0,0,0,0,4,10,1,1,0,0,0,-2,11:12,1:16,0:00,40
-2018020380,8477810,Joel Hanley,Dallas Stars,D,11:17,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,11:16,0:00,0:01,NA
-2018020380,8471228,Alexander Radulov,Dallas Stars,RW,18:46,0,0,3,0,0,0,0,0,0,1,0,0,0,3,1,17:13,1:33,0:00,NA
-2018020380,8477406,Mattias Janmark,Dallas Stars,C,15:50,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,13:53,0:00,1:57,NA
-2018020380,8476889,Radek Faksa,Dallas Stars,C,12:09,1,0,2,1,0,0,0,2,8,1,1,0,0,0,1,10:00,0:00,2:09,25
-2018020380,8479945,Gavin Bayreuther,Dallas Stars,D,20:32,1,1,1,1,0,1,2,0,0,2,1,0,0,2,1,17:18,1:13,2:01,NA
-2018020380,8471260,Blake Comeau,Dallas Stars,LW,15:53,0,0,2,1,0,0,0,0,0,0,0,0,0,2,0,11:51,0:00,4:02,NA
-2018020380,8471392,Roman Polak,Dallas Stars,D,23:09,0,0,1,2,0,0,0,0,0,1,2,0,0,1,0,18:02,0:00,5:07,NA
-2018020380,8475794,Tyler Seguin,Dallas Stars,C,19:52,1,1,2,0,0,1,0,11,19,0,1,0,0,0,2,17:26,1:06,1:20,57.89
-2018020380,8477501,Valeri Nichushkin,Dallas Stars,RW,8:11,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,7:54,0:17,0:00,NA
-2018020380,8475752,Tyler Pitlick,Dallas Stars,C,9:57,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,8:19,0:33,1:05,NA
-2018020380,8477450,Jason Dickinson,Dallas Stars,C,15:40,0,0,2,0,0,0,0,9,10,1,0,0,0,1,0,11:48,0:01,3:51,90
-2018020380,8476166,Taylor Fedun,Dallas Stars,D,15:00,0,0,0,0,0,0,0,0,0,1,2,0,0,1,1,11:51,0:00,3:09,NA
-2018020380,8469455,Jason Spezza,Dallas Stars,C,12:50,0,1,1,0,0,0,0,5,9,0,1,0,0,0,-1,11:33,1:17,0:00,55.56
-2018020380,8480036,Miro Heiskanen,Dallas Stars,D,24:38,1,0,1,0,0,0,0,0,0,1,0,0,0,5,0,19:53,1:12,3:33,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020380,8470966,Mark Giordano,Calgary Flames,Dallas Stars,D,24:09,1,1,2,0,0,1,0,0,0,1,1,0,0,1,-1,17:19,5:14,1:36,NA
+2018020380,8471707,James Neal,Calgary Flames,Dallas Stars,LW,18:03,0,0,1,2,0,0,0,0,0,0,2,0,0,0,1,14:45,3:18,0:00,NA
+2018020380,8477903,Garnet Hathaway,Calgary Flames,Dallas Stars,RW,8:54,0,1,1,1,0,0,0,0,0,1,0,0,0,0,1,8:06,0:01,0:47,NA
+2018020380,8477935,Sam Bennett,Calgary Flames,Dallas Stars,C,16:43,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,13:41,3:02,0:00,NA
+2018020380,8474612,Travis Hamonic,Calgary Flames,Dallas Stars,D,20:22,0,0,1,0,0,0,2,0,0,0,0,0,0,0,-1,18:59,0:01,1:22,NA
+2018020380,8474673,TJ Brodie,Calgary Flames,Dallas Stars,D,20:20,1,0,3,0,0,0,0,0,0,0,2,0,0,0,0,19:18,0:01,1:01,NA
+2018020380,8479346,Dillon Dube,Calgary Flames,Dallas Stars,C,8:00,1,0,0,0,0,0,2,0,0,0,0,0,0,1,1,7:59,0:01,0:00,NA
+2018020380,8476873,Mark Jankowski,Calgary Flames,Dallas Stars,C,11:17,1,0,3,1,0,0,0,8,10,2,1,0,0,2,1,10:43,0:01,0:33,80
+2018020380,8474150,Mikael Backlund,Calgary Flames,Dallas Stars,C,19:07,1,0,2,1,0,0,0,3,13,0,0,0,0,0,1,14:59,3:04,1:04,23.08
+2018020380,8476346,Johnny Gaudreau,Calgary Flames,Dallas Stars,LW,21:53,0,1,1,0,1,0,0,0,0,0,2,0,0,0,-3,16:49,5:04,0:00,NA
+2018020380,8479314,Matthew Tkachuk,Calgary Flames,Dallas Stars,LW,18:41,0,0,3,0,0,0,0,0,0,2,2,0,0,0,-1,13:35,5:06,0:00,NA
+2018020380,8478512,Austin Czarnik,Calgary Flames,Dallas Stars,C,7:11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7:07,0:04,0:00,NA
+2018020380,8478397,Rasmus Andersson,Calgary Flames,Dallas Stars,D,14:26,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,14:16,0:04,0:06,NA
+2018020380,8478430,Oliver Kylington,Calgary Flames,Dallas Stars,D,11:32,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,11:32,0:00,0:00,NA
+2018020380,8478396,Noah Hanifin,Calgary Flames,Dallas Stars,D,21:19,0,0,5,1,0,0,0,0,0,1,2,0,0,1,-1,17:40,2:58,0:41,NA
+2018020380,8477497,Sean Monahan,Calgary Flames,Dallas Stars,C,21:12,0,0,3,0,0,0,0,4,14,1,0,0,0,0,-3,16:12,5:00,0:00,28.57
+2018020380,8478585,Derek Ryan,Calgary Flames,Dallas Stars,C,16:24,0,0,0,0,0,0,0,7,11,1,0,0,0,0,0,12:24,3:17,0:43,63.64
+2018020380,8477496,Elias Lindholm,Calgary Flames,Dallas Stars,C,19:30,1,0,6,0,0,1,0,8,14,1,0,0,0,0,-1,13:02,4:49,1:39,57.14
+2018020380,8476913,Devin Shore,Dallas Stars,Calgary Flames,C,15:40,0,0,1,0,0,0,0,0,1,0,1,0,0,3,-1,12:37,1:06,1:57,0
+2018020380,8476902,Esa Lindell,Dallas Stars,Calgary Flames,D,24:49,0,0,3,1,0,0,4,0,0,0,2,0,0,3,-1,21:26,0:48,2:35,NA
+2018020380,8473994,Jamie Benn,Dallas Stars,Calgary Flames,LW,16:49,1,1,2,1,1,0,4,1,5,0,0,0,0,3,2,15:11,1:33,0:05,20
+2018020380,8478449,Roope Hintz,Dallas Stars,Calgary Flames,LW,12:28,0,0,1,0,0,0,0,4,10,1,1,0,0,0,-2,11:12,1:16,0:00,40
+2018020380,8477810,Joel Hanley,Dallas Stars,Calgary Flames,D,11:17,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,11:16,0:00,0:01,NA
+2018020380,8471228,Alexander Radulov,Dallas Stars,Calgary Flames,RW,18:46,0,0,3,0,0,0,0,0,0,1,0,0,0,3,1,17:13,1:33,0:00,NA
+2018020380,8477406,Mattias Janmark,Dallas Stars,Calgary Flames,C,15:50,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,13:53,0:00,1:57,NA
+2018020380,8476889,Radek Faksa,Dallas Stars,Calgary Flames,C,12:09,1,0,2,1,0,0,0,2,8,1,1,0,0,0,1,10:00,0:00,2:09,25
+2018020380,8479945,Gavin Bayreuther,Dallas Stars,Calgary Flames,D,20:32,1,1,1,1,0,1,2,0,0,2,1,0,0,2,1,17:18,1:13,2:01,NA
+2018020380,8471260,Blake Comeau,Dallas Stars,Calgary Flames,LW,15:53,0,0,2,1,0,0,0,0,0,0,0,0,0,2,0,11:51,0:00,4:02,NA
+2018020380,8471392,Roman Polak,Dallas Stars,Calgary Flames,D,23:09,0,0,1,2,0,0,0,0,0,1,2,0,0,1,0,18:02,0:00,5:07,NA
+2018020380,8475794,Tyler Seguin,Dallas Stars,Calgary Flames,C,19:52,1,1,2,0,0,1,0,11,19,0,1,0,0,0,2,17:26,1:06,1:20,57.89
+2018020380,8477501,Valeri Nichushkin,Dallas Stars,Calgary Flames,RW,8:11,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,7:54,0:17,0:00,NA
+2018020380,8475752,Tyler Pitlick,Dallas Stars,Calgary Flames,C,9:57,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,8:19,0:33,1:05,NA
+2018020380,8477450,Jason Dickinson,Dallas Stars,Calgary Flames,C,15:40,0,0,2,0,0,0,0,9,10,1,0,0,0,1,0,11:48,0:01,3:51,90
+2018020380,8476166,Taylor Fedun,Dallas Stars,Calgary Flames,D,15:00,0,0,0,0,0,0,0,0,0,1,2,0,0,1,1,11:51,0:00,3:09,NA
+2018020380,8469455,Jason Spezza,Dallas Stars,Calgary Flames,C,12:50,0,1,1,0,0,0,0,5,9,0,1,0,0,0,-1,11:33,1:17,0:00,55.56
+2018020380,8480036,Miro Heiskanen,Dallas Stars,Calgary Flames,D,24:38,1,0,1,0,0,0,0,0,0,1,0,0,0,5,0,19:53,1:12,3:33,NA

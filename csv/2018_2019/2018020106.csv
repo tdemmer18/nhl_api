@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020106,8478408,Travis Dermott,Toronto Maple Leafs,D,17:17,0,0,1,0,0,0,0,0,0,0,1,0,0,4,-3,13:42,0:38,2:57,NA
-2018020106,8468493,Ron Hainsey,Toronto Maple Leafs,D,19:05,0,0,1,2,0,0,2,0,0,2,4,0,0,0,0,15:17,0:00,3:48,NA
-2018020106,8475786,Zach Hyman,Toronto Maple Leafs,LW,16:32,0,0,0,2,0,0,0,1,2,0,1,0,0,0,-1,11:38,0:00,4:54,50
-2018020106,8476853,Morgan Rielly,Toronto Maple Leafs,D,24:37,0,1,1,1,0,0,0,0,0,0,5,0,0,2,-1,17:07,4:43,2:47,NA
-2018020106,8477953,Kasperi Kapanen,Toronto Maple Leafs,RW,13:55,0,0,2,2,0,0,0,0,0,2,0,0,0,0,-1,11:10,0:08,2:37,NA
-2018020106,8479318,Auston Matthews,Toronto Maple Leafs,C,17:30,0,0,6,1,0,0,0,4,10,1,0,0,0,1,-2,12:34,4:56,0:00,40
-2018020106,8479458,Nikita Zaitsev,Toronto Maple Leafs,D,17:52,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,12:30,0:08,5:14,NA
-2018020106,8477015,Connor Brown,Toronto Maple Leafs,RW,17:23,0,0,0,1,0,0,0,1,3,0,1,0,0,1,-1,12:02,2:23,2:58,33.33
-2018020106,8475166,John Tavares,Toronto Maple Leafs,C,16:58,0,0,1,0,0,0,0,13,22,0,1,0,0,0,-1,11:27,4:56,0:35,59.09
-2018020106,8476410,Josh Leivo,Toronto Maple Leafs,LW,11:05,0,0,5,1,0,0,0,1,1,0,1,0,0,0,0,8:28,2:37,0:00,100
-2018020106,8480943,Igor Ozhiganov,Toronto Maple Leafs,D,14:00,0,0,0,2,0,0,0,0,0,0,1,0,0,1,-2,13:22,0:38,0:00,NA
-2018020106,8480944,Par Lindholm,Toronto Maple Leafs,C,14:27,0,0,0,1,0,0,2,2,6,0,0,0,0,2,0,11:49,0:20,2:18,33.33
-2018020106,8477512,Frederik Gauthier,Toronto Maple Leafs,C,8:17,0,0,2,2,0,0,0,2,5,0,1,0,0,1,0,7:51,0:26,0:00,40
-2018020106,8477341,Andreas Johnsson,Toronto Maple Leafs,LW,9:25,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,6:48,2:37,0:00,NA
-2018020106,8474581,Jake Gardiner,Toronto Maple Leafs,D,22:06,1,0,0,3,0,0,0,0,0,1,2,0,0,0,0,17:12,3:54,1:00,NA
-2018020106,8478483,Mitchell Marner,Toronto Maple Leafs,RW,19:55,1,0,2,0,0,0,0,0,1,0,1,0,0,1,-1,12:35,4:56,2:24,0
-2018020106,8475172,Nazem Kadri,Toronto Maple Leafs,C,17:33,0,0,1,0,0,0,2,4,8,0,1,0,0,0,-2,12:37,4:56,0:00,50
-2018020106,8466139,Patrick Marleau,Toronto Maple Leafs,C,15:34,0,0,1,2,0,0,0,0,2,0,0,0,0,0,-1,13:03,2:31,0:00,0
-2018020106,8475768,Jaden Schwartz,St. Louis Blues,LW,19:35,0,0,2,1,0,0,2,1,2,0,0,0,0,1,0,13:36,4:14,1:45,50
-2018020106,8474565,Alex Pietrangelo,St. Louis Blues,D,24:45,1,0,1,1,0,0,0,0,0,1,2,0,0,2,1,15:13,4:22,5:10,NA
-2018020106,8477964,Ivan Barbashev,St. Louis Blues,C,10:11,0,1,1,0,0,0,0,3,5,0,0,1,0,0,1,7:10,0:12,2:49,60
-2018020106,8475765,Vladimir Tarasenko,St. Louis Blues,RW,17:52,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,14:05,3:47,0:00,NA
-2018020106,8470257,Alexander Steen,St. Louis Blues,LW,18:39,0,0,3,4,0,0,2,0,0,2,1,0,0,3,-1,11:26,3:28,3:45,NA
-2018020106,8478407,Vince Dunn,St. Louis Blues,D,17:44,0,0,3,2,0,0,0,0,0,1,1,0,0,4,1,14:03,3:41,0:00,NA
-2018020106,8476877,Jordan Schmaltz,St. Louis Blues,D,14:56,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,14:56,0:00,0:00,NA
-2018020106,8478104,Sammy Blais,St. Louis Blues,LW,7:42,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,7:42,0:00,0:00,NA
-2018020106,8475158,Ryan O'Reilly,St. Louis Blues,C,21:20,1,1,2,1,0,0,0,9,19,1,0,0,1,2,3,13:05,3:24,4:51,47.37
-2018020106,8474102,David Perron,St. Louis Blues,LW,15:05,2,0,0,0,0,0,0,0,1,0,0,0,0,0,2,11:07,3:58,0:00,0
-2018020106,8474145,Robert Bortuzzo,St. Louis Blues,D,17:46,0,1,2,3,0,0,0,0,0,0,0,0,0,3,1,13:45,0:17,3:44,NA
-2018020106,8474034,Pat Maroon,St. Louis Blues,LW,13:46,1,0,1,2,0,0,0,0,0,1,0,0,0,2,1,10:36,3:10,0:00,NA
-2018020106,8475098,Tyler Bozak,St. Louis Blues,C,16:00,0,0,2,0,0,0,0,10,17,0,1,0,0,0,-1,10:52,3:09,1:59,58.82
-2018020106,8476441,Joel Edmundson,St. Louis Blues,D,19:41,0,0,0,5,0,0,0,0,0,0,2,0,0,2,3,14:46,0:25,4:30,NA
-2018020106,8476892,Colton Parayko,St. Louis Blues,D,18:57,0,0,3,0,0,0,0,0,0,0,0,0,0,3,0,15:44,0:51,2:22,NA
-2018020106,8475170,Brayden Schenn,St. Louis Blues,C,19:45,0,0,2,6,0,0,4,9,16,0,0,0,0,1,1,15:10,4:27,0:08,56.25
-2018020106,8479385,Jordan Kyrou,St. Louis Blues,C,7:01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7:01,0:00,0:00,NA
-2018020106,8477482,Zach Sanford,St. Louis Blues,LW,11:53,0,1,1,3,0,0,0,0,0,0,0,0,0,0,1,11:24,0:00,0:29,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020106,8478408,Travis Dermott,Toronto Maple Leafs,St. Louis Blues,D,17:17,0,0,1,0,0,0,0,0,0,0,1,0,0,4,-3,13:42,0:38,2:57,NA
+2018020106,8468493,Ron Hainsey,Toronto Maple Leafs,St. Louis Blues,D,19:05,0,0,1,2,0,0,2,0,0,2,4,0,0,0,0,15:17,0:00,3:48,NA
+2018020106,8475786,Zach Hyman,Toronto Maple Leafs,St. Louis Blues,LW,16:32,0,0,0,2,0,0,0,1,2,0,1,0,0,0,-1,11:38,0:00,4:54,50
+2018020106,8476853,Morgan Rielly,Toronto Maple Leafs,St. Louis Blues,D,24:37,0,1,1,1,0,0,0,0,0,0,5,0,0,2,-1,17:07,4:43,2:47,NA
+2018020106,8477953,Kasperi Kapanen,Toronto Maple Leafs,St. Louis Blues,RW,13:55,0,0,2,2,0,0,0,0,0,2,0,0,0,0,-1,11:10,0:08,2:37,NA
+2018020106,8479318,Auston Matthews,Toronto Maple Leafs,St. Louis Blues,C,17:30,0,0,6,1,0,0,0,4,10,1,0,0,0,1,-2,12:34,4:56,0:00,40
+2018020106,8479458,Nikita Zaitsev,Toronto Maple Leafs,St. Louis Blues,D,17:52,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,12:30,0:08,5:14,NA
+2018020106,8477015,Connor Brown,Toronto Maple Leafs,St. Louis Blues,RW,17:23,0,0,0,1,0,0,0,1,3,0,1,0,0,1,-1,12:02,2:23,2:58,33.33
+2018020106,8475166,John Tavares,Toronto Maple Leafs,St. Louis Blues,C,16:58,0,0,1,0,0,0,0,13,22,0,1,0,0,0,-1,11:27,4:56,0:35,59.09
+2018020106,8476410,Josh Leivo,Toronto Maple Leafs,St. Louis Blues,LW,11:05,0,0,5,1,0,0,0,1,1,0,1,0,0,0,0,8:28,2:37,0:00,100
+2018020106,8480943,Igor Ozhiganov,Toronto Maple Leafs,St. Louis Blues,D,14:00,0,0,0,2,0,0,0,0,0,0,1,0,0,1,-2,13:22,0:38,0:00,NA
+2018020106,8480944,Par Lindholm,Toronto Maple Leafs,St. Louis Blues,C,14:27,0,0,0,1,0,0,2,2,6,0,0,0,0,2,0,11:49,0:20,2:18,33.33
+2018020106,8477512,Frederik Gauthier,Toronto Maple Leafs,St. Louis Blues,C,8:17,0,0,2,2,0,0,0,2,5,0,1,0,0,1,0,7:51,0:26,0:00,40
+2018020106,8477341,Andreas Johnsson,Toronto Maple Leafs,St. Louis Blues,LW,9:25,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,6:48,2:37,0:00,NA
+2018020106,8474581,Jake Gardiner,Toronto Maple Leafs,St. Louis Blues,D,22:06,1,0,0,3,0,0,0,0,0,1,2,0,0,0,0,17:12,3:54,1:00,NA
+2018020106,8478483,Mitchell Marner,Toronto Maple Leafs,St. Louis Blues,RW,19:55,1,0,2,0,0,0,0,0,1,0,1,0,0,1,-1,12:35,4:56,2:24,0
+2018020106,8475172,Nazem Kadri,Toronto Maple Leafs,St. Louis Blues,C,17:33,0,0,1,0,0,0,2,4,8,0,1,0,0,0,-2,12:37,4:56,0:00,50
+2018020106,8466139,Patrick Marleau,Toronto Maple Leafs,St. Louis Blues,C,15:34,0,0,1,2,0,0,0,0,2,0,0,0,0,0,-1,13:03,2:31,0:00,0
+2018020106,8475768,Jaden Schwartz,St. Louis Blues,Toronto Maple Leafs,LW,19:35,0,0,2,1,0,0,2,1,2,0,0,0,0,1,0,13:36,4:14,1:45,50
+2018020106,8474565,Alex Pietrangelo,St. Louis Blues,Toronto Maple Leafs,D,24:45,1,0,1,1,0,0,0,0,0,1,2,0,0,2,1,15:13,4:22,5:10,NA
+2018020106,8477964,Ivan Barbashev,St. Louis Blues,Toronto Maple Leafs,C,10:11,0,1,1,0,0,0,0,3,5,0,0,1,0,0,1,7:10,0:12,2:49,60
+2018020106,8475765,Vladimir Tarasenko,St. Louis Blues,Toronto Maple Leafs,RW,17:52,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,14:05,3:47,0:00,NA
+2018020106,8470257,Alexander Steen,St. Louis Blues,Toronto Maple Leafs,LW,18:39,0,0,3,4,0,0,2,0,0,2,1,0,0,3,-1,11:26,3:28,3:45,NA
+2018020106,8478407,Vince Dunn,St. Louis Blues,Toronto Maple Leafs,D,17:44,0,0,3,2,0,0,0,0,0,1,1,0,0,4,1,14:03,3:41,0:00,NA
+2018020106,8476877,Jordan Schmaltz,St. Louis Blues,Toronto Maple Leafs,D,14:56,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,14:56,0:00,0:00,NA
+2018020106,8478104,Sammy Blais,St. Louis Blues,Toronto Maple Leafs,LW,7:42,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,7:42,0:00,0:00,NA
+2018020106,8475158,Ryan O'Reilly,St. Louis Blues,Toronto Maple Leafs,C,21:20,1,1,2,1,0,0,0,9,19,1,0,0,1,2,3,13:05,3:24,4:51,47.37
+2018020106,8474102,David Perron,St. Louis Blues,Toronto Maple Leafs,LW,15:05,2,0,0,0,0,0,0,0,1,0,0,0,0,0,2,11:07,3:58,0:00,0
+2018020106,8474145,Robert Bortuzzo,St. Louis Blues,Toronto Maple Leafs,D,17:46,0,1,2,3,0,0,0,0,0,0,0,0,0,3,1,13:45,0:17,3:44,NA
+2018020106,8474034,Pat Maroon,St. Louis Blues,Toronto Maple Leafs,LW,13:46,1,0,1,2,0,0,0,0,0,1,0,0,0,2,1,10:36,3:10,0:00,NA
+2018020106,8475098,Tyler Bozak,St. Louis Blues,Toronto Maple Leafs,C,16:00,0,0,2,0,0,0,0,10,17,0,1,0,0,0,-1,10:52,3:09,1:59,58.82
+2018020106,8476441,Joel Edmundson,St. Louis Blues,Toronto Maple Leafs,D,19:41,0,0,0,5,0,0,0,0,0,0,2,0,0,2,3,14:46,0:25,4:30,NA
+2018020106,8476892,Colton Parayko,St. Louis Blues,Toronto Maple Leafs,D,18:57,0,0,3,0,0,0,0,0,0,0,0,0,0,3,0,15:44,0:51,2:22,NA
+2018020106,8475170,Brayden Schenn,St. Louis Blues,Toronto Maple Leafs,C,19:45,0,0,2,6,0,0,4,9,16,0,0,0,0,1,1,15:10,4:27,0:08,56.25
+2018020106,8479385,Jordan Kyrou,St. Louis Blues,Toronto Maple Leafs,C,7:01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7:01,0:00,0:00,NA
+2018020106,8477482,Zach Sanford,St. Louis Blues,Toronto Maple Leafs,LW,11:53,0,1,1,3,0,0,0,0,0,0,0,0,0,0,1,11:24,0:00,0:29,NA

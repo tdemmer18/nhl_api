@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020187,8470966,Mark Giordano,Calgary Flames,D,26:15,3,1,7,0,0,1,0,0,0,2,1,0,0,1,2,19:58,5:03,1:14,NA
-2018020187,8471707,James Neal,Calgary Flames,LW,16:17,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,13:33,2:44,0:00,NA
-2018020187,8477903,Garnet Hathaway,Calgary Flames,RW,5:41,0,0,1,2,0,0,0,0,0,0,0,0,0,1,-1,4:56,0:00,0:45,NA
-2018020187,8477935,Sam Bennett,Calgary Flames,C,8:54,0,0,2,2,0,0,17,1,1,0,0,0,0,0,0,7:34,1:20,0:00,100
-2018020187,8473564,Michael Frolik,Calgary Flames,RW,15:59,0,1,3,0,0,0,2,0,0,1,0,0,0,0,3,15:50,0:09,0:00,NA
-2018020187,8474612,Travis Hamonic,Calgary Flames,D,18:52,0,0,3,0,0,0,0,0,0,0,1,0,0,0,-1,17:29,0:09,1:14,NA
-2018020187,8479976,Juuso Valimaki,Calgary Flames,D,14:06,1,0,1,2,0,0,0,0,0,0,1,0,0,0,0,13:18,0:00,0:48,NA
-2018020187,8474673,TJ Brodie,Calgary Flames,D,21:07,0,0,2,1,0,0,0,0,0,1,1,0,0,1,3,19:48,0:31,0:48,NA
-2018020187,8479346,Dillon Dube,Calgary Flames,C,9:52,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,9:03,0:49,0:00,NA
-2018020187,8476873,Mark Jankowski,Calgary Flames,C,6:47,0,0,1,0,0,0,0,5,5,1,1,0,0,0,-1,6:27,0:00,0:20,100
-2018020187,8474150,Mikael Backlund,Calgary Flames,C,20:41,1,1,2,0,0,0,2,9,20,2,0,0,0,0,3,16:42,2:46,1:13,45
-2018020187,8476346,Johnny Gaudreau,Calgary Flames,LW,23:53,1,0,4,0,0,0,0,0,0,0,5,0,0,0,-2,19:39,4:14,0:00,NA
-2018020187,8479314,Matthew Tkachuk,Calgary Flames,LW,18:25,3,0,2,2,0,0,0,0,0,0,2,0,0,0,2,13:41,4:44,0:00,NA
-2018020187,8478397,Rasmus Andersson,Calgary Flames,D,14:15,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,14:07,0:00,0:08,NA
-2018020187,8478396,Noah Hanifin,Calgary Flames,D,18:26,1,0,2,1,0,0,0,0,0,0,1,0,0,0,-1,16:30,1:48,0:08,NA
-2018020187,8477497,Sean Monahan,Calgary Flames,C,20:03,1,1,2,0,0,1,0,5,13,2,0,0,0,0,-1,15:47,4:14,0:02,38.46
-2018020187,8478585,Derek Ryan,Calgary Flames,C,12:39,1,0,1,0,0,0,0,2,4,1,1,0,0,0,0,9:07,2:37,0:55,50
-2018020187,8477496,Elias Lindholm,Calgary Flames,C,23:42,0,1,3,1,1,0,0,8,18,1,0,0,0,1,-1,18:45,3:52,1:05,44.44
-2018020187,8474717,Mark Barberio,Colorado Avalanche,D,17:43,0,0,0,3,0,0,0,0,0,0,1,0,0,0,-3,13:07,0:00,4:36,NA
-2018020187,8473446,Erik Johnson,Colorado Avalanche,D,25:03,0,0,2,2,0,0,0,0,0,0,2,0,0,2,-1,20:25,0:08,4:30,NA
-2018020187,8477507,Nikita Zadorov,Colorado Avalanche,D,17:25,0,0,2,5,0,0,0,0,0,1,1,0,0,0,0,15:58,0:00,1:27,NA
-2018020187,8474569,Colin Wilson,Colorado Avalanche,C,15:25,1,1,1,0,0,1,0,0,1,0,1,0,0,1,1,14:17,1:08,0:00,0
-2018020187,8477448,Marko Dano,Colorado Avalanche,C,6:48,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,6:48,0:00,0:00,NA
-2018020187,8480326,Sheldon Dries,Colorado Avalanche,C,10:11,1,1,1,0,0,0,0,1,2,0,0,0,0,0,2,10:11,0:00,0:00,50
-2018020187,8476442,Matt Nieto,Colorado Avalanche,LW,13:26,0,0,0,4,0,0,0,0,1,0,0,0,0,1,-1,10:09,0:00,3:17,0
-2018020187,8476455,Gabriel Landeskog,Colorado Avalanche,LW,21:21,0,1,1,6,1,0,0,6,8,2,1,0,0,3,-3,19:50,1:22,0:09,75
-2018020187,8474685,Matt Calvert,Colorado Avalanche,LW,14:49,0,0,0,3,0,0,2,1,1,0,1,0,0,1,0,11:37,1:04,2:08,100
-2018020187,8475268,Gabriel Bourque,Colorado Avalanche,LW,10:58,1,0,1,2,0,0,0,1,1,1,0,0,0,1,2,7:22,0:00,3:36,100
-2018020187,8477973,Vladislav Kamenev,Colorado Avalanche,C,11:56,0,1,1,2,0,0,0,6,8,0,1,1,0,0,0,9:05,0:48,2:03,75
-2018020187,8477021,Alexander Kerfoot,Colorado Avalanche,C,15:26,2,0,1,0,0,1,0,2,6,0,0,0,0,0,0,14:23,0:58,0:05,33.33
-2018020187,8474013,Ian Cole,Colorado Avalanche,D,13:14,1,0,0,1,0,0,20,0,0,0,1,0,0,2,3,10:18,0:00,2:56,NA
-2018020187,8475197,Tyson Barrie,Colorado Avalanche,D,21:50,1,0,2,0,0,0,0,0,0,1,0,0,0,1,1,20:52,0:58,0:00,NA
-2018020187,8471262,Carl Soderberg,Colorado Avalanche,C,14:44,0,1,5,0,0,0,0,6,15,2,0,0,0,0,1,11:23,0:48,2:33,40
-2018020187,8479398,Samuel Girard,Colorado Avalanche,D,19:23,0,0,2,0,0,0,0,0,0,0,3,0,0,1,-2,17:40,1:12,0:31,NA
-2018020187,8478420,Mikko Rantanen,Colorado Avalanche,RW,20:49,0,0,3,3,0,0,2,0,0,2,1,0,0,0,-3,19:37,1:12,0:00,NA
-2018020187,8477492,Nathan MacKinnon,Colorado Avalanche,C,23:18,0,0,4,0,0,0,0,8,18,1,3,0,0,0,-3,21:47,1:22,0:09,44.44
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020187,8470966,Mark Giordano,Calgary Flames,Colorado Avalanche,D,26:15,3,1,7,0,0,1,0,0,0,2,1,0,0,1,2,19:58,5:03,1:14,NA
+2018020187,8471707,James Neal,Calgary Flames,Colorado Avalanche,LW,16:17,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,13:33,2:44,0:00,NA
+2018020187,8477903,Garnet Hathaway,Calgary Flames,Colorado Avalanche,RW,5:41,0,0,1,2,0,0,0,0,0,0,0,0,0,1,-1,4:56,0:00,0:45,NA
+2018020187,8477935,Sam Bennett,Calgary Flames,Colorado Avalanche,C,8:54,0,0,2,2,0,0,17,1,1,0,0,0,0,0,0,7:34,1:20,0:00,100
+2018020187,8473564,Michael Frolik,Calgary Flames,Colorado Avalanche,RW,15:59,0,1,3,0,0,0,2,0,0,1,0,0,0,0,3,15:50,0:09,0:00,NA
+2018020187,8474612,Travis Hamonic,Calgary Flames,Colorado Avalanche,D,18:52,0,0,3,0,0,0,0,0,0,0,1,0,0,0,-1,17:29,0:09,1:14,NA
+2018020187,8479976,Juuso Valimaki,Calgary Flames,Colorado Avalanche,D,14:06,1,0,1,2,0,0,0,0,0,0,1,0,0,0,0,13:18,0:00,0:48,NA
+2018020187,8474673,TJ Brodie,Calgary Flames,Colorado Avalanche,D,21:07,0,0,2,1,0,0,0,0,0,1,1,0,0,1,3,19:48,0:31,0:48,NA
+2018020187,8479346,Dillon Dube,Calgary Flames,Colorado Avalanche,C,9:52,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,9:03,0:49,0:00,NA
+2018020187,8476873,Mark Jankowski,Calgary Flames,Colorado Avalanche,C,6:47,0,0,1,0,0,0,0,5,5,1,1,0,0,0,-1,6:27,0:00,0:20,100
+2018020187,8474150,Mikael Backlund,Calgary Flames,Colorado Avalanche,C,20:41,1,1,2,0,0,0,2,9,20,2,0,0,0,0,3,16:42,2:46,1:13,45
+2018020187,8476346,Johnny Gaudreau,Calgary Flames,Colorado Avalanche,LW,23:53,1,0,4,0,0,0,0,0,0,0,5,0,0,0,-2,19:39,4:14,0:00,NA
+2018020187,8479314,Matthew Tkachuk,Calgary Flames,Colorado Avalanche,LW,18:25,3,0,2,2,0,0,0,0,0,0,2,0,0,0,2,13:41,4:44,0:00,NA
+2018020187,8478397,Rasmus Andersson,Calgary Flames,Colorado Avalanche,D,14:15,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,14:07,0:00,0:08,NA
+2018020187,8478396,Noah Hanifin,Calgary Flames,Colorado Avalanche,D,18:26,1,0,2,1,0,0,0,0,0,0,1,0,0,0,-1,16:30,1:48,0:08,NA
+2018020187,8477497,Sean Monahan,Calgary Flames,Colorado Avalanche,C,20:03,1,1,2,0,0,1,0,5,13,2,0,0,0,0,-1,15:47,4:14,0:02,38.46
+2018020187,8478585,Derek Ryan,Calgary Flames,Colorado Avalanche,C,12:39,1,0,1,0,0,0,0,2,4,1,1,0,0,0,0,9:07,2:37,0:55,50
+2018020187,8477496,Elias Lindholm,Calgary Flames,Colorado Avalanche,C,23:42,0,1,3,1,1,0,0,8,18,1,0,0,0,1,-1,18:45,3:52,1:05,44.44
+2018020187,8474717,Mark Barberio,Colorado Avalanche,Calgary Flames,D,17:43,0,0,0,3,0,0,0,0,0,0,1,0,0,0,-3,13:07,0:00,4:36,NA
+2018020187,8473446,Erik Johnson,Colorado Avalanche,Calgary Flames,D,25:03,0,0,2,2,0,0,0,0,0,0,2,0,0,2,-1,20:25,0:08,4:30,NA
+2018020187,8477507,Nikita Zadorov,Colorado Avalanche,Calgary Flames,D,17:25,0,0,2,5,0,0,0,0,0,1,1,0,0,0,0,15:58,0:00,1:27,NA
+2018020187,8474569,Colin Wilson,Colorado Avalanche,Calgary Flames,C,15:25,1,1,1,0,0,1,0,0,1,0,1,0,0,1,1,14:17,1:08,0:00,0
+2018020187,8477448,Marko Dano,Colorado Avalanche,Calgary Flames,C,6:48,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,6:48,0:00,0:00,NA
+2018020187,8480326,Sheldon Dries,Colorado Avalanche,Calgary Flames,C,10:11,1,1,1,0,0,0,0,1,2,0,0,0,0,0,2,10:11,0:00,0:00,50
+2018020187,8476442,Matt Nieto,Colorado Avalanche,Calgary Flames,LW,13:26,0,0,0,4,0,0,0,0,1,0,0,0,0,1,-1,10:09,0:00,3:17,0
+2018020187,8476455,Gabriel Landeskog,Colorado Avalanche,Calgary Flames,LW,21:21,0,1,1,6,1,0,0,6,8,2,1,0,0,3,-3,19:50,1:22,0:09,75
+2018020187,8474685,Matt Calvert,Colorado Avalanche,Calgary Flames,LW,14:49,0,0,0,3,0,0,2,1,1,0,1,0,0,1,0,11:37,1:04,2:08,100
+2018020187,8475268,Gabriel Bourque,Colorado Avalanche,Calgary Flames,LW,10:58,1,0,1,2,0,0,0,1,1,1,0,0,0,1,2,7:22,0:00,3:36,100
+2018020187,8477973,Vladislav Kamenev,Colorado Avalanche,Calgary Flames,C,11:56,0,1,1,2,0,0,0,6,8,0,1,1,0,0,0,9:05,0:48,2:03,75
+2018020187,8477021,Alexander Kerfoot,Colorado Avalanche,Calgary Flames,C,15:26,2,0,1,0,0,1,0,2,6,0,0,0,0,0,0,14:23,0:58,0:05,33.33
+2018020187,8474013,Ian Cole,Colorado Avalanche,Calgary Flames,D,13:14,1,0,0,1,0,0,20,0,0,0,1,0,0,2,3,10:18,0:00,2:56,NA
+2018020187,8475197,Tyson Barrie,Colorado Avalanche,Calgary Flames,D,21:50,1,0,2,0,0,0,0,0,0,1,0,0,0,1,1,20:52,0:58,0:00,NA
+2018020187,8471262,Carl Soderberg,Colorado Avalanche,Calgary Flames,C,14:44,0,1,5,0,0,0,0,6,15,2,0,0,0,0,1,11:23,0:48,2:33,40
+2018020187,8479398,Samuel Girard,Colorado Avalanche,Calgary Flames,D,19:23,0,0,2,0,0,0,0,0,0,0,3,0,0,1,-2,17:40,1:12,0:31,NA
+2018020187,8478420,Mikko Rantanen,Colorado Avalanche,Calgary Flames,RW,20:49,0,0,3,3,0,0,2,0,0,2,1,0,0,0,-3,19:37,1:12,0:00,NA
+2018020187,8477492,Nathan MacKinnon,Colorado Avalanche,Calgary Flames,C,23:18,0,0,4,0,0,0,0,8,18,1,3,0,0,0,-3,21:47,1:22,0:09,44.44

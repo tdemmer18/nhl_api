@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020833,8474716,Jared Spurgeon,Minnesota Wild,D,25:01,0,0,4,2,0,0,0,0,0,1,0,0,0,1,1,21:51,1:10,2:00,NA
-2018020833,8475868,Anthony Bitetto,Minnesota Wild,D,16:04,0,0,2,2,0,0,0,0,0,0,0,0,0,1,0,15:51,0:00,0:13,NA
-2018020833,8470595,Eric Staal,Minnesota Wild,C,16:44,0,0,3,2,0,0,0,8,14,0,1,0,0,0,-2,13:41,2:50,0:13,57.14
-2018020833,8470600,Ryan Suter,Minnesota Wild,D,26:44,0,0,5,0,0,0,2,0,0,1,0,0,0,2,-1,22:45,3:03,0:56,NA
-2018020833,8470611,Eric Fehr,Minnesota Wild,C,7:52,0,0,1,0,0,0,0,4,10,0,0,0,0,0,0,6:28,0:00,1:24,40
-2018020833,8475798,Mikael Granlund,Minnesota Wild,RW,18:22,0,0,2,0,0,0,2,2,3,1,0,0,0,0,-2,15:19,2:50,0:13,66.67
-2018020833,8475722,Jason Zucker,Minnesota Wild,LW,14:45,1,0,1,4,0,0,2,0,0,1,0,0,0,0,0,11:55,2:50,0:00,NA
-2018020833,8474688,Greg Pateryn,Minnesota Wild,D,15:25,0,0,3,1,0,0,0,0,0,1,0,0,0,0,-1,13:18,0:00,2:07,NA
-2018020833,8476415,Kyle Rau,Minnesota Wild,C,7:54,0,0,2,3,0,0,0,1,1,0,0,0,0,0,0,7:54,0:00,0:00,100
-2018020833,8476437,Victor Rask,Minnesota Wild,C,15:58,0,0,2,0,0,0,0,4,7,0,0,0,0,0,-1,14:48,1:10,0:00,57.14
-2018020833,8475745,Charlie Coyle,Minnesota Wild,C,18:11,0,0,1,2,0,0,0,6,9,1,0,0,0,0,-1,16:24,1:10,0:37,66.67
-2018020833,8470610,Zach Parise,Minnesota Wild,LW,20:50,0,0,1,0,0,0,0,0,0,1,1,0,0,0,-2,17:47,2:31,0:32,NA
-2018020833,8479316,Luke Kunin,Minnesota Wild,C,17:50,1,0,1,1,0,0,0,1,2,0,0,0,0,0,1,14:47,0:57,2:06,50
-2018020833,8478413,Jordan Greenway,Minnesota Wild,LW,15:59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,14:30,1:29,0:00,NA
-2018020833,8476372,Nick Seeler,Minnesota Wild,D,13:40,0,0,3,1,0,0,0,0,0,0,0,0,0,0,-1,12:57,0:00,0:43,NA
-2018020833,8475220,Marcus Foligno,Minnesota Wild,LW,10:39,0,0,0,2,0,0,0,0,0,2,1,0,0,0,0,9:15,0:00,1:24,NA
-2018020833,8476463,Jonas Brodin,Minnesota Wild,D,19:05,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-2,16:24,0:00,2:41,NA
-2018020833,8478493,Joel Eriksson Ek,Minnesota Wild,C,15:44,0,1,5,1,0,0,0,11,20,0,1,0,0,0,1,13:33,0:00,2:11,55
-2018020833,8471729,Kris Russell,Edmonton Oilers,D,19:52,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,18:57,0:00,0:55,NA
-2018020833,8477529,Colby Cave,Edmonton Oilers,C,5:51,0,0,1,2,0,0,0,3,4,0,0,0,0,0,0,5:51,0:00,0:00,75
-2018020833,8476915,Jujhar Khaira,Edmonton Oilers,LW,14:27,0,0,3,1,0,0,0,1,1,0,0,0,0,0,0,14:27,0:00,0:00,100
-2018020833,8476457,Adam Larsson,Edmonton Oilers,D,21:13,0,0,0,4,0,0,0,0,0,0,0,0,0,3,1,18:13,0:03,2:57,NA
-2018020833,8477934,Leon Draisaitl,Edmonton Oilers,C,22:27,0,1,2,0,1,0,0,8,19,0,1,0,0,2,1,17:30,3:17,1:40,42.11
-2018020833,8476427,Ty Rattie,Edmonton Oilers,RW,17:52,0,1,4,1,0,0,0,0,0,0,0,0,0,0,0,16:49,1:03,0:00,NA
-2018020833,8476988,Matt Benning,Edmonton Oilers,D,16:04,0,0,0,0,0,0,2,0,0,0,0,0,0,1,1,14:56,1:00,0:08,NA
-2018020833,8475430,Brandon Manning,Edmonton Oilers,D,13:54,0,0,2,1,0,0,0,0,0,0,0,0,0,1,1,13:16,0:00,0:38,NA
-2018020833,8477498,Darnell Nurse,Edmonton Oilers,D,22:16,0,1,3,1,0,0,2,0,0,0,0,0,0,0,0,18:48,3:03,0:25,NA
-2018020833,8475178,Zack Kassian,Edmonton Oilers,RW,13:26,1,1,1,2,0,0,0,0,0,0,0,0,0,0,2,13:11,0:00,0:15,NA
-2018020833,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,C,20:43,2,0,1,1,0,1,0,9,18,0,0,0,0,1,1,14:29,3:17,2:57,50
-2018020833,8476356,Tobias Rieder,Edmonton Oilers,RW,6:29,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,6:29,0:00,0:00,0
-2018020833,8478402,Connor McDavid,Edmonton Oilers,C,23:03,2,0,1,1,0,0,0,4,10,0,0,0,0,1,1,18:41,3:17,1:05,40
-2018020833,8479344,Jesse Puljujarvi,Edmonton Oilers,RW,8:27,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,7:24,1:03,0:00,0
-2018020833,8475163,Alex Chiasson,Edmonton Oilers,RW,19:25,1,0,1,3,0,1,0,0,0,0,0,0,0,1,0,14:05,3:17,2:03,NA
-2018020833,8476472,Oscar Klefbom,Edmonton Oilers,D,23:55,0,0,1,3,0,0,0,0,0,0,0,0,0,2,1,19:41,1:17,2:57,NA
-2018020833,8474089,Brad Malone,Edmonton Oilers,C,12:01,0,0,0,1,0,0,0,4,11,0,0,0,0,0,0,12:01,0:00,0:00,36.36
-2018020833,8473473,Milan Lucic,Edmonton Oilers,LW,14:35,0,0,1,2,0,0,0,0,1,0,0,0,0,0,1,13:32,1:03,0:00,0
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020833,8474716,Jared Spurgeon,Minnesota Wild,Edmonton Oilers,D,25:01,0,0,4,2,0,0,0,0,0,1,0,0,0,1,1,21:51,1:10,2:00,NA
+2018020833,8475868,Anthony Bitetto,Minnesota Wild,Edmonton Oilers,D,16:04,0,0,2,2,0,0,0,0,0,0,0,0,0,1,0,15:51,0:00,0:13,NA
+2018020833,8470595,Eric Staal,Minnesota Wild,Edmonton Oilers,C,16:44,0,0,3,2,0,0,0,8,14,0,1,0,0,0,-2,13:41,2:50,0:13,57.14
+2018020833,8470600,Ryan Suter,Minnesota Wild,Edmonton Oilers,D,26:44,0,0,5,0,0,0,2,0,0,1,0,0,0,2,-1,22:45,3:03,0:56,NA
+2018020833,8470611,Eric Fehr,Minnesota Wild,Edmonton Oilers,C,7:52,0,0,1,0,0,0,0,4,10,0,0,0,0,0,0,6:28,0:00,1:24,40
+2018020833,8475798,Mikael Granlund,Minnesota Wild,Edmonton Oilers,RW,18:22,0,0,2,0,0,0,2,2,3,1,0,0,0,0,-2,15:19,2:50,0:13,66.67
+2018020833,8475722,Jason Zucker,Minnesota Wild,Edmonton Oilers,LW,14:45,1,0,1,4,0,0,2,0,0,1,0,0,0,0,0,11:55,2:50,0:00,NA
+2018020833,8474688,Greg Pateryn,Minnesota Wild,Edmonton Oilers,D,15:25,0,0,3,1,0,0,0,0,0,1,0,0,0,0,-1,13:18,0:00,2:07,NA
+2018020833,8476415,Kyle Rau,Minnesota Wild,Edmonton Oilers,C,7:54,0,0,2,3,0,0,0,1,1,0,0,0,0,0,0,7:54,0:00,0:00,100
+2018020833,8476437,Victor Rask,Minnesota Wild,Edmonton Oilers,C,15:58,0,0,2,0,0,0,0,4,7,0,0,0,0,0,-1,14:48,1:10,0:00,57.14
+2018020833,8475745,Charlie Coyle,Minnesota Wild,Edmonton Oilers,C,18:11,0,0,1,2,0,0,0,6,9,1,0,0,0,0,-1,16:24,1:10,0:37,66.67
+2018020833,8470610,Zach Parise,Minnesota Wild,Edmonton Oilers,LW,20:50,0,0,1,0,0,0,0,0,0,1,1,0,0,0,-2,17:47,2:31,0:32,NA
+2018020833,8479316,Luke Kunin,Minnesota Wild,Edmonton Oilers,C,17:50,1,0,1,1,0,0,0,1,2,0,0,0,0,0,1,14:47,0:57,2:06,50
+2018020833,8478413,Jordan Greenway,Minnesota Wild,Edmonton Oilers,LW,15:59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,14:30,1:29,0:00,NA
+2018020833,8476372,Nick Seeler,Minnesota Wild,Edmonton Oilers,D,13:40,0,0,3,1,0,0,0,0,0,0,0,0,0,0,-1,12:57,0:00,0:43,NA
+2018020833,8475220,Marcus Foligno,Minnesota Wild,Edmonton Oilers,LW,10:39,0,0,0,2,0,0,0,0,0,2,1,0,0,0,0,9:15,0:00,1:24,NA
+2018020833,8476463,Jonas Brodin,Minnesota Wild,Edmonton Oilers,D,19:05,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-2,16:24,0:00,2:41,NA
+2018020833,8478493,Joel Eriksson Ek,Minnesota Wild,Edmonton Oilers,C,15:44,0,1,5,1,0,0,0,11,20,0,1,0,0,0,1,13:33,0:00,2:11,55
+2018020833,8471729,Kris Russell,Edmonton Oilers,Minnesota Wild,D,19:52,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,18:57,0:00,0:55,NA
+2018020833,8477529,Colby Cave,Edmonton Oilers,Minnesota Wild,C,5:51,0,0,1,2,0,0,0,3,4,0,0,0,0,0,0,5:51,0:00,0:00,75
+2018020833,8476915,Jujhar Khaira,Edmonton Oilers,Minnesota Wild,LW,14:27,0,0,3,1,0,0,0,1,1,0,0,0,0,0,0,14:27,0:00,0:00,100
+2018020833,8476457,Adam Larsson,Edmonton Oilers,Minnesota Wild,D,21:13,0,0,0,4,0,0,0,0,0,0,0,0,0,3,1,18:13,0:03,2:57,NA
+2018020833,8477934,Leon Draisaitl,Edmonton Oilers,Minnesota Wild,C,22:27,0,1,2,0,1,0,0,8,19,0,1,0,0,2,1,17:30,3:17,1:40,42.11
+2018020833,8476427,Ty Rattie,Edmonton Oilers,Minnesota Wild,RW,17:52,0,1,4,1,0,0,0,0,0,0,0,0,0,0,0,16:49,1:03,0:00,NA
+2018020833,8476988,Matt Benning,Edmonton Oilers,Minnesota Wild,D,16:04,0,0,0,0,0,0,2,0,0,0,0,0,0,1,1,14:56,1:00,0:08,NA
+2018020833,8475430,Brandon Manning,Edmonton Oilers,Minnesota Wild,D,13:54,0,0,2,1,0,0,0,0,0,0,0,0,0,1,1,13:16,0:00,0:38,NA
+2018020833,8477498,Darnell Nurse,Edmonton Oilers,Minnesota Wild,D,22:16,0,1,3,1,0,0,2,0,0,0,0,0,0,0,0,18:48,3:03,0:25,NA
+2018020833,8475178,Zack Kassian,Edmonton Oilers,Minnesota Wild,RW,13:26,1,1,1,2,0,0,0,0,0,0,0,0,0,0,2,13:11,0:00,0:15,NA
+2018020833,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,Minnesota Wild,C,20:43,2,0,1,1,0,1,0,9,18,0,0,0,0,1,1,14:29,3:17,2:57,50
+2018020833,8476356,Tobias Rieder,Edmonton Oilers,Minnesota Wild,RW,6:29,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,6:29,0:00,0:00,0
+2018020833,8478402,Connor McDavid,Edmonton Oilers,Minnesota Wild,C,23:03,2,0,1,1,0,0,0,4,10,0,0,0,0,1,1,18:41,3:17,1:05,40
+2018020833,8479344,Jesse Puljujarvi,Edmonton Oilers,Minnesota Wild,RW,8:27,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,7:24,1:03,0:00,0
+2018020833,8475163,Alex Chiasson,Edmonton Oilers,Minnesota Wild,RW,19:25,1,0,1,3,0,1,0,0,0,0,0,0,0,1,0,14:05,3:17,2:03,NA
+2018020833,8476472,Oscar Klefbom,Edmonton Oilers,Minnesota Wild,D,23:55,0,0,1,3,0,0,0,0,0,0,0,0,0,2,1,19:41,1:17,2:57,NA
+2018020833,8474089,Brad Malone,Edmonton Oilers,Minnesota Wild,C,12:01,0,0,0,1,0,0,0,4,11,0,0,0,0,0,0,12:01,0:00,0:00,36.36
+2018020833,8473473,Milan Lucic,Edmonton Oilers,Minnesota Wild,LW,14:35,0,0,1,2,0,0,0,0,1,0,0,0,0,0,1,13:32,1:03,0:00,0

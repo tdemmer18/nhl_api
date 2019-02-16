@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020332,8476906,Shayne Gostisbehere,Philadelphia Flyers,D,18:18,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,17:22,0:56,0:00,NA
-2018020332,8474668,Dale Weise,Philadelphia Flyers,RW,15:36,0,0,4,2,0,0,2,0,0,0,0,0,0,1,0,13:34,0:00,2:02,NA
-2018020332,8473512,Claude Giroux,Philadelphia Flyers,C,19:18,3,0,2,0,0,0,0,10,17,1,0,0,0,0,3,14:44,1:03,3:31,58.82
-2018020332,8477948,Travis Sanheim,Philadelphia Flyers,D,16:41,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,16:38,0:00,0:03,NA
-2018020332,8474037,James van Riemsdyk,Philadelphia Flyers,LW,15:25,0,0,3,1,0,0,0,0,1,1,0,0,0,0,1,14:40,0:45,0:00,0
-2018020332,8475738,Jordan Weal,Philadelphia Flyers,C,15:10,0,1,2,1,0,0,0,5,9,0,0,0,0,1,1,13:55,1:15,0:00,55.56
-2018020332,8478439,Travis Konecny,Philadelphia Flyers,RW,13:02,2,1,2,0,0,0,5,0,0,0,0,0,0,0,3,13:02,0:00,0:00,NA
-2018020332,8478500,Ivan Provorov,Philadelphia Flyers,D,24:34,0,0,3,1,0,0,0,0,0,0,2,0,0,0,2,18:45,1:04,4:45,NA
-2018020332,8476872,Scott Laughton,Philadelphia Flyers,C,13:56,0,0,0,3,0,0,0,6,7,0,1,0,0,0,0,11:27,0:00,2:29,85.71
-2018020332,8477850,Christian Folin,Philadelphia Flyers,D,19:52,0,0,2,3,0,0,0,0,0,0,0,0,0,3,1,17:28,0:00,2:24,NA
-2018020332,8477399,Tyrell Goulbourne,Philadelphia Flyers,LW,6:01,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,6:01,0:00,0:00,NA
-2018020332,8479974,Nolan Patrick,Philadelphia Flyers,C,14:39,0,0,2,1,0,0,0,9,19,2,0,0,0,0,0,13:39,0:57,0:03,47.37
-2018020332,8474161,Jakub Voracek,Philadelphia Flyers,RW,16:47,0,0,3,0,0,0,0,1,1,0,0,0,0,1,0,16:02,0:45,0:00,100
-2018020332,8477462,Robert Hagg,Philadelphia Flyers,D,17:24,0,0,4,6,0,0,2,0,0,0,1,0,0,0,1,16:12,0:00,1:12,NA
-2018020332,8478067,Oskar Lindblom,Philadelphia Flyers,LW,11:32,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,9:42,1:15,0:35,0
-2018020332,8476461,Sean Couturier,Philadelphia Flyers,C,19:09,1,2,8,0,0,0,0,5,6,3,0,0,0,2,3,15:04,0:45,3:20,83.33
-2018020332,8475462,Radko Gudas,Philadelphia Flyers,D,21:16,0,0,2,5,0,0,0,0,0,0,0,0,0,0,2,17:40,0:00,3:36,NA
-2018020332,8474190,Wayne Simmonds,Philadelphia Flyers,RW,15:20,1,0,4,0,0,0,0,1,2,0,0,0,0,1,1,14:05,1:15,0:00,50
-2018020332,8480072,Lias Andersson,New York Rangers,C,12:32,0,0,3,1,0,0,0,1,2,0,1,0,0,1,-2,12:30,0:02,0:00,50
-2018020332,8476918,Jimmy Vesey,New York Rangers,LW,17:25,0,0,3,2,0,0,0,0,1,1,1,0,0,3,0,13:55,2:52,0:38,0
-2018020332,8471686,Marc Staal,New York Rangers,D,15:41,0,0,0,0,0,0,2,0,0,0,0,0,0,3,-1,15:41,0:00,0:00,NA
-2018020332,8476869,Brady Skjei,New York Rangers,D,18:43,0,0,1,1,0,0,0,0,0,0,2,0,0,2,-3,17:29,0:00,1:14,NA
-2018020332,8476458,Ryan Strome,New York Rangers,C,13:31,0,0,1,1,0,0,5,2,2,1,0,0,0,0,-1,13:29,0:02,0:00,100
-2018020332,8476459,Mika Zibanejad,New York Rangers,C,16:20,0,0,1,0,0,0,0,10,18,0,0,0,0,0,-2,12:28,3:06,0:46,55.56
-2018020332,8475855,Jesper Fast,New York Rangers,RW,14:26,0,0,0,4,0,0,0,0,0,0,0,0,0,2,-1,13:48,0:02,0:36,NA
-2018020332,8477950,Tony DeAngelo,New York Rangers,D,20:57,0,0,3,4,0,0,0,0,0,1,1,0,0,0,-1,17:10,2:52,0:55,NA
-2018020332,8474031,Kevin Shattenkirk,New York Rangers,D,22:31,0,0,3,0,0,0,0,0,0,1,1,0,0,0,-2,19:17,3:14,0:00,NA
-2018020332,8475763,Kevin Hayes,New York Rangers,C,18:22,0,0,3,0,0,0,0,5,14,0,1,0,0,1,-1,13:44,4:02,0:36,35.71
-2018020332,8476368,Fredrik Claesson,New York Rangers,D,19:19,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,18:13,0:02,1:04,NA
-2018020332,8475184,Chris Kreider,New York Rangers,LW,16:58,0,0,3,1,0,0,0,0,4,0,0,0,0,0,-1,13:52,3:06,0:00,0
-2018020332,8479353,Brett Howden,New York Rangers,C,16:58,0,0,0,0,0,0,0,7,15,0,1,0,0,0,0,13:17,3:03,0:38,46.67
-2018020332,8475692,Mats Zuccarello,New York Rangers,RW,15:29,0,0,0,1,0,0,0,0,1,0,1,0,0,2,-3,12:34,2:55,0:00,0
-2018020332,8476396,Steven Fogarty,New York Rangers,C,10:26,0,0,2,0,0,0,0,1,6,0,0,0,0,1,-2,10:26,0:00,0:00,16.67
-2018020332,8480078,Filip Chytil,New York Rangers,C,15:25,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,13:29,1:56,0:00,NA
-2018020332,8476480,Vladislav Namestnikov,New York Rangers,C,13:35,0,0,2,4,0,0,0,0,0,0,0,0,0,1,0,12:49,0:00,0:46,NA
-2018020332,8480145,Neal Pionk,New York Rangers,D,19:33,0,0,3,1,0,0,0,0,0,0,0,0,0,1,-1,16:00,2:46,0:47,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020332,8476906,Shayne Gostisbehere,Philadelphia Flyers,New York Rangers,D,18:18,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,17:22,0:56,0:00,NA
+2018020332,8474668,Dale Weise,Philadelphia Flyers,New York Rangers,RW,15:36,0,0,4,2,0,0,2,0,0,0,0,0,0,1,0,13:34,0:00,2:02,NA
+2018020332,8473512,Claude Giroux,Philadelphia Flyers,New York Rangers,C,19:18,3,0,2,0,0,0,0,10,17,1,0,0,0,0,3,14:44,1:03,3:31,58.82
+2018020332,8477948,Travis Sanheim,Philadelphia Flyers,New York Rangers,D,16:41,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,16:38,0:00,0:03,NA
+2018020332,8474037,James van Riemsdyk,Philadelphia Flyers,New York Rangers,LW,15:25,0,0,3,1,0,0,0,0,1,1,0,0,0,0,1,14:40,0:45,0:00,0
+2018020332,8475738,Jordan Weal,Philadelphia Flyers,New York Rangers,C,15:10,0,1,2,1,0,0,0,5,9,0,0,0,0,1,1,13:55,1:15,0:00,55.56
+2018020332,8478439,Travis Konecny,Philadelphia Flyers,New York Rangers,RW,13:02,2,1,2,0,0,0,5,0,0,0,0,0,0,0,3,13:02,0:00,0:00,NA
+2018020332,8478500,Ivan Provorov,Philadelphia Flyers,New York Rangers,D,24:34,0,0,3,1,0,0,0,0,0,0,2,0,0,0,2,18:45,1:04,4:45,NA
+2018020332,8476872,Scott Laughton,Philadelphia Flyers,New York Rangers,C,13:56,0,0,0,3,0,0,0,6,7,0,1,0,0,0,0,11:27,0:00,2:29,85.71
+2018020332,8477850,Christian Folin,Philadelphia Flyers,New York Rangers,D,19:52,0,0,2,3,0,0,0,0,0,0,0,0,0,3,1,17:28,0:00,2:24,NA
+2018020332,8477399,Tyrell Goulbourne,Philadelphia Flyers,New York Rangers,LW,6:01,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,6:01,0:00,0:00,NA
+2018020332,8479974,Nolan Patrick,Philadelphia Flyers,New York Rangers,C,14:39,0,0,2,1,0,0,0,9,19,2,0,0,0,0,0,13:39,0:57,0:03,47.37
+2018020332,8474161,Jakub Voracek,Philadelphia Flyers,New York Rangers,RW,16:47,0,0,3,0,0,0,0,1,1,0,0,0,0,1,0,16:02,0:45,0:00,100
+2018020332,8477462,Robert Hagg,Philadelphia Flyers,New York Rangers,D,17:24,0,0,4,6,0,0,2,0,0,0,1,0,0,0,1,16:12,0:00,1:12,NA
+2018020332,8478067,Oskar Lindblom,Philadelphia Flyers,New York Rangers,LW,11:32,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,9:42,1:15,0:35,0
+2018020332,8476461,Sean Couturier,Philadelphia Flyers,New York Rangers,C,19:09,1,2,8,0,0,0,0,5,6,3,0,0,0,2,3,15:04,0:45,3:20,83.33
+2018020332,8475462,Radko Gudas,Philadelphia Flyers,New York Rangers,D,21:16,0,0,2,5,0,0,0,0,0,0,0,0,0,0,2,17:40,0:00,3:36,NA
+2018020332,8474190,Wayne Simmonds,Philadelphia Flyers,New York Rangers,RW,15:20,1,0,4,0,0,0,0,1,2,0,0,0,0,1,1,14:05,1:15,0:00,50
+2018020332,8480072,Lias Andersson,New York Rangers,Philadelphia Flyers,C,12:32,0,0,3,1,0,0,0,1,2,0,1,0,0,1,-2,12:30,0:02,0:00,50
+2018020332,8476918,Jimmy Vesey,New York Rangers,Philadelphia Flyers,LW,17:25,0,0,3,2,0,0,0,0,1,1,1,0,0,3,0,13:55,2:52,0:38,0
+2018020332,8471686,Marc Staal,New York Rangers,Philadelphia Flyers,D,15:41,0,0,0,0,0,0,2,0,0,0,0,0,0,3,-1,15:41,0:00,0:00,NA
+2018020332,8476869,Brady Skjei,New York Rangers,Philadelphia Flyers,D,18:43,0,0,1,1,0,0,0,0,0,0,2,0,0,2,-3,17:29,0:00,1:14,NA
+2018020332,8476458,Ryan Strome,New York Rangers,Philadelphia Flyers,C,13:31,0,0,1,1,0,0,5,2,2,1,0,0,0,0,-1,13:29,0:02,0:00,100
+2018020332,8476459,Mika Zibanejad,New York Rangers,Philadelphia Flyers,C,16:20,0,0,1,0,0,0,0,10,18,0,0,0,0,0,-2,12:28,3:06,0:46,55.56
+2018020332,8475855,Jesper Fast,New York Rangers,Philadelphia Flyers,RW,14:26,0,0,0,4,0,0,0,0,0,0,0,0,0,2,-1,13:48,0:02,0:36,NA
+2018020332,8477950,Tony DeAngelo,New York Rangers,Philadelphia Flyers,D,20:57,0,0,3,4,0,0,0,0,0,1,1,0,0,0,-1,17:10,2:52,0:55,NA
+2018020332,8474031,Kevin Shattenkirk,New York Rangers,Philadelphia Flyers,D,22:31,0,0,3,0,0,0,0,0,0,1,1,0,0,0,-2,19:17,3:14,0:00,NA
+2018020332,8475763,Kevin Hayes,New York Rangers,Philadelphia Flyers,C,18:22,0,0,3,0,0,0,0,5,14,0,1,0,0,1,-1,13:44,4:02,0:36,35.71
+2018020332,8476368,Fredrik Claesson,New York Rangers,Philadelphia Flyers,D,19:19,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,18:13,0:02,1:04,NA
+2018020332,8475184,Chris Kreider,New York Rangers,Philadelphia Flyers,LW,16:58,0,0,3,1,0,0,0,0,4,0,0,0,0,0,-1,13:52,3:06,0:00,0
+2018020332,8479353,Brett Howden,New York Rangers,Philadelphia Flyers,C,16:58,0,0,0,0,0,0,0,7,15,0,1,0,0,0,0,13:17,3:03,0:38,46.67
+2018020332,8475692,Mats Zuccarello,New York Rangers,Philadelphia Flyers,RW,15:29,0,0,0,1,0,0,0,0,1,0,1,0,0,2,-3,12:34,2:55,0:00,0
+2018020332,8476396,Steven Fogarty,New York Rangers,Philadelphia Flyers,C,10:26,0,0,2,0,0,0,0,1,6,0,0,0,0,1,-2,10:26,0:00,0:00,16.67
+2018020332,8480078,Filip Chytil,New York Rangers,Philadelphia Flyers,C,15:25,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,13:29,1:56,0:00,NA
+2018020332,8476480,Vladislav Namestnikov,New York Rangers,Philadelphia Flyers,C,13:35,0,0,2,4,0,0,0,0,0,0,0,0,0,1,0,12:49,0:00,0:46,NA
+2018020332,8480145,Neal Pionk,New York Rangers,Philadelphia Flyers,D,19:33,0,0,3,1,0,0,0,0,0,0,0,0,0,1,-1,16:00,2:46,0:47,NA

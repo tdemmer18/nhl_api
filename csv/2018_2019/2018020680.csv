@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020680,8470626,Loui Eriksson,Vancouver Canucks,LW,11:57,0,0,2,0,0,0,0,0,0,1,1,0,0,0,-1,9:00,0:58,1:59,NA
-2018020680,8474849,Antoine Roussel,Vancouver Canucks,LW,13:57,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,13:11,0:00,0:46,NA
-2018020680,8477958,Nikolay Goldobin,Vancouver Canucks,RW,14:26,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-2,11:26,3:00,0:00,NA
-2018020680,8477937,Jake Virtanen,Vancouver Canucks,RW,14:34,0,0,1,4,0,0,0,0,0,1,0,0,0,1,0,14:06,0:28,0:00,NA
-2018020680,8477018,Ben Hutton,Vancouver Canucks,D,19:10,1,0,0,2,0,0,0,0,0,0,0,0,0,3,0,17:59,0:24,0:47,NA
-2018020680,8471303,Alexander Edler,Vancouver Canucks,D,23:47,0,0,4,1,0,0,2,0,0,1,0,0,0,0,0,18:58,3:36,1:13,NA
-2018020680,8478874,Adam Gaudette,Vancouver Canucks,C,10:37,0,1,3,0,0,0,0,2,6,0,1,0,0,1,1,9:37,1:00,0:00,33.33
-2018020680,8478444,Brock Boeser,Vancouver Canucks,RW,23:18,0,0,3,0,0,0,0,0,1,1,0,0,0,0,-2,19:46,3:32,0:00,0
-2018020680,8476884,Derrick Pouliot,Vancouver Canucks,D,17:14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17:14,0:00,0:00,NA
-2018020680,8476466,Sven Baertschi,Vancouver Canucks,LW,19:41,0,2,6,2,0,0,0,0,0,0,1,0,0,0,2,16:39,3:02,0:00,NA
-2018020680,8477500,Bo Horvat,Vancouver Canucks,C,24:35,0,0,6,0,0,0,0,16,25,0,0,0,0,1,-2,21:03,3:32,0:00,64
-2018020680,8475690,Christopher Tanev,Vancouver Canucks,D,21:42,1,0,1,0,0,0,0,0,0,2,1,0,0,2,0,18:29,0:00,3:13,NA
-2018020680,8475790,Erik Gudbranson,Vancouver Canucks,D,20:35,0,0,1,4,0,0,0,0,0,0,0,0,0,1,-2,17:48,0:00,2:47,NA
-2018020680,8476440,Markus Granlund,Vancouver Canucks,C,16:08,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,13:39,0:28,2:01,0
-2018020680,8479442,Troy Stecher,Vancouver Canucks,D,17:41,1,0,1,1,0,0,0,0,0,2,0,0,0,1,1,17:41,0:00,0:00,NA
-2018020680,8477353,Tyler Motte,Vancouver Canucks,C,10:32,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,10:32,0:00,0:00,NA
-2018020680,8474291,Jay Beagle,Vancouver Canucks,C,12:08,0,0,1,4,0,0,0,6,10,0,0,0,0,0,0,10:07,0:00,2:01,60
-2018020680,8474091,Brandon Sutter,Vancouver Canucks,C,16:28,0,0,2,0,0,0,2,13,19,0,0,0,0,0,1,15:15,0:00,1:13,68.42
-2018020680,8471769,Niklas Hjalmarsson,Arizona Coyotes,D,21:55,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,18:34,0:00,3:21,NA
-2018020680,8474613,Derek Stepan,Arizona Coyotes,C,19:35,0,0,3,0,0,0,2,10,26,0,1,0,0,1,0,16:34,1:01,2:00,38.46
-2018020680,8475209,Richard Panik,Arizona Coyotes,RW,15:58,1,2,4,3,0,0,0,0,0,0,0,0,0,0,2,13:40,1:01,1:17,NA
-2018020680,8478856,Conor Garland,Arizona Coyotes,RW,16:41,0,1,1,2,0,0,0,0,0,0,0,0,0,0,1,13:42,2:59,0:00,NA
-2018020680,8470755,Brad Richardson,Arizona Coyotes,C,14:01,1,0,0,1,0,0,0,6,10,0,0,0,0,1,1,11:18,0:00,2:43,60
-2018020680,8474131,Mario Kempe,Arizona Coyotes,RW,14:25,0,0,2,3,0,0,0,6,12,0,0,0,0,1,-2,13:19,0:00,1:06,50
-2018020680,8477851,Jordan Oesterle,Arizona Coyotes,D,22:38,0,0,2,1,0,0,0,0,0,1,0,0,0,2,1,18:02,1:01,3:35,NA
-2018020680,8476994,Vinnie Hinostroza,Arizona Coyotes,C,12:12,2,0,1,2,0,0,0,1,3,0,0,0,0,0,-1,12:12,0:00,0:00,33.33
-2018020680,8476851,Alex Galchenyuk,Arizona Coyotes,C,15:03,1,0,0,0,0,0,2,2,7,2,0,0,0,0,1,12:04,2:59,0:00,28.57
-2018020680,8471274,Alex Goligoski,Arizona Coyotes,D,19:34,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,17:54,1:01,0:39,NA
-2018020680,8478474,Lawson Crouse,Arizona Coyotes,LW,13:03,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,12:09,0:00,0:54,NA
-2018020680,8479345,Jakob Chychrun,Arizona Coyotes,D,19:32,2,0,2,0,0,0,0,0,0,0,0,0,0,1,1,16:33,2:59,0:00,NA
-2018020680,8478432,Christian Fischer,Arizona Coyotes,RW,17:11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,16:10,1:01,0:00,NA
-2018020680,8479343,Clayton Keller,Arizona Coyotes,C,20:05,0,0,0,0,0,0,0,0,1,0,1,0,0,0,-1,17:06,2:59,0:00,0
-2018020680,8477460,Laurent Dauphin,Arizona Coyotes,C,12:19,0,0,2,0,0,0,0,0,1,0,0,0,0,1,-1,12:19,0:00,0:00,0
-2018020680,8475171,Oliver Ekman-Larsson,Arizona Coyotes,D,25:08,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-2,21:44,2:59,0:25,NA
-2018020680,8476393,Nick Cousins,Arizona Coyotes,C,13:48,0,1,2,2,0,0,0,0,2,0,0,0,0,0,2,13:48,0:00,0:00,0
-2018020680,8480950,Ilya Lyubushkin,Arizona Coyotes,D,15:23,0,0,0,4,0,0,0,0,0,0,0,0,0,2,1,15:23,0:00,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020680,8470626,Loui Eriksson,Vancouver Canucks,Arizona Coyotes,LW,11:57,0,0,2,0,0,0,0,0,0,1,1,0,0,0,-1,9:00,0:58,1:59,NA
+2018020680,8474849,Antoine Roussel,Vancouver Canucks,Arizona Coyotes,LW,13:57,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,13:11,0:00,0:46,NA
+2018020680,8477958,Nikolay Goldobin,Vancouver Canucks,Arizona Coyotes,RW,14:26,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-2,11:26,3:00,0:00,NA
+2018020680,8477937,Jake Virtanen,Vancouver Canucks,Arizona Coyotes,RW,14:34,0,0,1,4,0,0,0,0,0,1,0,0,0,1,0,14:06,0:28,0:00,NA
+2018020680,8477018,Ben Hutton,Vancouver Canucks,Arizona Coyotes,D,19:10,1,0,0,2,0,0,0,0,0,0,0,0,0,3,0,17:59,0:24,0:47,NA
+2018020680,8471303,Alexander Edler,Vancouver Canucks,Arizona Coyotes,D,23:47,0,0,4,1,0,0,2,0,0,1,0,0,0,0,0,18:58,3:36,1:13,NA
+2018020680,8478874,Adam Gaudette,Vancouver Canucks,Arizona Coyotes,C,10:37,0,1,3,0,0,0,0,2,6,0,1,0,0,1,1,9:37,1:00,0:00,33.33
+2018020680,8478444,Brock Boeser,Vancouver Canucks,Arizona Coyotes,RW,23:18,0,0,3,0,0,0,0,0,1,1,0,0,0,0,-2,19:46,3:32,0:00,0
+2018020680,8476884,Derrick Pouliot,Vancouver Canucks,Arizona Coyotes,D,17:14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17:14,0:00,0:00,NA
+2018020680,8476466,Sven Baertschi,Vancouver Canucks,Arizona Coyotes,LW,19:41,0,2,6,2,0,0,0,0,0,0,1,0,0,0,2,16:39,3:02,0:00,NA
+2018020680,8477500,Bo Horvat,Vancouver Canucks,Arizona Coyotes,C,24:35,0,0,6,0,0,0,0,16,25,0,0,0,0,1,-2,21:03,3:32,0:00,64
+2018020680,8475690,Christopher Tanev,Vancouver Canucks,Arizona Coyotes,D,21:42,1,0,1,0,0,0,0,0,0,2,1,0,0,2,0,18:29,0:00,3:13,NA
+2018020680,8475790,Erik Gudbranson,Vancouver Canucks,Arizona Coyotes,D,20:35,0,0,1,4,0,0,0,0,0,0,0,0,0,1,-2,17:48,0:00,2:47,NA
+2018020680,8476440,Markus Granlund,Vancouver Canucks,Arizona Coyotes,C,16:08,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,13:39,0:28,2:01,0
+2018020680,8479442,Troy Stecher,Vancouver Canucks,Arizona Coyotes,D,17:41,1,0,1,1,0,0,0,0,0,2,0,0,0,1,1,17:41,0:00,0:00,NA
+2018020680,8477353,Tyler Motte,Vancouver Canucks,Arizona Coyotes,C,10:32,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,10:32,0:00,0:00,NA
+2018020680,8474291,Jay Beagle,Vancouver Canucks,Arizona Coyotes,C,12:08,0,0,1,4,0,0,0,6,10,0,0,0,0,0,0,10:07,0:00,2:01,60
+2018020680,8474091,Brandon Sutter,Vancouver Canucks,Arizona Coyotes,C,16:28,0,0,2,0,0,0,2,13,19,0,0,0,0,0,1,15:15,0:00,1:13,68.42
+2018020680,8471769,Niklas Hjalmarsson,Arizona Coyotes,Vancouver Canucks,D,21:55,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,18:34,0:00,3:21,NA
+2018020680,8474613,Derek Stepan,Arizona Coyotes,Vancouver Canucks,C,19:35,0,0,3,0,0,0,2,10,26,0,1,0,0,1,0,16:34,1:01,2:00,38.46
+2018020680,8475209,Richard Panik,Arizona Coyotes,Vancouver Canucks,RW,15:58,1,2,4,3,0,0,0,0,0,0,0,0,0,0,2,13:40,1:01,1:17,NA
+2018020680,8478856,Conor Garland,Arizona Coyotes,Vancouver Canucks,RW,16:41,0,1,1,2,0,0,0,0,0,0,0,0,0,0,1,13:42,2:59,0:00,NA
+2018020680,8470755,Brad Richardson,Arizona Coyotes,Vancouver Canucks,C,14:01,1,0,0,1,0,0,0,6,10,0,0,0,0,1,1,11:18,0:00,2:43,60
+2018020680,8474131,Mario Kempe,Arizona Coyotes,Vancouver Canucks,RW,14:25,0,0,2,3,0,0,0,6,12,0,0,0,0,1,-2,13:19,0:00,1:06,50
+2018020680,8477851,Jordan Oesterle,Arizona Coyotes,Vancouver Canucks,D,22:38,0,0,2,1,0,0,0,0,0,1,0,0,0,2,1,18:02,1:01,3:35,NA
+2018020680,8476994,Vinnie Hinostroza,Arizona Coyotes,Vancouver Canucks,C,12:12,2,0,1,2,0,0,0,1,3,0,0,0,0,0,-1,12:12,0:00,0:00,33.33
+2018020680,8476851,Alex Galchenyuk,Arizona Coyotes,Vancouver Canucks,C,15:03,1,0,0,0,0,0,2,2,7,2,0,0,0,0,1,12:04,2:59,0:00,28.57
+2018020680,8471274,Alex Goligoski,Arizona Coyotes,Vancouver Canucks,D,19:34,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,17:54,1:01,0:39,NA
+2018020680,8478474,Lawson Crouse,Arizona Coyotes,Vancouver Canucks,LW,13:03,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,12:09,0:00,0:54,NA
+2018020680,8479345,Jakob Chychrun,Arizona Coyotes,Vancouver Canucks,D,19:32,2,0,2,0,0,0,0,0,0,0,0,0,0,1,1,16:33,2:59,0:00,NA
+2018020680,8478432,Christian Fischer,Arizona Coyotes,Vancouver Canucks,RW,17:11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,16:10,1:01,0:00,NA
+2018020680,8479343,Clayton Keller,Arizona Coyotes,Vancouver Canucks,C,20:05,0,0,0,0,0,0,0,0,1,0,1,0,0,0,-1,17:06,2:59,0:00,0
+2018020680,8477460,Laurent Dauphin,Arizona Coyotes,Vancouver Canucks,C,12:19,0,0,2,0,0,0,0,0,1,0,0,0,0,1,-1,12:19,0:00,0:00,0
+2018020680,8475171,Oliver Ekman-Larsson,Arizona Coyotes,Vancouver Canucks,D,25:08,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-2,21:44,2:59,0:25,NA
+2018020680,8476393,Nick Cousins,Arizona Coyotes,Vancouver Canucks,C,13:48,0,1,2,2,0,0,0,0,2,0,0,0,0,0,2,13:48,0:00,0:00,0
+2018020680,8480950,Ilya Lyubushkin,Arizona Coyotes,Vancouver Canucks,D,15:23,0,0,0,4,0,0,0,0,0,0,0,0,0,2,1,15:23,0:00,0:00,NA

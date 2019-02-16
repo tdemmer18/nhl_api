@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020411,8480172,Jan Rutta,Chicago Blackhawks,D,16:39,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,13:52,0:00,2:47,NA
-2018020411,8470607,Brent Seabrook,Chicago Blackhawks,D,17:57,0,0,1,3,0,0,0,0,0,0,0,0,0,2,0,11:07,1:41,5:09,NA
-2018020411,8477943,Brendan Perlini,Chicago Blackhawks,LW,6:08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6:08,0:00,0:00,NA
-2018020411,8473604,Jonathan Toews,Chicago Blackhawks,C,23:20,0,1,1,0,0,0,0,16,27,1,0,0,0,0,0,12:50,5:07,5:23,59.26
-2018020411,8470543,Chris Kunitz,Chicago Blackhawks,LW,4:01,0,0,0,1,0,0,17,0,0,0,0,0,0,0,0,4:01,0:00,0:00,NA
-2018020411,8476438,Brandon Saad,Chicago Blackhawks,LW,18:31,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,10:30,5:03,2:58,100
-2018020411,8479337,Alex DeBrincat,Chicago Blackhawks,LW,15:31,1,0,2,0,0,1,0,0,0,1,1,0,0,0,0,10:02,5:29,0:00,NA
-2018020411,8475430,Brandon Manning,Chicago Blackhawks,D,12:20,0,0,0,4,0,0,7,0,0,0,0,0,0,0,0,9:33,0:00,2:47,NA
-2018020411,8470281,Duncan Keith,Chicago Blackhawks,D,24:02,0,0,0,2,0,0,0,0,0,2,1,0,0,4,0,19:08,0:04,4:50,NA
-2018020411,8479657,Alexandre Fortin,Chicago Blackhawks,LW,10:36,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,7:59,0:00,2:37,NA
-2018020411,8474141,Patrick Kane,Chicago Blackhawks,RW,23:54,0,0,4,0,0,0,0,0,0,0,1,0,0,0,0,18:31,5:23,0:00,NA
-2018020411,8475323,Marcus Kruger,Chicago Blackhawks,C,10:29,0,0,1,2,0,0,0,2,2,0,0,0,0,0,0,6:23,0:00,4:06,100
-2018020411,8480946,Dominik Kahun,Chicago Blackhawks,C,16:10,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,14:23,1:47,0:00,100
-2018020411,8473573,Artem Anisimov,Chicago Blackhawks,C,14:35,0,0,5,0,0,0,0,3,6,0,0,0,0,0,0,9:21,2:03,3:11,50
-2018020411,8478440,Dylan Strome,Chicago Blackhawks,C,12:41,0,1,4,0,1,0,0,2,7,0,2,0,0,0,0,10:38,2:03,0:00,28.57
-2018020411,8478055,Gustav Forsling,Chicago Blackhawks,D,19:47,0,0,2,0,0,0,2,0,0,0,3,0,0,1,0,13:16,1:59,4:32,NA
-2018020411,8480144,David Kampf,Chicago Blackhawks,C,17:25,0,0,1,0,0,0,0,7,12,1,1,0,0,0,0,13:40,0:00,3:45,58.33
-2018020411,8480035,Henri Jokiharju,Chicago Blackhawks,D,24:17,0,0,0,1,0,0,0,0,0,0,3,0,0,1,0,17:11,5:11,1:55,NA
-2018020411,8470966,Mark Giordano,Calgary Flames,D,25:45,0,0,4,4,0,0,0,0,0,1,2,0,0,4,0,16:49,4:47,4:09,NA
-2018020411,8471707,James Neal,Calgary Flames,LW,12:53,1,0,4,0,0,1,2,0,1,0,0,0,0,0,0,9:05,3:48,0:00,0
-2018020411,8477903,Garnet Hathaway,Calgary Flames,RW,9:41,0,0,1,2,0,0,5,0,1,1,1,0,0,2,0,5:25,0:46,3:30,0
-2018020411,8477935,Sam Bennett,Calgary Flames,C,16:04,0,0,1,2,0,0,4,0,1,0,0,0,0,1,0,12:16,3:48,0:00,0
-2018020411,8474612,Travis Hamonic,Calgary Flames,D,22:02,0,0,2,1,0,0,0,0,0,0,1,0,0,3,0,16:08,1:22,4:32,NA
-2018020411,8474673,TJ Brodie,Calgary Flames,D,20:42,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,17:32,1:48,1:22,NA
-2018020411,8476873,Mark Jankowski,Calgary Flames,C,11:12,0,0,0,0,0,0,0,3,8,0,0,0,0,2,0,7:46,1:46,1:40,37.5
-2018020411,8474150,Mikael Backlund,Calgary Flames,C,20:13,0,0,0,2,0,0,0,8,12,1,1,0,0,2,0,13:25,4:01,2:47,66.67
-2018020411,8476346,Johnny Gaudreau,Calgary Flames,LW,20:57,2,0,5,0,0,1,0,0,0,0,0,0,0,0,0,15:29,5:26,0:02,NA
-2018020411,8479314,Matthew Tkachuk,Calgary Flames,LW,16:34,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,11:25,5:09,0:00,NA
-2018020411,8478397,Rasmus Andersson,Calgary Flames,D,11:07,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,8:48,1:03,1:16,NA
-2018020411,8478430,Oliver Kylington,Calgary Flames,D,9:16,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,9:16,0:00,0:00,NA
-2018020411,8478396,Noah Hanifin,Calgary Flames,D,23:13,1,0,1,2,0,1,0,0,0,1,2,0,0,2,0,15:47,4:25,3:01,NA
-2018020411,8477497,Sean Monahan,Calgary Flames,C,20:10,1,1,5,1,0,1,0,5,14,1,0,0,0,0,0,14:42,5:26,0:02,35.71
-2018020411,8478585,Derek Ryan,Calgary Flames,C,15:27,0,1,3,1,1,0,0,7,12,0,0,0,0,0,0,7:37,3:32,4:18,58.33
-2018020411,8477496,Elias Lindholm,Calgary Flames,C,18:29,1,1,5,1,1,0,0,1,7,0,0,0,0,0,0,11:21,5:07,2:01,14.29
-2018020411,8478233,Andrew Mangiapane,Calgary Flames,LW,8:53,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0,7:53,1:00,0:00,NA
-2018020411,8479066,Ryan Lomberg,Calgary Flames,LW,8:17,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,6:31,1:46,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020411,8480172,Jan Rutta,Chicago Blackhawks,Calgary Flames,D,16:39,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,13:52,0:00,2:47,NA
+2018020411,8470607,Brent Seabrook,Chicago Blackhawks,Calgary Flames,D,17:57,0,0,1,3,0,0,0,0,0,0,0,0,0,2,0,11:07,1:41,5:09,NA
+2018020411,8477943,Brendan Perlini,Chicago Blackhawks,Calgary Flames,LW,6:08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6:08,0:00,0:00,NA
+2018020411,8473604,Jonathan Toews,Chicago Blackhawks,Calgary Flames,C,23:20,0,1,1,0,0,0,0,16,27,1,0,0,0,0,0,12:50,5:07,5:23,59.26
+2018020411,8470543,Chris Kunitz,Chicago Blackhawks,Calgary Flames,LW,4:01,0,0,0,1,0,0,17,0,0,0,0,0,0,0,0,4:01,0:00,0:00,NA
+2018020411,8476438,Brandon Saad,Chicago Blackhawks,Calgary Flames,LW,18:31,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,10:30,5:03,2:58,100
+2018020411,8479337,Alex DeBrincat,Chicago Blackhawks,Calgary Flames,LW,15:31,1,0,2,0,0,1,0,0,0,1,1,0,0,0,0,10:02,5:29,0:00,NA
+2018020411,8475430,Brandon Manning,Chicago Blackhawks,Calgary Flames,D,12:20,0,0,0,4,0,0,7,0,0,0,0,0,0,0,0,9:33,0:00,2:47,NA
+2018020411,8470281,Duncan Keith,Chicago Blackhawks,Calgary Flames,D,24:02,0,0,0,2,0,0,0,0,0,2,1,0,0,4,0,19:08,0:04,4:50,NA
+2018020411,8479657,Alexandre Fortin,Chicago Blackhawks,Calgary Flames,LW,10:36,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,7:59,0:00,2:37,NA
+2018020411,8474141,Patrick Kane,Chicago Blackhawks,Calgary Flames,RW,23:54,0,0,4,0,0,0,0,0,0,0,1,0,0,0,0,18:31,5:23,0:00,NA
+2018020411,8475323,Marcus Kruger,Chicago Blackhawks,Calgary Flames,C,10:29,0,0,1,2,0,0,0,2,2,0,0,0,0,0,0,6:23,0:00,4:06,100
+2018020411,8480946,Dominik Kahun,Chicago Blackhawks,Calgary Flames,C,16:10,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,14:23,1:47,0:00,100
+2018020411,8473573,Artem Anisimov,Chicago Blackhawks,Calgary Flames,C,14:35,0,0,5,0,0,0,0,3,6,0,0,0,0,0,0,9:21,2:03,3:11,50
+2018020411,8478440,Dylan Strome,Chicago Blackhawks,Calgary Flames,C,12:41,0,1,4,0,1,0,0,2,7,0,2,0,0,0,0,10:38,2:03,0:00,28.57
+2018020411,8478055,Gustav Forsling,Chicago Blackhawks,Calgary Flames,D,19:47,0,0,2,0,0,0,2,0,0,0,3,0,0,1,0,13:16,1:59,4:32,NA
+2018020411,8480144,David Kampf,Chicago Blackhawks,Calgary Flames,C,17:25,0,0,1,0,0,0,0,7,12,1,1,0,0,0,0,13:40,0:00,3:45,58.33
+2018020411,8480035,Henri Jokiharju,Chicago Blackhawks,Calgary Flames,D,24:17,0,0,0,1,0,0,0,0,0,0,3,0,0,1,0,17:11,5:11,1:55,NA
+2018020411,8470966,Mark Giordano,Calgary Flames,Chicago Blackhawks,D,25:45,0,0,4,4,0,0,0,0,0,1,2,0,0,4,0,16:49,4:47,4:09,NA
+2018020411,8471707,James Neal,Calgary Flames,Chicago Blackhawks,LW,12:53,1,0,4,0,0,1,2,0,1,0,0,0,0,0,0,9:05,3:48,0:00,0
+2018020411,8477903,Garnet Hathaway,Calgary Flames,Chicago Blackhawks,RW,9:41,0,0,1,2,0,0,5,0,1,1,1,0,0,2,0,5:25,0:46,3:30,0
+2018020411,8477935,Sam Bennett,Calgary Flames,Chicago Blackhawks,C,16:04,0,0,1,2,0,0,4,0,1,0,0,0,0,1,0,12:16,3:48,0:00,0
+2018020411,8474612,Travis Hamonic,Calgary Flames,Chicago Blackhawks,D,22:02,0,0,2,1,0,0,0,0,0,0,1,0,0,3,0,16:08,1:22,4:32,NA
+2018020411,8474673,TJ Brodie,Calgary Flames,Chicago Blackhawks,D,20:42,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,17:32,1:48,1:22,NA
+2018020411,8476873,Mark Jankowski,Calgary Flames,Chicago Blackhawks,C,11:12,0,0,0,0,0,0,0,3,8,0,0,0,0,2,0,7:46,1:46,1:40,37.5
+2018020411,8474150,Mikael Backlund,Calgary Flames,Chicago Blackhawks,C,20:13,0,0,0,2,0,0,0,8,12,1,1,0,0,2,0,13:25,4:01,2:47,66.67
+2018020411,8476346,Johnny Gaudreau,Calgary Flames,Chicago Blackhawks,LW,20:57,2,0,5,0,0,1,0,0,0,0,0,0,0,0,0,15:29,5:26,0:02,NA
+2018020411,8479314,Matthew Tkachuk,Calgary Flames,Chicago Blackhawks,LW,16:34,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,11:25,5:09,0:00,NA
+2018020411,8478397,Rasmus Andersson,Calgary Flames,Chicago Blackhawks,D,11:07,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,8:48,1:03,1:16,NA
+2018020411,8478430,Oliver Kylington,Calgary Flames,Chicago Blackhawks,D,9:16,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,9:16,0:00,0:00,NA
+2018020411,8478396,Noah Hanifin,Calgary Flames,Chicago Blackhawks,D,23:13,1,0,1,2,0,1,0,0,0,1,2,0,0,2,0,15:47,4:25,3:01,NA
+2018020411,8477497,Sean Monahan,Calgary Flames,Chicago Blackhawks,C,20:10,1,1,5,1,0,1,0,5,14,1,0,0,0,0,0,14:42,5:26,0:02,35.71
+2018020411,8478585,Derek Ryan,Calgary Flames,Chicago Blackhawks,C,15:27,0,1,3,1,1,0,0,7,12,0,0,0,0,0,0,7:37,3:32,4:18,58.33
+2018020411,8477496,Elias Lindholm,Calgary Flames,Chicago Blackhawks,C,18:29,1,1,5,1,1,0,0,1,7,0,0,0,0,0,0,11:21,5:07,2:01,14.29
+2018020411,8478233,Andrew Mangiapane,Calgary Flames,Chicago Blackhawks,LW,8:53,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0,7:53,1:00,0:00,NA
+2018020411,8479066,Ryan Lomberg,Calgary Flames,Chicago Blackhawks,LW,8:17,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,6:31,1:46,0:00,NA

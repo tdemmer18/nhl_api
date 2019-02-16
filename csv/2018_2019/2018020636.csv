@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020636,8476906,Shayne Gostisbehere,Philadelphia Flyers,D,21:47,0,0,4,1,0,0,0,0,0,0,0,0,0,2,-2,16:53,4:54,0:00,NA
-2018020636,8474668,Dale Weise,Philadelphia Flyers,RW,14:23,0,0,1,7,0,0,0,0,0,0,0,0,0,1,0,12:00,0:00,2:23,NA
-2018020636,8473512,Claude Giroux,Philadelphia Flyers,C,20:51,0,0,1,0,0,0,0,9,13,1,0,0,0,0,1,15:06,4:17,1:28,69.23
-2018020636,8477948,Travis Sanheim,Philadelphia Flyers,D,25:38,0,1,4,0,1,0,0,0,0,0,0,0,0,1,0,21:34,2:24,1:40,NA
-2018020636,8474037,James van Riemsdyk,Philadelphia Flyers,LW,13:51,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-2,11:06,2:45,0:00,NA
-2018020636,8475738,Jordan Weal,Philadelphia Flyers,C,15:04,1,0,1,1,0,1,0,3,8,1,3,0,0,0,-2,12:11,2:53,0:00,37.5
-2018020636,8478439,Travis Konecny,Philadelphia Flyers,RW,17:09,0,1,3,0,0,0,0,0,1,1,0,0,0,0,1,14:16,2:53,0:00,0
-2018020636,8478500,Ivan Provorov,Philadelphia Flyers,D,24:56,1,0,0,1,0,1,4,0,0,0,0,0,0,0,0,21:38,2:31,0:47,NA
-2018020636,8476872,Scott Laughton,Philadelphia Flyers,C,15:09,0,0,2,1,0,0,0,6,12,1,0,0,0,0,0,12:38,0:00,2:31,50
-2018020636,8477850,Christian Folin,Philadelphia Flyers,D,13:08,0,0,1,4,0,0,0,0,0,0,0,0,0,5,0,10:37,0:11,2:20,NA
-2018020636,8479974,Nolan Patrick,Philadelphia Flyers,C,10:25,0,0,1,0,0,0,0,5,8,0,0,0,0,0,-1,10:23,0:01,0:01,62.5
-2018020636,8474161,Jakub Voracek,Philadelphia Flyers,RW,17:35,0,0,4,0,0,0,0,0,0,0,0,0,0,2,-1,13:17,4:18,0:00,NA
-2018020636,8477462,Robert Hagg,Philadelphia Flyers,D,16:04,0,0,2,2,0,0,0,0,0,0,0,0,0,1,0,13:20,0:05,2:39,NA
-2018020636,8478067,Oskar Lindblom,Philadelphia Flyers,LW,9:41,0,0,4,0,0,0,0,0,0,0,1,0,0,2,0,9:39,0:01,0:01,NA
-2018020636,8476461,Sean Couturier,Philadelphia Flyers,C,21:01,0,0,1,0,0,0,0,8,13,2,0,0,0,0,1,15:00,4:25,1:36,61.54
-2018020636,8475462,Radko Gudas,Philadelphia Flyers,D,16:38,0,0,2,3,0,0,2,0,0,1,1,0,0,3,-1,16:04,0:00,0:34,NA
-2018020636,8477290,Michael Raffl,Philadelphia Flyers,LW,11:56,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,11:56,0:00,0:00,0
-2018020636,8474190,Wayne Simmonds,Philadelphia Flyers,RW,14:41,0,0,2,1,0,0,0,0,0,0,0,0,0,0,-1,10:24,4:17,0:00,NA
-2018020636,8470966,Mark Giordano,Calgary Flames,D,25:49,0,0,2,2,0,0,0,0,0,2,1,0,0,2,0,19:30,2:26,3:53,NA
-2018020636,8471707,James Neal,Calgary Flames,LW,15:35,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,13:45,1:50,0:00,NA
-2018020636,8477903,Garnet Hathaway,Calgary Flames,RW,10:02,0,0,0,1,0,0,2,0,0,1,0,0,0,0,-1,7:30,0:03,2:29,NA
-2018020636,8477935,Sam Bennett,Calgary Flames,C,13:17,1,0,2,2,0,0,0,0,1,0,1,0,0,1,1,11:46,1:31,0:00,0
-2018020636,8473564,Michael Frolik,Calgary Flames,RW,11:03,0,0,2,1,0,0,0,0,0,2,1,0,0,0,0,11:03,0:00,0:00,NA
-2018020636,8474612,Travis Hamonic,Calgary Flames,D,23:44,0,0,2,0,0,0,0,0,0,0,0,0,0,3,1,19:47,0:03,3:54,NA
-2018020636,8474673,TJ Brodie,Calgary Flames,D,23:42,0,1,1,0,0,0,0,0,0,0,0,0,0,3,1,20:25,0:00,3:17,NA
-2018020636,8476873,Mark Jankowski,Calgary Flames,C,16:03,0,0,3,0,0,0,0,3,11,2,0,0,0,0,0,12:01,0:03,3:59,27.27
-2018020636,8474150,Mikael Backlund,Calgary Flames,C,15:06,0,0,4,1,0,0,0,2,6,1,1,0,0,0,2,12:11,1:31,1:24,33.33
-2018020636,8476346,Johnny Gaudreau,Calgary Flames,LW,20:31,0,1,2,0,0,0,0,0,0,1,2,0,0,0,1,18:05,2:26,0:00,NA
-2018020636,8479314,Matthew Tkachuk,Calgary Flames,LW,16:29,1,1,4,1,0,0,0,0,0,1,1,0,0,0,2,14:03,2:26,0:00,NA
-2018020636,8478512,Austin Czarnik,Calgary Flames,C,7:58,0,0,2,1,0,0,0,0,0,0,0,0,0,0,-1,7:55,0:03,0:00,NA
-2018020636,8478397,Rasmus Andersson,Calgary Flames,D,11:18,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,11:18,0:00,0:00,NA
-2018020636,8478430,Oliver Kylington,Calgary Flames,D,9:37,0,0,1,0,0,0,0,0,0,0,0,0,0,2,-1,9:37,0:00,0:00,NA
-2018020636,8478396,Noah Hanifin,Calgary Flames,D,23:37,2,0,0,3,0,0,0,0,0,0,2,0,0,2,2,18:45,1:34,3:18,NA
-2018020636,8477497,Sean Monahan,Calgary Flames,C,19:36,1,0,1,0,0,0,0,5,12,0,2,0,0,0,1,17:29,2:07,0:00,41.67
-2018020636,8478585,Derek Ryan,Calgary Flames,C,12:02,0,0,1,0,0,0,2,9,13,0,0,0,0,0,-1,7:50,1:31,2:41,69.23
-2018020636,8477496,Elias Lindholm,Calgary Flames,C,21:17,0,0,2,1,0,0,0,6,13,0,0,0,0,1,0,15:02,2:26,3:49,46.15
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020636,8476906,Shayne Gostisbehere,Philadelphia Flyers,Calgary Flames,D,21:47,0,0,4,1,0,0,0,0,0,0,0,0,0,2,-2,16:53,4:54,0:00,NA
+2018020636,8474668,Dale Weise,Philadelphia Flyers,Calgary Flames,RW,14:23,0,0,1,7,0,0,0,0,0,0,0,0,0,1,0,12:00,0:00,2:23,NA
+2018020636,8473512,Claude Giroux,Philadelphia Flyers,Calgary Flames,C,20:51,0,0,1,0,0,0,0,9,13,1,0,0,0,0,1,15:06,4:17,1:28,69.23
+2018020636,8477948,Travis Sanheim,Philadelphia Flyers,Calgary Flames,D,25:38,0,1,4,0,1,0,0,0,0,0,0,0,0,1,0,21:34,2:24,1:40,NA
+2018020636,8474037,James van Riemsdyk,Philadelphia Flyers,Calgary Flames,LW,13:51,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-2,11:06,2:45,0:00,NA
+2018020636,8475738,Jordan Weal,Philadelphia Flyers,Calgary Flames,C,15:04,1,0,1,1,0,1,0,3,8,1,3,0,0,0,-2,12:11,2:53,0:00,37.5
+2018020636,8478439,Travis Konecny,Philadelphia Flyers,Calgary Flames,RW,17:09,0,1,3,0,0,0,0,0,1,1,0,0,0,0,1,14:16,2:53,0:00,0
+2018020636,8478500,Ivan Provorov,Philadelphia Flyers,Calgary Flames,D,24:56,1,0,0,1,0,1,4,0,0,0,0,0,0,0,0,21:38,2:31,0:47,NA
+2018020636,8476872,Scott Laughton,Philadelphia Flyers,Calgary Flames,C,15:09,0,0,2,1,0,0,0,6,12,1,0,0,0,0,0,12:38,0:00,2:31,50
+2018020636,8477850,Christian Folin,Philadelphia Flyers,Calgary Flames,D,13:08,0,0,1,4,0,0,0,0,0,0,0,0,0,5,0,10:37,0:11,2:20,NA
+2018020636,8479974,Nolan Patrick,Philadelphia Flyers,Calgary Flames,C,10:25,0,0,1,0,0,0,0,5,8,0,0,0,0,0,-1,10:23,0:01,0:01,62.5
+2018020636,8474161,Jakub Voracek,Philadelphia Flyers,Calgary Flames,RW,17:35,0,0,4,0,0,0,0,0,0,0,0,0,0,2,-1,13:17,4:18,0:00,NA
+2018020636,8477462,Robert Hagg,Philadelphia Flyers,Calgary Flames,D,16:04,0,0,2,2,0,0,0,0,0,0,0,0,0,1,0,13:20,0:05,2:39,NA
+2018020636,8478067,Oskar Lindblom,Philadelphia Flyers,Calgary Flames,LW,9:41,0,0,4,0,0,0,0,0,0,0,1,0,0,2,0,9:39,0:01,0:01,NA
+2018020636,8476461,Sean Couturier,Philadelphia Flyers,Calgary Flames,C,21:01,0,0,1,0,0,0,0,8,13,2,0,0,0,0,1,15:00,4:25,1:36,61.54
+2018020636,8475462,Radko Gudas,Philadelphia Flyers,Calgary Flames,D,16:38,0,0,2,3,0,0,2,0,0,1,1,0,0,3,-1,16:04,0:00,0:34,NA
+2018020636,8477290,Michael Raffl,Philadelphia Flyers,Calgary Flames,LW,11:56,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,11:56,0:00,0:00,0
+2018020636,8474190,Wayne Simmonds,Philadelphia Flyers,Calgary Flames,RW,14:41,0,0,2,1,0,0,0,0,0,0,0,0,0,0,-1,10:24,4:17,0:00,NA
+2018020636,8470966,Mark Giordano,Calgary Flames,Philadelphia Flyers,D,25:49,0,0,2,2,0,0,0,0,0,2,1,0,0,2,0,19:30,2:26,3:53,NA
+2018020636,8471707,James Neal,Calgary Flames,Philadelphia Flyers,LW,15:35,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,13:45,1:50,0:00,NA
+2018020636,8477903,Garnet Hathaway,Calgary Flames,Philadelphia Flyers,RW,10:02,0,0,0,1,0,0,2,0,0,1,0,0,0,0,-1,7:30,0:03,2:29,NA
+2018020636,8477935,Sam Bennett,Calgary Flames,Philadelphia Flyers,C,13:17,1,0,2,2,0,0,0,0,1,0,1,0,0,1,1,11:46,1:31,0:00,0
+2018020636,8473564,Michael Frolik,Calgary Flames,Philadelphia Flyers,RW,11:03,0,0,2,1,0,0,0,0,0,2,1,0,0,0,0,11:03,0:00,0:00,NA
+2018020636,8474612,Travis Hamonic,Calgary Flames,Philadelphia Flyers,D,23:44,0,0,2,0,0,0,0,0,0,0,0,0,0,3,1,19:47,0:03,3:54,NA
+2018020636,8474673,TJ Brodie,Calgary Flames,Philadelphia Flyers,D,23:42,0,1,1,0,0,0,0,0,0,0,0,0,0,3,1,20:25,0:00,3:17,NA
+2018020636,8476873,Mark Jankowski,Calgary Flames,Philadelphia Flyers,C,16:03,0,0,3,0,0,0,0,3,11,2,0,0,0,0,0,12:01,0:03,3:59,27.27
+2018020636,8474150,Mikael Backlund,Calgary Flames,Philadelphia Flyers,C,15:06,0,0,4,1,0,0,0,2,6,1,1,0,0,0,2,12:11,1:31,1:24,33.33
+2018020636,8476346,Johnny Gaudreau,Calgary Flames,Philadelphia Flyers,LW,20:31,0,1,2,0,0,0,0,0,0,1,2,0,0,0,1,18:05,2:26,0:00,NA
+2018020636,8479314,Matthew Tkachuk,Calgary Flames,Philadelphia Flyers,LW,16:29,1,1,4,1,0,0,0,0,0,1,1,0,0,0,2,14:03,2:26,0:00,NA
+2018020636,8478512,Austin Czarnik,Calgary Flames,Philadelphia Flyers,C,7:58,0,0,2,1,0,0,0,0,0,0,0,0,0,0,-1,7:55,0:03,0:00,NA
+2018020636,8478397,Rasmus Andersson,Calgary Flames,Philadelphia Flyers,D,11:18,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,11:18,0:00,0:00,NA
+2018020636,8478430,Oliver Kylington,Calgary Flames,Philadelphia Flyers,D,9:37,0,0,1,0,0,0,0,0,0,0,0,0,0,2,-1,9:37,0:00,0:00,NA
+2018020636,8478396,Noah Hanifin,Calgary Flames,Philadelphia Flyers,D,23:37,2,0,0,3,0,0,0,0,0,0,2,0,0,2,2,18:45,1:34,3:18,NA
+2018020636,8477497,Sean Monahan,Calgary Flames,Philadelphia Flyers,C,19:36,1,0,1,0,0,0,0,5,12,0,2,0,0,0,1,17:29,2:07,0:00,41.67
+2018020636,8478585,Derek Ryan,Calgary Flames,Philadelphia Flyers,C,12:02,0,0,1,0,0,0,2,9,13,0,0,0,0,0,-1,7:50,1:31,2:41,69.23
+2018020636,8477496,Elias Lindholm,Calgary Flames,Philadelphia Flyers,C,21:17,0,0,2,1,0,0,0,6,13,0,0,0,0,1,0,15:02,2:26,3:49,46.15

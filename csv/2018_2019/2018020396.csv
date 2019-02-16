@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020396,8470626,Loui Eriksson,Vancouver Canucks,LW,15:43,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-1,13:13,1:29,1:01,NA
-2018020396,8474849,Antoine Roussel,Vancouver Canucks,LW,12:25,1,0,0,0,0,0,2,0,0,1,0,0,0,1,1,12:19,0:06,0:00,NA
-2018020396,8477958,Nikolay Goldobin,Vancouver Canucks,RW,15:06,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,13:09,1:44,0:13,NA
-2018020396,8477937,Jake Virtanen,Vancouver Canucks,RW,16:40,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-1,14:30,1:40,0:30,NA
-2018020396,8477018,Ben Hutton,Vancouver Canucks,D,20:56,0,0,3,2,0,0,0,0,0,0,0,0,0,3,0,15:35,2:36,2:45,NA
-2018020396,8473415,Alex Biega,Vancouver Canucks,D,15:59,0,0,2,5,0,0,0,0,0,0,0,0,0,0,1,15:59,0:00,0:00,NA
-2018020396,8471303,Alexander Edler,Vancouver Canucks,D,25:00,0,0,3,3,0,0,0,0,0,0,0,0,0,2,0,17:29,5:24,2:07,NA
-2018020396,8477213,Tim Schaller,Vancouver Canucks,C,7:41,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6:19,0:00,1:22,NA
-2018020396,8478874,Adam Gaudette,Vancouver Canucks,C,5:55,0,0,0,1,0,0,4,2,4,0,0,0,0,0,0,5:17,0:38,0:00,50
-2018020396,8474584,Michael Del Zotto,Vancouver Canucks,D,16:35,0,0,1,5,0,0,0,0,0,0,0,0,0,0,-1,14:42,0:00,1:53,NA
-2018020396,8478444,Brock Boeser,Vancouver Canucks,RW,20:37,0,0,3,0,0,0,2,0,0,1,0,0,0,1,0,14:11,6:26,0:00,NA
-2018020396,8477500,Bo Horvat,Vancouver Canucks,C,24:19,0,1,1,0,0,0,0,18,30,1,0,0,0,2,-1,16:39,6:03,1:37,60
-2018020396,8474040,Sam Gagner,Vancouver Canucks,C,19:02,0,0,5,0,0,0,0,5,10,0,0,0,0,0,-1,12:55,6:07,0:00,50
-2018020396,8475690,Christopher Tanev,Vancouver Canucks,D,16:33,0,0,1,0,0,0,0,0,0,0,2,0,0,0,-2,14:18,0:30,1:45,NA
-2018020396,8476440,Markus Granlund,Vancouver Canucks,C,17:59,0,0,2,0,0,0,0,8,13,0,0,0,0,1,-1,14:49,0:46,2:24,61.54
-2018020396,8479442,Troy Stecher,Vancouver Canucks,D,16:00,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,15:25,0:05,0:30,NA
-2018020396,8477353,Tyler Motte,Vancouver Canucks,C,11:17,1,0,0,2,0,0,0,0,0,0,1,0,0,1,1,9:11,0:00,2:06,NA
-2018020396,8480012,Elias Pettersson,Vancouver Canucks,C,19:28,0,0,2,0,0,0,0,3,8,0,1,0,0,0,0,13:02,6:26,0:00,37.5
-2018020396,8476913,Devin Shore,Dallas Stars,C,15:32,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,11:21,2:06,2:05,NA
-2018020396,8476902,Esa Lindell,Dallas Stars,D,24:48,0,0,2,1,0,0,0,0,0,0,0,0,0,2,1,16:31,2:03,6:14,NA
-2018020396,8473994,Jamie Benn,Dallas Stars,LW,18:45,1,1,4,1,0,0,0,1,8,1,0,0,0,0,2,15:45,2:46,0:14,12.5
-2018020396,8478449,Roope Hintz,Dallas Stars,LW,10:18,0,0,0,1,0,0,0,5,9,0,0,0,0,0,0,8:34,1:44,0:00,55.56
-2018020396,8477810,Joel Hanley,Dallas Stars,D,11:18,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,11:09,0:00,0:09,NA
-2018020396,8471228,Alexander Radulov,Dallas Stars,RW,21:30,0,1,2,1,0,0,2,1,2,0,0,0,0,3,1,18:09,3:21,0:00,50
-2018020396,8477406,Mattias Janmark,Dallas Stars,C,14:43,0,0,1,0,0,0,0,0,0,1,0,0,0,0,-1,12:26,0:00,2:17,NA
-2018020396,8476889,Radek Faksa,Dallas Stars,C,15:39,0,0,0,0,0,0,0,11,20,0,0,0,0,1,0,12:23,0:30,2:46,55
-2018020396,8479945,Gavin Bayreuther,Dallas Stars,D,21:21,0,0,3,0,0,0,2,0,0,0,0,0,0,0,0,19:07,1:21,0:53,NA
-2018020396,8476966,Gemel Smith,Dallas Stars,C,3:25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3:16,0:00,0:09,NA
-2018020396,8471260,Blake Comeau,Dallas Stars,LW,14:00,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,9:31,0:30,3:59,NA
-2018020396,8471392,Roman Polak,Dallas Stars,D,24:48,0,0,3,3,0,0,0,0,0,0,1,0,0,4,0,18:34,0:00,6:14,NA
-2018020396,8475794,Tyler Seguin,Dallas Stars,C,20:25,1,0,4,0,0,0,0,3,12,0,1,0,0,0,1,16:37,2:25,1:23,25
-2018020396,8475752,Tyler Pitlick,Dallas Stars,C,12:43,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,10:14,1:24,1:05,NA
-2018020396,8477450,Jason Dickinson,Dallas Stars,C,13:24,0,0,0,0,0,0,2,2,5,0,0,0,0,1,0,11:22,0:00,2:02,40
-2018020396,8476166,Taylor Fedun,Dallas Stars,D,12:25,0,0,2,1,0,0,2,0,0,0,1,0,0,2,0,11:41,0:00,0:44,NA
-2018020396,8469455,Jason Spezza,Dallas Stars,C,14:38,0,0,2,0,0,0,2,6,9,0,0,0,0,0,0,12:54,1:44,0:00,66.67
-2018020396,8480036,Miro Heiskanen,Dallas Stars,D,22:18,1,0,3,0,0,0,0,0,0,0,0,0,0,1,1,17:56,2:36,1:46,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020396,8470626,Loui Eriksson,Vancouver Canucks,Dallas Stars,LW,15:43,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-1,13:13,1:29,1:01,NA
+2018020396,8474849,Antoine Roussel,Vancouver Canucks,Dallas Stars,LW,12:25,1,0,0,0,0,0,2,0,0,1,0,0,0,1,1,12:19,0:06,0:00,NA
+2018020396,8477958,Nikolay Goldobin,Vancouver Canucks,Dallas Stars,RW,15:06,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,13:09,1:44,0:13,NA
+2018020396,8477937,Jake Virtanen,Vancouver Canucks,Dallas Stars,RW,16:40,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-1,14:30,1:40,0:30,NA
+2018020396,8477018,Ben Hutton,Vancouver Canucks,Dallas Stars,D,20:56,0,0,3,2,0,0,0,0,0,0,0,0,0,3,0,15:35,2:36,2:45,NA
+2018020396,8473415,Alex Biega,Vancouver Canucks,Dallas Stars,D,15:59,0,0,2,5,0,0,0,0,0,0,0,0,0,0,1,15:59,0:00,0:00,NA
+2018020396,8471303,Alexander Edler,Vancouver Canucks,Dallas Stars,D,25:00,0,0,3,3,0,0,0,0,0,0,0,0,0,2,0,17:29,5:24,2:07,NA
+2018020396,8477213,Tim Schaller,Vancouver Canucks,Dallas Stars,C,7:41,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6:19,0:00,1:22,NA
+2018020396,8478874,Adam Gaudette,Vancouver Canucks,Dallas Stars,C,5:55,0,0,0,1,0,0,4,2,4,0,0,0,0,0,0,5:17,0:38,0:00,50
+2018020396,8474584,Michael Del Zotto,Vancouver Canucks,Dallas Stars,D,16:35,0,0,1,5,0,0,0,0,0,0,0,0,0,0,-1,14:42,0:00,1:53,NA
+2018020396,8478444,Brock Boeser,Vancouver Canucks,Dallas Stars,RW,20:37,0,0,3,0,0,0,2,0,0,1,0,0,0,1,0,14:11,6:26,0:00,NA
+2018020396,8477500,Bo Horvat,Vancouver Canucks,Dallas Stars,C,24:19,0,1,1,0,0,0,0,18,30,1,0,0,0,2,-1,16:39,6:03,1:37,60
+2018020396,8474040,Sam Gagner,Vancouver Canucks,Dallas Stars,C,19:02,0,0,5,0,0,0,0,5,10,0,0,0,0,0,-1,12:55,6:07,0:00,50
+2018020396,8475690,Christopher Tanev,Vancouver Canucks,Dallas Stars,D,16:33,0,0,1,0,0,0,0,0,0,0,2,0,0,0,-2,14:18,0:30,1:45,NA
+2018020396,8476440,Markus Granlund,Vancouver Canucks,Dallas Stars,C,17:59,0,0,2,0,0,0,0,8,13,0,0,0,0,1,-1,14:49,0:46,2:24,61.54
+2018020396,8479442,Troy Stecher,Vancouver Canucks,Dallas Stars,D,16:00,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,15:25,0:05,0:30,NA
+2018020396,8477353,Tyler Motte,Vancouver Canucks,Dallas Stars,C,11:17,1,0,0,2,0,0,0,0,0,0,1,0,0,1,1,9:11,0:00,2:06,NA
+2018020396,8480012,Elias Pettersson,Vancouver Canucks,Dallas Stars,C,19:28,0,0,2,0,0,0,0,3,8,0,1,0,0,0,0,13:02,6:26,0:00,37.5
+2018020396,8476913,Devin Shore,Dallas Stars,Vancouver Canucks,C,15:32,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,11:21,2:06,2:05,NA
+2018020396,8476902,Esa Lindell,Dallas Stars,Vancouver Canucks,D,24:48,0,0,2,1,0,0,0,0,0,0,0,0,0,2,1,16:31,2:03,6:14,NA
+2018020396,8473994,Jamie Benn,Dallas Stars,Vancouver Canucks,LW,18:45,1,1,4,1,0,0,0,1,8,1,0,0,0,0,2,15:45,2:46,0:14,12.5
+2018020396,8478449,Roope Hintz,Dallas Stars,Vancouver Canucks,LW,10:18,0,0,0,1,0,0,0,5,9,0,0,0,0,0,0,8:34,1:44,0:00,55.56
+2018020396,8477810,Joel Hanley,Dallas Stars,Vancouver Canucks,D,11:18,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,11:09,0:00,0:09,NA
+2018020396,8471228,Alexander Radulov,Dallas Stars,Vancouver Canucks,RW,21:30,0,1,2,1,0,0,2,1,2,0,0,0,0,3,1,18:09,3:21,0:00,50
+2018020396,8477406,Mattias Janmark,Dallas Stars,Vancouver Canucks,C,14:43,0,0,1,0,0,0,0,0,0,1,0,0,0,0,-1,12:26,0:00,2:17,NA
+2018020396,8476889,Radek Faksa,Dallas Stars,Vancouver Canucks,C,15:39,0,0,0,0,0,0,0,11,20,0,0,0,0,1,0,12:23,0:30,2:46,55
+2018020396,8479945,Gavin Bayreuther,Dallas Stars,Vancouver Canucks,D,21:21,0,0,3,0,0,0,2,0,0,0,0,0,0,0,0,19:07,1:21,0:53,NA
+2018020396,8476966,Gemel Smith,Dallas Stars,Vancouver Canucks,C,3:25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3:16,0:00,0:09,NA
+2018020396,8471260,Blake Comeau,Dallas Stars,Vancouver Canucks,LW,14:00,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,9:31,0:30,3:59,NA
+2018020396,8471392,Roman Polak,Dallas Stars,Vancouver Canucks,D,24:48,0,0,3,3,0,0,0,0,0,0,1,0,0,4,0,18:34,0:00,6:14,NA
+2018020396,8475794,Tyler Seguin,Dallas Stars,Vancouver Canucks,C,20:25,1,0,4,0,0,0,0,3,12,0,1,0,0,0,1,16:37,2:25,1:23,25
+2018020396,8475752,Tyler Pitlick,Dallas Stars,Vancouver Canucks,C,12:43,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,10:14,1:24,1:05,NA
+2018020396,8477450,Jason Dickinson,Dallas Stars,Vancouver Canucks,C,13:24,0,0,0,0,0,0,2,2,5,0,0,0,0,1,0,11:22,0:00,2:02,40
+2018020396,8476166,Taylor Fedun,Dallas Stars,Vancouver Canucks,D,12:25,0,0,2,1,0,0,2,0,0,0,1,0,0,2,0,11:41,0:00,0:44,NA
+2018020396,8469455,Jason Spezza,Dallas Stars,Vancouver Canucks,C,14:38,0,0,2,0,0,0,2,6,9,0,0,0,0,0,0,12:54,1:44,0:00,66.67
+2018020396,8480036,Miro Heiskanen,Dallas Stars,Vancouver Canucks,D,22:18,1,0,3,0,0,0,0,0,0,0,0,0,0,1,1,17:56,2:36,1:46,NA

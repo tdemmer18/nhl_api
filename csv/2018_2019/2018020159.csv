@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020159,8470604,Jeff Carter,Los Angeles Kings,C,18:42,0,0,4,1,0,0,0,61.9,13,21,0,0,0,0,0,1,14:57,2:03,1:42
-2018020159,8470602,Dion Phaneuf,Los Angeles Kings,D,15:38,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,0,0,14:02,1:00,0:36
-2018020159,8470606,Dustin Brown,Los Angeles Kings,RW,22:17,0,1,3,7,1,0,0,NA,0,0,1,0,0,0,1,-1,18:20,2:03,1:54
-2018020159,8471685,Anze Kopitar,Los Angeles Kings,C,24:08,1,0,5,2,0,1,0,42.86,9,21,0,3,0,0,1,-1,19:49,2:07,2:12
-2018020159,8475726,Tyler Toffoli,Los Angeles Kings,RW,17:05,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,0,1,15:32,0:46,0:47
-2018020159,8470775,Nate Thompson,Los Angeles Kings,C,5:46,0,0,1,0,0,0,0,71.43,5,7,0,0,0,0,1,0,4:26,0:02,1:18
-2018020159,8476871,Tanner Pearson,Los Angeles Kings,LW,15:10,0,0,4,1,0,0,2,NA,0,0,0,0,0,0,0,0,14:20,0:50,0:00
-2018020159,8477960,Adrian Kempe,Los Angeles Kings,C,13:29,1,0,3,0,0,0,0,45.45,5,11,0,0,0,0,0,-1,12:59,0:30,0:00
-2018020159,8478455,Austin Wagner,Los Angeles Kings,LW,3:29,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,3:27,0:02,0:00
-2018020159,8474162,Jake Muzzin,Los Angeles Kings,D,20:49,0,0,1,2,0,0,0,NA,0,0,0,2,0,0,0,-1,18:28,0:20,2:01
-2018020159,8474563,Drew Doughty,Los Angeles Kings,D,28:07,2,0,5,1,0,2,0,NA,0,0,1,2,0,0,3,0,23:08,2:05,2:54
-2018020159,8475762,Derek Forbort,Los Angeles Kings,D,21:35,0,0,2,1,0,0,2,NA,0,0,0,0,0,0,3,0,19:46,0:02,1:47
-2018020159,8473453,Trevor Lewis,Los Angeles Kings,C,16:06,0,1,2,2,0,0,0,NA,0,0,0,1,0,0,0,-1,14:41,0:30,0:55
-2018020159,8474166,Alec Martinez,Los Angeles Kings,D,23:12,0,1,2,0,0,0,0,NA,0,0,0,2,0,0,4,0,20:24,1:18,1:30
-2018020159,8469454,Ilya Kovalchuk,Los Angeles Kings,LW,16:28,2,1,4,1,1,1,0,NA,0,0,0,1,0,0,0,0,14:03,2:25,0:00
-2018020159,8475160,Kyle Clifford,Los Angeles Kings,LW,5:16,0,0,0,1,0,0,7,0,0,1,0,1,0,0,0,0,5:02,0:14,0:00
-2018020159,8480113,Alex Iafallo,Los Angeles Kings,LW,18:02,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,1,-1,17:16,0:46,0:00
-2018020159,8480336,Sean Walker,Los Angeles Kings,D,8:41,0,0,2,1,0,0,0,NA,0,0,0,1,0,0,0,-1,8:39,0:02,0:00
-2018020159,8476918,Jimmy Vesey,New York Rangers,LW,18:53,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,0,15:40,2:33,0:40
-2018020159,8471686,Marc Staal,New York Rangers,D,18:59,0,0,0,1,0,0,0,NA,0,0,1,1,0,0,1,-1,16:24,0:00,2:35
-2018020159,8476869,Brady Skjei,New York Rangers,D,17:31,1,0,1,1,0,0,0,NA,0,0,1,1,0,0,1,2,16:27,0:14,0:50
-2018020159,8475727,Ryan Spooner,New York Rangers,C,14:27,0,1,2,1,0,0,0,0,0,1,0,1,0,0,0,0,12:54,1:33,0:00
-2018020159,8471657,Cody McLeod,New York Rangers,LW,7:12,0,0,1,3,0,0,9,NA,0,0,0,0,0,0,0,0,7:10,0:00,0:02
-2018020159,8476459,Mika Zibanejad,New York Rangers,C,20:17,0,0,4,2,0,0,0,50,10,20,0,0,0,0,1,0,15:46,3:04,1:27
-2018020159,8475855,Jesper Fast,New York Rangers,RW,11:04,0,0,3,2,0,0,0,NA,0,0,0,0,0,0,2,-1,9:56,0:00,1:08
-2018020159,8477950,Tony DeAngelo,New York Rangers,D,16:48,1,1,2,0,0,0,0,NA,0,0,0,1,0,0,2,3,16:46,0:02,0:00
-2018020159,8474031,Kevin Shattenkirk,New York Rangers,D,19:22,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,2,-1,18:05,0:57,0:20
-2018020159,8477402,Pavel Buchnevich,New York Rangers,RW,11:21,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,9:57,1:24,0:00
-2018020159,8475763,Kevin Hayes,New York Rangers,C,19:40,0,0,0,0,0,0,0,58.82,10,17,0,0,0,0,0,-1,16:20,2:14,1:06
-2018020159,8475184,Chris Kreider,New York Rangers,LW,17:09,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,1,0,15:18,1:51,0:00
-2018020159,8479353,Brett Howden,New York Rangers,C,14:04,1,0,0,2,0,0,0,50,6,12,0,0,0,0,2,2,11:55,1:19,0:50
-2018020159,8475692,Mats Zuccarello,New York Rangers,RW,21:53,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,0,17:28,2:51,1:34
-2018020159,8474090,Brendan Smith,New York Rangers,D,18:19,0,0,0,1,0,0,0,NA,0,0,1,0,0,0,2,-1,17:11,0:00,1:08
-2018020159,8480078,Filip Chytil,New York Rangers,C,10:09,0,0,0,0,0,0,0,30,3,10,0,0,0,0,0,0,9:34,0:33,0:02
-2018020159,8476480,Vladislav Namestnikov,New York Rangers,C,14:45,1,1,2,1,0,0,0,NA,0,0,0,0,0,0,0,1,14:42,0:00,0:03
-2018020159,8480145,Neal Pionk,New York Rangers,D,23:46,0,0,2,3,0,0,2,NA,0,0,0,2,0,0,3,0,18:26,3:25,1:55
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020159,8470604,Jeff Carter,Los Angeles Kings,New York Rangers,C,18:42,0,0,4,1,0,0,0,61.9,13,21,0,0,0,0,0,1,14:57,2:03,1:42
+2018020159,8470602,Dion Phaneuf,Los Angeles Kings,New York Rangers,D,15:38,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,0,0,14:02,1:00,0:36
+2018020159,8470606,Dustin Brown,Los Angeles Kings,New York Rangers,RW,22:17,0,1,3,7,1,0,0,NA,0,0,1,0,0,0,1,-1,18:20,2:03,1:54
+2018020159,8471685,Anze Kopitar,Los Angeles Kings,New York Rangers,C,24:08,1,0,5,2,0,1,0,42.86,9,21,0,3,0,0,1,-1,19:49,2:07,2:12
+2018020159,8475726,Tyler Toffoli,Los Angeles Kings,New York Rangers,RW,17:05,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,0,1,15:32,0:46,0:47
+2018020159,8470775,Nate Thompson,Los Angeles Kings,New York Rangers,C,5:46,0,0,1,0,0,0,0,71.43,5,7,0,0,0,0,1,0,4:26,0:02,1:18
+2018020159,8476871,Tanner Pearson,Los Angeles Kings,New York Rangers,LW,15:10,0,0,4,1,0,0,2,NA,0,0,0,0,0,0,0,0,14:20,0:50,0:00
+2018020159,8477960,Adrian Kempe,Los Angeles Kings,New York Rangers,C,13:29,1,0,3,0,0,0,0,45.45,5,11,0,0,0,0,0,-1,12:59,0:30,0:00
+2018020159,8478455,Austin Wagner,Los Angeles Kings,New York Rangers,LW,3:29,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,3:27,0:02,0:00
+2018020159,8474162,Jake Muzzin,Los Angeles Kings,New York Rangers,D,20:49,0,0,1,2,0,0,0,NA,0,0,0,2,0,0,0,-1,18:28,0:20,2:01
+2018020159,8474563,Drew Doughty,Los Angeles Kings,New York Rangers,D,28:07,2,0,5,1,0,2,0,NA,0,0,1,2,0,0,3,0,23:08,2:05,2:54
+2018020159,8475762,Derek Forbort,Los Angeles Kings,New York Rangers,D,21:35,0,0,2,1,0,0,2,NA,0,0,0,0,0,0,3,0,19:46,0:02,1:47
+2018020159,8473453,Trevor Lewis,Los Angeles Kings,New York Rangers,C,16:06,0,1,2,2,0,0,0,NA,0,0,0,1,0,0,0,-1,14:41,0:30,0:55
+2018020159,8474166,Alec Martinez,Los Angeles Kings,New York Rangers,D,23:12,0,1,2,0,0,0,0,NA,0,0,0,2,0,0,4,0,20:24,1:18,1:30
+2018020159,8469454,Ilya Kovalchuk,Los Angeles Kings,New York Rangers,LW,16:28,2,1,4,1,1,1,0,NA,0,0,0,1,0,0,0,0,14:03,2:25,0:00
+2018020159,8475160,Kyle Clifford,Los Angeles Kings,New York Rangers,LW,5:16,0,0,0,1,0,0,7,0,0,1,0,1,0,0,0,0,5:02,0:14,0:00
+2018020159,8480113,Alex Iafallo,Los Angeles Kings,New York Rangers,LW,18:02,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,1,-1,17:16,0:46,0:00
+2018020159,8480336,Sean Walker,Los Angeles Kings,New York Rangers,D,8:41,0,0,2,1,0,0,0,NA,0,0,0,1,0,0,0,-1,8:39,0:02,0:00
+2018020159,8476918,Jimmy Vesey,New York Rangers,Los Angeles Kings,LW,18:53,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,0,15:40,2:33,0:40
+2018020159,8471686,Marc Staal,New York Rangers,Los Angeles Kings,D,18:59,0,0,0,1,0,0,0,NA,0,0,1,1,0,0,1,-1,16:24,0:00,2:35
+2018020159,8476869,Brady Skjei,New York Rangers,Los Angeles Kings,D,17:31,1,0,1,1,0,0,0,NA,0,0,1,1,0,0,1,2,16:27,0:14,0:50
+2018020159,8475727,Ryan Spooner,New York Rangers,Los Angeles Kings,C,14:27,0,1,2,1,0,0,0,0,0,1,0,1,0,0,0,0,12:54,1:33,0:00
+2018020159,8471657,Cody McLeod,New York Rangers,Los Angeles Kings,LW,7:12,0,0,1,3,0,0,9,NA,0,0,0,0,0,0,0,0,7:10,0:00,0:02
+2018020159,8476459,Mika Zibanejad,New York Rangers,Los Angeles Kings,C,20:17,0,0,4,2,0,0,0,50,10,20,0,0,0,0,1,0,15:46,3:04,1:27
+2018020159,8475855,Jesper Fast,New York Rangers,Los Angeles Kings,RW,11:04,0,0,3,2,0,0,0,NA,0,0,0,0,0,0,2,-1,9:56,0:00,1:08
+2018020159,8477950,Tony DeAngelo,New York Rangers,Los Angeles Kings,D,16:48,1,1,2,0,0,0,0,NA,0,0,0,1,0,0,2,3,16:46,0:02,0:00
+2018020159,8474031,Kevin Shattenkirk,New York Rangers,Los Angeles Kings,D,19:22,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,2,-1,18:05,0:57,0:20
+2018020159,8477402,Pavel Buchnevich,New York Rangers,Los Angeles Kings,RW,11:21,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,9:57,1:24,0:00
+2018020159,8475763,Kevin Hayes,New York Rangers,Los Angeles Kings,C,19:40,0,0,0,0,0,0,0,58.82,10,17,0,0,0,0,0,-1,16:20,2:14,1:06
+2018020159,8475184,Chris Kreider,New York Rangers,Los Angeles Kings,LW,17:09,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,1,0,15:18,1:51,0:00
+2018020159,8479353,Brett Howden,New York Rangers,Los Angeles Kings,C,14:04,1,0,0,2,0,0,0,50,6,12,0,0,0,0,2,2,11:55,1:19,0:50
+2018020159,8475692,Mats Zuccarello,New York Rangers,Los Angeles Kings,RW,21:53,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,0,17:28,2:51,1:34
+2018020159,8474090,Brendan Smith,New York Rangers,Los Angeles Kings,D,18:19,0,0,0,1,0,0,0,NA,0,0,1,0,0,0,2,-1,17:11,0:00,1:08
+2018020159,8480078,Filip Chytil,New York Rangers,Los Angeles Kings,C,10:09,0,0,0,0,0,0,0,30,3,10,0,0,0,0,0,0,9:34,0:33,0:02
+2018020159,8476480,Vladislav Namestnikov,New York Rangers,Los Angeles Kings,C,14:45,1,1,2,1,0,0,0,NA,0,0,0,0,0,0,0,1,14:42,0:00,0:03
+2018020159,8480145,Neal Pionk,New York Rangers,Los Angeles Kings,D,23:46,0,0,2,3,0,0,2,NA,0,0,0,2,0,0,3,0,18:26,3:25,1:55

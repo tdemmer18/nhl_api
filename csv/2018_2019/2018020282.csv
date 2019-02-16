@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020282,8468611,Matt Hendricks,Minnesota Wild,C,13:18,0,0,1,2,0,0,0,80,4,5,1,1,0,0,1,1,9:40,0:00,3:38
-2018020282,8476806,J.T. Brown,Minnesota Wild,RW,10:12,1,0,0,1,0,0,0,100,1,1,0,0,0,0,0,1,10:12,0:00,0:00
-2018020282,8474716,Jared Spurgeon,Minnesota Wild,D,23:13,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,2,1,16:46,1:51,4:36
-2018020282,8470595,Eric Staal,Minnesota Wild,C,16:31,1,1,1,0,0,0,0,42.86,6,14,2,0,0,0,0,1,15:06,1:08,0:17
-2018020282,8470600,Ryan Suter,Minnesota Wild,D,21:32,2,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,2,16:57,1:08,3:27
-2018020282,8470611,Eric Fehr,Minnesota Wild,C,12:16,1,0,0,0,0,0,2,50,4,8,0,0,0,0,0,1,9:03,0:00,3:13
-2018020282,8475798,Mikael Granlund,Minnesota Wild,RW,15:59,1,0,0,1,0,0,2,50,1,2,0,0,0,0,0,1,13:32,1:08,1:19
-2018020282,8475722,Jason Zucker,Minnesota Wild,LW,15:59,0,1,2,0,0,0,2,NA,0,0,2,0,0,0,0,1,14:39,1:08,0:12
-2018020282,8475799,Nino Niederreiter,Minnesota Wild,RW,13:20,0,1,2,0,1,0,2,NA,0,0,0,2,0,0,0,1,11:29,1:51,0:00
-2018020282,8474688,Greg Pateryn,Minnesota Wild,D,15:50,0,0,0,3,0,0,0,NA,0,0,0,0,0,0,2,0,12:49,0:00,3:01
-2018020282,8475745,Charlie Coyle,Minnesota Wild,C,16:20,0,1,6,0,0,0,0,66.67,4,6,1,0,0,0,0,1,12:47,1:08,2:25
-2018020282,8476856,Matt Dumba,Minnesota Wild,D,20:03,1,1,3,4,0,1,0,NA,0,0,0,1,0,0,1,2,15:15,1:51,2:57
-2018020282,8478413,Jordan Greenway,Minnesota Wild,LW,11:57,0,0,0,2,0,0,2,66.67,2,3,0,1,0,0,0,0,10:06,1:51,0:00
-2018020282,8476372,Nick Seeler,Minnesota Wild,D,15:54,0,0,2,1,0,0,0,NA,0,0,0,1,0,0,1,0,13:08,0:00,2:46
-2018020282,8475220,Marcus Foligno,Minnesota Wild,LW,14:01,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,10:18,0:00,3:43
-2018020282,8476463,Jonas Brodin,Minnesota Wild,D,22:46,1,0,2,0,0,0,2,NA,0,0,1,0,0,0,1,1,18:55,0:00,3:51
-2018020282,8478493,Joel Eriksson Ek,Minnesota Wild,C,14:17,0,0,1,1,0,0,0,63.64,7,11,0,0,0,0,0,0,10:34,0:00,3:43
-2018020282,8469459,Mikko Koivu,Minnesota Wild,C,16:13,2,1,3,0,1,1,0,57.89,11,19,0,0,0,0,0,1,12:14,1:51,2:08
-2018020282,8470626,Loui Eriksson,Vancouver Canucks,LW,15:31,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,-1,11:14,4:17,0:00
-2018020282,8474849,Antoine Roussel,Vancouver Canucks,LW,11:41,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,10:45,0:11,0:45
-2018020282,8477958,Nikolay Goldobin,Vancouver Canucks,RW,20:41,0,0,1,0,0,0,0,NA,0,0,1,0,0,0,0,-1,14:40,6:01,0:00
-2018020282,8477937,Jake Virtanen,Vancouver Canucks,RW,16:58,0,0,3,0,0,0,0,50,1,2,0,0,0,0,0,0,11:16,5:42,0:00
-2018020282,8475423,Darren Archibald,Vancouver Canucks,RW,9:37,1,0,0,1,0,0,2,NA,0,0,0,0,0,0,0,0,9:37,0:00,0:00
-2018020282,8477018,Ben Hutton,Vancouver Canucks,D,23:23,0,0,1,0,0,0,2,NA,0,0,0,0,0,0,2,-2,16:10,5:42,1:31
-2018020282,8477213,Tim Schaller,Vancouver Canucks,C,11:35,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-2,10:27,0:00,1:08
-2018020282,8478874,Adam Gaudette,Vancouver Canucks,C,16:05,1,0,2,1,0,1,0,25,2,8,0,0,0,0,0,-2,11:28,4:37,0:00
-2018020282,8474584,Michael Del Zotto,Vancouver Canucks,D,15:13,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,0,-1,14:51,0:00,0:22
-2018020282,8476894,Brendan Leipsic,Vancouver Canucks,LW,15:14,0,0,2,1,0,0,0,100,1,1,1,0,0,0,0,-1,9:50,5:24,0:00
-2018020282,8476884,Derrick Pouliot,Vancouver Canucks,D,17:00,0,0,1,3,0,0,0,NA,0,0,0,0,0,0,1,0,12:51,4:09,0:00
-2018020282,8477500,Bo Horvat,Vancouver Canucks,C,19:09,0,1,2,0,1,0,0,52.17,12,23,1,2,0,0,0,0,13:19,4:44,1:06
-2018020282,8475690,Christopher Tanev,Vancouver Canucks,D,16:43,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,1,0,13:55,0:11,2:37
-2018020282,8475790,Erik Gudbranson,Vancouver Canucks,D,21:15,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,1,-2,19:29,0:18,1:28
-2018020282,8476440,Markus Granlund,Vancouver Canucks,C,18:53,0,1,6,2,0,0,0,35.29,6,17,0,0,0,0,0,0,11:04,5:35,2:14
-2018020282,8479442,Troy Stecher,Vancouver Canucks,D,16:04,1,0,0,1,0,0,0,NA,0,0,1,0,0,0,2,-1,16:04,0:00,0:00
-2018020282,8477353,Tyler Motte,Vancouver Canucks,C,13:22,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,-1,12:30,0:07,0:45
-2018020282,8480012,Elias Pettersson,Vancouver Canucks,C,18:37,0,0,1,0,0,0,0,43.75,7,16,0,0,0,0,2,-1,14:00,4:37,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020282,8468611,Matt Hendricks,Minnesota Wild,Vancouver Canucks,C,13:18,0,0,1,2,0,0,0,80,4,5,1,1,0,0,1,1,9:40,0:00,3:38
+2018020282,8476806,J.T. Brown,Minnesota Wild,Vancouver Canucks,RW,10:12,1,0,0,1,0,0,0,100,1,1,0,0,0,0,0,1,10:12,0:00,0:00
+2018020282,8474716,Jared Spurgeon,Minnesota Wild,Vancouver Canucks,D,23:13,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,2,1,16:46,1:51,4:36
+2018020282,8470595,Eric Staal,Minnesota Wild,Vancouver Canucks,C,16:31,1,1,1,0,0,0,0,42.86,6,14,2,0,0,0,0,1,15:06,1:08,0:17
+2018020282,8470600,Ryan Suter,Minnesota Wild,Vancouver Canucks,D,21:32,2,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,2,16:57,1:08,3:27
+2018020282,8470611,Eric Fehr,Minnesota Wild,Vancouver Canucks,C,12:16,1,0,0,0,0,0,2,50,4,8,0,0,0,0,0,1,9:03,0:00,3:13
+2018020282,8475798,Mikael Granlund,Minnesota Wild,Vancouver Canucks,RW,15:59,1,0,0,1,0,0,2,50,1,2,0,0,0,0,0,1,13:32,1:08,1:19
+2018020282,8475722,Jason Zucker,Minnesota Wild,Vancouver Canucks,LW,15:59,0,1,2,0,0,0,2,NA,0,0,2,0,0,0,0,1,14:39,1:08,0:12
+2018020282,8475799,Nino Niederreiter,Minnesota Wild,Vancouver Canucks,RW,13:20,0,1,2,0,1,0,2,NA,0,0,0,2,0,0,0,1,11:29,1:51,0:00
+2018020282,8474688,Greg Pateryn,Minnesota Wild,Vancouver Canucks,D,15:50,0,0,0,3,0,0,0,NA,0,0,0,0,0,0,2,0,12:49,0:00,3:01
+2018020282,8475745,Charlie Coyle,Minnesota Wild,Vancouver Canucks,C,16:20,0,1,6,0,0,0,0,66.67,4,6,1,0,0,0,0,1,12:47,1:08,2:25
+2018020282,8476856,Matt Dumba,Minnesota Wild,Vancouver Canucks,D,20:03,1,1,3,4,0,1,0,NA,0,0,0,1,0,0,1,2,15:15,1:51,2:57
+2018020282,8478413,Jordan Greenway,Minnesota Wild,Vancouver Canucks,LW,11:57,0,0,0,2,0,0,2,66.67,2,3,0,1,0,0,0,0,10:06,1:51,0:00
+2018020282,8476372,Nick Seeler,Minnesota Wild,Vancouver Canucks,D,15:54,0,0,2,1,0,0,0,NA,0,0,0,1,0,0,1,0,13:08,0:00,2:46
+2018020282,8475220,Marcus Foligno,Minnesota Wild,Vancouver Canucks,LW,14:01,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,10:18,0:00,3:43
+2018020282,8476463,Jonas Brodin,Minnesota Wild,Vancouver Canucks,D,22:46,1,0,2,0,0,0,2,NA,0,0,1,0,0,0,1,1,18:55,0:00,3:51
+2018020282,8478493,Joel Eriksson Ek,Minnesota Wild,Vancouver Canucks,C,14:17,0,0,1,1,0,0,0,63.64,7,11,0,0,0,0,0,0,10:34,0:00,3:43
+2018020282,8469459,Mikko Koivu,Minnesota Wild,Vancouver Canucks,C,16:13,2,1,3,0,1,1,0,57.89,11,19,0,0,0,0,0,1,12:14,1:51,2:08
+2018020282,8470626,Loui Eriksson,Vancouver Canucks,Minnesota Wild,LW,15:31,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,-1,11:14,4:17,0:00
+2018020282,8474849,Antoine Roussel,Vancouver Canucks,Minnesota Wild,LW,11:41,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,10:45,0:11,0:45
+2018020282,8477958,Nikolay Goldobin,Vancouver Canucks,Minnesota Wild,RW,20:41,0,0,1,0,0,0,0,NA,0,0,1,0,0,0,0,-1,14:40,6:01,0:00
+2018020282,8477937,Jake Virtanen,Vancouver Canucks,Minnesota Wild,RW,16:58,0,0,3,0,0,0,0,50,1,2,0,0,0,0,0,0,11:16,5:42,0:00
+2018020282,8475423,Darren Archibald,Vancouver Canucks,Minnesota Wild,RW,9:37,1,0,0,1,0,0,2,NA,0,0,0,0,0,0,0,0,9:37,0:00,0:00
+2018020282,8477018,Ben Hutton,Vancouver Canucks,Minnesota Wild,D,23:23,0,0,1,0,0,0,2,NA,0,0,0,0,0,0,2,-2,16:10,5:42,1:31
+2018020282,8477213,Tim Schaller,Vancouver Canucks,Minnesota Wild,C,11:35,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-2,10:27,0:00,1:08
+2018020282,8478874,Adam Gaudette,Vancouver Canucks,Minnesota Wild,C,16:05,1,0,2,1,0,1,0,25,2,8,0,0,0,0,0,-2,11:28,4:37,0:00
+2018020282,8474584,Michael Del Zotto,Vancouver Canucks,Minnesota Wild,D,15:13,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,0,-1,14:51,0:00,0:22
+2018020282,8476894,Brendan Leipsic,Vancouver Canucks,Minnesota Wild,LW,15:14,0,0,2,1,0,0,0,100,1,1,1,0,0,0,0,-1,9:50,5:24,0:00
+2018020282,8476884,Derrick Pouliot,Vancouver Canucks,Minnesota Wild,D,17:00,0,0,1,3,0,0,0,NA,0,0,0,0,0,0,1,0,12:51,4:09,0:00
+2018020282,8477500,Bo Horvat,Vancouver Canucks,Minnesota Wild,C,19:09,0,1,2,0,1,0,0,52.17,12,23,1,2,0,0,0,0,13:19,4:44,1:06
+2018020282,8475690,Christopher Tanev,Vancouver Canucks,Minnesota Wild,D,16:43,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,1,0,13:55,0:11,2:37
+2018020282,8475790,Erik Gudbranson,Vancouver Canucks,Minnesota Wild,D,21:15,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,1,-2,19:29,0:18,1:28
+2018020282,8476440,Markus Granlund,Vancouver Canucks,Minnesota Wild,C,18:53,0,1,6,2,0,0,0,35.29,6,17,0,0,0,0,0,0,11:04,5:35,2:14
+2018020282,8479442,Troy Stecher,Vancouver Canucks,Minnesota Wild,D,16:04,1,0,0,1,0,0,0,NA,0,0,1,0,0,0,2,-1,16:04,0:00,0:00
+2018020282,8477353,Tyler Motte,Vancouver Canucks,Minnesota Wild,C,13:22,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,-1,12:30,0:07,0:45
+2018020282,8480012,Elias Pettersson,Vancouver Canucks,Minnesota Wild,C,18:37,0,0,1,0,0,0,0,43.75,7,16,0,0,0,0,2,-1,14:00,4:37,0:00

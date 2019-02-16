@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020869,8476907,Mackenzie MacEachern,St. Louis Blues,LW,10:11,0,1,2,0,0,0,0,0,0,0,0,0,0,0,2,10:11,0:00,0:00,NA
-2018020869,8475768,Jaden Schwartz,St. Louis Blues,LW,15:07,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1,12:48,2:19,0:00,0
-2018020869,8474565,Alex Pietrangelo,St. Louis Blues,D,21:07,1,2,3,1,0,0,0,0,0,1,0,0,0,2,6,18:36,2:24,0:07,NA
-2018020869,8476897,Oskar Sundqvist,St. Louis Blues,C,16:20,0,0,1,0,0,0,0,3,11,0,0,0,0,0,-1,14:50,0:29,1:01,27.27
-2018020869,8477964,Ivan Barbashev,St. Louis Blues,C,13:07,1,2,4,1,0,0,0,5,11,0,1,1,0,0,3,11:18,0:00,1:49,45.45
-2018020869,8475765,Vladimir Tarasenko,St. Louis Blues,RW,15:10,3,0,2,0,0,0,0,0,0,1,0,0,0,1,3,13:32,1:38,0:00,NA
-2018020869,8470257,Alexander Steen,St. Louis Blues,LW,15:20,1,0,3,0,0,0,0,0,0,0,0,0,1,0,1,13:53,0:03,1:24,NA
-2018020869,8478407,Vince Dunn,St. Louis Blues,D,19:17,0,0,4,0,0,0,2,0,0,0,1,0,0,3,0,17:01,1:53,0:23,NA
-2018020869,8475158,Ryan O'Reilly,St. Louis Blues,C,16:12,1,1,2,0,0,0,0,12,17,1,0,0,0,0,3,14:34,1:38,0:00,70.59
-2018020869,8474145,Robert Bortuzzo,St. Louis Blues,D,16:39,1,0,1,0,0,0,2,0,0,1,0,0,0,0,-1,16:14,0:00,0:25,NA
-2018020869,8474034,Pat Maroon,St. Louis Blues,LW,15:45,1,0,3,3,0,0,2,0,0,0,2,0,0,0,0,13:26,2:19,0:00,NA
-2018020869,8475098,Tyler Bozak,St. Louis Blues,C,14:03,1,1,3,0,0,0,0,9,15,0,0,0,0,0,1,12:10,1:53,0:00,60
-2018020869,8476441,Joel Edmundson,St. Louis Blues,D,19:14,0,0,3,0,0,0,0,0,0,0,0,0,0,1,5,17:27,0:17,1:30,NA
-2018020869,8470151,Jay Bouwmeester,St. Louis Blues,D,20:48,0,0,3,1,0,0,0,0,0,0,0,0,0,0,1,19:40,0:00,1:08,NA
-2018020869,8476892,Colton Parayko,St. Louis Blues,D,21:24,2,0,2,1,0,0,0,0,0,0,1,0,1,0,1,18:19,1:48,1:17,NA
-2018020869,8475170,Brayden Schenn,St. Louis Blues,C,16:58,2,0,0,0,0,0,0,1,2,1,2,0,0,0,2,15:20,1:38,0:00,50
-2018020869,8477482,Zach Sanford,St. Louis Blues,LW,14:54,0,0,1,0,0,0,0,0,0,0,0,0,0,2,-1,14:28,0:03,0:23,NA
-2018020869,8480023,Robert Thomas,St. Louis Blues,C,14:04,1,0,1,0,0,0,0,1,2,1,1,0,0,0,2,12:26,1:38,0:00,50
-2018020869,8473468,Eric Gryba,New Jersey Devils,D,16:56,0,0,2,3,0,0,2,0,0,0,0,0,0,3,0,16:35,0:00,0:21,NA
-2018020869,8476923,Damon Severson,New Jersey Devils,D,20:32,0,0,2,1,0,0,2,0,0,0,0,0,0,1,-3,18:43,1:49,0:00,NA
-2018020869,8477509,Mirco Mueller,New Jersey Devils,D,19:36,0,1,1,2,0,0,0,0,0,1,0,0,0,1,1,18:28,0:23,0:45,NA
-2018020869,8471233,Travis Zajac,New Jersey Devils,C,20:13,0,0,0,1,0,0,0,10,19,0,0,0,0,2,-3,16:03,2:02,2:08,52.63
-2018020869,8476545,Kurtis Gabriel,New Jersey Devils,RW,5:17,0,0,0,3,0,0,12,0,0,0,0,0,0,0,-2,5:17,0:00,0:00,NA
-2018020869,8479407,Jesper Bratt,New Jersey Devils,LW,16:30,0,0,0,1,0,0,0,0,0,0,0,0,0,2,-2,14:30,1:49,0:11,NA
-2018020869,8473933,Ben Lovejoy,New Jersey Devils,D,19:19,0,0,2,0,0,0,0,0,0,0,1,0,0,1,-4,15:47,0:00,3:32,NA
-2018020869,8475149,Marcus Johansson,New Jersey Devils,LW,18:35,0,0,1,0,0,0,0,1,2,0,0,0,0,2,-3,16:33,2:02,0:00,50
-2018020869,8475844,Kenny Agostino,New Jersey Devils,LW,13:06,1,0,0,3,0,0,0,1,1,0,0,0,0,0,0,12:43,0:23,0:00,100
-2018020869,8472382,Andy Greene,New Jersey Devils,D,20:58,0,0,3,0,0,0,0,0,0,0,1,0,0,2,-3,17:43,0:00,3:15,NA
-2018020869,8478401,Pavel Zacha,New Jersey Devils,C,15:23,0,1,3,2,0,0,0,1,7,0,1,0,0,0,0,13:35,0:00,1:48,14.29
-2018020869,8479315,Joey Anderson,New Jersey Devils,RW,15:55,0,0,2,1,0,0,0,1,2,0,0,0,0,0,1,14:57,0:23,0:35,50
-2018020869,8477355,Will Butcher,New Jersey Devils,D,20:53,1,0,1,1,0,1,0,0,0,1,0,0,0,0,-3,20:10,0:36,0:07,NA
-2018020869,8475151,Kyle Palmieri,New Jersey Devils,RW,19:55,0,1,2,1,1,0,0,0,0,0,0,0,0,1,-3,17:53,2:02,0:00,NA
-2018020869,8478881,Brett Seney,New Jersey Devils,LW,9:14,0,0,1,0,0,0,0,0,1,0,0,0,0,0,-2,9:14,0:00,0:00,0
-2018020869,8479250,Nick Lappin,New Jersey Devils,RW,14:01,0,0,0,2,0,0,0,3,3,0,0,0,0,2,0,13:54,0:00,0:07,100
-2018020869,8480002,Nico Hischier,New Jersey Devils,C,16:55,1,0,2,1,0,1,0,10,20,1,0,0,0,1,-1,15:28,0:36,0:51,50
-2018020869,8479291,Kevin Rooney,New Jersey Devils,C,10:42,0,0,1,3,0,0,0,1,4,0,0,0,0,2,-2,8:22,0:00,2:20,25
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020869,8476907,Mackenzie MacEachern,St. Louis Blues,New Jersey Devils,LW,10:11,0,1,2,0,0,0,0,0,0,0,0,0,0,0,2,10:11,0:00,0:00,NA
+2018020869,8475768,Jaden Schwartz,St. Louis Blues,New Jersey Devils,LW,15:07,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1,12:48,2:19,0:00,0
+2018020869,8474565,Alex Pietrangelo,St. Louis Blues,New Jersey Devils,D,21:07,1,2,3,1,0,0,0,0,0,1,0,0,0,2,6,18:36,2:24,0:07,NA
+2018020869,8476897,Oskar Sundqvist,St. Louis Blues,New Jersey Devils,C,16:20,0,0,1,0,0,0,0,3,11,0,0,0,0,0,-1,14:50,0:29,1:01,27.27
+2018020869,8477964,Ivan Barbashev,St. Louis Blues,New Jersey Devils,C,13:07,1,2,4,1,0,0,0,5,11,0,1,1,0,0,3,11:18,0:00,1:49,45.45
+2018020869,8475765,Vladimir Tarasenko,St. Louis Blues,New Jersey Devils,RW,15:10,3,0,2,0,0,0,0,0,0,1,0,0,0,1,3,13:32,1:38,0:00,NA
+2018020869,8470257,Alexander Steen,St. Louis Blues,New Jersey Devils,LW,15:20,1,0,3,0,0,0,0,0,0,0,0,0,1,0,1,13:53,0:03,1:24,NA
+2018020869,8478407,Vince Dunn,St. Louis Blues,New Jersey Devils,D,19:17,0,0,4,0,0,0,2,0,0,0,1,0,0,3,0,17:01,1:53,0:23,NA
+2018020869,8475158,Ryan O'Reilly,St. Louis Blues,New Jersey Devils,C,16:12,1,1,2,0,0,0,0,12,17,1,0,0,0,0,3,14:34,1:38,0:00,70.59
+2018020869,8474145,Robert Bortuzzo,St. Louis Blues,New Jersey Devils,D,16:39,1,0,1,0,0,0,2,0,0,1,0,0,0,0,-1,16:14,0:00,0:25,NA
+2018020869,8474034,Pat Maroon,St. Louis Blues,New Jersey Devils,LW,15:45,1,0,3,3,0,0,2,0,0,0,2,0,0,0,0,13:26,2:19,0:00,NA
+2018020869,8475098,Tyler Bozak,St. Louis Blues,New Jersey Devils,C,14:03,1,1,3,0,0,0,0,9,15,0,0,0,0,0,1,12:10,1:53,0:00,60
+2018020869,8476441,Joel Edmundson,St. Louis Blues,New Jersey Devils,D,19:14,0,0,3,0,0,0,0,0,0,0,0,0,0,1,5,17:27,0:17,1:30,NA
+2018020869,8470151,Jay Bouwmeester,St. Louis Blues,New Jersey Devils,D,20:48,0,0,3,1,0,0,0,0,0,0,0,0,0,0,1,19:40,0:00,1:08,NA
+2018020869,8476892,Colton Parayko,St. Louis Blues,New Jersey Devils,D,21:24,2,0,2,1,0,0,0,0,0,0,1,0,1,0,1,18:19,1:48,1:17,NA
+2018020869,8475170,Brayden Schenn,St. Louis Blues,New Jersey Devils,C,16:58,2,0,0,0,0,0,0,1,2,1,2,0,0,0,2,15:20,1:38,0:00,50
+2018020869,8477482,Zach Sanford,St. Louis Blues,New Jersey Devils,LW,14:54,0,0,1,0,0,0,0,0,0,0,0,0,0,2,-1,14:28,0:03,0:23,NA
+2018020869,8480023,Robert Thomas,St. Louis Blues,New Jersey Devils,C,14:04,1,0,1,0,0,0,0,1,2,1,1,0,0,0,2,12:26,1:38,0:00,50
+2018020869,8473468,Eric Gryba,New Jersey Devils,St. Louis Blues,D,16:56,0,0,2,3,0,0,2,0,0,0,0,0,0,3,0,16:35,0:00,0:21,NA
+2018020869,8476923,Damon Severson,New Jersey Devils,St. Louis Blues,D,20:32,0,0,2,1,0,0,2,0,0,0,0,0,0,1,-3,18:43,1:49,0:00,NA
+2018020869,8477509,Mirco Mueller,New Jersey Devils,St. Louis Blues,D,19:36,0,1,1,2,0,0,0,0,0,1,0,0,0,1,1,18:28,0:23,0:45,NA
+2018020869,8471233,Travis Zajac,New Jersey Devils,St. Louis Blues,C,20:13,0,0,0,1,0,0,0,10,19,0,0,0,0,2,-3,16:03,2:02,2:08,52.63
+2018020869,8476545,Kurtis Gabriel,New Jersey Devils,St. Louis Blues,RW,5:17,0,0,0,3,0,0,12,0,0,0,0,0,0,0,-2,5:17,0:00,0:00,NA
+2018020869,8479407,Jesper Bratt,New Jersey Devils,St. Louis Blues,LW,16:30,0,0,0,1,0,0,0,0,0,0,0,0,0,2,-2,14:30,1:49,0:11,NA
+2018020869,8473933,Ben Lovejoy,New Jersey Devils,St. Louis Blues,D,19:19,0,0,2,0,0,0,0,0,0,0,1,0,0,1,-4,15:47,0:00,3:32,NA
+2018020869,8475149,Marcus Johansson,New Jersey Devils,St. Louis Blues,LW,18:35,0,0,1,0,0,0,0,1,2,0,0,0,0,2,-3,16:33,2:02,0:00,50
+2018020869,8475844,Kenny Agostino,New Jersey Devils,St. Louis Blues,LW,13:06,1,0,0,3,0,0,0,1,1,0,0,0,0,0,0,12:43,0:23,0:00,100
+2018020869,8472382,Andy Greene,New Jersey Devils,St. Louis Blues,D,20:58,0,0,3,0,0,0,0,0,0,0,1,0,0,2,-3,17:43,0:00,3:15,NA
+2018020869,8478401,Pavel Zacha,New Jersey Devils,St. Louis Blues,C,15:23,0,1,3,2,0,0,0,1,7,0,1,0,0,0,0,13:35,0:00,1:48,14.29
+2018020869,8479315,Joey Anderson,New Jersey Devils,St. Louis Blues,RW,15:55,0,0,2,1,0,0,0,1,2,0,0,0,0,0,1,14:57,0:23,0:35,50
+2018020869,8477355,Will Butcher,New Jersey Devils,St. Louis Blues,D,20:53,1,0,1,1,0,1,0,0,0,1,0,0,0,0,-3,20:10,0:36,0:07,NA
+2018020869,8475151,Kyle Palmieri,New Jersey Devils,St. Louis Blues,RW,19:55,0,1,2,1,1,0,0,0,0,0,0,0,0,1,-3,17:53,2:02,0:00,NA
+2018020869,8478881,Brett Seney,New Jersey Devils,St. Louis Blues,LW,9:14,0,0,1,0,0,0,0,0,1,0,0,0,0,0,-2,9:14,0:00,0:00,0
+2018020869,8479250,Nick Lappin,New Jersey Devils,St. Louis Blues,RW,14:01,0,0,0,2,0,0,0,3,3,0,0,0,0,2,0,13:54,0:00,0:07,100
+2018020869,8480002,Nico Hischier,New Jersey Devils,St. Louis Blues,C,16:55,1,0,2,1,0,1,0,10,20,1,0,0,0,1,-1,15:28,0:36,0:51,50
+2018020869,8479291,Kevin Rooney,New Jersey Devils,St. Louis Blues,C,10:42,0,0,1,3,0,0,0,1,4,0,0,0,0,2,-2,8:22,0:00,2:20,25

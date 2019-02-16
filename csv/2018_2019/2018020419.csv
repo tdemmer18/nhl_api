@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020419,8471724,Kris Letang,Pittsburgh Penguins,D,24:46,2,0,3,2,0,1,2,0,0,1,0,0,0,2,1,22:08,1:55,0:43,NA
-2018020419,8477969,Marcus Pettersson,Pittsburgh Penguins,D,13:54,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,13:54,0:00,0:00,NA
-2018020419,8475208,Brian Dumoulin,Pittsburgh Penguins,D,20:26,1,0,0,2,0,0,0,0,0,0,1,0,0,3,2,18:51,0:09,1:26,NA
-2018020419,8473544,Derick Brassard,Pittsburgh Penguins,C,15:35,0,1,3,2,0,0,0,4,16,0,0,0,0,0,1,14:29,1:06,0:00,25
-2018020419,8471675,Sidney Crosby,Pittsburgh Penguins,C,19:46,0,0,2,2,0,0,2,19,23,1,1,0,0,0,0,18:06,1:38,0:02,82.61
-2018020419,8477404,Jake Guentzel,Pittsburgh Penguins,LW,18:36,0,1,2,0,0,0,0,0,0,1,0,0,0,0,1,17:28,1:06,0:02,NA
-2018020419,8471887,Patric Hornqvist,Pittsburgh Penguins,RW,16:32,1,3,8,2,1,0,0,0,0,0,0,0,0,2,1,14:56,1:36,0:00,NA
-2018020419,8478866,Dominik Simon,Pittsburgh Penguins,C,5:01,0,0,1,0,0,0,2,0,0,0,0,0,0,0,1,5:01,0:00,0:00,NA
-2018020419,8473548,Phil Kessel,Pittsburgh Penguins,RW,17:42,1,0,2,0,0,1,0,0,0,1,0,0,0,0,0,16:00,1:42,0:00,NA
-2018020419,8475810,Bryan Rust,Pittsburgh Penguins,RW,10:20,0,0,1,4,0,0,0,0,0,0,0,0,0,1,0,8:54,0:00,1:26,NA
-2018020419,8479944,Zach Aston-Reese,Pittsburgh Penguins,C,18:30,1,0,3,5,0,0,0,0,0,1,0,0,0,0,1,15:39,0:00,2:51,NA
-2018020419,8471215,Evgeni Malkin,Pittsburgh Penguins,C,17:51,1,1,2,2,0,0,0,6,10,3,2,0,0,0,1,16:13,1:38,0:00,60
-2018020419,8471677,Jack Johnson,Pittsburgh Penguins,D,20:08,0,0,1,1,0,0,2,0,0,2,0,0,0,0,1,16:13,1:02,2:53,NA
-2018020419,8476871,Tanner Pearson,Pittsburgh Penguins,LW,12:23,1,0,1,1,0,0,0,0,0,0,1,0,0,1,2,12:23,0:00,0:00,NA
-2018020419,8475772,Riley Sheahan,Pittsburgh Penguins,C,13:43,0,0,0,1,0,0,0,3,8,0,1,0,0,0,0,10:52,0:00,2:51,37.5
-2018020419,8474683,Derek Grant,Pittsburgh Penguins,C,6:48,0,0,1,1,0,0,0,3,5,0,0,0,0,0,0,5:22,0:00,1:26,60
-2018020419,8476874,Olli Maatta,Pittsburgh Penguins,D,21:00,1,0,1,4,0,0,0,0,0,1,0,0,0,4,1,17:18,0:51,2:51,NA
-2018020419,8476467,Jamie Oleksiak,Pittsburgh Penguins,D,19:25,0,0,0,4,0,0,0,0,0,0,0,0,0,1,1,17:43,0:57,0:45,NA
-2018020419,8473446,Erik Johnson,Colorado Avalanche,D,23:37,0,0,2,3,0,0,0,0,0,0,1,0,0,0,-1,22:19,0:00,1:18,NA
-2018020419,8477507,Nikita Zadorov,Colorado Avalanche,D,15:07,0,0,4,1,0,0,0,0,0,0,2,0,0,0,0,14:01,0:00,1:06,NA
-2018020419,8474569,Colin Wilson,Colorado Avalanche,C,17:26,0,0,1,0,0,0,0,0,0,0,0,0,0,2,-1,13:47,3:39,0:00,NA
-2018020419,8475747,Patrik Nemeth,Colorado Avalanche,D,13:02,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,11:29,0:00,1:33,NA
-2018020419,8476442,Matt Nieto,Colorado Avalanche,LW,11:11,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,9:33,0:00,1:38,NA
-2018020419,8476455,Gabriel Landeskog,Colorado Avalanche,LW,22:24,1,0,4,0,0,1,0,6,12,2,0,0,0,3,-1,18:45,3:39,0:00,50
-2018020419,8474685,Matt Calvert,Colorado Avalanche,LW,10:33,1,0,4,2,0,0,0,1,1,0,1,0,0,0,0,10:14,0:00,0:19,100
-2018020419,8477456,J.T. Compher,Colorado Avalanche,LW,17:37,0,0,4,0,0,0,2,10,15,0,0,0,0,0,-1,16:10,0:40,0:47,66.67
-2018020419,8475268,Gabriel Bourque,Colorado Avalanche,LW,10:19,1,0,1,3,0,0,0,0,1,1,0,0,1,4,-1,9:12,0:00,1:07,0
-2018020419,8477973,Vladislav Kamenev,Colorado Avalanche,C,9:19,0,0,1,1,0,0,0,1,2,0,0,0,0,0,-2,9:00,0:00,0:19,50
-2018020419,8477021,Alexander Kerfoot,Colorado Avalanche,C,11:25,0,0,0,0,0,0,0,3,9,0,0,0,0,0,-2,10:45,0:40,0:00,33.33
-2018020419,8474013,Ian Cole,Colorado Avalanche,D,20:23,1,0,3,2,0,0,0,0,0,0,0,0,0,1,-2,18:07,0:45,1:31,NA
-2018020419,8475197,Tyson Barrie,Colorado Avalanche,D,24:10,0,1,5,1,1,0,0,0,0,0,1,0,0,3,-3,20:31,3:39,0:00,NA
-2018020419,8471262,Carl Soderberg,Colorado Avalanche,C,12:31,0,1,4,1,0,0,0,3,8,0,1,0,0,0,0,10:33,0:40,1:18,37.5
-2018020419,8479398,Samuel Girard,Colorado Avalanche,D,17:48,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,17:08,0:40,0:00,NA
-2018020419,8478420,Mikko Rantanen,Colorado Avalanche,RW,22:23,1,0,5,1,0,1,2,0,0,0,1,0,0,1,-1,18:44,3:39,0:00,NA
-2018020419,8477492,Nathan MacKinnon,Colorado Avalanche,C,21:52,0,0,2,1,0,0,2,3,14,0,0,0,0,0,-1,18:58,2:54,0:00,21.43
-2018020419,8479370,Tyson Jost,Colorado Avalanche,C,15:07,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-1,14:27,0:40,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020419,8471724,Kris Letang,Pittsburgh Penguins,Colorado Avalanche,D,24:46,2,0,3,2,0,1,2,0,0,1,0,0,0,2,1,22:08,1:55,0:43,NA
+2018020419,8477969,Marcus Pettersson,Pittsburgh Penguins,Colorado Avalanche,D,13:54,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,13:54,0:00,0:00,NA
+2018020419,8475208,Brian Dumoulin,Pittsburgh Penguins,Colorado Avalanche,D,20:26,1,0,0,2,0,0,0,0,0,0,1,0,0,3,2,18:51,0:09,1:26,NA
+2018020419,8473544,Derick Brassard,Pittsburgh Penguins,Colorado Avalanche,C,15:35,0,1,3,2,0,0,0,4,16,0,0,0,0,0,1,14:29,1:06,0:00,25
+2018020419,8471675,Sidney Crosby,Pittsburgh Penguins,Colorado Avalanche,C,19:46,0,0,2,2,0,0,2,19,23,1,1,0,0,0,0,18:06,1:38,0:02,82.61
+2018020419,8477404,Jake Guentzel,Pittsburgh Penguins,Colorado Avalanche,LW,18:36,0,1,2,0,0,0,0,0,0,1,0,0,0,0,1,17:28,1:06,0:02,NA
+2018020419,8471887,Patric Hornqvist,Pittsburgh Penguins,Colorado Avalanche,RW,16:32,1,3,8,2,1,0,0,0,0,0,0,0,0,2,1,14:56,1:36,0:00,NA
+2018020419,8478866,Dominik Simon,Pittsburgh Penguins,Colorado Avalanche,C,5:01,0,0,1,0,0,0,2,0,0,0,0,0,0,0,1,5:01,0:00,0:00,NA
+2018020419,8473548,Phil Kessel,Pittsburgh Penguins,Colorado Avalanche,RW,17:42,1,0,2,0,0,1,0,0,0,1,0,0,0,0,0,16:00,1:42,0:00,NA
+2018020419,8475810,Bryan Rust,Pittsburgh Penguins,Colorado Avalanche,RW,10:20,0,0,1,4,0,0,0,0,0,0,0,0,0,1,0,8:54,0:00,1:26,NA
+2018020419,8479944,Zach Aston-Reese,Pittsburgh Penguins,Colorado Avalanche,C,18:30,1,0,3,5,0,0,0,0,0,1,0,0,0,0,1,15:39,0:00,2:51,NA
+2018020419,8471215,Evgeni Malkin,Pittsburgh Penguins,Colorado Avalanche,C,17:51,1,1,2,2,0,0,0,6,10,3,2,0,0,0,1,16:13,1:38,0:00,60
+2018020419,8471677,Jack Johnson,Pittsburgh Penguins,Colorado Avalanche,D,20:08,0,0,1,1,0,0,2,0,0,2,0,0,0,0,1,16:13,1:02,2:53,NA
+2018020419,8476871,Tanner Pearson,Pittsburgh Penguins,Colorado Avalanche,LW,12:23,1,0,1,1,0,0,0,0,0,0,1,0,0,1,2,12:23,0:00,0:00,NA
+2018020419,8475772,Riley Sheahan,Pittsburgh Penguins,Colorado Avalanche,C,13:43,0,0,0,1,0,0,0,3,8,0,1,0,0,0,0,10:52,0:00,2:51,37.5
+2018020419,8474683,Derek Grant,Pittsburgh Penguins,Colorado Avalanche,C,6:48,0,0,1,1,0,0,0,3,5,0,0,0,0,0,0,5:22,0:00,1:26,60
+2018020419,8476874,Olli Maatta,Pittsburgh Penguins,Colorado Avalanche,D,21:00,1,0,1,4,0,0,0,0,0,1,0,0,0,4,1,17:18,0:51,2:51,NA
+2018020419,8476467,Jamie Oleksiak,Pittsburgh Penguins,Colorado Avalanche,D,19:25,0,0,0,4,0,0,0,0,0,0,0,0,0,1,1,17:43,0:57,0:45,NA
+2018020419,8473446,Erik Johnson,Colorado Avalanche,Pittsburgh Penguins,D,23:37,0,0,2,3,0,0,0,0,0,0,1,0,0,0,-1,22:19,0:00,1:18,NA
+2018020419,8477507,Nikita Zadorov,Colorado Avalanche,Pittsburgh Penguins,D,15:07,0,0,4,1,0,0,0,0,0,0,2,0,0,0,0,14:01,0:00,1:06,NA
+2018020419,8474569,Colin Wilson,Colorado Avalanche,Pittsburgh Penguins,C,17:26,0,0,1,0,0,0,0,0,0,0,0,0,0,2,-1,13:47,3:39,0:00,NA
+2018020419,8475747,Patrik Nemeth,Colorado Avalanche,Pittsburgh Penguins,D,13:02,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,11:29,0:00,1:33,NA
+2018020419,8476442,Matt Nieto,Colorado Avalanche,Pittsburgh Penguins,LW,11:11,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,9:33,0:00,1:38,NA
+2018020419,8476455,Gabriel Landeskog,Colorado Avalanche,Pittsburgh Penguins,LW,22:24,1,0,4,0,0,1,0,6,12,2,0,0,0,3,-1,18:45,3:39,0:00,50
+2018020419,8474685,Matt Calvert,Colorado Avalanche,Pittsburgh Penguins,LW,10:33,1,0,4,2,0,0,0,1,1,0,1,0,0,0,0,10:14,0:00,0:19,100
+2018020419,8477456,J.T. Compher,Colorado Avalanche,Pittsburgh Penguins,LW,17:37,0,0,4,0,0,0,2,10,15,0,0,0,0,0,-1,16:10,0:40,0:47,66.67
+2018020419,8475268,Gabriel Bourque,Colorado Avalanche,Pittsburgh Penguins,LW,10:19,1,0,1,3,0,0,0,0,1,1,0,0,1,4,-1,9:12,0:00,1:07,0
+2018020419,8477973,Vladislav Kamenev,Colorado Avalanche,Pittsburgh Penguins,C,9:19,0,0,1,1,0,0,0,1,2,0,0,0,0,0,-2,9:00,0:00,0:19,50
+2018020419,8477021,Alexander Kerfoot,Colorado Avalanche,Pittsburgh Penguins,C,11:25,0,0,0,0,0,0,0,3,9,0,0,0,0,0,-2,10:45,0:40,0:00,33.33
+2018020419,8474013,Ian Cole,Colorado Avalanche,Pittsburgh Penguins,D,20:23,1,0,3,2,0,0,0,0,0,0,0,0,0,1,-2,18:07,0:45,1:31,NA
+2018020419,8475197,Tyson Barrie,Colorado Avalanche,Pittsburgh Penguins,D,24:10,0,1,5,1,1,0,0,0,0,0,1,0,0,3,-3,20:31,3:39,0:00,NA
+2018020419,8471262,Carl Soderberg,Colorado Avalanche,Pittsburgh Penguins,C,12:31,0,1,4,1,0,0,0,3,8,0,1,0,0,0,0,10:33,0:40,1:18,37.5
+2018020419,8479398,Samuel Girard,Colorado Avalanche,Pittsburgh Penguins,D,17:48,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,17:08,0:40,0:00,NA
+2018020419,8478420,Mikko Rantanen,Colorado Avalanche,Pittsburgh Penguins,RW,22:23,1,0,5,1,0,1,2,0,0,0,1,0,0,1,-1,18:44,3:39,0:00,NA
+2018020419,8477492,Nathan MacKinnon,Colorado Avalanche,Pittsburgh Penguins,C,21:52,0,0,2,1,0,0,2,3,14,0,0,0,0,0,-1,18:58,2:54,0:00,21.43
+2018020419,8479370,Tyson Jost,Colorado Avalanche,Pittsburgh Penguins,C,15:07,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-1,14:27,0:40,0:00,NA

@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020351,8471735,Keith Yandle,Florida Panthers,D,22:24,1,0,1,0,0,1,0,0,0,1,1,0,0,0,1,18:28,3:56,0:00,NA
-2018020351,8474149,Evgenii Dadonov,Florida Panthers,RW,19:29,1,0,3,1,0,0,0,0,0,0,2,0,0,0,-1,15:29,4:00,0:00,NA
-2018020351,8477932,Aaron Ekblad,Florida Panthers,D,22:43,0,1,1,2,0,0,0,0,0,1,4,0,0,0,-3,17:59,1:28,3:16,NA
-2018020351,8476875,Mike Matheson,Florida Panthers,D,23:27,0,0,3,1,0,0,0,0,0,2,2,0,0,3,-3,18:31,1:40,3:16,NA
-2018020351,8474884,Mike Hoffman,Florida Panthers,LW,20:02,1,1,4,0,1,0,0,0,0,2,3,0,0,0,1,16:06,3:56,0:00,NA
-2018020351,8471426,Troy Brouwer,Florida Panthers,RW,11:05,0,0,0,3,0,0,5,0,0,0,1,0,0,0,-2,10:21,0:00,0:44,NA
-2018020351,8477955,Jared McCann,Florida Panthers,C,11:36,0,1,4,0,0,0,0,2,8,3,0,0,0,0,0,10:17,1:19,0:00,25
-2018020351,8474098,Colton Sceviour,Florida Panthers,C,17:00,1,0,2,1,0,0,0,0,1,0,0,0,0,2,1,13:44,0:00,3:16,0
-2018020351,8474230,Micheal Haley,Florida Panthers,C,8:46,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,8:46,0:00,0:00,NA
-2018020351,8475760,Nick Bjugstad,Florida Panthers,C,15:51,1,0,2,3,0,0,0,10,16,3,2,0,0,1,-1,13:52,1:59,0:00,62.5
-2018020351,8480955,Bogdan Kiselevich,Florida Panthers,D,15:52,1,0,1,1,0,0,2,0,0,0,0,0,0,0,0,15:52,0:00,0:00,NA
-2018020351,8477996,Juho Lammikko,Florida Panthers,RW,14:03,0,0,2,2,0,0,0,2,6,0,1,0,0,0,-1,13:07,0:12,0:44,33.33
-2018020351,8476456,Jonathan Huberdeau,Florida Panthers,LW,19:33,2,0,3,1,0,1,0,1,1,0,0,0,0,1,-1,15:05,4:28,0:00,100
-2018020351,8475796,Mark Pysyk,Florida Panthers,D,18:00,0,0,0,1,0,0,0,0,0,1,1,0,0,2,2,17:15,0:01,0:44,NA
-2018020351,8477346,MacKenzie Weegar,Florida Panthers,D,15:46,0,0,4,1,0,0,0,0,0,1,0,0,0,2,0,15:02,0:00,0:44,NA
-2018020351,8478366,Frank Vatrano,Florida Panthers,C,12:44,0,1,3,3,0,0,2,0,0,0,1,0,0,0,0,11:16,1:28,0:00,NA
-2018020351,8478211,Dryden Hunt,Florida Panthers,LW,9:58,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,9:50,0:08,0:00,NA
-2018020351,8477493,Aleksander Barkov,Florida Panthers,C,25:24,0,0,3,0,0,0,0,17,30,2,0,0,0,2,-2,18:43,3:25,3:16,56.67
-2018020351,8470607,Brent Seabrook,Chicago Blackhawks,D,22:53,0,0,3,0,0,0,0,0,0,1,1,0,0,1,2,16:22,3:41,2:50,NA
-2018020351,8476979,Erik Gustafsson,Chicago Blackhawks,D,20:22,0,1,2,2,0,0,0,0,0,0,1,0,0,1,1,19:27,0:19,0:36,NA
-2018020351,8473604,Jonathan Toews,Chicago Blackhawks,C,24:55,0,0,4,0,0,0,0,12,25,0,0,0,0,0,0,18:34,3:41,2:40,48
-2018020351,8476438,Brandon Saad,Chicago Blackhawks,LW,21:26,2,0,3,0,0,0,0,0,1,0,0,0,0,0,1,18:56,0:19,2:11,0
-2018020351,8479337,Alex DeBrincat,Chicago Blackhawks,LW,15:49,0,1,1,1,0,0,0,2,3,0,0,0,0,0,1,15:26,0:19,0:04,66.67
-2018020351,8475430,Brandon Manning,Chicago Blackhawks,D,15:49,0,0,0,1,0,0,7,0,0,0,0,0,0,0,1,13:31,0:00,2:18,NA
-2018020351,8470281,Duncan Keith,Chicago Blackhawks,D,25:06,0,0,8,1,0,0,0,0,0,1,0,0,0,2,1,18:43,3:41,2:42,NA
-2018020351,8479657,Alexandre Fortin,Chicago Blackhawks,LW,7:23,0,1,3,0,0,0,0,1,2,0,0,1,0,1,0,7:17,0:00,0:06,50
-2018020351,8474141,Patrick Kane,Chicago Blackhawks,RW,24:25,1,1,6,1,0,0,4,0,0,2,1,0,0,0,0,20:44,3:41,0:00,NA
-2018020351,8477951,Nick Schmaltz,Chicago Blackhawks,C,17:23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13:42,3:41,0:00,NA
-2018020351,8475323,Marcus Kruger,Chicago Blackhawks,C,9:35,0,0,2,0,0,0,0,1,5,1,0,0,0,0,0,6:57,0:00,2:38,20
-2018020351,8477401,John Hayden,Chicago Blackhawks,RW,12:21,0,0,1,1,0,0,0,1,2,1,2,0,0,0,-1,12:21,0:00,0:00,50
-2018020351,8480946,Dominik Kahun,Chicago Blackhawks,C,10:36,1,0,2,0,0,0,0,0,1,0,0,0,0,0,1,10:17,0:19,0:00,0
-2018020351,8473573,Artem Anisimov,Chicago Blackhawks,C,15:26,0,0,3,2,0,0,0,6,13,0,1,0,0,0,-1,14:52,0:19,0:15,46.15
-2018020351,8478561,Andreas Martinsen,Chicago Blackhawks,LW,7:22,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,6:46,0:00,0:36,NA
-2018020351,8478055,Gustav Forsling,Chicago Blackhawks,D,21:40,2,0,2,0,0,0,0,0,0,2,2,0,0,1,0,18:58,0:00,2:42,NA
-2018020351,8480144,David Kampf,Chicago Blackhawks,C,14:58,1,1,1,0,0,0,0,7,10,0,0,0,0,1,2,12:16,0:00,2:42,70
-2018020351,8480035,Henri Jokiharju,Chicago Blackhawks,D,15:01,0,0,0,3,0,0,0,0,0,0,0,0,0,0,-2,14:57,0:00,0:04,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020351,8471735,Keith Yandle,Florida Panthers,Chicago Blackhawks,D,22:24,1,0,1,0,0,1,0,0,0,1,1,0,0,0,1,18:28,3:56,0:00,NA
+2018020351,8474149,Evgenii Dadonov,Florida Panthers,Chicago Blackhawks,RW,19:29,1,0,3,1,0,0,0,0,0,0,2,0,0,0,-1,15:29,4:00,0:00,NA
+2018020351,8477932,Aaron Ekblad,Florida Panthers,Chicago Blackhawks,D,22:43,0,1,1,2,0,0,0,0,0,1,4,0,0,0,-3,17:59,1:28,3:16,NA
+2018020351,8476875,Mike Matheson,Florida Panthers,Chicago Blackhawks,D,23:27,0,0,3,1,0,0,0,0,0,2,2,0,0,3,-3,18:31,1:40,3:16,NA
+2018020351,8474884,Mike Hoffman,Florida Panthers,Chicago Blackhawks,LW,20:02,1,1,4,0,1,0,0,0,0,2,3,0,0,0,1,16:06,3:56,0:00,NA
+2018020351,8471426,Troy Brouwer,Florida Panthers,Chicago Blackhawks,RW,11:05,0,0,0,3,0,0,5,0,0,0,1,0,0,0,-2,10:21,0:00,0:44,NA
+2018020351,8477955,Jared McCann,Florida Panthers,Chicago Blackhawks,C,11:36,0,1,4,0,0,0,0,2,8,3,0,0,0,0,0,10:17,1:19,0:00,25
+2018020351,8474098,Colton Sceviour,Florida Panthers,Chicago Blackhawks,C,17:00,1,0,2,1,0,0,0,0,1,0,0,0,0,2,1,13:44,0:00,3:16,0
+2018020351,8474230,Micheal Haley,Florida Panthers,Chicago Blackhawks,C,8:46,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,8:46,0:00,0:00,NA
+2018020351,8475760,Nick Bjugstad,Florida Panthers,Chicago Blackhawks,C,15:51,1,0,2,3,0,0,0,10,16,3,2,0,0,1,-1,13:52,1:59,0:00,62.5
+2018020351,8480955,Bogdan Kiselevich,Florida Panthers,Chicago Blackhawks,D,15:52,1,0,1,1,0,0,2,0,0,0,0,0,0,0,0,15:52,0:00,0:00,NA
+2018020351,8477996,Juho Lammikko,Florida Panthers,Chicago Blackhawks,RW,14:03,0,0,2,2,0,0,0,2,6,0,1,0,0,0,-1,13:07,0:12,0:44,33.33
+2018020351,8476456,Jonathan Huberdeau,Florida Panthers,Chicago Blackhawks,LW,19:33,2,0,3,1,0,1,0,1,1,0,0,0,0,1,-1,15:05,4:28,0:00,100
+2018020351,8475796,Mark Pysyk,Florida Panthers,Chicago Blackhawks,D,18:00,0,0,0,1,0,0,0,0,0,1,1,0,0,2,2,17:15,0:01,0:44,NA
+2018020351,8477346,MacKenzie Weegar,Florida Panthers,Chicago Blackhawks,D,15:46,0,0,4,1,0,0,0,0,0,1,0,0,0,2,0,15:02,0:00,0:44,NA
+2018020351,8478366,Frank Vatrano,Florida Panthers,Chicago Blackhawks,C,12:44,0,1,3,3,0,0,2,0,0,0,1,0,0,0,0,11:16,1:28,0:00,NA
+2018020351,8478211,Dryden Hunt,Florida Panthers,Chicago Blackhawks,LW,9:58,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,9:50,0:08,0:00,NA
+2018020351,8477493,Aleksander Barkov,Florida Panthers,Chicago Blackhawks,C,25:24,0,0,3,0,0,0,0,17,30,2,0,0,0,2,-2,18:43,3:25,3:16,56.67
+2018020351,8470607,Brent Seabrook,Chicago Blackhawks,Florida Panthers,D,22:53,0,0,3,0,0,0,0,0,0,1,1,0,0,1,2,16:22,3:41,2:50,NA
+2018020351,8476979,Erik Gustafsson,Chicago Blackhawks,Florida Panthers,D,20:22,0,1,2,2,0,0,0,0,0,0,1,0,0,1,1,19:27,0:19,0:36,NA
+2018020351,8473604,Jonathan Toews,Chicago Blackhawks,Florida Panthers,C,24:55,0,0,4,0,0,0,0,12,25,0,0,0,0,0,0,18:34,3:41,2:40,48
+2018020351,8476438,Brandon Saad,Chicago Blackhawks,Florida Panthers,LW,21:26,2,0,3,0,0,0,0,0,1,0,0,0,0,0,1,18:56,0:19,2:11,0
+2018020351,8479337,Alex DeBrincat,Chicago Blackhawks,Florida Panthers,LW,15:49,0,1,1,1,0,0,0,2,3,0,0,0,0,0,1,15:26,0:19,0:04,66.67
+2018020351,8475430,Brandon Manning,Chicago Blackhawks,Florida Panthers,D,15:49,0,0,0,1,0,0,7,0,0,0,0,0,0,0,1,13:31,0:00,2:18,NA
+2018020351,8470281,Duncan Keith,Chicago Blackhawks,Florida Panthers,D,25:06,0,0,8,1,0,0,0,0,0,1,0,0,0,2,1,18:43,3:41,2:42,NA
+2018020351,8479657,Alexandre Fortin,Chicago Blackhawks,Florida Panthers,LW,7:23,0,1,3,0,0,0,0,1,2,0,0,1,0,1,0,7:17,0:00,0:06,50
+2018020351,8474141,Patrick Kane,Chicago Blackhawks,Florida Panthers,RW,24:25,1,1,6,1,0,0,4,0,0,2,1,0,0,0,0,20:44,3:41,0:00,NA
+2018020351,8477951,Nick Schmaltz,Chicago Blackhawks,Florida Panthers,C,17:23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13:42,3:41,0:00,NA
+2018020351,8475323,Marcus Kruger,Chicago Blackhawks,Florida Panthers,C,9:35,0,0,2,0,0,0,0,1,5,1,0,0,0,0,0,6:57,0:00,2:38,20
+2018020351,8477401,John Hayden,Chicago Blackhawks,Florida Panthers,RW,12:21,0,0,1,1,0,0,0,1,2,1,2,0,0,0,-1,12:21,0:00,0:00,50
+2018020351,8480946,Dominik Kahun,Chicago Blackhawks,Florida Panthers,C,10:36,1,0,2,0,0,0,0,0,1,0,0,0,0,0,1,10:17,0:19,0:00,0
+2018020351,8473573,Artem Anisimov,Chicago Blackhawks,Florida Panthers,C,15:26,0,0,3,2,0,0,0,6,13,0,1,0,0,0,-1,14:52,0:19,0:15,46.15
+2018020351,8478561,Andreas Martinsen,Chicago Blackhawks,Florida Panthers,LW,7:22,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,6:46,0:00,0:36,NA
+2018020351,8478055,Gustav Forsling,Chicago Blackhawks,Florida Panthers,D,21:40,2,0,2,0,0,0,0,0,0,2,2,0,0,1,0,18:58,0:00,2:42,NA
+2018020351,8480144,David Kampf,Chicago Blackhawks,Florida Panthers,C,14:58,1,1,1,0,0,0,0,7,10,0,0,0,0,1,2,12:16,0:00,2:42,70
+2018020351,8480035,Henri Jokiharju,Chicago Blackhawks,Florida Panthers,D,15:01,0,0,0,3,0,0,0,0,0,0,0,0,0,0,-2,14:57,0:00,0:04,NA

@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020601,8469506,Jason Pominville,Buffalo Sabres,RW,11:45,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,11:37,0:08,0:00,NA
-2018020601,8475728,Johan Larsson,Buffalo Sabres,C,16:21,0,0,1,2,0,0,0,5,12,0,0,0,0,0,0,13:38,0:00,2:43,41.67
-2018020601,8480083,C.J. Smith,Buffalo Sabres,LW,11:31,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-1,10:12,0:02,1:17,NA
-2018020601,8474618,Marco Scandella,Buffalo Sabres,D,15:46,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-1,13:03,0:00,2:43,NA
-2018020601,8477839,Conor Sheary,Buffalo Sabres,LW,15:47,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-1,14:41,1:06,0:00,NA
-2018020601,8476931,Jake McCabe,Buffalo Sabres,D,16:17,0,0,3,0,0,0,2,0,0,0,1,0,0,1,-1,15:28,0:00,0:49,NA
-2018020601,8473449,Kyle Okposo,Buffalo Sabres,RW,13:54,0,1,3,0,1,0,0,3,4,1,0,0,0,0,-2,11:44,2:10,0:00,75
-2018020601,8474567,Zach Bogosian,Buffalo Sabres,D,23:24,0,0,1,0,0,0,2,0,0,1,0,0,0,0,-1,21:50,0:02,1:32,NA
-2018020601,8479999,Casey Mittelstadt,Buffalo Sabres,C,16:22,1,0,3,0,0,1,0,1,5,0,1,0,0,1,0,15:16,1:06,0:00,20
-2018020601,8471743,Vladimir Sobotka,Buffalo Sabres,C,14:12,0,0,3,0,0,0,0,10,18,0,0,0,0,2,-1,12:07,0:02,2:03,55.56
-2018020601,8477933,Sam Reinhart,Buffalo Sabres,C,18:23,0,0,4,1,0,0,0,4,4,0,0,0,0,2,-1,15:55,2:28,0:00,100
-2018020601,8477499,Rasmus Ristolainen,Buffalo Sabres,D,25:06,0,0,5,5,0,0,0,0,0,0,1,0,0,1,-1,19:59,3:28,1:39,NA
-2018020601,8478403,Jack Eichel,Buffalo Sabres,C,2:42,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2:42,0:00,0:00,100
-2018020601,8475784,Jeff Skinner,Buffalo Sabres,LW,19:23,0,0,4,1,0,0,0,4,5,0,0,0,0,0,-2,16:55,2:28,0:00,80
-2018020601,8478542,Evan Rodrigues,Buffalo Sabres,LW,22:07,0,0,1,0,0,0,0,2,7,1,1,0,0,1,-1,17:36,2:34,1:57,28.57
-2018020601,8480839,Rasmus Dahlin,Buffalo Sabres,D,17:42,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-2,16:04,1:38,0:00,NA
-2018020601,8479420,Tage Thompson,Buffalo Sabres,RW,16:19,0,0,5,0,0,0,0,1,1,0,2,0,0,0,-1,15:13,1:06,0:00,100
-2018020601,8476470,Nathan Beaulieu,Buffalo Sabres,D,20:14,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,18:45,0:12,1:17,NA
-2018020601,8474709,Matt Martin,New York Islanders,LW,9:50,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,9:50,0:00,0:00,0
-2018020601,8476917,Adam Pelech,New York Islanders,D,17:58,0,0,1,1,0,0,0,0,0,0,2,0,0,6,0,16:52,0:00,1:06,NA
-2018020601,8477936,Michael Dal Colle,New York Islanders,LW,10:37,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,10:36,0:01,0:00,NA
-2018020601,8477506,Ryan Pulock,New York Islanders,D,22:22,0,1,4,2,0,0,0,0,0,1,0,0,0,3,1,17:54,1:38,2:50,NA
-2018020601,8476429,Scott Mayfield,New York Islanders,D,19:02,1,0,2,0,0,0,2,0,0,0,0,0,0,1,1,17:32,0:00,1:30,NA
-2018020601,8470047,Valtteri Filppula,New York Islanders,C,0:32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:32,0:00,0:00,NA
-2018020601,8470187,Johnny Boychuk,New York Islanders,D,19:36,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2,17:50,0:00,1:46,NA
-2018020601,8477959,Joshua Ho-Sang,New York Islanders,RW,16:33,1,0,2,0,0,0,0,0,0,1,0,0,0,1,1,14:44,1:49,0:00,NA
-2018020601,8473504,Cal Clutterbuck,New York Islanders,RW,16:32,0,0,2,3,0,0,0,0,0,0,0,0,0,1,1,11:56,2:11,2:25,NA
-2018020601,8475314,Anders Lee,New York Islanders,LW,17:44,0,0,2,0,0,0,0,2,2,0,0,0,0,0,1,15:55,1:49,0:00,100
-2018020601,8475754,Brock Nelson,New York Islanders,C,20:58,0,1,3,0,0,0,0,5,16,0,0,0,0,0,1,18:03,1:49,1:06,31.25
-2018020601,8478445,Mathew Barzal,New York Islanders,C,20:12,1,0,2,0,0,0,2,4,8,1,0,0,0,0,1,17:48,2:22,0:02,50
-2018020601,8478038,Devon Toews,New York Islanders,D,19:33,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,17:45,1:48,0:00,NA
-2018020601,8474573,Josh Bailey,New York Islanders,RW,16:43,0,0,1,0,0,0,0,6,10,1,0,0,0,0,0,14:31,2:10,0:02,60
-2018020601,8478463,Anthony Beauvillier,New York Islanders,LW,15:39,0,0,6,1,0,0,0,0,1,0,2,0,0,2,0,13:29,2:10,0:00,0
-2018020601,8473463,Leo Komarov,New York Islanders,RW,14:14,0,1,1,1,0,0,0,2,4,0,0,0,0,0,2,12:48,0:01,1:25,50
-2018020601,8475231,Casey Cizikas,New York Islanders,C,19:11,0,0,3,0,0,0,0,7,15,0,0,0,0,1,1,16:47,0:00,2:24,46.67
-2018020601,8475181,Nick Leddy,New York Islanders,D,19:09,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,16:45,2:12,0:12,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020601,8469506,Jason Pominville,Buffalo Sabres,New York Islanders,RW,11:45,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,11:37,0:08,0:00,NA
+2018020601,8475728,Johan Larsson,Buffalo Sabres,New York Islanders,C,16:21,0,0,1,2,0,0,0,5,12,0,0,0,0,0,0,13:38,0:00,2:43,41.67
+2018020601,8480083,C.J. Smith,Buffalo Sabres,New York Islanders,LW,11:31,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-1,10:12,0:02,1:17,NA
+2018020601,8474618,Marco Scandella,Buffalo Sabres,New York Islanders,D,15:46,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-1,13:03,0:00,2:43,NA
+2018020601,8477839,Conor Sheary,Buffalo Sabres,New York Islanders,LW,15:47,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-1,14:41,1:06,0:00,NA
+2018020601,8476931,Jake McCabe,Buffalo Sabres,New York Islanders,D,16:17,0,0,3,0,0,0,2,0,0,0,1,0,0,1,-1,15:28,0:00,0:49,NA
+2018020601,8473449,Kyle Okposo,Buffalo Sabres,New York Islanders,RW,13:54,0,1,3,0,1,0,0,3,4,1,0,0,0,0,-2,11:44,2:10,0:00,75
+2018020601,8474567,Zach Bogosian,Buffalo Sabres,New York Islanders,D,23:24,0,0,1,0,0,0,2,0,0,1,0,0,0,0,-1,21:50,0:02,1:32,NA
+2018020601,8479999,Casey Mittelstadt,Buffalo Sabres,New York Islanders,C,16:22,1,0,3,0,0,1,0,1,5,0,1,0,0,1,0,15:16,1:06,0:00,20
+2018020601,8471743,Vladimir Sobotka,Buffalo Sabres,New York Islanders,C,14:12,0,0,3,0,0,0,0,10,18,0,0,0,0,2,-1,12:07,0:02,2:03,55.56
+2018020601,8477933,Sam Reinhart,Buffalo Sabres,New York Islanders,C,18:23,0,0,4,1,0,0,0,4,4,0,0,0,0,2,-1,15:55,2:28,0:00,100
+2018020601,8477499,Rasmus Ristolainen,Buffalo Sabres,New York Islanders,D,25:06,0,0,5,5,0,0,0,0,0,0,1,0,0,1,-1,19:59,3:28,1:39,NA
+2018020601,8478403,Jack Eichel,Buffalo Sabres,New York Islanders,C,2:42,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2:42,0:00,0:00,100
+2018020601,8475784,Jeff Skinner,Buffalo Sabres,New York Islanders,LW,19:23,0,0,4,1,0,0,0,4,5,0,0,0,0,0,-2,16:55,2:28,0:00,80
+2018020601,8478542,Evan Rodrigues,Buffalo Sabres,New York Islanders,LW,22:07,0,0,1,0,0,0,0,2,7,1,1,0,0,1,-1,17:36,2:34,1:57,28.57
+2018020601,8480839,Rasmus Dahlin,Buffalo Sabres,New York Islanders,D,17:42,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-2,16:04,1:38,0:00,NA
+2018020601,8479420,Tage Thompson,Buffalo Sabres,New York Islanders,RW,16:19,0,0,5,0,0,0,0,1,1,0,2,0,0,0,-1,15:13,1:06,0:00,100
+2018020601,8476470,Nathan Beaulieu,Buffalo Sabres,New York Islanders,D,20:14,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,18:45,0:12,1:17,NA
+2018020601,8474709,Matt Martin,New York Islanders,Buffalo Sabres,LW,9:50,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,9:50,0:00,0:00,0
+2018020601,8476917,Adam Pelech,New York Islanders,Buffalo Sabres,D,17:58,0,0,1,1,0,0,0,0,0,0,2,0,0,6,0,16:52,0:00,1:06,NA
+2018020601,8477936,Michael Dal Colle,New York Islanders,Buffalo Sabres,LW,10:37,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,10:36,0:01,0:00,NA
+2018020601,8477506,Ryan Pulock,New York Islanders,Buffalo Sabres,D,22:22,0,1,4,2,0,0,0,0,0,1,0,0,0,3,1,17:54,1:38,2:50,NA
+2018020601,8476429,Scott Mayfield,New York Islanders,Buffalo Sabres,D,19:02,1,0,2,0,0,0,2,0,0,0,0,0,0,1,1,17:32,0:00,1:30,NA
+2018020601,8470047,Valtteri Filppula,New York Islanders,Buffalo Sabres,C,0:32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:32,0:00,0:00,NA
+2018020601,8470187,Johnny Boychuk,New York Islanders,Buffalo Sabres,D,19:36,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2,17:50,0:00,1:46,NA
+2018020601,8477959,Joshua Ho-Sang,New York Islanders,Buffalo Sabres,RW,16:33,1,0,2,0,0,0,0,0,0,1,0,0,0,1,1,14:44,1:49,0:00,NA
+2018020601,8473504,Cal Clutterbuck,New York Islanders,Buffalo Sabres,RW,16:32,0,0,2,3,0,0,0,0,0,0,0,0,0,1,1,11:56,2:11,2:25,NA
+2018020601,8475314,Anders Lee,New York Islanders,Buffalo Sabres,LW,17:44,0,0,2,0,0,0,0,2,2,0,0,0,0,0,1,15:55,1:49,0:00,100
+2018020601,8475754,Brock Nelson,New York Islanders,Buffalo Sabres,C,20:58,0,1,3,0,0,0,0,5,16,0,0,0,0,0,1,18:03,1:49,1:06,31.25
+2018020601,8478445,Mathew Barzal,New York Islanders,Buffalo Sabres,C,20:12,1,0,2,0,0,0,2,4,8,1,0,0,0,0,1,17:48,2:22,0:02,50
+2018020601,8478038,Devon Toews,New York Islanders,Buffalo Sabres,D,19:33,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,17:45,1:48,0:00,NA
+2018020601,8474573,Josh Bailey,New York Islanders,Buffalo Sabres,RW,16:43,0,0,1,0,0,0,0,6,10,1,0,0,0,0,0,14:31,2:10,0:02,60
+2018020601,8478463,Anthony Beauvillier,New York Islanders,Buffalo Sabres,LW,15:39,0,0,6,1,0,0,0,0,1,0,2,0,0,2,0,13:29,2:10,0:00,0
+2018020601,8473463,Leo Komarov,New York Islanders,Buffalo Sabres,RW,14:14,0,1,1,1,0,0,0,2,4,0,0,0,0,0,2,12:48,0:01,1:25,50
+2018020601,8475231,Casey Cizikas,New York Islanders,Buffalo Sabres,C,19:11,0,0,3,0,0,0,0,7,15,0,0,0,0,1,1,16:47,0:00,2:24,46.67
+2018020601,8475181,Nick Leddy,New York Islanders,Buffalo Sabres,D,19:09,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,16:45,2:12,0:12,NA

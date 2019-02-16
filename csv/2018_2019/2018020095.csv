@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020095,8480172,Jan Rutta,Chicago Blackhawks,D,16:30,0,0,3,2,0,0,0,0,0,0,0,0,0,1,-1,16:28,0:02,0:00,NA
-2018020095,8470607,Brent Seabrook,Chicago Blackhawks,D,19:35,0,0,3,0,0,0,0,0,0,1,0,0,0,2,-1,19:35,0:00,0:00,NA
-2018020095,8476979,Erik Gustafsson,Chicago Blackhawks,D,23:04,0,1,4,1,0,0,0,0,0,0,1,0,0,1,0,21:36,1:28,0:00,NA
-2018020095,8473604,Jonathan Toews,Chicago Blackhawks,C,18:51,1,0,2,0,0,0,0,8,13,1,1,0,0,0,-1,16:09,2:42,0:00,61.54
-2018020095,8470543,Chris Kunitz,Chicago Blackhawks,LW,12:53,0,0,3,0,0,0,0,0,0,0,1,0,0,0,-2,11:47,1:06,0:00,NA
-2018020095,8476438,Brandon Saad,Chicago Blackhawks,LW,13:23,0,0,1,1,0,0,0,0,4,1,0,0,0,2,0,13:23,0:00,0:00,0
-2018020095,8479337,Alex DeBrincat,Chicago Blackhawks,LW,21:24,1,0,3,1,0,0,0,2,4,1,0,0,0,1,-1,18:42,2:42,0:00,50
-2018020095,8475430,Brandon Manning,Chicago Blackhawks,D,14:59,0,0,0,1,0,0,0,0,0,0,1,0,0,1,-2,14:57,0:02,0:00,NA
-2018020095,8470281,Duncan Keith,Chicago Blackhawks,D,21:16,0,0,1,0,0,0,0,0,0,0,0,0,0,3,-1,19:48,1:28,0:00,NA
-2018020095,8479657,Alexandre Fortin,Chicago Blackhawks,LW,12:38,0,0,1,0,0,0,0,2,2,2,0,0,0,0,0,12:38,0:00,0:00,100
-2018020095,8474141,Patrick Kane,Chicago Blackhawks,RW,19:38,0,0,1,0,0,0,0,0,0,0,1,0,0,0,-1,16:44,2:54,0:00,NA
-2018020095,8477951,Nick Schmaltz,Chicago Blackhawks,C,18:02,0,0,2,0,0,0,0,5,9,1,1,0,0,2,0,15:32,2:30,0:00,55.56
-2018020095,8475323,Marcus Kruger,Chicago Blackhawks,C,13:19,0,0,2,1,0,0,0,6,12,0,0,0,0,1,0,13:19,0:00,0:00,50
-2018020095,8477401,John Hayden,Chicago Blackhawks,RW,10:38,0,0,0,1,0,0,2,0,1,0,0,0,0,0,-2,10:38,0:00,0:00,0
-2018020095,8480946,Dominik Kahun,Chicago Blackhawks,C,16:02,0,0,3,1,0,0,0,0,0,0,0,0,0,0,-1,14:44,1:18,0:00,NA
-2018020095,8473573,Artem Anisimov,Chicago Blackhawks,C,13:28,0,0,0,0,0,0,0,8,16,0,0,0,0,0,-3,12:10,1:18,0:00,50
-2018020095,8480144,David Kampf,Chicago Blackhawks,C,13:05,0,0,2,2,0,0,0,0,1,1,0,0,0,0,0,13:05,0:00,0:00,0
-2018020095,8480035,Henri Jokiharju,Chicago Blackhawks,D,22:06,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-1,19:36,2:30,0:00,NA
-2018020095,8471769,Niklas Hjalmarsson,Arizona Coyotes,D,22:18,0,0,0,1,0,0,0,0,0,1,0,0,0,3,0,19:29,0:00,2:49,NA
-2018020095,8474613,Derek Stepan,Arizona Coyotes,C,18:02,0,0,1,1,0,0,0,7,15,0,0,0,0,0,3,17:19,0:00,0:43,46.67
-2018020095,8475209,Richard Panik,Arizona Coyotes,RW,11:04,0,0,3,0,0,0,0,0,0,0,1,0,0,2,0,10:41,0:00,0:23,NA
-2018020095,8477943,Brendan Perlini,Arizona Coyotes,LW,11:40,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,11:40,0:00,0:00,NA
-2018020095,8470755,Brad Richardson,Arizona Coyotes,C,17:30,0,0,4,1,0,0,0,7,15,0,0,0,0,3,1,15:33,0:00,1:57,46.67
-2018020095,8476326,Josh Archibald,Arizona Coyotes,RW,13:11,0,0,0,2,0,0,0,1,2,0,0,0,0,2,0,11:51,0:00,1:20,50
-2018020095,8474218,Jason Demers,Arizona Coyotes,D,20:21,1,0,0,1,0,0,0,0,0,1,1,0,0,0,2,19:11,0:00,1:10,NA
-2018020095,8473546,Michael Grabner,Arizona Coyotes,RW,15:31,0,0,6,0,0,0,0,0,1,1,0,0,0,1,1,13:16,0:00,2:15,0
-2018020095,8477851,Jordan Oesterle,Arizona Coyotes,D,18:04,1,0,0,2,0,0,0,0,0,0,0,0,0,5,1,18:04,0:00,0:00,NA
-2018020095,8476994,Vinnie Hinostroza,Arizona Coyotes,C,14:50,0,2,2,0,0,0,0,1,1,1,0,0,0,1,2,14:50,0:00,0:00,100
-2018020095,8475246,Kevin Connauton,Arizona Coyotes,D,17:46,1,0,4,4,0,0,2,0,0,0,1,0,0,0,1,17:07,0:00,0:39,NA
-2018020095,8471274,Alex Goligoski,Arizona Coyotes,D,22:16,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,20:05,0:00,2:11,NA
-2018020095,8478474,Lawson Crouse,Arizona Coyotes,LW,15:22,0,1,3,2,0,0,0,0,0,0,0,0,0,2,2,14:02,0:00,1:20,NA
-2018020095,8478440,Dylan Strome,Arizona Coyotes,C,12:13,0,0,3,0,0,0,0,7,14,0,0,0,0,0,0,12:13,0:00,0:00,50
-2018020095,8478432,Christian Fischer,Arizona Coyotes,RW,13:26,0,0,1,4,0,0,0,0,0,1,0,0,0,0,-1,13:26,0:00,0:00,NA
-2018020095,8479343,Clayton Keller,Arizona Coyotes,C,18:07,1,1,1,0,0,0,2,0,1,1,0,0,0,0,1,18:05,0:00,0:02,0
-2018020095,8475171,Oliver Ekman-Larsson,Arizona Coyotes,D,19:36,1,0,2,3,0,0,2,0,0,1,2,0,0,2,2,18:25,0:00,1:11,NA
-2018020095,8476393,Nick Cousins,Arizona Coyotes,C,12:43,1,0,1,0,0,0,0,8,13,0,0,0,0,1,1,12:43,0:00,0:00,61.54
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020095,8480172,Jan Rutta,Chicago Blackhawks,Arizona Coyotes,D,16:30,0,0,3,2,0,0,0,0,0,0,0,0,0,1,-1,16:28,0:02,0:00,NA
+2018020095,8470607,Brent Seabrook,Chicago Blackhawks,Arizona Coyotes,D,19:35,0,0,3,0,0,0,0,0,0,1,0,0,0,2,-1,19:35,0:00,0:00,NA
+2018020095,8476979,Erik Gustafsson,Chicago Blackhawks,Arizona Coyotes,D,23:04,0,1,4,1,0,0,0,0,0,0,1,0,0,1,0,21:36,1:28,0:00,NA
+2018020095,8473604,Jonathan Toews,Chicago Blackhawks,Arizona Coyotes,C,18:51,1,0,2,0,0,0,0,8,13,1,1,0,0,0,-1,16:09,2:42,0:00,61.54
+2018020095,8470543,Chris Kunitz,Chicago Blackhawks,Arizona Coyotes,LW,12:53,0,0,3,0,0,0,0,0,0,0,1,0,0,0,-2,11:47,1:06,0:00,NA
+2018020095,8476438,Brandon Saad,Chicago Blackhawks,Arizona Coyotes,LW,13:23,0,0,1,1,0,0,0,0,4,1,0,0,0,2,0,13:23,0:00,0:00,0
+2018020095,8479337,Alex DeBrincat,Chicago Blackhawks,Arizona Coyotes,LW,21:24,1,0,3,1,0,0,0,2,4,1,0,0,0,1,-1,18:42,2:42,0:00,50
+2018020095,8475430,Brandon Manning,Chicago Blackhawks,Arizona Coyotes,D,14:59,0,0,0,1,0,0,0,0,0,0,1,0,0,1,-2,14:57,0:02,0:00,NA
+2018020095,8470281,Duncan Keith,Chicago Blackhawks,Arizona Coyotes,D,21:16,0,0,1,0,0,0,0,0,0,0,0,0,0,3,-1,19:48,1:28,0:00,NA
+2018020095,8479657,Alexandre Fortin,Chicago Blackhawks,Arizona Coyotes,LW,12:38,0,0,1,0,0,0,0,2,2,2,0,0,0,0,0,12:38,0:00,0:00,100
+2018020095,8474141,Patrick Kane,Chicago Blackhawks,Arizona Coyotes,RW,19:38,0,0,1,0,0,0,0,0,0,0,1,0,0,0,-1,16:44,2:54,0:00,NA
+2018020095,8477951,Nick Schmaltz,Chicago Blackhawks,Arizona Coyotes,C,18:02,0,0,2,0,0,0,0,5,9,1,1,0,0,2,0,15:32,2:30,0:00,55.56
+2018020095,8475323,Marcus Kruger,Chicago Blackhawks,Arizona Coyotes,C,13:19,0,0,2,1,0,0,0,6,12,0,0,0,0,1,0,13:19,0:00,0:00,50
+2018020095,8477401,John Hayden,Chicago Blackhawks,Arizona Coyotes,RW,10:38,0,0,0,1,0,0,2,0,1,0,0,0,0,0,-2,10:38,0:00,0:00,0
+2018020095,8480946,Dominik Kahun,Chicago Blackhawks,Arizona Coyotes,C,16:02,0,0,3,1,0,0,0,0,0,0,0,0,0,0,-1,14:44,1:18,0:00,NA
+2018020095,8473573,Artem Anisimov,Chicago Blackhawks,Arizona Coyotes,C,13:28,0,0,0,0,0,0,0,8,16,0,0,0,0,0,-3,12:10,1:18,0:00,50
+2018020095,8480144,David Kampf,Chicago Blackhawks,Arizona Coyotes,C,13:05,0,0,2,2,0,0,0,0,1,1,0,0,0,0,0,13:05,0:00,0:00,0
+2018020095,8480035,Henri Jokiharju,Chicago Blackhawks,Arizona Coyotes,D,22:06,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-1,19:36,2:30,0:00,NA
+2018020095,8471769,Niklas Hjalmarsson,Arizona Coyotes,Chicago Blackhawks,D,22:18,0,0,0,1,0,0,0,0,0,1,0,0,0,3,0,19:29,0:00,2:49,NA
+2018020095,8474613,Derek Stepan,Arizona Coyotes,Chicago Blackhawks,C,18:02,0,0,1,1,0,0,0,7,15,0,0,0,0,0,3,17:19,0:00,0:43,46.67
+2018020095,8475209,Richard Panik,Arizona Coyotes,Chicago Blackhawks,RW,11:04,0,0,3,0,0,0,0,0,0,0,1,0,0,2,0,10:41,0:00,0:23,NA
+2018020095,8477943,Brendan Perlini,Arizona Coyotes,Chicago Blackhawks,LW,11:40,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,11:40,0:00,0:00,NA
+2018020095,8470755,Brad Richardson,Arizona Coyotes,Chicago Blackhawks,C,17:30,0,0,4,1,0,0,0,7,15,0,0,0,0,3,1,15:33,0:00,1:57,46.67
+2018020095,8476326,Josh Archibald,Arizona Coyotes,Chicago Blackhawks,RW,13:11,0,0,0,2,0,0,0,1,2,0,0,0,0,2,0,11:51,0:00,1:20,50
+2018020095,8474218,Jason Demers,Arizona Coyotes,Chicago Blackhawks,D,20:21,1,0,0,1,0,0,0,0,0,1,1,0,0,0,2,19:11,0:00,1:10,NA
+2018020095,8473546,Michael Grabner,Arizona Coyotes,Chicago Blackhawks,RW,15:31,0,0,6,0,0,0,0,0,1,1,0,0,0,1,1,13:16,0:00,2:15,0
+2018020095,8477851,Jordan Oesterle,Arizona Coyotes,Chicago Blackhawks,D,18:04,1,0,0,2,0,0,0,0,0,0,0,0,0,5,1,18:04,0:00,0:00,NA
+2018020095,8476994,Vinnie Hinostroza,Arizona Coyotes,Chicago Blackhawks,C,14:50,0,2,2,0,0,0,0,1,1,1,0,0,0,1,2,14:50,0:00,0:00,100
+2018020095,8475246,Kevin Connauton,Arizona Coyotes,Chicago Blackhawks,D,17:46,1,0,4,4,0,0,2,0,0,0,1,0,0,0,1,17:07,0:00,0:39,NA
+2018020095,8471274,Alex Goligoski,Arizona Coyotes,Chicago Blackhawks,D,22:16,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,20:05,0:00,2:11,NA
+2018020095,8478474,Lawson Crouse,Arizona Coyotes,Chicago Blackhawks,LW,15:22,0,1,3,2,0,0,0,0,0,0,0,0,0,2,2,14:02,0:00,1:20,NA
+2018020095,8478440,Dylan Strome,Arizona Coyotes,Chicago Blackhawks,C,12:13,0,0,3,0,0,0,0,7,14,0,0,0,0,0,0,12:13,0:00,0:00,50
+2018020095,8478432,Christian Fischer,Arizona Coyotes,Chicago Blackhawks,RW,13:26,0,0,1,4,0,0,0,0,0,1,0,0,0,0,-1,13:26,0:00,0:00,NA
+2018020095,8479343,Clayton Keller,Arizona Coyotes,Chicago Blackhawks,C,18:07,1,1,1,0,0,0,2,0,1,1,0,0,0,0,1,18:05,0:00,0:02,0
+2018020095,8475171,Oliver Ekman-Larsson,Arizona Coyotes,Chicago Blackhawks,D,19:36,1,0,2,3,0,0,2,0,0,1,2,0,0,2,2,18:25,0:00,1:11,NA
+2018020095,8476393,Nick Cousins,Arizona Coyotes,Chicago Blackhawks,C,12:43,1,0,1,0,0,0,0,8,13,0,0,0,0,1,1,12:43,0:00,0:00,61.54

@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020355,8473446,Erik Johnson,Colorado Avalanche,D,21:45,1,0,3,1,0,0,0,0,0,0,0,0,0,2,-1,20:03,0:12,1:30,NA
-2018020355,8477507,Nikita Zadorov,Colorado Avalanche,D,14:30,0,0,3,2,0,0,0,0,0,0,0,0,0,0,2,13:48,0:00,0:42,NA
-2018020355,8474569,Colin Wilson,Colorado Avalanche,C,14:57,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,11:09,3:48,0:00,NA
-2018020355,8475747,Patrik Nemeth,Colorado Avalanche,D,14:25,0,0,2,1,0,0,0,0,0,0,1,0,0,1,1,13:18,0:00,1:07,NA
-2018020355,8480326,Sheldon Dries,Colorado Avalanche,C,8:38,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,8:38,0:00,0:00,NA
-2018020355,8476442,Matt Nieto,Colorado Avalanche,LW,11:06,0,0,0,2,0,0,0,0,0,0,0,0,0,1,-1,10:13,0:00,0:53,NA
-2018020355,8476455,Gabriel Landeskog,Colorado Avalanche,LW,21:55,1,0,3,0,0,0,2,10,16,0,0,0,0,0,1,17:44,4:11,0:00,62.5
-2018020355,8474685,Matt Calvert,Colorado Avalanche,LW,14:04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,12:57,0:00,1:07,NA
-2018020355,8477456,J.T. Compher,Colorado Avalanche,LW,13:04,0,1,3,0,0,0,0,3,4,0,1,0,0,0,1,11:56,0:03,1:05,75
-2018020355,8477973,Vladislav Kamenev,Colorado Avalanche,C,9:51,0,0,1,0,0,0,2,1,1,0,0,0,0,1,0,7:54,1:57,0:00,100
-2018020355,8477021,Alexander Kerfoot,Colorado Avalanche,C,13:49,1,0,1,1,0,0,0,5,10,0,0,0,0,0,1,11:52,1:57,0:00,50
-2018020355,8474013,Ian Cole,Colorado Avalanche,D,21:44,0,0,2,0,0,0,0,0,0,1,1,0,0,0,1,20:48,0:03,0:53,NA
-2018020355,8475197,Tyson Barrie,Colorado Avalanche,D,21:05,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,16:50,4:15,0:00,NA
-2018020355,8471262,Carl Soderberg,Colorado Avalanche,C,15:35,0,0,0,1,0,0,0,7,11,0,0,0,0,1,-1,12:18,1:58,1:19,63.64
-2018020355,8479398,Samuel Girard,Colorado Avalanche,D,20:35,0,0,1,0,0,0,0,0,0,0,1,0,0,0,-1,18:19,2:04,0:12,NA
-2018020355,8478420,Mikko Rantanen,Colorado Avalanche,RW,21:15,1,1,3,0,0,0,0,1,1,2,0,0,0,2,1,17:07,4:08,0:00,100
-2018020355,8477492,Nathan MacKinnon,Colorado Avalanche,C,22:23,1,1,6,1,0,0,0,9,16,1,0,0,0,0,1,18:23,4:00,0:00,56.25
-2018020355,8479370,Tyson Jost,Colorado Avalanche,C,15:19,1,0,4,1,0,0,0,0,1,1,0,0,0,0,1,12:55,2:24,0:00,0
-2018020355,8476913,Devin Shore,Dallas Stars,C,14:39,0,0,2,0,0,0,0,0,1,0,1,0,0,0,-1,12:53,0:43,1:03,0
-2018020355,8476902,Esa Lindell,Dallas Stars,D,25:45,0,0,2,1,0,0,0,0,0,1,0,0,0,3,-1,20:16,1:07,4:22,NA
-2018020355,8473994,Jamie Benn,Dallas Stars,LW,20:35,0,1,1,3,0,0,0,0,3,0,0,0,0,1,-1,19:14,1:07,0:14,0
-2018020355,8478449,Roope Hintz,Dallas Stars,LW,10:18,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,9:13,1:05,0:00,NA
-2018020355,8471228,Alexander Radulov,Dallas Stars,RW,19:08,2,0,3,1,0,0,0,0,0,2,0,0,0,2,1,17:39,1:29,0:00,NA
-2018020355,8477945,Julius Honka,Dallas Stars,D,9:52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9:52,0:00,0:00,NA
-2018020355,8477406,Mattias Janmark,Dallas Stars,C,13:17,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,11:30,0:00,1:47,NA
-2018020355,8476889,Radek Faksa,Dallas Stars,C,13:58,0,1,1,0,0,0,0,6,17,0,0,0,0,1,0,12:23,0:00,1:35,35.29
-2018020355,8479945,Gavin Bayreuther,Dallas Stars,D,23:00,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,20:05,1:05,1:50,NA
-2018020355,8471260,Blake Comeau,Dallas Stars,LW,15:09,0,0,5,1,0,0,0,0,0,0,0,0,0,1,0,12:18,0:00,2:51,NA
-2018020355,8471392,Roman Polak,Dallas Stars,D,22:01,0,0,1,4,0,0,2,0,0,0,0,0,0,2,-2,19:34,0:00,2:27,NA
-2018020355,8475794,Tyler Seguin,Dallas Stars,C,20:46,1,0,4,1,0,0,0,8,17,0,0,0,0,0,1,19:03,1:29,0:14,47.06
-2018020355,8477501,Valeri Nichushkin,Dallas Stars,RW,7:32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,7:32,0:00,0:00,NA
-2018020355,8475752,Tyler Pitlick,Dallas Stars,C,14:48,0,0,1,2,0,0,0,0,0,0,0,0,0,2,-1,12:06,0:43,1:59,NA
-2018020355,8477450,Jason Dickinson,Dallas Stars,C,13:34,0,0,0,0,0,0,0,5,10,1,0,0,0,2,0,10:53,0:00,2:41,50
-2018020355,8476166,Taylor Fedun,Dallas Stars,D,13:56,0,0,3,1,0,0,2,0,0,0,0,0,0,3,1,12:20,0:00,1:36,NA
-2018020355,8469455,Jason Spezza,Dallas Stars,C,11:48,0,0,1,0,0,0,0,5,12,0,0,0,0,0,-1,10:53,0:55,0:00,41.67
-2018020355,8480036,Miro Heiskanen,Dallas Stars,D,23:17,0,0,0,1,0,0,2,0,0,0,0,0,0,1,0,19:51,1:17,2:09,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020355,8473446,Erik Johnson,Colorado Avalanche,Dallas Stars,D,21:45,1,0,3,1,0,0,0,0,0,0,0,0,0,2,-1,20:03,0:12,1:30,NA
+2018020355,8477507,Nikita Zadorov,Colorado Avalanche,Dallas Stars,D,14:30,0,0,3,2,0,0,0,0,0,0,0,0,0,0,2,13:48,0:00,0:42,NA
+2018020355,8474569,Colin Wilson,Colorado Avalanche,Dallas Stars,C,14:57,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,11:09,3:48,0:00,NA
+2018020355,8475747,Patrik Nemeth,Colorado Avalanche,Dallas Stars,D,14:25,0,0,2,1,0,0,0,0,0,0,1,0,0,1,1,13:18,0:00,1:07,NA
+2018020355,8480326,Sheldon Dries,Colorado Avalanche,Dallas Stars,C,8:38,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,8:38,0:00,0:00,NA
+2018020355,8476442,Matt Nieto,Colorado Avalanche,Dallas Stars,LW,11:06,0,0,0,2,0,0,0,0,0,0,0,0,0,1,-1,10:13,0:00,0:53,NA
+2018020355,8476455,Gabriel Landeskog,Colorado Avalanche,Dallas Stars,LW,21:55,1,0,3,0,0,0,2,10,16,0,0,0,0,0,1,17:44,4:11,0:00,62.5
+2018020355,8474685,Matt Calvert,Colorado Avalanche,Dallas Stars,LW,14:04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,12:57,0:00,1:07,NA
+2018020355,8477456,J.T. Compher,Colorado Avalanche,Dallas Stars,LW,13:04,0,1,3,0,0,0,0,3,4,0,1,0,0,0,1,11:56,0:03,1:05,75
+2018020355,8477973,Vladislav Kamenev,Colorado Avalanche,Dallas Stars,C,9:51,0,0,1,0,0,0,2,1,1,0,0,0,0,1,0,7:54,1:57,0:00,100
+2018020355,8477021,Alexander Kerfoot,Colorado Avalanche,Dallas Stars,C,13:49,1,0,1,1,0,0,0,5,10,0,0,0,0,0,1,11:52,1:57,0:00,50
+2018020355,8474013,Ian Cole,Colorado Avalanche,Dallas Stars,D,21:44,0,0,2,0,0,0,0,0,0,1,1,0,0,0,1,20:48,0:03,0:53,NA
+2018020355,8475197,Tyson Barrie,Colorado Avalanche,Dallas Stars,D,21:05,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,16:50,4:15,0:00,NA
+2018020355,8471262,Carl Soderberg,Colorado Avalanche,Dallas Stars,C,15:35,0,0,0,1,0,0,0,7,11,0,0,0,0,1,-1,12:18,1:58,1:19,63.64
+2018020355,8479398,Samuel Girard,Colorado Avalanche,Dallas Stars,D,20:35,0,0,1,0,0,0,0,0,0,0,1,0,0,0,-1,18:19,2:04,0:12,NA
+2018020355,8478420,Mikko Rantanen,Colorado Avalanche,Dallas Stars,RW,21:15,1,1,3,0,0,0,0,1,1,2,0,0,0,2,1,17:07,4:08,0:00,100
+2018020355,8477492,Nathan MacKinnon,Colorado Avalanche,Dallas Stars,C,22:23,1,1,6,1,0,0,0,9,16,1,0,0,0,0,1,18:23,4:00,0:00,56.25
+2018020355,8479370,Tyson Jost,Colorado Avalanche,Dallas Stars,C,15:19,1,0,4,1,0,0,0,0,1,1,0,0,0,0,1,12:55,2:24,0:00,0
+2018020355,8476913,Devin Shore,Dallas Stars,Colorado Avalanche,C,14:39,0,0,2,0,0,0,0,0,1,0,1,0,0,0,-1,12:53,0:43,1:03,0
+2018020355,8476902,Esa Lindell,Dallas Stars,Colorado Avalanche,D,25:45,0,0,2,1,0,0,0,0,0,1,0,0,0,3,-1,20:16,1:07,4:22,NA
+2018020355,8473994,Jamie Benn,Dallas Stars,Colorado Avalanche,LW,20:35,0,1,1,3,0,0,0,0,3,0,0,0,0,1,-1,19:14,1:07,0:14,0
+2018020355,8478449,Roope Hintz,Dallas Stars,Colorado Avalanche,LW,10:18,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,9:13,1:05,0:00,NA
+2018020355,8471228,Alexander Radulov,Dallas Stars,Colorado Avalanche,RW,19:08,2,0,3,1,0,0,0,0,0,2,0,0,0,2,1,17:39,1:29,0:00,NA
+2018020355,8477945,Julius Honka,Dallas Stars,Colorado Avalanche,D,9:52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9:52,0:00,0:00,NA
+2018020355,8477406,Mattias Janmark,Dallas Stars,Colorado Avalanche,C,13:17,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,11:30,0:00,1:47,NA
+2018020355,8476889,Radek Faksa,Dallas Stars,Colorado Avalanche,C,13:58,0,1,1,0,0,0,0,6,17,0,0,0,0,1,0,12:23,0:00,1:35,35.29
+2018020355,8479945,Gavin Bayreuther,Dallas Stars,Colorado Avalanche,D,23:00,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,20:05,1:05,1:50,NA
+2018020355,8471260,Blake Comeau,Dallas Stars,Colorado Avalanche,LW,15:09,0,0,5,1,0,0,0,0,0,0,0,0,0,1,0,12:18,0:00,2:51,NA
+2018020355,8471392,Roman Polak,Dallas Stars,Colorado Avalanche,D,22:01,0,0,1,4,0,0,2,0,0,0,0,0,0,2,-2,19:34,0:00,2:27,NA
+2018020355,8475794,Tyler Seguin,Dallas Stars,Colorado Avalanche,C,20:46,1,0,4,1,0,0,0,8,17,0,0,0,0,0,1,19:03,1:29,0:14,47.06
+2018020355,8477501,Valeri Nichushkin,Dallas Stars,Colorado Avalanche,RW,7:32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,7:32,0:00,0:00,NA
+2018020355,8475752,Tyler Pitlick,Dallas Stars,Colorado Avalanche,C,14:48,0,0,1,2,0,0,0,0,0,0,0,0,0,2,-1,12:06,0:43,1:59,NA
+2018020355,8477450,Jason Dickinson,Dallas Stars,Colorado Avalanche,C,13:34,0,0,0,0,0,0,0,5,10,1,0,0,0,2,0,10:53,0:00,2:41,50
+2018020355,8476166,Taylor Fedun,Dallas Stars,Colorado Avalanche,D,13:56,0,0,3,1,0,0,2,0,0,0,0,0,0,3,1,12:20,0:00,1:36,NA
+2018020355,8469455,Jason Spezza,Dallas Stars,Colorado Avalanche,C,11:48,0,0,1,0,0,0,0,5,12,0,0,0,0,0,-1,10:53,0:55,0:00,41.67
+2018020355,8480036,Miro Heiskanen,Dallas Stars,Colorado Avalanche,D,23:17,0,0,0,1,0,0,2,0,0,0,0,0,0,1,0,19:51,1:17,2:09,NA

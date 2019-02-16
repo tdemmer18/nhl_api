@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020358,8471769,Niklas Hjalmarsson,Arizona Coyotes,D,20:19,0,0,3,1,0,0,2,0,0,0,1,0,0,2,0,15:22,0:00,4:57,NA
-2018020358,8474613,Derek Stepan,Arizona Coyotes,C,17:26,0,0,2,2,0,0,2,5,18,1,0,0,0,1,-1,10:13,5:04,2:09,27.78
-2018020358,8475209,Richard Panik,Arizona Coyotes,RW,16:35,0,0,3,2,0,0,0,0,0,1,0,0,0,0,-2,11:02,3:49,1:44,NA
-2018020358,8477943,Brendan Perlini,Arizona Coyotes,LW,12:42,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,9:59,2:43,0:00,NA
-2018020358,8470755,Brad Richardson,Arizona Coyotes,C,16:46,0,0,1,1,0,0,0,10,17,0,1,0,0,1,-1,11:24,0:00,5:22,58.82
-2018020358,8473546,Michael Grabner,Arizona Coyotes,RW,15:09,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,10:24,0:00,4:45,NA
-2018020358,8476994,Vinnie Hinostroza,Arizona Coyotes,C,12:06,0,0,2,1,0,0,0,0,2,1,0,0,0,0,-1,10:30,1:36,0:00,0
-2018020358,8476851,Alex Galchenyuk,Arizona Coyotes,C,14:54,0,0,1,0,0,0,0,6,11,0,0,0,0,0,-2,10:28,4:26,0:00,54.55
-2018020358,8475246,Kevin Connauton,Arizona Coyotes,D,19:20,0,0,0,2,0,0,0,0,0,1,0,0,0,3,0,13:04,0:00,6:16,NA
-2018020358,8471274,Alex Goligoski,Arizona Coyotes,D,19:26,0,0,1,2,0,0,0,0,0,0,0,0,0,4,-2,14:19,3:03,2:04,NA
-2018020358,8478474,Lawson Crouse,Arizona Coyotes,LW,12:26,0,0,2,5,0,0,0,0,0,0,0,0,0,0,0,10:54,0:00,1:32,NA
-2018020358,8479345,Jakob Chychrun,Arizona Coyotes,D,19:46,0,0,3,1,0,0,2,0,0,0,1,0,0,1,-4,16:32,3:10,0:04,NA
-2018020358,8478440,Dylan Strome,Arizona Coyotes,C,14:30,0,0,3,0,0,0,0,7,13,1,1,0,0,1,-1,11:42,2:44,0:04,53.85
-2018020358,8478432,Christian Fischer,Arizona Coyotes,RW,12:40,0,0,1,3,0,0,0,0,0,0,0,0,0,0,-3,10:06,2:34,0:00,NA
-2018020358,8479343,Clayton Keller,Arizona Coyotes,C,16:49,0,1,2,0,0,0,0,0,2,0,0,0,0,0,-1,10:48,5:01,1:00,0
-2018020358,8475171,Oliver Ekman-Larsson,Arizona Coyotes,D,21:41,0,0,2,2,0,0,0,0,0,0,3,0,0,0,-1,14:09,4:50,2:42,NA
-2018020358,8476393,Nick Cousins,Arizona Coyotes,C,13:31,0,0,3,2,0,0,2,0,0,0,1,0,0,0,0,13:27,0:00,0:04,NA
-2018020358,8480950,Ilya Lyubushkin,Arizona Coyotes,D,15:27,0,0,0,6,0,0,0,0,0,1,1,0,0,1,0,14:25,0:25,0:37,NA
-2018020358,8470966,Mark Giordano,Calgary Flames,D,23:53,2,0,2,0,0,0,0,0,0,0,0,0,1,3,3,15:26,4:06,4:21,NA
-2018020358,8471707,James Neal,Calgary Flames,LW,15:13,1,0,3,0,0,1,0,0,0,0,2,0,0,1,0,11:49,3:24,0:00,NA
-2018020358,8477903,Garnet Hathaway,Calgary Flames,RW,11:19,0,0,1,3,0,0,2,0,0,0,0,0,0,0,1,9:21,0:00,1:58,NA
-2018020358,8477935,Sam Bennett,Calgary Flames,C,14:13,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,10:42,3:31,0:00,0
-2018020358,8474612,Travis Hamonic,Calgary Flames,D,17:39,0,0,2,1,0,0,0,0,0,0,3,0,0,3,0,12:51,0:00,4:48,NA
-2018020358,8474673,TJ Brodie,Calgary Flames,D,18:21,1,1,1,2,0,0,0,0,0,1,1,1,0,0,4,15:16,0:00,3:05,NA
-2018020358,8479346,Dillon Dube,Calgary Flames,C,9:08,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9:08,0:00,0:00,NA
-2018020358,8476873,Mark Jankowski,Calgary Flames,C,11:21,0,2,2,0,0,0,0,5,7,0,0,1,0,1,2,8:27,0:00,2:54,71.43
-2018020358,8474150,Mikael Backlund,Calgary Flames,C,18:06,1,0,2,0,0,0,0,10,17,2,0,0,1,1,1,10:40,3:31,3:55,58.82
-2018020358,8476346,Johnny Gaudreau,Calgary Flames,LW,19:35,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,14:46,4:49,0:00,NA
-2018020358,8479314,Matthew Tkachuk,Calgary Flames,LW,15:26,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,10:30,4:56,0:00,NA
-2018020358,8478512,Austin Czarnik,Calgary Flames,C,10:04,0,0,0,0,0,0,2,2,3,1,1,0,0,0,0,10:04,0:00,0:00,66.67
-2018020358,8478397,Rasmus Andersson,Calgary Flames,D,16:47,0,0,3,2,0,0,0,0,0,0,0,0,0,2,0,16:47,0:00,0:00,NA
-2018020358,8478430,Oliver Kylington,Calgary Flames,D,13:49,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,13:49,0:00,0:00,NA
-2018020358,8478396,Noah Hanifin,Calgary Flames,D,20:40,0,2,2,1,1,0,0,0,0,1,0,1,0,1,1,12:54,4:14,3:32,NA
-2018020358,8477497,Sean Monahan,Calgary Flames,C,19:40,0,1,3,1,0,0,0,6,11,2,0,0,0,0,1,14:51,4:49,0:00,54.55
-2018020358,8478585,Derek Ryan,Calgary Flames,C,16:49,2,0,0,0,0,1,0,6,12,0,1,0,1,0,1,10:13,3:43,2:53,50
-2018020358,8477496,Elias Lindholm,Calgary Flames,C,20:06,0,0,3,0,0,0,0,6,12,0,0,0,0,0,2,11:23,4:37,4:06,50
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020358,8471769,Niklas Hjalmarsson,Arizona Coyotes,Calgary Flames,D,20:19,0,0,3,1,0,0,2,0,0,0,1,0,0,2,0,15:22,0:00,4:57,NA
+2018020358,8474613,Derek Stepan,Arizona Coyotes,Calgary Flames,C,17:26,0,0,2,2,0,0,2,5,18,1,0,0,0,1,-1,10:13,5:04,2:09,27.78
+2018020358,8475209,Richard Panik,Arizona Coyotes,Calgary Flames,RW,16:35,0,0,3,2,0,0,0,0,0,1,0,0,0,0,-2,11:02,3:49,1:44,NA
+2018020358,8477943,Brendan Perlini,Arizona Coyotes,Calgary Flames,LW,12:42,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,9:59,2:43,0:00,NA
+2018020358,8470755,Brad Richardson,Arizona Coyotes,Calgary Flames,C,16:46,0,0,1,1,0,0,0,10,17,0,1,0,0,1,-1,11:24,0:00,5:22,58.82
+2018020358,8473546,Michael Grabner,Arizona Coyotes,Calgary Flames,RW,15:09,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,10:24,0:00,4:45,NA
+2018020358,8476994,Vinnie Hinostroza,Arizona Coyotes,Calgary Flames,C,12:06,0,0,2,1,0,0,0,0,2,1,0,0,0,0,-1,10:30,1:36,0:00,0
+2018020358,8476851,Alex Galchenyuk,Arizona Coyotes,Calgary Flames,C,14:54,0,0,1,0,0,0,0,6,11,0,0,0,0,0,-2,10:28,4:26,0:00,54.55
+2018020358,8475246,Kevin Connauton,Arizona Coyotes,Calgary Flames,D,19:20,0,0,0,2,0,0,0,0,0,1,0,0,0,3,0,13:04,0:00,6:16,NA
+2018020358,8471274,Alex Goligoski,Arizona Coyotes,Calgary Flames,D,19:26,0,0,1,2,0,0,0,0,0,0,0,0,0,4,-2,14:19,3:03,2:04,NA
+2018020358,8478474,Lawson Crouse,Arizona Coyotes,Calgary Flames,LW,12:26,0,0,2,5,0,0,0,0,0,0,0,0,0,0,0,10:54,0:00,1:32,NA
+2018020358,8479345,Jakob Chychrun,Arizona Coyotes,Calgary Flames,D,19:46,0,0,3,1,0,0,2,0,0,0,1,0,0,1,-4,16:32,3:10,0:04,NA
+2018020358,8478440,Dylan Strome,Arizona Coyotes,Calgary Flames,C,14:30,0,0,3,0,0,0,0,7,13,1,1,0,0,1,-1,11:42,2:44,0:04,53.85
+2018020358,8478432,Christian Fischer,Arizona Coyotes,Calgary Flames,RW,12:40,0,0,1,3,0,0,0,0,0,0,0,0,0,0,-3,10:06,2:34,0:00,NA
+2018020358,8479343,Clayton Keller,Arizona Coyotes,Calgary Flames,C,16:49,0,1,2,0,0,0,0,0,2,0,0,0,0,0,-1,10:48,5:01,1:00,0
+2018020358,8475171,Oliver Ekman-Larsson,Arizona Coyotes,Calgary Flames,D,21:41,0,0,2,2,0,0,0,0,0,0,3,0,0,0,-1,14:09,4:50,2:42,NA
+2018020358,8476393,Nick Cousins,Arizona Coyotes,Calgary Flames,C,13:31,0,0,3,2,0,0,2,0,0,0,1,0,0,0,0,13:27,0:00,0:04,NA
+2018020358,8480950,Ilya Lyubushkin,Arizona Coyotes,Calgary Flames,D,15:27,0,0,0,6,0,0,0,0,0,1,1,0,0,1,0,14:25,0:25,0:37,NA
+2018020358,8470966,Mark Giordano,Calgary Flames,Arizona Coyotes,D,23:53,2,0,2,0,0,0,0,0,0,0,0,0,1,3,3,15:26,4:06,4:21,NA
+2018020358,8471707,James Neal,Calgary Flames,Arizona Coyotes,LW,15:13,1,0,3,0,0,1,0,0,0,0,2,0,0,1,0,11:49,3:24,0:00,NA
+2018020358,8477903,Garnet Hathaway,Calgary Flames,Arizona Coyotes,RW,11:19,0,0,1,3,0,0,2,0,0,0,0,0,0,0,1,9:21,0:00,1:58,NA
+2018020358,8477935,Sam Bennett,Calgary Flames,Arizona Coyotes,C,14:13,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,10:42,3:31,0:00,0
+2018020358,8474612,Travis Hamonic,Calgary Flames,Arizona Coyotes,D,17:39,0,0,2,1,0,0,0,0,0,0,3,0,0,3,0,12:51,0:00,4:48,NA
+2018020358,8474673,TJ Brodie,Calgary Flames,Arizona Coyotes,D,18:21,1,1,1,2,0,0,0,0,0,1,1,1,0,0,4,15:16,0:00,3:05,NA
+2018020358,8479346,Dillon Dube,Calgary Flames,Arizona Coyotes,C,9:08,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9:08,0:00,0:00,NA
+2018020358,8476873,Mark Jankowski,Calgary Flames,Arizona Coyotes,C,11:21,0,2,2,0,0,0,0,5,7,0,0,1,0,1,2,8:27,0:00,2:54,71.43
+2018020358,8474150,Mikael Backlund,Calgary Flames,Arizona Coyotes,C,18:06,1,0,2,0,0,0,0,10,17,2,0,0,1,1,1,10:40,3:31,3:55,58.82
+2018020358,8476346,Johnny Gaudreau,Calgary Flames,Arizona Coyotes,LW,19:35,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,14:46,4:49,0:00,NA
+2018020358,8479314,Matthew Tkachuk,Calgary Flames,Arizona Coyotes,LW,15:26,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,10:30,4:56,0:00,NA
+2018020358,8478512,Austin Czarnik,Calgary Flames,Arizona Coyotes,C,10:04,0,0,0,0,0,0,2,2,3,1,1,0,0,0,0,10:04,0:00,0:00,66.67
+2018020358,8478397,Rasmus Andersson,Calgary Flames,Arizona Coyotes,D,16:47,0,0,3,2,0,0,0,0,0,0,0,0,0,2,0,16:47,0:00,0:00,NA
+2018020358,8478430,Oliver Kylington,Calgary Flames,Arizona Coyotes,D,13:49,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,13:49,0:00,0:00,NA
+2018020358,8478396,Noah Hanifin,Calgary Flames,Arizona Coyotes,D,20:40,0,2,2,1,1,0,0,0,0,1,0,1,0,1,1,12:54,4:14,3:32,NA
+2018020358,8477497,Sean Monahan,Calgary Flames,Arizona Coyotes,C,19:40,0,1,3,1,0,0,0,6,11,2,0,0,0,0,1,14:51,4:49,0:00,54.55
+2018020358,8478585,Derek Ryan,Calgary Flames,Arizona Coyotes,C,16:49,2,0,0,0,0,1,0,6,12,0,1,0,1,0,1,10:13,3:43,2:53,50
+2018020358,8477496,Elias Lindholm,Calgary Flames,Arizona Coyotes,C,20:06,0,0,3,0,0,0,0,6,12,0,0,0,0,0,2,11:23,4:37,4:06,50

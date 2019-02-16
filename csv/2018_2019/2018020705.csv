@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020705,8470638,Patrice Bergeron,Boston Bruins,C,17:44,1,0,3,2,0,0,0,45.45,10,22,2,0,0,0,0,-2,14:01,3:43,0:00
-2018020705,8473419,Brad Marchand,Boston Bruins,LW,18:26,1,1,6,2,0,1,0,20,1,5,0,3,0,0,0,-2,14:43,3:43,0:00
-2018020705,8471276,David Krejci,Boston Bruins,C,21:32,0,1,3,0,1,0,0,60,9,15,1,1,0,0,0,0,18:53,2:39,0:00
-2018020705,8477987,Ryan Donato,Boston Bruins,C,14:03,0,0,3,1,0,0,0,NA,0,0,0,0,0,0,0,0,12:19,1:44,0:00
-2018020705,8470655,David Backes,Boston Bruins,RW,11:40,0,0,2,1,0,0,0,75,3,4,2,1,0,0,0,0,10:16,1:24,0:00
-2018020705,8478569,Noel Acciari,Boston Bruins,C,12:13,0,0,1,2,0,0,0,80,4,5,2,1,0,0,1,0,12:13,0:00,0:00
-2018020705,8477956,David Pastrnak,Boston Bruins,RW,17:58,1,0,2,2,0,1,0,NA,0,0,0,3,0,0,1,-2,14:15,3:43,0:00
-2018020705,8478417,Jakob Forsbacka Karlsson,Boston Bruins,C,9:41,0,0,1,0,0,0,0,40,2,5,0,0,0,0,0,0,9:41,0:00,0:00
-2018020705,8479325,Charlie McAvoy,Boston Bruins,D,24:55,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,2,-1,23:11,1:44,0:00
-2018020705,8475780,Chris Wagner,Boston Bruins,RW,12:29,0,0,3,4,0,0,0,NA,0,0,0,0,0,0,3,0,12:29,0:00,0:00
-2018020705,8478443,Brandon Carlo,Boston Bruins,D,19:11,0,0,1,0,0,0,2,NA,0,0,0,0,0,0,2,0,19:11,0:00,0:00
-2018020705,8476792,Torey Krug,Boston Bruins,D,21:03,0,0,4,1,0,0,0,NA,0,0,2,2,0,0,0,-1,17:20,3:43,0:00
-2018020705,8476891,Matt Grzelcyk,Boston Bruins,D,22:29,1,0,6,0,0,0,0,NA,0,0,1,1,0,0,0,1,20:45,1:44,0:00
-2018020705,8476374,Sean Kuraly,Boston Bruins,C,13:56,0,0,3,2,0,0,0,62.5,5,8,1,1,0,0,1,0,13:56,0:00,0:00
-2018020705,8478498,Jake DeBrusk,Boston Bruins,LW,18:05,0,0,1,1,0,0,0,NA,0,0,3,0,0,0,1,-1,15:09,2:56,0:00
-2018020705,8478046,Danton Heinen,Boston Bruins,C,13:06,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,0,0,11:59,1:07,0:00
-2018020705,8465009,Zdeno Chara,Boston Bruins,D,16:41,0,0,0,3,0,0,2,NA,0,0,0,0,0,0,2,-1,16:41,0:00,0:00
-2018020705,8476191,Kevan Miller,Boston Bruins,D,12:28,0,0,3,1,0,0,5,NA,0,0,0,0,0,0,1,0,12:28,0:00,0:00
-2018020705,8473507,Jeff Petry,Montréal Canadiens,D,25:00,1,1,1,4,0,0,0,NA,0,0,0,1,0,0,0,2,23:13,0:00,1:47
-2018020705,8474818,Jordie Benn,Montréal Canadiens,D,20:33,0,0,0,3,0,0,0,NA,0,0,1,0,0,0,3,2,16:53,0:00,3:40
-2018020705,8475808,Michael Chaput,Montréal Canadiens,C,10:07,0,0,0,0,0,0,2,25,2,8,0,0,0,0,0,1,9:11,0:00,0:56
-2018020705,8480829,Jesperi Kotkaniemi,Montréal Canadiens,C,11:56,0,0,1,2,0,0,2,38.46,5,13,3,0,0,0,1,0,11:56,0:00,0:00
-2018020705,8476967,Brett Kulak,Montréal Canadiens,D,14:25,0,0,1,3,0,0,0,NA,0,0,0,0,0,0,0,0,13:18,0:00,1:07
-2018020705,8474038,Paul Byron,Montréal Canadiens,LW,16:03,1,1,2,1,0,0,0,0,0,1,1,0,1,0,0,2,14:32,0:00,1:31
-2018020705,8475848,Brendan Gallagher,Montréal Canadiens,RW,15:32,0,1,3,3,0,0,0,NA,0,0,1,2,0,0,0,0,15:32,0:00,0:00
-2018020705,8477503,Max Domi,Montréal Canadiens,C,16:17,1,0,1,1,0,0,2,40,4,10,2,0,0,0,1,1,16:17,0:00,0:00
-2018020705,8476479,Phillip Danault,Montréal Canadiens,C,20:24,1,0,0,1,0,0,0,58.62,17,29,1,0,0,0,1,1,16:22,0:00,4:02
-2018020705,8476469,Joel Armia,Montréal Canadiens,RW,16:04,0,0,1,1,0,0,0,0,0,1,4,0,0,0,0,0,14:03,0:00,2:01
-2018020705,8470642,Shea Weber,Montréal Canadiens,D,21:36,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,3,0,17:56,0:00,3:40
-2018020705,8475844,Kenny Agostino,Montréal Canadiens,LW,9:13,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,0,0,8:58,0:00,0:15
-2018020705,8477476,Artturi Lehkonen,Montréal Canadiens,LW,15:04,0,0,2,3,0,0,0,NA,0,0,0,1,0,0,0,0,12:55,0:00,2:09
-2018020705,8476422,Mike Reilly,Montréal Canadiens,D,19:08,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,1,0,19:08,0:00,0:00
-2018020705,8475235,Nicolas Deslauriers,Montréal Canadiens,LW,9:43,0,0,1,1,0,0,5,NA,0,0,0,1,0,0,0,0,9:43,0:00,0:00
-2018020705,8477494,Jonathan Drouin,Montréal Canadiens,LW,15:51,0,0,4,0,0,0,0,100,2,2,1,2,0,0,0,0,15:51,0:00,0:00
-2018020705,8479376,Victor Mete,Montréal Canadiens,D,19:45,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,1,-1,19:05,0:00,0:40
-2018020705,8475193,Tomas Tatar,Montréal Canadiens,LW,14:37,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,0,14:37,0:00,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020705,8470638,Patrice Bergeron,Boston Bruins,Montréal Canadiens,C,17:44,1,0,3,2,0,0,0,45.45,10,22,2,0,0,0,0,-2,14:01,3:43,0:00
+2018020705,8473419,Brad Marchand,Boston Bruins,Montréal Canadiens,LW,18:26,1,1,6,2,0,1,0,20,1,5,0,3,0,0,0,-2,14:43,3:43,0:00
+2018020705,8471276,David Krejci,Boston Bruins,Montréal Canadiens,C,21:32,0,1,3,0,1,0,0,60,9,15,1,1,0,0,0,0,18:53,2:39,0:00
+2018020705,8477987,Ryan Donato,Boston Bruins,Montréal Canadiens,C,14:03,0,0,3,1,0,0,0,NA,0,0,0,0,0,0,0,0,12:19,1:44,0:00
+2018020705,8470655,David Backes,Boston Bruins,Montréal Canadiens,RW,11:40,0,0,2,1,0,0,0,75,3,4,2,1,0,0,0,0,10:16,1:24,0:00
+2018020705,8478569,Noel Acciari,Boston Bruins,Montréal Canadiens,C,12:13,0,0,1,2,0,0,0,80,4,5,2,1,0,0,1,0,12:13,0:00,0:00
+2018020705,8477956,David Pastrnak,Boston Bruins,Montréal Canadiens,RW,17:58,1,0,2,2,0,1,0,NA,0,0,0,3,0,0,1,-2,14:15,3:43,0:00
+2018020705,8478417,Jakob Forsbacka Karlsson,Boston Bruins,Montréal Canadiens,C,9:41,0,0,1,0,0,0,0,40,2,5,0,0,0,0,0,0,9:41,0:00,0:00
+2018020705,8479325,Charlie McAvoy,Boston Bruins,Montréal Canadiens,D,24:55,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,2,-1,23:11,1:44,0:00
+2018020705,8475780,Chris Wagner,Boston Bruins,Montréal Canadiens,RW,12:29,0,0,3,4,0,0,0,NA,0,0,0,0,0,0,3,0,12:29,0:00,0:00
+2018020705,8478443,Brandon Carlo,Boston Bruins,Montréal Canadiens,D,19:11,0,0,1,0,0,0,2,NA,0,0,0,0,0,0,2,0,19:11,0:00,0:00
+2018020705,8476792,Torey Krug,Boston Bruins,Montréal Canadiens,D,21:03,0,0,4,1,0,0,0,NA,0,0,2,2,0,0,0,-1,17:20,3:43,0:00
+2018020705,8476891,Matt Grzelcyk,Boston Bruins,Montréal Canadiens,D,22:29,1,0,6,0,0,0,0,NA,0,0,1,1,0,0,0,1,20:45,1:44,0:00
+2018020705,8476374,Sean Kuraly,Boston Bruins,Montréal Canadiens,C,13:56,0,0,3,2,0,0,0,62.5,5,8,1,1,0,0,1,0,13:56,0:00,0:00
+2018020705,8478498,Jake DeBrusk,Boston Bruins,Montréal Canadiens,LW,18:05,0,0,1,1,0,0,0,NA,0,0,3,0,0,0,1,-1,15:09,2:56,0:00
+2018020705,8478046,Danton Heinen,Boston Bruins,Montréal Canadiens,C,13:06,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,0,0,11:59,1:07,0:00
+2018020705,8465009,Zdeno Chara,Boston Bruins,Montréal Canadiens,D,16:41,0,0,0,3,0,0,2,NA,0,0,0,0,0,0,2,-1,16:41,0:00,0:00
+2018020705,8476191,Kevan Miller,Boston Bruins,Montréal Canadiens,D,12:28,0,0,3,1,0,0,5,NA,0,0,0,0,0,0,1,0,12:28,0:00,0:00
+2018020705,8473507,Jeff Petry,Montréal Canadiens,Boston Bruins,D,25:00,1,1,1,4,0,0,0,NA,0,0,0,1,0,0,0,2,23:13,0:00,1:47
+2018020705,8474818,Jordie Benn,Montréal Canadiens,Boston Bruins,D,20:33,0,0,0,3,0,0,0,NA,0,0,1,0,0,0,3,2,16:53,0:00,3:40
+2018020705,8475808,Michael Chaput,Montréal Canadiens,Boston Bruins,C,10:07,0,0,0,0,0,0,2,25,2,8,0,0,0,0,0,1,9:11,0:00,0:56
+2018020705,8480829,Jesperi Kotkaniemi,Montréal Canadiens,Boston Bruins,C,11:56,0,0,1,2,0,0,2,38.46,5,13,3,0,0,0,1,0,11:56,0:00,0:00
+2018020705,8476967,Brett Kulak,Montréal Canadiens,Boston Bruins,D,14:25,0,0,1,3,0,0,0,NA,0,0,0,0,0,0,0,0,13:18,0:00,1:07
+2018020705,8474038,Paul Byron,Montréal Canadiens,Boston Bruins,LW,16:03,1,1,2,1,0,0,0,0,0,1,1,0,1,0,0,2,14:32,0:00,1:31
+2018020705,8475848,Brendan Gallagher,Montréal Canadiens,Boston Bruins,RW,15:32,0,1,3,3,0,0,0,NA,0,0,1,2,0,0,0,0,15:32,0:00,0:00
+2018020705,8477503,Max Domi,Montréal Canadiens,Boston Bruins,C,16:17,1,0,1,1,0,0,2,40,4,10,2,0,0,0,1,1,16:17,0:00,0:00
+2018020705,8476479,Phillip Danault,Montréal Canadiens,Boston Bruins,C,20:24,1,0,0,1,0,0,0,58.62,17,29,1,0,0,0,1,1,16:22,0:00,4:02
+2018020705,8476469,Joel Armia,Montréal Canadiens,Boston Bruins,RW,16:04,0,0,1,1,0,0,0,0,0,1,4,0,0,0,0,0,14:03,0:00,2:01
+2018020705,8470642,Shea Weber,Montréal Canadiens,Boston Bruins,D,21:36,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,3,0,17:56,0:00,3:40
+2018020705,8475844,Kenny Agostino,Montréal Canadiens,Boston Bruins,LW,9:13,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,0,0,8:58,0:00,0:15
+2018020705,8477476,Artturi Lehkonen,Montréal Canadiens,Boston Bruins,LW,15:04,0,0,2,3,0,0,0,NA,0,0,0,1,0,0,0,0,12:55,0:00,2:09
+2018020705,8476422,Mike Reilly,Montréal Canadiens,Boston Bruins,D,19:08,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,1,0,19:08,0:00,0:00
+2018020705,8475235,Nicolas Deslauriers,Montréal Canadiens,Boston Bruins,LW,9:43,0,0,1,1,0,0,5,NA,0,0,0,1,0,0,0,0,9:43,0:00,0:00
+2018020705,8477494,Jonathan Drouin,Montréal Canadiens,Boston Bruins,LW,15:51,0,0,4,0,0,0,0,100,2,2,1,2,0,0,0,0,15:51,0:00,0:00
+2018020705,8479376,Victor Mete,Montréal Canadiens,Boston Bruins,D,19:45,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,1,-1,19:05,0:00,0:40
+2018020705,8475193,Tomas Tatar,Montréal Canadiens,Boston Bruins,LW,14:37,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,0,14:37,0:00,0:00

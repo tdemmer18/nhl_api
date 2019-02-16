@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020803,8473507,Jeff Petry,Montréal Canadiens,D,21:08,1,0,2,0,0,0,0,0,0,1,1,0,0,0,0,15:46,3:06,2:16,NA
-2018020803,8474818,Jordie Benn,Montréal Canadiens,D,17:50,0,0,2,3,0,0,2,0,0,0,0,0,0,2,0,15:01,0:00,2:49,NA
-2018020803,8480829,Jesperi Kotkaniemi,Montréal Canadiens,C,17:08,0,1,3,0,0,0,0,7,16,2,1,0,0,1,1,13:33,3:35,0:00,43.75
-2018020803,8476967,Brett Kulak,Montréal Canadiens,D,19:22,0,0,1,3,0,0,0,0,0,0,0,0,0,2,-1,18:23,0:00,0:59,NA
-2018020803,8474038,Paul Byron,Montréal Canadiens,LW,8:53,1,0,0,0,0,0,0,1,2,1,0,0,0,0,1,8:06,0:00,0:47,50
-2018020803,8475848,Brendan Gallagher,Montréal Canadiens,RW,17:29,0,0,1,5,0,0,0,0,0,0,0,0,0,1,0,14:19,3:04,0:06,NA
-2018020803,8476948,Charles Hudon,Montréal Canadiens,LW,12:29,0,0,0,5,0,0,0,0,0,0,1,0,0,1,0,9:25,3:04,0:00,NA
-2018020803,8477503,Max Domi,Montréal Canadiens,C,17:25,1,1,4,1,0,0,4,8,13,0,0,0,0,0,1,14:21,3:04,0:00,61.54
-2018020803,8476479,Phillip Danault,Montréal Canadiens,C,21:18,1,0,1,1,0,0,0,15,20,1,1,0,0,0,0,16:24,0:10,4:44,75
-2018020803,8476469,Joel Armia,Montréal Canadiens,RW,19:21,0,0,1,2,0,0,0,0,0,3,1,0,0,0,0,13:42,3:45,1:54,NA
-2018020803,8470642,Shea Weber,Montréal Canadiens,D,26:36,0,1,2,2,1,0,2,0,0,0,3,0,0,2,1,18:48,3:43,4:05,NA
-2018020803,8477476,Artturi Lehkonen,Montréal Canadiens,LW,17:54,0,0,1,0,0,0,0,0,0,3,0,0,0,3,-1,13:49,0:00,4:05,NA
-2018020803,8476422,Mike Reilly,Montréal Canadiens,D,16:55,0,0,0,1,0,0,0,0,0,0,5,0,0,1,1,13:41,3:14,0:00,NA
-2018020803,8475235,Nicolas Deslauriers,Montréal Canadiens,LW,6:22,0,0,1,4,0,0,0,0,0,0,0,0,0,1,0,6:22,0:00,0:00,NA
-2018020803,8476285,Matthew Peca,Montréal Canadiens,C,7:23,0,0,2,0,0,0,0,2,5,0,1,0,0,0,0,6:49,0:00,0:34,40
-2018020803,8477494,Jonathan Drouin,Montréal Canadiens,LW,17:59,1,1,4,1,0,1,2,2,2,0,0,0,0,0,1,14:14,3:45,0:00,100
-2018020803,8479376,Victor Mete,Montréal Canadiens,D,15:32,1,0,0,0,0,0,0,0,0,0,1,0,0,2,2,13:31,0:00,2:01,NA
-2018020803,8475193,Tomas Tatar,Montréal Canadiens,LW,15:48,1,0,2,0,0,0,0,0,1,0,0,0,0,0,2,12:13,3:35,0:00,0
-2018020803,8470803,Kyle Brodziak,Edmonton Oilers,C,13:04,0,0,0,3,0,0,0,7,13,1,1,0,0,0,0,10:22,0:00,2:42,53.85
-2018020803,8471729,Kris Russell,Edmonton Oilers,D,21:17,0,0,1,0,0,0,2,0,0,0,1,0,0,5,-2,17:20,0:39,3:18,NA
-2018020803,8475857,Kevin Gravel,Edmonton Oilers,D,21:42,0,0,0,1,0,0,0,0,0,0,2,0,0,3,-1,19:08,0:00,2:34,NA
-2018020803,8476915,Jujhar Khaira,Edmonton Oilers,LW,13:43,0,0,1,3,0,0,0,1,2,0,0,0,0,1,-1,11:57,0:00,1:46,50
-2018020803,8476457,Adam Larsson,Edmonton Oilers,D,21:16,0,0,2,2,0,0,2,0,0,0,1,0,0,4,-1,19:31,0:00,1:45,NA
-2018020803,8477934,Leon Draisaitl,Edmonton Oilers,C,22:26,0,2,4,2,1,0,4,7,18,3,1,0,0,0,0,15:54,5:26,1:06,38.89
-2018020803,8476427,Ty Rattie,Edmonton Oilers,RW,12:49,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,12:10,0:39,0:00,NA
-2018020803,8476988,Matt Benning,Edmonton Oilers,D,13:52,0,0,0,1,0,0,2,0,0,0,2,0,0,1,0,11:33,0:33,1:46,NA
-2018020803,8475430,Brandon Manning,Edmonton Oilers,D,12:18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11:18,0:00,1:00,NA
-2018020803,8477498,Darnell Nurse,Edmonton Oilers,D,26:01,2,0,3,2,0,1,0,0,0,0,0,0,0,3,0,17:14,5:32,3:15,NA
-2018020803,8475178,Zack Kassian,Edmonton Oilers,RW,12:50,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,9:51,0:00,2:59,NA
-2018020803,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,C,20:06,2,0,2,2,0,2,0,3,8,2,2,0,0,1,0,11:33,5:26,3:07,37.5
-2018020803,8476356,Tobias Rieder,Edmonton Oilers,RW,11:16,0,0,0,2,0,0,0,0,1,0,0,0,0,1,0,11:16,0:00,0:00,0
-2018020803,8478402,Connor McDavid,Edmonton Oilers,C,24:05,0,1,2,2,1,0,0,3,11,2,0,0,0,0,0,17:01,5:32,1:32,27.27
-2018020803,8479344,Jesse Puljujarvi,Edmonton Oilers,RW,10:06,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,9:33,0:33,0:00,NA
-2018020803,8475163,Alex Chiasson,Edmonton Oilers,RW,19:36,1,0,2,1,0,1,0,0,1,1,0,0,0,1,-3,14:25,4:45,0:26,0
-2018020803,8474089,Brad Malone,Edmonton Oilers,C,6:00,0,0,1,2,0,0,0,1,2,0,0,0,0,1,0,6:00,0:00,0:00,50
-2018020803,8473473,Milan Lucic,Edmonton Oilers,LW,13:38,1,0,1,3,0,0,0,2,3,0,3,0,0,0,0,12:18,1:20,0:00,66.67
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020803,8473507,Jeff Petry,Montréal Canadiens,Edmonton Oilers,D,21:08,1,0,2,0,0,0,0,0,0,1,1,0,0,0,0,15:46,3:06,2:16,NA
+2018020803,8474818,Jordie Benn,Montréal Canadiens,Edmonton Oilers,D,17:50,0,0,2,3,0,0,2,0,0,0,0,0,0,2,0,15:01,0:00,2:49,NA
+2018020803,8480829,Jesperi Kotkaniemi,Montréal Canadiens,Edmonton Oilers,C,17:08,0,1,3,0,0,0,0,7,16,2,1,0,0,1,1,13:33,3:35,0:00,43.75
+2018020803,8476967,Brett Kulak,Montréal Canadiens,Edmonton Oilers,D,19:22,0,0,1,3,0,0,0,0,0,0,0,0,0,2,-1,18:23,0:00,0:59,NA
+2018020803,8474038,Paul Byron,Montréal Canadiens,Edmonton Oilers,LW,8:53,1,0,0,0,0,0,0,1,2,1,0,0,0,0,1,8:06,0:00,0:47,50
+2018020803,8475848,Brendan Gallagher,Montréal Canadiens,Edmonton Oilers,RW,17:29,0,0,1,5,0,0,0,0,0,0,0,0,0,1,0,14:19,3:04,0:06,NA
+2018020803,8476948,Charles Hudon,Montréal Canadiens,Edmonton Oilers,LW,12:29,0,0,0,5,0,0,0,0,0,0,1,0,0,1,0,9:25,3:04,0:00,NA
+2018020803,8477503,Max Domi,Montréal Canadiens,Edmonton Oilers,C,17:25,1,1,4,1,0,0,4,8,13,0,0,0,0,0,1,14:21,3:04,0:00,61.54
+2018020803,8476479,Phillip Danault,Montréal Canadiens,Edmonton Oilers,C,21:18,1,0,1,1,0,0,0,15,20,1,1,0,0,0,0,16:24,0:10,4:44,75
+2018020803,8476469,Joel Armia,Montréal Canadiens,Edmonton Oilers,RW,19:21,0,0,1,2,0,0,0,0,0,3,1,0,0,0,0,13:42,3:45,1:54,NA
+2018020803,8470642,Shea Weber,Montréal Canadiens,Edmonton Oilers,D,26:36,0,1,2,2,1,0,2,0,0,0,3,0,0,2,1,18:48,3:43,4:05,NA
+2018020803,8477476,Artturi Lehkonen,Montréal Canadiens,Edmonton Oilers,LW,17:54,0,0,1,0,0,0,0,0,0,3,0,0,0,3,-1,13:49,0:00,4:05,NA
+2018020803,8476422,Mike Reilly,Montréal Canadiens,Edmonton Oilers,D,16:55,0,0,0,1,0,0,0,0,0,0,5,0,0,1,1,13:41,3:14,0:00,NA
+2018020803,8475235,Nicolas Deslauriers,Montréal Canadiens,Edmonton Oilers,LW,6:22,0,0,1,4,0,0,0,0,0,0,0,0,0,1,0,6:22,0:00,0:00,NA
+2018020803,8476285,Matthew Peca,Montréal Canadiens,Edmonton Oilers,C,7:23,0,0,2,0,0,0,0,2,5,0,1,0,0,0,0,6:49,0:00,0:34,40
+2018020803,8477494,Jonathan Drouin,Montréal Canadiens,Edmonton Oilers,LW,17:59,1,1,4,1,0,1,2,2,2,0,0,0,0,0,1,14:14,3:45,0:00,100
+2018020803,8479376,Victor Mete,Montréal Canadiens,Edmonton Oilers,D,15:32,1,0,0,0,0,0,0,0,0,0,1,0,0,2,2,13:31,0:00,2:01,NA
+2018020803,8475193,Tomas Tatar,Montréal Canadiens,Edmonton Oilers,LW,15:48,1,0,2,0,0,0,0,0,1,0,0,0,0,0,2,12:13,3:35,0:00,0
+2018020803,8470803,Kyle Brodziak,Edmonton Oilers,Montréal Canadiens,C,13:04,0,0,0,3,0,0,0,7,13,1,1,0,0,0,0,10:22,0:00,2:42,53.85
+2018020803,8471729,Kris Russell,Edmonton Oilers,Montréal Canadiens,D,21:17,0,0,1,0,0,0,2,0,0,0,1,0,0,5,-2,17:20,0:39,3:18,NA
+2018020803,8475857,Kevin Gravel,Edmonton Oilers,Montréal Canadiens,D,21:42,0,0,0,1,0,0,0,0,0,0,2,0,0,3,-1,19:08,0:00,2:34,NA
+2018020803,8476915,Jujhar Khaira,Edmonton Oilers,Montréal Canadiens,LW,13:43,0,0,1,3,0,0,0,1,2,0,0,0,0,1,-1,11:57,0:00,1:46,50
+2018020803,8476457,Adam Larsson,Edmonton Oilers,Montréal Canadiens,D,21:16,0,0,2,2,0,0,2,0,0,0,1,0,0,4,-1,19:31,0:00,1:45,NA
+2018020803,8477934,Leon Draisaitl,Edmonton Oilers,Montréal Canadiens,C,22:26,0,2,4,2,1,0,4,7,18,3,1,0,0,0,0,15:54,5:26,1:06,38.89
+2018020803,8476427,Ty Rattie,Edmonton Oilers,Montréal Canadiens,RW,12:49,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,12:10,0:39,0:00,NA
+2018020803,8476988,Matt Benning,Edmonton Oilers,Montréal Canadiens,D,13:52,0,0,0,1,0,0,2,0,0,0,2,0,0,1,0,11:33,0:33,1:46,NA
+2018020803,8475430,Brandon Manning,Edmonton Oilers,Montréal Canadiens,D,12:18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11:18,0:00,1:00,NA
+2018020803,8477498,Darnell Nurse,Edmonton Oilers,Montréal Canadiens,D,26:01,2,0,3,2,0,1,0,0,0,0,0,0,0,3,0,17:14,5:32,3:15,NA
+2018020803,8475178,Zack Kassian,Edmonton Oilers,Montréal Canadiens,RW,12:50,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,9:51,0:00,2:59,NA
+2018020803,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,Montréal Canadiens,C,20:06,2,0,2,2,0,2,0,3,8,2,2,0,0,1,0,11:33,5:26,3:07,37.5
+2018020803,8476356,Tobias Rieder,Edmonton Oilers,Montréal Canadiens,RW,11:16,0,0,0,2,0,0,0,0,1,0,0,0,0,1,0,11:16,0:00,0:00,0
+2018020803,8478402,Connor McDavid,Edmonton Oilers,Montréal Canadiens,C,24:05,0,1,2,2,1,0,0,3,11,2,0,0,0,0,0,17:01,5:32,1:32,27.27
+2018020803,8479344,Jesse Puljujarvi,Edmonton Oilers,Montréal Canadiens,RW,10:06,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,9:33,0:33,0:00,NA
+2018020803,8475163,Alex Chiasson,Edmonton Oilers,Montréal Canadiens,RW,19:36,1,0,2,1,0,1,0,0,1,1,0,0,0,1,-3,14:25,4:45,0:26,0
+2018020803,8474089,Brad Malone,Edmonton Oilers,Montréal Canadiens,C,6:00,0,0,1,2,0,0,0,1,2,0,0,0,0,1,0,6:00,0:00,0:00,50
+2018020803,8473473,Milan Lucic,Edmonton Oilers,Montréal Canadiens,LW,13:38,1,0,1,3,0,0,0,2,3,0,3,0,0,0,0,12:18,1:20,0:00,66.67

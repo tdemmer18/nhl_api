@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020830,8470318,Jonathan Ericsson,Detroit Red Wings,D,17:13,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,15:18,0:00,1:55,NA
-2018020830,8471716,Justin Abdelkader,Detroit Red Wings,LW,14:10,1,0,2,3,0,0,0,0,1,0,0,0,0,1,0,12:22,0:11,1:37,0
-2018020830,8474679,Gustav Nyquist,Detroit Red Wings,RW,17:05,0,1,3,0,0,0,0,0,0,0,1,0,0,0,-1,13:49,3:16,0:00,NA
-2018020830,8477946,Dylan Larkin,Detroit Red Wings,C,20:10,2,0,3,1,0,0,2,17,30,0,0,0,0,0,0,15:12,4:29,0:29,56.67
-2018020830,8471794,Darren Helm,Detroit Red Wings,LW,11:54,0,0,1,0,0,0,0,0,0,1,3,0,0,1,0,10:15,0:00,1:39,NA
-2018020830,8470144,Frans Nielsen,Detroit Red Wings,C,16:44,1,0,3,1,0,1,2,6,11,0,0,0,0,2,-1,13:17,3:27,0:00,54.55
-2018020830,8475324,Nick Jensen,Detroit Red Wings,D,17:32,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,15:07,0:00,2:25,NA
-2018020830,8470598,Thomas Vanek,Detroit Red Wings,LW,16:45,0,1,4,0,0,0,0,0,0,0,1,0,0,0,1,12:16,4:29,0:00,NA
-2018020830,8476822,Luke Glendening,Detroit Red Wings,C,13:58,0,0,1,2,0,0,0,7,14,0,1,0,0,0,0,11:52,0:00,2:06,50
-2018020830,8477455,Jacob de la Rose,Detroit Red Wings,C,11:49,0,0,1,3,0,0,0,5,8,0,0,0,0,0,0,10:00,0:00,1:49,62.5
-2018020830,8476960,Andreas Athanasiou,Detroit Red Wings,C,18:13,0,0,4,0,0,0,0,1,1,0,1,0,0,0,-1,13:44,4:29,0:00,100
-2018020830,8477215,Danny DeKeyser,Detroit Red Wings,D,18:48,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,16:35,0:00,2:13,NA
-2018020830,8477511,Anthony Mantha,Detroit Red Wings,RW,16:56,0,0,2,0,0,0,0,0,1,0,1,0,0,1,0,12:27,4:29,0:00,0
-2018020830,8471242,Mike Green,Detroit Red Wings,D,20:10,1,0,2,1,0,1,0,0,0,0,1,0,0,1,-1,16:35,3:35,0:00,NA
-2018020830,8478036,Christoffer Ehn,Detroit Red Wings,C,10:18,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,10:18,0:00,0:00,NA
-2018020830,8479992,Michael Rasmussen,Detroit Red Wings,C,14:57,1,1,7,1,1,0,0,1,3,1,1,0,0,0,0,11:30,3:27,0:00,33.33
-2018020830,8479395,Dennis Cholowski,Detroit Red Wings,D,21:17,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-2,17:50,3:27,0:00,NA
-2018020830,8468509,Niklas Kronwall,Detroit Red Wings,D,20:22,0,0,2,1,0,0,0,0,0,0,1,0,0,0,1,14:54,4:21,1:07,NA
-2018020830,8471669,Paul Stastny,Vegas Golden Knights,C,18:07,1,0,2,1,0,0,2,10,18,0,0,0,0,0,0,13:58,2:14,1:55,55.56
-2018020830,8468674,Deryk Engelland,Vegas Golden Knights,D,21:32,1,0,2,1,0,0,0,0,0,0,0,0,0,5,0,16:08,0:00,5:24,NA
-2018020830,8471817,Ryan Reaves,Vegas Golden Knights,RW,7:52,0,0,0,2,0,0,0,1,1,0,0,0,0,0,-1,7:52,0:00,0:00,100
-2018020830,8476539,Jonathan Marchessault,Vegas Golden Knights,C,13:32,0,2,4,1,1,0,0,2,4,0,1,0,0,0,1,11:35,1:57,0:00,50
-2018020830,8475715,Oscar Lindberg,Vegas Golden Knights,C,14:52,0,0,3,0,0,0,0,0,3,0,0,0,0,0,1,14:52,0:00,0:00,0
-2018020830,8477949,Alex Tuch,Vegas Golden Knights,RW,16:07,0,0,1,1,0,0,0,0,1,0,3,0,0,0,0,14:14,1:53,0:00,0
-2018020830,8475236,Cody Eakin,Vegas Golden Knights,C,14:56,0,0,0,1,0,0,0,8,17,0,2,0,0,0,1,13:03,0:00,1:53,47.06
-2018020830,8477458,Valentin Zykov,Vegas Golden Knights,LW,13:23,0,0,2,2,0,0,0,0,0,0,1,0,0,0,1,11:47,1:36,0:00,NA
-2018020830,8477447,Shea Theodore,Vegas Golden Knights,D,17:43,0,0,1,1,0,0,0,0,0,0,0,0,0,2,1,15:50,1:53,0:00,NA
-2018020830,8477931,Tomas Nosek,Vegas Golden Knights,LW,12:40,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,9:47,0:00,2:53,NA
-2018020830,8476525,Colin Miller,Vegas Golden Knights,D,17:03,1,0,5,3,0,1,0,0,0,0,0,0,0,1,-1,15:10,1:36,0:17,NA
-2018020830,8476448,William Karlsson,Vegas Golden Knights,C,16:10,1,1,3,0,0,1,0,8,14,1,2,0,0,0,2,11:46,1:32,2:52,57.14
-2018020830,8475188,Brayden McNabb,Vegas Golden Knights,D,22:08,0,1,1,1,0,0,0,0,0,1,0,0,0,6,1,17:01,0:25,4:42,NA
-2018020830,8475750,Jon Merrill,Vegas Golden Knights,D,17:53,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,14:39,0:00,3:14,NA
-2018020830,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,C,12:26,0,0,0,0,0,0,0,3,11,0,1,0,0,1,-2,9:17,0:00,3:09,27.27
-2018020830,8474157,Max Pacioretty,Vegas Golden Knights,LW,17:02,0,0,3,0,0,0,2,0,0,0,2,0,0,0,-1,14:01,2:26,0:35,NA
-2018020830,8477220,Nate Schmidt,Vegas Golden Knights,D,22:32,1,0,2,1,0,0,2,0,0,1,1,0,0,1,1,18:03,2:14,2:15,NA
-2018020830,8475191,Reilly Smith,Vegas Golden Knights,RW,16:06,1,0,3,0,0,0,2,0,0,0,0,0,0,0,2,12:07,1:24,2:35,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020830,8470318,Jonathan Ericsson,Detroit Red Wings,Vegas Golden Knights,D,17:13,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,15:18,0:00,1:55,NA
+2018020830,8471716,Justin Abdelkader,Detroit Red Wings,Vegas Golden Knights,LW,14:10,1,0,2,3,0,0,0,0,1,0,0,0,0,1,0,12:22,0:11,1:37,0
+2018020830,8474679,Gustav Nyquist,Detroit Red Wings,Vegas Golden Knights,RW,17:05,0,1,3,0,0,0,0,0,0,0,1,0,0,0,-1,13:49,3:16,0:00,NA
+2018020830,8477946,Dylan Larkin,Detroit Red Wings,Vegas Golden Knights,C,20:10,2,0,3,1,0,0,2,17,30,0,0,0,0,0,0,15:12,4:29,0:29,56.67
+2018020830,8471794,Darren Helm,Detroit Red Wings,Vegas Golden Knights,LW,11:54,0,0,1,0,0,0,0,0,0,1,3,0,0,1,0,10:15,0:00,1:39,NA
+2018020830,8470144,Frans Nielsen,Detroit Red Wings,Vegas Golden Knights,C,16:44,1,0,3,1,0,1,2,6,11,0,0,0,0,2,-1,13:17,3:27,0:00,54.55
+2018020830,8475324,Nick Jensen,Detroit Red Wings,Vegas Golden Knights,D,17:32,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,15:07,0:00,2:25,NA
+2018020830,8470598,Thomas Vanek,Detroit Red Wings,Vegas Golden Knights,LW,16:45,0,1,4,0,0,0,0,0,0,0,1,0,0,0,1,12:16,4:29,0:00,NA
+2018020830,8476822,Luke Glendening,Detroit Red Wings,Vegas Golden Knights,C,13:58,0,0,1,2,0,0,0,7,14,0,1,0,0,0,0,11:52,0:00,2:06,50
+2018020830,8477455,Jacob de la Rose,Detroit Red Wings,Vegas Golden Knights,C,11:49,0,0,1,3,0,0,0,5,8,0,0,0,0,0,0,10:00,0:00,1:49,62.5
+2018020830,8476960,Andreas Athanasiou,Detroit Red Wings,Vegas Golden Knights,C,18:13,0,0,4,0,0,0,0,1,1,0,1,0,0,0,-1,13:44,4:29,0:00,100
+2018020830,8477215,Danny DeKeyser,Detroit Red Wings,Vegas Golden Knights,D,18:48,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,16:35,0:00,2:13,NA
+2018020830,8477511,Anthony Mantha,Detroit Red Wings,Vegas Golden Knights,RW,16:56,0,0,2,0,0,0,0,0,1,0,1,0,0,1,0,12:27,4:29,0:00,0
+2018020830,8471242,Mike Green,Detroit Red Wings,Vegas Golden Knights,D,20:10,1,0,2,1,0,1,0,0,0,0,1,0,0,1,-1,16:35,3:35,0:00,NA
+2018020830,8478036,Christoffer Ehn,Detroit Red Wings,Vegas Golden Knights,C,10:18,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,10:18,0:00,0:00,NA
+2018020830,8479992,Michael Rasmussen,Detroit Red Wings,Vegas Golden Knights,C,14:57,1,1,7,1,1,0,0,1,3,1,1,0,0,0,0,11:30,3:27,0:00,33.33
+2018020830,8479395,Dennis Cholowski,Detroit Red Wings,Vegas Golden Knights,D,21:17,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-2,17:50,3:27,0:00,NA
+2018020830,8468509,Niklas Kronwall,Detroit Red Wings,Vegas Golden Knights,D,20:22,0,0,2,1,0,0,0,0,0,0,1,0,0,0,1,14:54,4:21,1:07,NA
+2018020830,8471669,Paul Stastny,Vegas Golden Knights,Detroit Red Wings,C,18:07,1,0,2,1,0,0,2,10,18,0,0,0,0,0,0,13:58,2:14,1:55,55.56
+2018020830,8468674,Deryk Engelland,Vegas Golden Knights,Detroit Red Wings,D,21:32,1,0,2,1,0,0,0,0,0,0,0,0,0,5,0,16:08,0:00,5:24,NA
+2018020830,8471817,Ryan Reaves,Vegas Golden Knights,Detroit Red Wings,RW,7:52,0,0,0,2,0,0,0,1,1,0,0,0,0,0,-1,7:52,0:00,0:00,100
+2018020830,8476539,Jonathan Marchessault,Vegas Golden Knights,Detroit Red Wings,C,13:32,0,2,4,1,1,0,0,2,4,0,1,0,0,0,1,11:35,1:57,0:00,50
+2018020830,8475715,Oscar Lindberg,Vegas Golden Knights,Detroit Red Wings,C,14:52,0,0,3,0,0,0,0,0,3,0,0,0,0,0,1,14:52,0:00,0:00,0
+2018020830,8477949,Alex Tuch,Vegas Golden Knights,Detroit Red Wings,RW,16:07,0,0,1,1,0,0,0,0,1,0,3,0,0,0,0,14:14,1:53,0:00,0
+2018020830,8475236,Cody Eakin,Vegas Golden Knights,Detroit Red Wings,C,14:56,0,0,0,1,0,0,0,8,17,0,2,0,0,0,1,13:03,0:00,1:53,47.06
+2018020830,8477458,Valentin Zykov,Vegas Golden Knights,Detroit Red Wings,LW,13:23,0,0,2,2,0,0,0,0,0,0,1,0,0,0,1,11:47,1:36,0:00,NA
+2018020830,8477447,Shea Theodore,Vegas Golden Knights,Detroit Red Wings,D,17:43,0,0,1,1,0,0,0,0,0,0,0,0,0,2,1,15:50,1:53,0:00,NA
+2018020830,8477931,Tomas Nosek,Vegas Golden Knights,Detroit Red Wings,LW,12:40,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,9:47,0:00,2:53,NA
+2018020830,8476525,Colin Miller,Vegas Golden Knights,Detroit Red Wings,D,17:03,1,0,5,3,0,1,0,0,0,0,0,0,0,1,-1,15:10,1:36,0:17,NA
+2018020830,8476448,William Karlsson,Vegas Golden Knights,Detroit Red Wings,C,16:10,1,1,3,0,0,1,0,8,14,1,2,0,0,0,2,11:46,1:32,2:52,57.14
+2018020830,8475188,Brayden McNabb,Vegas Golden Knights,Detroit Red Wings,D,22:08,0,1,1,1,0,0,0,0,0,1,0,0,0,6,1,17:01,0:25,4:42,NA
+2018020830,8475750,Jon Merrill,Vegas Golden Knights,Detroit Red Wings,D,17:53,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,14:39,0:00,3:14,NA
+2018020830,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,Detroit Red Wings,C,12:26,0,0,0,0,0,0,0,3,11,0,1,0,0,1,-2,9:17,0:00,3:09,27.27
+2018020830,8474157,Max Pacioretty,Vegas Golden Knights,Detroit Red Wings,LW,17:02,0,0,3,0,0,0,2,0,0,0,2,0,0,0,-1,14:01,2:26,0:35,NA
+2018020830,8477220,Nate Schmidt,Vegas Golden Knights,Detroit Red Wings,D,22:32,1,0,2,1,0,0,2,0,0,1,1,0,0,1,1,18:03,2:14,2:15,NA
+2018020830,8475191,Reilly Smith,Vegas Golden Knights,Detroit Red Wings,RW,16:06,1,0,3,0,0,0,2,0,0,0,0,0,0,0,2,12:07,1:24,2:35,NA

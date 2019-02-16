@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020721,8476919,Chris Tierney,Ottawa Senators,C,17:13,1,0,0,1,0,0,0,33.33,4,12,0,0,0,0,1,2,13:57,1:50,1:26
-2018020721,8476879,Cody Ceci,Ottawa Senators,D,23:23,1,0,1,5,0,0,0,NA,0,0,0,1,0,0,5,2,19:31,0:02,3:50
-2018020721,8476419,Jean-Gabriel Pageau,Ottawa Senators,C,21:33,0,0,2,3,0,0,0,83.33,15,18,1,1,0,0,3,0,18:28,0:00,3:05
-2018020721,8475913,Mark Stone,Ottawa Senators,RW,19:45,0,1,4,1,0,0,0,0,0,3,1,1,0,0,2,3,13:50,4:03,1:52
-2018020721,8474697,Mark Borowiecki,Ottawa Senators,D,17:16,0,0,1,3,0,0,0,NA,0,0,0,0,0,0,5,1,15:33,0:00,1:43
-2018020721,8471676,Bobby Ryan,Ottawa Senators,RW,13:20,0,0,3,0,0,0,0,NA,0,0,0,1,0,0,2,1,9:24,3:43,0:13
-2018020721,8478868,Christian Jaros,Ottawa Senators,D,16:16,0,0,2,3,0,0,4,NA,0,0,1,3,0,0,3,0,16:16,0:00,0:00
-2018020721,8478846,Christian Wolanin,Ottawa Senators,D,11:40,0,0,1,0,0,0,0,NA,0,0,1,1,0,0,0,1,9:45,1:55,0:00
-2018020721,8476288,Ryan Dzingel,Ottawa Senators,LW,14:34,1,1,4,2,0,0,0,0,0,2,0,1,0,0,0,2,12:10,2:24,0:00
-2018020721,8480801,Brady Tkachuk,Ottawa Senators,LW,15:20,0,1,1,3,0,0,0,NA,0,0,0,1,0,0,0,2,12:05,3:15,0:00
-2018020721,8474250,Zack Smith,Ottawa Senators,LW,18:47,1,0,1,3,0,0,2,25,2,8,0,0,0,0,0,0,17:09,0:00,1:38
-2018020721,8478469,Thomas Chabot,Ottawa Senators,D,18:20,1,0,5,1,0,0,0,NA,0,0,0,1,0,0,1,2,13:47,4:33,0:00
-2018020721,8475168,Matt Duchene,Ottawa Senators,C,16:55,1,2,2,0,0,0,0,52.63,10,19,0,0,0,0,0,3,13:12,3:43,0:00
-2018020721,8478870,Rudolfs Balcers,Ottawa Senators,LW,11:24,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,2,0,9:38,1:46,0:00
-2018020721,8475175,Magnus Paajarvi,Ottawa Senators,LW,18:03,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,0,-1,16:41,0:00,1:22
-2018020721,8479320,Maxime Lajoie,Ottawa Senators,D,16:05,0,0,0,0,0,0,0,NA,0,0,1,2,0,0,0,0,12:31,0:29,3:05
-2018020721,8476331,Dylan DeMelo,Ottawa Senators,D,12:26,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,2,11:28,0:00,0:58
-2018020721,8474571,Mikkel Boedker,Ottawa Senators,LW,12:52,0,0,1,1,0,0,0,100,1,1,0,1,0,0,0,0,10:35,2:17,0:00
-2018020721,8474717,Mark Barberio,Colorado Avalanche,D,14:36,0,0,1,1,0,0,2,NA,0,0,0,1,0,0,2,-1,11:51,0:00,2:45
-2018020721,8473446,Erik Johnson,Colorado Avalanche,D,21:59,0,0,4,1,0,0,0,NA,0,0,0,3,0,0,0,-2,16:48,0:08,5:03
-2018020721,8477507,Nikita Zadorov,Colorado Avalanche,D,19:59,0,1,1,2,0,0,0,NA,0,0,0,1,0,0,0,1,18:18,0:00,1:41
-2018020721,8474569,Colin Wilson,Colorado Avalanche,C,10:22,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,0,-1,9:47,0:35,0:00
-2018020721,8480326,Sheldon Dries,Colorado Avalanche,C,7:56,0,0,1,1,0,0,0,33.33,2,6,0,0,0,0,0,0,7:56,0:00,0:00
-2018020721,8476442,Matt Nieto,Colorado Avalanche,LW,13:44,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,-1,10:58,0:00,2:46
-2018020721,8477413,Sven Andrighetto,Colorado Avalanche,RW,9:30,0,0,0,3,0,0,0,NA,0,0,1,0,0,0,0,-1,8:55,0:35,0:00
-2018020721,8476455,Gabriel Landeskog,Colorado Avalanche,LW,23:28,0,0,3,5,0,0,0,23.08,3,13,1,1,0,0,1,-1,19:15,4:13,0:00
-2018020721,8474685,Matt Calvert,Colorado Avalanche,LW,13:52,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,1,-2,10:38,0:00,3:14
-2018020721,8477456,J.T. Compher,Colorado Avalanche,LW,17:44,0,0,2,0,0,0,0,66.67,4,6,1,0,0,0,0,-2,11:50,4:05,1:49
-2018020721,8477021,Alexander Kerfoot,Colorado Avalanche,C,12:46,0,0,2,0,0,0,0,50,6,12,0,2,0,0,0,-3,9:23,3:23,0:00
-2018020721,8474013,Ian Cole,Colorado Avalanche,D,16:00,0,0,2,0,0,0,2,NA,0,0,0,1,0,0,0,-2,13:29,0:00,2:31
-2018020721,8475197,Tyson Barrie,Colorado Avalanche,D,25:21,1,0,4,1,0,1,0,NA,0,0,0,3,0,0,0,-2,21:08,4:13,0:00
-2018020721,8471262,Carl Soderberg,Colorado Avalanche,C,17:53,0,0,2,4,0,0,0,73.33,11,15,1,0,0,0,0,-1,13:07,0:35,4:11
-2018020721,8479398,Samuel Girard,Colorado Avalanche,D,16:51,0,0,2,1,0,0,0,NA,0,0,0,1,0,0,0,-1,16:16,0:35,0:00
-2018020721,8478420,Mikko Rantanen,Colorado Avalanche,RW,23:23,2,0,1,4,0,1,0,0,0,1,0,1,0,0,1,0,19:10,4:13,0:00
-2018020721,8477492,Nathan MacKinnon,Colorado Avalanche,C,23:48,1,1,3,0,1,0,0,50,5,10,0,0,0,0,2,-1,19:35,4:13,0:00
-2018020721,8479370,Tyson Jost,Colorado Avalanche,C,8:27,0,0,1,0,0,0,0,NA,0,0,1,0,0,0,0,-1,8:27,0:00,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020721,8476919,Chris Tierney,Ottawa Senators,Colorado Avalanche,C,17:13,1,0,0,1,0,0,0,33.33,4,12,0,0,0,0,1,2,13:57,1:50,1:26
+2018020721,8476879,Cody Ceci,Ottawa Senators,Colorado Avalanche,D,23:23,1,0,1,5,0,0,0,NA,0,0,0,1,0,0,5,2,19:31,0:02,3:50
+2018020721,8476419,Jean-Gabriel Pageau,Ottawa Senators,Colorado Avalanche,C,21:33,0,0,2,3,0,0,0,83.33,15,18,1,1,0,0,3,0,18:28,0:00,3:05
+2018020721,8475913,Mark Stone,Ottawa Senators,Colorado Avalanche,RW,19:45,0,1,4,1,0,0,0,0,0,3,1,1,0,0,2,3,13:50,4:03,1:52
+2018020721,8474697,Mark Borowiecki,Ottawa Senators,Colorado Avalanche,D,17:16,0,0,1,3,0,0,0,NA,0,0,0,0,0,0,5,1,15:33,0:00,1:43
+2018020721,8471676,Bobby Ryan,Ottawa Senators,Colorado Avalanche,RW,13:20,0,0,3,0,0,0,0,NA,0,0,0,1,0,0,2,1,9:24,3:43,0:13
+2018020721,8478868,Christian Jaros,Ottawa Senators,Colorado Avalanche,D,16:16,0,0,2,3,0,0,4,NA,0,0,1,3,0,0,3,0,16:16,0:00,0:00
+2018020721,8478846,Christian Wolanin,Ottawa Senators,Colorado Avalanche,D,11:40,0,0,1,0,0,0,0,NA,0,0,1,1,0,0,0,1,9:45,1:55,0:00
+2018020721,8476288,Ryan Dzingel,Ottawa Senators,Colorado Avalanche,LW,14:34,1,1,4,2,0,0,0,0,0,2,0,1,0,0,0,2,12:10,2:24,0:00
+2018020721,8480801,Brady Tkachuk,Ottawa Senators,Colorado Avalanche,LW,15:20,0,1,1,3,0,0,0,NA,0,0,0,1,0,0,0,2,12:05,3:15,0:00
+2018020721,8474250,Zack Smith,Ottawa Senators,Colorado Avalanche,LW,18:47,1,0,1,3,0,0,2,25,2,8,0,0,0,0,0,0,17:09,0:00,1:38
+2018020721,8478469,Thomas Chabot,Ottawa Senators,Colorado Avalanche,D,18:20,1,0,5,1,0,0,0,NA,0,0,0,1,0,0,1,2,13:47,4:33,0:00
+2018020721,8475168,Matt Duchene,Ottawa Senators,Colorado Avalanche,C,16:55,1,2,2,0,0,0,0,52.63,10,19,0,0,0,0,0,3,13:12,3:43,0:00
+2018020721,8478870,Rudolfs Balcers,Ottawa Senators,Colorado Avalanche,LW,11:24,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,2,0,9:38,1:46,0:00
+2018020721,8475175,Magnus Paajarvi,Ottawa Senators,Colorado Avalanche,LW,18:03,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,0,-1,16:41,0:00,1:22
+2018020721,8479320,Maxime Lajoie,Ottawa Senators,Colorado Avalanche,D,16:05,0,0,0,0,0,0,0,NA,0,0,1,2,0,0,0,0,12:31,0:29,3:05
+2018020721,8476331,Dylan DeMelo,Ottawa Senators,Colorado Avalanche,D,12:26,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,2,11:28,0:00,0:58
+2018020721,8474571,Mikkel Boedker,Ottawa Senators,Colorado Avalanche,LW,12:52,0,0,1,1,0,0,0,100,1,1,0,1,0,0,0,0,10:35,2:17,0:00
+2018020721,8474717,Mark Barberio,Colorado Avalanche,Ottawa Senators,D,14:36,0,0,1,1,0,0,2,NA,0,0,0,1,0,0,2,-1,11:51,0:00,2:45
+2018020721,8473446,Erik Johnson,Colorado Avalanche,Ottawa Senators,D,21:59,0,0,4,1,0,0,0,NA,0,0,0,3,0,0,0,-2,16:48,0:08,5:03
+2018020721,8477507,Nikita Zadorov,Colorado Avalanche,Ottawa Senators,D,19:59,0,1,1,2,0,0,0,NA,0,0,0,1,0,0,0,1,18:18,0:00,1:41
+2018020721,8474569,Colin Wilson,Colorado Avalanche,Ottawa Senators,C,10:22,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,0,-1,9:47,0:35,0:00
+2018020721,8480326,Sheldon Dries,Colorado Avalanche,Ottawa Senators,C,7:56,0,0,1,1,0,0,0,33.33,2,6,0,0,0,0,0,0,7:56,0:00,0:00
+2018020721,8476442,Matt Nieto,Colorado Avalanche,Ottawa Senators,LW,13:44,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,-1,10:58,0:00,2:46
+2018020721,8477413,Sven Andrighetto,Colorado Avalanche,Ottawa Senators,RW,9:30,0,0,0,3,0,0,0,NA,0,0,1,0,0,0,0,-1,8:55,0:35,0:00
+2018020721,8476455,Gabriel Landeskog,Colorado Avalanche,Ottawa Senators,LW,23:28,0,0,3,5,0,0,0,23.08,3,13,1,1,0,0,1,-1,19:15,4:13,0:00
+2018020721,8474685,Matt Calvert,Colorado Avalanche,Ottawa Senators,LW,13:52,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,1,-2,10:38,0:00,3:14
+2018020721,8477456,J.T. Compher,Colorado Avalanche,Ottawa Senators,LW,17:44,0,0,2,0,0,0,0,66.67,4,6,1,0,0,0,0,-2,11:50,4:05,1:49
+2018020721,8477021,Alexander Kerfoot,Colorado Avalanche,Ottawa Senators,C,12:46,0,0,2,0,0,0,0,50,6,12,0,2,0,0,0,-3,9:23,3:23,0:00
+2018020721,8474013,Ian Cole,Colorado Avalanche,Ottawa Senators,D,16:00,0,0,2,0,0,0,2,NA,0,0,0,1,0,0,0,-2,13:29,0:00,2:31
+2018020721,8475197,Tyson Barrie,Colorado Avalanche,Ottawa Senators,D,25:21,1,0,4,1,0,1,0,NA,0,0,0,3,0,0,0,-2,21:08,4:13,0:00
+2018020721,8471262,Carl Soderberg,Colorado Avalanche,Ottawa Senators,C,17:53,0,0,2,4,0,0,0,73.33,11,15,1,0,0,0,0,-1,13:07,0:35,4:11
+2018020721,8479398,Samuel Girard,Colorado Avalanche,Ottawa Senators,D,16:51,0,0,2,1,0,0,0,NA,0,0,0,1,0,0,0,-1,16:16,0:35,0:00
+2018020721,8478420,Mikko Rantanen,Colorado Avalanche,Ottawa Senators,RW,23:23,2,0,1,4,0,1,0,0,0,1,0,1,0,0,1,0,19:10,4:13,0:00
+2018020721,8477492,Nathan MacKinnon,Colorado Avalanche,Ottawa Senators,C,23:48,1,1,3,0,1,0,0,50,5,10,0,0,0,0,2,-1,19:35,4:13,0:00
+2018020721,8479370,Tyson Jost,Colorado Avalanche,Ottawa Senators,C,8:27,0,0,1,0,0,0,0,NA,0,0,1,0,0,0,0,-1,8:27,0:00,0:00

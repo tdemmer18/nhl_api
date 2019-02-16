@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020437,8470626,Loui Eriksson,Vancouver Canucks,LW,15:05,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,13:51,0:05,1:09,NA
-2018020437,8474849,Antoine Roussel,Vancouver Canucks,LW,16:02,3,0,1,0,0,0,0,0,0,0,0,0,0,2,2,14:48,0:05,1:09,NA
-2018020437,8477958,Nikolay Goldobin,Vancouver Canucks,RW,13:54,1,0,3,0,0,1,0,0,0,1,0,0,0,0,-1,9:40,4:14,0:00,NA
-2018020437,8477937,Jake Virtanen,Vancouver Canucks,RW,15:41,1,1,3,3,0,0,0,0,0,1,0,0,0,2,1,15:16,0:25,0:00,NA
-2018020437,8477018,Ben Hutton,Vancouver Canucks,D,23:32,0,0,1,1,0,0,0,0,0,0,0,0,0,3,2,22:04,0:30,0:58,NA
-2018020437,8471303,Alexander Edler,Vancouver Canucks,D,21:58,0,1,2,3,1,0,2,0,0,0,1,0,0,1,0,18:09,3:49,0:00,NA
-2018020437,8478874,Adam Gaudette,Vancouver Canucks,C,11:29,0,0,0,1,0,0,0,1,4,0,0,0,0,0,-1,11:29,0:00,0:00,25
-2018020437,8478444,Brock Boeser,Vancouver Canucks,RW,21:00,0,0,4,1,0,0,0,0,1,0,1,0,0,0,-1,17:11,3:49,0:00,0
-2018020437,8476410,Josh Leivo,Vancouver Canucks,LW,13:28,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,13:28,0:00,0:00,NA
-2018020437,8476884,Derrick Pouliot,Vancouver Canucks,D,13:28,0,0,1,3,0,0,0,0,0,0,0,0,0,4,-2,13:28,0:00,0:00,NA
-2018020437,8477500,Bo Horvat,Vancouver Canucks,C,19:39,1,1,3,0,0,0,0,14,25,0,1,0,0,2,1,15:50,3:49,0:00,56
-2018020437,8475690,Christopher Tanev,Vancouver Canucks,D,19:59,0,0,0,1,0,0,0,0,0,1,0,0,0,2,1,18:52,0:05,1:02,NA
-2018020437,8475790,Erik Gudbranson,Vancouver Canucks,D,21:11,0,0,4,3,0,0,0,0,0,1,0,0,0,0,1,20:13,0:00,0:58,NA
-2018020437,8476440,Markus Granlund,Vancouver Canucks,C,12:27,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,11:11,0:25,0:51,NA
-2018020437,8479442,Troy Stecher,Vancouver Canucks,D,16:07,0,0,0,1,0,0,0,0,0,1,0,0,0,1,-2,14:40,0:25,1:02,NA
-2018020437,8477353,Tyler Motte,Vancouver Canucks,C,12:06,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,12:06,0:00,0:00,NA
-2018020437,8480012,Elias Pettersson,Vancouver Canucks,C,19:57,1,1,4,0,0,1,0,8,13,2,3,0,0,1,0,16:08,3:49,0:00,61.54
-2018020437,8474291,Jay Beagle,Vancouver Canucks,C,10:57,0,0,0,1,0,0,0,4,11,0,0,0,0,0,0,10:01,0:05,0:51,36.36
-2018020437,8477919,Frederick Gaudreau,Nashville Predators,C,11:19,0,0,0,3,0,0,0,3,4,1,0,0,0,0,0,11:19,0:00,0:00,75
-2018020437,8475218,Mattias Ekholm,Nashville Predators,D,23:03,0,0,1,2,0,0,2,0,0,1,0,0,0,0,-1,20:45,0:38,1:40,NA
-2018020437,8476428,Rocco Grimaldi,Nashville Predators,C,12:43,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0,12:43,0:00,0:00,NA
-2018020437,8475625,Matt Irwin,Nashville Predators,D,12:31,0,1,4,0,0,0,0,0,0,0,0,0,0,0,2,12:31,0:00,0:00,NA
-2018020437,8475714,Calle Jarnkrok,Nashville Predators,C,16:25,0,0,4,1,0,0,2,4,15,0,0,0,0,0,0,15:05,1:01,0:19,26.67
-2018020437,8476925,Colton Sissons,Nashville Predators,C,15:43,1,1,2,3,0,0,0,7,13,0,0,0,0,1,2,11:25,0:59,3:19,53.85
-2018020437,8475225,Craig Smith,Nashville Predators,RW,15:10,0,0,1,2,0,0,0,0,0,1,0,0,0,2,0,14:11,0:59,0:00,NA
-2018020437,8476447,Miikka Salomaki,Nashville Predators,RW,10:17,1,0,2,7,0,0,0,0,0,0,0,0,0,1,2,10:17,0:00,0:00,NA
-2018020437,8477942,Kevin Fiala,Nashville Predators,LW,16:49,0,0,2,3,0,0,0,0,0,1,0,0,0,0,-1,15:48,1:01,0:00,NA
-2018020437,8474009,Nick Bonino,Nashville Predators,C,13:29,0,0,1,1,0,0,0,1,3,0,0,0,0,0,0,12:45,0:00,0:44,33.33
-2018020437,8475766,Austin Watson,Nashville Predators,LW,14:40,0,0,1,3,0,0,2,0,0,1,0,0,0,0,2,11:10,0:00,3:30,NA
-2018020437,8474600,Roman Josi,Nashville Predators,D,25:35,1,0,1,1,0,0,0,0,0,2,0,0,0,2,-1,21:18,1:43,2:34,NA
-2018020437,8475793,Ryan Johansen,Nashville Predators,C,17:20,1,0,1,1,0,0,0,12,19,0,1,0,0,0,-2,16:05,0:59,0:16,63.16
-2018020437,8480009,Eeli Tolvanen,Nashville Predators,RW,15:53,0,0,0,2,0,0,0,0,0,1,1,0,0,1,0,14:52,1:01,0:00,NA
-2018020437,8477451,Ryan Hartman,Nashville Predators,RW,17:28,0,1,2,1,0,0,0,0,0,1,1,0,0,0,-2,16:41,0:17,0:30,NA
-2018020437,8474134,Yannick Weber,Nashville Predators,D,11:39,2,0,1,1,0,0,0,0,0,0,0,0,0,1,1,11:34,0:00,0:05,NA
-2018020437,8475176,Ryan Ellis,Nashville Predators,D,25:48,0,0,2,3,0,0,0,0,0,0,0,0,0,1,-1,21:52,1:22,2:34,NA
-2018020437,8469465,Dan Hamhuis,Nashville Predators,D,20:56,0,0,0,2,0,0,0,0,0,0,0,0,0,2,-1,19:11,0:00,1:45,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020437,8470626,Loui Eriksson,Vancouver Canucks,Nashville Predators,LW,15:05,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,13:51,0:05,1:09,NA
+2018020437,8474849,Antoine Roussel,Vancouver Canucks,Nashville Predators,LW,16:02,3,0,1,0,0,0,0,0,0,0,0,0,0,2,2,14:48,0:05,1:09,NA
+2018020437,8477958,Nikolay Goldobin,Vancouver Canucks,Nashville Predators,RW,13:54,1,0,3,0,0,1,0,0,0,1,0,0,0,0,-1,9:40,4:14,0:00,NA
+2018020437,8477937,Jake Virtanen,Vancouver Canucks,Nashville Predators,RW,15:41,1,1,3,3,0,0,0,0,0,1,0,0,0,2,1,15:16,0:25,0:00,NA
+2018020437,8477018,Ben Hutton,Vancouver Canucks,Nashville Predators,D,23:32,0,0,1,1,0,0,0,0,0,0,0,0,0,3,2,22:04,0:30,0:58,NA
+2018020437,8471303,Alexander Edler,Vancouver Canucks,Nashville Predators,D,21:58,0,1,2,3,1,0,2,0,0,0,1,0,0,1,0,18:09,3:49,0:00,NA
+2018020437,8478874,Adam Gaudette,Vancouver Canucks,Nashville Predators,C,11:29,0,0,0,1,0,0,0,1,4,0,0,0,0,0,-1,11:29,0:00,0:00,25
+2018020437,8478444,Brock Boeser,Vancouver Canucks,Nashville Predators,RW,21:00,0,0,4,1,0,0,0,0,1,0,1,0,0,0,-1,17:11,3:49,0:00,0
+2018020437,8476410,Josh Leivo,Vancouver Canucks,Nashville Predators,LW,13:28,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,13:28,0:00,0:00,NA
+2018020437,8476884,Derrick Pouliot,Vancouver Canucks,Nashville Predators,D,13:28,0,0,1,3,0,0,0,0,0,0,0,0,0,4,-2,13:28,0:00,0:00,NA
+2018020437,8477500,Bo Horvat,Vancouver Canucks,Nashville Predators,C,19:39,1,1,3,0,0,0,0,14,25,0,1,0,0,2,1,15:50,3:49,0:00,56
+2018020437,8475690,Christopher Tanev,Vancouver Canucks,Nashville Predators,D,19:59,0,0,0,1,0,0,0,0,0,1,0,0,0,2,1,18:52,0:05,1:02,NA
+2018020437,8475790,Erik Gudbranson,Vancouver Canucks,Nashville Predators,D,21:11,0,0,4,3,0,0,0,0,0,1,0,0,0,0,1,20:13,0:00,0:58,NA
+2018020437,8476440,Markus Granlund,Vancouver Canucks,Nashville Predators,C,12:27,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,11:11,0:25,0:51,NA
+2018020437,8479442,Troy Stecher,Vancouver Canucks,Nashville Predators,D,16:07,0,0,0,1,0,0,0,0,0,1,0,0,0,1,-2,14:40,0:25,1:02,NA
+2018020437,8477353,Tyler Motte,Vancouver Canucks,Nashville Predators,C,12:06,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,12:06,0:00,0:00,NA
+2018020437,8480012,Elias Pettersson,Vancouver Canucks,Nashville Predators,C,19:57,1,1,4,0,0,1,0,8,13,2,3,0,0,1,0,16:08,3:49,0:00,61.54
+2018020437,8474291,Jay Beagle,Vancouver Canucks,Nashville Predators,C,10:57,0,0,0,1,0,0,0,4,11,0,0,0,0,0,0,10:01,0:05,0:51,36.36
+2018020437,8477919,Frederick Gaudreau,Nashville Predators,Vancouver Canucks,C,11:19,0,0,0,3,0,0,0,3,4,1,0,0,0,0,0,11:19,0:00,0:00,75
+2018020437,8475218,Mattias Ekholm,Nashville Predators,Vancouver Canucks,D,23:03,0,0,1,2,0,0,2,0,0,1,0,0,0,0,-1,20:45,0:38,1:40,NA
+2018020437,8476428,Rocco Grimaldi,Nashville Predators,Vancouver Canucks,C,12:43,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0,12:43,0:00,0:00,NA
+2018020437,8475625,Matt Irwin,Nashville Predators,Vancouver Canucks,D,12:31,0,1,4,0,0,0,0,0,0,0,0,0,0,0,2,12:31,0:00,0:00,NA
+2018020437,8475714,Calle Jarnkrok,Nashville Predators,Vancouver Canucks,C,16:25,0,0,4,1,0,0,2,4,15,0,0,0,0,0,0,15:05,1:01,0:19,26.67
+2018020437,8476925,Colton Sissons,Nashville Predators,Vancouver Canucks,C,15:43,1,1,2,3,0,0,0,7,13,0,0,0,0,1,2,11:25,0:59,3:19,53.85
+2018020437,8475225,Craig Smith,Nashville Predators,Vancouver Canucks,RW,15:10,0,0,1,2,0,0,0,0,0,1,0,0,0,2,0,14:11,0:59,0:00,NA
+2018020437,8476447,Miikka Salomaki,Nashville Predators,Vancouver Canucks,RW,10:17,1,0,2,7,0,0,0,0,0,0,0,0,0,1,2,10:17,0:00,0:00,NA
+2018020437,8477942,Kevin Fiala,Nashville Predators,Vancouver Canucks,LW,16:49,0,0,2,3,0,0,0,0,0,1,0,0,0,0,-1,15:48,1:01,0:00,NA
+2018020437,8474009,Nick Bonino,Nashville Predators,Vancouver Canucks,C,13:29,0,0,1,1,0,0,0,1,3,0,0,0,0,0,0,12:45,0:00,0:44,33.33
+2018020437,8475766,Austin Watson,Nashville Predators,Vancouver Canucks,LW,14:40,0,0,1,3,0,0,2,0,0,1,0,0,0,0,2,11:10,0:00,3:30,NA
+2018020437,8474600,Roman Josi,Nashville Predators,Vancouver Canucks,D,25:35,1,0,1,1,0,0,0,0,0,2,0,0,0,2,-1,21:18,1:43,2:34,NA
+2018020437,8475793,Ryan Johansen,Nashville Predators,Vancouver Canucks,C,17:20,1,0,1,1,0,0,0,12,19,0,1,0,0,0,-2,16:05,0:59,0:16,63.16
+2018020437,8480009,Eeli Tolvanen,Nashville Predators,Vancouver Canucks,RW,15:53,0,0,0,2,0,0,0,0,0,1,1,0,0,1,0,14:52,1:01,0:00,NA
+2018020437,8477451,Ryan Hartman,Nashville Predators,Vancouver Canucks,RW,17:28,0,1,2,1,0,0,0,0,0,1,1,0,0,0,-2,16:41,0:17,0:30,NA
+2018020437,8474134,Yannick Weber,Nashville Predators,Vancouver Canucks,D,11:39,2,0,1,1,0,0,0,0,0,0,0,0,0,1,1,11:34,0:00,0:05,NA
+2018020437,8475176,Ryan Ellis,Nashville Predators,Vancouver Canucks,D,25:48,0,0,2,3,0,0,0,0,0,0,0,0,0,1,-1,21:52,1:22,2:34,NA
+2018020437,8469465,Dan Hamhuis,Nashville Predators,Vancouver Canucks,D,20:56,0,0,0,2,0,0,0,0,0,0,0,0,0,2,-1,19:11,0:00,1:45,NA

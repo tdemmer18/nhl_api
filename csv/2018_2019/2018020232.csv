@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020232,8471958,Dan Girardi,Tampa Bay Lightning,D,16:28,0,0,2,2,0,0,2,0,0,1,0,0,0,2,0,13:17,0:00,3:11,NA
-2018020232,8471339,Ryan Callahan,Tampa Bay Lightning,RW,15:34,0,0,1,2,0,0,0,0,2,1,0,0,0,1,1,12:44,0:00,2:50,0
-2018020232,8478519,Anthony Cirelli,Tampa Bay Lightning,C,14:10,0,0,1,1,0,0,0,6,10,1,0,0,0,0,1,11:26,0:00,2:44,60
-2018020232,8471873,Anton Stralman,Tampa Bay Lightning,D,24:13,1,0,1,2,0,0,0,0,0,1,0,0,0,2,0,17:49,0:00,6:24,NA
-2018020232,8476826,Yanni Gourde,Tampa Bay Lightning,C,17:04,1,0,1,1,0,0,0,2,3,0,2,0,0,0,-1,12:11,3:13,1:40,66.67
-2018020232,8476468,J.T. Miller,Tampa Bay Lightning,C,15:11,1,1,4,3,0,0,0,2,5,0,1,0,0,1,2,11:17,3:51,0:03,40
-2018020232,8476886,Slater Koekkoek,Tampa Bay Lightning,D,13:54,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,13:30,0:00,0:24,NA
-2018020232,8476975,Cedric Paquette,Tampa Bay Lightning,C,12:42,0,0,0,3,0,0,2,8,14,0,0,0,0,1,0,10:55,0:00,1:47,57.14
-2018020232,8470601,Braydon Coburn,Tampa Bay Lightning,D,16:56,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,14:58,0:00,1:58,NA
-2018020232,8473986,Alex Killorn,Tampa Bay Lightning,LW,17:47,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,11:09,4:07,2:31,NA
-2018020232,8476453,Nikita Kucherov,Tampa Bay Lightning,RW,14:09,1,0,1,0,0,0,0,0,0,0,2,0,0,0,2,10:30,3:39,0:00,NA
-2018020232,8474870,Tyler Johnson,Tampa Bay Lightning,C,16:21,0,1,3,0,0,0,2,1,1,1,0,0,0,0,-1,11:12,3:08,2:01,100
-2018020232,8477454,Adam Erne,Tampa Bay Lightning,LW,12:15,0,0,1,5,0,0,0,1,1,0,0,0,0,0,0,9:23,2:52,0:00,100
-2018020232,8474151,Ryan McDonagh,Tampa Bay Lightning,D,24:44,1,0,1,1,0,0,0,0,0,1,1,0,0,5,2,15:50,2:54,6:00,NA
-2018020232,8474564,Steven Stamkos,Tampa Bay Lightning,C,14:01,1,1,4,0,0,0,0,2,4,1,1,0,0,0,2,10:05,3:46,0:10,50
-2018020232,8479410,Mikhail Sergachev,Tampa Bay Lightning,D,17:55,1,0,0,0,0,0,0,0,0,0,1,0,0,1,2,13:50,4:05,0:00,NA
-2018020232,8478472,Mathieu Joseph,Tampa Bay Lightning,RW,11:38,0,1,1,1,0,0,0,0,0,1,1,0,0,1,1,10:40,0:00,0:58,NA
-2018020232,8478010,Brayden Point,Tampa Bay Lightning,C,14:59,0,0,2,0,0,0,0,8,12,0,1,0,0,1,-2,11:39,3:20,0:00,66.67
-2018020232,8476917,Adam Pelech,New York Islanders,D,16:52,1,0,3,3,0,0,0,0,0,2,1,0,0,1,1,13:33,1:51,1:28,NA
-2018020232,8477506,Ryan Pulock,New York Islanders,D,22:12,0,0,1,2,0,0,0,0,0,0,1,0,0,0,-2,16:33,3:47,1:52,NA
-2018020232,8476429,Scott Mayfield,New York Islanders,D,18:46,0,0,1,2,0,0,0,0,0,0,0,0,0,2,-1,13:37,0:11,4:58,NA
-2018020232,8470047,Valtteri Filppula,New York Islanders,C,15:03,0,0,1,0,0,0,0,7,14,0,0,0,0,1,0,11:42,0:11,3:10,50
-2018020232,8470187,Johnny Boychuk,New York Islanders,D,14:13,0,0,5,3,0,0,0,0,0,0,0,0,0,1,1,12:59,0:50,0:24,NA
-2018020232,8473504,Cal Clutterbuck,New York Islanders,RW,12:21,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,7:33,1:47,3:01,NA
-2018020232,8471217,Andrew Ladd,New York Islanders,LW,13:18,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,12:27,0:11,0:40,0
-2018020232,8475314,Anders Lee,New York Islanders,LW,18:48,0,0,4,1,0,0,2,3,5,1,0,0,0,1,1,12:24,6:24,0:00,60
-2018020232,8475754,Brock Nelson,New York Islanders,C,14:39,1,0,1,1,0,0,0,3,12,1,0,0,0,0,0,11:50,1:47,1:02,25
-2018020232,8475832,Tom Kuhnhackl,New York Islanders,RW,9:52,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,8:29,0:00,1:23,NA
-2018020232,8478445,Mathew Barzal,New York Islanders,C,19:26,1,0,4,0,0,0,0,2,6,1,0,0,0,1,-2,13:20,6:06,0:00,33.33
-2018020232,8474573,Josh Bailey,New York Islanders,RW,19:22,0,2,2,0,0,0,0,0,0,1,2,0,0,0,1,14:07,5:15,0:00,NA
-2018020232,8474586,Jordan Eberle,New York Islanders,RW,13:55,0,0,1,0,0,0,2,0,0,0,1,0,0,0,-4,10:40,3:15,0:00,NA
-2018020232,8478463,Anthony Beauvillier,New York Islanders,C,12:16,0,0,2,1,0,0,0,1,1,0,0,0,0,0,-2,10:29,1:47,0:00,100
-2018020232,8473463,Leo Komarov,New York Islanders,C,13:22,0,0,2,1,0,0,2,1,1,0,0,0,0,0,0,11:16,0:11,1:55,100
-2018020232,8474066,Thomas Hickey,New York Islanders,D,18:42,0,0,2,4,0,0,0,0,0,0,0,0,0,2,-1,13:15,0:44,4:43,NA
-2018020232,8475231,Casey Cizikas,New York Islanders,C,13:35,0,0,1,2,0,0,0,5,12,0,1,0,0,0,0,9:39,1:09,2:47,41.67
-2018020232,8475181,Nick Leddy,New York Islanders,D,26:18,0,0,3,0,0,0,2,0,0,1,2,0,0,2,-2,19:21,6:24,0:33,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020232,8471958,Dan Girardi,Tampa Bay Lightning,New York Islanders,D,16:28,0,0,2,2,0,0,2,0,0,1,0,0,0,2,0,13:17,0:00,3:11,NA
+2018020232,8471339,Ryan Callahan,Tampa Bay Lightning,New York Islanders,RW,15:34,0,0,1,2,0,0,0,0,2,1,0,0,0,1,1,12:44,0:00,2:50,0
+2018020232,8478519,Anthony Cirelli,Tampa Bay Lightning,New York Islanders,C,14:10,0,0,1,1,0,0,0,6,10,1,0,0,0,0,1,11:26,0:00,2:44,60
+2018020232,8471873,Anton Stralman,Tampa Bay Lightning,New York Islanders,D,24:13,1,0,1,2,0,0,0,0,0,1,0,0,0,2,0,17:49,0:00,6:24,NA
+2018020232,8476826,Yanni Gourde,Tampa Bay Lightning,New York Islanders,C,17:04,1,0,1,1,0,0,0,2,3,0,2,0,0,0,-1,12:11,3:13,1:40,66.67
+2018020232,8476468,J.T. Miller,Tampa Bay Lightning,New York Islanders,C,15:11,1,1,4,3,0,0,0,2,5,0,1,0,0,1,2,11:17,3:51,0:03,40
+2018020232,8476886,Slater Koekkoek,Tampa Bay Lightning,New York Islanders,D,13:54,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,13:30,0:00,0:24,NA
+2018020232,8476975,Cedric Paquette,Tampa Bay Lightning,New York Islanders,C,12:42,0,0,0,3,0,0,2,8,14,0,0,0,0,1,0,10:55,0:00,1:47,57.14
+2018020232,8470601,Braydon Coburn,Tampa Bay Lightning,New York Islanders,D,16:56,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,14:58,0:00,1:58,NA
+2018020232,8473986,Alex Killorn,Tampa Bay Lightning,New York Islanders,LW,17:47,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,11:09,4:07,2:31,NA
+2018020232,8476453,Nikita Kucherov,Tampa Bay Lightning,New York Islanders,RW,14:09,1,0,1,0,0,0,0,0,0,0,2,0,0,0,2,10:30,3:39,0:00,NA
+2018020232,8474870,Tyler Johnson,Tampa Bay Lightning,New York Islanders,C,16:21,0,1,3,0,0,0,2,1,1,1,0,0,0,0,-1,11:12,3:08,2:01,100
+2018020232,8477454,Adam Erne,Tampa Bay Lightning,New York Islanders,LW,12:15,0,0,1,5,0,0,0,1,1,0,0,0,0,0,0,9:23,2:52,0:00,100
+2018020232,8474151,Ryan McDonagh,Tampa Bay Lightning,New York Islanders,D,24:44,1,0,1,1,0,0,0,0,0,1,1,0,0,5,2,15:50,2:54,6:00,NA
+2018020232,8474564,Steven Stamkos,Tampa Bay Lightning,New York Islanders,C,14:01,1,1,4,0,0,0,0,2,4,1,1,0,0,0,2,10:05,3:46,0:10,50
+2018020232,8479410,Mikhail Sergachev,Tampa Bay Lightning,New York Islanders,D,17:55,1,0,0,0,0,0,0,0,0,0,1,0,0,1,2,13:50,4:05,0:00,NA
+2018020232,8478472,Mathieu Joseph,Tampa Bay Lightning,New York Islanders,RW,11:38,0,1,1,1,0,0,0,0,0,1,1,0,0,1,1,10:40,0:00,0:58,NA
+2018020232,8478010,Brayden Point,Tampa Bay Lightning,New York Islanders,C,14:59,0,0,2,0,0,0,0,8,12,0,1,0,0,1,-2,11:39,3:20,0:00,66.67
+2018020232,8476917,Adam Pelech,New York Islanders,Tampa Bay Lightning,D,16:52,1,0,3,3,0,0,0,0,0,2,1,0,0,1,1,13:33,1:51,1:28,NA
+2018020232,8477506,Ryan Pulock,New York Islanders,Tampa Bay Lightning,D,22:12,0,0,1,2,0,0,0,0,0,0,1,0,0,0,-2,16:33,3:47,1:52,NA
+2018020232,8476429,Scott Mayfield,New York Islanders,Tampa Bay Lightning,D,18:46,0,0,1,2,0,0,0,0,0,0,0,0,0,2,-1,13:37,0:11,4:58,NA
+2018020232,8470047,Valtteri Filppula,New York Islanders,Tampa Bay Lightning,C,15:03,0,0,1,0,0,0,0,7,14,0,0,0,0,1,0,11:42,0:11,3:10,50
+2018020232,8470187,Johnny Boychuk,New York Islanders,Tampa Bay Lightning,D,14:13,0,0,5,3,0,0,0,0,0,0,0,0,0,1,1,12:59,0:50,0:24,NA
+2018020232,8473504,Cal Clutterbuck,New York Islanders,Tampa Bay Lightning,RW,12:21,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,7:33,1:47,3:01,NA
+2018020232,8471217,Andrew Ladd,New York Islanders,Tampa Bay Lightning,LW,13:18,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,12:27,0:11,0:40,0
+2018020232,8475314,Anders Lee,New York Islanders,Tampa Bay Lightning,LW,18:48,0,0,4,1,0,0,2,3,5,1,0,0,0,1,1,12:24,6:24,0:00,60
+2018020232,8475754,Brock Nelson,New York Islanders,Tampa Bay Lightning,C,14:39,1,0,1,1,0,0,0,3,12,1,0,0,0,0,0,11:50,1:47,1:02,25
+2018020232,8475832,Tom Kuhnhackl,New York Islanders,Tampa Bay Lightning,RW,9:52,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,8:29,0:00,1:23,NA
+2018020232,8478445,Mathew Barzal,New York Islanders,Tampa Bay Lightning,C,19:26,1,0,4,0,0,0,0,2,6,1,0,0,0,1,-2,13:20,6:06,0:00,33.33
+2018020232,8474573,Josh Bailey,New York Islanders,Tampa Bay Lightning,RW,19:22,0,2,2,0,0,0,0,0,0,1,2,0,0,0,1,14:07,5:15,0:00,NA
+2018020232,8474586,Jordan Eberle,New York Islanders,Tampa Bay Lightning,RW,13:55,0,0,1,0,0,0,2,0,0,0,1,0,0,0,-4,10:40,3:15,0:00,NA
+2018020232,8478463,Anthony Beauvillier,New York Islanders,Tampa Bay Lightning,C,12:16,0,0,2,1,0,0,0,1,1,0,0,0,0,0,-2,10:29,1:47,0:00,100
+2018020232,8473463,Leo Komarov,New York Islanders,Tampa Bay Lightning,C,13:22,0,0,2,1,0,0,2,1,1,0,0,0,0,0,0,11:16,0:11,1:55,100
+2018020232,8474066,Thomas Hickey,New York Islanders,Tampa Bay Lightning,D,18:42,0,0,2,4,0,0,0,0,0,0,0,0,0,2,-1,13:15,0:44,4:43,NA
+2018020232,8475231,Casey Cizikas,New York Islanders,Tampa Bay Lightning,C,13:35,0,0,1,2,0,0,0,5,12,0,1,0,0,0,0,9:39,1:09,2:47,41.67
+2018020232,8475181,Nick Leddy,New York Islanders,Tampa Bay Lightning,D,26:18,0,0,3,0,0,0,2,0,0,1,2,0,0,2,-2,19:21,6:24,0:33,NA

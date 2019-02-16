@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020684,8473618,Mathieu Perreault,Winnipeg Jets,LW,11:51,1,0,0,3,0,0,0,0,0,1,0,0,0,0,0,10:17,1:34,0:00,NA
-2018020684,8471218,Blake Wheeler,Winnipeg Jets,RW,20:18,1,1,7,0,0,0,0,2,4,0,0,0,0,1,2,16:45,2:46,0:47,50
-2018020684,8478915,Sami Niku,Winnipeg Jets,D,12:51,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,12:51,0:00,0:00,NA
-2018020684,8477429,Andrew Copp,Winnipeg Jets,C,11:02,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,10:18,0:00,0:44,80
-2018020684,8473412,Bryan Little,Winnipeg Jets,C,14:58,0,1,2,0,0,0,2,5,10,1,0,0,0,0,0,12:45,1:25,0:48,50
-2018020684,8479339,Patrik Laine,Winnipeg Jets,RW,15:58,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,13:12,2:46,0:00,NA
-2018020684,8477504,Josh Morrissey,Winnipeg Jets,D,22:47,0,0,1,2,0,0,0,0,0,1,0,0,0,5,0,17:35,1:25,3:47,NA
-2018020684,8476476,Joe Morrow,Winnipeg Jets,D,15:30,0,0,2,1,0,0,0,0,0,1,1,0,0,3,0,14:52,0:00,0:38,NA
-2018020684,8475179,Dmitry Kulikov,Winnipeg Jets,D,20:02,0,0,0,4,0,0,0,0,0,3,2,0,0,4,2,16:58,0:47,2:17,NA
-2018020684,8478458,Jack Roslovic,Winnipeg Jets,C,12:34,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-1,11:09,1:25,0:00,NA
-2018020684,8475279,Ben Chiarot,Winnipeg Jets,D,21:20,0,0,1,3,0,0,2,0,0,1,0,0,0,1,3,20:02,0:09,1:09,NA
-2018020684,8476885,Jacob Trouba,Winnipeg Jets,D,24:19,1,0,0,1,0,0,4,0,0,0,0,0,0,1,1,19:32,2:46,2:01,NA
-2018020684,8477962,Brendan Lemieux,Winnipeg Jets,LW,8:02,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,8:02,0:00,0:00,NA
-2018020684,8476460,Mark Scheifele,Winnipeg Jets,C,20:30,1,0,2,0,0,0,0,5,15,1,1,0,0,0,2,16:53,2:46,0:51,33.33
-2018020684,8478891,Mason Appleton,Winnipeg Jets,C,8:09,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,8:09,0:00,0:00,NA
-2018020684,8478398,Kyle Connor,Winnipeg Jets,LW,18:48,2,1,3,0,0,0,0,0,0,0,1,0,0,0,3,15:54,2:46,0:08,NA
-2018020684,8476392,Adam Lowry,Winnipeg Jets,C,18:06,1,0,0,1,0,0,0,12,20,0,0,0,0,1,0,13:53,0:56,3:17,60
-2018020684,8479293,Brandon Tanev,Winnipeg Jets,LW,16:21,0,1,5,2,0,0,0,0,0,1,0,0,0,0,1,12:55,0:09,3:17,NA
-2018020684,8470318,Jonathan Ericsson,Detroit Red Wings,D,18:55,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,15:32,0:03,3:20,NA
-2018020684,8471716,Justin Abdelkader,Detroit Red Wings,LW,12:34,0,0,1,4,0,0,0,0,0,0,0,0,0,1,0,11:02,0:00,1:32,NA
-2018020684,8474679,Gustav Nyquist,Detroit Red Wings,RW,16:34,0,0,2,0,0,0,0,0,0,1,0,0,0,0,-2,14:36,1:58,0:00,NA
-2018020684,8477946,Dylan Larkin,Detroit Red Wings,C,23:21,0,0,4,0,0,0,0,10,20,0,1,0,0,0,-2,19:54,2:55,0:32,50
-2018020684,8471794,Darren Helm,Detroit Red Wings,LW,12:47,1,0,1,2,0,0,0,0,0,0,0,0,1,0,0,10:28,0:03,2:16,NA
-2018020684,8470144,Frans Nielsen,Detroit Red Wings,C,14:36,1,0,1,0,0,1,0,4,9,0,0,0,0,3,-1,11:52,2:35,0:09,44.44
-2018020684,8475324,Nick Jensen,Detroit Red Wings,D,20:10,0,0,2,1,0,0,2,0,0,0,1,0,0,1,-1,18:15,0:00,1:55,NA
-2018020684,8470598,Thomas Vanek,Detroit Red Wings,LW,15:20,0,0,0,1,0,0,0,0,0,1,0,0,0,0,-2,12:35,2:45,0:00,NA
-2018020684,8476822,Luke Glendening,Detroit Red Wings,C,14:36,0,1,1,0,0,0,0,11,18,0,0,1,0,0,0,11:35,0:13,2:48,61.11
-2018020684,8479425,Filip Hronek,Detroit Red Wings,D,17:02,1,0,1,1,0,0,0,0,0,0,2,0,1,0,0,15:09,0:03,1:50,NA
-2018020684,8477455,Jacob de la Rose,Detroit Red Wings,C,10:27,0,0,1,2,0,0,2,0,3,0,0,0,0,0,0,8:54,0:10,1:23,0
-2018020684,8476960,Andreas Athanasiou,Detroit Red Wings,C,16:37,0,0,4,1,0,0,0,1,2,0,0,0,0,0,-2,14:36,2:01,0:00,50
-2018020684,8477479,Tyler Bertuzzi,Detroit Red Wings,LW,15:52,0,0,3,0,0,0,0,0,1,2,1,0,0,0,0,14:04,1:48,0:00,0
-2018020684,8477511,Anthony Mantha,Detroit Red Wings,RW,15:47,0,0,2,1,0,0,0,0,1,0,0,0,0,0,-1,13:29,2:18,0:00,0
-2018020684,8471242,Mike Green,Detroit Red Wings,D,22:12,0,0,5,2,0,0,0,0,0,1,1,0,0,2,-2,18:24,2:48,1:00,NA
-2018020684,8478036,Christoffer Ehn,Detroit Red Wings,C,8:40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8:40,0:00,0:00,NA
-2018020684,8479395,Dennis Cholowski,Detroit Red Wings,D,18:46,0,1,4,3,1,0,0,0,0,0,1,0,0,0,-3,16:08,2:38,0:00,NA
-2018020684,8468509,Niklas Kronwall,Detroit Red Wings,D,21:21,1,0,2,1,0,1,2,0,0,0,0,0,0,1,0,18:24,2:22,0:35,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020684,8473618,Mathieu Perreault,Winnipeg Jets,Detroit Red Wings,LW,11:51,1,0,0,3,0,0,0,0,0,1,0,0,0,0,0,10:17,1:34,0:00,NA
+2018020684,8471218,Blake Wheeler,Winnipeg Jets,Detroit Red Wings,RW,20:18,1,1,7,0,0,0,0,2,4,0,0,0,0,1,2,16:45,2:46,0:47,50
+2018020684,8478915,Sami Niku,Winnipeg Jets,Detroit Red Wings,D,12:51,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,12:51,0:00,0:00,NA
+2018020684,8477429,Andrew Copp,Winnipeg Jets,Detroit Red Wings,C,11:02,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,10:18,0:00,0:44,80
+2018020684,8473412,Bryan Little,Winnipeg Jets,Detroit Red Wings,C,14:58,0,1,2,0,0,0,2,5,10,1,0,0,0,0,0,12:45,1:25,0:48,50
+2018020684,8479339,Patrik Laine,Winnipeg Jets,Detroit Red Wings,RW,15:58,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,13:12,2:46,0:00,NA
+2018020684,8477504,Josh Morrissey,Winnipeg Jets,Detroit Red Wings,D,22:47,0,0,1,2,0,0,0,0,0,1,0,0,0,5,0,17:35,1:25,3:47,NA
+2018020684,8476476,Joe Morrow,Winnipeg Jets,Detroit Red Wings,D,15:30,0,0,2,1,0,0,0,0,0,1,1,0,0,3,0,14:52,0:00,0:38,NA
+2018020684,8475179,Dmitry Kulikov,Winnipeg Jets,Detroit Red Wings,D,20:02,0,0,0,4,0,0,0,0,0,3,2,0,0,4,2,16:58,0:47,2:17,NA
+2018020684,8478458,Jack Roslovic,Winnipeg Jets,Detroit Red Wings,C,12:34,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-1,11:09,1:25,0:00,NA
+2018020684,8475279,Ben Chiarot,Winnipeg Jets,Detroit Red Wings,D,21:20,0,0,1,3,0,0,2,0,0,1,0,0,0,1,3,20:02,0:09,1:09,NA
+2018020684,8476885,Jacob Trouba,Winnipeg Jets,Detroit Red Wings,D,24:19,1,0,0,1,0,0,4,0,0,0,0,0,0,1,1,19:32,2:46,2:01,NA
+2018020684,8477962,Brendan Lemieux,Winnipeg Jets,Detroit Red Wings,LW,8:02,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,8:02,0:00,0:00,NA
+2018020684,8476460,Mark Scheifele,Winnipeg Jets,Detroit Red Wings,C,20:30,1,0,2,0,0,0,0,5,15,1,1,0,0,0,2,16:53,2:46,0:51,33.33
+2018020684,8478891,Mason Appleton,Winnipeg Jets,Detroit Red Wings,C,8:09,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,8:09,0:00,0:00,NA
+2018020684,8478398,Kyle Connor,Winnipeg Jets,Detroit Red Wings,LW,18:48,2,1,3,0,0,0,0,0,0,0,1,0,0,0,3,15:54,2:46,0:08,NA
+2018020684,8476392,Adam Lowry,Winnipeg Jets,Detroit Red Wings,C,18:06,1,0,0,1,0,0,0,12,20,0,0,0,0,1,0,13:53,0:56,3:17,60
+2018020684,8479293,Brandon Tanev,Winnipeg Jets,Detroit Red Wings,LW,16:21,0,1,5,2,0,0,0,0,0,1,0,0,0,0,1,12:55,0:09,3:17,NA
+2018020684,8470318,Jonathan Ericsson,Detroit Red Wings,Winnipeg Jets,D,18:55,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,15:32,0:03,3:20,NA
+2018020684,8471716,Justin Abdelkader,Detroit Red Wings,Winnipeg Jets,LW,12:34,0,0,1,4,0,0,0,0,0,0,0,0,0,1,0,11:02,0:00,1:32,NA
+2018020684,8474679,Gustav Nyquist,Detroit Red Wings,Winnipeg Jets,RW,16:34,0,0,2,0,0,0,0,0,0,1,0,0,0,0,-2,14:36,1:58,0:00,NA
+2018020684,8477946,Dylan Larkin,Detroit Red Wings,Winnipeg Jets,C,23:21,0,0,4,0,0,0,0,10,20,0,1,0,0,0,-2,19:54,2:55,0:32,50
+2018020684,8471794,Darren Helm,Detroit Red Wings,Winnipeg Jets,LW,12:47,1,0,1,2,0,0,0,0,0,0,0,0,1,0,0,10:28,0:03,2:16,NA
+2018020684,8470144,Frans Nielsen,Detroit Red Wings,Winnipeg Jets,C,14:36,1,0,1,0,0,1,0,4,9,0,0,0,0,3,-1,11:52,2:35,0:09,44.44
+2018020684,8475324,Nick Jensen,Detroit Red Wings,Winnipeg Jets,D,20:10,0,0,2,1,0,0,2,0,0,0,1,0,0,1,-1,18:15,0:00,1:55,NA
+2018020684,8470598,Thomas Vanek,Detroit Red Wings,Winnipeg Jets,LW,15:20,0,0,0,1,0,0,0,0,0,1,0,0,0,0,-2,12:35,2:45,0:00,NA
+2018020684,8476822,Luke Glendening,Detroit Red Wings,Winnipeg Jets,C,14:36,0,1,1,0,0,0,0,11,18,0,0,1,0,0,0,11:35,0:13,2:48,61.11
+2018020684,8479425,Filip Hronek,Detroit Red Wings,Winnipeg Jets,D,17:02,1,0,1,1,0,0,0,0,0,0,2,0,1,0,0,15:09,0:03,1:50,NA
+2018020684,8477455,Jacob de la Rose,Detroit Red Wings,Winnipeg Jets,C,10:27,0,0,1,2,0,0,2,0,3,0,0,0,0,0,0,8:54,0:10,1:23,0
+2018020684,8476960,Andreas Athanasiou,Detroit Red Wings,Winnipeg Jets,C,16:37,0,0,4,1,0,0,0,1,2,0,0,0,0,0,-2,14:36,2:01,0:00,50
+2018020684,8477479,Tyler Bertuzzi,Detroit Red Wings,Winnipeg Jets,LW,15:52,0,0,3,0,0,0,0,0,1,2,1,0,0,0,0,14:04,1:48,0:00,0
+2018020684,8477511,Anthony Mantha,Detroit Red Wings,Winnipeg Jets,RW,15:47,0,0,2,1,0,0,0,0,1,0,0,0,0,0,-1,13:29,2:18,0:00,0
+2018020684,8471242,Mike Green,Detroit Red Wings,Winnipeg Jets,D,22:12,0,0,5,2,0,0,0,0,0,1,1,0,0,2,-2,18:24,2:48,1:00,NA
+2018020684,8478036,Christoffer Ehn,Detroit Red Wings,Winnipeg Jets,C,8:40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8:40,0:00,0:00,NA
+2018020684,8479395,Dennis Cholowski,Detroit Red Wings,Winnipeg Jets,D,18:46,0,1,4,3,1,0,0,0,0,0,1,0,0,0,-3,16:08,2:38,0:00,NA
+2018020684,8468509,Niklas Kronwall,Detroit Red Wings,Winnipeg Jets,D,21:21,1,0,2,1,0,1,2,0,0,0,0,0,0,1,0,18:24,2:22,0:35,NA

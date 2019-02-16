@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020215,8478408,Travis Dermott,Toronto Maple Leafs,D,17:57,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,14:50,0:00,3:07,NA
-2018020215,8468493,Ron Hainsey,Toronto Maple Leafs,D,21:20,0,0,0,0,0,0,0,0,0,0,3,0,0,1,1,18:27,0:00,2:53,NA
-2018020215,8475786,Zach Hyman,Toronto Maple Leafs,LW,21:24,1,0,1,5,0,0,0,2,3,0,0,0,0,1,1,17:25,0:55,3:04,66.67
-2018020215,8476853,Morgan Rielly,Toronto Maple Leafs,D,23:24,0,0,2,1,0,0,0,0,0,3,3,0,0,6,2,20:26,1:05,1:53,NA
-2018020215,8477953,Kasperi Kapanen,Toronto Maple Leafs,RW,17:35,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,14:17,0:06,3:12,NA
-2018020215,8474589,Tyler Ennis,Toronto Maple Leafs,LW,8:31,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7:31,1:00,0:00,NA
-2018020215,8479458,Nikita Zaitsev,Toronto Maple Leafs,D,23:45,0,0,1,3,0,0,0,0,0,0,3,0,0,3,0,19:38,0:00,4:07,NA
-2018020215,8477015,Connor Brown,Toronto Maple Leafs,RW,16:05,1,1,3,1,0,0,0,0,0,0,0,0,0,0,2,12:09,0:06,3:50,NA
-2018020215,8475166,John Tavares,Toronto Maple Leafs,C,19:11,1,0,3,0,0,0,0,12,23,1,1,0,0,1,1,18:15,0:54,0:02,52.17
-2018020215,8476410,Josh Leivo,Toronto Maple Leafs,LW,7:52,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,6:52,1:00,0:00,100
-2018020215,8480943,Igor Ozhiganov,Toronto Maple Leafs,D,9:48,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,9:48,0:00,0:00,NA
-2018020215,8480944,Par Lindholm,Toronto Maple Leafs,C,13:07,0,0,1,4,0,0,0,11,13,0,1,0,0,1,0,11:14,0:11,1:42,84.62
-2018020215,8477512,Frederik Gauthier,Toronto Maple Leafs,C,6:58,0,0,0,1,0,0,0,3,7,0,0,0,0,0,-1,6:58,0:00,0:00,42.86
-2018020215,8477341,Andreas Johnsson,Toronto Maple Leafs,LW,11:37,0,0,3,2,0,0,0,0,0,1,0,0,0,1,0,10:42,0:55,0:00,NA
-2018020215,8474581,Jake Gardiner,Toronto Maple Leafs,D,22:17,0,0,0,1,0,0,4,0,0,2,1,0,0,2,-1,21:11,1:06,0:00,NA
-2018020215,8478483,Mitchell Marner,Toronto Maple Leafs,RW,20:27,0,1,4,0,0,0,2,0,0,3,1,0,0,2,1,19:23,0:54,0:10,NA
-2018020215,8475172,Nazem Kadri,Toronto Maple Leafs,C,17:07,0,1,1,0,0,0,0,7,12,1,1,0,0,1,1,16:13,0:54,0:00,58.33
-2018020215,8466139,Patrick Marleau,Toronto Maple Leafs,C,15:35,1,0,1,4,0,0,0,0,0,2,0,0,0,0,1,14:41,0:54,0:00,NA
-2018020215,8471817,Ryan Reaves,Vegas Golden Knights,RW,11:04,0,0,2,1,0,0,0,0,3,0,0,0,0,0,-1,8:36,2:28,0:00,0
-2018020215,8476539,Jonathan Marchessault,Vegas Golden Knights,C,21:59,0,0,3,0,0,0,0,1,4,1,1,0,0,0,-1,19:11,2:48,0:00,25
-2018020215,8476617,Tomas Hyka,Vegas Golden Knights,RW,13:16,0,0,1,1,0,0,0,0,1,0,0,0,0,0,-1,11:26,1:50,0:00,0
-2018020215,8477949,Alex Tuch,Vegas Golden Knights,RW,17:45,0,0,1,3,0,0,0,1,3,0,0,0,0,1,0,15:43,2:02,0:00,33.33
-2018020215,8475236,Cody Eakin,Vegas Golden Knights,C,14:10,0,1,2,2,0,0,0,4,13,0,0,0,0,1,-1,13:18,0:24,0:28,30.77
-2018020215,8477447,Shea Theodore,Vegas Golden Knights,D,20:59,1,0,4,0,0,0,0,0,0,1,0,0,0,0,-1,17:40,2:39,0:40,NA
-2018020215,8477931,Tomas Nosek,Vegas Golden Knights,LW,11:00,0,0,2,0,0,0,0,0,1,0,1,0,0,0,-1,9:44,0:24,0:52,0
-2018020215,8476525,Colin Miller,Vegas Golden Knights,D,23:01,0,0,4,5,0,0,0,0,0,0,1,0,0,1,-1,19:10,2:56,0:55,NA
-2018020215,8474207,Nick Holden,Vegas Golden Knights,D,20:24,0,0,2,3,0,0,0,0,0,0,2,0,0,0,-1,18:17,0:47,1:20,NA
-2018020215,8476448,William Karlsson,Vegas Golden Knights,C,19:39,0,0,2,0,0,0,0,11,17,2,0,0,0,0,-1,16:26,2:33,0:40,64.71
-2018020215,8476779,Brad Hunt,Vegas Golden Knights,D,16:25,0,0,4,1,0,0,0,0,0,0,0,0,0,0,-1,13:28,2:57,0:00,NA
-2018020215,8475188,Brayden McNabb,Vegas Golden Knights,D,19:23,0,0,2,3,0,0,2,0,0,0,0,0,0,3,-1,19:23,0:00,0:00,NA
-2018020215,8475287,Erik Haula,Vegas Golden Knights,C,13:07,0,0,1,0,0,0,0,3,7,2,0,0,0,1,0,10:55,2:12,0:00,42.86
-2018020215,8475750,Jon Merrill,Vegas Golden Knights,D,16:43,1,0,0,2,0,0,0,0,0,1,2,0,0,3,1,15:14,0:24,1:05,NA
-2018020215,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,C,12:24,0,0,1,0,0,0,0,3,8,0,0,0,0,0,0,11:32,0:00,0:52,37.5
-2018020215,8477478,William Carrier,Vegas Golden Knights,LW,9:51,0,0,1,2,0,0,0,0,0,2,0,0,0,0,0,9:51,0:00,0:00,NA
-2018020215,8474157,Max Pacioretty,Vegas Golden Knights,LW,19:02,0,0,2,0,0,0,0,0,2,2,0,0,0,1,0,15:27,3:07,0:28,0
-2018020215,8475191,Reilly Smith,Vegas Golden Knights,RW,19:50,0,0,3,0,0,0,0,0,0,0,2,0,0,0,-1,16:41,2:29,0:40,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020215,8478408,Travis Dermott,Toronto Maple Leafs,Vegas Golden Knights,D,17:57,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,14:50,0:00,3:07,NA
+2018020215,8468493,Ron Hainsey,Toronto Maple Leafs,Vegas Golden Knights,D,21:20,0,0,0,0,0,0,0,0,0,0,3,0,0,1,1,18:27,0:00,2:53,NA
+2018020215,8475786,Zach Hyman,Toronto Maple Leafs,Vegas Golden Knights,LW,21:24,1,0,1,5,0,0,0,2,3,0,0,0,0,1,1,17:25,0:55,3:04,66.67
+2018020215,8476853,Morgan Rielly,Toronto Maple Leafs,Vegas Golden Knights,D,23:24,0,0,2,1,0,0,0,0,0,3,3,0,0,6,2,20:26,1:05,1:53,NA
+2018020215,8477953,Kasperi Kapanen,Toronto Maple Leafs,Vegas Golden Knights,RW,17:35,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,14:17,0:06,3:12,NA
+2018020215,8474589,Tyler Ennis,Toronto Maple Leafs,Vegas Golden Knights,LW,8:31,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7:31,1:00,0:00,NA
+2018020215,8479458,Nikita Zaitsev,Toronto Maple Leafs,Vegas Golden Knights,D,23:45,0,0,1,3,0,0,0,0,0,0,3,0,0,3,0,19:38,0:00,4:07,NA
+2018020215,8477015,Connor Brown,Toronto Maple Leafs,Vegas Golden Knights,RW,16:05,1,1,3,1,0,0,0,0,0,0,0,0,0,0,2,12:09,0:06,3:50,NA
+2018020215,8475166,John Tavares,Toronto Maple Leafs,Vegas Golden Knights,C,19:11,1,0,3,0,0,0,0,12,23,1,1,0,0,1,1,18:15,0:54,0:02,52.17
+2018020215,8476410,Josh Leivo,Toronto Maple Leafs,Vegas Golden Knights,LW,7:52,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,6:52,1:00,0:00,100
+2018020215,8480943,Igor Ozhiganov,Toronto Maple Leafs,Vegas Golden Knights,D,9:48,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,9:48,0:00,0:00,NA
+2018020215,8480944,Par Lindholm,Toronto Maple Leafs,Vegas Golden Knights,C,13:07,0,0,1,4,0,0,0,11,13,0,1,0,0,1,0,11:14,0:11,1:42,84.62
+2018020215,8477512,Frederik Gauthier,Toronto Maple Leafs,Vegas Golden Knights,C,6:58,0,0,0,1,0,0,0,3,7,0,0,0,0,0,-1,6:58,0:00,0:00,42.86
+2018020215,8477341,Andreas Johnsson,Toronto Maple Leafs,Vegas Golden Knights,LW,11:37,0,0,3,2,0,0,0,0,0,1,0,0,0,1,0,10:42,0:55,0:00,NA
+2018020215,8474581,Jake Gardiner,Toronto Maple Leafs,Vegas Golden Knights,D,22:17,0,0,0,1,0,0,4,0,0,2,1,0,0,2,-1,21:11,1:06,0:00,NA
+2018020215,8478483,Mitchell Marner,Toronto Maple Leafs,Vegas Golden Knights,RW,20:27,0,1,4,0,0,0,2,0,0,3,1,0,0,2,1,19:23,0:54,0:10,NA
+2018020215,8475172,Nazem Kadri,Toronto Maple Leafs,Vegas Golden Knights,C,17:07,0,1,1,0,0,0,0,7,12,1,1,0,0,1,1,16:13,0:54,0:00,58.33
+2018020215,8466139,Patrick Marleau,Toronto Maple Leafs,Vegas Golden Knights,C,15:35,1,0,1,4,0,0,0,0,0,2,0,0,0,0,1,14:41,0:54,0:00,NA
+2018020215,8471817,Ryan Reaves,Vegas Golden Knights,Toronto Maple Leafs,RW,11:04,0,0,2,1,0,0,0,0,3,0,0,0,0,0,-1,8:36,2:28,0:00,0
+2018020215,8476539,Jonathan Marchessault,Vegas Golden Knights,Toronto Maple Leafs,C,21:59,0,0,3,0,0,0,0,1,4,1,1,0,0,0,-1,19:11,2:48,0:00,25
+2018020215,8476617,Tomas Hyka,Vegas Golden Knights,Toronto Maple Leafs,RW,13:16,0,0,1,1,0,0,0,0,1,0,0,0,0,0,-1,11:26,1:50,0:00,0
+2018020215,8477949,Alex Tuch,Vegas Golden Knights,Toronto Maple Leafs,RW,17:45,0,0,1,3,0,0,0,1,3,0,0,0,0,1,0,15:43,2:02,0:00,33.33
+2018020215,8475236,Cody Eakin,Vegas Golden Knights,Toronto Maple Leafs,C,14:10,0,1,2,2,0,0,0,4,13,0,0,0,0,1,-1,13:18,0:24,0:28,30.77
+2018020215,8477447,Shea Theodore,Vegas Golden Knights,Toronto Maple Leafs,D,20:59,1,0,4,0,0,0,0,0,0,1,0,0,0,0,-1,17:40,2:39,0:40,NA
+2018020215,8477931,Tomas Nosek,Vegas Golden Knights,Toronto Maple Leafs,LW,11:00,0,0,2,0,0,0,0,0,1,0,1,0,0,0,-1,9:44,0:24,0:52,0
+2018020215,8476525,Colin Miller,Vegas Golden Knights,Toronto Maple Leafs,D,23:01,0,0,4,5,0,0,0,0,0,0,1,0,0,1,-1,19:10,2:56,0:55,NA
+2018020215,8474207,Nick Holden,Vegas Golden Knights,Toronto Maple Leafs,D,20:24,0,0,2,3,0,0,0,0,0,0,2,0,0,0,-1,18:17,0:47,1:20,NA
+2018020215,8476448,William Karlsson,Vegas Golden Knights,Toronto Maple Leafs,C,19:39,0,0,2,0,0,0,0,11,17,2,0,0,0,0,-1,16:26,2:33,0:40,64.71
+2018020215,8476779,Brad Hunt,Vegas Golden Knights,Toronto Maple Leafs,D,16:25,0,0,4,1,0,0,0,0,0,0,0,0,0,0,-1,13:28,2:57,0:00,NA
+2018020215,8475188,Brayden McNabb,Vegas Golden Knights,Toronto Maple Leafs,D,19:23,0,0,2,3,0,0,2,0,0,0,0,0,0,3,-1,19:23,0:00,0:00,NA
+2018020215,8475287,Erik Haula,Vegas Golden Knights,Toronto Maple Leafs,C,13:07,0,0,1,0,0,0,0,3,7,2,0,0,0,1,0,10:55,2:12,0:00,42.86
+2018020215,8475750,Jon Merrill,Vegas Golden Knights,Toronto Maple Leafs,D,16:43,1,0,0,2,0,0,0,0,0,1,2,0,0,3,1,15:14,0:24,1:05,NA
+2018020215,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,Toronto Maple Leafs,C,12:24,0,0,1,0,0,0,0,3,8,0,0,0,0,0,0,11:32,0:00,0:52,37.5
+2018020215,8477478,William Carrier,Vegas Golden Knights,Toronto Maple Leafs,LW,9:51,0,0,1,2,0,0,0,0,0,2,0,0,0,0,0,9:51,0:00,0:00,NA
+2018020215,8474157,Max Pacioretty,Vegas Golden Knights,Toronto Maple Leafs,LW,19:02,0,0,2,0,0,0,0,0,2,2,0,0,0,1,0,15:27,3:07,0:28,0
+2018020215,8475191,Reilly Smith,Vegas Golden Knights,Toronto Maple Leafs,RW,19:50,0,0,3,0,0,0,0,0,0,0,2,0,0,0,-1,16:41,2:29,0:40,NA

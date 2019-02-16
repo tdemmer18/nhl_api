@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020302,8466138,Joe Thornton,San Jose Sharks,C,12:49,0,0,0,0,0,0,0,55.56,5,9,1,1,0,0,1,0,11:51,0:58,0:00
-2018020302,8470613,Brent Burns,San Jose Sharks,D,18:51,0,0,4,0,0,0,0,NA,0,0,1,1,0,0,0,0,16:45,1:27,0:39
-2018020302,8471709,Marc-Edouard Vlasic,San Jose Sharks,D,20:20,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,2,0,17:48,1:11,1:21
-2018020302,8470794,Joe Pavelski,San Jose Sharks,C,19:15,0,2,2,1,0,0,0,66.67,6,9,0,2,0,0,1,2,15:42,2:54,0:39
-2018020302,8475834,Marcus Sorensen,San Jose Sharks,LW,12:00,0,0,1,2,0,0,0,100,1,1,0,0,0,0,1,0,11:15,0:00,0:45
-2018020302,8474027,Justin Braun,San Jose Sharks,D,19:54,0,0,0,2,0,0,0,NA,0,0,0,1,0,0,4,0,18:33,0:00,1:21
-2018020302,8475820,Joonas Donskoi,San Jose Sharks,RW,16:11,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,0,1,15:13,0:58,0:00
-2018020302,8476624,Barclay Goodrow,San Jose Sharks,RW,11:15,0,0,0,1,0,0,0,75,3,4,0,1,0,0,1,0,10:39,0:00,0:36
-2018020302,8474578,Erik Karlsson,San Jose Sharks,D,20:55,1,1,4,2,1,0,0,NA,0,0,1,0,0,0,3,3,17:29,2:47,0:39
-2018020302,8477922,Melker Karlsson,San Jose Sharks,C,12:57,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,12:21,0:00,0:36
-2018020302,8474053,Logan Couture,San Jose Sharks,C,19:34,3,0,4,0,0,1,2,42.86,6,14,1,0,0,0,0,1,16:47,2:47,0:00
-2018020302,8480965,Antti Suomela,San Jose Sharks,C,14:34,1,0,0,0,0,0,0,63.64,7,11,0,0,0,0,1,1,14:34,0:00,0:00
-2018020302,8478414,Timo Meier,San Jose Sharks,RW,19:28,2,0,3,0,0,0,0,0,0,1,0,0,0,0,2,2,17:44,1:05,0:39
-2018020302,8475455,Brenden Dillon,San Jose Sharks,D,18:24,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,3,18:24,0:00,0:00
-2018020302,8475169,Evander Kane,San Jose Sharks,LW,17:50,1,1,4,4,0,1,0,NA,0,0,0,0,0,0,0,1,14:40,2:25,0:45
-2018020302,8478099,Kevin Labanc,San Jose Sharks,RW,12:43,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,9:55,2:48,0:00
-2018020302,8477046,Joakim Ryan,San Jose Sharks,D,19:13,0,0,1,2,0,0,0,NA,0,0,1,0,0,0,1,0,19:13,0:00,0:00
-2018020302,8479580,Dylan Gambrell,San Jose Sharks,C,11:47,0,0,1,4,0,0,0,44.44,4,9,2,0,0,0,1,1,11:47,0:00,0:00
-2018020302,8474565,Alex Pietrangelo,St. Louis Blues,D,24:03,0,0,2,1,0,0,0,NA,0,0,2,0,0,0,5,0,20:15,0:56,2:52
-2018020302,8476897,Oskar Sundqvist,St. Louis Blues,C,12:12,0,0,2,1,0,0,0,33.33,2,6,0,0,0,0,2,0,10:54,0:00,1:18
-2018020302,8477964,Ivan Barbashev,St. Louis Blues,C,14:51,0,0,3,1,0,0,0,60,3,5,1,0,0,0,0,-1,13:33,0:00,1:18
-2018020302,8475765,Vladimir Tarasenko,St. Louis Blues,RW,17:26,0,0,4,1,0,0,0,NA,0,0,2,1,0,0,0,-2,15:48,1:04,0:34
-2018020302,8478407,Vince Dunn,St. Louis Blues,D,19:56,0,0,2,1,0,0,0,NA,0,0,1,0,0,0,1,0,18:00,1:04,0:52
-2018020302,8476877,Jordan Schmaltz,St. Louis Blues,D,8:12,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-1,8:12,0:00,0:00
-2018020302,8478104,Sammy Blais,St. Louis Blues,LW,14:04,0,0,2,5,0,0,0,NA,0,0,0,0,0,0,0,-1,14:04,0:00,0:00
-2018020302,8477952,Robby Fabbri,St. Louis Blues,C,15:31,0,0,2,0,0,0,0,NA,0,0,0,3,0,0,0,0,14:35,0:56,0:00
-2018020302,8475158,Ryan O'Reilly,St. Louis Blues,C,18:28,0,0,1,0,0,0,0,50,11,22,1,0,0,0,0,-2,15:24,1:04,2:00
-2018020302,8474102,David Perron,St. Louis Blues,LW,15:12,0,0,1,0,0,0,2,NA,0,0,0,0,0,0,0,0,14:16,0:56,0:00
-2018020302,8475098,Tyler Bozak,St. Louis Blues,C,16:07,0,0,2,0,0,0,0,50,5,10,0,0,0,0,0,-1,13:21,1:04,1:42
-2018020302,8476441,Joel Edmundson,St. Louis Blues,D,22:48,0,0,0,3,0,0,2,NA,0,0,0,0,0,0,1,-2,21:06,0:00,1:42
-2018020302,8470151,Jay Bouwmeester,St. Louis Blues,D,21:20,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,-2,20:02,0:00,1:18
-2018020302,8476892,Colton Parayko,St. Louis Blues,D,22:37,0,0,4,2,0,0,0,NA,0,0,0,0,0,0,2,-1,20:41,0:56,1:00
-2018020302,8475170,Brayden Schenn,St. Louis Blues,C,16:58,0,0,1,0,0,0,0,66.67,2,3,1,0,0,0,2,-1,15:20,1:04,0:34
-2018020302,8477482,Zach Sanford,St. Louis Blues,LW,10:55,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,2,-1,9:59,0:56,0:00
-2018020302,8480023,Robert Thomas,St. Louis Blues,C,16:24,0,0,1,2,0,0,0,35.71,5,14,0,0,0,0,0,0,16:06,0:00,0:18
-2018020302,8478373,Nikita Soshnikov,St. Louis Blues,RW,9:06,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,9:06,0:00,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020302,8466138,Joe Thornton,San Jose Sharks,St. Louis Blues,C,12:49,0,0,0,0,0,0,0,55.56,5,9,1,1,0,0,1,0,11:51,0:58,0:00
+2018020302,8470613,Brent Burns,San Jose Sharks,St. Louis Blues,D,18:51,0,0,4,0,0,0,0,NA,0,0,1,1,0,0,0,0,16:45,1:27,0:39
+2018020302,8471709,Marc-Edouard Vlasic,San Jose Sharks,St. Louis Blues,D,20:20,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,2,0,17:48,1:11,1:21
+2018020302,8470794,Joe Pavelski,San Jose Sharks,St. Louis Blues,C,19:15,0,2,2,1,0,0,0,66.67,6,9,0,2,0,0,1,2,15:42,2:54,0:39
+2018020302,8475834,Marcus Sorensen,San Jose Sharks,St. Louis Blues,LW,12:00,0,0,1,2,0,0,0,100,1,1,0,0,0,0,1,0,11:15,0:00,0:45
+2018020302,8474027,Justin Braun,San Jose Sharks,St. Louis Blues,D,19:54,0,0,0,2,0,0,0,NA,0,0,0,1,0,0,4,0,18:33,0:00,1:21
+2018020302,8475820,Joonas Donskoi,San Jose Sharks,St. Louis Blues,RW,16:11,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,0,1,15:13,0:58,0:00
+2018020302,8476624,Barclay Goodrow,San Jose Sharks,St. Louis Blues,RW,11:15,0,0,0,1,0,0,0,75,3,4,0,1,0,0,1,0,10:39,0:00,0:36
+2018020302,8474578,Erik Karlsson,San Jose Sharks,St. Louis Blues,D,20:55,1,1,4,2,1,0,0,NA,0,0,1,0,0,0,3,3,17:29,2:47,0:39
+2018020302,8477922,Melker Karlsson,San Jose Sharks,St. Louis Blues,C,12:57,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,12:21,0:00,0:36
+2018020302,8474053,Logan Couture,San Jose Sharks,St. Louis Blues,C,19:34,3,0,4,0,0,1,2,42.86,6,14,1,0,0,0,0,1,16:47,2:47,0:00
+2018020302,8480965,Antti Suomela,San Jose Sharks,St. Louis Blues,C,14:34,1,0,0,0,0,0,0,63.64,7,11,0,0,0,0,1,1,14:34,0:00,0:00
+2018020302,8478414,Timo Meier,San Jose Sharks,St. Louis Blues,RW,19:28,2,0,3,0,0,0,0,0,0,1,0,0,0,0,2,2,17:44,1:05,0:39
+2018020302,8475455,Brenden Dillon,San Jose Sharks,St. Louis Blues,D,18:24,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,3,18:24,0:00,0:00
+2018020302,8475169,Evander Kane,San Jose Sharks,St. Louis Blues,LW,17:50,1,1,4,4,0,1,0,NA,0,0,0,0,0,0,0,1,14:40,2:25,0:45
+2018020302,8478099,Kevin Labanc,San Jose Sharks,St. Louis Blues,RW,12:43,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,9:55,2:48,0:00
+2018020302,8477046,Joakim Ryan,San Jose Sharks,St. Louis Blues,D,19:13,0,0,1,2,0,0,0,NA,0,0,1,0,0,0,1,0,19:13,0:00,0:00
+2018020302,8479580,Dylan Gambrell,San Jose Sharks,St. Louis Blues,C,11:47,0,0,1,4,0,0,0,44.44,4,9,2,0,0,0,1,1,11:47,0:00,0:00
+2018020302,8474565,Alex Pietrangelo,St. Louis Blues,San Jose Sharks,D,24:03,0,0,2,1,0,0,0,NA,0,0,2,0,0,0,5,0,20:15,0:56,2:52
+2018020302,8476897,Oskar Sundqvist,St. Louis Blues,San Jose Sharks,C,12:12,0,0,2,1,0,0,0,33.33,2,6,0,0,0,0,2,0,10:54,0:00,1:18
+2018020302,8477964,Ivan Barbashev,St. Louis Blues,San Jose Sharks,C,14:51,0,0,3,1,0,0,0,60,3,5,1,0,0,0,0,-1,13:33,0:00,1:18
+2018020302,8475765,Vladimir Tarasenko,St. Louis Blues,San Jose Sharks,RW,17:26,0,0,4,1,0,0,0,NA,0,0,2,1,0,0,0,-2,15:48,1:04,0:34
+2018020302,8478407,Vince Dunn,St. Louis Blues,San Jose Sharks,D,19:56,0,0,2,1,0,0,0,NA,0,0,1,0,0,0,1,0,18:00,1:04,0:52
+2018020302,8476877,Jordan Schmaltz,St. Louis Blues,San Jose Sharks,D,8:12,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-1,8:12,0:00,0:00
+2018020302,8478104,Sammy Blais,St. Louis Blues,San Jose Sharks,LW,14:04,0,0,2,5,0,0,0,NA,0,0,0,0,0,0,0,-1,14:04,0:00,0:00
+2018020302,8477952,Robby Fabbri,St. Louis Blues,San Jose Sharks,C,15:31,0,0,2,0,0,0,0,NA,0,0,0,3,0,0,0,0,14:35,0:56,0:00
+2018020302,8475158,Ryan O'Reilly,St. Louis Blues,San Jose Sharks,C,18:28,0,0,1,0,0,0,0,50,11,22,1,0,0,0,0,-2,15:24,1:04,2:00
+2018020302,8474102,David Perron,St. Louis Blues,San Jose Sharks,LW,15:12,0,0,1,0,0,0,2,NA,0,0,0,0,0,0,0,0,14:16,0:56,0:00
+2018020302,8475098,Tyler Bozak,St. Louis Blues,San Jose Sharks,C,16:07,0,0,2,0,0,0,0,50,5,10,0,0,0,0,0,-1,13:21,1:04,1:42
+2018020302,8476441,Joel Edmundson,St. Louis Blues,San Jose Sharks,D,22:48,0,0,0,3,0,0,2,NA,0,0,0,0,0,0,1,-2,21:06,0:00,1:42
+2018020302,8470151,Jay Bouwmeester,St. Louis Blues,San Jose Sharks,D,21:20,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,-2,20:02,0:00,1:18
+2018020302,8476892,Colton Parayko,St. Louis Blues,San Jose Sharks,D,22:37,0,0,4,2,0,0,0,NA,0,0,0,0,0,0,2,-1,20:41,0:56,1:00
+2018020302,8475170,Brayden Schenn,St. Louis Blues,San Jose Sharks,C,16:58,0,0,1,0,0,0,0,66.67,2,3,1,0,0,0,2,-1,15:20,1:04,0:34
+2018020302,8477482,Zach Sanford,St. Louis Blues,San Jose Sharks,LW,10:55,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,2,-1,9:59,0:56,0:00
+2018020302,8480023,Robert Thomas,St. Louis Blues,San Jose Sharks,C,16:24,0,0,1,2,0,0,0,35.71,5,14,0,0,0,0,0,0,16:06,0:00,0:18
+2018020302,8478373,Nikita Soshnikov,St. Louis Blues,San Jose Sharks,RW,9:06,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,9:06,0:00,0:00

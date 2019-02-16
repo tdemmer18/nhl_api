@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020824,8471735,Keith Yandle,Florida Panthers,D,23:04,0,0,3,1,0,0,0,0,0,0,1,0,0,0,0,20:23,2:41,0:00,NA
-2018020824,8473544,Derick Brassard,Florida Panthers,C,19:14,1,0,1,5,0,1,0,2,5,0,1,0,0,0,-2,16:00,3:14,0:00,40
-2018020824,8474149,Evgenii Dadonov,Florida Panthers,RW,17:43,0,1,4,1,1,0,0,0,0,0,1,0,0,0,-1,14:44,2:59,0:00,NA
-2018020824,8477932,Aaron Ekblad,Florida Panthers,D,25:48,0,0,4,4,0,0,2,0,0,1,1,0,0,1,-1,20:20,3:18,2:10,NA
-2018020824,8476875,Mike Matheson,Florida Panthers,D,25:05,1,1,3,1,0,1,2,0,0,2,6,0,0,1,1,22:36,0:16,2:13,NA
-2018020824,8474884,Mike Hoffman,Florida Panthers,LW,15:05,0,0,2,1,0,0,0,0,0,0,2,0,0,0,-1,12:23,2:42,0:00,NA
-2018020824,8471426,Troy Brouwer,Florida Panthers,RW,9:26,0,0,3,4,0,0,0,0,0,0,0,0,0,1,0,8:09,0:00,1:17,NA
-2018020824,8474098,Colton Sceviour,Florida Panthers,C,10:29,0,1,4,0,0,0,0,1,1,0,0,0,0,1,1,8:27,0:03,1:59,100
-2018020824,8475772,Riley Sheahan,Florida Panthers,C,13:08,1,0,4,1,0,0,0,6,10,1,0,0,0,0,0,11:22,0:03,1:43,60
-2018020824,8479404,Henrik Borgstrom,Florida Panthers,C,12:35,0,0,3,0,0,0,0,0,3,0,2,0,0,0,-1,9:37,2:58,0:00,0
-2018020824,8476389,Vincent Trocheck,Florida Panthers,C,21:41,0,0,3,1,0,0,2,3,10,2,0,0,0,0,-1,18:48,2:53,0:00,30
-2018020824,8478843,Denis Malgin,Florida Panthers,C,8:38,0,0,0,1,0,0,0,2,5,0,0,0,0,0,0,7:55,0:00,0:43,40
-2018020824,8476456,Jonathan Huberdeau,Florida Panthers,LW,20:06,1,0,2,0,0,0,0,0,0,1,1,0,0,1,1,17:28,2:38,0:00,NA
-2018020824,8475796,Mark Pysyk,Florida Panthers,D,24:01,0,0,4,5,0,0,0,0,0,0,3,0,0,1,0,21:25,0:00,2:36,NA
-2018020824,8477384,Josh Brown,Florida Panthers,D,10:24,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,8:55,0:00,1:29,NA
-2018020824,8478366,Frank Vatrano,Florida Panthers,C,17:00,0,0,1,4,0,0,0,0,0,1,0,0,0,1,0,14:07,2:53,0:00,NA
-2018020824,8477452,Ian McCoshen,Florida Panthers,D,10:58,0,0,1,2,0,0,0,0,0,1,1,0,0,1,0,8:48,0:00,2:10,NA
-2018020824,8477493,Aleksander Barkov,Florida Panthers,C,22:17,2,0,0,0,0,0,0,15,24,1,1,0,0,1,2,16:25,2:57,2:55,62.5
-2018020824,8471724,Kris Letang,Pittsburgh Penguins,D,27:07,2,0,5,2,0,0,0,0,0,0,4,0,1,2,0,21:14,3:46,2:07,NA
-2018020824,8476927,Teddy Blueger,Pittsburgh Penguins,C,8:05,0,0,1,1,0,0,0,3,5,0,0,0,0,0,0,6:15,0:00,1:50,60
-2018020824,8477969,Marcus Pettersson,Pittsburgh Penguins,D,18:30,0,1,1,3,0,0,2,0,0,1,2,0,0,3,0,17:10,1:17,0:03,NA
-2018020824,8475208,Brian Dumoulin,Pittsburgh Penguins,D,21:01,1,0,1,2,0,0,0,0,0,2,1,0,1,1,1,18:01,0:08,2:52,NA
-2018020824,8471675,Sidney Crosby,Pittsburgh Penguins,C,21:57,0,0,2,0,0,0,0,10,21,0,1,0,0,0,0,17:37,3:26,0:54,47.62
-2018020824,8477404,Jake Guentzel,Pittsburgh Penguins,LW,21:06,1,0,3,0,0,0,0,0,0,1,0,0,0,0,1,15:58,3:26,1:42,NA
-2018020824,8471887,Patric Hornqvist,Pittsburgh Penguins,RW,12:39,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,9:21,3:18,0:00,NA
-2018020824,8478866,Dominik Simon,Pittsburgh Penguins,C,13:20,0,0,1,4,0,0,0,0,0,0,1,0,0,0,0,11:43,1:37,0:00,NA
-2018020824,8473548,Phil Kessel,Pittsburgh Penguins,RW,20:52,0,0,1,0,0,0,0,0,0,1,0,0,0,1,-1,17:06,3:46,0:00,NA
-2018020824,8475810,Bryan Rust,Pittsburgh Penguins,RW,18:57,0,0,1,4,0,0,2,0,0,0,0,0,0,1,0,17:17,0:00,1:40,NA
-2018020824,8477955,Jared McCann,Pittsburgh Penguins,C,15:45,0,1,3,0,0,0,0,6,11,0,0,1,0,0,1,12:52,0:00,2:53,54.55
-2018020824,8471677,Jack Johnson,Pittsburgh Penguins,D,20:11,0,0,2,1,0,0,0,0,0,0,0,0,0,2,0,17:10,0:00,3:01,NA
-2018020824,8476871,Tanner Pearson,Pittsburgh Penguins,LW,8:48,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,7:11,1:37,0:00,NA
-2018020824,8475760,Nick Bjugstad,Pittsburgh Penguins,C,20:12,0,0,1,0,0,0,0,3,6,1,0,0,0,0,-1,17:50,1:37,0:45,50
-2018020824,8476874,Olli Maatta,Pittsburgh Penguins,D,17:26,0,0,0,3,0,0,0,0,0,0,1,0,0,1,0,14:21,0:00,3:05,NA
-2018020824,8480945,Juuso Riikola,Pittsburgh Penguins,D,15:39,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,14:22,1:17,0:00,NA
-2018020824,8475253,Garrett Wilson,Pittsburgh Penguins,LW,7:33,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,6:11,0:00,1:22,NA
-2018020824,8464989,Matt Cullen,Pittsburgh Penguins,C,17:39,0,0,1,1,0,0,2,7,15,1,2,0,0,1,0,16:13,0:00,1:26,46.67
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020824,8471735,Keith Yandle,Florida Panthers,Pittsburgh Penguins,D,23:04,0,0,3,1,0,0,0,0,0,0,1,0,0,0,0,20:23,2:41,0:00,NA
+2018020824,8473544,Derick Brassard,Florida Panthers,Pittsburgh Penguins,C,19:14,1,0,1,5,0,1,0,2,5,0,1,0,0,0,-2,16:00,3:14,0:00,40
+2018020824,8474149,Evgenii Dadonov,Florida Panthers,Pittsburgh Penguins,RW,17:43,0,1,4,1,1,0,0,0,0,0,1,0,0,0,-1,14:44,2:59,0:00,NA
+2018020824,8477932,Aaron Ekblad,Florida Panthers,Pittsburgh Penguins,D,25:48,0,0,4,4,0,0,2,0,0,1,1,0,0,1,-1,20:20,3:18,2:10,NA
+2018020824,8476875,Mike Matheson,Florida Panthers,Pittsburgh Penguins,D,25:05,1,1,3,1,0,1,2,0,0,2,6,0,0,1,1,22:36,0:16,2:13,NA
+2018020824,8474884,Mike Hoffman,Florida Panthers,Pittsburgh Penguins,LW,15:05,0,0,2,1,0,0,0,0,0,0,2,0,0,0,-1,12:23,2:42,0:00,NA
+2018020824,8471426,Troy Brouwer,Florida Panthers,Pittsburgh Penguins,RW,9:26,0,0,3,4,0,0,0,0,0,0,0,0,0,1,0,8:09,0:00,1:17,NA
+2018020824,8474098,Colton Sceviour,Florida Panthers,Pittsburgh Penguins,C,10:29,0,1,4,0,0,0,0,1,1,0,0,0,0,1,1,8:27,0:03,1:59,100
+2018020824,8475772,Riley Sheahan,Florida Panthers,Pittsburgh Penguins,C,13:08,1,0,4,1,0,0,0,6,10,1,0,0,0,0,0,11:22,0:03,1:43,60
+2018020824,8479404,Henrik Borgstrom,Florida Panthers,Pittsburgh Penguins,C,12:35,0,0,3,0,0,0,0,0,3,0,2,0,0,0,-1,9:37,2:58,0:00,0
+2018020824,8476389,Vincent Trocheck,Florida Panthers,Pittsburgh Penguins,C,21:41,0,0,3,1,0,0,2,3,10,2,0,0,0,0,-1,18:48,2:53,0:00,30
+2018020824,8478843,Denis Malgin,Florida Panthers,Pittsburgh Penguins,C,8:38,0,0,0,1,0,0,0,2,5,0,0,0,0,0,0,7:55,0:00,0:43,40
+2018020824,8476456,Jonathan Huberdeau,Florida Panthers,Pittsburgh Penguins,LW,20:06,1,0,2,0,0,0,0,0,0,1,1,0,0,1,1,17:28,2:38,0:00,NA
+2018020824,8475796,Mark Pysyk,Florida Panthers,Pittsburgh Penguins,D,24:01,0,0,4,5,0,0,0,0,0,0,3,0,0,1,0,21:25,0:00,2:36,NA
+2018020824,8477384,Josh Brown,Florida Panthers,Pittsburgh Penguins,D,10:24,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,8:55,0:00,1:29,NA
+2018020824,8478366,Frank Vatrano,Florida Panthers,Pittsburgh Penguins,C,17:00,0,0,1,4,0,0,0,0,0,1,0,0,0,1,0,14:07,2:53,0:00,NA
+2018020824,8477452,Ian McCoshen,Florida Panthers,Pittsburgh Penguins,D,10:58,0,0,1,2,0,0,0,0,0,1,1,0,0,1,0,8:48,0:00,2:10,NA
+2018020824,8477493,Aleksander Barkov,Florida Panthers,Pittsburgh Penguins,C,22:17,2,0,0,0,0,0,0,15,24,1,1,0,0,1,2,16:25,2:57,2:55,62.5
+2018020824,8471724,Kris Letang,Pittsburgh Penguins,Florida Panthers,D,27:07,2,0,5,2,0,0,0,0,0,0,4,0,1,2,0,21:14,3:46,2:07,NA
+2018020824,8476927,Teddy Blueger,Pittsburgh Penguins,Florida Panthers,C,8:05,0,0,1,1,0,0,0,3,5,0,0,0,0,0,0,6:15,0:00,1:50,60
+2018020824,8477969,Marcus Pettersson,Pittsburgh Penguins,Florida Panthers,D,18:30,0,1,1,3,0,0,2,0,0,1,2,0,0,3,0,17:10,1:17,0:03,NA
+2018020824,8475208,Brian Dumoulin,Pittsburgh Penguins,Florida Panthers,D,21:01,1,0,1,2,0,0,0,0,0,2,1,0,1,1,1,18:01,0:08,2:52,NA
+2018020824,8471675,Sidney Crosby,Pittsburgh Penguins,Florida Panthers,C,21:57,0,0,2,0,0,0,0,10,21,0,1,0,0,0,0,17:37,3:26,0:54,47.62
+2018020824,8477404,Jake Guentzel,Pittsburgh Penguins,Florida Panthers,LW,21:06,1,0,3,0,0,0,0,0,0,1,0,0,0,0,1,15:58,3:26,1:42,NA
+2018020824,8471887,Patric Hornqvist,Pittsburgh Penguins,Florida Panthers,RW,12:39,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,9:21,3:18,0:00,NA
+2018020824,8478866,Dominik Simon,Pittsburgh Penguins,Florida Panthers,C,13:20,0,0,1,4,0,0,0,0,0,0,1,0,0,0,0,11:43,1:37,0:00,NA
+2018020824,8473548,Phil Kessel,Pittsburgh Penguins,Florida Panthers,RW,20:52,0,0,1,0,0,0,0,0,0,1,0,0,0,1,-1,17:06,3:46,0:00,NA
+2018020824,8475810,Bryan Rust,Pittsburgh Penguins,Florida Panthers,RW,18:57,0,0,1,4,0,0,2,0,0,0,0,0,0,1,0,17:17,0:00,1:40,NA
+2018020824,8477955,Jared McCann,Pittsburgh Penguins,Florida Panthers,C,15:45,0,1,3,0,0,0,0,6,11,0,0,1,0,0,1,12:52,0:00,2:53,54.55
+2018020824,8471677,Jack Johnson,Pittsburgh Penguins,Florida Panthers,D,20:11,0,0,2,1,0,0,0,0,0,0,0,0,0,2,0,17:10,0:00,3:01,NA
+2018020824,8476871,Tanner Pearson,Pittsburgh Penguins,Florida Panthers,LW,8:48,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,7:11,1:37,0:00,NA
+2018020824,8475760,Nick Bjugstad,Pittsburgh Penguins,Florida Panthers,C,20:12,0,0,1,0,0,0,0,3,6,1,0,0,0,0,-1,17:50,1:37,0:45,50
+2018020824,8476874,Olli Maatta,Pittsburgh Penguins,Florida Panthers,D,17:26,0,0,0,3,0,0,0,0,0,0,1,0,0,1,0,14:21,0:00,3:05,NA
+2018020824,8480945,Juuso Riikola,Pittsburgh Penguins,Florida Panthers,D,15:39,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,14:22,1:17,0:00,NA
+2018020824,8475253,Garrett Wilson,Pittsburgh Penguins,Florida Panthers,LW,7:33,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,6:11,0:00,1:22,NA
+2018020824,8464989,Matt Cullen,Pittsburgh Penguins,Florida Panthers,C,17:39,0,0,1,1,0,0,2,7,15,1,2,0,0,1,0,16:13,0:00,1:26,46.67

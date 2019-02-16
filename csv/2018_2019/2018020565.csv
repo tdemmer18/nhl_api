@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020565,8471669,Paul Stastny,Vegas Golden Knights,C,19:13,0,0,4,2,0,0,0,54.55,6,11,0,0,0,0,1,-1,17:27,0:24,1:22
-2018020565,8468674,Deryk Engelland,Vegas Golden Knights,D,22:08,0,0,0,0,0,0,2,NA,0,0,1,0,0,0,2,0,20:46,0:00,1:22
-2018020565,8471817,Ryan Reaves,Vegas Golden Knights,RW,8:23,0,1,2,2,1,0,0,0,0,1,2,0,0,0,0,-1,7:59,0:24,0:00
-2018020565,8476539,Jonathan Marchessault,Vegas Golden Knights,C,21:27,1,0,4,1,0,0,0,NA,0,0,1,0,0,0,0,0,20:25,1:02,0:00
-2018020565,8475715,Oscar Lindberg,Vegas Golden Knights,C,12:14,1,0,1,0,0,0,2,NA,0,0,0,1,0,0,0,0,12:14,0:00,0:00
-2018020565,8477949,Alex Tuch,Vegas Golden Knights,RW,19:08,0,0,0,3,0,0,0,0,0,1,3,0,0,0,2,0,18:06,1:02,0:00
-2018020565,8475236,Cody Eakin,Vegas Golden Knights,C,13:29,0,0,0,2,0,0,0,50,5,10,0,2,0,0,2,1,11:43,0:24,1:22
-2018020565,8477447,Shea Theodore,Vegas Golden Knights,D,21:35,0,0,1,0,0,0,0,NA,0,0,2,0,0,0,1,-1,20:17,1:18,0:00
-2018020565,8475204,Brandon Pirri,Vegas Golden Knights,C,15:59,1,0,1,3,0,1,0,NA,0,0,0,2,0,0,3,0,15:35,0:24,0:00
-2018020565,8477931,Tomas Nosek,Vegas Golden Knights,LW,13:16,0,1,2,1,0,0,0,100,1,1,0,1,0,0,0,0,12:37,0:00,0:39
-2018020565,8474207,Nick Holden,Vegas Golden Knights,D,14:17,2,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,0,13:39,0:00,0:38
-2018020565,8476448,William Karlsson,Vegas Golden Knights,C,20:53,0,0,0,3,0,0,0,50,10,20,3,0,0,0,1,1,19:23,1:02,0:28
-2018020565,8475188,Brayden McNabb,Vegas Golden Knights,D,22:14,0,0,1,1,0,0,0,NA,0,0,0,1,0,0,2,0,20:23,0:00,1:51
-2018020565,8475750,Jon Merrill,Vegas Golden Knights,D,16:14,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,0,15:36,0:00,0:38
-2018020565,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,C,10:25,0,0,1,0,0,0,0,50,3,6,1,0,0,0,0,-2,9:46,0:00,0:39
-2018020565,8477478,William Carrier,Vegas Golden Knights,LW,8:43,0,0,0,6,0,0,0,NA,0,0,0,0,0,0,1,-1,8:43,0:00,0:00
-2018020565,8477220,Nate Schmidt,Vegas Golden Knights,D,23:46,1,0,3,1,0,1,0,NA,0,0,1,0,0,0,0,0,23:09,0:08,0:29
-2018020565,8475191,Reilly Smith,Vegas Golden Knights,RW,19:07,0,1,3,0,0,0,0,NA,0,0,2,0,0,0,0,1,17:37,1:02,0:28
-2018020565,8470604,Jeff Carter,Los Angeles Kings,C,19:37,1,1,2,1,1,0,0,16.67,1,6,0,0,0,0,1,0,17:13,1:51,0:33
-2018020565,8470606,Dustin Brown,Los Angeles Kings,RW,21:57,0,0,5,4,0,0,0,NA,0,0,0,0,0,0,0,0,19:38,1:51,0:28
-2018020565,8471685,Anze Kopitar,Los Angeles Kings,C,22:21,1,0,1,1,0,1,0,57.14,16,28,0,0,0,0,1,0,20:02,1:51,0:28
-2018020565,8477957,Nikita Scherbak,Los Angeles Kings,RW,6:55,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,6:55,0:00,0:00
-2018020565,8475726,Tyler Toffoli,Los Angeles Kings,RW,18:20,0,1,7,0,0,0,0,NA,0,0,1,0,0,0,0,0,15:56,1:51,0:33
-2018020565,8470775,Nate Thompson,Los Angeles Kings,C,14:59,0,0,1,0,0,0,0,66.67,6,9,1,0,0,0,1,-1,14:34,0:00,0:25
-2018020565,8477960,Adrian Kempe,Los Angeles Kings,C,15:07,1,0,2,2,0,0,2,NA,0,0,0,0,0,0,0,1,14:29,0:38,0:00
-2018020565,8476894,Brendan Leipsic,Los Angeles Kings,LW,13:24,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,-1,12:46,0:38,0:00
-2018020565,8474162,Jake Muzzin,Los Angeles Kings,D,21:35,0,0,1,5,0,0,0,NA,0,0,0,0,0,0,3,2,19:56,0:38,1:01
-2018020565,8474563,Drew Doughty,Los Angeles Kings,D,28:45,1,0,2,6,0,1,0,NA,0,0,1,1,0,0,2,-1,26:29,1:51,0:25
-2018020565,8475762,Derek Forbort,Los Angeles Kings,D,23:17,0,0,3,1,0,0,0,NA,0,0,1,0,0,0,0,-1,22:52,0:00,0:25
-2018020565,8479644,Matt Luff,Los Angeles Kings,RW,9:53,1,0,2,0,0,0,0,NA,0,0,0,0,0,0,2,1,9:53,0:00,0:00
-2018020565,8469454,Ilya Kovalchuk,Los Angeles Kings,LW,12:45,1,0,1,0,0,0,0,NA,0,0,0,0,0,0,2,-1,12:07,0:38,0:00
-2018020565,8480771,Daniel Brickley,Los Angeles Kings,D,10:51,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,1,-1,10:51,0:00,0:00
-2018020565,8478020,Michael Amadio,Los Angeles Kings,C,10:01,0,1,1,2,0,0,0,28.57,2,7,1,0,0,0,0,2,10:01,0:00,0:00
-2018020565,8480113,Alex Iafallo,Los Angeles Kings,LW,19:07,0,1,3,0,0,0,0,NA,0,0,0,0,0,0,0,1,18:04,0:38,0:25
-2018020565,8480147,Oscar Fantenberg,Los Angeles Kings,D,17:10,1,0,0,3,0,0,0,NA,0,0,0,0,0,0,2,1,16:09,0:00,1:01
-2018020565,8480336,Sean Walker,Los Angeles Kings,D,17:30,0,0,0,1,0,0,0,NA,0,0,1,0,0,0,1,1,17:30,0:00,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020565,8471669,Paul Stastny,Vegas Golden Knights,Los Angeles Kings,C,19:13,0,0,4,2,0,0,0,54.55,6,11,0,0,0,0,1,-1,17:27,0:24,1:22
+2018020565,8468674,Deryk Engelland,Vegas Golden Knights,Los Angeles Kings,D,22:08,0,0,0,0,0,0,2,NA,0,0,1,0,0,0,2,0,20:46,0:00,1:22
+2018020565,8471817,Ryan Reaves,Vegas Golden Knights,Los Angeles Kings,RW,8:23,0,1,2,2,1,0,0,0,0,1,2,0,0,0,0,-1,7:59,0:24,0:00
+2018020565,8476539,Jonathan Marchessault,Vegas Golden Knights,Los Angeles Kings,C,21:27,1,0,4,1,0,0,0,NA,0,0,1,0,0,0,0,0,20:25,1:02,0:00
+2018020565,8475715,Oscar Lindberg,Vegas Golden Knights,Los Angeles Kings,C,12:14,1,0,1,0,0,0,2,NA,0,0,0,1,0,0,0,0,12:14,0:00,0:00
+2018020565,8477949,Alex Tuch,Vegas Golden Knights,Los Angeles Kings,RW,19:08,0,0,0,3,0,0,0,0,0,1,3,0,0,0,2,0,18:06,1:02,0:00
+2018020565,8475236,Cody Eakin,Vegas Golden Knights,Los Angeles Kings,C,13:29,0,0,0,2,0,0,0,50,5,10,0,2,0,0,2,1,11:43,0:24,1:22
+2018020565,8477447,Shea Theodore,Vegas Golden Knights,Los Angeles Kings,D,21:35,0,0,1,0,0,0,0,NA,0,0,2,0,0,0,1,-1,20:17,1:18,0:00
+2018020565,8475204,Brandon Pirri,Vegas Golden Knights,Los Angeles Kings,C,15:59,1,0,1,3,0,1,0,NA,0,0,0,2,0,0,3,0,15:35,0:24,0:00
+2018020565,8477931,Tomas Nosek,Vegas Golden Knights,Los Angeles Kings,LW,13:16,0,1,2,1,0,0,0,100,1,1,0,1,0,0,0,0,12:37,0:00,0:39
+2018020565,8474207,Nick Holden,Vegas Golden Knights,Los Angeles Kings,D,14:17,2,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,0,13:39,0:00,0:38
+2018020565,8476448,William Karlsson,Vegas Golden Knights,Los Angeles Kings,C,20:53,0,0,0,3,0,0,0,50,10,20,3,0,0,0,1,1,19:23,1:02,0:28
+2018020565,8475188,Brayden McNabb,Vegas Golden Knights,Los Angeles Kings,D,22:14,0,0,1,1,0,0,0,NA,0,0,0,1,0,0,2,0,20:23,0:00,1:51
+2018020565,8475750,Jon Merrill,Vegas Golden Knights,Los Angeles Kings,D,16:14,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,0,15:36,0:00,0:38
+2018020565,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,Los Angeles Kings,C,10:25,0,0,1,0,0,0,0,50,3,6,1,0,0,0,0,-2,9:46,0:00,0:39
+2018020565,8477478,William Carrier,Vegas Golden Knights,Los Angeles Kings,LW,8:43,0,0,0,6,0,0,0,NA,0,0,0,0,0,0,1,-1,8:43,0:00,0:00
+2018020565,8477220,Nate Schmidt,Vegas Golden Knights,Los Angeles Kings,D,23:46,1,0,3,1,0,1,0,NA,0,0,1,0,0,0,0,0,23:09,0:08,0:29
+2018020565,8475191,Reilly Smith,Vegas Golden Knights,Los Angeles Kings,RW,19:07,0,1,3,0,0,0,0,NA,0,0,2,0,0,0,0,1,17:37,1:02,0:28
+2018020565,8470604,Jeff Carter,Los Angeles Kings,Vegas Golden Knights,C,19:37,1,1,2,1,1,0,0,16.67,1,6,0,0,0,0,1,0,17:13,1:51,0:33
+2018020565,8470606,Dustin Brown,Los Angeles Kings,Vegas Golden Knights,RW,21:57,0,0,5,4,0,0,0,NA,0,0,0,0,0,0,0,0,19:38,1:51,0:28
+2018020565,8471685,Anze Kopitar,Los Angeles Kings,Vegas Golden Knights,C,22:21,1,0,1,1,0,1,0,57.14,16,28,0,0,0,0,1,0,20:02,1:51,0:28
+2018020565,8477957,Nikita Scherbak,Los Angeles Kings,Vegas Golden Knights,RW,6:55,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,6:55,0:00,0:00
+2018020565,8475726,Tyler Toffoli,Los Angeles Kings,Vegas Golden Knights,RW,18:20,0,1,7,0,0,0,0,NA,0,0,1,0,0,0,0,0,15:56,1:51,0:33
+2018020565,8470775,Nate Thompson,Los Angeles Kings,Vegas Golden Knights,C,14:59,0,0,1,0,0,0,0,66.67,6,9,1,0,0,0,1,-1,14:34,0:00,0:25
+2018020565,8477960,Adrian Kempe,Los Angeles Kings,Vegas Golden Knights,C,15:07,1,0,2,2,0,0,2,NA,0,0,0,0,0,0,0,1,14:29,0:38,0:00
+2018020565,8476894,Brendan Leipsic,Los Angeles Kings,Vegas Golden Knights,LW,13:24,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,-1,12:46,0:38,0:00
+2018020565,8474162,Jake Muzzin,Los Angeles Kings,Vegas Golden Knights,D,21:35,0,0,1,5,0,0,0,NA,0,0,0,0,0,0,3,2,19:56,0:38,1:01
+2018020565,8474563,Drew Doughty,Los Angeles Kings,Vegas Golden Knights,D,28:45,1,0,2,6,0,1,0,NA,0,0,1,1,0,0,2,-1,26:29,1:51,0:25
+2018020565,8475762,Derek Forbort,Los Angeles Kings,Vegas Golden Knights,D,23:17,0,0,3,1,0,0,0,NA,0,0,1,0,0,0,0,-1,22:52,0:00,0:25
+2018020565,8479644,Matt Luff,Los Angeles Kings,Vegas Golden Knights,RW,9:53,1,0,2,0,0,0,0,NA,0,0,0,0,0,0,2,1,9:53,0:00,0:00
+2018020565,8469454,Ilya Kovalchuk,Los Angeles Kings,Vegas Golden Knights,LW,12:45,1,0,1,0,0,0,0,NA,0,0,0,0,0,0,2,-1,12:07,0:38,0:00
+2018020565,8480771,Daniel Brickley,Los Angeles Kings,Vegas Golden Knights,D,10:51,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,1,-1,10:51,0:00,0:00
+2018020565,8478020,Michael Amadio,Los Angeles Kings,Vegas Golden Knights,C,10:01,0,1,1,2,0,0,0,28.57,2,7,1,0,0,0,0,2,10:01,0:00,0:00
+2018020565,8480113,Alex Iafallo,Los Angeles Kings,Vegas Golden Knights,LW,19:07,0,1,3,0,0,0,0,NA,0,0,0,0,0,0,0,1,18:04,0:38,0:25
+2018020565,8480147,Oscar Fantenberg,Los Angeles Kings,Vegas Golden Knights,D,17:10,1,0,0,3,0,0,0,NA,0,0,0,0,0,0,2,1,16:09,0:00,1:01
+2018020565,8480336,Sean Walker,Los Angeles Kings,Vegas Golden Knights,D,17:30,0,0,0,1,0,0,0,NA,0,0,1,0,0,0,1,1,17:30,0:00,0:00

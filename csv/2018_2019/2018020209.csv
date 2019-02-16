@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020209,8470616,Ryan Kesler,Anaheim Ducks,C,20:29,0,0,0,1,0,0,2,66.67,12,18,0,1,0,0,2,-1,14:02,3:19,3:08
-2018020209,8476857,Pontus Aberg,Anaheim Ducks,LW,15:19,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,0,12:49,2:30,0:00
-2018020209,8477969,Marcus Pettersson,Anaheim Ducks,D,12:25,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,0,0,9:58,0:00,2:27
-2018020209,8476407,Andy Welinski,Anaheim Ducks,D,13:15,0,0,1,1,0,0,0,NA,0,0,1,2,0,0,0,0,9:47,3:28,0:00
-2018020209,8475764,Cam Fowler,Anaheim Ducks,D,24:47,0,3,6,2,0,0,2,NA,0,0,0,0,0,0,1,1,16:11,4:13,4:23
-2018020209,8470622,Patrick Eaves,Anaheim Ducks,RW,11:42,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,1,9:55,1:42,0:05
-2018020209,8477986,Brandon Montour,Anaheim Ducks,D,23:26,1,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,1,15:48,3:37,4:01
-2018020209,8476854,Hampus Lindholm,Anaheim Ducks,D,30:08,0,0,3,0,0,0,2,NA,0,0,0,0,0,0,1,-1,21:51,3:44,4:33
-2018020209,8475842,Sam Carrick,Anaheim Ducks,C,6:54,0,0,0,2,0,0,2,50,2,4,0,0,0,0,0,0,5:55,0:00,0:59
-2018020209,8471699,Andrew Cogliano,Anaheim Ducks,LW,15:43,0,0,0,2,0,0,0,NA,0,0,0,1,0,0,0,-1,13:36,0:00,2:07
-2018020209,8476207,Brian Gibbons,Anaheim Ducks,C,8:26,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,5:50,0:00,2:36
-2018020209,8474641,Adam Henrique,Anaheim Ducks,C,21:24,1,0,1,1,0,0,0,50,10,20,0,0,0,0,1,1,12:40,5:28,3:16
-2018020209,8480748,Kiefer Sherwood,Anaheim Ducks,RW,10:30,1,0,4,0,0,0,0,NA,0,0,0,1,0,0,0,1,10:28,0:02,0:00
-2018020209,8476043,Ben Street,Anaheim Ducks,C,9:11,0,0,0,0,0,0,0,100,2,2,0,0,0,0,0,0,4:13,0:00,4:58
-2018020209,8476483,Rickard Rakell,Anaheim Ducks,C,16:36,1,0,4,0,0,0,0,33.33,1,3,1,0,0,0,0,1,12:24,4:12,0:00
-2018020209,8475164,Jakob Silfverberg,Anaheim Ducks,RW,22:27,1,0,4,1,0,0,2,0,0,2,0,0,0,0,0,-2,15:46,5:01,1:40
-2018020209,8480806,Isac Lundestrom,Anaheim Ducks,C,11:13,1,0,0,1,0,0,0,25,2,8,0,0,0,0,1,1,10:49,0:19,0:05
-2018020209,8478491,Jacob Larsson,Anaheim Ducks,D,16:00,0,0,0,1,0,0,2,NA,0,0,1,0,0,0,4,0,12:30,0:00,3:30
-2018020209,8477407,Anthony Duclair,Columbus Blue Jackets,LW,9:22,0,0,1,1,0,0,0,NA,0,0,1,1,0,0,1,-1,6:08,3:14,0:00
-2018020209,8478906,Markus Nutivaara,Columbus Blue Jackets,D,12:51,0,0,1,1,0,0,0,NA,0,0,0,1,0,0,0,-1,12:43,0:08,0:00
-2018020209,8473422,Nick Foligno,Columbus Blue Jackets,LW,17:04,0,0,0,1,0,0,0,100,1,1,0,2,0,0,1,0,12:17,3:14,1:33
-2018020209,8474715,Cam Atkinson,Columbus Blue Jackets,RW,22:42,0,0,4,1,0,0,0,100,1,1,0,0,0,0,0,1,14:56,6:05,1:41
-2018020209,8477505,Alexander Wennberg,Columbus Blue Jackets,C,14:54,0,0,0,1,0,0,2,30,3,10,0,0,0,0,1,-2,7:21,6:05,1:28
-2018020209,8476449,Scott Harrington,Columbus Blue Jackets,D,9:22,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,0,0,6:38,0:00,2:44
-2018020209,8477416,Oliver Bjorkstrand,Columbus Blue Jackets,RW,5:33,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,-1,5:33,0:00,0:00
-2018020209,8476981,Josh Anderson,Columbus Blue Jackets,RW,16:39,0,0,1,4,0,0,2,NA,0,0,1,0,0,0,0,1,11:10,3:14,2:15
-2018020209,8476850,Ryan Murray,Columbus Blue Jackets,D,17:29,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,1,0,11:39,1:03,4:47
-2018020209,8476432,Boone Jenner,Columbus Blue Jackets,C,16:52,1,0,0,2,0,0,0,42.11,8,19,0,0,0,0,2,1,11:09,3:14,2:29
-2018020209,8475233,David Savard,Columbus Blue Jackets,D,15:24,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,11:35,0:00,3:49
-2018020209,8474062,Riley Nash,Columbus Blue Jackets,C,9:53,0,0,2,0,0,0,0,66.67,2,3,1,1,0,0,0,0,7:57,0:08,1:48
-2018020209,8477495,Seth Jones,Columbus Blue Jackets,D,30:14,2,0,2,3,0,0,0,NA,0,0,0,2,0,0,3,0,20:27,6:05,3:42
-2018020209,8478550,Artemi Panarin,Columbus Blue Jackets,LW,22:44,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,-1,16:39,6:05,0:00
-2018020209,8479400,Pierre-Luc Dubois,Columbus Blue Jackets,C,22:36,0,2,3,0,0,0,6,46.15,6,13,1,0,0,0,2,1,16:31,6:05,0:00
-2018020209,8471273,Brandon Dubinsky,Columbus Blue Jackets,C,14:45,1,0,4,2,0,0,0,70,7,10,0,1,0,0,1,1,11:30,0:08,3:07
-2018020209,8478541,Markus Hannikainen,Columbus Blue Jackets,LW,8:26,0,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,0,7:37,0:08,0:41
-2018020209,8478460,Zach Werenski,Columbus Blue Jackets,D,25:37,0,0,3,1,0,0,0,NA,0,0,0,1,0,0,2,0,23:18,2:19,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020209,8470616,Ryan Kesler,Anaheim Ducks,Columbus Blue Jackets,C,20:29,0,0,0,1,0,0,2,66.67,12,18,0,1,0,0,2,-1,14:02,3:19,3:08
+2018020209,8476857,Pontus Aberg,Anaheim Ducks,Columbus Blue Jackets,LW,15:19,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,0,12:49,2:30,0:00
+2018020209,8477969,Marcus Pettersson,Anaheim Ducks,Columbus Blue Jackets,D,12:25,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,0,0,9:58,0:00,2:27
+2018020209,8476407,Andy Welinski,Anaheim Ducks,Columbus Blue Jackets,D,13:15,0,0,1,1,0,0,0,NA,0,0,1,2,0,0,0,0,9:47,3:28,0:00
+2018020209,8475764,Cam Fowler,Anaheim Ducks,Columbus Blue Jackets,D,24:47,0,3,6,2,0,0,2,NA,0,0,0,0,0,0,1,1,16:11,4:13,4:23
+2018020209,8470622,Patrick Eaves,Anaheim Ducks,Columbus Blue Jackets,RW,11:42,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,1,9:55,1:42,0:05
+2018020209,8477986,Brandon Montour,Anaheim Ducks,Columbus Blue Jackets,D,23:26,1,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,1,15:48,3:37,4:01
+2018020209,8476854,Hampus Lindholm,Anaheim Ducks,Columbus Blue Jackets,D,30:08,0,0,3,0,0,0,2,NA,0,0,0,0,0,0,1,-1,21:51,3:44,4:33
+2018020209,8475842,Sam Carrick,Anaheim Ducks,Columbus Blue Jackets,C,6:54,0,0,0,2,0,0,2,50,2,4,0,0,0,0,0,0,5:55,0:00,0:59
+2018020209,8471699,Andrew Cogliano,Anaheim Ducks,Columbus Blue Jackets,LW,15:43,0,0,0,2,0,0,0,NA,0,0,0,1,0,0,0,-1,13:36,0:00,2:07
+2018020209,8476207,Brian Gibbons,Anaheim Ducks,Columbus Blue Jackets,C,8:26,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,5:50,0:00,2:36
+2018020209,8474641,Adam Henrique,Anaheim Ducks,Columbus Blue Jackets,C,21:24,1,0,1,1,0,0,0,50,10,20,0,0,0,0,1,1,12:40,5:28,3:16
+2018020209,8480748,Kiefer Sherwood,Anaheim Ducks,Columbus Blue Jackets,RW,10:30,1,0,4,0,0,0,0,NA,0,0,0,1,0,0,0,1,10:28,0:02,0:00
+2018020209,8476043,Ben Street,Anaheim Ducks,Columbus Blue Jackets,C,9:11,0,0,0,0,0,0,0,100,2,2,0,0,0,0,0,0,4:13,0:00,4:58
+2018020209,8476483,Rickard Rakell,Anaheim Ducks,Columbus Blue Jackets,C,16:36,1,0,4,0,0,0,0,33.33,1,3,1,0,0,0,0,1,12:24,4:12,0:00
+2018020209,8475164,Jakob Silfverberg,Anaheim Ducks,Columbus Blue Jackets,RW,22:27,1,0,4,1,0,0,2,0,0,2,0,0,0,0,0,-2,15:46,5:01,1:40
+2018020209,8480806,Isac Lundestrom,Anaheim Ducks,Columbus Blue Jackets,C,11:13,1,0,0,1,0,0,0,25,2,8,0,0,0,0,1,1,10:49,0:19,0:05
+2018020209,8478491,Jacob Larsson,Anaheim Ducks,Columbus Blue Jackets,D,16:00,0,0,0,1,0,0,2,NA,0,0,1,0,0,0,4,0,12:30,0:00,3:30
+2018020209,8477407,Anthony Duclair,Columbus Blue Jackets,Anaheim Ducks,LW,9:22,0,0,1,1,0,0,0,NA,0,0,1,1,0,0,1,-1,6:08,3:14,0:00
+2018020209,8478906,Markus Nutivaara,Columbus Blue Jackets,Anaheim Ducks,D,12:51,0,0,1,1,0,0,0,NA,0,0,0,1,0,0,0,-1,12:43,0:08,0:00
+2018020209,8473422,Nick Foligno,Columbus Blue Jackets,Anaheim Ducks,LW,17:04,0,0,0,1,0,0,0,100,1,1,0,2,0,0,1,0,12:17,3:14,1:33
+2018020209,8474715,Cam Atkinson,Columbus Blue Jackets,Anaheim Ducks,RW,22:42,0,0,4,1,0,0,0,100,1,1,0,0,0,0,0,1,14:56,6:05,1:41
+2018020209,8477505,Alexander Wennberg,Columbus Blue Jackets,Anaheim Ducks,C,14:54,0,0,0,1,0,0,2,30,3,10,0,0,0,0,1,-2,7:21,6:05,1:28
+2018020209,8476449,Scott Harrington,Columbus Blue Jackets,Anaheim Ducks,D,9:22,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,0,0,6:38,0:00,2:44
+2018020209,8477416,Oliver Bjorkstrand,Columbus Blue Jackets,Anaheim Ducks,RW,5:33,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,-1,5:33,0:00,0:00
+2018020209,8476981,Josh Anderson,Columbus Blue Jackets,Anaheim Ducks,RW,16:39,0,0,1,4,0,0,2,NA,0,0,1,0,0,0,0,1,11:10,3:14,2:15
+2018020209,8476850,Ryan Murray,Columbus Blue Jackets,Anaheim Ducks,D,17:29,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,1,0,11:39,1:03,4:47
+2018020209,8476432,Boone Jenner,Columbus Blue Jackets,Anaheim Ducks,C,16:52,1,0,0,2,0,0,0,42.11,8,19,0,0,0,0,2,1,11:09,3:14,2:29
+2018020209,8475233,David Savard,Columbus Blue Jackets,Anaheim Ducks,D,15:24,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,11:35,0:00,3:49
+2018020209,8474062,Riley Nash,Columbus Blue Jackets,Anaheim Ducks,C,9:53,0,0,2,0,0,0,0,66.67,2,3,1,1,0,0,0,0,7:57,0:08,1:48
+2018020209,8477495,Seth Jones,Columbus Blue Jackets,Anaheim Ducks,D,30:14,2,0,2,3,0,0,0,NA,0,0,0,2,0,0,3,0,20:27,6:05,3:42
+2018020209,8478550,Artemi Panarin,Columbus Blue Jackets,Anaheim Ducks,LW,22:44,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,0,-1,16:39,6:05,0:00
+2018020209,8479400,Pierre-Luc Dubois,Columbus Blue Jackets,Anaheim Ducks,C,22:36,0,2,3,0,0,0,6,46.15,6,13,1,0,0,0,2,1,16:31,6:05,0:00
+2018020209,8471273,Brandon Dubinsky,Columbus Blue Jackets,Anaheim Ducks,C,14:45,1,0,4,2,0,0,0,70,7,10,0,1,0,0,1,1,11:30,0:08,3:07
+2018020209,8478541,Markus Hannikainen,Columbus Blue Jackets,Anaheim Ducks,LW,8:26,0,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,0,7:37,0:08,0:41
+2018020209,8478460,Zach Werenski,Columbus Blue Jackets,Anaheim Ducks,D,25:37,0,0,3,1,0,0,0,NA,0,0,0,1,0,0,2,0,23:18,2:19,0:00

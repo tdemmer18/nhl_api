@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020268,8471716,Justin Abdelkader,Detroit Red Wings,LW,15:37,1,0,2,0,0,0,0,75,3,4,0,0,0,0,0,2,11:47,0:00,3:50
-2018020268,8474679,Gustav Nyquist,Detroit Red Wings,RW,14:45,0,0,1,0,0,0,0,NA,0,0,2,1,0,0,0,1,11:22,3:23,0:00
-2018020268,8476924,Martin Frk,Detroit Red Wings,RW,10:58,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,-1,9:04,1:54,0:00
-2018020268,8477946,Dylan Larkin,Detroit Red Wings,C,20:11,1,0,0,1,0,1,0,52.63,10,19,1,1,0,0,0,0,14:53,3:04,2:14
-2018020268,8470110,Trevor Daley,Detroit Red Wings,D,20:58,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,3,3,14:43,0:00,6:15
-2018020268,8471794,Darren Helm,Detroit Red Wings,LW,13:54,1,0,0,2,0,0,2,NA,0,0,1,2,0,0,3,1,13:13,0:00,0:41
-2018020268,8470144,Frans Nielsen,Detroit Red Wings,C,15:48,2,0,3,0,0,0,0,45,9,20,0,1,0,0,0,3,10:16,2:18,3:14
-2018020268,8475324,Nick Jensen,Detroit Red Wings,D,19:50,1,0,1,0,0,0,0,NA,0,0,0,1,0,0,5,1,15:49,0:00,4:01
-2018020268,8476822,Luke Glendening,Detroit Red Wings,C,18:07,0,1,1,2,0,0,0,53.33,8,15,0,2,0,0,2,2,13:12,0:00,4:55
-2018020268,8476960,Andreas Athanasiou,Detroit Red Wings,C,14:42,1,1,5,0,0,0,2,0,0,1,1,0,0,0,0,3,12:08,2:34,0:00
-2018020268,8477479,Tyler Bertuzzi,Detroit Red Wings,LW,13:12,1,0,0,0,0,0,0,NA,0,0,0,2,0,0,1,1,10:57,2:15,0:00
-2018020268,8477215,Danny DeKeyser,Detroit Red Wings,D,18:59,1,0,1,0,0,0,4,NA,0,0,0,1,0,0,2,2,16:25,0:00,2:34
-2018020268,8477511,Anthony Mantha,Detroit Red Wings,RW,12:55,0,1,2,0,0,0,2,NA,0,0,0,2,0,0,0,1,10:43,2:12,0:00
-2018020268,8471242,Mike Green,Detroit Red Wings,D,20:04,2,1,2,0,0,1,0,NA,0,0,1,2,0,0,0,2,16:44,2:50,0:30
-2018020268,8475263,Wade Megan,Detroit Red Wings,C,8:37,0,0,2,0,0,0,0,72.73,8,11,0,2,0,0,0,-1,8:37,0:00,0:00
-2018020268,8479992,Michael Rasmussen,Detroit Red Wings,C,13:29,0,1,1,1,1,0,2,NA,0,0,1,0,0,0,1,-1,9:53,3:26,0:10
-2018020268,8479395,Dennis Cholowski,Detroit Red Wings,D,17:43,0,1,1,0,0,0,0,NA,0,0,0,0,0,0,1,0,13:29,4:14,0:00
-2018020268,8468509,Niklas Kronwall,Detroit Red Wings,D,18:11,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,1,1,15:09,0:00,3:02
-2018020268,8471769,Niklas Hjalmarsson,Arizona Coyotes,D,19:32,0,0,0,1,0,0,0,NA,0,0,0,2,0,0,0,1,15:09,0:00,4:23
-2018020268,8474613,Derek Stepan,Arizona Coyotes,C,20:51,0,0,2,0,0,0,0,37.5,9,24,0,0,0,0,1,0,12:51,5:25,2:35
-2018020268,8475209,Richard Panik,Arizona Coyotes,RW,14:48,0,0,0,1,0,0,2,0,0,1,2,0,0,0,0,-4,10:53,2:54,1:01
-2018020268,8477943,Brendan Perlini,Arizona Coyotes,LW,16:17,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,0,0,11:02,5:15,0:00
-2018020268,8470755,Brad Richardson,Arizona Coyotes,C,11:45,0,0,1,3,0,0,4,69.23,9,13,0,1,0,0,2,-1,10:32,0:02,1:11
-2018020268,8474218,Jason Demers,Arizona Coyotes,D,17:58,0,0,1,0,0,0,0,NA,0,0,1,1,0,0,0,-3,15:51,0:00,2:07
-2018020268,8473546,Michael Grabner,Arizona Coyotes,RW,13:40,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,1,-1,11:18,0:02,2:20
-2018020268,8477851,Jordan Oesterle,Arizona Coyotes,D,16:25,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,2,-1,15:11,1:14,0:00
-2018020268,8476994,Vinnie Hinostroza,Arizona Coyotes,C,13:06,1,0,2,0,0,0,0,0,0,1,0,1,0,0,1,-2,10:56,2:10,0:00
-2018020268,8476851,Alex Galchenyuk,Arizona Coyotes,C,16:48,0,0,4,1,0,0,0,53.33,8,15,0,0,0,0,1,-2,11:23,5:25,0:00
-2018020268,8475246,Kevin Connauton,Arizona Coyotes,D,17:08,0,0,0,4,0,0,0,NA,0,0,0,0,0,0,0,0,13:37,0:00,3:31
-2018020268,8478474,Lawson Crouse,Arizona Coyotes,LW,12:26,0,1,2,2,0,0,0,NA,0,0,0,0,0,0,0,0,10:24,0:00,2:02
-2018020268,8479345,Jakob Chychrun,Arizona Coyotes,D,20:39,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,1,-2,18:07,2:32,0:00
-2018020268,8478440,Dylan Strome,Arizona Coyotes,C,14:32,1,0,0,0,0,0,0,40,6,15,0,0,0,0,1,-1,11:48,2:44,0:00
-2018020268,8478432,Christian Fischer,Arizona Coyotes,RW,11:09,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,0,-1,9:37,1:32,0:00
-2018020268,8479343,Clayton Keller,Arizona Coyotes,C,20:57,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,0,-1,14:03,6:13,0:41
-2018020268,8475171,Oliver Ekman-Larsson,Arizona Coyotes,D,21:11,0,0,2,2,0,0,4,NA,0,0,0,1,0,0,0,-2,14:31,5:25,1:15
-2018020268,8476393,Nick Cousins,Arizona Coyotes,C,11:13,0,0,1,1,0,0,0,0,0,1,0,0,0,0,2,0,11:11,0:02,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020268,8471716,Justin Abdelkader,Detroit Red Wings,Arizona Coyotes,LW,15:37,1,0,2,0,0,0,0,75,3,4,0,0,0,0,0,2,11:47,0:00,3:50
+2018020268,8474679,Gustav Nyquist,Detroit Red Wings,Arizona Coyotes,RW,14:45,0,0,1,0,0,0,0,NA,0,0,2,1,0,0,0,1,11:22,3:23,0:00
+2018020268,8476924,Martin Frk,Detroit Red Wings,Arizona Coyotes,RW,10:58,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,-1,9:04,1:54,0:00
+2018020268,8477946,Dylan Larkin,Detroit Red Wings,Arizona Coyotes,C,20:11,1,0,0,1,0,1,0,52.63,10,19,1,1,0,0,0,0,14:53,3:04,2:14
+2018020268,8470110,Trevor Daley,Detroit Red Wings,Arizona Coyotes,D,20:58,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,3,3,14:43,0:00,6:15
+2018020268,8471794,Darren Helm,Detroit Red Wings,Arizona Coyotes,LW,13:54,1,0,0,2,0,0,2,NA,0,0,1,2,0,0,3,1,13:13,0:00,0:41
+2018020268,8470144,Frans Nielsen,Detroit Red Wings,Arizona Coyotes,C,15:48,2,0,3,0,0,0,0,45,9,20,0,1,0,0,0,3,10:16,2:18,3:14
+2018020268,8475324,Nick Jensen,Detroit Red Wings,Arizona Coyotes,D,19:50,1,0,1,0,0,0,0,NA,0,0,0,1,0,0,5,1,15:49,0:00,4:01
+2018020268,8476822,Luke Glendening,Detroit Red Wings,Arizona Coyotes,C,18:07,0,1,1,2,0,0,0,53.33,8,15,0,2,0,0,2,2,13:12,0:00,4:55
+2018020268,8476960,Andreas Athanasiou,Detroit Red Wings,Arizona Coyotes,C,14:42,1,1,5,0,0,0,2,0,0,1,1,0,0,0,0,3,12:08,2:34,0:00
+2018020268,8477479,Tyler Bertuzzi,Detroit Red Wings,Arizona Coyotes,LW,13:12,1,0,0,0,0,0,0,NA,0,0,0,2,0,0,1,1,10:57,2:15,0:00
+2018020268,8477215,Danny DeKeyser,Detroit Red Wings,Arizona Coyotes,D,18:59,1,0,1,0,0,0,4,NA,0,0,0,1,0,0,2,2,16:25,0:00,2:34
+2018020268,8477511,Anthony Mantha,Detroit Red Wings,Arizona Coyotes,RW,12:55,0,1,2,0,0,0,2,NA,0,0,0,2,0,0,0,1,10:43,2:12,0:00
+2018020268,8471242,Mike Green,Detroit Red Wings,Arizona Coyotes,D,20:04,2,1,2,0,0,1,0,NA,0,0,1,2,0,0,0,2,16:44,2:50,0:30
+2018020268,8475263,Wade Megan,Detroit Red Wings,Arizona Coyotes,C,8:37,0,0,2,0,0,0,0,72.73,8,11,0,2,0,0,0,-1,8:37,0:00,0:00
+2018020268,8479992,Michael Rasmussen,Detroit Red Wings,Arizona Coyotes,C,13:29,0,1,1,1,1,0,2,NA,0,0,1,0,0,0,1,-1,9:53,3:26,0:10
+2018020268,8479395,Dennis Cholowski,Detroit Red Wings,Arizona Coyotes,D,17:43,0,1,1,0,0,0,0,NA,0,0,0,0,0,0,1,0,13:29,4:14,0:00
+2018020268,8468509,Niklas Kronwall,Detroit Red Wings,Arizona Coyotes,D,18:11,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,1,1,15:09,0:00,3:02
+2018020268,8471769,Niklas Hjalmarsson,Arizona Coyotes,Detroit Red Wings,D,19:32,0,0,0,1,0,0,0,NA,0,0,0,2,0,0,0,1,15:09,0:00,4:23
+2018020268,8474613,Derek Stepan,Arizona Coyotes,Detroit Red Wings,C,20:51,0,0,2,0,0,0,0,37.5,9,24,0,0,0,0,1,0,12:51,5:25,2:35
+2018020268,8475209,Richard Panik,Arizona Coyotes,Detroit Red Wings,RW,14:48,0,0,0,1,0,0,2,0,0,1,2,0,0,0,0,-4,10:53,2:54,1:01
+2018020268,8477943,Brendan Perlini,Arizona Coyotes,Detroit Red Wings,LW,16:17,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,0,0,11:02,5:15,0:00
+2018020268,8470755,Brad Richardson,Arizona Coyotes,Detroit Red Wings,C,11:45,0,0,1,3,0,0,4,69.23,9,13,0,1,0,0,2,-1,10:32,0:02,1:11
+2018020268,8474218,Jason Demers,Arizona Coyotes,Detroit Red Wings,D,17:58,0,0,1,0,0,0,0,NA,0,0,1,1,0,0,0,-3,15:51,0:00,2:07
+2018020268,8473546,Michael Grabner,Arizona Coyotes,Detroit Red Wings,RW,13:40,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,1,-1,11:18,0:02,2:20
+2018020268,8477851,Jordan Oesterle,Arizona Coyotes,Detroit Red Wings,D,16:25,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,2,-1,15:11,1:14,0:00
+2018020268,8476994,Vinnie Hinostroza,Arizona Coyotes,Detroit Red Wings,C,13:06,1,0,2,0,0,0,0,0,0,1,0,1,0,0,1,-2,10:56,2:10,0:00
+2018020268,8476851,Alex Galchenyuk,Arizona Coyotes,Detroit Red Wings,C,16:48,0,0,4,1,0,0,0,53.33,8,15,0,0,0,0,1,-2,11:23,5:25,0:00
+2018020268,8475246,Kevin Connauton,Arizona Coyotes,Detroit Red Wings,D,17:08,0,0,0,4,0,0,0,NA,0,0,0,0,0,0,0,0,13:37,0:00,3:31
+2018020268,8478474,Lawson Crouse,Arizona Coyotes,Detroit Red Wings,LW,12:26,0,1,2,2,0,0,0,NA,0,0,0,0,0,0,0,0,10:24,0:00,2:02
+2018020268,8479345,Jakob Chychrun,Arizona Coyotes,Detroit Red Wings,D,20:39,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,1,-2,18:07,2:32,0:00
+2018020268,8478440,Dylan Strome,Arizona Coyotes,Detroit Red Wings,C,14:32,1,0,0,0,0,0,0,40,6,15,0,0,0,0,1,-1,11:48,2:44,0:00
+2018020268,8478432,Christian Fischer,Arizona Coyotes,Detroit Red Wings,RW,11:09,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,0,-1,9:37,1:32,0:00
+2018020268,8479343,Clayton Keller,Arizona Coyotes,Detroit Red Wings,C,20:57,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,0,-1,14:03,6:13,0:41
+2018020268,8475171,Oliver Ekman-Larsson,Arizona Coyotes,Detroit Red Wings,D,21:11,0,0,2,2,0,0,4,NA,0,0,0,1,0,0,0,-2,14:31,5:25,1:15
+2018020268,8476393,Nick Cousins,Arizona Coyotes,Detroit Red Wings,C,11:13,0,0,1,1,0,0,0,0,0,1,0,0,0,0,2,0,11:11,0:02,0:00

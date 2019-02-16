@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020001,8478408,Travis Dermott,Toronto Maple Leafs,D,17:58,1,0,1,3,0,0,0,0,0,1,2,0,0,0,1,15:44,0:00,2:14,NA
-2018020001,8468493,Ron Hainsey,Toronto Maple Leafs,D,20:08,0,0,1,1,0,0,2,0,0,0,2,0,0,2,0,16:24,0:05,3:39,NA
-2018020001,8475786,Zach Hyman,Toronto Maple Leafs,C,14:55,0,0,2,2,0,0,2,2,4,0,0,0,0,2,0,11:51,0:05,2:59,50
-2018020001,8476853,Morgan Rielly,Toronto Maple Leafs,D,20:06,1,0,1,0,0,1,0,0,0,0,2,0,0,1,-1,17:15,2:51,0:00,NA
-2018020001,8477953,Kasperi Kapanen,Toronto Maple Leafs,RW,11:04,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,8:47,0:05,2:12,NA
-2018020001,8474589,Tyler Ennis,Toronto Maple Leafs,C,15:55,0,0,2,1,0,0,0,0,0,0,2,0,0,1,-1,14:31,1:24,0:00,NA
-2018020001,8479318,Auston Matthews,Toronto Maple Leafs,C,17:29,0,2,3,0,1,0,0,9,14,1,1,0,0,3,0,14:08,3:21,0:00,64.29
-2018020001,8479458,Nikita Zaitsev,Toronto Maple Leafs,D,22:47,0,0,1,1,0,0,0,0,0,0,2,0,0,1,0,17:40,0:05,5:02,NA
-2018020001,8477015,Connor Brown,Toronto Maple Leafs,RW,16:57,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,13:23,0:00,3:34,NA
-2018020001,8475166,John Tavares,Toronto Maple Leafs,C,18:04,0,1,5,0,0,0,0,11,21,0,3,0,0,3,1,13:55,3:29,0:40,52.38
-2018020001,8476410,Josh Leivo,Toronto Maple Leafs,LW,11:49,0,0,1,1,0,0,0,0,2,0,0,0,0,2,1,10:17,1:32,0:00,0
-2018020001,8480943,Igor Ozhiganov,Toronto Maple Leafs,D,13:01,0,0,0,3,0,0,2,0,0,0,0,0,0,1,0,12:16,0:00,0:45,NA
-2018020001,8480944,Par Lindholm,Toronto Maple Leafs,C,12:03,0,0,1,2,0,0,0,5,9,0,0,0,0,2,0,9:39,0:05,2:19,55.56
-2018020001,8477341,Andreas Johnsson,Toronto Maple Leafs,LW,8:26,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,6:52,1:34,0:00,100
-2018020001,8474581,Jake Gardiner,Toronto Maple Leafs,D,22:29,1,0,0,2,0,0,0,0,0,0,3,0,0,1,1,19:15,2:02,1:12,NA
-2018020001,8478483,Mitchell Marner,Toronto Maple Leafs,C,18:35,0,0,0,1,0,0,0,0,0,2,1,0,0,0,1,13:58,3:29,1:08,NA
-2018020001,8475172,Nazem Kadri,Toronto Maple Leafs,C,17:03,2,0,2,0,0,1,0,9,12,0,1,0,0,0,0,13:44,3:19,0:00,75
-2018020001,8466139,Patrick Marleau,Toronto Maple Leafs,C,16:51,1,0,3,0,0,0,0,0,0,0,0,0,0,4,0,15:27,1:24,0:00,NA
-2018020001,8473507,Jeff Petry,Montréal Canadiens,D,23:57,0,0,3,3,0,0,0,0,0,2,1,0,0,1,-1,18:25,4:10,1:22,NA
-2018020001,8474818,Jordie Benn,Montréal Canadiens,D,14:53,0,0,1,3,0,0,0,0,0,0,0,0,0,1,0,13:26,0:00,1:27,NA
-2018020001,8480829,Jesperi Kotkaniemi,Montréal Canadiens,C,15:05,1,0,2,0,0,1,0,1,7,0,0,0,0,0,0,12:33,2:32,0:00,14.29
-2018020001,8474038,Paul Byron,Montréal Canadiens,LW,14:43,1,0,2,3,0,0,0,0,1,0,0,0,0,1,1,13:08,0:30,1:05,0
-2018020001,8475848,Brendan Gallagher,Montréal Canadiens,RW,16:22,0,0,5,1,0,0,0,3,4,0,1,0,0,1,0,12:43,3:39,0:00,75
-2018020001,8476948,Charles Hudon,Montréal Canadiens,LW,10:27,0,0,1,2,0,0,0,0,0,1,0,0,0,0,-1,10:27,0:00,0:00,NA
-2018020001,8477503,Max Domi,Montréal Canadiens,LW,16:49,2,0,2,1,0,1,2,5,13,0,1,0,0,2,0,13:47,3:02,0:00,38.46
-2018020001,8476479,Phillip Danault,Montréal Canadiens,C,16:19,0,0,3,1,0,0,0,12,24,2,1,0,0,2,0,13:44,0:00,2:35,50
-2018020001,8476469,Joel Armia,Montréal Canadiens,RW,18:50,0,0,4,5,0,0,0,2,3,0,0,0,0,1,0,13:15,3:46,1:49,66.67
-2018020001,8476443,Xavier Ouellet,Montréal Canadiens,D,14:35,0,0,0,2,0,0,0,0,0,0,1,0,0,0,-1,13:50,0:04,0:41,NA
-2018020001,8477476,Artturi Lehkonen,Montréal Canadiens,LW,16:38,0,1,3,1,0,0,2,0,0,0,0,0,0,1,0,14:14,1:43,0:41,NA
-2018020001,8476422,Mike Reilly,Montréal Canadiens,D,21:00,0,0,3,2,0,0,0,0,0,0,1,0,0,0,1,18:28,0:15,2:17,NA
-2018020001,8476285,Matthew Peca,Montréal Canadiens,C,10:58,0,0,0,1,0,0,0,0,4,0,1,0,0,2,-1,9:03,0:00,1:55,0
-2018020001,8477494,Jonathan Drouin,Montréal Canadiens,C,17:21,0,0,2,2,0,0,2,3,5,0,1,0,0,0,0,13:07,4:09,0:05,60
-2018020001,8478454,Noah Juulsen,Montréal Canadiens,D,19:52,0,0,0,3,0,0,0,0,0,0,2,0,0,2,1,16:57,0:00,2:55,NA
-2018020001,8479376,Victor Mete,Montréal Canadiens,D,20:08,0,0,0,1,0,0,0,0,0,0,0,0,0,1,-1,16:48,2:06,1:14,NA
-2018020001,8476381,Andrew Shaw,Montréal Canadiens,RW,12:03,0,1,3,1,1,0,0,0,2,0,0,0,0,1,-1,7:36,2:41,1:46,0
-2018020001,8475193,Tomas Tatar,Montréal Canadiens,LW,17:08,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,13:35,3:33,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020001,8478408,Travis Dermott,Toronto Maple Leafs,Montréal Canadiens,D,17:58,1,0,1,3,0,0,0,0,0,1,2,0,0,0,1,15:44,0:00,2:14,NA
+2018020001,8468493,Ron Hainsey,Toronto Maple Leafs,Montréal Canadiens,D,20:08,0,0,1,1,0,0,2,0,0,0,2,0,0,2,0,16:24,0:05,3:39,NA
+2018020001,8475786,Zach Hyman,Toronto Maple Leafs,Montréal Canadiens,C,14:55,0,0,2,2,0,0,2,2,4,0,0,0,0,2,0,11:51,0:05,2:59,50
+2018020001,8476853,Morgan Rielly,Toronto Maple Leafs,Montréal Canadiens,D,20:06,1,0,1,0,0,1,0,0,0,0,2,0,0,1,-1,17:15,2:51,0:00,NA
+2018020001,8477953,Kasperi Kapanen,Toronto Maple Leafs,Montréal Canadiens,RW,11:04,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,8:47,0:05,2:12,NA
+2018020001,8474589,Tyler Ennis,Toronto Maple Leafs,Montréal Canadiens,C,15:55,0,0,2,1,0,0,0,0,0,0,2,0,0,1,-1,14:31,1:24,0:00,NA
+2018020001,8479318,Auston Matthews,Toronto Maple Leafs,Montréal Canadiens,C,17:29,0,2,3,0,1,0,0,9,14,1,1,0,0,3,0,14:08,3:21,0:00,64.29
+2018020001,8479458,Nikita Zaitsev,Toronto Maple Leafs,Montréal Canadiens,D,22:47,0,0,1,1,0,0,0,0,0,0,2,0,0,1,0,17:40,0:05,5:02,NA
+2018020001,8477015,Connor Brown,Toronto Maple Leafs,Montréal Canadiens,RW,16:57,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,13:23,0:00,3:34,NA
+2018020001,8475166,John Tavares,Toronto Maple Leafs,Montréal Canadiens,C,18:04,0,1,5,0,0,0,0,11,21,0,3,0,0,3,1,13:55,3:29,0:40,52.38
+2018020001,8476410,Josh Leivo,Toronto Maple Leafs,Montréal Canadiens,LW,11:49,0,0,1,1,0,0,0,0,2,0,0,0,0,2,1,10:17,1:32,0:00,0
+2018020001,8480943,Igor Ozhiganov,Toronto Maple Leafs,Montréal Canadiens,D,13:01,0,0,0,3,0,0,2,0,0,0,0,0,0,1,0,12:16,0:00,0:45,NA
+2018020001,8480944,Par Lindholm,Toronto Maple Leafs,Montréal Canadiens,C,12:03,0,0,1,2,0,0,0,5,9,0,0,0,0,2,0,9:39,0:05,2:19,55.56
+2018020001,8477341,Andreas Johnsson,Toronto Maple Leafs,Montréal Canadiens,LW,8:26,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,6:52,1:34,0:00,100
+2018020001,8474581,Jake Gardiner,Toronto Maple Leafs,Montréal Canadiens,D,22:29,1,0,0,2,0,0,0,0,0,0,3,0,0,1,1,19:15,2:02,1:12,NA
+2018020001,8478483,Mitchell Marner,Toronto Maple Leafs,Montréal Canadiens,C,18:35,0,0,0,1,0,0,0,0,0,2,1,0,0,0,1,13:58,3:29,1:08,NA
+2018020001,8475172,Nazem Kadri,Toronto Maple Leafs,Montréal Canadiens,C,17:03,2,0,2,0,0,1,0,9,12,0,1,0,0,0,0,13:44,3:19,0:00,75
+2018020001,8466139,Patrick Marleau,Toronto Maple Leafs,Montréal Canadiens,C,16:51,1,0,3,0,0,0,0,0,0,0,0,0,0,4,0,15:27,1:24,0:00,NA
+2018020001,8473507,Jeff Petry,Montréal Canadiens,Toronto Maple Leafs,D,23:57,0,0,3,3,0,0,0,0,0,2,1,0,0,1,-1,18:25,4:10,1:22,NA
+2018020001,8474818,Jordie Benn,Montréal Canadiens,Toronto Maple Leafs,D,14:53,0,0,1,3,0,0,0,0,0,0,0,0,0,1,0,13:26,0:00,1:27,NA
+2018020001,8480829,Jesperi Kotkaniemi,Montréal Canadiens,Toronto Maple Leafs,C,15:05,1,0,2,0,0,1,0,1,7,0,0,0,0,0,0,12:33,2:32,0:00,14.29
+2018020001,8474038,Paul Byron,Montréal Canadiens,Toronto Maple Leafs,LW,14:43,1,0,2,3,0,0,0,0,1,0,0,0,0,1,1,13:08,0:30,1:05,0
+2018020001,8475848,Brendan Gallagher,Montréal Canadiens,Toronto Maple Leafs,RW,16:22,0,0,5,1,0,0,0,3,4,0,1,0,0,1,0,12:43,3:39,0:00,75
+2018020001,8476948,Charles Hudon,Montréal Canadiens,Toronto Maple Leafs,LW,10:27,0,0,1,2,0,0,0,0,0,1,0,0,0,0,-1,10:27,0:00,0:00,NA
+2018020001,8477503,Max Domi,Montréal Canadiens,Toronto Maple Leafs,LW,16:49,2,0,2,1,0,1,2,5,13,0,1,0,0,2,0,13:47,3:02,0:00,38.46
+2018020001,8476479,Phillip Danault,Montréal Canadiens,Toronto Maple Leafs,C,16:19,0,0,3,1,0,0,0,12,24,2,1,0,0,2,0,13:44,0:00,2:35,50
+2018020001,8476469,Joel Armia,Montréal Canadiens,Toronto Maple Leafs,RW,18:50,0,0,4,5,0,0,0,2,3,0,0,0,0,1,0,13:15,3:46,1:49,66.67
+2018020001,8476443,Xavier Ouellet,Montréal Canadiens,Toronto Maple Leafs,D,14:35,0,0,0,2,0,0,0,0,0,0,1,0,0,0,-1,13:50,0:04,0:41,NA
+2018020001,8477476,Artturi Lehkonen,Montréal Canadiens,Toronto Maple Leafs,LW,16:38,0,1,3,1,0,0,2,0,0,0,0,0,0,1,0,14:14,1:43,0:41,NA
+2018020001,8476422,Mike Reilly,Montréal Canadiens,Toronto Maple Leafs,D,21:00,0,0,3,2,0,0,0,0,0,0,1,0,0,0,1,18:28,0:15,2:17,NA
+2018020001,8476285,Matthew Peca,Montréal Canadiens,Toronto Maple Leafs,C,10:58,0,0,0,1,0,0,0,0,4,0,1,0,0,2,-1,9:03,0:00,1:55,0
+2018020001,8477494,Jonathan Drouin,Montréal Canadiens,Toronto Maple Leafs,C,17:21,0,0,2,2,0,0,2,3,5,0,1,0,0,0,0,13:07,4:09,0:05,60
+2018020001,8478454,Noah Juulsen,Montréal Canadiens,Toronto Maple Leafs,D,19:52,0,0,0,3,0,0,0,0,0,0,2,0,0,2,1,16:57,0:00,2:55,NA
+2018020001,8479376,Victor Mete,Montréal Canadiens,Toronto Maple Leafs,D,20:08,0,0,0,1,0,0,0,0,0,0,0,0,0,1,-1,16:48,2:06,1:14,NA
+2018020001,8476381,Andrew Shaw,Montréal Canadiens,Toronto Maple Leafs,RW,12:03,0,1,3,1,1,0,0,0,2,0,0,0,0,1,-1,7:36,2:41,1:46,0
+2018020001,8475193,Tomas Tatar,Montréal Canadiens,Toronto Maple Leafs,LW,17:08,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,13:35,3:33,0:00,NA

@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020117,8470616,Ryan Kesler,Anaheim Ducks,C,16:49,0,0,2,0,0,0,5,59.09,13,22,0,0,0,0,0,-2,11:28,2:34,2:47
-2018020117,8480031,Max Comtois,Anaheim Ducks,LW,11:53,1,0,1,3,0,0,0,NA,0,0,0,0,0,0,0,1,10:35,1:18,0:00
-2018020117,8476857,Pontus Aberg,Anaheim Ducks,LW,14:21,0,0,3,1,0,0,0,NA,0,0,0,1,0,0,0,0,12:55,1:26,0:00
-2018020117,8477969,Marcus Pettersson,Anaheim Ducks,D,12:45,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,1,0,12:01,0:08,0:36
-2018020117,8475764,Cam Fowler,Anaheim Ducks,D,23:45,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,0,18:26,2:34,2:45
-2018020117,8470612,Ryan Getzlaf,Anaheim Ducks,C,18:42,0,0,2,1,0,0,4,46.15,6,13,1,0,0,0,0,-1,15:39,2:57,0:06
-2018020117,8477986,Brandon Montour,Anaheim Ducks,D,22:13,2,0,2,0,0,0,0,NA,0,0,1,1,0,0,1,0,17:34,1:03,3:36
-2018020117,8476854,Hampus Lindholm,Anaheim Ducks,D,23:01,0,0,1,1,0,0,0,NA,0,0,0,2,0,0,1,0,17:24,1:18,4:19
-2018020117,8477205,Andrej Sustr,Anaheim Ducks,D,12:19,0,0,0,2,0,0,2,NA,0,0,0,0,0,0,4,0,12:19,0:00,0:00
-2018020117,8471699,Andrew Cogliano,Anaheim Ducks,LW,13:03,0,0,2,0,0,0,0,100,1,1,0,0,0,0,0,-1,10:48,0:00,2:15
-2018020117,8476207,Brian Gibbons,Anaheim Ducks,C,14:20,0,0,2,1,0,0,0,NA,0,0,0,1,0,0,2,-1,12:21,0:00,1:59
-2018020117,8476312,Josh Manson,Anaheim Ducks,D,23:08,0,0,0,0,0,0,0,NA,0,0,1,1,0,0,0,0,18:56,0:08,4:04
-2018020117,8474641,Adam Henrique,Anaheim Ducks,C,15:03,0,0,1,0,0,0,0,50,4,8,0,0,0,0,0,-1,11:13,2:04,1:46
-2018020117,8480748,Kiefer Sherwood,Anaheim Ducks,RW,11:31,0,1,2,0,0,0,0,NA,0,0,0,1,0,0,0,1,11:31,0:00,0:00
-2018020117,8476043,Ben Street,Anaheim Ducks,C,15:05,0,0,1,1,0,0,0,100,2,2,0,1,0,0,0,0,10:49,0:08,4:08
-2018020117,8476483,Rickard Rakell,Anaheim Ducks,C,15:38,1,0,5,0,0,0,0,NA,0,0,0,1,0,0,1,0,12:49,2:49,0:00
-2018020117,8480806,Isac Lundestrom,Anaheim Ducks,C,15:33,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,1,1,13:14,0:00,2:19
-2018020117,8479351,Sam Steel,Anaheim Ducks,C,14:28,0,1,2,0,0,0,2,33.33,3,9,1,0,0,0,0,2,12:55,1:33,0:00
-2018020117,8469506,Jason Pominville,Buffalo Sabres,RW,20:33,1,0,2,1,0,0,0,100,1,1,0,0,0,0,0,1,15:23,5:10,0:00
-2018020117,8475728,Johan Larsson,Buffalo Sabres,C,13:51,0,0,2,0,0,0,0,36.36,4,11,0,0,0,0,1,1,10:41,0:00,3:10
-2018020117,8474618,Marco Scandella,Buffalo Sabres,D,18:19,0,0,3,1,0,0,0,NA,0,0,0,1,0,0,0,1,16:54,0:00,1:25
-2018020117,8473534,Patrik Berglund,Buffalo Sabres,C,10:37,0,1,2,0,0,0,0,NA,0,0,0,0,0,0,0,1,10:37,0:00,0:00
-2018020117,8477839,Conor Sheary,Buffalo Sabres,LW,15:14,0,0,2,1,0,0,2,NA,0,0,0,1,0,0,0,0,13:07,2:07,0:00
-2018020117,8476931,Jake McCabe,Buffalo Sabres,D,21:10,0,0,1,3,0,0,0,NA,0,0,0,0,0,0,2,0,18:08,0:27,2:35
-2018020117,8473449,Kyle Okposo,Buffalo Sabres,RW,11:09,1,1,2,0,1,1,0,50,1,2,0,0,0,0,0,-2,9:29,1:40,0:00
-2018020117,8474567,Zach Bogosian,Buffalo Sabres,D,15:04,1,0,1,0,0,0,5,NA,0,0,1,2,0,0,2,1,13:39,0:00,1:25
-2018020117,8479999,Casey Mittelstadt,Buffalo Sabres,C,14:44,0,0,3,0,0,0,0,66.67,2,3,0,1,0,0,0,-2,9:32,5:12,0:00
-2018020117,8471743,Vladimir Sobotka,Buffalo Sabres,C,14:12,0,0,0,0,0,0,0,54.55,6,11,0,0,0,0,0,0,13:22,0:00,0:50
-2018020117,8477933,Sam Reinhart,Buffalo Sabres,C,14:56,2,0,3,0,0,2,0,100,1,1,0,0,0,0,1,0,12:26,2:30,0:00
-2018020117,8476878,Zemgus Girgensons,Buffalo Sabres,C,13:55,1,0,2,1,0,0,0,NA,0,0,1,0,0,0,0,1,10:37,0:00,3:18
-2018020117,8477499,Rasmus Ristolainen,Buffalo Sabres,D,24:07,0,1,5,5,1,0,0,NA,0,0,1,1,0,0,0,-1,19:04,2:28,2:35
-2018020117,8478403,Jack Eichel,Buffalo Sabres,C,21:26,1,0,5,0,0,0,0,35.29,6,17,0,0,0,0,0,1,15:21,6:05,0:00
-2018020117,8475784,Jeff Skinner,Buffalo Sabres,C,20:33,0,1,6,0,0,0,0,75,3,4,2,0,0,0,0,1,15:00,5:33,0:00
-2018020117,8479268,Casey Nelson,Buffalo Sabres,D,14:22,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,1,0,14:22,0:00,0:00
-2018020117,8478542,Evan Rodrigues,Buffalo Sabres,LW,11:59,1,0,2,0,0,1,0,40,2,5,0,1,0,0,0,-2,9:42,1:35,0:42
-2018020117,8480839,Rasmus Dahlin,Buffalo Sabres,D,20:12,0,0,3,3,0,0,2,NA,0,0,0,0,0,0,0,-1,14:39,5:33,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020117,8470616,Ryan Kesler,Anaheim Ducks,Buffalo Sabres,C,16:49,0,0,2,0,0,0,5,59.09,13,22,0,0,0,0,0,-2,11:28,2:34,2:47
+2018020117,8480031,Max Comtois,Anaheim Ducks,Buffalo Sabres,LW,11:53,1,0,1,3,0,0,0,NA,0,0,0,0,0,0,0,1,10:35,1:18,0:00
+2018020117,8476857,Pontus Aberg,Anaheim Ducks,Buffalo Sabres,LW,14:21,0,0,3,1,0,0,0,NA,0,0,0,1,0,0,0,0,12:55,1:26,0:00
+2018020117,8477969,Marcus Pettersson,Anaheim Ducks,Buffalo Sabres,D,12:45,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,1,0,12:01,0:08,0:36
+2018020117,8475764,Cam Fowler,Anaheim Ducks,Buffalo Sabres,D,23:45,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,0,18:26,2:34,2:45
+2018020117,8470612,Ryan Getzlaf,Anaheim Ducks,Buffalo Sabres,C,18:42,0,0,2,1,0,0,4,46.15,6,13,1,0,0,0,0,-1,15:39,2:57,0:06
+2018020117,8477986,Brandon Montour,Anaheim Ducks,Buffalo Sabres,D,22:13,2,0,2,0,0,0,0,NA,0,0,1,1,0,0,1,0,17:34,1:03,3:36
+2018020117,8476854,Hampus Lindholm,Anaheim Ducks,Buffalo Sabres,D,23:01,0,0,1,1,0,0,0,NA,0,0,0,2,0,0,1,0,17:24,1:18,4:19
+2018020117,8477205,Andrej Sustr,Anaheim Ducks,Buffalo Sabres,D,12:19,0,0,0,2,0,0,2,NA,0,0,0,0,0,0,4,0,12:19,0:00,0:00
+2018020117,8471699,Andrew Cogliano,Anaheim Ducks,Buffalo Sabres,LW,13:03,0,0,2,0,0,0,0,100,1,1,0,0,0,0,0,-1,10:48,0:00,2:15
+2018020117,8476207,Brian Gibbons,Anaheim Ducks,Buffalo Sabres,C,14:20,0,0,2,1,0,0,0,NA,0,0,0,1,0,0,2,-1,12:21,0:00,1:59
+2018020117,8476312,Josh Manson,Anaheim Ducks,Buffalo Sabres,D,23:08,0,0,0,0,0,0,0,NA,0,0,1,1,0,0,0,0,18:56,0:08,4:04
+2018020117,8474641,Adam Henrique,Anaheim Ducks,Buffalo Sabres,C,15:03,0,0,1,0,0,0,0,50,4,8,0,0,0,0,0,-1,11:13,2:04,1:46
+2018020117,8480748,Kiefer Sherwood,Anaheim Ducks,Buffalo Sabres,RW,11:31,0,1,2,0,0,0,0,NA,0,0,0,1,0,0,0,1,11:31,0:00,0:00
+2018020117,8476043,Ben Street,Anaheim Ducks,Buffalo Sabres,C,15:05,0,0,1,1,0,0,0,100,2,2,0,1,0,0,0,0,10:49,0:08,4:08
+2018020117,8476483,Rickard Rakell,Anaheim Ducks,Buffalo Sabres,C,15:38,1,0,5,0,0,0,0,NA,0,0,0,1,0,0,1,0,12:49,2:49,0:00
+2018020117,8480806,Isac Lundestrom,Anaheim Ducks,Buffalo Sabres,C,15:33,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,1,1,13:14,0:00,2:19
+2018020117,8479351,Sam Steel,Anaheim Ducks,Buffalo Sabres,C,14:28,0,1,2,0,0,0,2,33.33,3,9,1,0,0,0,0,2,12:55,1:33,0:00
+2018020117,8469506,Jason Pominville,Buffalo Sabres,Anaheim Ducks,RW,20:33,1,0,2,1,0,0,0,100,1,1,0,0,0,0,0,1,15:23,5:10,0:00
+2018020117,8475728,Johan Larsson,Buffalo Sabres,Anaheim Ducks,C,13:51,0,0,2,0,0,0,0,36.36,4,11,0,0,0,0,1,1,10:41,0:00,3:10
+2018020117,8474618,Marco Scandella,Buffalo Sabres,Anaheim Ducks,D,18:19,0,0,3,1,0,0,0,NA,0,0,0,1,0,0,0,1,16:54,0:00,1:25
+2018020117,8473534,Patrik Berglund,Buffalo Sabres,Anaheim Ducks,C,10:37,0,1,2,0,0,0,0,NA,0,0,0,0,0,0,0,1,10:37,0:00,0:00
+2018020117,8477839,Conor Sheary,Buffalo Sabres,Anaheim Ducks,LW,15:14,0,0,2,1,0,0,2,NA,0,0,0,1,0,0,0,0,13:07,2:07,0:00
+2018020117,8476931,Jake McCabe,Buffalo Sabres,Anaheim Ducks,D,21:10,0,0,1,3,0,0,0,NA,0,0,0,0,0,0,2,0,18:08,0:27,2:35
+2018020117,8473449,Kyle Okposo,Buffalo Sabres,Anaheim Ducks,RW,11:09,1,1,2,0,1,1,0,50,1,2,0,0,0,0,0,-2,9:29,1:40,0:00
+2018020117,8474567,Zach Bogosian,Buffalo Sabres,Anaheim Ducks,D,15:04,1,0,1,0,0,0,5,NA,0,0,1,2,0,0,2,1,13:39,0:00,1:25
+2018020117,8479999,Casey Mittelstadt,Buffalo Sabres,Anaheim Ducks,C,14:44,0,0,3,0,0,0,0,66.67,2,3,0,1,0,0,0,-2,9:32,5:12,0:00
+2018020117,8471743,Vladimir Sobotka,Buffalo Sabres,Anaheim Ducks,C,14:12,0,0,0,0,0,0,0,54.55,6,11,0,0,0,0,0,0,13:22,0:00,0:50
+2018020117,8477933,Sam Reinhart,Buffalo Sabres,Anaheim Ducks,C,14:56,2,0,3,0,0,2,0,100,1,1,0,0,0,0,1,0,12:26,2:30,0:00
+2018020117,8476878,Zemgus Girgensons,Buffalo Sabres,Anaheim Ducks,C,13:55,1,0,2,1,0,0,0,NA,0,0,1,0,0,0,0,1,10:37,0:00,3:18
+2018020117,8477499,Rasmus Ristolainen,Buffalo Sabres,Anaheim Ducks,D,24:07,0,1,5,5,1,0,0,NA,0,0,1,1,0,0,0,-1,19:04,2:28,2:35
+2018020117,8478403,Jack Eichel,Buffalo Sabres,Anaheim Ducks,C,21:26,1,0,5,0,0,0,0,35.29,6,17,0,0,0,0,0,1,15:21,6:05,0:00
+2018020117,8475784,Jeff Skinner,Buffalo Sabres,Anaheim Ducks,C,20:33,0,1,6,0,0,0,0,75,3,4,2,0,0,0,0,1,15:00,5:33,0:00
+2018020117,8479268,Casey Nelson,Buffalo Sabres,Anaheim Ducks,D,14:22,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,1,0,14:22,0:00,0:00
+2018020117,8478542,Evan Rodrigues,Buffalo Sabres,Anaheim Ducks,LW,11:59,1,0,2,0,0,1,0,40,2,5,0,1,0,0,0,-2,9:42,1:35,0:42
+2018020117,8480839,Rasmus Dahlin,Buffalo Sabres,Anaheim Ducks,D,20:12,0,0,3,3,0,0,2,NA,0,0,0,0,0,0,0,-1,14:39,5:33,0:00

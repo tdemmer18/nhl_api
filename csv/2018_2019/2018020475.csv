@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020475,8474709,Matt Martin,New York Islanders,LW,12:28,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,12:28,0:00,0:00,NA
-2018020475,8476917,Adam Pelech,New York Islanders,D,13:59,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,13:59,0:00,0:00,NA
-2018020475,8477506,Ryan Pulock,New York Islanders,D,22:06,0,0,0,1,0,0,0,0,0,1,3,0,0,2,-1,21:46,0:20,0:00,NA
-2018020475,8476429,Scott Mayfield,New York Islanders,D,15:02,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,14:47,0:00,0:15,NA
-2018020475,8470047,Valtteri Filppula,New York Islanders,C,12:04,0,0,0,0,0,0,0,2,9,0,0,0,0,0,-1,11:11,0:38,0:15,22.22
-2018020475,8470187,Johnny Boychuk,New York Islanders,D,22:49,1,0,2,1,0,0,0,0,0,0,0,0,0,1,0,22:11,0:38,0:00,NA
-2018020475,8473504,Cal Clutterbuck,New York Islanders,RW,12:42,0,0,0,3,0,0,0,0,0,0,0,0,0,2,0,12:04,0:38,0:00,NA
-2018020475,8475314,Anders Lee,New York Islanders,LW,17:56,0,0,1,1,0,0,0,5,5,0,1,0,0,2,-1,16:34,1:22,0:00,100
-2018020475,8475754,Brock Nelson,New York Islanders,C,17:02,0,0,1,3,0,0,0,8,16,1,0,0,0,0,-1,16:24,0:38,0:00,50
-2018020475,8477527,Ross Johnston,New York Islanders,LW,9:55,0,0,1,2,0,0,0,0,0,0,1,0,0,0,-1,9:55,0:00,0:00,NA
-2018020475,8478445,Mathew Barzal,New York Islanders,C,20:30,2,0,3,1,0,0,0,4,8,2,2,0,0,0,2,19:08,1:22,0:00,50
-2018020475,8474573,Josh Bailey,New York Islanders,RW,20:54,0,0,3,0,0,0,0,0,1,1,3,0,0,0,2,19:32,1:22,0:00,0
-2018020475,8474586,Jordan Eberle,New York Islanders,RW,18:16,0,0,2,3,0,0,0,0,0,1,0,0,0,0,-2,16:54,1:22,0:00,NA
-2018020475,8478463,Anthony Beauvillier,New York Islanders,LW,18:07,0,1,1,1,0,0,0,1,3,1,0,0,0,0,2,18:07,0:00,0:00,33.33
-2018020475,8473463,Leo Komarov,New York Islanders,RW,10:51,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,10:36,0:00,0:15,0
-2018020475,8474066,Thomas Hickey,New York Islanders,D,20:09,0,0,2,0,0,0,0,0,0,2,0,0,0,1,-1,19:54,0:00,0:15,NA
-2018020475,8475231,Casey Cizikas,New York Islanders,C,11:41,0,0,0,0,0,0,2,5,7,0,0,0,0,2,0,11:41,0:00,0:00,71.43
-2018020475,8475181,Nick Leddy,New York Islanders,D,24:33,0,0,6,0,0,0,0,0,0,0,3,0,0,1,1,22:53,1:40,0:00,NA
-2018020475,8468674,Deryk Engelland,Vegas Golden Knights,D,21:44,0,0,0,2,0,0,0,0,0,0,2,0,0,1,0,20:15,0:00,1:29,NA
-2018020475,8471817,Ryan Reaves,Vegas Golden Knights,RW,10:12,0,0,1,1,0,0,0,1,1,0,0,0,0,0,-1,10:12,0:00,0:00,100
-2018020475,8476539,Jonathan Marchessault,Vegas Golden Knights,C,18:11,0,1,5,1,1,0,0,0,2,0,1,0,0,1,1,17:56,0:15,0:00,0
-2018020475,8475715,Oscar Lindberg,Vegas Golden Knights,C,12:55,1,0,1,4,0,0,0,0,0,2,1,0,0,1,0,12:55,0:00,0:00,NA
-2018020475,8477949,Alex Tuch,Vegas Golden Knights,RW,16:51,0,0,1,0,0,0,0,2,3,0,1,0,0,1,0,16:36,0:15,0:00,66.67
-2018020475,8475236,Cody Eakin,Vegas Golden Knights,C,15:59,0,0,1,0,0,0,0,6,11,0,1,0,0,0,-1,14:51,0:00,1:08,54.55
-2018020475,8477447,Shea Theodore,Vegas Golden Knights,D,20:57,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,20:26,0:00,0:31,NA
-2018020475,8477931,Tomas Nosek,Vegas Golden Knights,LW,13:08,0,1,1,2,0,0,0,1,3,0,0,0,0,0,1,12:47,0:00,0:21,33.33
-2018020475,8476525,Colin Miller,Vegas Golden Knights,D,17:47,1,0,0,1,0,1,2,0,0,0,0,0,0,0,0,17:32,0:15,0:00,NA
-2018020475,8474207,Nick Holden,Vegas Golden Knights,D,17:05,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-1,16:34,0:00,0:31,NA
-2018020475,8477846,Ryan Carpenter,Vegas Golden Knights,C,14:01,1,0,1,2,0,0,0,5,8,0,0,0,0,1,0,12:53,0:00,1:08,62.5
-2018020475,8476448,William Karlsson,Vegas Golden Knights,C,19:52,0,1,2,0,0,0,0,4,10,0,2,0,0,2,1,19:21,0:00,0:31,40
-2018020475,8475188,Brayden McNabb,Vegas Golden Knights,D,19:53,0,0,1,1,0,0,0,0,0,0,0,0,0,2,1,19:53,0:00,0:00,NA
-2018020475,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,C,12:12,0,0,0,2,0,0,0,5,10,0,0,0,0,1,-1,11:51,0:00,0:21,50
-2018020475,8477478,William Carrier,Vegas Golden Knights,LW,9:11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1,9:11,0:00,0:00,NA
-2018020475,8474157,Max Pacioretty,Vegas Golden Knights,LW,16:08,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,15:53,0:15,0:00,50
-2018020475,8477220,Nate Schmidt,Vegas Golden Knights,D,23:04,0,0,2,1,0,0,0,0,0,0,2,0,0,3,0,21:35,0:00,1:29,NA
-2018020475,8475191,Reilly Smith,Vegas Golden Knights,RW,18:50,1,0,1,0,0,1,0,0,0,1,1,0,0,0,1,18:04,0:15,0:31,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020475,8474709,Matt Martin,New York Islanders,Vegas Golden Knights,LW,12:28,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,12:28,0:00,0:00,NA
+2018020475,8476917,Adam Pelech,New York Islanders,Vegas Golden Knights,D,13:59,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,13:59,0:00,0:00,NA
+2018020475,8477506,Ryan Pulock,New York Islanders,Vegas Golden Knights,D,22:06,0,0,0,1,0,0,0,0,0,1,3,0,0,2,-1,21:46,0:20,0:00,NA
+2018020475,8476429,Scott Mayfield,New York Islanders,Vegas Golden Knights,D,15:02,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,14:47,0:00,0:15,NA
+2018020475,8470047,Valtteri Filppula,New York Islanders,Vegas Golden Knights,C,12:04,0,0,0,0,0,0,0,2,9,0,0,0,0,0,-1,11:11,0:38,0:15,22.22
+2018020475,8470187,Johnny Boychuk,New York Islanders,Vegas Golden Knights,D,22:49,1,0,2,1,0,0,0,0,0,0,0,0,0,1,0,22:11,0:38,0:00,NA
+2018020475,8473504,Cal Clutterbuck,New York Islanders,Vegas Golden Knights,RW,12:42,0,0,0,3,0,0,0,0,0,0,0,0,0,2,0,12:04,0:38,0:00,NA
+2018020475,8475314,Anders Lee,New York Islanders,Vegas Golden Knights,LW,17:56,0,0,1,1,0,0,0,5,5,0,1,0,0,2,-1,16:34,1:22,0:00,100
+2018020475,8475754,Brock Nelson,New York Islanders,Vegas Golden Knights,C,17:02,0,0,1,3,0,0,0,8,16,1,0,0,0,0,-1,16:24,0:38,0:00,50
+2018020475,8477527,Ross Johnston,New York Islanders,Vegas Golden Knights,LW,9:55,0,0,1,2,0,0,0,0,0,0,1,0,0,0,-1,9:55,0:00,0:00,NA
+2018020475,8478445,Mathew Barzal,New York Islanders,Vegas Golden Knights,C,20:30,2,0,3,1,0,0,0,4,8,2,2,0,0,0,2,19:08,1:22,0:00,50
+2018020475,8474573,Josh Bailey,New York Islanders,Vegas Golden Knights,RW,20:54,0,0,3,0,0,0,0,0,1,1,3,0,0,0,2,19:32,1:22,0:00,0
+2018020475,8474586,Jordan Eberle,New York Islanders,Vegas Golden Knights,RW,18:16,0,0,2,3,0,0,0,0,0,1,0,0,0,0,-2,16:54,1:22,0:00,NA
+2018020475,8478463,Anthony Beauvillier,New York Islanders,Vegas Golden Knights,LW,18:07,0,1,1,1,0,0,0,1,3,1,0,0,0,0,2,18:07,0:00,0:00,33.33
+2018020475,8473463,Leo Komarov,New York Islanders,Vegas Golden Knights,RW,10:51,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,10:36,0:00,0:15,0
+2018020475,8474066,Thomas Hickey,New York Islanders,Vegas Golden Knights,D,20:09,0,0,2,0,0,0,0,0,0,2,0,0,0,1,-1,19:54,0:00,0:15,NA
+2018020475,8475231,Casey Cizikas,New York Islanders,Vegas Golden Knights,C,11:41,0,0,0,0,0,0,2,5,7,0,0,0,0,2,0,11:41,0:00,0:00,71.43
+2018020475,8475181,Nick Leddy,New York Islanders,Vegas Golden Knights,D,24:33,0,0,6,0,0,0,0,0,0,0,3,0,0,1,1,22:53,1:40,0:00,NA
+2018020475,8468674,Deryk Engelland,Vegas Golden Knights,New York Islanders,D,21:44,0,0,0,2,0,0,0,0,0,0,2,0,0,1,0,20:15,0:00,1:29,NA
+2018020475,8471817,Ryan Reaves,Vegas Golden Knights,New York Islanders,RW,10:12,0,0,1,1,0,0,0,1,1,0,0,0,0,0,-1,10:12,0:00,0:00,100
+2018020475,8476539,Jonathan Marchessault,Vegas Golden Knights,New York Islanders,C,18:11,0,1,5,1,1,0,0,0,2,0,1,0,0,1,1,17:56,0:15,0:00,0
+2018020475,8475715,Oscar Lindberg,Vegas Golden Knights,New York Islanders,C,12:55,1,0,1,4,0,0,0,0,0,2,1,0,0,1,0,12:55,0:00,0:00,NA
+2018020475,8477949,Alex Tuch,Vegas Golden Knights,New York Islanders,RW,16:51,0,0,1,0,0,0,0,2,3,0,1,0,0,1,0,16:36,0:15,0:00,66.67
+2018020475,8475236,Cody Eakin,Vegas Golden Knights,New York Islanders,C,15:59,0,0,1,0,0,0,0,6,11,0,1,0,0,0,-1,14:51,0:00,1:08,54.55
+2018020475,8477447,Shea Theodore,Vegas Golden Knights,New York Islanders,D,20:57,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,20:26,0:00,0:31,NA
+2018020475,8477931,Tomas Nosek,Vegas Golden Knights,New York Islanders,LW,13:08,0,1,1,2,0,0,0,1,3,0,0,0,0,0,1,12:47,0:00,0:21,33.33
+2018020475,8476525,Colin Miller,Vegas Golden Knights,New York Islanders,D,17:47,1,0,0,1,0,1,2,0,0,0,0,0,0,0,0,17:32,0:15,0:00,NA
+2018020475,8474207,Nick Holden,Vegas Golden Knights,New York Islanders,D,17:05,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-1,16:34,0:00,0:31,NA
+2018020475,8477846,Ryan Carpenter,Vegas Golden Knights,New York Islanders,C,14:01,1,0,1,2,0,0,0,5,8,0,0,0,0,1,0,12:53,0:00,1:08,62.5
+2018020475,8476448,William Karlsson,Vegas Golden Knights,New York Islanders,C,19:52,0,1,2,0,0,0,0,4,10,0,2,0,0,2,1,19:21,0:00,0:31,40
+2018020475,8475188,Brayden McNabb,Vegas Golden Knights,New York Islanders,D,19:53,0,0,1,1,0,0,0,0,0,0,0,0,0,2,1,19:53,0:00,0:00,NA
+2018020475,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,New York Islanders,C,12:12,0,0,0,2,0,0,0,5,10,0,0,0,0,1,-1,11:51,0:00,0:21,50
+2018020475,8477478,William Carrier,Vegas Golden Knights,New York Islanders,LW,9:11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1,9:11,0:00,0:00,NA
+2018020475,8474157,Max Pacioretty,Vegas Golden Knights,New York Islanders,LW,16:08,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,15:53,0:15,0:00,50
+2018020475,8477220,Nate Schmidt,Vegas Golden Knights,New York Islanders,D,23:04,0,0,2,1,0,0,0,0,0,0,2,0,0,3,0,21:35,0:00,1:29,NA
+2018020475,8475191,Reilly Smith,Vegas Golden Knights,New York Islanders,RW,18:50,1,0,1,0,0,1,0,0,0,1,1,0,0,0,1,18:04,0:15,0:31,NA

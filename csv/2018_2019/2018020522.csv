@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020522,8470607,Brent Seabrook,Chicago Blackhawks,D,14:58,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,11:53,1:11,1:54,NA
-2018020522,8476979,Erik Gustafsson,Chicago Blackhawks,D,20:13,1,1,2,1,1,0,0,0,0,0,1,0,0,1,0,17:21,2:52,0:00,NA
-2018020522,8477943,Brendan Perlini,Chicago Blackhawks,LW,8:51,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,8:51,0:00,0:00,0
-2018020522,8473604,Jonathan Toews,Chicago Blackhawks,C,20:13,1,0,2,0,0,1,0,12,23,1,1,0,0,2,1,15:23,2:52,1:58,52.17
-2018020522,8476438,Brandon Saad,Chicago Blackhawks,LW,17:30,0,0,4,1,0,0,0,0,0,1,0,0,0,0,1,14:13,1:25,1:52,NA
-2018020522,8479337,Alex DeBrincat,Chicago Blackhawks,LW,16:18,0,0,2,0,0,0,0,1,2,0,1,0,0,1,0,13:12,3:06,0:00,50
-2018020522,8470281,Duncan Keith,Chicago Blackhawks,D,21:10,0,0,0,0,0,0,0,0,0,0,3,0,0,2,0,17:51,1:25,1:54,NA
-2018020522,8474141,Patrick Kane,Chicago Blackhawks,RW,20:08,1,0,7,0,0,1,0,0,0,0,0,0,0,1,-1,17:16,2:52,0:00,NA
-2018020522,8478106,Dylan Sikura,Chicago Blackhawks,RW,12:40,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,12:40,0:00,0:00,0
-2018020522,8475323,Marcus Kruger,Chicago Blackhawks,C,7:08,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,5:56,0:00,1:12,0
-2018020522,8477401,John Hayden,Chicago Blackhawks,RW,7:03,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,7:03,0:00,0:00,NA
-2018020522,8480946,Dominik Kahun,Chicago Blackhawks,C,16:13,0,0,3,0,0,0,0,0,1,0,0,0,0,0,1,14:48,1:25,0:00,0
-2018020522,8473573,Artem Anisimov,Chicago Blackhawks,C,18:26,0,0,2,0,0,0,0,0,1,3,0,0,0,0,-1,15:34,1:25,1:27,0
-2018020522,8478440,Dylan Strome,Chicago Blackhawks,C,17:54,0,0,4,0,0,0,0,6,11,0,0,0,0,0,-1,15:02,2:52,0:00,54.55
-2018020522,8478055,Gustav Forsling,Chicago Blackhawks,D,16:58,0,1,1,2,0,0,2,0,0,0,2,0,0,2,1,16:58,0:00,0:00,NA
-2018020522,8477472,Carl Dahlstrom,Chicago Blackhawks,D,22:01,0,0,1,0,0,0,0,0,0,0,0,0,0,2,-1,19:55,0:00,2:06,NA
-2018020522,8476473,Connor Murphy,Chicago Blackhawks,D,21:54,0,0,2,3,0,0,0,0,0,1,2,0,0,1,-1,19:48,0:00,2:06,NA
-2018020522,8480144,David Kampf,Chicago Blackhawks,C,16:33,0,0,3,2,0,0,0,4,13,1,0,0,0,2,0,15:02,0:00,1:31,30.77
-2018020522,8477919,Frederick Gaudreau,Nashville Predators,C,10:44,0,0,0,0,0,0,0,4,6,0,0,0,0,0,0,10:44,0:00,0:00,66.67
-2018020522,8475218,Mattias Ekholm,Nashville Predators,D,23:28,1,0,2,2,0,0,0,0,0,2,1,0,0,0,1,19:34,1:59,1:55,NA
-2018020522,8476428,Rocco Grimaldi,Nashville Predators,C,11:03,0,0,1,0,0,0,2,0,0,0,0,0,0,1,0,11:03,0:00,0:00,NA
-2018020522,8475868,Anthony Bitetto,Nashville Predators,D,12:18,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,12:18,0:00,0:00,NA
-2018020522,8475714,Calle Jarnkrok,Nashville Predators,C,17:34,0,0,1,1,0,0,0,1,2,0,0,0,0,0,-1,13:56,1:59,1:39,50
-2018020522,8476925,Colton Sissons,Nashville Predators,C,14:53,0,0,2,1,0,0,0,1,7,1,0,0,0,0,0,10:28,2:01,2:24,14.29
-2018020522,8475225,Craig Smith,Nashville Predators,RW,15:22,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,13:21,2:01,0:00,NA
-2018020522,8476447,Miikka Salomaki,Nashville Predators,RW,10:02,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,10:02,0:00,0:00,100
-2018020522,8477942,Kevin Fiala,Nashville Predators,LW,19:17,0,1,6,2,0,0,2,0,0,0,0,0,0,0,1,17:18,1:59,0:00,NA
-2018020522,8474009,Nick Bonino,Nashville Predators,C,14:12,0,0,2,2,0,0,0,6,7,0,0,0,0,2,0,12:42,0:00,1:30,85.71
-2018020522,8475766,Austin Watson,Nashville Predators,LW,14:35,0,0,3,3,0,0,0,1,3,0,1,0,0,1,-1,12:16,0:00,2:19,33.33
-2018020522,8474600,Roman Josi,Nashville Predators,D,24:45,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,20:10,2:01,2:34,NA
-2018020522,8475793,Ryan Johansen,Nashville Predators,C,20:49,1,0,1,1,0,0,0,8,16,1,0,0,0,0,1,18:20,2:01,0:28,50
-2018020522,8477451,Ryan Hartman,Nashville Predators,RW,18:06,0,0,5,1,0,0,0,0,0,1,0,0,0,2,1,15:53,1:59,0:14,NA
-2018020522,8474134,Yannick Weber,Nashville Predators,D,14:32,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,13:38,0:00,0:54,NA
-2018020522,8474068,Kyle Turris,Nashville Predators,C,13:54,0,0,0,0,0,0,0,9,12,1,0,0,0,0,-1,11:55,1:59,0:00,75
-2018020522,8475176,Ryan Ellis,Nashville Predators,D,22:57,0,0,0,0,0,0,2,0,0,1,0,0,0,3,-1,19:38,2:01,1:18,NA
-2018020522,8469465,Dan Hamhuis,Nashville Predators,D,20:01,0,0,1,1,0,0,0,0,0,0,0,0,0,2,0,18:08,0:00,1:53,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020522,8470607,Brent Seabrook,Chicago Blackhawks,Nashville Predators,D,14:58,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,11:53,1:11,1:54,NA
+2018020522,8476979,Erik Gustafsson,Chicago Blackhawks,Nashville Predators,D,20:13,1,1,2,1,1,0,0,0,0,0,1,0,0,1,0,17:21,2:52,0:00,NA
+2018020522,8477943,Brendan Perlini,Chicago Blackhawks,Nashville Predators,LW,8:51,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,8:51,0:00,0:00,0
+2018020522,8473604,Jonathan Toews,Chicago Blackhawks,Nashville Predators,C,20:13,1,0,2,0,0,1,0,12,23,1,1,0,0,2,1,15:23,2:52,1:58,52.17
+2018020522,8476438,Brandon Saad,Chicago Blackhawks,Nashville Predators,LW,17:30,0,0,4,1,0,0,0,0,0,1,0,0,0,0,1,14:13,1:25,1:52,NA
+2018020522,8479337,Alex DeBrincat,Chicago Blackhawks,Nashville Predators,LW,16:18,0,0,2,0,0,0,0,1,2,0,1,0,0,1,0,13:12,3:06,0:00,50
+2018020522,8470281,Duncan Keith,Chicago Blackhawks,Nashville Predators,D,21:10,0,0,0,0,0,0,0,0,0,0,3,0,0,2,0,17:51,1:25,1:54,NA
+2018020522,8474141,Patrick Kane,Chicago Blackhawks,Nashville Predators,RW,20:08,1,0,7,0,0,1,0,0,0,0,0,0,0,1,-1,17:16,2:52,0:00,NA
+2018020522,8478106,Dylan Sikura,Chicago Blackhawks,Nashville Predators,RW,12:40,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,12:40,0:00,0:00,0
+2018020522,8475323,Marcus Kruger,Chicago Blackhawks,Nashville Predators,C,7:08,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,5:56,0:00,1:12,0
+2018020522,8477401,John Hayden,Chicago Blackhawks,Nashville Predators,RW,7:03,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,7:03,0:00,0:00,NA
+2018020522,8480946,Dominik Kahun,Chicago Blackhawks,Nashville Predators,C,16:13,0,0,3,0,0,0,0,0,1,0,0,0,0,0,1,14:48,1:25,0:00,0
+2018020522,8473573,Artem Anisimov,Chicago Blackhawks,Nashville Predators,C,18:26,0,0,2,0,0,0,0,0,1,3,0,0,0,0,-1,15:34,1:25,1:27,0
+2018020522,8478440,Dylan Strome,Chicago Blackhawks,Nashville Predators,C,17:54,0,0,4,0,0,0,0,6,11,0,0,0,0,0,-1,15:02,2:52,0:00,54.55
+2018020522,8478055,Gustav Forsling,Chicago Blackhawks,Nashville Predators,D,16:58,0,1,1,2,0,0,2,0,0,0,2,0,0,2,1,16:58,0:00,0:00,NA
+2018020522,8477472,Carl Dahlstrom,Chicago Blackhawks,Nashville Predators,D,22:01,0,0,1,0,0,0,0,0,0,0,0,0,0,2,-1,19:55,0:00,2:06,NA
+2018020522,8476473,Connor Murphy,Chicago Blackhawks,Nashville Predators,D,21:54,0,0,2,3,0,0,0,0,0,1,2,0,0,1,-1,19:48,0:00,2:06,NA
+2018020522,8480144,David Kampf,Chicago Blackhawks,Nashville Predators,C,16:33,0,0,3,2,0,0,0,4,13,1,0,0,0,2,0,15:02,0:00,1:31,30.77
+2018020522,8477919,Frederick Gaudreau,Nashville Predators,Chicago Blackhawks,C,10:44,0,0,0,0,0,0,0,4,6,0,0,0,0,0,0,10:44,0:00,0:00,66.67
+2018020522,8475218,Mattias Ekholm,Nashville Predators,Chicago Blackhawks,D,23:28,1,0,2,2,0,0,0,0,0,2,1,0,0,0,1,19:34,1:59,1:55,NA
+2018020522,8476428,Rocco Grimaldi,Nashville Predators,Chicago Blackhawks,C,11:03,0,0,1,0,0,0,2,0,0,0,0,0,0,1,0,11:03,0:00,0:00,NA
+2018020522,8475868,Anthony Bitetto,Nashville Predators,Chicago Blackhawks,D,12:18,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,12:18,0:00,0:00,NA
+2018020522,8475714,Calle Jarnkrok,Nashville Predators,Chicago Blackhawks,C,17:34,0,0,1,1,0,0,0,1,2,0,0,0,0,0,-1,13:56,1:59,1:39,50
+2018020522,8476925,Colton Sissons,Nashville Predators,Chicago Blackhawks,C,14:53,0,0,2,1,0,0,0,1,7,1,0,0,0,0,0,10:28,2:01,2:24,14.29
+2018020522,8475225,Craig Smith,Nashville Predators,Chicago Blackhawks,RW,15:22,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,13:21,2:01,0:00,NA
+2018020522,8476447,Miikka Salomaki,Nashville Predators,Chicago Blackhawks,RW,10:02,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,10:02,0:00,0:00,100
+2018020522,8477942,Kevin Fiala,Nashville Predators,Chicago Blackhawks,LW,19:17,0,1,6,2,0,0,2,0,0,0,0,0,0,0,1,17:18,1:59,0:00,NA
+2018020522,8474009,Nick Bonino,Nashville Predators,Chicago Blackhawks,C,14:12,0,0,2,2,0,0,0,6,7,0,0,0,0,2,0,12:42,0:00,1:30,85.71
+2018020522,8475766,Austin Watson,Nashville Predators,Chicago Blackhawks,LW,14:35,0,0,3,3,0,0,0,1,3,0,1,0,0,1,-1,12:16,0:00,2:19,33.33
+2018020522,8474600,Roman Josi,Nashville Predators,Chicago Blackhawks,D,24:45,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,20:10,2:01,2:34,NA
+2018020522,8475793,Ryan Johansen,Nashville Predators,Chicago Blackhawks,C,20:49,1,0,1,1,0,0,0,8,16,1,0,0,0,0,1,18:20,2:01,0:28,50
+2018020522,8477451,Ryan Hartman,Nashville Predators,Chicago Blackhawks,RW,18:06,0,0,5,1,0,0,0,0,0,1,0,0,0,2,1,15:53,1:59,0:14,NA
+2018020522,8474134,Yannick Weber,Nashville Predators,Chicago Blackhawks,D,14:32,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,13:38,0:00,0:54,NA
+2018020522,8474068,Kyle Turris,Nashville Predators,Chicago Blackhawks,C,13:54,0,0,0,0,0,0,0,9,12,1,0,0,0,0,-1,11:55,1:59,0:00,75
+2018020522,8475176,Ryan Ellis,Nashville Predators,Chicago Blackhawks,D,22:57,0,0,0,0,0,0,2,0,0,1,0,0,0,3,-1,19:38,2:01,1:18,NA
+2018020522,8469465,Dan Hamhuis,Nashville Predators,Chicago Blackhawks,D,20:01,0,0,1,1,0,0,0,0,0,0,0,0,0,2,0,18:08,0:00,1:53,NA

@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020800,8473446,Erik Johnson,Colorado Avalanche,D,21:54,0,0,2,1,0,0,0,0,0,0,0,0,0,2,-2,19:25,0:06,2:23,NA
-2018020800,8477507,Nikita Zadorov,Colorado Avalanche,D,19:04,1,0,3,6,0,0,0,0,0,0,0,0,0,0,0,19:04,0:00,0:00,NA
-2018020800,8474569,Colin Wilson,Colorado Avalanche,C,19:00,0,0,2,1,0,0,0,0,1,0,0,0,0,1,-1,14:31,4:29,0:00,0
-2018020800,8475747,Patrik Nemeth,Colorado Avalanche,D,13:30,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,11:31,0:00,1:59,NA
-2018020800,8480326,Sheldon Dries,Colorado Avalanche,C,9:07,0,0,2,2,0,0,0,5,8,0,0,0,0,1,0,6:59,0:00,2:08,62.5
-2018020800,8476442,Matt Nieto,Colorado Avalanche,LW,11:32,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,10:16,0:00,1:16,NA
-2018020800,8477413,Sven Andrighetto,Colorado Avalanche,RW,8:18,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7:15,1:03,0:00,NA
-2018020800,8476455,Gabriel Landeskog,Colorado Avalanche,LW,21:59,0,0,2,4,0,0,0,8,12,0,0,0,0,0,-2,17:24,4:35,0:00,66.67
-2018020800,8474685,Matt Calvert,Colorado Avalanche,LW,10:51,0,1,3,1,0,0,2,0,0,0,0,0,0,0,0,10:12,0:00,0:39,NA
-2018020800,8477456,J.T. Compher,Colorado Avalanche,LW,15:04,0,0,1,2,0,0,0,4,11,0,1,0,0,0,0,12:49,1:25,0:50,36.36
-2018020800,8475268,Gabriel Bourque,Colorado Avalanche,LW,8:26,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,6:34,0:00,1:52,NA
-2018020800,8477021,Alexander Kerfoot,Colorado Avalanche,C,17:33,0,0,0,2,0,0,0,2,5,1,1,0,0,0,-1,16:08,1:25,0:00,40
-2018020800,8474013,Ian Cole,Colorado Avalanche,D,21:52,0,0,2,3,0,0,0,0,0,0,0,0,0,1,-2,18:48,0:00,3:04,NA
-2018020800,8475197,Tyson Barrie,Colorado Avalanche,D,22:23,0,0,3,2,0,0,0,0,0,0,0,0,0,2,-2,17:26,4:57,0:00,NA
-2018020800,8471262,Carl Soderberg,Colorado Avalanche,C,16:23,0,0,1,2,0,0,2,4,9,2,0,0,0,0,-1,14:17,1:25,0:41,44.44
-2018020800,8479398,Samuel Girard,Colorado Avalanche,D,15:20,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,13:55,1:25,0:00,NA
-2018020800,8478420,Mikko Rantanen,Colorado Avalanche,RW,22:16,0,0,3,1,0,0,0,0,0,2,0,0,0,0,-2,17:41,4:35,0:00,NA
-2018020800,8477492,Nathan MacKinnon,Colorado Avalanche,C,21:45,0,0,4,1,0,0,0,8,18,0,1,0,0,0,-2,17:10,4:35,0:00,44.44
-2018020800,8470626,Loui Eriksson,Vancouver Canucks,LW,17:59,1,0,2,0,0,1,0,0,0,3,0,0,0,1,1,13:01,1:12,3:46,NA
-2018020800,8474849,Antoine Roussel,Vancouver Canucks,LW,15:02,1,1,1,1,0,0,0,0,0,1,1,0,0,0,2,15:02,0:00,0:00,NA
-2018020800,8477958,Nikolay Goldobin,Vancouver Canucks,RW,11:41,0,1,3,0,1,0,0,0,0,0,0,0,0,0,1,10:46,0:55,0:00,NA
-2018020800,8477937,Jake Virtanen,Vancouver Canucks,RW,15:33,1,1,2,2,0,0,2,0,0,0,0,0,0,1,2,14:21,1:12,0:00,NA
-2018020800,8477018,Ben Hutton,Vancouver Canucks,D,22:40,0,0,0,1,0,0,0,0,0,0,2,0,0,1,2,19:03,1:52,1:45,NA
-2018020800,8471303,Alexander Edler,Vancouver Canucks,D,23:25,0,0,1,2,0,0,4,0,0,0,1,0,0,3,0,19:34,1:51,2:00,NA
-2018020800,8478444,Brock Boeser,Vancouver Canucks,RW,12:52,0,1,1,0,0,0,0,2,2,0,1,0,0,0,1,10:21,2:31,0:00,100
-2018020800,8476410,Josh Leivo,Vancouver Canucks,LW,12:54,1,0,0,0,0,1,0,0,0,0,1,0,0,2,-1,11:42,1:12,0:00,NA
-2018020800,8476884,Derrick Pouliot,Vancouver Canucks,D,11:52,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,11:52,0:00,0:00,NA
-2018020800,8476466,Sven Baertschi,Vancouver Canucks,LW,13:22,0,0,3,0,0,0,0,0,1,0,0,0,0,0,-1,10:51,2:31,0:00,0
-2018020800,8477500,Bo Horvat,Vancouver Canucks,C,16:36,1,0,0,1,0,0,0,13,24,1,0,0,0,2,1,13:42,2:48,0:06,54.17
-2018020800,8475690,Christopher Tanev,Vancouver Canucks,D,22:29,0,0,2,0,0,0,0,0,0,0,0,0,0,4,0,18:30,0:00,3:59,NA
-2018020800,8475790,Erik Gudbranson,Vancouver Canucks,D,16:13,0,0,1,2,0,0,0,0,0,0,0,0,0,1,1,13:30,0:00,2:43,NA
-2018020800,8479442,Troy Stecher,Vancouver Canucks,D,19:51,1,0,2,1,0,0,0,0,0,1,0,0,0,2,2,18:18,0:00,1:33,NA
-2018020800,8477353,Tyler Motte,Vancouver Canucks,C,14:13,0,1,4,5,0,0,0,0,1,2,1,0,0,0,1,12:05,0:00,2:08,0
-2018020800,8480012,Elias Pettersson,Vancouver Canucks,C,13:46,1,0,1,0,0,0,0,3,7,2,0,0,0,0,0,11:15,2:31,0:00,42.86
-2018020800,8474291,Jay Beagle,Vancouver Canucks,C,15:02,1,0,1,0,0,0,0,8,17,1,0,0,0,2,1,12:43,0:00,2:19,47.06
-2018020800,8474091,Brandon Sutter,Vancouver Canucks,C,18:30,1,0,2,0,0,0,0,7,12,1,0,0,0,0,1,14:49,0:00,3:41,58.33
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020800,8473446,Erik Johnson,Colorado Avalanche,Vancouver Canucks,D,21:54,0,0,2,1,0,0,0,0,0,0,0,0,0,2,-2,19:25,0:06,2:23,NA
+2018020800,8477507,Nikita Zadorov,Colorado Avalanche,Vancouver Canucks,D,19:04,1,0,3,6,0,0,0,0,0,0,0,0,0,0,0,19:04,0:00,0:00,NA
+2018020800,8474569,Colin Wilson,Colorado Avalanche,Vancouver Canucks,C,19:00,0,0,2,1,0,0,0,0,1,0,0,0,0,1,-1,14:31,4:29,0:00,0
+2018020800,8475747,Patrik Nemeth,Colorado Avalanche,Vancouver Canucks,D,13:30,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,11:31,0:00,1:59,NA
+2018020800,8480326,Sheldon Dries,Colorado Avalanche,Vancouver Canucks,C,9:07,0,0,2,2,0,0,0,5,8,0,0,0,0,1,0,6:59,0:00,2:08,62.5
+2018020800,8476442,Matt Nieto,Colorado Avalanche,Vancouver Canucks,LW,11:32,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,10:16,0:00,1:16,NA
+2018020800,8477413,Sven Andrighetto,Colorado Avalanche,Vancouver Canucks,RW,8:18,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7:15,1:03,0:00,NA
+2018020800,8476455,Gabriel Landeskog,Colorado Avalanche,Vancouver Canucks,LW,21:59,0,0,2,4,0,0,0,8,12,0,0,0,0,0,-2,17:24,4:35,0:00,66.67
+2018020800,8474685,Matt Calvert,Colorado Avalanche,Vancouver Canucks,LW,10:51,0,1,3,1,0,0,2,0,0,0,0,0,0,0,0,10:12,0:00,0:39,NA
+2018020800,8477456,J.T. Compher,Colorado Avalanche,Vancouver Canucks,LW,15:04,0,0,1,2,0,0,0,4,11,0,1,0,0,0,0,12:49,1:25,0:50,36.36
+2018020800,8475268,Gabriel Bourque,Colorado Avalanche,Vancouver Canucks,LW,8:26,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,6:34,0:00,1:52,NA
+2018020800,8477021,Alexander Kerfoot,Colorado Avalanche,Vancouver Canucks,C,17:33,0,0,0,2,0,0,0,2,5,1,1,0,0,0,-1,16:08,1:25,0:00,40
+2018020800,8474013,Ian Cole,Colorado Avalanche,Vancouver Canucks,D,21:52,0,0,2,3,0,0,0,0,0,0,0,0,0,1,-2,18:48,0:00,3:04,NA
+2018020800,8475197,Tyson Barrie,Colorado Avalanche,Vancouver Canucks,D,22:23,0,0,3,2,0,0,0,0,0,0,0,0,0,2,-2,17:26,4:57,0:00,NA
+2018020800,8471262,Carl Soderberg,Colorado Avalanche,Vancouver Canucks,C,16:23,0,0,1,2,0,0,2,4,9,2,0,0,0,0,-1,14:17,1:25,0:41,44.44
+2018020800,8479398,Samuel Girard,Colorado Avalanche,Vancouver Canucks,D,15:20,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,13:55,1:25,0:00,NA
+2018020800,8478420,Mikko Rantanen,Colorado Avalanche,Vancouver Canucks,RW,22:16,0,0,3,1,0,0,0,0,0,2,0,0,0,0,-2,17:41,4:35,0:00,NA
+2018020800,8477492,Nathan MacKinnon,Colorado Avalanche,Vancouver Canucks,C,21:45,0,0,4,1,0,0,0,8,18,0,1,0,0,0,-2,17:10,4:35,0:00,44.44
+2018020800,8470626,Loui Eriksson,Vancouver Canucks,Colorado Avalanche,LW,17:59,1,0,2,0,0,1,0,0,0,3,0,0,0,1,1,13:01,1:12,3:46,NA
+2018020800,8474849,Antoine Roussel,Vancouver Canucks,Colorado Avalanche,LW,15:02,1,1,1,1,0,0,0,0,0,1,1,0,0,0,2,15:02,0:00,0:00,NA
+2018020800,8477958,Nikolay Goldobin,Vancouver Canucks,Colorado Avalanche,RW,11:41,0,1,3,0,1,0,0,0,0,0,0,0,0,0,1,10:46,0:55,0:00,NA
+2018020800,8477937,Jake Virtanen,Vancouver Canucks,Colorado Avalanche,RW,15:33,1,1,2,2,0,0,2,0,0,0,0,0,0,1,2,14:21,1:12,0:00,NA
+2018020800,8477018,Ben Hutton,Vancouver Canucks,Colorado Avalanche,D,22:40,0,0,0,1,0,0,0,0,0,0,2,0,0,1,2,19:03,1:52,1:45,NA
+2018020800,8471303,Alexander Edler,Vancouver Canucks,Colorado Avalanche,D,23:25,0,0,1,2,0,0,4,0,0,0,1,0,0,3,0,19:34,1:51,2:00,NA
+2018020800,8478444,Brock Boeser,Vancouver Canucks,Colorado Avalanche,RW,12:52,0,1,1,0,0,0,0,2,2,0,1,0,0,0,1,10:21,2:31,0:00,100
+2018020800,8476410,Josh Leivo,Vancouver Canucks,Colorado Avalanche,LW,12:54,1,0,0,0,0,1,0,0,0,0,1,0,0,2,-1,11:42,1:12,0:00,NA
+2018020800,8476884,Derrick Pouliot,Vancouver Canucks,Colorado Avalanche,D,11:52,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,11:52,0:00,0:00,NA
+2018020800,8476466,Sven Baertschi,Vancouver Canucks,Colorado Avalanche,LW,13:22,0,0,3,0,0,0,0,0,1,0,0,0,0,0,-1,10:51,2:31,0:00,0
+2018020800,8477500,Bo Horvat,Vancouver Canucks,Colorado Avalanche,C,16:36,1,0,0,1,0,0,0,13,24,1,0,0,0,2,1,13:42,2:48,0:06,54.17
+2018020800,8475690,Christopher Tanev,Vancouver Canucks,Colorado Avalanche,D,22:29,0,0,2,0,0,0,0,0,0,0,0,0,0,4,0,18:30,0:00,3:59,NA
+2018020800,8475790,Erik Gudbranson,Vancouver Canucks,Colorado Avalanche,D,16:13,0,0,1,2,0,0,0,0,0,0,0,0,0,1,1,13:30,0:00,2:43,NA
+2018020800,8479442,Troy Stecher,Vancouver Canucks,Colorado Avalanche,D,19:51,1,0,2,1,0,0,0,0,0,1,0,0,0,2,2,18:18,0:00,1:33,NA
+2018020800,8477353,Tyler Motte,Vancouver Canucks,Colorado Avalanche,C,14:13,0,1,4,5,0,0,0,0,1,2,1,0,0,0,1,12:05,0:00,2:08,0
+2018020800,8480012,Elias Pettersson,Vancouver Canucks,Colorado Avalanche,C,13:46,1,0,1,0,0,0,0,3,7,2,0,0,0,0,0,11:15,2:31,0:00,42.86
+2018020800,8474291,Jay Beagle,Vancouver Canucks,Colorado Avalanche,C,15:02,1,0,1,0,0,0,0,8,17,1,0,0,0,2,1,12:43,0:00,2:19,47.06
+2018020800,8474091,Brandon Sutter,Vancouver Canucks,Colorado Avalanche,C,18:30,1,0,2,0,0,0,0,7,12,1,0,0,0,0,1,14:49,0:00,3:41,58.33

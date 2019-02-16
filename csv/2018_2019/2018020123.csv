@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020123,8477947,Sonny Milano,Columbus Blue Jackets,LW,8:28,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,8:22,0:06,0:00,NA
-2018020123,8477407,Anthony Duclair,Columbus Blue Jackets,LW,17:04,0,0,2,1,0,0,2,1,1,0,1,0,0,0,0,13:46,2:59,0:19,100
-2018020123,8478906,Markus Nutivaara,Columbus Blue Jackets,D,14:19,0,0,2,0,0,0,0,0,0,0,1,0,0,0,-1,14:03,0:06,0:10,NA
-2018020123,8473422,Nick Foligno,Columbus Blue Jackets,LW,18:25,0,0,1,2,0,0,0,6,8,0,2,0,0,0,-1,14:14,2:59,1:12,75
-2018020123,8474715,Cam Atkinson,Columbus Blue Jackets,RW,15:58,1,0,4,2,0,0,0,0,0,1,0,0,0,1,0,12:11,2:55,0:52,NA
-2018020123,8477505,Alexander Wennberg,Columbus Blue Jackets,C,18:03,0,0,1,0,0,0,0,3,11,1,1,0,0,0,0,13:01,2:55,2:07,27.27
-2018020123,8477416,Oliver Bjorkstrand,Columbus Blue Jackets,RW,12:31,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-1,9:52,2:39,0:00,NA
-2018020123,8476310,Lukas Sedlak,Columbus Blue Jackets,C,8:41,0,0,2,2,0,0,2,2,5,0,0,0,0,1,0,8:03,0:00,0:38,40
-2018020123,8476981,Josh Anderson,Columbus Blue Jackets,RW,13:43,0,0,3,1,0,0,0,0,0,2,2,0,0,0,-1,12:07,0:06,1:30,NA
-2018020123,8476850,Ryan Murray,Columbus Blue Jackets,D,17:03,0,0,0,1,0,0,0,0,0,0,0,0,0,4,-2,14:53,0:06,2:04,NA
-2018020123,8476432,Boone Jenner,Columbus Blue Jackets,C,15:56,0,0,3,3,0,0,2,6,10,1,0,0,0,0,0,11:34,3:02,1:20,60
-2018020123,8475233,David Savard,Columbus Blue Jackets,D,17:34,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-1,14:30,0:00,3:04,NA
-2018020123,8478567,Dean Kukan,Columbus Blue Jackets,D,12:57,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,12:57,0:00,0:00,NA
-2018020123,8474062,Riley Nash,Columbus Blue Jackets,C,12:54,0,0,1,0,0,0,0,4,11,0,0,0,0,1,-2,10:41,0:06,2:07,36.36
-2018020123,8477495,Seth Jones,Columbus Blue Jackets,D,27:24,0,0,4,1,0,0,0,0,0,0,0,0,0,3,0,20:06,2:48,4:30,NA
-2018020123,8478550,Artemi Panarin,Columbus Blue Jackets,LW,18:53,0,0,5,0,0,0,0,0,0,1,1,0,0,1,0,15:38,3:15,0:00,NA
-2018020123,8479400,Pierre-Luc Dubois,Columbus Blue Jackets,C,16:07,0,1,3,2,0,0,0,9,15,1,3,0,0,0,0,13:18,2:39,0:10,60
-2018020123,8478460,Zach Werenski,Columbus Blue Jackets,D,24:59,1,0,1,0,0,0,2,0,0,0,1,0,0,0,0,19:32,3:19,2:08,NA
-2018020123,8471769,Niklas Hjalmarsson,Arizona Coyotes,D,19:59,0,0,1,0,0,0,0,0,0,2,0,0,0,0,1,17:01,0:00,2:58,NA
-2018020123,8474613,Derek Stepan,Arizona Coyotes,C,17:15,3,0,0,0,0,0,0,15,22,1,0,0,0,0,3,12:38,3:04,1:33,68.18
-2018020123,8477943,Brendan Perlini,Arizona Coyotes,LW,15:21,1,0,4,2,0,0,0,0,0,1,0,0,0,0,3,12:48,2:33,0:00,NA
-2018020123,8470755,Brad Richardson,Arizona Coyotes,C,14:04,0,0,1,0,0,0,2,5,13,1,0,0,0,2,0,11:50,0:00,2:14,38.46
-2018020123,8476326,Josh Archibald,Arizona Coyotes,RW,12:20,0,0,2,1,0,0,0,0,1,0,0,0,0,1,0,10:05,0:10,2:05,0
-2018020123,8474218,Jason Demers,Arizona Coyotes,D,17:41,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,14:48,0:00,2:53,NA
-2018020123,8473546,Michael Grabner,Arizona Coyotes,RW,15:09,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,11:42,0:00,3:27,NA
-2018020123,8477851,Jordan Oesterle,Arizona Coyotes,D,17:03,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,14:00,2:54,0:09,NA
-2018020123,8476994,Vinnie Hinostroza,Arizona Coyotes,C,13:43,1,0,1,0,0,1,0,1,5,0,0,0,0,0,0,11:08,2:35,0:00,20
-2018020123,8476851,Alex Galchenyuk,Arizona Coyotes,C,15:01,0,0,1,1,0,0,0,2,7,0,1,0,0,0,-1,11:57,3:04,0:00,28.57
-2018020123,8475246,Kevin Connauton,Arizona Coyotes,D,20:00,0,0,2,3,0,0,2,0,0,0,0,0,0,0,2,18:59,0:00,1:01,NA
-2018020123,8471274,Alex Goligoski,Arizona Coyotes,D,22:39,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,16:42,2:54,3:03,NA
-2018020123,8478474,Lawson Crouse,Arizona Coyotes,LW,15:52,0,0,1,2,0,0,2,0,0,0,0,0,0,0,-1,13:16,0:10,2:26,NA
-2018020123,8478440,Dylan Strome,Arizona Coyotes,C,12:41,0,1,2,0,1,0,0,1,4,0,0,0,0,0,0,9:57,2:44,0:00,25
-2018020123,8478432,Christian Fischer,Arizona Coyotes,RW,13:49,0,3,4,0,0,0,0,0,0,0,1,0,0,0,3,12:06,1:37,0:06,NA
-2018020123,8479343,Clayton Keller,Arizona Coyotes,C,16:07,0,0,2,0,0,0,0,0,1,0,0,0,0,0,-1,12:54,3:04,0:09,0
-2018020123,8475171,Oliver Ekman-Larsson,Arizona Coyotes,D,19:43,0,0,2,0,0,0,2,0,0,0,0,0,0,0,1,14:43,3:04,1:56,NA
-2018020123,8476393,Nick Cousins,Arizona Coyotes,C,12:30,0,0,3,1,0,0,2,6,8,0,0,0,0,3,0,12:14,0:16,0:00,75
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020123,8477947,Sonny Milano,Columbus Blue Jackets,Arizona Coyotes,LW,8:28,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,8:22,0:06,0:00,NA
+2018020123,8477407,Anthony Duclair,Columbus Blue Jackets,Arizona Coyotes,LW,17:04,0,0,2,1,0,0,2,1,1,0,1,0,0,0,0,13:46,2:59,0:19,100
+2018020123,8478906,Markus Nutivaara,Columbus Blue Jackets,Arizona Coyotes,D,14:19,0,0,2,0,0,0,0,0,0,0,1,0,0,0,-1,14:03,0:06,0:10,NA
+2018020123,8473422,Nick Foligno,Columbus Blue Jackets,Arizona Coyotes,LW,18:25,0,0,1,2,0,0,0,6,8,0,2,0,0,0,-1,14:14,2:59,1:12,75
+2018020123,8474715,Cam Atkinson,Columbus Blue Jackets,Arizona Coyotes,RW,15:58,1,0,4,2,0,0,0,0,0,1,0,0,0,1,0,12:11,2:55,0:52,NA
+2018020123,8477505,Alexander Wennberg,Columbus Blue Jackets,Arizona Coyotes,C,18:03,0,0,1,0,0,0,0,3,11,1,1,0,0,0,0,13:01,2:55,2:07,27.27
+2018020123,8477416,Oliver Bjorkstrand,Columbus Blue Jackets,Arizona Coyotes,RW,12:31,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-1,9:52,2:39,0:00,NA
+2018020123,8476310,Lukas Sedlak,Columbus Blue Jackets,Arizona Coyotes,C,8:41,0,0,2,2,0,0,2,2,5,0,0,0,0,1,0,8:03,0:00,0:38,40
+2018020123,8476981,Josh Anderson,Columbus Blue Jackets,Arizona Coyotes,RW,13:43,0,0,3,1,0,0,0,0,0,2,2,0,0,0,-1,12:07,0:06,1:30,NA
+2018020123,8476850,Ryan Murray,Columbus Blue Jackets,Arizona Coyotes,D,17:03,0,0,0,1,0,0,0,0,0,0,0,0,0,4,-2,14:53,0:06,2:04,NA
+2018020123,8476432,Boone Jenner,Columbus Blue Jackets,Arizona Coyotes,C,15:56,0,0,3,3,0,0,2,6,10,1,0,0,0,0,0,11:34,3:02,1:20,60
+2018020123,8475233,David Savard,Columbus Blue Jackets,Arizona Coyotes,D,17:34,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-1,14:30,0:00,3:04,NA
+2018020123,8478567,Dean Kukan,Columbus Blue Jackets,Arizona Coyotes,D,12:57,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,12:57,0:00,0:00,NA
+2018020123,8474062,Riley Nash,Columbus Blue Jackets,Arizona Coyotes,C,12:54,0,0,1,0,0,0,0,4,11,0,0,0,0,1,-2,10:41,0:06,2:07,36.36
+2018020123,8477495,Seth Jones,Columbus Blue Jackets,Arizona Coyotes,D,27:24,0,0,4,1,0,0,0,0,0,0,0,0,0,3,0,20:06,2:48,4:30,NA
+2018020123,8478550,Artemi Panarin,Columbus Blue Jackets,Arizona Coyotes,LW,18:53,0,0,5,0,0,0,0,0,0,1,1,0,0,1,0,15:38,3:15,0:00,NA
+2018020123,8479400,Pierre-Luc Dubois,Columbus Blue Jackets,Arizona Coyotes,C,16:07,0,1,3,2,0,0,0,9,15,1,3,0,0,0,0,13:18,2:39,0:10,60
+2018020123,8478460,Zach Werenski,Columbus Blue Jackets,Arizona Coyotes,D,24:59,1,0,1,0,0,0,2,0,0,0,1,0,0,0,0,19:32,3:19,2:08,NA
+2018020123,8471769,Niklas Hjalmarsson,Arizona Coyotes,Columbus Blue Jackets,D,19:59,0,0,1,0,0,0,0,0,0,2,0,0,0,0,1,17:01,0:00,2:58,NA
+2018020123,8474613,Derek Stepan,Arizona Coyotes,Columbus Blue Jackets,C,17:15,3,0,0,0,0,0,0,15,22,1,0,0,0,0,3,12:38,3:04,1:33,68.18
+2018020123,8477943,Brendan Perlini,Arizona Coyotes,Columbus Blue Jackets,LW,15:21,1,0,4,2,0,0,0,0,0,1,0,0,0,0,3,12:48,2:33,0:00,NA
+2018020123,8470755,Brad Richardson,Arizona Coyotes,Columbus Blue Jackets,C,14:04,0,0,1,0,0,0,2,5,13,1,0,0,0,2,0,11:50,0:00,2:14,38.46
+2018020123,8476326,Josh Archibald,Arizona Coyotes,Columbus Blue Jackets,RW,12:20,0,0,2,1,0,0,0,0,1,0,0,0,0,1,0,10:05,0:10,2:05,0
+2018020123,8474218,Jason Demers,Arizona Coyotes,Columbus Blue Jackets,D,17:41,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,14:48,0:00,2:53,NA
+2018020123,8473546,Michael Grabner,Arizona Coyotes,Columbus Blue Jackets,RW,15:09,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,11:42,0:00,3:27,NA
+2018020123,8477851,Jordan Oesterle,Arizona Coyotes,Columbus Blue Jackets,D,17:03,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,14:00,2:54,0:09,NA
+2018020123,8476994,Vinnie Hinostroza,Arizona Coyotes,Columbus Blue Jackets,C,13:43,1,0,1,0,0,1,0,1,5,0,0,0,0,0,0,11:08,2:35,0:00,20
+2018020123,8476851,Alex Galchenyuk,Arizona Coyotes,Columbus Blue Jackets,C,15:01,0,0,1,1,0,0,0,2,7,0,1,0,0,0,-1,11:57,3:04,0:00,28.57
+2018020123,8475246,Kevin Connauton,Arizona Coyotes,Columbus Blue Jackets,D,20:00,0,0,2,3,0,0,2,0,0,0,0,0,0,0,2,18:59,0:00,1:01,NA
+2018020123,8471274,Alex Goligoski,Arizona Coyotes,Columbus Blue Jackets,D,22:39,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,16:42,2:54,3:03,NA
+2018020123,8478474,Lawson Crouse,Arizona Coyotes,Columbus Blue Jackets,LW,15:52,0,0,1,2,0,0,2,0,0,0,0,0,0,0,-1,13:16,0:10,2:26,NA
+2018020123,8478440,Dylan Strome,Arizona Coyotes,Columbus Blue Jackets,C,12:41,0,1,2,0,1,0,0,1,4,0,0,0,0,0,0,9:57,2:44,0:00,25
+2018020123,8478432,Christian Fischer,Arizona Coyotes,Columbus Blue Jackets,RW,13:49,0,3,4,0,0,0,0,0,0,0,1,0,0,0,3,12:06,1:37,0:06,NA
+2018020123,8479343,Clayton Keller,Arizona Coyotes,Columbus Blue Jackets,C,16:07,0,0,2,0,0,0,0,0,1,0,0,0,0,0,-1,12:54,3:04,0:09,0
+2018020123,8475171,Oliver Ekman-Larsson,Arizona Coyotes,Columbus Blue Jackets,D,19:43,0,0,2,0,0,0,2,0,0,0,0,0,0,0,1,14:43,3:04,1:56,NA
+2018020123,8476393,Nick Cousins,Arizona Coyotes,Columbus Blue Jackets,C,12:30,0,0,3,1,0,0,2,6,8,0,0,0,0,3,0,12:14,0:16,0:00,75

@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020484,8468611,Matt Hendricks,Minnesota Wild,C,11:40,0,0,0,2,0,0,0,60,3,5,0,1,0,0,0,0,11:40,0:00,0:00
-2018020484,8474716,Jared Spurgeon,Minnesota Wild,D,20:52,2,0,1,1,0,0,0,NA,0,0,0,0,0,0,1,3,19:19,0:00,1:33
-2018020484,8470595,Eric Staal,Minnesota Wild,C,17:10,0,1,3,0,0,0,0,44.44,8,18,3,2,0,0,0,1,16:56,0:00,0:14
-2018020484,8470600,Ryan Suter,Minnesota Wild,D,24:33,3,0,1,1,0,0,0,NA,0,0,0,0,0,0,2,1,22:32,0:00,2:01
-2018020484,8470611,Eric Fehr,Minnesota Wild,C,12:55,0,0,2,1,0,0,0,75,6,8,1,0,0,0,5,0,10:49,0:00,2:06
-2018020484,8475798,Mikael Granlund,Minnesota Wild,RW,18:30,1,0,1,1,0,0,2,33.33,1,3,1,0,0,0,0,1,18:30,0:00,0:00
-2018020484,8475722,Jason Zucker,Minnesota Wild,LW,15:42,0,0,3,0,0,0,2,NA,0,0,0,0,0,0,1,1,15:28,0:00,0:14
-2018020484,8475799,Nino Niederreiter,Minnesota Wild,RW,15:47,1,2,4,0,0,0,0,100,3,3,0,0,0,0,1,4,15:47,0:00,0:00
-2018020484,8474688,Greg Pateryn,Minnesota Wild,D,14:30,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,2,0,14:04,0:00,0:26
-2018020484,8475745,Charlie Coyle,Minnesota Wild,C,17:21,0,0,1,1,0,0,2,50,9,18,0,0,0,0,1,3,16:47,0:00,0:34
-2018020484,8470610,Zach Parise,Minnesota Wild,LW,17:12,1,1,2,0,0,0,0,NA,0,0,0,0,0,0,1,4,16:31,0:00,0:41
-2018020484,8476856,Matt Dumba,Minnesota Wild,D,23:47,1,0,2,1,0,0,0,NA,0,0,0,0,0,0,2,1,21:39,0:00,2:08
-2018020484,8479316,Luke Kunin,Minnesota Wild,C,11:29,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1,-1,10:23,0:00,1:06
-2018020484,8478413,Jordan Greenway,Minnesota Wild,LW,9:26,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,0,-1,9:26,0:00,0:00
-2018020484,8476372,Nick Seeler,Minnesota Wild,D,14:44,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,2,0,14:18,0:00,0:26
-2018020484,8475220,Marcus Foligno,Minnesota Wild,LW,14:44,0,0,0,4,0,0,0,0,0,1,0,0,0,0,1,0,12:45,0:00,1:59
-2018020484,8476463,Jonas Brodin,Minnesota Wild,D,21:34,0,1,1,0,0,0,0,NA,0,0,0,0,0,0,0,3,20:08,0:00,1:26
-2018020484,8478493,Joel Eriksson Ek,Minnesota Wild,C,12:04,0,0,1,0,0,0,0,25,3,12,0,0,0,0,1,0,10:58,0:00,1:06
-2018020484,8471735,Keith Yandle,Florida Panthers,D,25:07,0,0,2,1,0,0,2,NA,0,0,0,1,0,0,1,-1,22:55,2:12,0:00
-2018020484,8474149,Evgenii Dadonov,Florida Panthers,RW,13:31,0,0,0,1,0,0,0,NA,0,0,1,0,0,0,1,0,11:32,1:59,0:00
-2018020484,8477932,Aaron Ekblad,Florida Panthers,D,25:29,0,0,4,2,0,0,0,NA,0,0,0,0,0,0,2,-2,23:28,2:01,0:00
-2018020484,8476875,Mike Matheson,Florida Panthers,D,18:16,0,0,4,3,0,0,0,NA,0,0,0,2,0,0,2,-3,16:28,1:48,0:00
-2018020484,8474884,Mike Hoffman,Florida Panthers,LW,20:54,0,0,3,0,0,0,0,100,1,1,1,1,0,0,1,-1,18:46,2:08,0:00
-2018020484,8471426,Troy Brouwer,Florida Panthers,RW,12:52,0,0,0,2,0,0,0,NA,0,0,1,0,0,0,0,0,12:52,0:00,0:00
-2018020484,8475755,Alexander Petrovic,Florida Panthers,D,16:27,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,0,1,16:27,0:00,0:00
-2018020484,8477955,Jared McCann,Florida Panthers,C,15:06,0,0,2,2,0,0,0,62.5,10,16,0,0,0,0,1,-2,13:14,1:52,0:00
-2018020484,8474098,Colton Sceviour,Florida Panthers,C,10:59,0,0,1,1,0,0,0,100,1,1,0,0,0,0,0,-1,10:59,0:00,0:00
-2018020484,8479447,Anthony Greco,Florida Panthers,RW,9:30,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,-3,9:30,0:00,0:00
-2018020484,8478843,Denis Malgin,Florida Panthers,C,17:15,0,1,1,0,0,0,0,43.75,7,16,0,0,0,0,0,0,15:14,2:01,0:00
-2018020484,8477996,Juho Lammikko,Florida Panthers,RW,9:15,0,0,2,0,0,0,0,37.5,3,8,0,0,0,0,0,-1,9:15,0:00,0:00
-2018020484,8476456,Jonathan Huberdeau,Florida Panthers,LW,21:07,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-2,19:08,1:59,0:00
-2018020484,8475796,Mark Pysyk,Florida Panthers,D,15:35,0,0,0,4,0,0,0,NA,0,0,0,0,0,0,0,-4,15:35,0:00,0:00
-2018020484,8477346,MacKenzie Weegar,Florida Panthers,D,17:03,1,0,2,1,0,0,0,NA,0,0,0,0,0,0,1,1,17:03,0:00,0:00
-2018020484,8478366,Frank Vatrano,Florida Panthers,C,17:12,1,0,2,0,0,0,0,50,1,2,0,0,0,0,1,0,15:11,2:01,0:00
-2018020484,8478211,Dryden Hunt,Florida Panthers,LW,11:59,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,1,-1,11:59,0:00,0:00
-2018020484,8477493,Aleksander Barkov,Florida Panthers,C,20:30,0,0,0,1,0,0,0,52,13,25,1,0,0,0,1,-1,18:31,1:59,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020484,8468611,Matt Hendricks,Minnesota Wild,Florida Panthers,C,11:40,0,0,0,2,0,0,0,60,3,5,0,1,0,0,0,0,11:40,0:00,0:00
+2018020484,8474716,Jared Spurgeon,Minnesota Wild,Florida Panthers,D,20:52,2,0,1,1,0,0,0,NA,0,0,0,0,0,0,1,3,19:19,0:00,1:33
+2018020484,8470595,Eric Staal,Minnesota Wild,Florida Panthers,C,17:10,0,1,3,0,0,0,0,44.44,8,18,3,2,0,0,0,1,16:56,0:00,0:14
+2018020484,8470600,Ryan Suter,Minnesota Wild,Florida Panthers,D,24:33,3,0,1,1,0,0,0,NA,0,0,0,0,0,0,2,1,22:32,0:00,2:01
+2018020484,8470611,Eric Fehr,Minnesota Wild,Florida Panthers,C,12:55,0,0,2,1,0,0,0,75,6,8,1,0,0,0,5,0,10:49,0:00,2:06
+2018020484,8475798,Mikael Granlund,Minnesota Wild,Florida Panthers,RW,18:30,1,0,1,1,0,0,2,33.33,1,3,1,0,0,0,0,1,18:30,0:00,0:00
+2018020484,8475722,Jason Zucker,Minnesota Wild,Florida Panthers,LW,15:42,0,0,3,0,0,0,2,NA,0,0,0,0,0,0,1,1,15:28,0:00,0:14
+2018020484,8475799,Nino Niederreiter,Minnesota Wild,Florida Panthers,RW,15:47,1,2,4,0,0,0,0,100,3,3,0,0,0,0,1,4,15:47,0:00,0:00
+2018020484,8474688,Greg Pateryn,Minnesota Wild,Florida Panthers,D,14:30,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,2,0,14:04,0:00,0:26
+2018020484,8475745,Charlie Coyle,Minnesota Wild,Florida Panthers,C,17:21,0,0,1,1,0,0,2,50,9,18,0,0,0,0,1,3,16:47,0:00,0:34
+2018020484,8470610,Zach Parise,Minnesota Wild,Florida Panthers,LW,17:12,1,1,2,0,0,0,0,NA,0,0,0,0,0,0,1,4,16:31,0:00,0:41
+2018020484,8476856,Matt Dumba,Minnesota Wild,Florida Panthers,D,23:47,1,0,2,1,0,0,0,NA,0,0,0,0,0,0,2,1,21:39,0:00,2:08
+2018020484,8479316,Luke Kunin,Minnesota Wild,Florida Panthers,C,11:29,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1,-1,10:23,0:00,1:06
+2018020484,8478413,Jordan Greenway,Minnesota Wild,Florida Panthers,LW,9:26,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,0,-1,9:26,0:00,0:00
+2018020484,8476372,Nick Seeler,Minnesota Wild,Florida Panthers,D,14:44,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,2,0,14:18,0:00,0:26
+2018020484,8475220,Marcus Foligno,Minnesota Wild,Florida Panthers,LW,14:44,0,0,0,4,0,0,0,0,0,1,0,0,0,0,1,0,12:45,0:00,1:59
+2018020484,8476463,Jonas Brodin,Minnesota Wild,Florida Panthers,D,21:34,0,1,1,0,0,0,0,NA,0,0,0,0,0,0,0,3,20:08,0:00,1:26
+2018020484,8478493,Joel Eriksson Ek,Minnesota Wild,Florida Panthers,C,12:04,0,0,1,0,0,0,0,25,3,12,0,0,0,0,1,0,10:58,0:00,1:06
+2018020484,8471735,Keith Yandle,Florida Panthers,Minnesota Wild,D,25:07,0,0,2,1,0,0,2,NA,0,0,0,1,0,0,1,-1,22:55,2:12,0:00
+2018020484,8474149,Evgenii Dadonov,Florida Panthers,Minnesota Wild,RW,13:31,0,0,0,1,0,0,0,NA,0,0,1,0,0,0,1,0,11:32,1:59,0:00
+2018020484,8477932,Aaron Ekblad,Florida Panthers,Minnesota Wild,D,25:29,0,0,4,2,0,0,0,NA,0,0,0,0,0,0,2,-2,23:28,2:01,0:00
+2018020484,8476875,Mike Matheson,Florida Panthers,Minnesota Wild,D,18:16,0,0,4,3,0,0,0,NA,0,0,0,2,0,0,2,-3,16:28,1:48,0:00
+2018020484,8474884,Mike Hoffman,Florida Panthers,Minnesota Wild,LW,20:54,0,0,3,0,0,0,0,100,1,1,1,1,0,0,1,-1,18:46,2:08,0:00
+2018020484,8471426,Troy Brouwer,Florida Panthers,Minnesota Wild,RW,12:52,0,0,0,2,0,0,0,NA,0,0,1,0,0,0,0,0,12:52,0:00,0:00
+2018020484,8475755,Alexander Petrovic,Florida Panthers,Minnesota Wild,D,16:27,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,0,1,16:27,0:00,0:00
+2018020484,8477955,Jared McCann,Florida Panthers,Minnesota Wild,C,15:06,0,0,2,2,0,0,0,62.5,10,16,0,0,0,0,1,-2,13:14,1:52,0:00
+2018020484,8474098,Colton Sceviour,Florida Panthers,Minnesota Wild,C,10:59,0,0,1,1,0,0,0,100,1,1,0,0,0,0,0,-1,10:59,0:00,0:00
+2018020484,8479447,Anthony Greco,Florida Panthers,Minnesota Wild,RW,9:30,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,0,-3,9:30,0:00,0:00
+2018020484,8478843,Denis Malgin,Florida Panthers,Minnesota Wild,C,17:15,0,1,1,0,0,0,0,43.75,7,16,0,0,0,0,0,0,15:14,2:01,0:00
+2018020484,8477996,Juho Lammikko,Florida Panthers,Minnesota Wild,RW,9:15,0,0,2,0,0,0,0,37.5,3,8,0,0,0,0,0,-1,9:15,0:00,0:00
+2018020484,8476456,Jonathan Huberdeau,Florida Panthers,Minnesota Wild,LW,21:07,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-2,19:08,1:59,0:00
+2018020484,8475796,Mark Pysyk,Florida Panthers,Minnesota Wild,D,15:35,0,0,0,4,0,0,0,NA,0,0,0,0,0,0,0,-4,15:35,0:00,0:00
+2018020484,8477346,MacKenzie Weegar,Florida Panthers,Minnesota Wild,D,17:03,1,0,2,1,0,0,0,NA,0,0,0,0,0,0,1,1,17:03,0:00,0:00
+2018020484,8478366,Frank Vatrano,Florida Panthers,Minnesota Wild,C,17:12,1,0,2,0,0,0,0,50,1,2,0,0,0,0,1,0,15:11,2:01,0:00
+2018020484,8478211,Dryden Hunt,Florida Panthers,Minnesota Wild,LW,11:59,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,1,-1,11:59,0:00,0:00
+2018020484,8477493,Aleksander Barkov,Florida Panthers,Minnesota Wild,C,20:30,0,0,0,1,0,0,0,52,13,25,1,0,0,0,1,-1,18:31,1:59,0:00

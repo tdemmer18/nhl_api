@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020275,8474717,Mark Barberio,Colorado Avalanche,D,17:44,0,0,2,2,0,0,2,0,0,2,1,0,0,0,0,15:36,0:00,2:08,NA
-2018020275,8473446,Erik Johnson,Colorado Avalanche,D,23:54,0,0,1,3,0,0,0,0,0,0,0,0,0,1,1,20:14,0:00,3:40,NA
-2018020275,8477507,Nikita Zadorov,Colorado Avalanche,D,7:22,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,6:17,0:00,1:05,NA
-2018020275,8474569,Colin Wilson,Colorado Avalanche,C,13:08,0,0,1,1,0,0,2,0,0,0,0,0,0,1,0,11:03,2:05,0:00,NA
-2018020275,8480326,Sheldon Dries,Colorado Avalanche,C,9:55,1,0,0,2,0,0,0,0,0,0,0,0,0,0,1,9:55,0:00,0:00,NA
-2018020275,8476442,Matt Nieto,Colorado Avalanche,LW,10:23,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,7:24,0:00,2:59,NA
-2018020275,8476455,Gabriel Landeskog,Colorado Avalanche,LW,21:36,0,1,3,1,0,0,0,3,8,0,2,0,0,1,1,19:31,2:05,0:00,37.5
-2018020275,8474685,Matt Calvert,Colorado Avalanche,LW,13:18,0,1,4,2,0,0,0,0,1,0,0,0,0,1,1,11:18,0:00,2:00,0
-2018020275,8475268,Gabriel Bourque,Colorado Avalanche,LW,9:47,0,0,0,3,0,0,0,0,0,0,0,0,0,2,0,7:31,0:00,2:16,NA
-2018020275,8477973,Vladislav Kamenev,Colorado Avalanche,C,9:20,0,0,0,0,0,0,0,5,6,0,0,0,0,0,0,7:07,1:37,0:36,83.33
-2018020275,8477021,Alexander Kerfoot,Colorado Avalanche,C,13:24,1,1,1,0,1,1,0,7,8,1,0,0,0,0,0,11:47,1:37,0:00,87.5
-2018020275,8474013,Ian Cole,Colorado Avalanche,D,26:05,1,0,1,2,0,0,0,0,0,1,0,0,0,6,0,21:36,0:00,4:29,NA
-2018020275,8475197,Tyson Barrie,Colorado Avalanche,D,20:04,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,17:59,2:05,0:00,NA
-2018020275,8471262,Carl Soderberg,Colorado Avalanche,C,16:47,1,0,1,1,0,1,0,6,10,0,0,0,0,1,1,11:48,1:37,3:22,60
-2018020275,8479398,Samuel Girard,Colorado Avalanche,D,21:18,2,0,1,2,0,2,0,0,0,0,1,0,0,4,2,19:41,1:37,0:00,NA
-2018020275,8478420,Mikko Rantanen,Colorado Avalanche,RW,20:38,2,1,4,1,1,0,2,0,0,1,0,0,0,0,1,18:33,2:05,0:00,NA
-2018020275,8477492,Nathan MacKinnon,Colorado Avalanche,C,22:08,1,1,2,0,0,1,0,9,18,3,1,0,0,0,1,19:54,2:05,0:09,50
-2018020275,8479370,Tyson Jost,Colorado Avalanche,C,15:31,0,1,3,2,1,0,0,0,0,0,0,0,0,0,0,13:54,1:37,0:00,NA
-2018020275,8470638,Patrice Bergeron,Boston Bruins,C,17:13,1,0,3,1,0,1,4,9,21,1,0,0,0,1,-1,13:26,3:05,0:42,42.86
-2018020275,8473419,Brad Marchand,Boston Bruins,LW,18:53,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-1,15:03,2:57,0:53,NA
-2018020275,8475807,Joakim Nordstrom,Boston Bruins,C,16:36,0,0,0,1,0,0,0,2,5,1,0,0,0,2,-1,14:38,0:00,1:58,40
-2018020275,8471276,David Krejci,Boston Bruins,C,18:45,1,0,2,0,0,1,2,5,11,1,0,0,0,1,-1,16:01,2:44,0:00,45.45
-2018020275,8470655,David Backes,Boston Bruins,RW,13:23,1,0,0,1,0,1,0,1,4,0,0,0,0,1,0,9:56,2:36,0:51,25
-2018020275,8477956,David Pastrnak,Boston Bruins,RW,19:30,1,1,4,0,1,1,2,0,0,0,0,0,0,0,-1,15:24,4:06,0:00,NA
-2018020275,8478417,Jakob Forsbacka Karlsson,Boston Bruins,C,12:19,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,12:19,0:00,0:00,50
-2018020275,8478468,Jeremy Lauzon,Boston Bruins,D,21:07,0,0,0,2,0,0,0,0,0,1,1,0,0,1,-1,18:16,0:00,2:51,NA
-2018020275,8475780,Chris Wagner,Boston Bruins,RW,11:03,0,0,1,3,0,0,0,0,0,0,0,0,0,1,0,9:42,0:00,1:21,NA
-2018020275,8475186,John Moore,Boston Bruins,D,20:06,0,0,1,2,0,0,0,0,0,1,0,0,0,2,-1,17:15,0:00,2:51,NA
-2018020275,8476792,Torey Krug,Boston Bruins,D,25:22,0,0,3,1,0,0,0,0,0,0,0,0,0,5,0,21:15,3:16,0:51,NA
-2018020275,8476891,Matt Grzelcyk,Boston Bruins,D,24:49,0,0,0,1,0,0,0,0,0,2,0,0,0,0,-1,21:33,2:25,0:51,NA
-2018020275,8476374,Sean Kuraly,Boston Bruins,C,11:23,0,0,2,1,0,0,0,3,8,0,0,0,0,1,0,10:32,0:00,0:51,37.5
-2018020275,8478498,Jake DeBrusk,Boston Bruins,LW,16:53,0,2,2,1,1,0,0,0,0,0,0,0,0,1,-1,14:02,2:51,0:00,NA
-2018020275,8478046,Danton Heinen,Boston Bruins,C,15:18,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,12:28,2:50,0:00,NA
-2018020275,8474000,Steven Kampfer,Boston Bruins,D,16:31,0,0,2,1,0,0,0,0,0,0,0,0,0,1,-1,14:56,1:35,0:00,NA
-2018020275,8478075,Anders Bjork,Boston Bruins,LW,12:23,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,11:35,0:00,0:48,NA
-2018020275,8465009,Zdeno Chara,Boston Bruins,D,5:24,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5:24,0:00,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020275,8474717,Mark Barberio,Colorado Avalanche,Boston Bruins,D,17:44,0,0,2,2,0,0,2,0,0,2,1,0,0,0,0,15:36,0:00,2:08,NA
+2018020275,8473446,Erik Johnson,Colorado Avalanche,Boston Bruins,D,23:54,0,0,1,3,0,0,0,0,0,0,0,0,0,1,1,20:14,0:00,3:40,NA
+2018020275,8477507,Nikita Zadorov,Colorado Avalanche,Boston Bruins,D,7:22,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,6:17,0:00,1:05,NA
+2018020275,8474569,Colin Wilson,Colorado Avalanche,Boston Bruins,C,13:08,0,0,1,1,0,0,2,0,0,0,0,0,0,1,0,11:03,2:05,0:00,NA
+2018020275,8480326,Sheldon Dries,Colorado Avalanche,Boston Bruins,C,9:55,1,0,0,2,0,0,0,0,0,0,0,0,0,0,1,9:55,0:00,0:00,NA
+2018020275,8476442,Matt Nieto,Colorado Avalanche,Boston Bruins,LW,10:23,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,7:24,0:00,2:59,NA
+2018020275,8476455,Gabriel Landeskog,Colorado Avalanche,Boston Bruins,LW,21:36,0,1,3,1,0,0,0,3,8,0,2,0,0,1,1,19:31,2:05,0:00,37.5
+2018020275,8474685,Matt Calvert,Colorado Avalanche,Boston Bruins,LW,13:18,0,1,4,2,0,0,0,0,1,0,0,0,0,1,1,11:18,0:00,2:00,0
+2018020275,8475268,Gabriel Bourque,Colorado Avalanche,Boston Bruins,LW,9:47,0,0,0,3,0,0,0,0,0,0,0,0,0,2,0,7:31,0:00,2:16,NA
+2018020275,8477973,Vladislav Kamenev,Colorado Avalanche,Boston Bruins,C,9:20,0,0,0,0,0,0,0,5,6,0,0,0,0,0,0,7:07,1:37,0:36,83.33
+2018020275,8477021,Alexander Kerfoot,Colorado Avalanche,Boston Bruins,C,13:24,1,1,1,0,1,1,0,7,8,1,0,0,0,0,0,11:47,1:37,0:00,87.5
+2018020275,8474013,Ian Cole,Colorado Avalanche,Boston Bruins,D,26:05,1,0,1,2,0,0,0,0,0,1,0,0,0,6,0,21:36,0:00,4:29,NA
+2018020275,8475197,Tyson Barrie,Colorado Avalanche,Boston Bruins,D,20:04,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,17:59,2:05,0:00,NA
+2018020275,8471262,Carl Soderberg,Colorado Avalanche,Boston Bruins,C,16:47,1,0,1,1,0,1,0,6,10,0,0,0,0,1,1,11:48,1:37,3:22,60
+2018020275,8479398,Samuel Girard,Colorado Avalanche,Boston Bruins,D,21:18,2,0,1,2,0,2,0,0,0,0,1,0,0,4,2,19:41,1:37,0:00,NA
+2018020275,8478420,Mikko Rantanen,Colorado Avalanche,Boston Bruins,RW,20:38,2,1,4,1,1,0,2,0,0,1,0,0,0,0,1,18:33,2:05,0:00,NA
+2018020275,8477492,Nathan MacKinnon,Colorado Avalanche,Boston Bruins,C,22:08,1,1,2,0,0,1,0,9,18,3,1,0,0,0,1,19:54,2:05,0:09,50
+2018020275,8479370,Tyson Jost,Colorado Avalanche,Boston Bruins,C,15:31,0,1,3,2,1,0,0,0,0,0,0,0,0,0,0,13:54,1:37,0:00,NA
+2018020275,8470638,Patrice Bergeron,Boston Bruins,Colorado Avalanche,C,17:13,1,0,3,1,0,1,4,9,21,1,0,0,0,1,-1,13:26,3:05,0:42,42.86
+2018020275,8473419,Brad Marchand,Boston Bruins,Colorado Avalanche,LW,18:53,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-1,15:03,2:57,0:53,NA
+2018020275,8475807,Joakim Nordstrom,Boston Bruins,Colorado Avalanche,C,16:36,0,0,0,1,0,0,0,2,5,1,0,0,0,2,-1,14:38,0:00,1:58,40
+2018020275,8471276,David Krejci,Boston Bruins,Colorado Avalanche,C,18:45,1,0,2,0,0,1,2,5,11,1,0,0,0,1,-1,16:01,2:44,0:00,45.45
+2018020275,8470655,David Backes,Boston Bruins,Colorado Avalanche,RW,13:23,1,0,0,1,0,1,0,1,4,0,0,0,0,1,0,9:56,2:36,0:51,25
+2018020275,8477956,David Pastrnak,Boston Bruins,Colorado Avalanche,RW,19:30,1,1,4,0,1,1,2,0,0,0,0,0,0,0,-1,15:24,4:06,0:00,NA
+2018020275,8478417,Jakob Forsbacka Karlsson,Boston Bruins,Colorado Avalanche,C,12:19,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,12:19,0:00,0:00,50
+2018020275,8478468,Jeremy Lauzon,Boston Bruins,Colorado Avalanche,D,21:07,0,0,0,2,0,0,0,0,0,1,1,0,0,1,-1,18:16,0:00,2:51,NA
+2018020275,8475780,Chris Wagner,Boston Bruins,Colorado Avalanche,RW,11:03,0,0,1,3,0,0,0,0,0,0,0,0,0,1,0,9:42,0:00,1:21,NA
+2018020275,8475186,John Moore,Boston Bruins,Colorado Avalanche,D,20:06,0,0,1,2,0,0,0,0,0,1,0,0,0,2,-1,17:15,0:00,2:51,NA
+2018020275,8476792,Torey Krug,Boston Bruins,Colorado Avalanche,D,25:22,0,0,3,1,0,0,0,0,0,0,0,0,0,5,0,21:15,3:16,0:51,NA
+2018020275,8476891,Matt Grzelcyk,Boston Bruins,Colorado Avalanche,D,24:49,0,0,0,1,0,0,0,0,0,2,0,0,0,0,-1,21:33,2:25,0:51,NA
+2018020275,8476374,Sean Kuraly,Boston Bruins,Colorado Avalanche,C,11:23,0,0,2,1,0,0,0,3,8,0,0,0,0,1,0,10:32,0:00,0:51,37.5
+2018020275,8478498,Jake DeBrusk,Boston Bruins,Colorado Avalanche,LW,16:53,0,2,2,1,1,0,0,0,0,0,0,0,0,1,-1,14:02,2:51,0:00,NA
+2018020275,8478046,Danton Heinen,Boston Bruins,Colorado Avalanche,C,15:18,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,12:28,2:50,0:00,NA
+2018020275,8474000,Steven Kampfer,Boston Bruins,Colorado Avalanche,D,16:31,0,0,2,1,0,0,0,0,0,0,0,0,0,1,-1,14:56,1:35,0:00,NA
+2018020275,8478075,Anders Bjork,Boston Bruins,Colorado Avalanche,LW,12:23,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,11:35,0:00,0:48,NA
+2018020275,8465009,Zdeno Chara,Boston Bruins,Colorado Avalanche,D,5:24,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5:24,0:00,0:00,NA

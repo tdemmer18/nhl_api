@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020645,8471769,Niklas Hjalmarsson,Arizona Coyotes,D,18:05,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,16:49,0:00,1:16,NA
-2018020645,8474613,Derek Stepan,Arizona Coyotes,C,17:33,1,0,4,1,0,0,0,9,14,0,0,0,0,1,1,15:21,1:36,0:36,64.29
-2018020645,8475209,Richard Panik,Arizona Coyotes,RW,16:40,0,0,2,3,0,0,0,0,0,2,0,0,0,0,0,15:05,1:00,0:35,NA
-2018020645,8478856,Conor Garland,Arizona Coyotes,RW,13:17,0,2,7,0,1,0,0,0,0,0,0,0,0,1,2,10:11,3:06,0:00,NA
-2018020645,8470755,Brad Richardson,Arizona Coyotes,C,15:26,0,0,1,1,0,0,0,8,16,3,0,0,0,0,0,14:11,0:00,1:15,50
-2018020645,8476326,Josh Archibald,Arizona Coyotes,RW,12:07,1,0,0,2,0,0,5,0,0,1,0,0,0,0,1,11:07,0:00,1:00,NA
-2018020645,8474131,Mario Kempe,Arizona Coyotes,RW,11:58,0,1,3,3,0,0,0,2,4,0,0,0,0,0,1,11:24,0:00,0:34,50
-2018020645,8477851,Jordan Oesterle,Arizona Coyotes,D,20:09,1,0,0,1,0,0,0,0,0,0,1,0,0,5,2,18:18,0:36,1:15,NA
-2018020645,8476994,Vinnie Hinostroza,Arizona Coyotes,C,16:17,0,0,3,1,0,0,0,1,1,0,0,0,0,1,0,16:17,0:00,0:00,100
-2018020645,8476851,Alex Galchenyuk,Arizona Coyotes,C,14:42,2,1,3,1,0,1,0,3,3,1,1,0,0,0,2,11:36,3:06,0:00,100
-2018020645,8471274,Alex Goligoski,Arizona Coyotes,D,21:22,1,0,2,0,0,0,0,0,0,0,1,0,0,3,1,18:25,2:12,0:45,NA
-2018020645,8478474,Lawson Crouse,Arizona Coyotes,LW,12:00,1,0,2,3,0,0,2,0,0,0,0,0,0,0,1,12:00,0:00,0:00,NA
-2018020645,8479345,Jakob Chychrun,Arizona Coyotes,D,22:06,1,0,4,0,0,0,0,0,0,0,2,0,0,1,2,19:36,2:30,0:00,NA
-2018020645,8478432,Christian Fischer,Arizona Coyotes,RW,15:31,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,13:55,1:36,0:00,NA
-2018020645,8479343,Clayton Keller,Arizona Coyotes,C,18:48,0,1,5,0,0,0,0,0,0,0,0,0,0,0,1,15:06,3:42,0:00,NA
-2018020645,8475171,Oliver Ekman-Larsson,Arizona Coyotes,D,20:06,1,0,0,0,0,1,0,0,0,1,1,0,0,0,2,15:16,4:06,0:44,NA
-2018020645,8476393,Nick Cousins,Arizona Coyotes,C,13:41,1,0,1,1,0,0,0,3,8,2,1,0,0,0,2,13:41,0:00,0:00,37.5
-2018020645,8480950,Ilya Lyubushkin,Arizona Coyotes,D,18:12,0,0,0,5,0,0,0,0,0,0,1,0,0,1,0,18:12,0:00,0:00,NA
-2018020645,8476918,Jimmy Vesey,New York Rangers,LW,14:04,0,0,1,2,0,0,0,1,1,0,0,0,0,1,0,12:28,0:10,1:26,100
-2018020645,8471717,Adam McQuaid,New York Rangers,D,18:48,0,0,0,3,0,0,0,0,0,0,0,0,0,2,-1,15:46,0:00,3:02,NA
-2018020645,8471686,Marc Staal,New York Rangers,D,21:55,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,20:02,0:00,1:53,NA
-2018020645,8476869,Brady Skjei,New York Rangers,D,22:31,0,0,1,3,0,0,0,0,0,0,0,0,0,2,-2,19:32,0:10,2:49,NA
-2018020645,8471657,Cody McLeod,New York Rangers,LW,12:27,0,0,0,7,0,0,0,0,0,0,0,0,0,0,-1,12:17,0:10,0:00,NA
-2018020645,8476458,Ryan Strome,New York Rangers,C,15:35,0,0,0,2,0,0,0,2,4,1,3,0,0,2,-1,14:14,0:10,1:11,50
-2018020645,8476459,Mika Zibanejad,New York Rangers,C,18:51,0,0,3,2,0,0,0,7,19,0,1,0,0,0,-3,15:39,1:07,2:05,36.84
-2018020645,8475855,Jesper Fast,New York Rangers,RW,16:09,0,0,0,4,0,0,0,0,0,0,0,0,0,2,-3,14:11,0:43,1:15,NA
-2018020645,8476922,Boo Nieves,New York Rangers,C,12:15,0,0,0,2,0,0,0,1,7,0,1,0,0,1,0,12:15,0:00,0:00,14.29
-2018020645,8474031,Kevin Shattenkirk,New York Rangers,D,20:18,0,0,4,1,0,0,0,0,0,0,0,0,0,2,-3,18:58,1:20,0:00,NA
-2018020645,8477402,Pavel Buchnevich,New York Rangers,RW,15:44,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,15:01,0:43,0:00,NA
-2018020645,8475184,Chris Kreider,New York Rangers,LW,14:23,0,0,5,3,0,0,2,0,0,0,0,0,0,0,-1,13:16,1:07,0:00,NA
-2018020645,8479353,Brett Howden,New York Rangers,C,14:34,0,0,1,1,0,0,0,7,10,0,0,0,0,0,0,12:16,0:43,1:35,70
-2018020645,8475692,Mats Zuccarello,New York Rangers,RW,16:56,0,0,1,2,0,0,0,0,0,0,0,0,0,0,-1,15:49,1:07,0:00,NA
-2018020645,8474090,Brendan Smith,New York Rangers,D,15:49,0,0,1,1,0,0,2,0,0,0,0,0,0,2,-2,14:51,0:00,0:58,NA
-2018020645,8480078,Filip Chytil,New York Rangers,C,11:00,0,0,0,0,0,0,0,2,5,0,0,0,0,1,-1,10:17,0:43,0:00,40
-2018020645,8476480,Vladislav Namestnikov,New York Rangers,C,15:10,0,0,1,1,0,0,0,0,0,1,1,0,0,1,-1,12:11,1:07,1:52,NA
-2018020645,8480145,Neal Pionk,New York Rangers,D,18:49,0,0,2,6,0,0,7,0,0,0,1,0,0,1,0,17:27,0:40,0:42,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020645,8471769,Niklas Hjalmarsson,Arizona Coyotes,New York Rangers,D,18:05,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,16:49,0:00,1:16,NA
+2018020645,8474613,Derek Stepan,Arizona Coyotes,New York Rangers,C,17:33,1,0,4,1,0,0,0,9,14,0,0,0,0,1,1,15:21,1:36,0:36,64.29
+2018020645,8475209,Richard Panik,Arizona Coyotes,New York Rangers,RW,16:40,0,0,2,3,0,0,0,0,0,2,0,0,0,0,0,15:05,1:00,0:35,NA
+2018020645,8478856,Conor Garland,Arizona Coyotes,New York Rangers,RW,13:17,0,2,7,0,1,0,0,0,0,0,0,0,0,1,2,10:11,3:06,0:00,NA
+2018020645,8470755,Brad Richardson,Arizona Coyotes,New York Rangers,C,15:26,0,0,1,1,0,0,0,8,16,3,0,0,0,0,0,14:11,0:00,1:15,50
+2018020645,8476326,Josh Archibald,Arizona Coyotes,New York Rangers,RW,12:07,1,0,0,2,0,0,5,0,0,1,0,0,0,0,1,11:07,0:00,1:00,NA
+2018020645,8474131,Mario Kempe,Arizona Coyotes,New York Rangers,RW,11:58,0,1,3,3,0,0,0,2,4,0,0,0,0,0,1,11:24,0:00,0:34,50
+2018020645,8477851,Jordan Oesterle,Arizona Coyotes,New York Rangers,D,20:09,1,0,0,1,0,0,0,0,0,0,1,0,0,5,2,18:18,0:36,1:15,NA
+2018020645,8476994,Vinnie Hinostroza,Arizona Coyotes,New York Rangers,C,16:17,0,0,3,1,0,0,0,1,1,0,0,0,0,1,0,16:17,0:00,0:00,100
+2018020645,8476851,Alex Galchenyuk,Arizona Coyotes,New York Rangers,C,14:42,2,1,3,1,0,1,0,3,3,1,1,0,0,0,2,11:36,3:06,0:00,100
+2018020645,8471274,Alex Goligoski,Arizona Coyotes,New York Rangers,D,21:22,1,0,2,0,0,0,0,0,0,0,1,0,0,3,1,18:25,2:12,0:45,NA
+2018020645,8478474,Lawson Crouse,Arizona Coyotes,New York Rangers,LW,12:00,1,0,2,3,0,0,2,0,0,0,0,0,0,0,1,12:00,0:00,0:00,NA
+2018020645,8479345,Jakob Chychrun,Arizona Coyotes,New York Rangers,D,22:06,1,0,4,0,0,0,0,0,0,0,2,0,0,1,2,19:36,2:30,0:00,NA
+2018020645,8478432,Christian Fischer,Arizona Coyotes,New York Rangers,RW,15:31,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,13:55,1:36,0:00,NA
+2018020645,8479343,Clayton Keller,Arizona Coyotes,New York Rangers,C,18:48,0,1,5,0,0,0,0,0,0,0,0,0,0,0,1,15:06,3:42,0:00,NA
+2018020645,8475171,Oliver Ekman-Larsson,Arizona Coyotes,New York Rangers,D,20:06,1,0,0,0,0,1,0,0,0,1,1,0,0,0,2,15:16,4:06,0:44,NA
+2018020645,8476393,Nick Cousins,Arizona Coyotes,New York Rangers,C,13:41,1,0,1,1,0,0,0,3,8,2,1,0,0,0,2,13:41,0:00,0:00,37.5
+2018020645,8480950,Ilya Lyubushkin,Arizona Coyotes,New York Rangers,D,18:12,0,0,0,5,0,0,0,0,0,0,1,0,0,1,0,18:12,0:00,0:00,NA
+2018020645,8476918,Jimmy Vesey,New York Rangers,Arizona Coyotes,LW,14:04,0,0,1,2,0,0,0,1,1,0,0,0,0,1,0,12:28,0:10,1:26,100
+2018020645,8471717,Adam McQuaid,New York Rangers,Arizona Coyotes,D,18:48,0,0,0,3,0,0,0,0,0,0,0,0,0,2,-1,15:46,0:00,3:02,NA
+2018020645,8471686,Marc Staal,New York Rangers,Arizona Coyotes,D,21:55,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,20:02,0:00,1:53,NA
+2018020645,8476869,Brady Skjei,New York Rangers,Arizona Coyotes,D,22:31,0,0,1,3,0,0,0,0,0,0,0,0,0,2,-2,19:32,0:10,2:49,NA
+2018020645,8471657,Cody McLeod,New York Rangers,Arizona Coyotes,LW,12:27,0,0,0,7,0,0,0,0,0,0,0,0,0,0,-1,12:17,0:10,0:00,NA
+2018020645,8476458,Ryan Strome,New York Rangers,Arizona Coyotes,C,15:35,0,0,0,2,0,0,0,2,4,1,3,0,0,2,-1,14:14,0:10,1:11,50
+2018020645,8476459,Mika Zibanejad,New York Rangers,Arizona Coyotes,C,18:51,0,0,3,2,0,0,0,7,19,0,1,0,0,0,-3,15:39,1:07,2:05,36.84
+2018020645,8475855,Jesper Fast,New York Rangers,Arizona Coyotes,RW,16:09,0,0,0,4,0,0,0,0,0,0,0,0,0,2,-3,14:11,0:43,1:15,NA
+2018020645,8476922,Boo Nieves,New York Rangers,Arizona Coyotes,C,12:15,0,0,0,2,0,0,0,1,7,0,1,0,0,1,0,12:15,0:00,0:00,14.29
+2018020645,8474031,Kevin Shattenkirk,New York Rangers,Arizona Coyotes,D,20:18,0,0,4,1,0,0,0,0,0,0,0,0,0,2,-3,18:58,1:20,0:00,NA
+2018020645,8477402,Pavel Buchnevich,New York Rangers,Arizona Coyotes,RW,15:44,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,15:01,0:43,0:00,NA
+2018020645,8475184,Chris Kreider,New York Rangers,Arizona Coyotes,LW,14:23,0,0,5,3,0,0,2,0,0,0,0,0,0,0,-1,13:16,1:07,0:00,NA
+2018020645,8479353,Brett Howden,New York Rangers,Arizona Coyotes,C,14:34,0,0,1,1,0,0,0,7,10,0,0,0,0,0,0,12:16,0:43,1:35,70
+2018020645,8475692,Mats Zuccarello,New York Rangers,Arizona Coyotes,RW,16:56,0,0,1,2,0,0,0,0,0,0,0,0,0,0,-1,15:49,1:07,0:00,NA
+2018020645,8474090,Brendan Smith,New York Rangers,Arizona Coyotes,D,15:49,0,0,1,1,0,0,2,0,0,0,0,0,0,2,-2,14:51,0:00,0:58,NA
+2018020645,8480078,Filip Chytil,New York Rangers,Arizona Coyotes,C,11:00,0,0,0,0,0,0,0,2,5,0,0,0,0,1,-1,10:17,0:43,0:00,40
+2018020645,8476480,Vladislav Namestnikov,New York Rangers,Arizona Coyotes,C,15:10,0,0,1,1,0,0,0,0,0,1,1,0,0,1,-1,12:11,1:07,1:52,NA
+2018020645,8480145,Neal Pionk,New York Rangers,Arizona Coyotes,D,18:49,0,0,2,6,0,0,7,0,0,0,1,0,0,1,0,17:27,0:40,0:42,NA

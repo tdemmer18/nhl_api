@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020071,8470619,Brian Boyle,New Jersey Devils,C,10:32,0,0,0,2,0,0,0,0,0,1,1,0,0,0,2,0,8:14,0:00,2:18
-2018020071,8476923,Damon Severson,New Jersey Devils,D,21:29,1,0,1,2,0,0,0,NA,0,0,1,0,0,0,1,0,14:02,6:28,0:59
-2018020071,8477509,Mirco Mueller,New Jersey Devils,D,15:12,1,0,3,0,0,0,0,NA,0,0,0,0,0,0,2,0,13:27,0:43,1:02
-2018020071,8471233,Travis Zajac,New Jersey Devils,C,19:53,0,0,1,2,0,0,0,77.78,14,18,1,0,0,0,0,0,9:47,6:55,3:11
-2018020071,8473933,Ben Lovejoy,New Jersey Devils,D,16:27,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,2,0,12:37,0:00,3:50
-2018020071,8477425,Miles Wood,New Jersey Devils,LW,15:14,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,0,10:48,4:26,0:00
-2018020071,8475149,Marcus Johansson,New Jersey Devils,LW,14:11,0,0,1,0,0,0,0,NA,0,0,2,2,0,0,0,-2,8:31,5:40,0:00
-2018020071,8472382,Andy Greene,New Jersey Devils,D,19:25,1,0,1,0,0,0,2,NA,0,0,0,0,0,0,1,1,15:21,1:15,2:49
-2018020071,8478401,Pavel Zacha,New Jersey Devils,C,11:13,0,0,1,1,0,0,0,58.33,7,12,1,1,0,0,0,-2,8:00,1:05,2:08
-2018020071,8477961,John Quenneville,New Jersey Devils,C,10:50,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,10:23,0:27,0:00
-2018020071,8477355,Will Butcher,New Jersey Devils,D,19:48,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,1,0,12:06,6:50,0:52
-2018020071,8477520,Jean-Sebastien Dea,New Jersey Devils,C,8:27,0,1,2,2,0,0,0,NA,0,0,0,0,0,0,0,1,8:27,0:00,0:00
-2018020071,8476399,Blake Coleman,New Jersey Devils,C,12:13,0,0,2,3,0,0,0,58.33,7,12,1,1,0,0,0,1,8:26,0:00,3:47
-2018020071,8475222,Sami Vatanen,New Jersey Devils,D,20:42,1,0,6,1,0,1,0,NA,0,0,2,0,0,0,1,-1,12:29,6:21,1:52
-2018020071,8475151,Kyle Palmieri,New Jersey Devils,RW,22:14,0,2,6,1,1,0,0,50,1,2,1,1,0,0,0,1,12:44,9:30,0:00
-2018020071,8475791,Taylor Hall,New Jersey Devils,LW,22:01,2,0,3,1,0,1,0,NA,0,0,3,1,0,0,0,2,12:58,9:03,0:00
-2018020071,8476474,Stefan Noesen,New Jersey Devils,RW,13:22,0,0,3,2,0,0,2,50,1,2,0,0,0,0,1,-2,8:18,5:04,0:00
-2018020071,8480002,Nico Hischier,New Jersey Devils,C,21:23,0,0,3,0,0,0,0,55,11,20,1,0,0,0,1,1,12:20,9:03,0:00
-2018020071,8470613,Brent Burns,San Jose Sharks,D,25:10,1,0,4,0,0,0,2,NA,0,0,2,0,0,0,1,2,14:27,4:25,6:18
-2018020071,8471709,Marc-Edouard Vlasic,San Jose Sharks,D,23:45,0,0,6,0,0,0,0,NA,0,0,0,0,0,0,1,-1,16:14,0:00,7:31
-2018020071,8470794,Joe Pavelski,San Jose Sharks,C,15:12,0,1,2,2,0,0,0,47.37,9,19,0,0,0,0,0,0,9:30,4:15,1:27
-2018020071,8475834,Marcus Sorensen,San Jose Sharks,LW,14:05,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,9:27,0:00,4:38
-2018020071,8474027,Justin Braun,San Jose Sharks,D,20:26,0,0,0,1,0,0,2,NA,0,0,1,0,0,0,2,-1,15:09,0:00,5:17
-2018020071,8475820,Joonas Donskoi,San Jose Sharks,RW,11:55,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,0,10:35,1:20,0:00
-2018020071,8476624,Barclay Goodrow,San Jose Sharks,RW,10:45,0,0,0,0,0,0,0,50,2,4,1,0,0,0,0,0,6:53,0:00,3:52
-2018020071,8474578,Erik Karlsson,San Jose Sharks,D,25:04,0,0,6,0,0,0,4,NA,0,0,4,1,0,0,1,-1,14:22,5:42,5:00
-2018020071,8477922,Melker Karlsson,San Jose Sharks,C,12:29,0,0,1,1,0,0,2,NA,0,0,1,0,0,0,0,0,7:17,0:29,4:43
-2018020071,8474053,Logan Couture,San Jose Sharks,C,20:05,1,0,4,1,0,0,0,42.11,8,19,1,0,0,0,3,0,12:59,4:01,3:05
-2018020071,8480965,Antti Suomela,San Jose Sharks,C,10:15,0,0,1,0,0,0,2,25,2,8,1,0,0,0,0,0,10:15,0:00,0:00
-2018020071,8478414,Timo Meier,San Jose Sharks,RW,16:07,0,1,2,0,0,0,0,NA,0,0,1,0,0,0,0,0,12:22,1:12,2:33
-2018020071,8475455,Brenden Dillon,San Jose Sharks,D,14:14,0,0,0,3,0,0,0,NA,0,0,0,0,0,0,3,-1,9:12,0:00,5:02
-2018020071,8475169,Evander Kane,San Jose Sharks,LW,17:32,1,0,3,0,0,0,0,40,2,5,0,0,0,0,0,0,10:02,2:48,4:42
-2018020071,8478078,Rourke Chartier,San Jose Sharks,C,7:18,0,0,0,0,0,0,0,33.33,2,6,0,0,0,0,0,0,6:57,0:00,0:21
-2018020071,8478099,Kevin Labanc,San Jose Sharks,RW,12:17,0,0,5,0,0,0,0,NA,0,0,1,0,0,0,0,0,9:28,2:49,0:00
-2018020071,8477046,Joakim Ryan,San Jose Sharks,D,10:01,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,1,2,10:01,0:00,0:00
-2018020071,8476881,Tomas Hertl,San Jose Sharks,C,19:27,1,0,3,1,0,0,4,16.67,1,6,3,1,0,0,1,0,13:22,3:13,2:52
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020071,8470619,Brian Boyle,New Jersey Devils,San Jose Sharks,C,10:32,0,0,0,2,0,0,0,0,0,1,1,0,0,0,2,0,8:14,0:00,2:18
+2018020071,8476923,Damon Severson,New Jersey Devils,San Jose Sharks,D,21:29,1,0,1,2,0,0,0,NA,0,0,1,0,0,0,1,0,14:02,6:28,0:59
+2018020071,8477509,Mirco Mueller,New Jersey Devils,San Jose Sharks,D,15:12,1,0,3,0,0,0,0,NA,0,0,0,0,0,0,2,0,13:27,0:43,1:02
+2018020071,8471233,Travis Zajac,New Jersey Devils,San Jose Sharks,C,19:53,0,0,1,2,0,0,0,77.78,14,18,1,0,0,0,0,0,9:47,6:55,3:11
+2018020071,8473933,Ben Lovejoy,New Jersey Devils,San Jose Sharks,D,16:27,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,2,0,12:37,0:00,3:50
+2018020071,8477425,Miles Wood,New Jersey Devils,San Jose Sharks,LW,15:14,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,0,10:48,4:26,0:00
+2018020071,8475149,Marcus Johansson,New Jersey Devils,San Jose Sharks,LW,14:11,0,0,1,0,0,0,0,NA,0,0,2,2,0,0,0,-2,8:31,5:40,0:00
+2018020071,8472382,Andy Greene,New Jersey Devils,San Jose Sharks,D,19:25,1,0,1,0,0,0,2,NA,0,0,0,0,0,0,1,1,15:21,1:15,2:49
+2018020071,8478401,Pavel Zacha,New Jersey Devils,San Jose Sharks,C,11:13,0,0,1,1,0,0,0,58.33,7,12,1,1,0,0,0,-2,8:00,1:05,2:08
+2018020071,8477961,John Quenneville,New Jersey Devils,San Jose Sharks,C,10:50,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,10:23,0:27,0:00
+2018020071,8477355,Will Butcher,New Jersey Devils,San Jose Sharks,D,19:48,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,1,0,12:06,6:50,0:52
+2018020071,8477520,Jean-Sebastien Dea,New Jersey Devils,San Jose Sharks,C,8:27,0,1,2,2,0,0,0,NA,0,0,0,0,0,0,0,1,8:27,0:00,0:00
+2018020071,8476399,Blake Coleman,New Jersey Devils,San Jose Sharks,C,12:13,0,0,2,3,0,0,0,58.33,7,12,1,1,0,0,0,1,8:26,0:00,3:47
+2018020071,8475222,Sami Vatanen,New Jersey Devils,San Jose Sharks,D,20:42,1,0,6,1,0,1,0,NA,0,0,2,0,0,0,1,-1,12:29,6:21,1:52
+2018020071,8475151,Kyle Palmieri,New Jersey Devils,San Jose Sharks,RW,22:14,0,2,6,1,1,0,0,50,1,2,1,1,0,0,0,1,12:44,9:30,0:00
+2018020071,8475791,Taylor Hall,New Jersey Devils,San Jose Sharks,LW,22:01,2,0,3,1,0,1,0,NA,0,0,3,1,0,0,0,2,12:58,9:03,0:00
+2018020071,8476474,Stefan Noesen,New Jersey Devils,San Jose Sharks,RW,13:22,0,0,3,2,0,0,2,50,1,2,0,0,0,0,1,-2,8:18,5:04,0:00
+2018020071,8480002,Nico Hischier,New Jersey Devils,San Jose Sharks,C,21:23,0,0,3,0,0,0,0,55,11,20,1,0,0,0,1,1,12:20,9:03,0:00
+2018020071,8470613,Brent Burns,San Jose Sharks,New Jersey Devils,D,25:10,1,0,4,0,0,0,2,NA,0,0,2,0,0,0,1,2,14:27,4:25,6:18
+2018020071,8471709,Marc-Edouard Vlasic,San Jose Sharks,New Jersey Devils,D,23:45,0,0,6,0,0,0,0,NA,0,0,0,0,0,0,1,-1,16:14,0:00,7:31
+2018020071,8470794,Joe Pavelski,San Jose Sharks,New Jersey Devils,C,15:12,0,1,2,2,0,0,0,47.37,9,19,0,0,0,0,0,0,9:30,4:15,1:27
+2018020071,8475834,Marcus Sorensen,San Jose Sharks,New Jersey Devils,LW,14:05,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,9:27,0:00,4:38
+2018020071,8474027,Justin Braun,San Jose Sharks,New Jersey Devils,D,20:26,0,0,0,1,0,0,2,NA,0,0,1,0,0,0,2,-1,15:09,0:00,5:17
+2018020071,8475820,Joonas Donskoi,San Jose Sharks,New Jersey Devils,RW,11:55,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,0,10:35,1:20,0:00
+2018020071,8476624,Barclay Goodrow,San Jose Sharks,New Jersey Devils,RW,10:45,0,0,0,0,0,0,0,50,2,4,1,0,0,0,0,0,6:53,0:00,3:52
+2018020071,8474578,Erik Karlsson,San Jose Sharks,New Jersey Devils,D,25:04,0,0,6,0,0,0,4,NA,0,0,4,1,0,0,1,-1,14:22,5:42,5:00
+2018020071,8477922,Melker Karlsson,San Jose Sharks,New Jersey Devils,C,12:29,0,0,1,1,0,0,2,NA,0,0,1,0,0,0,0,0,7:17,0:29,4:43
+2018020071,8474053,Logan Couture,San Jose Sharks,New Jersey Devils,C,20:05,1,0,4,1,0,0,0,42.11,8,19,1,0,0,0,3,0,12:59,4:01,3:05
+2018020071,8480965,Antti Suomela,San Jose Sharks,New Jersey Devils,C,10:15,0,0,1,0,0,0,2,25,2,8,1,0,0,0,0,0,10:15,0:00,0:00
+2018020071,8478414,Timo Meier,San Jose Sharks,New Jersey Devils,RW,16:07,0,1,2,0,0,0,0,NA,0,0,1,0,0,0,0,0,12:22,1:12,2:33
+2018020071,8475455,Brenden Dillon,San Jose Sharks,New Jersey Devils,D,14:14,0,0,0,3,0,0,0,NA,0,0,0,0,0,0,3,-1,9:12,0:00,5:02
+2018020071,8475169,Evander Kane,San Jose Sharks,New Jersey Devils,LW,17:32,1,0,3,0,0,0,0,40,2,5,0,0,0,0,0,0,10:02,2:48,4:42
+2018020071,8478078,Rourke Chartier,San Jose Sharks,New Jersey Devils,C,7:18,0,0,0,0,0,0,0,33.33,2,6,0,0,0,0,0,0,6:57,0:00,0:21
+2018020071,8478099,Kevin Labanc,San Jose Sharks,New Jersey Devils,RW,12:17,0,0,5,0,0,0,0,NA,0,0,1,0,0,0,0,0,9:28,2:49,0:00
+2018020071,8477046,Joakim Ryan,San Jose Sharks,New Jersey Devils,D,10:01,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,1,2,10:01,0:00,0:00
+2018020071,8476881,Tomas Hertl,San Jose Sharks,New Jersey Devils,C,19:27,1,0,3,1,0,0,4,16.67,1,6,3,1,0,0,1,0,13:22,3:13,2:52

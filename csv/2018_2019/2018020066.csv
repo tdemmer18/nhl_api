@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020066,8475218,Mattias Ekholm,Nashville Predators,D,21:09,1,0,2,0,0,0,0,0,0,0,0,0,0,1,0,19:59,0:06,1:04,NA
-2018020066,8475714,Calle Jarnkrok,Nashville Predators,C,15:48,0,1,2,0,0,0,0,5,7,1,0,0,0,0,1,14:53,0:00,0:55,71.43
-2018020066,8476925,Colton Sissons,Nashville Predators,C,13:06,0,0,0,1,0,0,0,5,13,0,0,0,0,2,0,12:11,0:00,0:55,38.46
-2018020066,8474736,Zac Rinaldo,Nashville Predators,C,11:15,0,0,0,5,0,0,0,0,1,0,0,0,0,1,0,11:15,0:00,0:00,0
-2018020066,8475225,Craig Smith,Nashville Predators,RW,12:03,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,10:28,1:35,0:00,100
-2018020066,8476887,Filip Forsberg,Nashville Predators,LW,17:06,0,2,7,0,0,0,2,0,0,0,1,0,0,0,1,15:25,1:41,0:00,NA
-2018020066,8476447,Miikka Salomaki,Nashville Predators,RW,12:09,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,12:09,0:00,0:00,NA
-2018020066,8477942,Kevin Fiala,Nashville Predators,LW,14:49,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,13:46,1:03,0:00,NA
-2018020066,8474009,Nick Bonino,Nashville Predators,C,16:10,1,0,2,0,0,0,0,5,10,0,1,0,0,0,1,14:02,1:03,1:05,50
-2018020066,8474600,Roman Josi,Nashville Predators,D,21:07,1,0,1,1,0,1,0,0,0,1,1,0,0,0,0,19:08,1:03,0:56,NA
-2018020066,8475793,Ryan Johansen,Nashville Predators,C,17:25,2,0,1,2,0,0,0,11,17,0,1,0,0,1,1,14:48,1:41,0:56,64.71
-2018020066,8477451,Ryan Hartman,Nashville Predators,RW,15:59,1,0,4,0,0,0,0,0,0,0,1,0,0,0,1,15:59,0:00,0:00,NA
-2018020066,8474134,Yannick Weber,Nashville Predators,D,16:10,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,16:10,0:00,0:00,NA
-2018020066,8474068,Kyle Turris,Nashville Predators,C,15:18,0,1,2,0,1,0,0,6,13,1,0,0,0,0,0,14:15,1:03,0:00,46.15
-2018020066,8474056,P.K. Subban,Nashville Predators,D,22:42,0,0,1,0,0,0,0,0,0,1,0,0,0,2,0,19:57,1:41,1:04,NA
-2018020066,8475176,Ryan Ellis,Nashville Predators,D,21:29,0,0,1,0,0,0,0,0,0,1,1,0,0,2,0,19:30,1:03,0:56,NA
-2018020066,8469465,Dan Hamhuis,Nashville Predators,D,15:48,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,15:48,0:00,0:00,NA
-2018020066,8478042,Viktor Arvidsson,Nashville Predators,LW,18:30,1,1,4,0,0,0,0,0,0,2,3,0,0,0,1,16:40,1:41,0:09,NA
-2018020066,8474709,Matt Martin,New York Islanders,LW,9:19,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-1,9:19,0:00,0:00,NA
-2018020066,8476917,Adam Pelech,New York Islanders,D,18:07,0,0,1,2,0,0,0,0,0,0,3,0,0,2,-1,17:00,0:00,1:07,NA
-2018020066,8477506,Ryan Pulock,New York Islanders,D,22:49,0,0,1,2,0,0,0,0,0,0,0,0,0,2,0,20:08,0:38,2:03,NA
-2018020066,8476429,Scott Mayfield,New York Islanders,D,17:26,0,0,0,2,0,0,0,0,0,1,0,0,0,2,-1,16:40,0:00,0:46,NA
-2018020066,8470047,Valtteri Filppula,New York Islanders,C,13:49,0,0,0,0,0,0,0,8,14,0,0,0,0,0,-1,12:56,0:00,0:53,57.14
-2018020066,8472410,Stephen Gionta,New York Islanders,RW,9:13,0,0,1,3,0,0,0,4,9,0,0,0,0,0,-1,8:45,0:07,0:21,44.44
-2018020066,8470187,Johnny Boychuk,New York Islanders,D,16:57,0,0,4,0,0,0,0,0,0,1,0,0,0,0,-1,15:38,0:38,0:41,NA
-2018020066,8473504,Cal Clutterbuck,New York Islanders,RW,12:32,0,0,1,2,0,0,0,1,1,1,0,0,0,0,-1,11:16,0:31,0:45,100
-2018020066,8471217,Andrew Ladd,New York Islanders,LW,12:39,0,1,2,1,0,0,0,0,0,1,0,0,0,0,0,12:15,0:00,0:24,NA
-2018020066,8475314,Anders Lee,New York Islanders,LW,20:36,1,0,2,2,0,0,2,1,2,0,0,0,0,2,1,19:14,1:22,0:00,50
-2018020066,8475754,Brock Nelson,New York Islanders,C,21:42,0,1,2,1,0,0,0,9,20,0,2,0,0,1,0,19:58,0:38,1:06,45
-2018020066,8478445,Mathew Barzal,New York Islanders,C,17:22,1,0,2,0,0,0,0,3,12,1,0,0,0,0,-1,15:16,1:22,0:44,25
-2018020066,8474573,Josh Bailey,New York Islanders,RW,16:32,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,15:10,1:22,0:00,NA
-2018020066,8474586,Jordan Eberle,New York Islanders,C,21:09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,18:41,1:22,1:06,NA
-2018020066,8478463,Anthony Beauvillier,New York Islanders,C,14:01,0,0,1,3,0,0,0,2,3,1,0,0,0,0,-1,13:23,0:38,0:00,66.67
-2018020066,8473463,Leo Komarov,New York Islanders,C,10:28,0,0,0,2,0,0,0,1,1,1,0,0,0,0,-1,9:35,0:00,0:53,100
-2018020066,8474066,Thomas Hickey,New York Islanders,D,19:55,0,0,1,1,0,0,2,0,0,0,2,0,0,1,-1,19:48,0:00,0:07,NA
-2018020066,8475181,Nick Leddy,New York Islanders,D,23:24,0,0,2,1,0,0,0,0,0,1,0,0,0,1,-1,21:18,1:22,0:44,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020066,8475218,Mattias Ekholm,Nashville Predators,New York Islanders,D,21:09,1,0,2,0,0,0,0,0,0,0,0,0,0,1,0,19:59,0:06,1:04,NA
+2018020066,8475714,Calle Jarnkrok,Nashville Predators,New York Islanders,C,15:48,0,1,2,0,0,0,0,5,7,1,0,0,0,0,1,14:53,0:00,0:55,71.43
+2018020066,8476925,Colton Sissons,Nashville Predators,New York Islanders,C,13:06,0,0,0,1,0,0,0,5,13,0,0,0,0,2,0,12:11,0:00,0:55,38.46
+2018020066,8474736,Zac Rinaldo,Nashville Predators,New York Islanders,C,11:15,0,0,0,5,0,0,0,0,1,0,0,0,0,1,0,11:15,0:00,0:00,0
+2018020066,8475225,Craig Smith,Nashville Predators,New York Islanders,RW,12:03,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,10:28,1:35,0:00,100
+2018020066,8476887,Filip Forsberg,Nashville Predators,New York Islanders,LW,17:06,0,2,7,0,0,0,2,0,0,0,1,0,0,0,1,15:25,1:41,0:00,NA
+2018020066,8476447,Miikka Salomaki,Nashville Predators,New York Islanders,RW,12:09,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,12:09,0:00,0:00,NA
+2018020066,8477942,Kevin Fiala,Nashville Predators,New York Islanders,LW,14:49,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,13:46,1:03,0:00,NA
+2018020066,8474009,Nick Bonino,Nashville Predators,New York Islanders,C,16:10,1,0,2,0,0,0,0,5,10,0,1,0,0,0,1,14:02,1:03,1:05,50
+2018020066,8474600,Roman Josi,Nashville Predators,New York Islanders,D,21:07,1,0,1,1,0,1,0,0,0,1,1,0,0,0,0,19:08,1:03,0:56,NA
+2018020066,8475793,Ryan Johansen,Nashville Predators,New York Islanders,C,17:25,2,0,1,2,0,0,0,11,17,0,1,0,0,1,1,14:48,1:41,0:56,64.71
+2018020066,8477451,Ryan Hartman,Nashville Predators,New York Islanders,RW,15:59,1,0,4,0,0,0,0,0,0,0,1,0,0,0,1,15:59,0:00,0:00,NA
+2018020066,8474134,Yannick Weber,Nashville Predators,New York Islanders,D,16:10,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,16:10,0:00,0:00,NA
+2018020066,8474068,Kyle Turris,Nashville Predators,New York Islanders,C,15:18,0,1,2,0,1,0,0,6,13,1,0,0,0,0,0,14:15,1:03,0:00,46.15
+2018020066,8474056,P.K. Subban,Nashville Predators,New York Islanders,D,22:42,0,0,1,0,0,0,0,0,0,1,0,0,0,2,0,19:57,1:41,1:04,NA
+2018020066,8475176,Ryan Ellis,Nashville Predators,New York Islanders,D,21:29,0,0,1,0,0,0,0,0,0,1,1,0,0,2,0,19:30,1:03,0:56,NA
+2018020066,8469465,Dan Hamhuis,Nashville Predators,New York Islanders,D,15:48,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,15:48,0:00,0:00,NA
+2018020066,8478042,Viktor Arvidsson,Nashville Predators,New York Islanders,LW,18:30,1,1,4,0,0,0,0,0,0,2,3,0,0,0,1,16:40,1:41,0:09,NA
+2018020066,8474709,Matt Martin,New York Islanders,Nashville Predators,LW,9:19,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-1,9:19,0:00,0:00,NA
+2018020066,8476917,Adam Pelech,New York Islanders,Nashville Predators,D,18:07,0,0,1,2,0,0,0,0,0,0,3,0,0,2,-1,17:00,0:00,1:07,NA
+2018020066,8477506,Ryan Pulock,New York Islanders,Nashville Predators,D,22:49,0,0,1,2,0,0,0,0,0,0,0,0,0,2,0,20:08,0:38,2:03,NA
+2018020066,8476429,Scott Mayfield,New York Islanders,Nashville Predators,D,17:26,0,0,0,2,0,0,0,0,0,1,0,0,0,2,-1,16:40,0:00,0:46,NA
+2018020066,8470047,Valtteri Filppula,New York Islanders,Nashville Predators,C,13:49,0,0,0,0,0,0,0,8,14,0,0,0,0,0,-1,12:56,0:00,0:53,57.14
+2018020066,8472410,Stephen Gionta,New York Islanders,Nashville Predators,RW,9:13,0,0,1,3,0,0,0,4,9,0,0,0,0,0,-1,8:45,0:07,0:21,44.44
+2018020066,8470187,Johnny Boychuk,New York Islanders,Nashville Predators,D,16:57,0,0,4,0,0,0,0,0,0,1,0,0,0,0,-1,15:38,0:38,0:41,NA
+2018020066,8473504,Cal Clutterbuck,New York Islanders,Nashville Predators,RW,12:32,0,0,1,2,0,0,0,1,1,1,0,0,0,0,-1,11:16,0:31,0:45,100
+2018020066,8471217,Andrew Ladd,New York Islanders,Nashville Predators,LW,12:39,0,1,2,1,0,0,0,0,0,1,0,0,0,0,0,12:15,0:00,0:24,NA
+2018020066,8475314,Anders Lee,New York Islanders,Nashville Predators,LW,20:36,1,0,2,2,0,0,2,1,2,0,0,0,0,2,1,19:14,1:22,0:00,50
+2018020066,8475754,Brock Nelson,New York Islanders,Nashville Predators,C,21:42,0,1,2,1,0,0,0,9,20,0,2,0,0,1,0,19:58,0:38,1:06,45
+2018020066,8478445,Mathew Barzal,New York Islanders,Nashville Predators,C,17:22,1,0,2,0,0,0,0,3,12,1,0,0,0,0,-1,15:16,1:22,0:44,25
+2018020066,8474573,Josh Bailey,New York Islanders,Nashville Predators,RW,16:32,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,15:10,1:22,0:00,NA
+2018020066,8474586,Jordan Eberle,New York Islanders,Nashville Predators,C,21:09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,18:41,1:22,1:06,NA
+2018020066,8478463,Anthony Beauvillier,New York Islanders,Nashville Predators,C,14:01,0,0,1,3,0,0,0,2,3,1,0,0,0,0,-1,13:23,0:38,0:00,66.67
+2018020066,8473463,Leo Komarov,New York Islanders,Nashville Predators,C,10:28,0,0,0,2,0,0,0,1,1,1,0,0,0,0,-1,9:35,0:00,0:53,100
+2018020066,8474066,Thomas Hickey,New York Islanders,Nashville Predators,D,19:55,0,0,1,1,0,0,2,0,0,0,2,0,0,1,-1,19:48,0:00,0:07,NA
+2018020066,8475181,Nick Leddy,New York Islanders,Nashville Predators,D,23:24,0,0,2,1,0,0,0,0,0,1,0,0,0,1,-1,21:18,1:22,0:44,NA

@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020414,8477919,Frederick Gaudreau,Nashville Predators,C,7:23,0,0,0,0,0,0,0,100,2,2,0,0,0,0,1,0,7:23,0:00,0:00
-2018020414,8475218,Mattias Ekholm,Nashville Predators,D,23:25,1,0,0,3,0,0,0,NA,0,0,1,1,0,0,0,1,19:16,0:58,3:11
-2018020414,8476428,Rocco Grimaldi,Nashville Predators,C,7:37,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,2,0,7:37,0:00,0:00
-2018020414,8475625,Matt Irwin,Nashville Predators,D,12:19,0,0,2,3,0,0,0,NA,0,0,0,0,0,0,2,1,12:19,0:00,0:00
-2018020414,8475714,Calle Jarnkrok,Nashville Predators,C,15:00,0,0,1,0,0,0,0,50,8,16,1,0,0,0,0,0,12:13,0:58,1:49
-2018020414,8476925,Colton Sissons,Nashville Predators,C,18:23,0,0,1,0,0,0,0,47.37,9,19,0,0,0,0,0,0,14:50,0:51,2:42
-2018020414,8475225,Craig Smith,Nashville Predators,RW,14:41,1,0,2,0,0,0,0,NA,0,0,0,0,0,0,1,1,13:26,1:15,0:00
-2018020414,8476447,Miikka Salomaki,Nashville Predators,RW,13:28,0,0,1,3,0,0,2,NA,0,0,0,0,0,0,1,0,13:28,0:00,0:00
-2018020414,8477942,Kevin Fiala,Nashville Predators,LW,16:27,0,1,1,1,0,0,0,NA,0,0,0,0,0,0,1,0,15:10,1:17,0:00
-2018020414,8474009,Nick Bonino,Nashville Predators,C,12:00,0,0,0,0,0,0,0,80,4,5,0,0,0,0,0,1,10:16,0:00,1:44
-2018020414,8475766,Austin Watson,Nashville Predators,LW,17:21,0,0,2,3,0,0,2,100,1,1,1,0,0,0,1,0,15:28,0:00,1:53
-2018020414,8474600,Roman Josi,Nashville Predators,D,25:46,1,0,5,0,0,1,0,NA,0,0,0,1,0,0,2,-1,20:50,1:15,3:41
-2018020414,8475793,Ryan Johansen,Nashville Predators,C,21:25,1,0,0,4,0,1,0,47.06,8,17,2,2,0,0,1,-1,17:33,1:15,2:37
-2018020414,8480009,Eeli Tolvanen,Nashville Predators,RW,10:20,0,0,0,1,0,0,0,NA,0,0,1,0,0,0,0,0,9:22,0:58,0:00
-2018020414,8477451,Ryan Hartman,Nashville Predators,RW,18:28,0,0,3,0,0,0,2,0,0,2,1,0,0,0,0,-1,14:26,1:03,2:59
-2018020414,8474134,Yannick Weber,Nashville Predators,D,13:43,0,0,2,3,0,0,0,NA,0,0,0,0,0,0,1,0,12:34,0:00,1:09
-2018020414,8475176,Ryan Ellis,Nashville Predators,D,24:32,0,1,3,2,1,0,0,NA,0,0,2,0,0,0,2,-1,19:36,1:15,3:41
-2018020414,8469465,Dan Hamhuis,Nashville Predators,D,19:42,0,0,0,1,0,0,2,NA,0,0,1,2,0,0,0,0,17:40,0:00,2:02
-2018020414,8475728,Johan Larsson,Buffalo Sabres,C,13:31,0,0,0,2,0,0,0,52.63,10,19,0,1,0,0,0,-1,12:10,0:00,1:21
-2018020414,8473534,Patrik Berglund,Buffalo Sabres,C,13:47,0,0,1,1,0,0,0,71.43,5,7,1,0,0,0,0,-1,11:27,2:10,0:10
-2018020414,8473449,Kyle Okposo,Buffalo Sabres,RW,16:53,0,0,0,1,0,0,0,75,3,4,0,2,0,0,0,0,12:39,4:14,0:00
-2018020414,8474567,Zach Bogosian,Buffalo Sabres,D,14:56,0,0,1,3,0,0,0,NA,0,0,1,1,0,0,1,0,13:39,0:11,1:06
-2018020414,8479999,Casey Mittelstadt,Buffalo Sabres,C,14:16,0,0,0,1,0,0,0,25,1,4,0,3,0,0,0,0,12:06,2:10,0:00
-2018020414,8471743,Vladimir Sobotka,Buffalo Sabres,C,11:51,0,0,1,0,0,0,0,33.33,1,3,0,0,0,0,0,0,11:07,0:00,0:44
-2018020414,8477933,Sam Reinhart,Buffalo Sabres,C,21:31,0,1,3,0,0,0,0,0,0,1,0,0,0,0,0,1,16:55,4:28,0:08
-2018020414,8476878,Zemgus Girgensons,Buffalo Sabres,C,11:17,0,0,0,2,0,0,0,NA,0,0,0,0,0,0,0,-1,10:07,0:00,1:10
-2018020414,8477499,Rasmus Ristolainen,Buffalo Sabres,D,26:53,0,0,2,2,0,0,0,NA,0,0,0,2,0,0,5,1,20:34,4:28,1:51
-2018020414,8478403,Jack Eichel,Buffalo Sabres,C,21:59,0,0,6,0,0,0,0,43.75,7,16,0,1,0,0,1,1,17:08,4:42,0:09
-2018020414,8475784,Jeff Skinner,Buffalo Sabres,LW,22:13,0,0,1,0,0,0,2,0,0,3,1,1,0,0,0,1,17:31,4:42,0:00
-2018020414,8480935,Lawrence Pilut,Buffalo Sabres,D,19:08,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,3,1,18:57,0:00,0:11
-2018020414,8479268,Casey Nelson,Buffalo Sabres,D,12:48,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,-1,12:26,0:00,0:22
-2018020414,8477461,Remi Elie,Buffalo Sabres,LW,9:13,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,1,0,9:13,0:00,0:00
-2018020414,8478542,Evan Rodrigues,Buffalo Sabres,LW,13:54,0,0,2,1,0,0,0,60,3,5,0,0,0,0,0,0,10:57,2:13,0:44
-2018020414,8480839,Rasmus Dahlin,Buffalo Sabres,D,22:51,0,0,2,1,0,0,0,NA,0,0,2,3,0,0,4,-1,19:51,2:38,0:22
-2018020414,8479420,Tage Thompson,Buffalo Sabres,RW,14:34,0,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,0,12:10,2:24,0:00
-2018020414,8476470,Nathan Beaulieu,Buffalo Sabres,D,16:40,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,0,0,16:06,0:00,0:34
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020414,8477919,Frederick Gaudreau,Nashville Predators,Buffalo Sabres,C,7:23,0,0,0,0,0,0,0,100,2,2,0,0,0,0,1,0,7:23,0:00,0:00
+2018020414,8475218,Mattias Ekholm,Nashville Predators,Buffalo Sabres,D,23:25,1,0,0,3,0,0,0,NA,0,0,1,1,0,0,0,1,19:16,0:58,3:11
+2018020414,8476428,Rocco Grimaldi,Nashville Predators,Buffalo Sabres,C,7:37,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,2,0,7:37,0:00,0:00
+2018020414,8475625,Matt Irwin,Nashville Predators,Buffalo Sabres,D,12:19,0,0,2,3,0,0,0,NA,0,0,0,0,0,0,2,1,12:19,0:00,0:00
+2018020414,8475714,Calle Jarnkrok,Nashville Predators,Buffalo Sabres,C,15:00,0,0,1,0,0,0,0,50,8,16,1,0,0,0,0,0,12:13,0:58,1:49
+2018020414,8476925,Colton Sissons,Nashville Predators,Buffalo Sabres,C,18:23,0,0,1,0,0,0,0,47.37,9,19,0,0,0,0,0,0,14:50,0:51,2:42
+2018020414,8475225,Craig Smith,Nashville Predators,Buffalo Sabres,RW,14:41,1,0,2,0,0,0,0,NA,0,0,0,0,0,0,1,1,13:26,1:15,0:00
+2018020414,8476447,Miikka Salomaki,Nashville Predators,Buffalo Sabres,RW,13:28,0,0,1,3,0,0,2,NA,0,0,0,0,0,0,1,0,13:28,0:00,0:00
+2018020414,8477942,Kevin Fiala,Nashville Predators,Buffalo Sabres,LW,16:27,0,1,1,1,0,0,0,NA,0,0,0,0,0,0,1,0,15:10,1:17,0:00
+2018020414,8474009,Nick Bonino,Nashville Predators,Buffalo Sabres,C,12:00,0,0,0,0,0,0,0,80,4,5,0,0,0,0,0,1,10:16,0:00,1:44
+2018020414,8475766,Austin Watson,Nashville Predators,Buffalo Sabres,LW,17:21,0,0,2,3,0,0,2,100,1,1,1,0,0,0,1,0,15:28,0:00,1:53
+2018020414,8474600,Roman Josi,Nashville Predators,Buffalo Sabres,D,25:46,1,0,5,0,0,1,0,NA,0,0,0,1,0,0,2,-1,20:50,1:15,3:41
+2018020414,8475793,Ryan Johansen,Nashville Predators,Buffalo Sabres,C,21:25,1,0,0,4,0,1,0,47.06,8,17,2,2,0,0,1,-1,17:33,1:15,2:37
+2018020414,8480009,Eeli Tolvanen,Nashville Predators,Buffalo Sabres,RW,10:20,0,0,0,1,0,0,0,NA,0,0,1,0,0,0,0,0,9:22,0:58,0:00
+2018020414,8477451,Ryan Hartman,Nashville Predators,Buffalo Sabres,RW,18:28,0,0,3,0,0,0,2,0,0,2,1,0,0,0,0,-1,14:26,1:03,2:59
+2018020414,8474134,Yannick Weber,Nashville Predators,Buffalo Sabres,D,13:43,0,0,2,3,0,0,0,NA,0,0,0,0,0,0,1,0,12:34,0:00,1:09
+2018020414,8475176,Ryan Ellis,Nashville Predators,Buffalo Sabres,D,24:32,0,1,3,2,1,0,0,NA,0,0,2,0,0,0,2,-1,19:36,1:15,3:41
+2018020414,8469465,Dan Hamhuis,Nashville Predators,Buffalo Sabres,D,19:42,0,0,0,1,0,0,2,NA,0,0,1,2,0,0,0,0,17:40,0:00,2:02
+2018020414,8475728,Johan Larsson,Buffalo Sabres,Nashville Predators,C,13:31,0,0,0,2,0,0,0,52.63,10,19,0,1,0,0,0,-1,12:10,0:00,1:21
+2018020414,8473534,Patrik Berglund,Buffalo Sabres,Nashville Predators,C,13:47,0,0,1,1,0,0,0,71.43,5,7,1,0,0,0,0,-1,11:27,2:10,0:10
+2018020414,8473449,Kyle Okposo,Buffalo Sabres,Nashville Predators,RW,16:53,0,0,0,1,0,0,0,75,3,4,0,2,0,0,0,0,12:39,4:14,0:00
+2018020414,8474567,Zach Bogosian,Buffalo Sabres,Nashville Predators,D,14:56,0,0,1,3,0,0,0,NA,0,0,1,1,0,0,1,0,13:39,0:11,1:06
+2018020414,8479999,Casey Mittelstadt,Buffalo Sabres,Nashville Predators,C,14:16,0,0,0,1,0,0,0,25,1,4,0,3,0,0,0,0,12:06,2:10,0:00
+2018020414,8471743,Vladimir Sobotka,Buffalo Sabres,Nashville Predators,C,11:51,0,0,1,0,0,0,0,33.33,1,3,0,0,0,0,0,0,11:07,0:00,0:44
+2018020414,8477933,Sam Reinhart,Buffalo Sabres,Nashville Predators,C,21:31,0,1,3,0,0,0,0,0,0,1,0,0,0,0,0,1,16:55,4:28,0:08
+2018020414,8476878,Zemgus Girgensons,Buffalo Sabres,Nashville Predators,C,11:17,0,0,0,2,0,0,0,NA,0,0,0,0,0,0,0,-1,10:07,0:00,1:10
+2018020414,8477499,Rasmus Ristolainen,Buffalo Sabres,Nashville Predators,D,26:53,0,0,2,2,0,0,0,NA,0,0,0,2,0,0,5,1,20:34,4:28,1:51
+2018020414,8478403,Jack Eichel,Buffalo Sabres,Nashville Predators,C,21:59,0,0,6,0,0,0,0,43.75,7,16,0,1,0,0,1,1,17:08,4:42,0:09
+2018020414,8475784,Jeff Skinner,Buffalo Sabres,Nashville Predators,LW,22:13,0,0,1,0,0,0,2,0,0,3,1,1,0,0,0,1,17:31,4:42,0:00
+2018020414,8480935,Lawrence Pilut,Buffalo Sabres,Nashville Predators,D,19:08,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,3,1,18:57,0:00,0:11
+2018020414,8479268,Casey Nelson,Buffalo Sabres,Nashville Predators,D,12:48,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,-1,12:26,0:00,0:22
+2018020414,8477461,Remi Elie,Buffalo Sabres,Nashville Predators,LW,9:13,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,1,0,9:13,0:00,0:00
+2018020414,8478542,Evan Rodrigues,Buffalo Sabres,Nashville Predators,LW,13:54,0,0,2,1,0,0,0,60,3,5,0,0,0,0,0,0,10:57,2:13,0:44
+2018020414,8480839,Rasmus Dahlin,Buffalo Sabres,Nashville Predators,D,22:51,0,0,2,1,0,0,0,NA,0,0,2,3,0,0,4,-1,19:51,2:38,0:22
+2018020414,8479420,Tage Thompson,Buffalo Sabres,Nashville Predators,RW,14:34,0,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,0,12:10,2:24,0:00
+2018020414,8476470,Nathan Beaulieu,Buffalo Sabres,Nashville Predators,D,16:40,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,0,0,16:06,0:00,0:34

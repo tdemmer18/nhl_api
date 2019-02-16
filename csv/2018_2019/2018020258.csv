@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020258,8466138,Joe Thornton,San Jose Sharks,C,16:13,0,0,1,0,0,0,0,45.45,5,11,0,1,0,0,0,0,13:21,2:52,0:00
-2018020258,8470613,Brent Burns,San Jose Sharks,D,23:27,0,0,1,0,0,0,0,NA,0,0,2,1,0,0,1,0,19:22,4:05,0:00
-2018020258,8471709,Marc-Edouard Vlasic,San Jose Sharks,D,21:35,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,21:35,0:00,0:00
-2018020258,8470794,Joe Pavelski,San Jose Sharks,C,20:55,2,1,3,4,0,0,0,64.29,9,14,0,1,0,0,4,3,17:02,3:53,0:00
-2018020258,8475834,Marcus Sorensen,San Jose Sharks,LW,11:01,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,1,0,11:01,0:00,0:00
-2018020258,8474027,Justin Braun,San Jose Sharks,D,20:36,0,0,1,1,0,0,0,NA,0,0,2,1,0,0,0,2,20:36,0:00,0:00
-2018020258,8475820,Joonas Donskoi,San Jose Sharks,RW,16:57,1,1,6,1,0,0,0,NA,0,0,1,0,0,0,0,1,14:57,2:00,0:00
-2018020258,8476624,Barclay Goodrow,San Jose Sharks,RW,9:39,0,0,0,0,0,0,0,100,1,1,1,0,0,0,2,0,9:39,0:00,0:00
-2018020258,8474578,Erik Karlsson,San Jose Sharks,D,18:54,0,0,2,0,0,0,0,NA,0,0,2,2,0,0,1,1,17:42,1:12,0:00
-2018020258,8477922,Melker Karlsson,San Jose Sharks,C,11:14,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,1,0,11:14,0:00,0:00
-2018020258,8474053,Logan Couture,San Jose Sharks,C,16:18,0,0,2,0,0,0,0,100,2,2,2,0,0,0,0,0,13:10,3:08,0:00
-2018020258,8480965,Antti Suomela,San Jose Sharks,C,9:17,0,0,2,0,0,0,0,20,1,5,0,0,0,0,0,-1,9:17,0:00,0:00
-2018020258,8478414,Timo Meier,San Jose Sharks,RW,19:42,1,0,3,0,0,0,2,0,0,1,0,0,0,0,0,1,16:43,2:59,0:00
-2018020258,8475455,Brenden Dillon,San Jose Sharks,D,13:46,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,3,1,13:46,0:00,0:00
-2018020258,8475169,Evander Kane,San Jose Sharks,LW,20:54,1,1,2,6,0,0,0,100,2,2,0,0,0,0,0,1,17:19,3:35,0:00
-2018020258,8478099,Kevin Labanc,San Jose Sharks,RW,13:12,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,0,0,10:11,3:01,0:00
-2018020258,8477046,Joakim Ryan,San Jose Sharks,D,14:30,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,0,14:23,0:07,0:00
-2018020258,8476881,Tomas Hertl,San Jose Sharks,C,19:50,1,0,2,0,0,0,0,30.77,4,13,1,1,0,0,1,1,16:42,3:08,0:00
-2018020258,8470966,Mark Giordano,Calgary Flames,D,24:57,0,0,2,1,0,0,2,NA,0,0,1,0,0,0,0,-1,22:53,0:00,2:04
-2018020258,8474628,Michael Stone,Calgary Flames,D,15:07,0,0,2,5,0,0,0,NA,0,0,1,0,0,0,1,0,13:01,0:00,2:06
-2018020258,8471707,James Neal,Calgary Flames,LW,8:03,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-1,8:03,0:00,0:00
-2018020258,8477903,Garnet Hathaway,Calgary Flames,RW,10:22,0,0,1,3,0,0,0,NA,0,0,0,0,0,0,0,0,8:37,0:00,1:45
-2018020258,8477935,Sam Bennett,Calgary Flames,C,10:58,0,0,6,1,0,0,0,100,3,3,0,0,0,0,0,0,10:58,0:00,0:00
-2018020258,8473564,Michael Frolik,Calgary Flames,RW,13:10,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,1,-1,11:37,0:00,1:33
-2018020258,8474612,Travis Hamonic,Calgary Flames,D,22:55,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,2,-2,19:08,0:00,3:47
-2018020258,8479976,Juuso Valimaki,Calgary Flames,D,14:44,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,2,0,13:24,0:00,1:20
-2018020258,8474673,TJ Brodie,Calgary Flames,D,25:16,0,0,0,0,0,0,0,NA,0,0,1,1,0,0,4,1,22:33,0:00,2:43
-2018020258,8476873,Mark Jankowski,Calgary Flames,C,12:35,1,0,2,1,0,0,2,33.33,2,6,0,0,0,0,0,1,11:32,0:00,1:03
-2018020258,8474150,Mikael Backlund,Calgary Flames,C,18:25,0,0,1,0,0,0,0,50,7,14,2,0,0,0,1,-2,15:43,0:00,2:42
-2018020258,8476346,Johnny Gaudreau,Calgary Flames,LW,21:57,0,0,1,0,0,0,0,NA,0,0,2,0,0,0,0,0,21:57,0:00,0:00
-2018020258,8479314,Matthew Tkachuk,Calgary Flames,LW,15:24,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,2,-3,15:24,0:00,0:00
-2018020258,8478512,Austin Czarnik,Calgary Flames,C,6:41,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,1,0,6:41,0:00,0:00
-2018020258,8478396,Noah Hanifin,Calgary Flames,D,17:25,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,1,-2,17:25,0:00,0:00
-2018020258,8477497,Sean Monahan,Calgary Flames,C,19:38,0,1,5,1,0,0,2,27.27,3,11,0,0,0,0,0,0,19:38,0:00,0:00
-2018020258,8478585,Derek Ryan,Calgary Flames,C,13:16,0,0,3,0,0,0,0,66.67,4,6,0,0,0,0,1,0,11:10,0:00,2:06
-2018020258,8477496,Elias Lindholm,Calgary Flames,C,21:56,0,0,0,1,0,0,0,66.67,6,9,0,0,0,0,0,-1,19:05,0:00,2:51
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020258,8466138,Joe Thornton,San Jose Sharks,Calgary Flames,C,16:13,0,0,1,0,0,0,0,45.45,5,11,0,1,0,0,0,0,13:21,2:52,0:00
+2018020258,8470613,Brent Burns,San Jose Sharks,Calgary Flames,D,23:27,0,0,1,0,0,0,0,NA,0,0,2,1,0,0,1,0,19:22,4:05,0:00
+2018020258,8471709,Marc-Edouard Vlasic,San Jose Sharks,Calgary Flames,D,21:35,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,21:35,0:00,0:00
+2018020258,8470794,Joe Pavelski,San Jose Sharks,Calgary Flames,C,20:55,2,1,3,4,0,0,0,64.29,9,14,0,1,0,0,4,3,17:02,3:53,0:00
+2018020258,8475834,Marcus Sorensen,San Jose Sharks,Calgary Flames,LW,11:01,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,1,0,11:01,0:00,0:00
+2018020258,8474027,Justin Braun,San Jose Sharks,Calgary Flames,D,20:36,0,0,1,1,0,0,0,NA,0,0,2,1,0,0,0,2,20:36,0:00,0:00
+2018020258,8475820,Joonas Donskoi,San Jose Sharks,Calgary Flames,RW,16:57,1,1,6,1,0,0,0,NA,0,0,1,0,0,0,0,1,14:57,2:00,0:00
+2018020258,8476624,Barclay Goodrow,San Jose Sharks,Calgary Flames,RW,9:39,0,0,0,0,0,0,0,100,1,1,1,0,0,0,2,0,9:39,0:00,0:00
+2018020258,8474578,Erik Karlsson,San Jose Sharks,Calgary Flames,D,18:54,0,0,2,0,0,0,0,NA,0,0,2,2,0,0,1,1,17:42,1:12,0:00
+2018020258,8477922,Melker Karlsson,San Jose Sharks,Calgary Flames,C,11:14,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,1,0,11:14,0:00,0:00
+2018020258,8474053,Logan Couture,San Jose Sharks,Calgary Flames,C,16:18,0,0,2,0,0,0,0,100,2,2,2,0,0,0,0,0,13:10,3:08,0:00
+2018020258,8480965,Antti Suomela,San Jose Sharks,Calgary Flames,C,9:17,0,0,2,0,0,0,0,20,1,5,0,0,0,0,0,-1,9:17,0:00,0:00
+2018020258,8478414,Timo Meier,San Jose Sharks,Calgary Flames,RW,19:42,1,0,3,0,0,0,2,0,0,1,0,0,0,0,0,1,16:43,2:59,0:00
+2018020258,8475455,Brenden Dillon,San Jose Sharks,Calgary Flames,D,13:46,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,3,1,13:46,0:00,0:00
+2018020258,8475169,Evander Kane,San Jose Sharks,Calgary Flames,LW,20:54,1,1,2,6,0,0,0,100,2,2,0,0,0,0,0,1,17:19,3:35,0:00
+2018020258,8478099,Kevin Labanc,San Jose Sharks,Calgary Flames,RW,13:12,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,0,0,10:11,3:01,0:00
+2018020258,8477046,Joakim Ryan,San Jose Sharks,Calgary Flames,D,14:30,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,0,14:23,0:07,0:00
+2018020258,8476881,Tomas Hertl,San Jose Sharks,Calgary Flames,C,19:50,1,0,2,0,0,0,0,30.77,4,13,1,1,0,0,1,1,16:42,3:08,0:00
+2018020258,8470966,Mark Giordano,Calgary Flames,San Jose Sharks,D,24:57,0,0,2,1,0,0,2,NA,0,0,1,0,0,0,0,-1,22:53,0:00,2:04
+2018020258,8474628,Michael Stone,Calgary Flames,San Jose Sharks,D,15:07,0,0,2,5,0,0,0,NA,0,0,1,0,0,0,1,0,13:01,0:00,2:06
+2018020258,8471707,James Neal,Calgary Flames,San Jose Sharks,LW,8:03,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-1,8:03,0:00,0:00
+2018020258,8477903,Garnet Hathaway,Calgary Flames,San Jose Sharks,RW,10:22,0,0,1,3,0,0,0,NA,0,0,0,0,0,0,0,0,8:37,0:00,1:45
+2018020258,8477935,Sam Bennett,Calgary Flames,San Jose Sharks,C,10:58,0,0,6,1,0,0,0,100,3,3,0,0,0,0,0,0,10:58,0:00,0:00
+2018020258,8473564,Michael Frolik,Calgary Flames,San Jose Sharks,RW,13:10,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,1,-1,11:37,0:00,1:33
+2018020258,8474612,Travis Hamonic,Calgary Flames,San Jose Sharks,D,22:55,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,2,-2,19:08,0:00,3:47
+2018020258,8479976,Juuso Valimaki,Calgary Flames,San Jose Sharks,D,14:44,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,2,0,13:24,0:00,1:20
+2018020258,8474673,TJ Brodie,Calgary Flames,San Jose Sharks,D,25:16,0,0,0,0,0,0,0,NA,0,0,1,1,0,0,4,1,22:33,0:00,2:43
+2018020258,8476873,Mark Jankowski,Calgary Flames,San Jose Sharks,C,12:35,1,0,2,1,0,0,2,33.33,2,6,0,0,0,0,0,1,11:32,0:00,1:03
+2018020258,8474150,Mikael Backlund,Calgary Flames,San Jose Sharks,C,18:25,0,0,1,0,0,0,0,50,7,14,2,0,0,0,1,-2,15:43,0:00,2:42
+2018020258,8476346,Johnny Gaudreau,Calgary Flames,San Jose Sharks,LW,21:57,0,0,1,0,0,0,0,NA,0,0,2,0,0,0,0,0,21:57,0:00,0:00
+2018020258,8479314,Matthew Tkachuk,Calgary Flames,San Jose Sharks,LW,15:24,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,2,-3,15:24,0:00,0:00
+2018020258,8478512,Austin Czarnik,Calgary Flames,San Jose Sharks,C,6:41,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,1,0,6:41,0:00,0:00
+2018020258,8478396,Noah Hanifin,Calgary Flames,San Jose Sharks,D,17:25,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,1,-2,17:25,0:00,0:00
+2018020258,8477497,Sean Monahan,Calgary Flames,San Jose Sharks,C,19:38,0,1,5,1,0,0,2,27.27,3,11,0,0,0,0,0,0,19:38,0:00,0:00
+2018020258,8478585,Derek Ryan,Calgary Flames,San Jose Sharks,C,13:16,0,0,3,0,0,0,0,66.67,4,6,0,0,0,0,1,0,11:10,0:00,2:06
+2018020258,8477496,Elias Lindholm,Calgary Flames,San Jose Sharks,C,21:56,0,0,0,1,0,0,0,66.67,6,9,0,0,0,0,0,-1,19:05,0:00,2:51

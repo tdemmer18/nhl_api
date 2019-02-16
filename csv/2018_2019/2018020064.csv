@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020064,8471735,Keith Yandle,Florida Panthers,D,23:58,1,0,2,0,0,0,0,0,0,0,2,0,0,0,2,16:39,7:19,0:00,NA
-2018020064,8474149,Evgenii Dadonov,Florida Panthers,RW,18:20,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,11:24,6:56,0:00,NA
-2018020064,8477932,Aaron Ekblad,Florida Panthers,D,21:07,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,16:58,2:05,2:04,NA
-2018020064,8476875,Mike Matheson,Florida Panthers,D,17:04,0,0,1,2,0,0,2,0,0,1,3,0,0,0,-1,14:10,0:05,2:49,NA
-2018020064,8474884,Mike Hoffman,Florida Panthers,LW,19:37,1,0,3,1,0,0,0,0,0,0,1,0,0,0,1,12:18,7:19,0:00,NA
-2018020064,8471426,Troy Brouwer,Florida Panthers,RW,9:31,0,0,0,3,0,0,2,0,0,0,1,0,0,1,0,8:05,0:00,1:26,NA
-2018020064,8475755,Alexander Petrovic,Florida Panthers,D,15:53,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,12:50,0:04,2:59,NA
-2018020064,8477955,Jared McCann,Florida Panthers,C,16:35,0,0,3,3,0,0,0,6,11,0,0,0,0,1,0,12:10,2:27,1:58,54.55
-2018020064,8474098,Colton Sceviour,Florida Panthers,C,11:49,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,8:21,0:05,3:23,NA
-2018020064,8475760,Nick Bjugstad,Florida Panthers,C,11:42,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,9:23,2:19,0:00,100
-2018020064,8476389,Vincent Trocheck,Florida Panthers,C,23:38,1,1,2,4,0,0,4,5,19,3,0,0,0,0,1,14:30,7:19,1:49,26.32
-2018020064,8480955,Bogdan Kiselevich,Florida Panthers,D,16:44,0,0,1,2,0,0,0,0,0,0,1,0,0,0,0,14:19,0:04,2:21,NA
-2018020064,8478843,Denis Malgin,Florida Panthers,C,14:37,1,0,2,0,0,0,0,1,2,0,0,0,0,1,0,11:45,2:00,0:52,50
-2018020064,8477996,Juho Lammikko,Florida Panthers,RW,9:10,0,0,0,1,0,0,0,3,8,0,0,0,0,0,0,7:34,0:05,1:31,37.5
-2018020064,8476456,Jonathan Huberdeau,Florida Panthers,LW,15:20,0,1,3,0,0,0,0,1,1,0,1,0,0,0,0,13:18,2:00,0:02,100
-2018020064,8475796,Mark Pysyk,Florida Panthers,D,15:07,0,0,1,0,0,0,0,0,0,0,2,0,0,1,-1,11:44,0:00,3:23,NA
-2018020064,8479553,Maxim Mamin,Florida Panthers,C,12:11,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,12:06,0:05,0:00,NA
-2018020064,8477493,Aleksander Barkov,Florida Panthers,C,21:47,0,0,3,1,0,0,0,10,22,3,1,0,0,0,1,12:04,7:08,2:35,45.45
-2018020064,8470626,Loui Eriksson,Vancouver Canucks,LW,10:25,0,0,2,0,0,0,0,0,0,1,0,0,0,0,-1,9:18,1:07,0:00,NA
-2018020064,8474849,Antoine Roussel,Vancouver Canucks,LW,8:56,0,1,2,0,0,0,4,0,0,0,0,0,0,0,1,8:48,0:08,0:00,NA
-2018020064,8477958,Nikolay Goldobin,Vancouver Canucks,RW,9:36,0,0,3,0,0,0,0,0,0,0,1,0,0,0,-1,8:19,1:17,0:00,NA
-2018020064,8477937,Jake Virtanen,Vancouver Canucks,RW,10:29,0,0,1,0,0,0,2,0,0,3,0,0,0,0,0,9:35,0:54,0:00,NA
-2018020064,8477018,Ben Hutton,Vancouver Canucks,D,16:38,0,0,0,2,0,0,0,0,0,0,1,0,0,1,-1,14:10,0:02,2:26,NA
-2018020064,8471303,Alexander Edler,Vancouver Canucks,D,28:01,1,0,1,3,0,0,0,0,0,0,1,0,0,5,0,16:34,4:46,6:41,NA
-2018020064,8477213,Tim Schaller,Vancouver Canucks,C,15:55,0,0,1,1,0,0,0,0,0,1,0,0,0,0,-1,9:53,0:02,6:00,NA
-2018020064,8478444,Brock Boeser,Vancouver Canucks,RW,18:20,1,0,5,1,0,1,0,0,1,0,1,0,0,0,1,13:22,4:58,0:00,0
-2018020064,8476884,Derrick Pouliot,Vancouver Canucks,D,14:53,0,0,0,1,0,0,2,0,0,3,2,0,0,2,-1,12:49,2:00,0:04,NA
-2018020064,8476466,Sven Baertschi,Vancouver Canucks,LW,19:35,2,0,1,2,0,1,0,0,0,1,1,0,0,0,1,14:00,5:31,0:04,NA
-2018020064,8477500,Bo Horvat,Vancouver Canucks,C,18:47,0,1,3,0,0,0,0,12,18,0,2,0,0,0,1,13:29,5:18,0:00,66.67
-2018020064,8475690,Christopher Tanev,Vancouver Canucks,D,23:56,0,0,2,0,0,0,2,0,0,2,0,0,0,8,-1,17:40,1:07,5:09,NA
-2018020064,8475790,Erik Gudbranson,Vancouver Canucks,D,18:17,0,0,0,1,0,0,0,0,0,0,1,0,0,3,-1,13:54,0:02,4:21,NA
-2018020064,8476440,Markus Granlund,Vancouver Canucks,C,16:21,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,12:11,0:46,3:24,0
-2018020064,8479442,Troy Stecher,Vancouver Canucks,D,13:33,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,12:36,0:42,0:15,NA
-2018020064,8480012,Elias Pettersson,Vancouver Canucks,C,13:49,0,1,3,1,1,0,0,1,4,0,2,0,0,0,0,9:05,4:44,0:00,25
-2018020064,8474291,Jay Beagle,Vancouver Canucks,C,16:42,0,0,1,2,0,0,0,8,15,1,1,0,0,2,-1,10:20,0:02,6:20,53.33
-2018020064,8474091,Brandon Sutter,Vancouver Canucks,C,16:27,0,0,2,0,0,0,0,16,25,0,0,0,0,1,-1,12:45,0:34,3:08,64
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020064,8471735,Keith Yandle,Florida Panthers,Vancouver Canucks,D,23:58,1,0,2,0,0,0,0,0,0,0,2,0,0,0,2,16:39,7:19,0:00,NA
+2018020064,8474149,Evgenii Dadonov,Florida Panthers,Vancouver Canucks,RW,18:20,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,11:24,6:56,0:00,NA
+2018020064,8477932,Aaron Ekblad,Florida Panthers,Vancouver Canucks,D,21:07,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,16:58,2:05,2:04,NA
+2018020064,8476875,Mike Matheson,Florida Panthers,Vancouver Canucks,D,17:04,0,0,1,2,0,0,2,0,0,1,3,0,0,0,-1,14:10,0:05,2:49,NA
+2018020064,8474884,Mike Hoffman,Florida Panthers,Vancouver Canucks,LW,19:37,1,0,3,1,0,0,0,0,0,0,1,0,0,0,1,12:18,7:19,0:00,NA
+2018020064,8471426,Troy Brouwer,Florida Panthers,Vancouver Canucks,RW,9:31,0,0,0,3,0,0,2,0,0,0,1,0,0,1,0,8:05,0:00,1:26,NA
+2018020064,8475755,Alexander Petrovic,Florida Panthers,Vancouver Canucks,D,15:53,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,12:50,0:04,2:59,NA
+2018020064,8477955,Jared McCann,Florida Panthers,Vancouver Canucks,C,16:35,0,0,3,3,0,0,0,6,11,0,0,0,0,1,0,12:10,2:27,1:58,54.55
+2018020064,8474098,Colton Sceviour,Florida Panthers,Vancouver Canucks,C,11:49,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,8:21,0:05,3:23,NA
+2018020064,8475760,Nick Bjugstad,Florida Panthers,Vancouver Canucks,C,11:42,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,9:23,2:19,0:00,100
+2018020064,8476389,Vincent Trocheck,Florida Panthers,Vancouver Canucks,C,23:38,1,1,2,4,0,0,4,5,19,3,0,0,0,0,1,14:30,7:19,1:49,26.32
+2018020064,8480955,Bogdan Kiselevich,Florida Panthers,Vancouver Canucks,D,16:44,0,0,1,2,0,0,0,0,0,0,1,0,0,0,0,14:19,0:04,2:21,NA
+2018020064,8478843,Denis Malgin,Florida Panthers,Vancouver Canucks,C,14:37,1,0,2,0,0,0,0,1,2,0,0,0,0,1,0,11:45,2:00,0:52,50
+2018020064,8477996,Juho Lammikko,Florida Panthers,Vancouver Canucks,RW,9:10,0,0,0,1,0,0,0,3,8,0,0,0,0,0,0,7:34,0:05,1:31,37.5
+2018020064,8476456,Jonathan Huberdeau,Florida Panthers,Vancouver Canucks,LW,15:20,0,1,3,0,0,0,0,1,1,0,1,0,0,0,0,13:18,2:00,0:02,100
+2018020064,8475796,Mark Pysyk,Florida Panthers,Vancouver Canucks,D,15:07,0,0,1,0,0,0,0,0,0,0,2,0,0,1,-1,11:44,0:00,3:23,NA
+2018020064,8479553,Maxim Mamin,Florida Panthers,Vancouver Canucks,C,12:11,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,12:06,0:05,0:00,NA
+2018020064,8477493,Aleksander Barkov,Florida Panthers,Vancouver Canucks,C,21:47,0,0,3,1,0,0,0,10,22,3,1,0,0,0,1,12:04,7:08,2:35,45.45
+2018020064,8470626,Loui Eriksson,Vancouver Canucks,Florida Panthers,LW,10:25,0,0,2,0,0,0,0,0,0,1,0,0,0,0,-1,9:18,1:07,0:00,NA
+2018020064,8474849,Antoine Roussel,Vancouver Canucks,Florida Panthers,LW,8:56,0,1,2,0,0,0,4,0,0,0,0,0,0,0,1,8:48,0:08,0:00,NA
+2018020064,8477958,Nikolay Goldobin,Vancouver Canucks,Florida Panthers,RW,9:36,0,0,3,0,0,0,0,0,0,0,1,0,0,0,-1,8:19,1:17,0:00,NA
+2018020064,8477937,Jake Virtanen,Vancouver Canucks,Florida Panthers,RW,10:29,0,0,1,0,0,0,2,0,0,3,0,0,0,0,0,9:35,0:54,0:00,NA
+2018020064,8477018,Ben Hutton,Vancouver Canucks,Florida Panthers,D,16:38,0,0,0,2,0,0,0,0,0,0,1,0,0,1,-1,14:10,0:02,2:26,NA
+2018020064,8471303,Alexander Edler,Vancouver Canucks,Florida Panthers,D,28:01,1,0,1,3,0,0,0,0,0,0,1,0,0,5,0,16:34,4:46,6:41,NA
+2018020064,8477213,Tim Schaller,Vancouver Canucks,Florida Panthers,C,15:55,0,0,1,1,0,0,0,0,0,1,0,0,0,0,-1,9:53,0:02,6:00,NA
+2018020064,8478444,Brock Boeser,Vancouver Canucks,Florida Panthers,RW,18:20,1,0,5,1,0,1,0,0,1,0,1,0,0,0,1,13:22,4:58,0:00,0
+2018020064,8476884,Derrick Pouliot,Vancouver Canucks,Florida Panthers,D,14:53,0,0,0,1,0,0,2,0,0,3,2,0,0,2,-1,12:49,2:00,0:04,NA
+2018020064,8476466,Sven Baertschi,Vancouver Canucks,Florida Panthers,LW,19:35,2,0,1,2,0,1,0,0,0,1,1,0,0,0,1,14:00,5:31,0:04,NA
+2018020064,8477500,Bo Horvat,Vancouver Canucks,Florida Panthers,C,18:47,0,1,3,0,0,0,0,12,18,0,2,0,0,0,1,13:29,5:18,0:00,66.67
+2018020064,8475690,Christopher Tanev,Vancouver Canucks,Florida Panthers,D,23:56,0,0,2,0,0,0,2,0,0,2,0,0,0,8,-1,17:40,1:07,5:09,NA
+2018020064,8475790,Erik Gudbranson,Vancouver Canucks,Florida Panthers,D,18:17,0,0,0,1,0,0,0,0,0,0,1,0,0,3,-1,13:54,0:02,4:21,NA
+2018020064,8476440,Markus Granlund,Vancouver Canucks,Florida Panthers,C,16:21,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,12:11,0:46,3:24,0
+2018020064,8479442,Troy Stecher,Vancouver Canucks,Florida Panthers,D,13:33,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,12:36,0:42,0:15,NA
+2018020064,8480012,Elias Pettersson,Vancouver Canucks,Florida Panthers,C,13:49,0,1,3,1,1,0,0,1,4,0,2,0,0,0,0,9:05,4:44,0:00,25
+2018020064,8474291,Jay Beagle,Vancouver Canucks,Florida Panthers,C,16:42,0,0,1,2,0,0,0,8,15,1,1,0,0,2,-1,10:20,0:02,6:20,53.33
+2018020064,8474091,Brandon Sutter,Vancouver Canucks,Florida Panthers,C,16:27,0,0,2,0,0,0,0,16,25,0,0,0,0,1,-1,12:45,0:34,3:08,64

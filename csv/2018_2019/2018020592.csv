@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020592,8475768,Jaden Schwartz,St. Louis Blues,LW,18:41,0,0,4,0,0,0,0,0,0,3,1,0,0,0,-1,15:46,2:24,0:31,NA
-2018020592,8474565,Alex Pietrangelo,St. Louis Blues,D,19:56,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,18:30,0:10,1:16,NA
-2018020592,8476897,Oskar Sundqvist,St. Louis Blues,C,10:54,0,0,2,1,0,0,0,1,2,0,0,0,0,1,0,9:22,0:00,1:32,50
-2018020592,8477964,Ivan Barbashev,St. Louis Blues,C,11:07,0,0,0,2,0,0,0,1,4,0,0,0,0,0,0,9:35,0:00,1:32,25
-2018020592,8475325,Jordan Nolan,St. Louis Blues,C,9:16,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,9:16,0:00,0:00,NA
-2018020592,8475765,Vladimir Tarasenko,St. Louis Blues,RW,17:38,0,0,2,2,0,0,0,1,1,0,3,0,0,0,0,15:14,2:24,0:00,100
-2018020592,8470257,Alexander Steen,St. Louis Blues,LW,18:13,1,0,0,2,0,0,4,0,0,0,0,0,0,0,1,16:37,1:36,0:00,NA
-2018020592,8478407,Vince Dunn,St. Louis Blues,D,17:47,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,16:02,1:45,0:00,NA
-2018020592,8475158,Ryan O'Reilly,St. Louis Blues,C,20:34,1,0,0,0,0,0,0,15,27,2,0,0,0,0,0,17:24,2:05,1:05,55.56
-2018020592,8474102,David Perron,St. Louis Blues,LW,19:15,0,1,3,5,0,0,0,0,0,1,2,0,0,0,0,17:39,1:36,0:00,NA
-2018020592,8474145,Robert Bortuzzo,St. Louis Blues,D,18:05,0,0,2,2,0,0,0,0,0,1,1,0,0,0,0,16:23,0:00,1:42,NA
-2018020592,8474034,Pat Maroon,St. Louis Blues,LW,12:41,0,0,4,0,0,0,0,0,0,1,1,0,0,0,-1,11:05,1:36,0:00,NA
-2018020592,8475098,Tyler Bozak,St. Louis Blues,C,14:02,0,0,1,1,0,0,0,3,7,0,0,0,0,0,-1,11:02,1:55,1:05,42.86
-2018020592,8476441,Joel Edmundson,St. Louis Blues,D,18:17,0,0,1,3,0,0,7,0,0,0,0,0,0,0,-1,16:51,0:00,1:26,NA
-2018020592,8470151,Jay Bouwmeester,St. Louis Blues,D,21:12,0,0,1,0,0,0,2,0,0,0,1,0,0,1,0,19:20,0:00,1:52,NA
-2018020592,8476892,Colton Parayko,St. Louis Blues,D,20:27,0,0,3,2,0,0,0,0,0,0,0,0,0,3,-1,18:22,2:05,0:00,NA
-2018020592,8475170,Brayden Schenn,St. Louis Blues,C,17:46,0,0,1,3,0,0,0,7,18,0,0,0,0,0,0,14:51,2:24,0:31,38.89
-2018020592,8480023,Robert Thomas,St. Louis Blues,C,11:01,0,0,0,0,0,0,0,2,2,1,0,0,0,0,-1,11:01,0:00,0:00,100
-2018020592,8471724,Kris Letang,Pittsburgh Penguins,D,23:20,3,0,2,0,0,2,0,0,0,3,0,0,0,2,1,18:17,2:46,2:17,NA
-2018020592,8477969,Marcus Pettersson,Pittsburgh Penguins,D,18:13,0,0,2,0,0,0,2,0,0,1,0,0,0,2,0,17:51,0:22,0:00,NA
-2018020592,8475208,Brian Dumoulin,Pittsburgh Penguins,D,21:04,1,0,1,1,0,0,0,0,0,1,2,0,0,1,1,18:42,0:00,2:22,NA
-2018020592,8473544,Derick Brassard,Pittsburgh Penguins,C,16:25,1,0,2,1,0,1,0,4,8,0,0,0,0,0,-1,15:25,0:36,0:24,50
-2018020592,8471675,Sidney Crosby,Pittsburgh Penguins,C,18:13,2,1,3,0,1,0,0,16,26,2,0,0,0,0,2,14:35,2:32,1:06,61.54
-2018020592,8477404,Jake Guentzel,Pittsburgh Penguins,LW,16:28,0,1,2,1,0,0,0,0,0,1,0,0,0,1,1,14:55,0:22,1:11,NA
-2018020592,8471887,Patric Hornqvist,Pittsburgh Penguins,RW,16:43,1,1,5,0,1,1,0,0,0,0,2,0,0,0,0,13:57,2:46,0:00,NA
-2018020592,8478866,Dominik Simon,Pittsburgh Penguins,C,14:35,0,0,3,0,0,0,0,0,2,1,0,0,0,1,0,14:35,0:00,0:00,0
-2018020592,8473548,Phil Kessel,Pittsburgh Penguins,RW,17:36,3,0,1,0,0,3,0,0,0,0,0,0,0,0,0,14:50,2:46,0:00,NA
-2018020592,8475810,Bryan Rust,Pittsburgh Penguins,RW,5:33,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,4:57,0:00,0:36,NA
-2018020592,8479944,Zach Aston-Reese,Pittsburgh Penguins,C,15:02,0,1,2,5,0,0,5,0,0,1,0,0,0,1,2,13:45,0:00,1:17,NA
-2018020592,8471215,Evgeni Malkin,Pittsburgh Penguins,C,19:17,0,1,2,0,1,0,2,3,11,1,2,0,0,0,0,16:45,2:32,0:00,27.27
-2018020592,8471677,Jack Johnson,Pittsburgh Penguins,D,20:25,0,0,0,2,0,0,0,0,0,0,1,0,0,4,0,18:47,0:00,1:38,NA
-2018020592,8476871,Tanner Pearson,Pittsburgh Penguins,LW,14:55,1,0,1,1,0,1,0,0,0,1,0,0,0,1,0,14:19,0:36,0:00,NA
-2018020592,8475772,Riley Sheahan,Pittsburgh Penguins,C,12:00,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,10:11,0:00,1:49,50
-2018020592,8476874,Olli Maatta,Pittsburgh Penguins,D,18:33,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,16:50,0:00,1:43,NA
-2018020592,8480945,Juuso Riikola,Pittsburgh Penguins,D,15:48,0,1,1,1,1,0,0,0,0,0,0,0,0,6,0,15:26,0:22,0:00,NA
-2018020592,8464989,Matt Cullen,Pittsburgh Penguins,C,11:50,0,0,2,0,0,0,0,7,12,1,0,0,0,1,-1,10:13,0:00,1:37,58.33
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020592,8475768,Jaden Schwartz,St. Louis Blues,Pittsburgh Penguins,LW,18:41,0,0,4,0,0,0,0,0,0,3,1,0,0,0,-1,15:46,2:24,0:31,NA
+2018020592,8474565,Alex Pietrangelo,St. Louis Blues,Pittsburgh Penguins,D,19:56,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,18:30,0:10,1:16,NA
+2018020592,8476897,Oskar Sundqvist,St. Louis Blues,Pittsburgh Penguins,C,10:54,0,0,2,1,0,0,0,1,2,0,0,0,0,1,0,9:22,0:00,1:32,50
+2018020592,8477964,Ivan Barbashev,St. Louis Blues,Pittsburgh Penguins,C,11:07,0,0,0,2,0,0,0,1,4,0,0,0,0,0,0,9:35,0:00,1:32,25
+2018020592,8475325,Jordan Nolan,St. Louis Blues,Pittsburgh Penguins,C,9:16,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,9:16,0:00,0:00,NA
+2018020592,8475765,Vladimir Tarasenko,St. Louis Blues,Pittsburgh Penguins,RW,17:38,0,0,2,2,0,0,0,1,1,0,3,0,0,0,0,15:14,2:24,0:00,100
+2018020592,8470257,Alexander Steen,St. Louis Blues,Pittsburgh Penguins,LW,18:13,1,0,0,2,0,0,4,0,0,0,0,0,0,0,1,16:37,1:36,0:00,NA
+2018020592,8478407,Vince Dunn,St. Louis Blues,Pittsburgh Penguins,D,17:47,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,16:02,1:45,0:00,NA
+2018020592,8475158,Ryan O'Reilly,St. Louis Blues,Pittsburgh Penguins,C,20:34,1,0,0,0,0,0,0,15,27,2,0,0,0,0,0,17:24,2:05,1:05,55.56
+2018020592,8474102,David Perron,St. Louis Blues,Pittsburgh Penguins,LW,19:15,0,1,3,5,0,0,0,0,0,1,2,0,0,0,0,17:39,1:36,0:00,NA
+2018020592,8474145,Robert Bortuzzo,St. Louis Blues,Pittsburgh Penguins,D,18:05,0,0,2,2,0,0,0,0,0,1,1,0,0,0,0,16:23,0:00,1:42,NA
+2018020592,8474034,Pat Maroon,St. Louis Blues,Pittsburgh Penguins,LW,12:41,0,0,4,0,0,0,0,0,0,1,1,0,0,0,-1,11:05,1:36,0:00,NA
+2018020592,8475098,Tyler Bozak,St. Louis Blues,Pittsburgh Penguins,C,14:02,0,0,1,1,0,0,0,3,7,0,0,0,0,0,-1,11:02,1:55,1:05,42.86
+2018020592,8476441,Joel Edmundson,St. Louis Blues,Pittsburgh Penguins,D,18:17,0,0,1,3,0,0,7,0,0,0,0,0,0,0,-1,16:51,0:00,1:26,NA
+2018020592,8470151,Jay Bouwmeester,St. Louis Blues,Pittsburgh Penguins,D,21:12,0,0,1,0,0,0,2,0,0,0,1,0,0,1,0,19:20,0:00,1:52,NA
+2018020592,8476892,Colton Parayko,St. Louis Blues,Pittsburgh Penguins,D,20:27,0,0,3,2,0,0,0,0,0,0,0,0,0,3,-1,18:22,2:05,0:00,NA
+2018020592,8475170,Brayden Schenn,St. Louis Blues,Pittsburgh Penguins,C,17:46,0,0,1,3,0,0,0,7,18,0,0,0,0,0,0,14:51,2:24,0:31,38.89
+2018020592,8480023,Robert Thomas,St. Louis Blues,Pittsburgh Penguins,C,11:01,0,0,0,0,0,0,0,2,2,1,0,0,0,0,-1,11:01,0:00,0:00,100
+2018020592,8471724,Kris Letang,Pittsburgh Penguins,St. Louis Blues,D,23:20,3,0,2,0,0,2,0,0,0,3,0,0,0,2,1,18:17,2:46,2:17,NA
+2018020592,8477969,Marcus Pettersson,Pittsburgh Penguins,St. Louis Blues,D,18:13,0,0,2,0,0,0,2,0,0,1,0,0,0,2,0,17:51,0:22,0:00,NA
+2018020592,8475208,Brian Dumoulin,Pittsburgh Penguins,St. Louis Blues,D,21:04,1,0,1,1,0,0,0,0,0,1,2,0,0,1,1,18:42,0:00,2:22,NA
+2018020592,8473544,Derick Brassard,Pittsburgh Penguins,St. Louis Blues,C,16:25,1,0,2,1,0,1,0,4,8,0,0,0,0,0,-1,15:25,0:36,0:24,50
+2018020592,8471675,Sidney Crosby,Pittsburgh Penguins,St. Louis Blues,C,18:13,2,1,3,0,1,0,0,16,26,2,0,0,0,0,2,14:35,2:32,1:06,61.54
+2018020592,8477404,Jake Guentzel,Pittsburgh Penguins,St. Louis Blues,LW,16:28,0,1,2,1,0,0,0,0,0,1,0,0,0,1,1,14:55,0:22,1:11,NA
+2018020592,8471887,Patric Hornqvist,Pittsburgh Penguins,St. Louis Blues,RW,16:43,1,1,5,0,1,1,0,0,0,0,2,0,0,0,0,13:57,2:46,0:00,NA
+2018020592,8478866,Dominik Simon,Pittsburgh Penguins,St. Louis Blues,C,14:35,0,0,3,0,0,0,0,0,2,1,0,0,0,1,0,14:35,0:00,0:00,0
+2018020592,8473548,Phil Kessel,Pittsburgh Penguins,St. Louis Blues,RW,17:36,3,0,1,0,0,3,0,0,0,0,0,0,0,0,0,14:50,2:46,0:00,NA
+2018020592,8475810,Bryan Rust,Pittsburgh Penguins,St. Louis Blues,RW,5:33,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,4:57,0:00,0:36,NA
+2018020592,8479944,Zach Aston-Reese,Pittsburgh Penguins,St. Louis Blues,C,15:02,0,1,2,5,0,0,5,0,0,1,0,0,0,1,2,13:45,0:00,1:17,NA
+2018020592,8471215,Evgeni Malkin,Pittsburgh Penguins,St. Louis Blues,C,19:17,0,1,2,0,1,0,2,3,11,1,2,0,0,0,0,16:45,2:32,0:00,27.27
+2018020592,8471677,Jack Johnson,Pittsburgh Penguins,St. Louis Blues,D,20:25,0,0,0,2,0,0,0,0,0,0,1,0,0,4,0,18:47,0:00,1:38,NA
+2018020592,8476871,Tanner Pearson,Pittsburgh Penguins,St. Louis Blues,LW,14:55,1,0,1,1,0,1,0,0,0,1,0,0,0,1,0,14:19,0:36,0:00,NA
+2018020592,8475772,Riley Sheahan,Pittsburgh Penguins,St. Louis Blues,C,12:00,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,10:11,0:00,1:49,50
+2018020592,8476874,Olli Maatta,Pittsburgh Penguins,St. Louis Blues,D,18:33,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,16:50,0:00,1:43,NA
+2018020592,8480945,Juuso Riikola,Pittsburgh Penguins,St. Louis Blues,D,15:48,0,1,1,1,1,0,0,0,0,0,0,0,0,6,0,15:26,0:22,0:00,NA
+2018020592,8464989,Matt Cullen,Pittsburgh Penguins,St. Louis Blues,C,11:50,0,0,2,0,0,0,0,7,12,1,0,0,0,1,-1,10:13,0:00,1:37,58.33

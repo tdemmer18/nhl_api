@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020398,8473507,Jeff Petry,Montréal Canadiens,D,19:38,0,0,2,3,0,0,0,0,0,0,0,0,0,2,-1,17:43,1:07,0:48,NA
-2018020398,8474818,Jordie Benn,Montréal Canadiens,D,16:43,1,0,1,1,0,0,0,0,0,0,2,0,0,0,2,15:55,0:00,0:48,NA
-2018020398,8475808,Michael Chaput,Montréal Canadiens,C,10:30,0,0,0,2,0,0,0,9,15,0,0,0,0,0,1,9:35,0:00,0:55,60
-2018020398,8480829,Jesperi Kotkaniemi,Montréal Canadiens,C,16:42,0,0,2,0,0,0,0,6,11,1,0,0,0,0,1,14:23,2:19,0:00,54.55
-2018020398,8476967,Brett Kulak,Montréal Canadiens,D,20:38,0,0,3,4,0,0,0,0,0,1,2,0,0,1,2,20:32,0:04,0:02,NA
-2018020398,8474038,Paul Byron,Montréal Canadiens,LW,14:28,1,0,1,5,0,0,0,0,0,0,1,0,0,2,1,14:02,0:04,0:22,NA
-2018020398,8475848,Brendan Gallagher,Montréal Canadiens,RW,15:54,1,0,3,0,0,0,2,0,0,0,1,0,0,0,1,13:53,2:01,0:00,NA
-2018020398,8477503,Max Domi,Montréal Canadiens,LW,18:28,1,0,5,0,0,0,2,7,13,0,0,0,0,2,1,15:18,2:01,1:09,53.85
-2018020398,8476479,Phillip Danault,Montréal Canadiens,C,15:34,0,0,3,0,0,0,2,8,15,0,4,0,0,0,1,14:20,0:04,1:10,53.33
-2018020398,8470642,Shea Weber,Montréal Canadiens,D,23:59,0,2,5,4,0,0,0,0,0,1,0,0,0,0,1,19:46,2:23,1:50,NA
-2018020398,8475844,Kenny Agostino,Montréal Canadiens,LW,10:50,1,0,2,2,0,1,0,1,1,0,0,0,0,0,0,9:43,1:07,0:00,100
-2018020398,8477476,Artturi Lehkonen,Montréal Canadiens,LW,14:30,0,2,3,3,0,0,0,0,0,1,0,0,0,0,2,13:31,0:04,0:55,NA
-2018020398,8476422,Mike Reilly,Montréal Canadiens,D,17:20,0,0,1,1,0,0,0,0,0,1,0,0,0,4,2,17:20,0:00,0:00,NA
-2018020398,8475235,Nicolas Deslauriers,Montréal Canadiens,LW,10:10,0,0,1,4,0,0,0,0,0,0,0,0,0,1,0,9:37,0:00,0:33,NA
-2018020398,8473673,David Schlemko,Montréal Canadiens,D,19:23,1,0,0,3,0,1,0,0,0,0,1,0,0,2,0,16:28,1:07,1:48,NA
-2018020398,8477494,Jonathan Drouin,Montréal Canadiens,C,17:58,1,0,4,1,0,0,0,0,0,0,0,0,0,0,0,15:29,2:29,0:00,NA
-2018020398,8476381,Andrew Shaw,Montréal Canadiens,RW,18:07,0,0,2,2,0,0,0,0,3,1,1,0,0,0,1,16:31,1:25,0:11,0
-2018020398,8475193,Tomas Tatar,Montréal Canadiens,LW,14:32,1,1,3,1,1,0,0,0,0,0,0,0,0,1,1,13:17,1:15,0:00,NA
-2018020398,8480072,Lias Andersson,New York Rangers,C,15:38,0,0,1,2,0,0,2,1,1,0,0,0,0,0,-1,15:15,0:09,0:14,100
-2018020398,8476918,Jimmy Vesey,New York Rangers,LW,17:49,1,1,3,0,0,1,0,0,0,0,0,0,0,0,0,14:55,0:54,2:00,NA
-2018020398,8471686,Marc Staal,New York Rangers,D,20:56,0,0,0,1,0,0,0,0,0,0,1,0,0,1,-1,18:49,0:00,2:07,NA
-2018020398,8476869,Brady Skjei,New York Rangers,D,17:29,0,0,1,2,0,0,2,0,0,1,2,0,0,2,-2,16:45,0:04,0:40,NA
-2018020398,8479968,Vinni Lettieri,New York Rangers,C,10:23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9:37,0:46,0:00,NA
-2018020398,8476458,Ryan Strome,New York Rangers,C,16:45,0,1,1,0,1,0,0,3,4,0,1,0,0,0,-2,14:28,1:38,0:39,75
-2018020398,8476459,Mika Zibanejad,New York Rangers,C,18:54,2,0,4,1,0,1,0,12,20,1,0,0,0,0,0,15:04,1:48,2:02,60
-2018020398,8475855,Jesper Fast,New York Rangers,RW,16:45,0,0,0,1,0,0,2,0,0,0,0,0,0,1,-1,16:04,0:04,0:37,NA
-2018020398,8474031,Kevin Shattenkirk,New York Rangers,D,18:13,0,0,2,4,0,0,0,0,0,1,1,0,0,1,0,17:23,0:50,0:00,NA
-2018020398,8475763,Kevin Hayes,New York Rangers,C,17:10,0,0,1,1,0,0,0,2,9,0,1,0,0,0,-1,15:31,0:50,0:49,22.22
-2018020398,8476368,Fredrik Claesson,New York Rangers,D,19:01,0,0,2,1,0,0,0,0,0,1,1,0,0,1,0,18:18,0:00,0:43,NA
-2018020398,8475184,Chris Kreider,New York Rangers,LW,16:33,0,0,0,5,0,0,0,0,1,1,0,0,0,0,-2,14:53,1:40,0:00,0
-2018020398,8479353,Brett Howden,New York Rangers,C,16:33,0,0,1,3,0,0,0,9,15,2,1,0,0,1,-2,14:06,1:48,0:39,60
-2018020398,8479364,Timothy Gettinger,New York Rangers,LW,8:31,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,8:31,0:00,0:00,NA
-2018020398,8476396,Steven Fogarty,New York Rangers,C,8:06,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,8:06,0:00,0:00,0
-2018020398,8474090,Brendan Smith,New York Rangers,D,20:03,1,0,2,2,0,0,0,0,0,1,1,0,0,0,-2,18:50,0:00,1:13,NA
-2018020398,8480078,Filip Chytil,New York Rangers,C,14:07,0,0,2,0,0,0,0,0,0,0,0,0,0,1,-1,13:17,0:50,0:00,NA
-2018020398,8480145,Neal Pionk,New York Rangers,D,21:44,0,0,1,3,0,0,0,0,0,1,1,0,0,1,-1,17:39,1:48,2:17,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020398,8473507,Jeff Petry,Montréal Canadiens,New York Rangers,D,19:38,0,0,2,3,0,0,0,0,0,0,0,0,0,2,-1,17:43,1:07,0:48,NA
+2018020398,8474818,Jordie Benn,Montréal Canadiens,New York Rangers,D,16:43,1,0,1,1,0,0,0,0,0,0,2,0,0,0,2,15:55,0:00,0:48,NA
+2018020398,8475808,Michael Chaput,Montréal Canadiens,New York Rangers,C,10:30,0,0,0,2,0,0,0,9,15,0,0,0,0,0,1,9:35,0:00,0:55,60
+2018020398,8480829,Jesperi Kotkaniemi,Montréal Canadiens,New York Rangers,C,16:42,0,0,2,0,0,0,0,6,11,1,0,0,0,0,1,14:23,2:19,0:00,54.55
+2018020398,8476967,Brett Kulak,Montréal Canadiens,New York Rangers,D,20:38,0,0,3,4,0,0,0,0,0,1,2,0,0,1,2,20:32,0:04,0:02,NA
+2018020398,8474038,Paul Byron,Montréal Canadiens,New York Rangers,LW,14:28,1,0,1,5,0,0,0,0,0,0,1,0,0,2,1,14:02,0:04,0:22,NA
+2018020398,8475848,Brendan Gallagher,Montréal Canadiens,New York Rangers,RW,15:54,1,0,3,0,0,0,2,0,0,0,1,0,0,0,1,13:53,2:01,0:00,NA
+2018020398,8477503,Max Domi,Montréal Canadiens,New York Rangers,LW,18:28,1,0,5,0,0,0,2,7,13,0,0,0,0,2,1,15:18,2:01,1:09,53.85
+2018020398,8476479,Phillip Danault,Montréal Canadiens,New York Rangers,C,15:34,0,0,3,0,0,0,2,8,15,0,4,0,0,0,1,14:20,0:04,1:10,53.33
+2018020398,8470642,Shea Weber,Montréal Canadiens,New York Rangers,D,23:59,0,2,5,4,0,0,0,0,0,1,0,0,0,0,1,19:46,2:23,1:50,NA
+2018020398,8475844,Kenny Agostino,Montréal Canadiens,New York Rangers,LW,10:50,1,0,2,2,0,1,0,1,1,0,0,0,0,0,0,9:43,1:07,0:00,100
+2018020398,8477476,Artturi Lehkonen,Montréal Canadiens,New York Rangers,LW,14:30,0,2,3,3,0,0,0,0,0,1,0,0,0,0,2,13:31,0:04,0:55,NA
+2018020398,8476422,Mike Reilly,Montréal Canadiens,New York Rangers,D,17:20,0,0,1,1,0,0,0,0,0,1,0,0,0,4,2,17:20,0:00,0:00,NA
+2018020398,8475235,Nicolas Deslauriers,Montréal Canadiens,New York Rangers,LW,10:10,0,0,1,4,0,0,0,0,0,0,0,0,0,1,0,9:37,0:00,0:33,NA
+2018020398,8473673,David Schlemko,Montréal Canadiens,New York Rangers,D,19:23,1,0,0,3,0,1,0,0,0,0,1,0,0,2,0,16:28,1:07,1:48,NA
+2018020398,8477494,Jonathan Drouin,Montréal Canadiens,New York Rangers,C,17:58,1,0,4,1,0,0,0,0,0,0,0,0,0,0,0,15:29,2:29,0:00,NA
+2018020398,8476381,Andrew Shaw,Montréal Canadiens,New York Rangers,RW,18:07,0,0,2,2,0,0,0,0,3,1,1,0,0,0,1,16:31,1:25,0:11,0
+2018020398,8475193,Tomas Tatar,Montréal Canadiens,New York Rangers,LW,14:32,1,1,3,1,1,0,0,0,0,0,0,0,0,1,1,13:17,1:15,0:00,NA
+2018020398,8480072,Lias Andersson,New York Rangers,Montréal Canadiens,C,15:38,0,0,1,2,0,0,2,1,1,0,0,0,0,0,-1,15:15,0:09,0:14,100
+2018020398,8476918,Jimmy Vesey,New York Rangers,Montréal Canadiens,LW,17:49,1,1,3,0,0,1,0,0,0,0,0,0,0,0,0,14:55,0:54,2:00,NA
+2018020398,8471686,Marc Staal,New York Rangers,Montréal Canadiens,D,20:56,0,0,0,1,0,0,0,0,0,0,1,0,0,1,-1,18:49,0:00,2:07,NA
+2018020398,8476869,Brady Skjei,New York Rangers,Montréal Canadiens,D,17:29,0,0,1,2,0,0,2,0,0,1,2,0,0,2,-2,16:45,0:04,0:40,NA
+2018020398,8479968,Vinni Lettieri,New York Rangers,Montréal Canadiens,C,10:23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9:37,0:46,0:00,NA
+2018020398,8476458,Ryan Strome,New York Rangers,Montréal Canadiens,C,16:45,0,1,1,0,1,0,0,3,4,0,1,0,0,0,-2,14:28,1:38,0:39,75
+2018020398,8476459,Mika Zibanejad,New York Rangers,Montréal Canadiens,C,18:54,2,0,4,1,0,1,0,12,20,1,0,0,0,0,0,15:04,1:48,2:02,60
+2018020398,8475855,Jesper Fast,New York Rangers,Montréal Canadiens,RW,16:45,0,0,0,1,0,0,2,0,0,0,0,0,0,1,-1,16:04,0:04,0:37,NA
+2018020398,8474031,Kevin Shattenkirk,New York Rangers,Montréal Canadiens,D,18:13,0,0,2,4,0,0,0,0,0,1,1,0,0,1,0,17:23,0:50,0:00,NA
+2018020398,8475763,Kevin Hayes,New York Rangers,Montréal Canadiens,C,17:10,0,0,1,1,0,0,0,2,9,0,1,0,0,0,-1,15:31,0:50,0:49,22.22
+2018020398,8476368,Fredrik Claesson,New York Rangers,Montréal Canadiens,D,19:01,0,0,2,1,0,0,0,0,0,1,1,0,0,1,0,18:18,0:00,0:43,NA
+2018020398,8475184,Chris Kreider,New York Rangers,Montréal Canadiens,LW,16:33,0,0,0,5,0,0,0,0,1,1,0,0,0,0,-2,14:53,1:40,0:00,0
+2018020398,8479353,Brett Howden,New York Rangers,Montréal Canadiens,C,16:33,0,0,1,3,0,0,0,9,15,2,1,0,0,1,-2,14:06,1:48,0:39,60
+2018020398,8479364,Timothy Gettinger,New York Rangers,Montréal Canadiens,LW,8:31,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,8:31,0:00,0:00,NA
+2018020398,8476396,Steven Fogarty,New York Rangers,Montréal Canadiens,C,8:06,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,8:06,0:00,0:00,0
+2018020398,8474090,Brendan Smith,New York Rangers,Montréal Canadiens,D,20:03,1,0,2,2,0,0,0,0,0,1,1,0,0,0,-2,18:50,0:00,1:13,NA
+2018020398,8480078,Filip Chytil,New York Rangers,Montréal Canadiens,C,14:07,0,0,2,0,0,0,0,0,0,0,0,0,0,1,-1,13:17,0:50,0:00,NA
+2018020398,8480145,Neal Pionk,New York Rangers,Montréal Canadiens,D,21:44,0,0,1,3,0,0,0,0,0,1,1,0,0,1,-1,17:39,1:48,2:17,NA

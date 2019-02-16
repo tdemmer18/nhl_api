@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020450,8471735,Keith Yandle,Florida Panthers,D,25:46,2,1,3,0,1,1,0,0,0,0,0,0,0,2,1,21:21,4:25,0:00,NA
-2018020450,8474149,Evgenii Dadonov,Florida Panthers,RW,23:05,1,0,2,1,0,0,0,0,0,0,2,0,0,1,1,18:46,4:19,0:00,NA
-2018020450,8477932,Aaron Ekblad,Florida Panthers,D,26:12,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,23:08,1:54,1:10,NA
-2018020450,8476875,Mike Matheson,Florida Panthers,D,22:59,0,0,5,1,0,0,0,0,0,1,2,0,0,1,-2,20:04,1:45,1:10,NA
-2018020450,8474884,Mike Hoffman,Florida Panthers,LW,19:25,2,0,1,0,0,2,0,0,0,0,1,0,0,2,-2,15:09,4:16,0:00,NA
-2018020450,8471426,Troy Brouwer,Florida Panthers,RW,10:42,0,0,2,2,0,0,0,1,1,0,1,0,0,2,-1,8:04,1:28,1:10,100
-2018020450,8477955,Jared McCann,Florida Panthers,C,17:07,0,0,2,2,0,0,0,5,12,0,1,0,0,1,-2,15:25,1:42,0:00,41.67
-2018020450,8474098,Colton Sceviour,Florida Panthers,C,9:31,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1,8:32,0:09,0:50,NA
-2018020450,8474230,Micheal Haley,Florida Panthers,C,5:01,0,0,0,2,0,0,0,1,1,0,1,0,0,0,-1,5:01,0:00,0:00,100
-2018020450,8480955,Bogdan Kiselevich,Florida Panthers,D,14:28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,14:28,0:00,0:00,NA
-2018020450,8478843,Denis Malgin,Florida Panthers,C,12:42,0,0,0,3,0,0,0,1,3,0,1,0,0,0,-1,12:33,0:09,0:00,33.33
-2018020450,8477996,Juho Lammikko,Florida Panthers,RW,14:10,0,0,1,2,0,0,0,6,10,0,0,0,0,0,0,13:20,0:00,0:50,60
-2018020450,8476456,Jonathan Huberdeau,Florida Panthers,LW,24:44,2,1,2,0,0,1,0,0,0,1,4,0,0,2,1,20:28,4:16,0:00,NA
-2018020450,8475796,Mark Pysyk,Florida Panthers,D,17:44,0,0,0,2,0,0,0,0,0,0,1,0,0,1,-1,16:54,0:00,0:50,NA
-2018020450,8477346,MacKenzie Weegar,Florida Panthers,D,13:46,0,0,0,2,0,0,0,0,0,0,1,0,0,1,-1,12:56,0:00,0:50,NA
-2018020450,8478366,Frank Vatrano,Florida Panthers,C,15:11,0,0,6,2,0,0,2,1,2,1,0,0,0,1,-1,13:26,1:45,0:00,50
-2018020450,8478211,Dryden Hunt,Florida Panthers,LW,13:38,0,0,1,5,0,0,0,0,0,0,0,0,0,1,0,13:29,0:09,0:00,NA
-2018020450,8477493,Aleksander Barkov,Florida Panthers,C,26:49,0,1,4,0,1,0,0,14,31,1,0,0,0,0,1,21:06,4:33,1:10,45.16
-2018020450,8480072,Lias Andersson,New York Rangers,C,8:23,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,8:02,0:00,0:21,100
-2018020450,8476918,Jimmy Vesey,New York Rangers,LW,19:12,1,0,3,1,0,0,0,1,1,0,0,0,0,0,2,16:15,1:01,1:56,100
-2018020450,8471686,Marc Staal,New York Rangers,D,22:03,0,0,1,1,0,0,2,0,0,0,1,0,0,3,0,19:05,0:00,2:58,NA
-2018020450,8476869,Brady Skjei,New York Rangers,D,19:19,1,0,2,2,0,0,0,0,0,0,1,0,0,2,0,16:07,0:00,3:12,NA
-2018020450,8476458,Ryan Strome,New York Rangers,C,19:22,0,0,0,0,0,0,0,10,17,0,1,0,0,0,1,16:30,0:59,1:53,58.82
-2018020450,8476459,Mika Zibanejad,New York Rangers,C,19:51,0,1,1,1,0,0,2,8,15,1,1,0,0,0,-1,17:51,0:59,1:01,53.33
-2018020450,8475855,Jesper Fast,New York Rangers,RW,14:29,0,0,1,2,0,0,2,0,0,0,0,0,0,2,0,12:43,0:00,1:46,NA
-2018020450,8477950,Tony DeAngelo,New York Rangers,D,18:50,1,0,3,1,0,0,0,0,0,0,0,0,0,1,0,17:51,0:59,0:00,NA
-2018020450,8474031,Kevin Shattenkirk,New York Rangers,D,19:27,0,0,2,0,0,0,0,0,0,1,2,0,0,4,1,18:02,1:25,0:00,NA
-2018020450,8473492,Matt Beleskey,New York Rangers,LW,6:17,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,6:17,0:00,0:00,NA
-2018020450,8475763,Kevin Hayes,New York Rangers,C,20:42,2,0,1,2,0,0,0,6,9,1,0,0,1,0,0,17:36,0:59,2:07,66.67
-2018020450,8476368,Fredrik Claesson,New York Rangers,D,19:24,1,1,1,2,0,0,0,0,0,1,0,0,1,1,3,17:14,0:02,2:08,NA
-2018020450,8475184,Chris Kreider,New York Rangers,LW,18:31,0,0,2,4,0,0,2,0,0,0,2,0,0,1,-2,17:32,0:59,0:00,NA
-2018020450,8479353,Brett Howden,New York Rangers,C,16:36,0,0,1,1,0,0,0,4,14,0,0,0,0,0,0,14:30,1:01,1:05,28.57
-2018020450,8476396,Steven Fogarty,New York Rangers,C,6:02,0,0,0,2,0,0,0,0,1,1,2,0,0,0,1,6:02,0:00,0:00,0
-2018020450,8480078,Filip Chytil,New York Rangers,C,18:47,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,17:38,1:01,0:08,0
-2018020450,8476480,Vladislav Namestnikov,New York Rangers,C,16:37,0,1,3,3,0,0,0,1,1,0,0,1,0,2,1,14:34,0:00,2:03,100
-2018020450,8480145,Neal Pionk,New York Rangers,D,24:58,0,0,2,3,0,0,0,0,0,0,3,0,0,0,0,20:21,0:35,4:02,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020450,8471735,Keith Yandle,Florida Panthers,New York Rangers,D,25:46,2,1,3,0,1,1,0,0,0,0,0,0,0,2,1,21:21,4:25,0:00,NA
+2018020450,8474149,Evgenii Dadonov,Florida Panthers,New York Rangers,RW,23:05,1,0,2,1,0,0,0,0,0,0,2,0,0,1,1,18:46,4:19,0:00,NA
+2018020450,8477932,Aaron Ekblad,Florida Panthers,New York Rangers,D,26:12,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,23:08,1:54,1:10,NA
+2018020450,8476875,Mike Matheson,Florida Panthers,New York Rangers,D,22:59,0,0,5,1,0,0,0,0,0,1,2,0,0,1,-2,20:04,1:45,1:10,NA
+2018020450,8474884,Mike Hoffman,Florida Panthers,New York Rangers,LW,19:25,2,0,1,0,0,2,0,0,0,0,1,0,0,2,-2,15:09,4:16,0:00,NA
+2018020450,8471426,Troy Brouwer,Florida Panthers,New York Rangers,RW,10:42,0,0,2,2,0,0,0,1,1,0,1,0,0,2,-1,8:04,1:28,1:10,100
+2018020450,8477955,Jared McCann,Florida Panthers,New York Rangers,C,17:07,0,0,2,2,0,0,0,5,12,0,1,0,0,1,-2,15:25,1:42,0:00,41.67
+2018020450,8474098,Colton Sceviour,Florida Panthers,New York Rangers,C,9:31,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1,8:32,0:09,0:50,NA
+2018020450,8474230,Micheal Haley,Florida Panthers,New York Rangers,C,5:01,0,0,0,2,0,0,0,1,1,0,1,0,0,0,-1,5:01,0:00,0:00,100
+2018020450,8480955,Bogdan Kiselevich,Florida Panthers,New York Rangers,D,14:28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,14:28,0:00,0:00,NA
+2018020450,8478843,Denis Malgin,Florida Panthers,New York Rangers,C,12:42,0,0,0,3,0,0,0,1,3,0,1,0,0,0,-1,12:33,0:09,0:00,33.33
+2018020450,8477996,Juho Lammikko,Florida Panthers,New York Rangers,RW,14:10,0,0,1,2,0,0,0,6,10,0,0,0,0,0,0,13:20,0:00,0:50,60
+2018020450,8476456,Jonathan Huberdeau,Florida Panthers,New York Rangers,LW,24:44,2,1,2,0,0,1,0,0,0,1,4,0,0,2,1,20:28,4:16,0:00,NA
+2018020450,8475796,Mark Pysyk,Florida Panthers,New York Rangers,D,17:44,0,0,0,2,0,0,0,0,0,0,1,0,0,1,-1,16:54,0:00,0:50,NA
+2018020450,8477346,MacKenzie Weegar,Florida Panthers,New York Rangers,D,13:46,0,0,0,2,0,0,0,0,0,0,1,0,0,1,-1,12:56,0:00,0:50,NA
+2018020450,8478366,Frank Vatrano,Florida Panthers,New York Rangers,C,15:11,0,0,6,2,0,0,2,1,2,1,0,0,0,1,-1,13:26,1:45,0:00,50
+2018020450,8478211,Dryden Hunt,Florida Panthers,New York Rangers,LW,13:38,0,0,1,5,0,0,0,0,0,0,0,0,0,1,0,13:29,0:09,0:00,NA
+2018020450,8477493,Aleksander Barkov,Florida Panthers,New York Rangers,C,26:49,0,1,4,0,1,0,0,14,31,1,0,0,0,0,1,21:06,4:33,1:10,45.16
+2018020450,8480072,Lias Andersson,New York Rangers,Florida Panthers,C,8:23,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,8:02,0:00,0:21,100
+2018020450,8476918,Jimmy Vesey,New York Rangers,Florida Panthers,LW,19:12,1,0,3,1,0,0,0,1,1,0,0,0,0,0,2,16:15,1:01,1:56,100
+2018020450,8471686,Marc Staal,New York Rangers,Florida Panthers,D,22:03,0,0,1,1,0,0,2,0,0,0,1,0,0,3,0,19:05,0:00,2:58,NA
+2018020450,8476869,Brady Skjei,New York Rangers,Florida Panthers,D,19:19,1,0,2,2,0,0,0,0,0,0,1,0,0,2,0,16:07,0:00,3:12,NA
+2018020450,8476458,Ryan Strome,New York Rangers,Florida Panthers,C,19:22,0,0,0,0,0,0,0,10,17,0,1,0,0,0,1,16:30,0:59,1:53,58.82
+2018020450,8476459,Mika Zibanejad,New York Rangers,Florida Panthers,C,19:51,0,1,1,1,0,0,2,8,15,1,1,0,0,0,-1,17:51,0:59,1:01,53.33
+2018020450,8475855,Jesper Fast,New York Rangers,Florida Panthers,RW,14:29,0,0,1,2,0,0,2,0,0,0,0,0,0,2,0,12:43,0:00,1:46,NA
+2018020450,8477950,Tony DeAngelo,New York Rangers,Florida Panthers,D,18:50,1,0,3,1,0,0,0,0,0,0,0,0,0,1,0,17:51,0:59,0:00,NA
+2018020450,8474031,Kevin Shattenkirk,New York Rangers,Florida Panthers,D,19:27,0,0,2,0,0,0,0,0,0,1,2,0,0,4,1,18:02,1:25,0:00,NA
+2018020450,8473492,Matt Beleskey,New York Rangers,Florida Panthers,LW,6:17,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,6:17,0:00,0:00,NA
+2018020450,8475763,Kevin Hayes,New York Rangers,Florida Panthers,C,20:42,2,0,1,2,0,0,0,6,9,1,0,0,1,0,0,17:36,0:59,2:07,66.67
+2018020450,8476368,Fredrik Claesson,New York Rangers,Florida Panthers,D,19:24,1,1,1,2,0,0,0,0,0,1,0,0,1,1,3,17:14,0:02,2:08,NA
+2018020450,8475184,Chris Kreider,New York Rangers,Florida Panthers,LW,18:31,0,0,2,4,0,0,2,0,0,0,2,0,0,1,-2,17:32,0:59,0:00,NA
+2018020450,8479353,Brett Howden,New York Rangers,Florida Panthers,C,16:36,0,0,1,1,0,0,0,4,14,0,0,0,0,0,0,14:30,1:01,1:05,28.57
+2018020450,8476396,Steven Fogarty,New York Rangers,Florida Panthers,C,6:02,0,0,0,2,0,0,0,0,1,1,2,0,0,0,1,6:02,0:00,0:00,0
+2018020450,8480078,Filip Chytil,New York Rangers,Florida Panthers,C,18:47,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,17:38,1:01,0:08,0
+2018020450,8476480,Vladislav Namestnikov,New York Rangers,Florida Panthers,C,16:37,0,1,3,3,0,0,0,1,1,0,0,1,0,2,1,14:34,0:00,2:03,100
+2018020450,8480145,Neal Pionk,New York Rangers,Florida Panthers,D,24:58,0,0,2,3,0,0,0,0,0,0,3,0,0,0,0,20:21,0:35,4:02,NA

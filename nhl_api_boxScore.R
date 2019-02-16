@@ -21,10 +21,12 @@ nhlBoxScore <- function(game_id) {
       rename(playerName = "game$teams$home$players[[i]]$person$fullName")
     home_team <- as.data.frame(game$teams$home$team$name) %>%
       rename(team = "game$teams$home$team$name")
+    home_team_opp <- as.data.frame(game$teams$away$team$name) %>%
+      rename(opp = "game$teams$away$team$name")
     home_player_position <- as.data.frame(game$teams$home$players[[i]]$position$abbreviation) %>%
       rename(position = "game$teams$home$players[[i]]$position$abbreviation")
     home_players <- as.data.frame(game$teams$home$players[[i]]$stats$skaterStats)
-    home_player_stats <- c(game_number, home_player_id, home_player_name, home_team, home_player_position, home_players)
+    home_player_stats <- c(game_number, home_player_id, home_player_name, home_team, home_team_opp, home_player_position, home_players)
     home_team_df <- bind_rows(home_team_df, home_player_stats) %>%
       filter(!position %in% c("N/A", "G"))
   }
@@ -39,10 +41,12 @@ nhlBoxScore <- function(game_id) {
       rename(playerName = "game$teams$away$players[[i]]$person$fullName")
     away_team <- as.data.frame(game$teams$away$team$name) %>%
       rename(team = "game$teams$away$team$name")
+    away_team_opp <- as.data.frame(game$teams$home$team$name) %>%
+      rename(opp = "game$teams$home$team$name")
     away_player_position <- as.data.frame(game$teams$away$players[[i]]$position$abbreviation) %>%
       rename(position = "game$teams$away$players[[i]]$position$abbreviation")
     away_players <- as.data.frame(game$teams$away$players[[i]]$stats$skaterStats)
-    away_player_stats <- c(game_number, away_player_id, away_player_name, away_team, away_player_position, away_players)
+    away_player_stats <- c(game_number, away_player_id, away_player_name, away_team, away_team_opp, away_player_position, away_players)
     away_team_df <- bind_rows(away_team_df, away_player_stats) %>%
       filter(!position %in% c("N/A", "G"))
   }

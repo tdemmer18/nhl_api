@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020784,8471724,Kris Letang,Pittsburgh Penguins,D,27:34,1,0,2,2,0,0,0,0,0,2,1,0,0,2,2,23:09,3:14,1:11,NA
-2018020784,8476927,Teddy Blueger,Pittsburgh Penguins,C,10:42,0,1,1,5,0,0,0,1,3,0,0,0,0,0,1,10:06,0:07,0:29,33.33
-2018020784,8477969,Marcus Pettersson,Pittsburgh Penguins,D,15:48,0,0,3,1,0,0,0,0,0,1,0,0,0,0,1,15:02,0:46,0:00,NA
-2018020784,8475208,Brian Dumoulin,Pittsburgh Penguins,D,22:35,1,0,0,2,0,0,0,0,0,1,0,0,0,1,2,21:24,0:00,1:11,NA
-2018020784,8471675,Sidney Crosby,Pittsburgh Penguins,C,21:07,2,0,5,2,0,0,0,13,23,1,2,0,0,0,1,18:23,2:44,0:00,56.52
-2018020784,8477404,Jake Guentzel,Pittsburgh Penguins,LW,20:30,0,2,3,0,0,0,0,0,0,0,0,0,0,0,1,17:16,3:14,0:00,NA
-2018020784,8471887,Patric Hornqvist,Pittsburgh Penguins,RW,14:40,0,0,5,2,0,0,0,0,0,0,0,0,0,2,1,12:21,2:19,0:00,NA
-2018020784,8478866,Dominik Simon,Pittsburgh Penguins,C,17:57,0,0,6,2,0,0,0,0,0,0,1,0,0,0,1,16:48,1:09,0:00,NA
-2018020784,8473548,Phil Kessel,Pittsburgh Penguins,RW,19:45,2,0,3,0,0,0,0,0,0,0,1,0,0,0,2,16:31,3:14,0:00,NA
-2018020784,8475810,Bryan Rust,Pittsburgh Penguins,RW,16:44,0,2,4,0,0,0,0,1,1,1,1,0,0,0,2,15:26,0:07,1:11,100
-2018020784,8477955,Jared McCann,Pittsburgh Penguins,C,10:08,0,0,1,0,0,0,2,7,11,0,0,0,0,0,0,10:08,0:00,0:00,63.64
-2018020784,8471677,Jack Johnson,Pittsburgh Penguins,D,16:54,1,0,0,2,0,0,0,0,0,0,3,0,0,3,2,15:48,0:07,0:59,NA
-2018020784,8476871,Tanner Pearson,Pittsburgh Penguins,LW,12:16,0,0,0,5,0,0,0,1,1,0,0,0,0,1,0,10:42,1:34,0:00,100
-2018020784,8475760,Nick Bjugstad,Pittsburgh Penguins,C,16:13,1,0,2,3,0,0,2,10,17,1,2,0,0,0,2,15:27,0:46,0:00,58.82
-2018020784,8476874,Olli Maatta,Pittsburgh Penguins,D,16:49,0,0,1,2,0,0,0,0,0,0,1,0,0,3,0,15:50,0:00,0:59,NA
-2018020784,8480945,Juuso Riikola,Pittsburgh Penguins,D,17:06,0,0,1,2,0,0,0,0,0,0,0,0,0,1,1,16:27,0:39,0:00,NA
-2018020784,8475253,Garrett Wilson,Pittsburgh Penguins,LW,9:19,0,0,1,2,0,0,5,0,0,0,0,0,0,0,0,8:20,0:00,0:59,NA
-2018020784,8464989,Matt Cullen,Pittsburgh Penguins,C,11:43,1,0,2,0,0,0,0,7,10,0,1,0,0,0,1,10:02,0:00,1:41,70
-2018020784,8476919,Chris Tierney,Ottawa Senators,C,10:38,1,0,0,0,0,1,0,3,9,0,0,0,0,1,-2,8:26,1:36,0:36,33.33
-2018020784,8476879,Cody Ceci,Ottawa Senators,D,23:06,0,0,2,3,0,0,0,0,0,0,0,0,0,2,0,21:37,0:00,1:29,NA
-2018020784,8476419,Jean-Gabriel Pageau,Ottawa Senators,C,16:07,0,0,4,3,0,0,0,5,10,0,1,0,0,1,0,14:02,0:00,2:05,50
-2018020784,8475913,Mark Stone,Ottawa Senators,RW,19:36,1,0,2,1,0,1,0,0,1,1,0,0,0,0,-1,17:31,0:34,1:31,0
-2018020784,8477426,Nick Paul,Ottawa Senators,LW,5:17,0,0,2,3,0,0,0,0,1,0,0,0,0,0,-2,5:17,0:00,0:00,0
-2018020784,8474697,Mark Borowiecki,Ottawa Senators,D,14:02,0,0,1,9,0,0,5,0,0,0,0,0,0,3,-2,11:57,0:00,2:05,NA
-2018020784,8471676,Bobby Ryan,Ottawa Senators,RW,17:12,0,1,3,4,1,0,0,0,0,0,0,0,0,0,-1,15:36,1:36,0:00,NA
-2018020784,8478868,Christian Jaros,Ottawa Senators,D,17:28,0,0,6,5,0,0,0,0,0,0,0,0,0,3,-2,16:28,0:34,0:26,NA
-2018020784,8476288,Ryan Dzingel,Ottawa Senators,LW,18:20,1,0,2,1,0,1,2,0,0,0,0,0,0,1,-1,16:44,1:36,0:00,NA
-2018020784,8478400,Colin White,Ottawa Senators,C,16:46,0,0,1,0,0,0,0,7,15,1,0,0,0,0,-1,16:12,0:34,0:00,46.67
-2018020784,8480801,Brady Tkachuk,Ottawa Senators,LW,17:17,0,0,4,8,0,0,0,3,6,0,0,0,0,0,-1,16:43,0:34,0:00,50
-2018020784,8474250,Zack Smith,Ottawa Senators,LW,13:20,0,0,1,3,0,0,2,0,6,0,0,0,0,0,0,12:08,0:00,1:12,0
-2018020784,8478469,Thomas Chabot,Ottawa Senators,D,27:41,0,0,4,0,0,0,0,0,0,1,1,0,0,1,-2,25:39,1:36,0:26,NA
-2018020784,8475168,Matt Duchene,Ottawa Senators,C,19:19,0,1,4,0,0,0,0,7,17,1,2,0,0,1,-1,17:36,1:36,0:07,41.18
-2018020784,8475175,Magnus Paajarvi,Ottawa Senators,LW,14:22,0,0,2,1,0,0,0,1,1,0,0,0,0,1,0,11:53,0:00,2:29,100
-2018020784,8479320,Maxime Lajoie,Ottawa Senators,D,17:43,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,16:14,0:00,1:29,NA
-2018020784,8476331,Dylan DeMelo,Ottawa Senators,D,17:50,0,0,0,2,0,0,0,0,0,0,1,0,0,2,-2,15:45,0:00,2:05,NA
-2018020784,8474571,Mikkel Boedker,Ottawa Senators,LW,11:24,0,1,2,0,1,0,0,0,0,0,1,0,0,0,-2,10:50,0:34,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020784,8471724,Kris Letang,Pittsburgh Penguins,Ottawa Senators,D,27:34,1,0,2,2,0,0,0,0,0,2,1,0,0,2,2,23:09,3:14,1:11,NA
+2018020784,8476927,Teddy Blueger,Pittsburgh Penguins,Ottawa Senators,C,10:42,0,1,1,5,0,0,0,1,3,0,0,0,0,0,1,10:06,0:07,0:29,33.33
+2018020784,8477969,Marcus Pettersson,Pittsburgh Penguins,Ottawa Senators,D,15:48,0,0,3,1,0,0,0,0,0,1,0,0,0,0,1,15:02,0:46,0:00,NA
+2018020784,8475208,Brian Dumoulin,Pittsburgh Penguins,Ottawa Senators,D,22:35,1,0,0,2,0,0,0,0,0,1,0,0,0,1,2,21:24,0:00,1:11,NA
+2018020784,8471675,Sidney Crosby,Pittsburgh Penguins,Ottawa Senators,C,21:07,2,0,5,2,0,0,0,13,23,1,2,0,0,0,1,18:23,2:44,0:00,56.52
+2018020784,8477404,Jake Guentzel,Pittsburgh Penguins,Ottawa Senators,LW,20:30,0,2,3,0,0,0,0,0,0,0,0,0,0,0,1,17:16,3:14,0:00,NA
+2018020784,8471887,Patric Hornqvist,Pittsburgh Penguins,Ottawa Senators,RW,14:40,0,0,5,2,0,0,0,0,0,0,0,0,0,2,1,12:21,2:19,0:00,NA
+2018020784,8478866,Dominik Simon,Pittsburgh Penguins,Ottawa Senators,C,17:57,0,0,6,2,0,0,0,0,0,0,1,0,0,0,1,16:48,1:09,0:00,NA
+2018020784,8473548,Phil Kessel,Pittsburgh Penguins,Ottawa Senators,RW,19:45,2,0,3,0,0,0,0,0,0,0,1,0,0,0,2,16:31,3:14,0:00,NA
+2018020784,8475810,Bryan Rust,Pittsburgh Penguins,Ottawa Senators,RW,16:44,0,2,4,0,0,0,0,1,1,1,1,0,0,0,2,15:26,0:07,1:11,100
+2018020784,8477955,Jared McCann,Pittsburgh Penguins,Ottawa Senators,C,10:08,0,0,1,0,0,0,2,7,11,0,0,0,0,0,0,10:08,0:00,0:00,63.64
+2018020784,8471677,Jack Johnson,Pittsburgh Penguins,Ottawa Senators,D,16:54,1,0,0,2,0,0,0,0,0,0,3,0,0,3,2,15:48,0:07,0:59,NA
+2018020784,8476871,Tanner Pearson,Pittsburgh Penguins,Ottawa Senators,LW,12:16,0,0,0,5,0,0,0,1,1,0,0,0,0,1,0,10:42,1:34,0:00,100
+2018020784,8475760,Nick Bjugstad,Pittsburgh Penguins,Ottawa Senators,C,16:13,1,0,2,3,0,0,2,10,17,1,2,0,0,0,2,15:27,0:46,0:00,58.82
+2018020784,8476874,Olli Maatta,Pittsburgh Penguins,Ottawa Senators,D,16:49,0,0,1,2,0,0,0,0,0,0,1,0,0,3,0,15:50,0:00,0:59,NA
+2018020784,8480945,Juuso Riikola,Pittsburgh Penguins,Ottawa Senators,D,17:06,0,0,1,2,0,0,0,0,0,0,0,0,0,1,1,16:27,0:39,0:00,NA
+2018020784,8475253,Garrett Wilson,Pittsburgh Penguins,Ottawa Senators,LW,9:19,0,0,1,2,0,0,5,0,0,0,0,0,0,0,0,8:20,0:00,0:59,NA
+2018020784,8464989,Matt Cullen,Pittsburgh Penguins,Ottawa Senators,C,11:43,1,0,2,0,0,0,0,7,10,0,1,0,0,0,1,10:02,0:00,1:41,70
+2018020784,8476919,Chris Tierney,Ottawa Senators,Pittsburgh Penguins,C,10:38,1,0,0,0,0,1,0,3,9,0,0,0,0,1,-2,8:26,1:36,0:36,33.33
+2018020784,8476879,Cody Ceci,Ottawa Senators,Pittsburgh Penguins,D,23:06,0,0,2,3,0,0,0,0,0,0,0,0,0,2,0,21:37,0:00,1:29,NA
+2018020784,8476419,Jean-Gabriel Pageau,Ottawa Senators,Pittsburgh Penguins,C,16:07,0,0,4,3,0,0,0,5,10,0,1,0,0,1,0,14:02,0:00,2:05,50
+2018020784,8475913,Mark Stone,Ottawa Senators,Pittsburgh Penguins,RW,19:36,1,0,2,1,0,1,0,0,1,1,0,0,0,0,-1,17:31,0:34,1:31,0
+2018020784,8477426,Nick Paul,Ottawa Senators,Pittsburgh Penguins,LW,5:17,0,0,2,3,0,0,0,0,1,0,0,0,0,0,-2,5:17,0:00,0:00,0
+2018020784,8474697,Mark Borowiecki,Ottawa Senators,Pittsburgh Penguins,D,14:02,0,0,1,9,0,0,5,0,0,0,0,0,0,3,-2,11:57,0:00,2:05,NA
+2018020784,8471676,Bobby Ryan,Ottawa Senators,Pittsburgh Penguins,RW,17:12,0,1,3,4,1,0,0,0,0,0,0,0,0,0,-1,15:36,1:36,0:00,NA
+2018020784,8478868,Christian Jaros,Ottawa Senators,Pittsburgh Penguins,D,17:28,0,0,6,5,0,0,0,0,0,0,0,0,0,3,-2,16:28,0:34,0:26,NA
+2018020784,8476288,Ryan Dzingel,Ottawa Senators,Pittsburgh Penguins,LW,18:20,1,0,2,1,0,1,2,0,0,0,0,0,0,1,-1,16:44,1:36,0:00,NA
+2018020784,8478400,Colin White,Ottawa Senators,Pittsburgh Penguins,C,16:46,0,0,1,0,0,0,0,7,15,1,0,0,0,0,-1,16:12,0:34,0:00,46.67
+2018020784,8480801,Brady Tkachuk,Ottawa Senators,Pittsburgh Penguins,LW,17:17,0,0,4,8,0,0,0,3,6,0,0,0,0,0,-1,16:43,0:34,0:00,50
+2018020784,8474250,Zack Smith,Ottawa Senators,Pittsburgh Penguins,LW,13:20,0,0,1,3,0,0,2,0,6,0,0,0,0,0,0,12:08,0:00,1:12,0
+2018020784,8478469,Thomas Chabot,Ottawa Senators,Pittsburgh Penguins,D,27:41,0,0,4,0,0,0,0,0,0,1,1,0,0,1,-2,25:39,1:36,0:26,NA
+2018020784,8475168,Matt Duchene,Ottawa Senators,Pittsburgh Penguins,C,19:19,0,1,4,0,0,0,0,7,17,1,2,0,0,1,-1,17:36,1:36,0:07,41.18
+2018020784,8475175,Magnus Paajarvi,Ottawa Senators,Pittsburgh Penguins,LW,14:22,0,0,2,1,0,0,0,1,1,0,0,0,0,1,0,11:53,0:00,2:29,100
+2018020784,8479320,Maxime Lajoie,Ottawa Senators,Pittsburgh Penguins,D,17:43,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,16:14,0:00,1:29,NA
+2018020784,8476331,Dylan DeMelo,Ottawa Senators,Pittsburgh Penguins,D,17:50,0,0,0,2,0,0,0,0,0,0,1,0,0,2,-2,15:45,0:00,2:05,NA
+2018020784,8474571,Mikkel Boedker,Ottawa Senators,Pittsburgh Penguins,LW,11:24,0,1,2,0,1,0,0,0,0,0,1,0,0,0,-2,10:50,0:34,0:00,NA

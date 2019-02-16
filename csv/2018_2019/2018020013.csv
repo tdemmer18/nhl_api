@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020013,8473446,Erik Johnson,Colorado Avalanche,D,19:45,0,0,2,2,0,0,0,0,0,1,0,0,0,1,1,16:36,0:31,2:38,NA
-2018020013,8477507,Nikita Zadorov,Colorado Avalanche,D,16:25,0,0,3,4,0,0,0,0,0,0,1,0,0,1,1,14:03,0:00,2:22,NA
-2018020013,8474569,Colin Wilson,Colorado Avalanche,C,10:00,0,0,2,0,0,0,0,1,2,0,0,0,0,0,0,8:28,1:32,0:00,50
-2018020013,8475747,Patrik Nemeth,Colorado Avalanche,D,19:23,1,0,3,1,0,0,0,0,0,0,0,0,0,2,1,15:45,0:00,3:38,NA
-2018020013,8480326,Sheldon Dries,Colorado Avalanche,C,5:13,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,5:13,0:00,0:00,NA
-2018020013,8476442,Matt Nieto,Colorado Avalanche,LW,15:15,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,12:56,0:00,2:19,NA
-2018020013,8476455,Gabriel Landeskog,Colorado Avalanche,LW,21:43,1,0,0,1,0,0,0,2,7,0,0,0,0,3,1,18:17,3:19,0:07,28.57
-2018020013,8474685,Matt Calvert,Colorado Avalanche,LW,12:52,0,0,4,3,0,0,0,3,5,1,0,0,0,0,0,9:20,0:00,3:32,60
-2018020013,8477456,J.T. Compher,Colorado Avalanche,LW,10:37,0,1,4,1,1,0,0,3,7,0,1,0,0,1,0,7:49,2:14,0:34,42.86
-2018020013,8475268,Gabriel Bourque,Colorado Avalanche,LW,14:30,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1,11:02,0:00,3:28,NA
-2018020013,8477021,Alexander Kerfoot,Colorado Avalanche,C,12:17,1,0,1,1,0,1,2,0,1,0,1,0,0,0,0,10:03,2:14,0:00,0
-2018020013,8474013,Ian Cole,Colorado Avalanche,D,19:37,0,0,1,1,0,0,2,0,0,0,0,0,0,2,1,16:07,0:10,3:20,NA
-2018020013,8475197,Tyson Barrie,Colorado Avalanche,D,20:02,0,0,2,0,0,0,2,0,0,0,1,0,0,1,0,16:43,3:19,0:00,NA
-2018020013,8471262,Carl Soderberg,Colorado Avalanche,C,16:33,1,1,2,0,0,1,0,5,10,0,1,0,0,0,1,12:26,2:14,1:53,50
-2018020013,8479398,Samuel Girard,Colorado Avalanche,D,20:47,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,18:31,2:14,0:02,NA
-2018020013,8478420,Mikko Rantanen,Colorado Avalanche,RW,19:59,1,1,4,0,0,0,0,0,1,0,0,0,0,1,1,16:38,3:19,0:02,0
-2018020013,8477492,Nathan MacKinnon,Colorado Avalanche,C,22:32,0,1,8,2,0,0,0,8,19,0,0,0,0,0,1,19:06,3:19,0:07,42.11
-2018020013,8479370,Tyson Jost,Colorado Avalanche,C,12:32,0,0,0,1,0,0,2,4,7,2,0,0,0,0,0,10:23,2:09,0:00,57.14
-2018020013,8468611,Matt Hendricks,Minnesota Wild,C,11:30,0,0,0,0,0,0,0,4,9,0,0,0,0,1,0,8:29,0:00,3:01,44.44
-2018020013,8474716,Jared Spurgeon,Minnesota Wild,D,24:05,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,17:58,3:08,2:59,NA
-2018020013,8470595,Eric Staal,Minnesota Wild,C,18:32,0,0,3,2,0,0,2,5,10,0,0,0,0,0,-1,15:18,3:08,0:06,50
-2018020013,8470600,Ryan Suter,Minnesota Wild,D,25:21,0,0,1,0,0,0,2,0,0,0,0,0,0,2,-2,20:45,2:52,1:44,NA
-2018020013,8470611,Eric Fehr,Minnesota Wild,C,11:04,0,0,2,1,0,0,0,5,7,1,0,0,0,2,-1,9:09,0:00,1:55,71.43
-2018020013,8475798,Mikael Granlund,Minnesota Wild,RW,19:23,0,0,2,0,0,0,0,1,2,0,0,0,0,0,0,15:19,3:08,0:56,50
-2018020013,8475722,Jason Zucker,Minnesota Wild,LW,19:38,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,16:30,3:08,0:00,NA
-2018020013,8475799,Nino Niederreiter,Minnesota Wild,RW,17:22,1,0,0,2,0,0,0,1,1,0,0,0,0,0,-1,14:14,3:08,0:00,100
-2018020013,8474688,Greg Pateryn,Minnesota Wild,D,14:24,0,0,1,4,0,0,2,0,0,0,0,0,0,1,0,12:21,0:00,2:03,NA
-2018020013,8475745,Charlie Coyle,Minnesota Wild,C,14:44,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,10:49,2:52,1:03,50
-2018020013,8470610,Zach Parise,Minnesota Wild,LW,17:18,0,1,4,1,0,0,0,1,2,0,0,0,0,0,0,13:30,2:52,0:56,50
-2018020013,8476856,Matt Dumba,Minnesota Wild,D,22:32,0,0,3,7,0,0,2,0,0,1,0,0,0,1,-1,19:09,2:52,0:31,NA
-2018020013,8478413,Jordan Greenway,Minnesota Wild,LW,7:50,0,0,0,1,0,0,0,1,4,0,0,0,0,0,-2,7:50,0:00,0:00,25
-2018020013,8476372,Nick Seeler,Minnesota Wild,D,12:21,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,11:31,0:00,0:50,NA
-2018020013,8475220,Marcus Foligno,Minnesota Wild,LW,8:29,0,0,0,6,0,0,0,0,0,0,0,0,0,2,0,8:29,0:00,0:00,NA
-2018020013,8476463,Jonas Brodin,Minnesota Wild,D,18:25,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-1,15:26,0:00,2:59,NA
-2018020013,8478493,Joel Eriksson Ek,Minnesota Wild,C,9:57,0,0,0,0,0,0,0,0,0,0,1,0,0,1,-1,8:54,0:00,1:03,NA
-2018020013,8469459,Mikko Koivu,Minnesota Wild,C,18:11,1,0,1,0,0,0,0,14,22,0,0,0,0,0,0,13:53,2:52,1:26,63.64
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020013,8473446,Erik Johnson,Colorado Avalanche,Minnesota Wild,D,19:45,0,0,2,2,0,0,0,0,0,1,0,0,0,1,1,16:36,0:31,2:38,NA
+2018020013,8477507,Nikita Zadorov,Colorado Avalanche,Minnesota Wild,D,16:25,0,0,3,4,0,0,0,0,0,0,1,0,0,1,1,14:03,0:00,2:22,NA
+2018020013,8474569,Colin Wilson,Colorado Avalanche,Minnesota Wild,C,10:00,0,0,2,0,0,0,0,1,2,0,0,0,0,0,0,8:28,1:32,0:00,50
+2018020013,8475747,Patrik Nemeth,Colorado Avalanche,Minnesota Wild,D,19:23,1,0,3,1,0,0,0,0,0,0,0,0,0,2,1,15:45,0:00,3:38,NA
+2018020013,8480326,Sheldon Dries,Colorado Avalanche,Minnesota Wild,C,5:13,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,5:13,0:00,0:00,NA
+2018020013,8476442,Matt Nieto,Colorado Avalanche,Minnesota Wild,LW,15:15,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,12:56,0:00,2:19,NA
+2018020013,8476455,Gabriel Landeskog,Colorado Avalanche,Minnesota Wild,LW,21:43,1,0,0,1,0,0,0,2,7,0,0,0,0,3,1,18:17,3:19,0:07,28.57
+2018020013,8474685,Matt Calvert,Colorado Avalanche,Minnesota Wild,LW,12:52,0,0,4,3,0,0,0,3,5,1,0,0,0,0,0,9:20,0:00,3:32,60
+2018020013,8477456,J.T. Compher,Colorado Avalanche,Minnesota Wild,LW,10:37,0,1,4,1,1,0,0,3,7,0,1,0,0,1,0,7:49,2:14,0:34,42.86
+2018020013,8475268,Gabriel Bourque,Colorado Avalanche,Minnesota Wild,LW,14:30,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1,11:02,0:00,3:28,NA
+2018020013,8477021,Alexander Kerfoot,Colorado Avalanche,Minnesota Wild,C,12:17,1,0,1,1,0,1,2,0,1,0,1,0,0,0,0,10:03,2:14,0:00,0
+2018020013,8474013,Ian Cole,Colorado Avalanche,Minnesota Wild,D,19:37,0,0,1,1,0,0,2,0,0,0,0,0,0,2,1,16:07,0:10,3:20,NA
+2018020013,8475197,Tyson Barrie,Colorado Avalanche,Minnesota Wild,D,20:02,0,0,2,0,0,0,2,0,0,0,1,0,0,1,0,16:43,3:19,0:00,NA
+2018020013,8471262,Carl Soderberg,Colorado Avalanche,Minnesota Wild,C,16:33,1,1,2,0,0,1,0,5,10,0,1,0,0,0,1,12:26,2:14,1:53,50
+2018020013,8479398,Samuel Girard,Colorado Avalanche,Minnesota Wild,D,20:47,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,18:31,2:14,0:02,NA
+2018020013,8478420,Mikko Rantanen,Colorado Avalanche,Minnesota Wild,RW,19:59,1,1,4,0,0,0,0,0,1,0,0,0,0,1,1,16:38,3:19,0:02,0
+2018020013,8477492,Nathan MacKinnon,Colorado Avalanche,Minnesota Wild,C,22:32,0,1,8,2,0,0,0,8,19,0,0,0,0,0,1,19:06,3:19,0:07,42.11
+2018020013,8479370,Tyson Jost,Colorado Avalanche,Minnesota Wild,C,12:32,0,0,0,1,0,0,2,4,7,2,0,0,0,0,0,10:23,2:09,0:00,57.14
+2018020013,8468611,Matt Hendricks,Minnesota Wild,Colorado Avalanche,C,11:30,0,0,0,0,0,0,0,4,9,0,0,0,0,1,0,8:29,0:00,3:01,44.44
+2018020013,8474716,Jared Spurgeon,Minnesota Wild,Colorado Avalanche,D,24:05,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,17:58,3:08,2:59,NA
+2018020013,8470595,Eric Staal,Minnesota Wild,Colorado Avalanche,C,18:32,0,0,3,2,0,0,2,5,10,0,0,0,0,0,-1,15:18,3:08,0:06,50
+2018020013,8470600,Ryan Suter,Minnesota Wild,Colorado Avalanche,D,25:21,0,0,1,0,0,0,2,0,0,0,0,0,0,2,-2,20:45,2:52,1:44,NA
+2018020013,8470611,Eric Fehr,Minnesota Wild,Colorado Avalanche,C,11:04,0,0,2,1,0,0,0,5,7,1,0,0,0,2,-1,9:09,0:00,1:55,71.43
+2018020013,8475798,Mikael Granlund,Minnesota Wild,Colorado Avalanche,RW,19:23,0,0,2,0,0,0,0,1,2,0,0,0,0,0,0,15:19,3:08,0:56,50
+2018020013,8475722,Jason Zucker,Minnesota Wild,Colorado Avalanche,LW,19:38,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,16:30,3:08,0:00,NA
+2018020013,8475799,Nino Niederreiter,Minnesota Wild,Colorado Avalanche,RW,17:22,1,0,0,2,0,0,0,1,1,0,0,0,0,0,-1,14:14,3:08,0:00,100
+2018020013,8474688,Greg Pateryn,Minnesota Wild,Colorado Avalanche,D,14:24,0,0,1,4,0,0,2,0,0,0,0,0,0,1,0,12:21,0:00,2:03,NA
+2018020013,8475745,Charlie Coyle,Minnesota Wild,Colorado Avalanche,C,14:44,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,10:49,2:52,1:03,50
+2018020013,8470610,Zach Parise,Minnesota Wild,Colorado Avalanche,LW,17:18,0,1,4,1,0,0,0,1,2,0,0,0,0,0,0,13:30,2:52,0:56,50
+2018020013,8476856,Matt Dumba,Minnesota Wild,Colorado Avalanche,D,22:32,0,0,3,7,0,0,2,0,0,1,0,0,0,1,-1,19:09,2:52,0:31,NA
+2018020013,8478413,Jordan Greenway,Minnesota Wild,Colorado Avalanche,LW,7:50,0,0,0,1,0,0,0,1,4,0,0,0,0,0,-2,7:50,0:00,0:00,25
+2018020013,8476372,Nick Seeler,Minnesota Wild,Colorado Avalanche,D,12:21,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,11:31,0:00,0:50,NA
+2018020013,8475220,Marcus Foligno,Minnesota Wild,Colorado Avalanche,LW,8:29,0,0,0,6,0,0,0,0,0,0,0,0,0,2,0,8:29,0:00,0:00,NA
+2018020013,8476463,Jonas Brodin,Minnesota Wild,Colorado Avalanche,D,18:25,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-1,15:26,0:00,2:59,NA
+2018020013,8478493,Joel Eriksson Ek,Minnesota Wild,Colorado Avalanche,C,9:57,0,0,0,0,0,0,0,0,0,0,1,0,0,1,-1,8:54,0:00,1:03,NA
+2018020013,8469459,Mikko Koivu,Minnesota Wild,Colorado Avalanche,C,18:11,1,0,1,0,0,0,0,14,22,0,0,0,0,0,0,13:53,2:52,1:26,63.64

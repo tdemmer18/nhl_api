@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020790,8473507,Jeff Petry,Montréal Canadiens,D,21:05,1,0,2,1,0,0,0,0,0,0,2,0,0,1,1,15:44,2:35,2:46,NA
-2018020790,8474818,Jordie Benn,Montréal Canadiens,D,16:56,1,0,1,3,0,0,4,0,0,0,1,0,0,0,1,16:30,0:00,0:26,NA
-2018020790,8480829,Jesperi Kotkaniemi,Montréal Canadiens,C,15:38,0,1,2,2,0,0,0,8,15,1,2,0,0,0,0,13:05,2:33,0:00,53.33
-2018020790,8476967,Brett Kulak,Montréal Canadiens,D,19:01,0,0,4,2,0,0,0,0,0,0,0,0,0,1,1,17:28,0:00,1:33,NA
-2018020790,8474038,Paul Byron,Montréal Canadiens,LW,16:15,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,14:39,0:00,1:36,NA
-2018020790,8475848,Brendan Gallagher,Montréal Canadiens,RW,13:58,0,0,7,1,0,0,0,1,1,0,0,0,0,0,0,11:03,2:55,0:00,100
-2018020790,8476948,Charles Hudon,Montréal Canadiens,LW,13:08,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,10:02,3:06,0:00,NA
-2018020790,8477503,Max Domi,Montréal Canadiens,C,18:14,1,0,3,1,0,0,0,9,14,0,1,0,0,0,1,14:56,3:18,0:00,64.29
-2018020790,8476479,Phillip Danault,Montréal Canadiens,C,16:24,0,1,1,0,0,0,0,7,14,2,0,0,0,1,0,13:25,0:21,2:38,50
-2018020790,8476469,Joel Armia,Montréal Canadiens,RW,19:13,0,0,3,2,0,0,0,0,0,2,1,0,0,0,1,15:24,2:54,0:55,NA
-2018020790,8470642,Shea Weber,Montréal Canadiens,D,23:07,0,0,5,2,0,0,2,0,0,0,1,0,0,1,-1,17:47,3:25,1:55,NA
-2018020790,8477476,Artturi Lehkonen,Montréal Canadiens,LW,15:20,1,0,2,4,0,0,0,0,0,1,0,0,0,0,1,13:49,0:00,1:31,NA
-2018020790,8476422,Mike Reilly,Montréal Canadiens,D,19:03,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,15:52,3:11,0:00,NA
-2018020790,8475235,Nicolas Deslauriers,Montréal Canadiens,LW,10:20,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,10:20,0:00,0:00,NA
-2018020790,8476285,Matthew Peca,Montréal Canadiens,C,10:04,0,0,2,1,0,0,0,1,5,0,0,0,0,0,0,9:38,0:00,0:26,20
-2018020790,8477494,Jonathan Drouin,Montréal Canadiens,LW,15:51,0,0,3,1,0,0,0,0,1,0,1,0,0,0,-1,12:53,2:58,0:00,0
-2018020790,8479376,Victor Mete,Montréal Canadiens,D,20:02,0,0,0,0,0,0,0,0,0,1,1,0,0,1,-1,18:02,0:00,2:00,NA
-2018020790,8475193,Tomas Tatar,Montréal Canadiens,LW,16:15,0,0,1,0,0,0,0,0,0,0,1,0,0,0,-1,13:31,2:44,0:00,NA
-2018020790,8470619,Brian Boyle,New Jersey Devils,C,15:40,0,0,1,2,0,0,0,0,4,0,0,0,0,4,0,9:34,2:53,3:13,0
-2018020790,8476923,Damon Severson,New Jersey Devils,D,24:20,0,0,0,1,0,0,0,0,0,0,0,0,0,2,-1,18:48,1:45,3:47,NA
-2018020790,8477509,Mirco Mueller,New Jersey Devils,D,21:15,1,0,1,2,0,0,0,0,0,0,3,0,0,1,2,18:19,0:00,2:56,NA
-2018020790,8476545,Kurtis Gabriel,New Jersey Devils,RW,7:50,0,0,0,4,0,0,2,0,0,0,1,0,0,0,-1,7:50,0:00,0:00,NA
-2018020790,8479407,Jesper Bratt,New Jersey Devils,LW,13:36,0,0,0,2,0,0,0,0,0,0,1,0,0,1,0,12:09,1:27,0:00,NA
-2018020790,8477425,Miles Wood,New Jersey Devils,LW,17:36,0,0,4,1,0,0,2,0,0,0,2,0,0,0,1,16:09,1:27,0:00,NA
-2018020790,8475149,Marcus Johansson,New Jersey Devils,LW,19:19,1,0,2,0,0,1,0,0,0,0,2,0,0,0,0,16:26,2:53,0:00,NA
-2018020790,8471226,Drew Stafford,New Jersey Devils,RW,13:28,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,13:28,0:00,0:00,NA
-2018020790,8472382,Andy Greene,New Jersey Devils,D,20:29,0,0,2,0,0,0,0,0,0,0,2,0,0,4,-1,16:13,0:26,3:50,NA
-2018020790,8478401,Pavel Zacha,New Jersey Devils,C,17:01,0,0,2,1,0,0,0,4,10,1,2,0,0,1,-1,12:35,1:01,3:25,40
-2018020790,8477355,Will Butcher,New Jersey Devils,D,20:51,0,1,3,2,1,0,0,0,0,0,0,0,0,4,0,18:16,2:35,0:00,NA
-2018020790,8476399,Blake Coleman,New Jersey Devils,C,19:58,0,0,2,6,0,0,2,7,14,0,1,0,0,1,0,16:21,1:27,2:10,50
-2018020790,8475151,Kyle Palmieri,New Jersey Devils,RW,17:04,1,0,4,0,0,1,0,0,0,1,0,0,0,0,0,14:11,2:53,0:00,NA
-2018020790,8478881,Brett Seney,New Jersey Devils,LW,7:40,0,0,1,0,0,0,0,0,0,1,1,0,0,0,-1,7:40,0:00,0:00,NA
-2018020790,8480948,Egor Yakovlev,New Jersey Devils,D,14:04,0,0,0,0,0,0,0,0,0,0,1,0,0,3,-1,14:04,0:00,0:00,NA
-2018020790,8477463,Steven Santini,New Jersey Devils,D,16:56,0,0,1,3,0,0,0,0,0,0,1,0,0,1,0,15:29,0:00,1:27,NA
-2018020790,8480002,Nico Hischier,New Jersey Devils,C,20:28,0,2,3,1,0,0,0,7,12,0,0,0,0,1,2,17:10,2:53,0:25,58.33
-2018020790,8479291,Kevin Rooney,New Jersey Devils,C,12:25,1,0,1,2,0,0,0,6,10,0,2,0,0,1,0,9:38,0:00,2:47,60
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020790,8473507,Jeff Petry,Montréal Canadiens,New Jersey Devils,D,21:05,1,0,2,1,0,0,0,0,0,0,2,0,0,1,1,15:44,2:35,2:46,NA
+2018020790,8474818,Jordie Benn,Montréal Canadiens,New Jersey Devils,D,16:56,1,0,1,3,0,0,4,0,0,0,1,0,0,0,1,16:30,0:00,0:26,NA
+2018020790,8480829,Jesperi Kotkaniemi,Montréal Canadiens,New Jersey Devils,C,15:38,0,1,2,2,0,0,0,8,15,1,2,0,0,0,0,13:05,2:33,0:00,53.33
+2018020790,8476967,Brett Kulak,Montréal Canadiens,New Jersey Devils,D,19:01,0,0,4,2,0,0,0,0,0,0,0,0,0,1,1,17:28,0:00,1:33,NA
+2018020790,8474038,Paul Byron,Montréal Canadiens,New Jersey Devils,LW,16:15,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,14:39,0:00,1:36,NA
+2018020790,8475848,Brendan Gallagher,Montréal Canadiens,New Jersey Devils,RW,13:58,0,0,7,1,0,0,0,1,1,0,0,0,0,0,0,11:03,2:55,0:00,100
+2018020790,8476948,Charles Hudon,Montréal Canadiens,New Jersey Devils,LW,13:08,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,10:02,3:06,0:00,NA
+2018020790,8477503,Max Domi,Montréal Canadiens,New Jersey Devils,C,18:14,1,0,3,1,0,0,0,9,14,0,1,0,0,0,1,14:56,3:18,0:00,64.29
+2018020790,8476479,Phillip Danault,Montréal Canadiens,New Jersey Devils,C,16:24,0,1,1,0,0,0,0,7,14,2,0,0,0,1,0,13:25,0:21,2:38,50
+2018020790,8476469,Joel Armia,Montréal Canadiens,New Jersey Devils,RW,19:13,0,0,3,2,0,0,0,0,0,2,1,0,0,0,1,15:24,2:54,0:55,NA
+2018020790,8470642,Shea Weber,Montréal Canadiens,New Jersey Devils,D,23:07,0,0,5,2,0,0,2,0,0,0,1,0,0,1,-1,17:47,3:25,1:55,NA
+2018020790,8477476,Artturi Lehkonen,Montréal Canadiens,New Jersey Devils,LW,15:20,1,0,2,4,0,0,0,0,0,1,0,0,0,0,1,13:49,0:00,1:31,NA
+2018020790,8476422,Mike Reilly,Montréal Canadiens,New Jersey Devils,D,19:03,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,15:52,3:11,0:00,NA
+2018020790,8475235,Nicolas Deslauriers,Montréal Canadiens,New Jersey Devils,LW,10:20,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,10:20,0:00,0:00,NA
+2018020790,8476285,Matthew Peca,Montréal Canadiens,New Jersey Devils,C,10:04,0,0,2,1,0,0,0,1,5,0,0,0,0,0,0,9:38,0:00,0:26,20
+2018020790,8477494,Jonathan Drouin,Montréal Canadiens,New Jersey Devils,LW,15:51,0,0,3,1,0,0,0,0,1,0,1,0,0,0,-1,12:53,2:58,0:00,0
+2018020790,8479376,Victor Mete,Montréal Canadiens,New Jersey Devils,D,20:02,0,0,0,0,0,0,0,0,0,1,1,0,0,1,-1,18:02,0:00,2:00,NA
+2018020790,8475193,Tomas Tatar,Montréal Canadiens,New Jersey Devils,LW,16:15,0,0,1,0,0,0,0,0,0,0,1,0,0,0,-1,13:31,2:44,0:00,NA
+2018020790,8470619,Brian Boyle,New Jersey Devils,Montréal Canadiens,C,15:40,0,0,1,2,0,0,0,0,4,0,0,0,0,4,0,9:34,2:53,3:13,0
+2018020790,8476923,Damon Severson,New Jersey Devils,Montréal Canadiens,D,24:20,0,0,0,1,0,0,0,0,0,0,0,0,0,2,-1,18:48,1:45,3:47,NA
+2018020790,8477509,Mirco Mueller,New Jersey Devils,Montréal Canadiens,D,21:15,1,0,1,2,0,0,0,0,0,0,3,0,0,1,2,18:19,0:00,2:56,NA
+2018020790,8476545,Kurtis Gabriel,New Jersey Devils,Montréal Canadiens,RW,7:50,0,0,0,4,0,0,2,0,0,0,1,0,0,0,-1,7:50,0:00,0:00,NA
+2018020790,8479407,Jesper Bratt,New Jersey Devils,Montréal Canadiens,LW,13:36,0,0,0,2,0,0,0,0,0,0,1,0,0,1,0,12:09,1:27,0:00,NA
+2018020790,8477425,Miles Wood,New Jersey Devils,Montréal Canadiens,LW,17:36,0,0,4,1,0,0,2,0,0,0,2,0,0,0,1,16:09,1:27,0:00,NA
+2018020790,8475149,Marcus Johansson,New Jersey Devils,Montréal Canadiens,LW,19:19,1,0,2,0,0,1,0,0,0,0,2,0,0,0,0,16:26,2:53,0:00,NA
+2018020790,8471226,Drew Stafford,New Jersey Devils,Montréal Canadiens,RW,13:28,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,13:28,0:00,0:00,NA
+2018020790,8472382,Andy Greene,New Jersey Devils,Montréal Canadiens,D,20:29,0,0,2,0,0,0,0,0,0,0,2,0,0,4,-1,16:13,0:26,3:50,NA
+2018020790,8478401,Pavel Zacha,New Jersey Devils,Montréal Canadiens,C,17:01,0,0,2,1,0,0,0,4,10,1,2,0,0,1,-1,12:35,1:01,3:25,40
+2018020790,8477355,Will Butcher,New Jersey Devils,Montréal Canadiens,D,20:51,0,1,3,2,1,0,0,0,0,0,0,0,0,4,0,18:16,2:35,0:00,NA
+2018020790,8476399,Blake Coleman,New Jersey Devils,Montréal Canadiens,C,19:58,0,0,2,6,0,0,2,7,14,0,1,0,0,1,0,16:21,1:27,2:10,50
+2018020790,8475151,Kyle Palmieri,New Jersey Devils,Montréal Canadiens,RW,17:04,1,0,4,0,0,1,0,0,0,1,0,0,0,0,0,14:11,2:53,0:00,NA
+2018020790,8478881,Brett Seney,New Jersey Devils,Montréal Canadiens,LW,7:40,0,0,1,0,0,0,0,0,0,1,1,0,0,0,-1,7:40,0:00,0:00,NA
+2018020790,8480948,Egor Yakovlev,New Jersey Devils,Montréal Canadiens,D,14:04,0,0,0,0,0,0,0,0,0,0,1,0,0,3,-1,14:04,0:00,0:00,NA
+2018020790,8477463,Steven Santini,New Jersey Devils,Montréal Canadiens,D,16:56,0,0,1,3,0,0,0,0,0,0,1,0,0,1,0,15:29,0:00,1:27,NA
+2018020790,8480002,Nico Hischier,New Jersey Devils,Montréal Canadiens,C,20:28,0,2,3,1,0,0,0,7,12,0,0,0,0,1,2,17:10,2:53,0:25,58.33
+2018020790,8479291,Kevin Rooney,New Jersey Devils,Montréal Canadiens,C,12:25,1,0,1,2,0,0,0,6,10,0,2,0,0,1,0,9:38,0:00,2:47,60

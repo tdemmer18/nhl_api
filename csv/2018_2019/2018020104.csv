@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020104,8473618,Mathieu Perreault,Winnipeg Jets,LW,8:34,0,1,4,1,0,0,0,0,0,1,1,0,0,0,0,1,7:09,1:25,0:00
-2018020104,8471218,Blake Wheeler,Winnipeg Jets,RW,20:47,0,1,1,1,0,0,4,40,2,5,1,0,0,0,1,1,17:01,3:19,0:27
-2018020104,8470834,Dustin Byfuglien,Winnipeg Jets,D,23:58,0,0,1,3,0,0,2,NA,0,0,0,1,0,0,0,1,19:51,1:28,2:39
-2018020104,8477429,Andrew Copp,Winnipeg Jets,C,15:57,0,0,1,3,0,0,0,100,1,1,0,1,0,0,1,0,12:23,0:03,3:31
-2018020104,8473412,Bryan Little,Winnipeg Jets,C,15:02,0,0,3,1,0,0,0,42.86,6,14,0,0,0,0,0,-2,9:59,1:25,3:38
-2018020104,8479339,Patrik Laine,Winnipeg Jets,RW,15:25,0,0,3,2,0,0,0,0,0,1,0,0,0,0,1,-2,12:06,3:19,0:00
-2018020104,8477504,Josh Morrissey,Winnipeg Jets,D,22:16,1,1,3,0,1,0,0,NA,0,0,1,1,0,0,0,1,14:22,3:19,4:35
-2018020104,8476476,Joe Morrow,Winnipeg Jets,D,13:39,0,0,0,2,0,0,0,NA,0,0,0,1,0,0,0,-2,13:33,0:00,0:06
-2018020104,8478458,Jack Roslovic,Winnipeg Jets,C,7:33,1,0,0,0,0,0,0,60,3,5,0,0,0,0,1,1,7:33,0:00,0:00
-2018020104,8474574,Tyler Myers,Winnipeg Jets,D,17:59,1,1,3,0,0,0,2,NA,0,0,1,0,0,0,0,0,14:11,1:25,2:23
-2018020104,8475279,Ben Chiarot,Winnipeg Jets,D,19:05,0,0,0,2,0,0,0,NA,0,0,1,1,0,0,5,0,17:20,0:03,1:42
-2018020104,8476885,Jacob Trouba,Winnipeg Jets,D,19:45,3,0,0,0,0,0,0,NA,0,0,1,0,0,0,4,2,15:10,0:00,4:35
-2018020104,8477940,Nikolaj Ehlers,Winnipeg Jets,LW,12:41,0,0,4,1,0,0,0,NA,0,0,1,0,0,0,0,-2,11:16,1:25,0:00
-2018020104,8477962,Brendan Lemieux,Winnipeg Jets,LW,5:43,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,1,5:43,0:00,0:00
-2018020104,8476460,Mark Scheifele,Winnipeg Jets,C,21:27,1,0,2,1,0,1,2,56.52,13,23,1,0,0,0,1,1,16:58,3:19,1:10
-2018020104,8478398,Kyle Connor,Winnipeg Jets,LW,19:56,2,0,1,0,0,1,0,NA,0,0,1,0,0,0,0,2,16:37,3:19,0:00
-2018020104,8476392,Adam Lowry,Winnipeg Jets,C,15:45,0,1,4,1,0,0,0,63.16,12,19,0,1,0,0,0,1,12:24,0:03,3:18
-2018020104,8479293,Brandon Tanev,Winnipeg Jets,LW,14:49,0,0,1,6,0,0,0,NA,0,0,0,1,0,0,1,0,10:50,0:03,3:56
-2018020104,8471769,Niklas Hjalmarsson,Arizona Coyotes,D,19:33,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,2,-1,15:15,0:06,4:12
-2018020104,8474613,Derek Stepan,Arizona Coyotes,C,21:36,1,0,1,0,0,0,0,40,8,20,1,1,0,0,3,0,15:42,3:39,2:15
-2018020104,8475209,Richard Panik,Arizona Coyotes,RW,12:24,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,7:47,4:02,0:35
-2018020104,8477943,Brendan Perlini,Arizona Coyotes,LW,15:52,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,0,1,12:00,3:52,0:00
-2018020104,8470755,Brad Richardson,Arizona Coyotes,C,11:31,0,0,1,0,0,0,0,56.25,9,16,0,0,0,0,0,-1,8:59,0:00,2:32
-2018020104,8476326,Josh Archibald,Arizona Coyotes,RW,6:24,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,0,6:18,0:06,0:00
-2018020104,8474218,Jason Demers,Arizona Coyotes,D,14:53,0,0,2,0,0,0,2,NA,0,0,0,1,0,0,0,1,14:53,0:00,0:00
-2018020104,8473546,Michael Grabner,Arizona Coyotes,RW,11:28,0,0,3,0,0,0,0,100,1,1,1,0,0,0,0,-1,8:56,0:00,2:32
-2018020104,8477851,Jordan Oesterle,Arizona Coyotes,D,18:26,0,0,1,1,0,0,0,NA,0,0,1,1,0,0,0,-2,15:29,2:57,0:00
-2018020104,8476994,Vinnie Hinostroza,Arizona Coyotes,C,16:32,0,0,6,1,0,0,0,0,0,1,1,2,0,0,0,-1,12:51,3:41,0:00
-2018020104,8475246,Kevin Connauton,Arizona Coyotes,D,18:32,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,3,0,15:01,0:06,3:25
-2018020104,8471274,Alex Goligoski,Arizona Coyotes,D,22:59,0,0,3,1,0,0,0,NA,0,0,0,0,0,0,1,-1,17:45,3:52,1:22
-2018020104,8478474,Lawson Crouse,Arizona Coyotes,LW,15:30,0,0,4,6,0,0,2,100,1,1,1,0,0,0,0,1,15:24,0:06,0:00
-2018020104,8478440,Dylan Strome,Arizona Coyotes,C,14:42,0,0,5,1,0,0,2,27.78,5,18,1,0,0,0,2,-1,10:29,4:13,0:00
-2018020104,8478432,Christian Fischer,Arizona Coyotes,RW,15:43,0,1,3,0,0,0,0,NA,0,0,1,0,0,0,1,-1,11:28,4:15,0:00
-2018020104,8479343,Clayton Keller,Arizona Coyotes,C,23:09,0,2,4,0,0,0,0,50,1,2,2,1,0,0,1,0,16:46,4:43,1:40
-2018020104,8475171,Oliver Ekman-Larsson,Arizona Coyotes,D,21:15,3,0,3,3,0,0,0,NA,0,0,0,1,0,0,1,1,16:24,4:16,0:35
-2018020104,8476393,Nick Cousins,Arizona Coyotes,C,14:03,1,0,2,0,0,0,2,77.78,7,9,2,0,0,0,0,0,13:57,0:06,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020104,8473618,Mathieu Perreault,Winnipeg Jets,Arizona Coyotes,LW,8:34,0,1,4,1,0,0,0,0,0,1,1,0,0,0,0,1,7:09,1:25,0:00
+2018020104,8471218,Blake Wheeler,Winnipeg Jets,Arizona Coyotes,RW,20:47,0,1,1,1,0,0,4,40,2,5,1,0,0,0,1,1,17:01,3:19,0:27
+2018020104,8470834,Dustin Byfuglien,Winnipeg Jets,Arizona Coyotes,D,23:58,0,0,1,3,0,0,2,NA,0,0,0,1,0,0,0,1,19:51,1:28,2:39
+2018020104,8477429,Andrew Copp,Winnipeg Jets,Arizona Coyotes,C,15:57,0,0,1,3,0,0,0,100,1,1,0,1,0,0,1,0,12:23,0:03,3:31
+2018020104,8473412,Bryan Little,Winnipeg Jets,Arizona Coyotes,C,15:02,0,0,3,1,0,0,0,42.86,6,14,0,0,0,0,0,-2,9:59,1:25,3:38
+2018020104,8479339,Patrik Laine,Winnipeg Jets,Arizona Coyotes,RW,15:25,0,0,3,2,0,0,0,0,0,1,0,0,0,0,1,-2,12:06,3:19,0:00
+2018020104,8477504,Josh Morrissey,Winnipeg Jets,Arizona Coyotes,D,22:16,1,1,3,0,1,0,0,NA,0,0,1,1,0,0,0,1,14:22,3:19,4:35
+2018020104,8476476,Joe Morrow,Winnipeg Jets,Arizona Coyotes,D,13:39,0,0,0,2,0,0,0,NA,0,0,0,1,0,0,0,-2,13:33,0:00,0:06
+2018020104,8478458,Jack Roslovic,Winnipeg Jets,Arizona Coyotes,C,7:33,1,0,0,0,0,0,0,60,3,5,0,0,0,0,1,1,7:33,0:00,0:00
+2018020104,8474574,Tyler Myers,Winnipeg Jets,Arizona Coyotes,D,17:59,1,1,3,0,0,0,2,NA,0,0,1,0,0,0,0,0,14:11,1:25,2:23
+2018020104,8475279,Ben Chiarot,Winnipeg Jets,Arizona Coyotes,D,19:05,0,0,0,2,0,0,0,NA,0,0,1,1,0,0,5,0,17:20,0:03,1:42
+2018020104,8476885,Jacob Trouba,Winnipeg Jets,Arizona Coyotes,D,19:45,3,0,0,0,0,0,0,NA,0,0,1,0,0,0,4,2,15:10,0:00,4:35
+2018020104,8477940,Nikolaj Ehlers,Winnipeg Jets,Arizona Coyotes,LW,12:41,0,0,4,1,0,0,0,NA,0,0,1,0,0,0,0,-2,11:16,1:25,0:00
+2018020104,8477962,Brendan Lemieux,Winnipeg Jets,Arizona Coyotes,LW,5:43,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,1,5:43,0:00,0:00
+2018020104,8476460,Mark Scheifele,Winnipeg Jets,Arizona Coyotes,C,21:27,1,0,2,1,0,1,2,56.52,13,23,1,0,0,0,1,1,16:58,3:19,1:10
+2018020104,8478398,Kyle Connor,Winnipeg Jets,Arizona Coyotes,LW,19:56,2,0,1,0,0,1,0,NA,0,0,1,0,0,0,0,2,16:37,3:19,0:00
+2018020104,8476392,Adam Lowry,Winnipeg Jets,Arizona Coyotes,C,15:45,0,1,4,1,0,0,0,63.16,12,19,0,1,0,0,0,1,12:24,0:03,3:18
+2018020104,8479293,Brandon Tanev,Winnipeg Jets,Arizona Coyotes,LW,14:49,0,0,1,6,0,0,0,NA,0,0,0,1,0,0,1,0,10:50,0:03,3:56
+2018020104,8471769,Niklas Hjalmarsson,Arizona Coyotes,Winnipeg Jets,D,19:33,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,2,-1,15:15,0:06,4:12
+2018020104,8474613,Derek Stepan,Arizona Coyotes,Winnipeg Jets,C,21:36,1,0,1,0,0,0,0,40,8,20,1,1,0,0,3,0,15:42,3:39,2:15
+2018020104,8475209,Richard Panik,Arizona Coyotes,Winnipeg Jets,RW,12:24,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,7:47,4:02,0:35
+2018020104,8477943,Brendan Perlini,Arizona Coyotes,Winnipeg Jets,LW,15:52,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,0,1,12:00,3:52,0:00
+2018020104,8470755,Brad Richardson,Arizona Coyotes,Winnipeg Jets,C,11:31,0,0,1,0,0,0,0,56.25,9,16,0,0,0,0,0,-1,8:59,0:00,2:32
+2018020104,8476326,Josh Archibald,Arizona Coyotes,Winnipeg Jets,RW,6:24,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,0,6:18,0:06,0:00
+2018020104,8474218,Jason Demers,Arizona Coyotes,Winnipeg Jets,D,14:53,0,0,2,0,0,0,2,NA,0,0,0,1,0,0,0,1,14:53,0:00,0:00
+2018020104,8473546,Michael Grabner,Arizona Coyotes,Winnipeg Jets,RW,11:28,0,0,3,0,0,0,0,100,1,1,1,0,0,0,0,-1,8:56,0:00,2:32
+2018020104,8477851,Jordan Oesterle,Arizona Coyotes,Winnipeg Jets,D,18:26,0,0,1,1,0,0,0,NA,0,0,1,1,0,0,0,-2,15:29,2:57,0:00
+2018020104,8476994,Vinnie Hinostroza,Arizona Coyotes,Winnipeg Jets,C,16:32,0,0,6,1,0,0,0,0,0,1,1,2,0,0,0,-1,12:51,3:41,0:00
+2018020104,8475246,Kevin Connauton,Arizona Coyotes,Winnipeg Jets,D,18:32,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,3,0,15:01,0:06,3:25
+2018020104,8471274,Alex Goligoski,Arizona Coyotes,Winnipeg Jets,D,22:59,0,0,3,1,0,0,0,NA,0,0,0,0,0,0,1,-1,17:45,3:52,1:22
+2018020104,8478474,Lawson Crouse,Arizona Coyotes,Winnipeg Jets,LW,15:30,0,0,4,6,0,0,2,100,1,1,1,0,0,0,0,1,15:24,0:06,0:00
+2018020104,8478440,Dylan Strome,Arizona Coyotes,Winnipeg Jets,C,14:42,0,0,5,1,0,0,2,27.78,5,18,1,0,0,0,2,-1,10:29,4:13,0:00
+2018020104,8478432,Christian Fischer,Arizona Coyotes,Winnipeg Jets,RW,15:43,0,1,3,0,0,0,0,NA,0,0,1,0,0,0,1,-1,11:28,4:15,0:00
+2018020104,8479343,Clayton Keller,Arizona Coyotes,Winnipeg Jets,C,23:09,0,2,4,0,0,0,0,50,1,2,2,1,0,0,1,0,16:46,4:43,1:40
+2018020104,8475171,Oliver Ekman-Larsson,Arizona Coyotes,Winnipeg Jets,D,21:15,3,0,3,3,0,0,0,NA,0,0,0,1,0,0,1,1,16:24,4:16,0:35
+2018020104,8476393,Nick Cousins,Arizona Coyotes,Winnipeg Jets,C,14:03,1,0,2,0,0,0,2,77.78,7,9,2,0,0,0,0,0,13:57,0:06,0:00

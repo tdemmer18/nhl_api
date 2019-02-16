@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020676,8471958,Dan Girardi,Tampa Bay Lightning,D,18:04,0,0,0,5,0,0,0,0,0,0,0,0,0,5,-1,16:48,0:00,1:16,NA
-2018020676,8478519,Anthony Cirelli,Tampa Bay Lightning,C,14:58,0,0,2,0,0,0,0,7,12,0,0,0,0,0,0,9:57,2:43,2:18,58.33
-2018020676,8471873,Anton Stralman,Tampa Bay Lightning,D,17:00,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,15:28,0:10,1:22,NA
-2018020676,8476826,Yanni Gourde,Tampa Bay Lightning,C,14:41,0,0,2,0,0,0,2,1,1,0,0,0,0,0,0,11:59,1:54,0:48,100
-2018020676,8478416,Erik Cernak,Tampa Bay Lightning,D,19:14,0,0,2,5,0,0,0,0,0,1,0,0,0,1,1,17:27,0:00,1:47,NA
-2018020676,8476975,Cedric Paquette,Tampa Bay Lightning,C,10:53,0,0,1,4,0,0,0,6,9,0,0,0,0,2,0,8:19,0:00,2:34,66.67
-2018020676,8470601,Braydon Coburn,Tampa Bay Lightning,D,16:39,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,16:39,0:00,0:00,NA
-2018020676,8473986,Alex Killorn,Tampa Bay Lightning,LW,15:55,1,0,2,3,0,0,0,1,1,1,0,0,0,0,0,13:19,0:57,1:39,100
-2018020676,8476453,Nikita Kucherov,Tampa Bay Lightning,RW,21:16,1,0,4,0,0,1,0,0,0,0,1,0,0,3,0,17:17,3:52,0:07,NA
-2018020676,8474870,Tyler Johnson,Tampa Bay Lightning,C,17:14,0,0,2,1,0,0,0,9,10,0,0,0,0,0,0,15:20,1:54,0:00,90
-2018020676,8477454,Adam Erne,Tampa Bay Lightning,LW,9:06,0,0,3,2,0,0,2,0,0,0,0,0,0,0,0,9:06,0:00,0:00,NA
-2018020676,8475167,Victor Hedman,Tampa Bay Lightning,D,21:02,1,0,1,0,0,1,2,0,0,0,2,0,0,1,0,14:45,3:52,2:25,NA
-2018020676,8474151,Ryan McDonagh,Tampa Bay Lightning,D,22:26,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,18:32,1:54,2:00,NA
-2018020676,8474564,Steven Stamkos,Tampa Bay Lightning,C,19:16,2,0,3,0,0,1,2,9,15,1,0,0,0,0,0,14:23,4:39,0:14,60
-2018020676,8478365,Danick Martel,Tampa Bay Lightning,LW,7:32,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7:32,0:00,0:00,NA
-2018020676,8476292,Ondrej Palat,Tampa Bay Lightning,LW,16:35,0,1,2,1,1,0,0,0,0,0,1,0,0,1,-1,13:32,3:03,0:00,NA
-2018020676,8478472,Mathieu Joseph,Tampa Bay Lightning,RW,9:24,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,8:21,0:00,1:03,0
-2018020676,8478010,Brayden Point,Tampa Bay Lightning,C,21:21,1,2,3,0,1,1,0,3,13,0,0,0,0,0,1,17:22,3:52,0:07,23.08
-2018020676,8475907,Micheal Ferland,Carolina Hurricanes,LW,14:32,0,0,3,5,0,0,0,0,0,2,0,0,0,0,0,12:07,2:24,0:01,NA
-2018020676,8476934,Brock McGinn,Carolina Hurricanes,LW,13:52,0,0,3,1,0,0,0,2,2,0,0,0,0,0,0,11:26,0:00,2:26,100
-2018020676,8475735,Greg McKegg,Carolina Hurricanes,C,12:25,0,0,1,0,0,0,2,4,9,0,0,0,0,1,1,12:25,0:00,0:00,44.44
-2018020676,8476958,Jaccob Slavin,Carolina Hurricanes,D,22:24,0,0,1,1,0,0,0,0,0,0,0,0,0,1,-1,17:07,2:11,3:06,NA
-2018020676,8477998,Warren Foegele,Carolina Hurricanes,LW,12:08,0,0,1,3,0,0,2,0,0,0,0,0,0,0,0,11:20,0:00,0:48,NA
-2018020676,8478427,Sebastian Aho,Carolina Hurricanes,C,21:46,0,0,2,0,0,0,0,10,26,1,2,0,0,1,-1,16:33,2:41,2:32,38.46
-2018020676,8475753,Justin Faulk,Carolina Hurricanes,D,20:16,0,0,2,1,0,0,0,0,0,0,0,0,0,3,0,15:34,2:02,2:40,NA
-2018020676,8476921,Jordan Martinook,Carolina Hurricanes,LW,11:56,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,9:55,0:00,2:01,NA
-2018020676,8476437,Victor Rask,Carolina Hurricanes,C,12:05,0,0,1,0,0,0,0,3,8,0,0,0,0,0,0,10:16,1:49,0:00,37.5
-2018020676,8477845,Trevor van Riemsdyk,Carolina Hurricanes,D,16:17,1,0,1,1,0,0,0,0,0,1,0,0,0,1,1,15:52,0:25,0:00,NA
-2018020676,8477488,Brett Pesce,Carolina Hurricanes,D,20:25,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,16:38,0:00,3:47,NA
-2018020676,8475177,Calvin de Haan,Carolina Hurricanes,D,19:23,0,0,2,2,0,0,0,0,0,1,0,0,0,1,0,17:24,0:00,1:59,NA
-2018020676,8478027,Lucas Wallmark,Carolina Hurricanes,C,13:22,0,0,1,1,0,0,0,7,14,1,0,0,0,1,0,10:25,1:44,1:13,50
-2018020676,8476882,Teuvo Teravainen,Carolina Hurricanes,LW,19:40,0,0,2,0,0,0,2,0,0,0,1,0,0,0,-1,15:33,2:17,1:50,NA
-2018020676,8477357,Saku Maenalanen,Carolina Hurricanes,RW,10:39,0,0,0,4,0,0,0,0,1,1,0,0,0,0,0,9:58,0:00,0:41,0
-2018020676,8476462,Dougie Hamilton,Carolina Hurricanes,D,19:23,1,0,2,1,0,0,2,0,0,1,0,0,0,1,0,17:09,2:14,0:00,NA
-2018020676,8468508,Justin Williams,Carolina Hurricanes,RW,16:06,0,1,3,0,0,0,0,0,2,0,1,0,0,1,0,13:49,2:17,0:00,0
-2018020676,8480830,Andrei Svechnikov,Carolina Hurricanes,RW,14:54,0,0,0,3,0,0,4,0,0,0,1,0,0,0,0,12:53,2:01,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020676,8471958,Dan Girardi,Tampa Bay Lightning,Carolina Hurricanes,D,18:04,0,0,0,5,0,0,0,0,0,0,0,0,0,5,-1,16:48,0:00,1:16,NA
+2018020676,8478519,Anthony Cirelli,Tampa Bay Lightning,Carolina Hurricanes,C,14:58,0,0,2,0,0,0,0,7,12,0,0,0,0,0,0,9:57,2:43,2:18,58.33
+2018020676,8471873,Anton Stralman,Tampa Bay Lightning,Carolina Hurricanes,D,17:00,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,15:28,0:10,1:22,NA
+2018020676,8476826,Yanni Gourde,Tampa Bay Lightning,Carolina Hurricanes,C,14:41,0,0,2,0,0,0,2,1,1,0,0,0,0,0,0,11:59,1:54,0:48,100
+2018020676,8478416,Erik Cernak,Tampa Bay Lightning,Carolina Hurricanes,D,19:14,0,0,2,5,0,0,0,0,0,1,0,0,0,1,1,17:27,0:00,1:47,NA
+2018020676,8476975,Cedric Paquette,Tampa Bay Lightning,Carolina Hurricanes,C,10:53,0,0,1,4,0,0,0,6,9,0,0,0,0,2,0,8:19,0:00,2:34,66.67
+2018020676,8470601,Braydon Coburn,Tampa Bay Lightning,Carolina Hurricanes,D,16:39,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,16:39,0:00,0:00,NA
+2018020676,8473986,Alex Killorn,Tampa Bay Lightning,Carolina Hurricanes,LW,15:55,1,0,2,3,0,0,0,1,1,1,0,0,0,0,0,13:19,0:57,1:39,100
+2018020676,8476453,Nikita Kucherov,Tampa Bay Lightning,Carolina Hurricanes,RW,21:16,1,0,4,0,0,1,0,0,0,0,1,0,0,3,0,17:17,3:52,0:07,NA
+2018020676,8474870,Tyler Johnson,Tampa Bay Lightning,Carolina Hurricanes,C,17:14,0,0,2,1,0,0,0,9,10,0,0,0,0,0,0,15:20,1:54,0:00,90
+2018020676,8477454,Adam Erne,Tampa Bay Lightning,Carolina Hurricanes,LW,9:06,0,0,3,2,0,0,2,0,0,0,0,0,0,0,0,9:06,0:00,0:00,NA
+2018020676,8475167,Victor Hedman,Tampa Bay Lightning,Carolina Hurricanes,D,21:02,1,0,1,0,0,1,2,0,0,0,2,0,0,1,0,14:45,3:52,2:25,NA
+2018020676,8474151,Ryan McDonagh,Tampa Bay Lightning,Carolina Hurricanes,D,22:26,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,18:32,1:54,2:00,NA
+2018020676,8474564,Steven Stamkos,Tampa Bay Lightning,Carolina Hurricanes,C,19:16,2,0,3,0,0,1,2,9,15,1,0,0,0,0,0,14:23,4:39,0:14,60
+2018020676,8478365,Danick Martel,Tampa Bay Lightning,Carolina Hurricanes,LW,7:32,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7:32,0:00,0:00,NA
+2018020676,8476292,Ondrej Palat,Tampa Bay Lightning,Carolina Hurricanes,LW,16:35,0,1,2,1,1,0,0,0,0,0,1,0,0,1,-1,13:32,3:03,0:00,NA
+2018020676,8478472,Mathieu Joseph,Tampa Bay Lightning,Carolina Hurricanes,RW,9:24,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,8:21,0:00,1:03,0
+2018020676,8478010,Brayden Point,Tampa Bay Lightning,Carolina Hurricanes,C,21:21,1,2,3,0,1,1,0,3,13,0,0,0,0,0,1,17:22,3:52,0:07,23.08
+2018020676,8475907,Micheal Ferland,Carolina Hurricanes,Tampa Bay Lightning,LW,14:32,0,0,3,5,0,0,0,0,0,2,0,0,0,0,0,12:07,2:24,0:01,NA
+2018020676,8476934,Brock McGinn,Carolina Hurricanes,Tampa Bay Lightning,LW,13:52,0,0,3,1,0,0,0,2,2,0,0,0,0,0,0,11:26,0:00,2:26,100
+2018020676,8475735,Greg McKegg,Carolina Hurricanes,Tampa Bay Lightning,C,12:25,0,0,1,0,0,0,2,4,9,0,0,0,0,1,1,12:25,0:00,0:00,44.44
+2018020676,8476958,Jaccob Slavin,Carolina Hurricanes,Tampa Bay Lightning,D,22:24,0,0,1,1,0,0,0,0,0,0,0,0,0,1,-1,17:07,2:11,3:06,NA
+2018020676,8477998,Warren Foegele,Carolina Hurricanes,Tampa Bay Lightning,LW,12:08,0,0,1,3,0,0,2,0,0,0,0,0,0,0,0,11:20,0:00,0:48,NA
+2018020676,8478427,Sebastian Aho,Carolina Hurricanes,Tampa Bay Lightning,C,21:46,0,0,2,0,0,0,0,10,26,1,2,0,0,1,-1,16:33,2:41,2:32,38.46
+2018020676,8475753,Justin Faulk,Carolina Hurricanes,Tampa Bay Lightning,D,20:16,0,0,2,1,0,0,0,0,0,0,0,0,0,3,0,15:34,2:02,2:40,NA
+2018020676,8476921,Jordan Martinook,Carolina Hurricanes,Tampa Bay Lightning,LW,11:56,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,9:55,0:00,2:01,NA
+2018020676,8476437,Victor Rask,Carolina Hurricanes,Tampa Bay Lightning,C,12:05,0,0,1,0,0,0,0,3,8,0,0,0,0,0,0,10:16,1:49,0:00,37.5
+2018020676,8477845,Trevor van Riemsdyk,Carolina Hurricanes,Tampa Bay Lightning,D,16:17,1,0,1,1,0,0,0,0,0,1,0,0,0,1,1,15:52,0:25,0:00,NA
+2018020676,8477488,Brett Pesce,Carolina Hurricanes,Tampa Bay Lightning,D,20:25,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,16:38,0:00,3:47,NA
+2018020676,8475177,Calvin de Haan,Carolina Hurricanes,Tampa Bay Lightning,D,19:23,0,0,2,2,0,0,0,0,0,1,0,0,0,1,0,17:24,0:00,1:59,NA
+2018020676,8478027,Lucas Wallmark,Carolina Hurricanes,Tampa Bay Lightning,C,13:22,0,0,1,1,0,0,0,7,14,1,0,0,0,1,0,10:25,1:44,1:13,50
+2018020676,8476882,Teuvo Teravainen,Carolina Hurricanes,Tampa Bay Lightning,LW,19:40,0,0,2,0,0,0,2,0,0,0,1,0,0,0,-1,15:33,2:17,1:50,NA
+2018020676,8477357,Saku Maenalanen,Carolina Hurricanes,Tampa Bay Lightning,RW,10:39,0,0,0,4,0,0,0,0,1,1,0,0,0,0,0,9:58,0:00,0:41,0
+2018020676,8476462,Dougie Hamilton,Carolina Hurricanes,Tampa Bay Lightning,D,19:23,1,0,2,1,0,0,2,0,0,1,0,0,0,1,0,17:09,2:14,0:00,NA
+2018020676,8468508,Justin Williams,Carolina Hurricanes,Tampa Bay Lightning,RW,16:06,0,1,3,0,0,0,0,0,2,0,1,0,0,1,0,13:49,2:17,0:00,0
+2018020676,8480830,Andrei Svechnikov,Carolina Hurricanes,Tampa Bay Lightning,RW,14:54,0,0,0,3,0,0,4,0,0,0,1,0,0,0,0,12:53,2:01,0:00,NA

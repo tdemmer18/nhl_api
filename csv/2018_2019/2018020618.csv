@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020618,8475906,John Klingberg,Dallas Stars,D,22:29,2,0,3,0,0,1,2,0,0,0,1,0,0,0,2,18:46,2:36,1:07,NA
-2018020618,8476913,Devin Shore,Dallas Stars,C,13:43,0,0,3,3,0,0,0,1,3,0,1,0,0,0,0,10:06,2:00,1:37,33.33
-2018020618,8476902,Esa Lindell,Dallas Stars,D,23:58,0,0,1,3,0,0,2,0,0,0,0,0,0,2,0,18:35,0:14,5:09,NA
-2018020618,8473994,Jamie Benn,Dallas Stars,LW,5:39,0,1,4,1,0,0,0,1,2,0,1,0,0,0,1,4:47,0:52,0:00,50
-2018020618,8478449,Roope Hintz,Dallas Stars,LW,11:29,1,0,1,0,0,0,0,6,8,0,0,0,0,0,1,9:27,1:29,0:33,75
-2018020618,8471228,Alexander Radulov,Dallas Stars,RW,19:18,3,0,2,0,0,1,4,0,0,0,2,0,0,1,2,16:29,2:41,0:08,NA
-2018020618,8477945,Julius Honka,Dallas Stars,D,11:30,0,0,2,1,0,0,0,0,0,0,1,0,0,0,-1,10:58,0:32,0:00,NA
-2018020618,8477406,Mattias Janmark,Dallas Stars,C,16:01,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,13:17,0:14,2:30,0
-2018020618,8476889,Radek Faksa,Dallas Stars,C,20:02,0,0,3,3,0,0,0,7,17,0,0,0,0,1,-3,14:22,2:20,3:20,41.18
-2018020618,8471260,Blake Comeau,Dallas Stars,LW,18:31,0,0,0,4,0,0,0,1,1,0,0,0,0,0,-2,14:50,0:23,3:18,100
-2018020618,8471392,Roman Polak,Dallas Stars,D,22:18,1,0,1,4,0,0,2,0,0,0,2,0,0,5,-1,18:42,0:14,3:22,NA
-2018020618,8475794,Tyler Seguin,Dallas Stars,C,19:57,0,2,8,0,1,0,0,5,11,0,1,0,0,2,3,16:52,2:26,0:39,45.45
-2018020618,8477501,Valeri Nichushkin,Dallas Stars,RW,13:34,1,0,0,3,0,0,0,0,0,0,2,0,0,0,1,12:42,0:00,0:52,NA
-2018020618,8475752,Tyler Pitlick,Dallas Stars,C,14:22,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,13:54,0:07,0:21,NA
-2018020618,8478495,Denis Gurianov,Dallas Stars,RW,7:44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6:15,1:29,0:00,NA
-2018020618,8476166,Taylor Fedun,Dallas Stars,D,14:36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11:51,0:35,2:10,NA
-2018020618,8469455,Jason Spezza,Dallas Stars,C,14:56,0,0,1,0,0,0,0,8,11,1,0,0,0,0,-1,12:15,2:41,0:00,72.73
-2018020618,8480036,Miro Heiskanen,Dallas Stars,D,21:14,0,2,9,0,0,0,2,0,0,0,1,0,0,3,2,17:52,1:52,1:30,NA
-2018020618,8470619,Brian Boyle,New Jersey Devils,C,13:11,0,1,5,1,1,0,0,2,3,0,0,0,0,0,1,7:16,4:12,1:43,66.67
-2018020618,8476923,Damon Severson,New Jersey Devils,D,23:16,0,0,1,1,0,0,0,0,0,0,1,0,0,3,-2,19:39,2:12,1:25,NA
-2018020618,8471233,Travis Zajac,New Jersey Devils,C,21:08,2,0,5,0,0,1,0,11,18,1,1,0,0,5,-2,15:07,4:12,1:49,61.11
-2018020618,8479407,Jesper Bratt,New Jersey Devils,LW,16:51,0,1,5,1,0,0,0,0,0,1,0,0,0,0,1,14:24,2:27,0:00,NA
-2018020618,8473933,Ben Lovejoy,New Jersey Devils,D,17:42,0,0,2,2,0,0,0,0,0,0,0,0,0,2,0,14:47,0:00,2:55,NA
-2018020618,8477425,Miles Wood,New Jersey Devils,LW,15:38,0,0,2,3,0,0,5,0,0,1,0,0,0,1,-2,13:11,2:27,0:00,NA
-2018020618,8471226,Drew Stafford,New Jersey Devils,RW,10:29,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,10:29,0:00,0:00,NA
-2018020618,8472382,Andy Greene,New Jersey Devils,D,12:08,1,0,0,0,0,0,0,0,0,0,1,0,0,2,0,9:13,0:00,2:55,NA
-2018020618,8478401,Pavel Zacha,New Jersey Devils,C,15:37,0,0,2,2,0,0,0,0,6,1,2,0,0,0,0,8:54,4:12,2:31,0
-2018020618,8477961,John Quenneville,New Jersey Devils,C,8:24,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1,8:24,0:00,0:00,NA
-2018020618,8477355,Will Butcher,New Jersey Devils,D,22:14,2,0,0,1,0,1,0,0,0,0,0,0,0,0,1,16:36,4:27,1:11,NA
-2018020618,8476399,Blake Coleman,New Jersey Devils,C,19:15,0,0,1,7,0,0,0,0,0,0,0,0,0,0,-3,17:23,0:00,1:52,NA
-2018020618,8475222,Sami Vatanen,New Jersey Devils,D,23:17,0,0,2,2,0,0,0,0,0,1,2,0,0,1,-1,20:38,2:12,0:27,NA
-2018020618,8475151,Kyle Palmieri,New Jersey Devils,RW,18:39,0,1,5,0,0,0,0,0,1,0,1,0,0,0,2,14:27,4:12,0:00,0
-2018020618,8478881,Brett Seney,New Jersey Devils,LW,9:06,1,0,0,1,0,0,2,0,5,0,0,0,0,0,1,9:06,0:00,0:00,0
-2018020618,8477463,Steven Santini,New Jersey Devils,D,16:52,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,16:39,0:00,0:13,NA
-2018020618,8476474,Stefan Noesen,New Jersey Devils,RW,11:05,0,0,0,3,0,0,2,0,0,1,1,0,0,1,-1,10:50,0:15,0:00,NA
-2018020618,8480002,Nico Hischier,New Jersey Devils,C,20:33,1,0,3,2,0,0,0,12,21,2,1,0,0,2,1,16:55,2:27,1:11,57.14
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020618,8475906,John Klingberg,Dallas Stars,New Jersey Devils,D,22:29,2,0,3,0,0,1,2,0,0,0,1,0,0,0,2,18:46,2:36,1:07,NA
+2018020618,8476913,Devin Shore,Dallas Stars,New Jersey Devils,C,13:43,0,0,3,3,0,0,0,1,3,0,1,0,0,0,0,10:06,2:00,1:37,33.33
+2018020618,8476902,Esa Lindell,Dallas Stars,New Jersey Devils,D,23:58,0,0,1,3,0,0,2,0,0,0,0,0,0,2,0,18:35,0:14,5:09,NA
+2018020618,8473994,Jamie Benn,Dallas Stars,New Jersey Devils,LW,5:39,0,1,4,1,0,0,0,1,2,0,1,0,0,0,1,4:47,0:52,0:00,50
+2018020618,8478449,Roope Hintz,Dallas Stars,New Jersey Devils,LW,11:29,1,0,1,0,0,0,0,6,8,0,0,0,0,0,1,9:27,1:29,0:33,75
+2018020618,8471228,Alexander Radulov,Dallas Stars,New Jersey Devils,RW,19:18,3,0,2,0,0,1,4,0,0,0,2,0,0,1,2,16:29,2:41,0:08,NA
+2018020618,8477945,Julius Honka,Dallas Stars,New Jersey Devils,D,11:30,0,0,2,1,0,0,0,0,0,0,1,0,0,0,-1,10:58,0:32,0:00,NA
+2018020618,8477406,Mattias Janmark,Dallas Stars,New Jersey Devils,C,16:01,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,13:17,0:14,2:30,0
+2018020618,8476889,Radek Faksa,Dallas Stars,New Jersey Devils,C,20:02,0,0,3,3,0,0,0,7,17,0,0,0,0,1,-3,14:22,2:20,3:20,41.18
+2018020618,8471260,Blake Comeau,Dallas Stars,New Jersey Devils,LW,18:31,0,0,0,4,0,0,0,1,1,0,0,0,0,0,-2,14:50,0:23,3:18,100
+2018020618,8471392,Roman Polak,Dallas Stars,New Jersey Devils,D,22:18,1,0,1,4,0,0,2,0,0,0,2,0,0,5,-1,18:42,0:14,3:22,NA
+2018020618,8475794,Tyler Seguin,Dallas Stars,New Jersey Devils,C,19:57,0,2,8,0,1,0,0,5,11,0,1,0,0,2,3,16:52,2:26,0:39,45.45
+2018020618,8477501,Valeri Nichushkin,Dallas Stars,New Jersey Devils,RW,13:34,1,0,0,3,0,0,0,0,0,0,2,0,0,0,1,12:42,0:00,0:52,NA
+2018020618,8475752,Tyler Pitlick,Dallas Stars,New Jersey Devils,C,14:22,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,13:54,0:07,0:21,NA
+2018020618,8478495,Denis Gurianov,Dallas Stars,New Jersey Devils,RW,7:44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6:15,1:29,0:00,NA
+2018020618,8476166,Taylor Fedun,Dallas Stars,New Jersey Devils,D,14:36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11:51,0:35,2:10,NA
+2018020618,8469455,Jason Spezza,Dallas Stars,New Jersey Devils,C,14:56,0,0,1,0,0,0,0,8,11,1,0,0,0,0,-1,12:15,2:41,0:00,72.73
+2018020618,8480036,Miro Heiskanen,Dallas Stars,New Jersey Devils,D,21:14,0,2,9,0,0,0,2,0,0,0,1,0,0,3,2,17:52,1:52,1:30,NA
+2018020618,8470619,Brian Boyle,New Jersey Devils,Dallas Stars,C,13:11,0,1,5,1,1,0,0,2,3,0,0,0,0,0,1,7:16,4:12,1:43,66.67
+2018020618,8476923,Damon Severson,New Jersey Devils,Dallas Stars,D,23:16,0,0,1,1,0,0,0,0,0,0,1,0,0,3,-2,19:39,2:12,1:25,NA
+2018020618,8471233,Travis Zajac,New Jersey Devils,Dallas Stars,C,21:08,2,0,5,0,0,1,0,11,18,1,1,0,0,5,-2,15:07,4:12,1:49,61.11
+2018020618,8479407,Jesper Bratt,New Jersey Devils,Dallas Stars,LW,16:51,0,1,5,1,0,0,0,0,0,1,0,0,0,0,1,14:24,2:27,0:00,NA
+2018020618,8473933,Ben Lovejoy,New Jersey Devils,Dallas Stars,D,17:42,0,0,2,2,0,0,0,0,0,0,0,0,0,2,0,14:47,0:00,2:55,NA
+2018020618,8477425,Miles Wood,New Jersey Devils,Dallas Stars,LW,15:38,0,0,2,3,0,0,5,0,0,1,0,0,0,1,-2,13:11,2:27,0:00,NA
+2018020618,8471226,Drew Stafford,New Jersey Devils,Dallas Stars,RW,10:29,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,10:29,0:00,0:00,NA
+2018020618,8472382,Andy Greene,New Jersey Devils,Dallas Stars,D,12:08,1,0,0,0,0,0,0,0,0,0,1,0,0,2,0,9:13,0:00,2:55,NA
+2018020618,8478401,Pavel Zacha,New Jersey Devils,Dallas Stars,C,15:37,0,0,2,2,0,0,0,0,6,1,2,0,0,0,0,8:54,4:12,2:31,0
+2018020618,8477961,John Quenneville,New Jersey Devils,Dallas Stars,C,8:24,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1,8:24,0:00,0:00,NA
+2018020618,8477355,Will Butcher,New Jersey Devils,Dallas Stars,D,22:14,2,0,0,1,0,1,0,0,0,0,0,0,0,0,1,16:36,4:27,1:11,NA
+2018020618,8476399,Blake Coleman,New Jersey Devils,Dallas Stars,C,19:15,0,0,1,7,0,0,0,0,0,0,0,0,0,0,-3,17:23,0:00,1:52,NA
+2018020618,8475222,Sami Vatanen,New Jersey Devils,Dallas Stars,D,23:17,0,0,2,2,0,0,0,0,0,1,2,0,0,1,-1,20:38,2:12,0:27,NA
+2018020618,8475151,Kyle Palmieri,New Jersey Devils,Dallas Stars,RW,18:39,0,1,5,0,0,0,0,0,1,0,1,0,0,0,2,14:27,4:12,0:00,0
+2018020618,8478881,Brett Seney,New Jersey Devils,Dallas Stars,LW,9:06,1,0,0,1,0,0,2,0,5,0,0,0,0,0,1,9:06,0:00,0:00,0
+2018020618,8477463,Steven Santini,New Jersey Devils,Dallas Stars,D,16:52,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,16:39,0:00,0:13,NA
+2018020618,8476474,Stefan Noesen,New Jersey Devils,Dallas Stars,RW,11:05,0,0,0,3,0,0,2,0,0,1,1,0,0,1,-1,10:50,0:15,0:00,NA
+2018020618,8480002,Nico Hischier,New Jersey Devils,Dallas Stars,C,20:33,1,0,3,2,0,0,0,12,21,2,1,0,0,2,1,16:55,2:27,1:11,57.14

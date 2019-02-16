@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020877,8471735,Keith Yandle,Florida Panthers,D,23:18,1,0,1,4,0,0,0,0,0,1,1,0,0,1,2,21:24,1:24,0:30,NA
-2018020877,8473544,Derick Brassard,Florida Panthers,C,13:12,0,0,2,2,0,0,0,1,1,0,0,0,0,0,-1,12:39,0:25,0:08,100
-2018020877,8474149,Evgenii Dadonov,Florida Panthers,RW,17:58,0,1,3,0,0,0,0,0,0,1,1,0,0,0,2,17:27,0:31,0:00,NA
-2018020877,8477932,Aaron Ekblad,Florida Panthers,D,25:20,0,0,1,1,0,0,2,0,0,0,1,0,0,2,-1,21:39,0:36,3:05,NA
-2018020877,8476875,Mike Matheson,Florida Panthers,D,28:43,0,0,2,2,0,0,0,0,0,0,3,0,0,3,-2,23:38,0:00,5:05,NA
-2018020877,8474884,Mike Hoffman,Florida Panthers,LW,17:09,1,1,1,1,0,0,0,0,0,2,4,0,0,0,2,15:34,1:35,0:00,NA
-2018020877,8471426,Troy Brouwer,Florida Panthers,RW,13:29,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,8:51,0:00,4:38,NA
-2018020877,8475772,Riley Sheahan,Florida Panthers,C,12:52,0,0,3,2,0,0,0,3,7,1,2,0,0,2,0,10:56,0:00,1:56,42.86
-2018020877,8479404,Henrik Borgstrom,Florida Panthers,C,8:34,0,0,0,1,0,0,0,3,6,0,0,0,0,0,0,8:01,0:25,0:08,50
-2018020877,8477963,Jayce Hawryluk,Florida Panthers,C,6:17,0,0,0,2,0,0,0,0,0,0,1,0,0,1,0,6:17,0:00,0:00,NA
-2018020877,8476389,Vincent Trocheck,Florida Panthers,C,21:48,1,0,2,4,0,0,4,16,25,1,2,0,0,2,2,19:04,1:29,1:15,64
-2018020877,8478843,Denis Malgin,Florida Panthers,C,11:18,0,0,1,1,0,0,0,0,0,1,1,0,0,1,0,9:57,0:00,1:21,NA
-2018020877,8476456,Jonathan Huberdeau,Florida Panthers,LW,19:33,0,0,5,0,0,0,0,0,0,1,2,0,0,0,-2,17:58,1:35,0:00,NA
-2018020877,8475796,Mark Pysyk,Florida Panthers,D,24:58,1,0,1,3,0,0,0,0,0,0,1,0,0,2,2,22:43,0:00,2:15,NA
-2018020877,8477384,Josh Brown,Florida Panthers,D,12:01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9:28,0:00,2:33,NA
-2018020877,8478366,Frank Vatrano,Florida Panthers,C,17:20,0,0,3,0,0,0,0,0,0,0,0,0,0,1,-2,16:55,0:25,0:00,NA
-2018020877,8477452,Ian McCoshen,Florida Panthers,D,8:47,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-1,8:47,0:00,0:00,NA
-2018020877,8477493,Aleksander Barkov,Florida Panthers,C,24:23,0,0,4,0,0,0,0,13,22,3,0,0,0,1,-1,18:46,1:35,4:02,59.09
-2018020877,8470966,Mark Giordano,Calgary Flames,D,29:23,0,0,4,0,0,0,0,0,0,0,0,0,0,1,1,23:50,4:25,1:08,NA
-2018020877,8471707,James Neal,Calgary Flames,LW,8:20,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,8:15,0:05,0:00,NA
-2018020877,8477903,Garnet Hathaway,Calgary Flames,RW,9:49,0,0,1,1,0,0,0,0,0,0,1,0,0,1,-1,9:07,0:02,0:40,NA
-2018020877,8477935,Sam Bennett,Calgary Flames,C,15:59,0,0,2,1,0,0,0,0,0,1,1,0,0,1,-1,13:48,2:11,0:00,NA
-2018020877,8473564,Michael Frolik,Calgary Flames,RW,13:41,0,0,5,2,0,0,0,0,0,0,0,0,0,0,1,12:56,0:45,0:00,NA
-2018020877,8474612,Travis Hamonic,Calgary Flames,D,20:15,0,0,4,1,0,0,0,0,0,0,0,0,0,4,0,17:52,0:53,1:30,NA
-2018020877,8474673,TJ Brodie,Calgary Flames,D,24:56,0,0,2,0,0,0,0,0,0,2,2,0,0,0,0,21:57,2:07,0:52,NA
-2018020877,8476873,Mark Jankowski,Calgary Flames,C,17:53,0,1,1,0,0,0,0,6,16,1,5,0,0,0,1,14:42,1:51,1:20,37.5
-2018020877,8474150,Mikael Backlund,Calgary Flames,C,15:26,0,0,3,1,0,0,0,7,13,0,0,0,0,1,0,15:01,0:10,0:15,53.85
-2018020877,8476346,Johnny Gaudreau,Calgary Flames,LW,26:18,1,0,5,0,0,0,0,0,0,1,1,0,0,0,0,21:37,4:41,0:00,NA
-2018020877,8479314,Matthew Tkachuk,Calgary Flames,LW,17:19,0,0,3,2,0,0,0,0,0,0,1,0,0,1,0,13:40,3:39,0:00,NA
-2018020877,8478397,Rasmus Andersson,Calgary Flames,D,15:01,1,0,2,2,0,0,0,0,0,0,0,0,0,1,0,13:30,1:31,0:00,NA
-2018020877,8478430,Oliver Kylington,Calgary Flames,D,12:10,0,0,1,2,0,0,2,0,0,0,1,0,0,1,-1,12:10,0:00,0:00,NA
-2018020877,8478396,Noah Hanifin,Calgary Flames,D,21:12,1,0,3,0,0,0,0,0,0,4,2,0,0,0,0,19:49,0:53,0:30,NA
-2018020877,8477497,Sean Monahan,Calgary Flames,C,22:02,0,0,1,1,0,0,0,3,14,1,1,0,0,0,0,18:09,3:53,0:00,21.43
-2018020877,8478585,Derek Ryan,Calgary Flames,C,11:40,0,0,1,2,0,0,0,4,9,0,1,0,0,0,-1,8:33,2:27,0:40,44.44
-2018020877,8477496,Elias Lindholm,Calgary Flames,C,18:59,0,1,2,2,0,0,0,5,9,1,0,0,0,1,0,14:32,3:22,1:05,55.56
-2018020877,8478233,Andrew Mangiapane,Calgary Flames,LW,13:48,0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,13:03,0:45,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020877,8471735,Keith Yandle,Florida Panthers,Calgary Flames,D,23:18,1,0,1,4,0,0,0,0,0,1,1,0,0,1,2,21:24,1:24,0:30,NA
+2018020877,8473544,Derick Brassard,Florida Panthers,Calgary Flames,C,13:12,0,0,2,2,0,0,0,1,1,0,0,0,0,0,-1,12:39,0:25,0:08,100
+2018020877,8474149,Evgenii Dadonov,Florida Panthers,Calgary Flames,RW,17:58,0,1,3,0,0,0,0,0,0,1,1,0,0,0,2,17:27,0:31,0:00,NA
+2018020877,8477932,Aaron Ekblad,Florida Panthers,Calgary Flames,D,25:20,0,0,1,1,0,0,2,0,0,0,1,0,0,2,-1,21:39,0:36,3:05,NA
+2018020877,8476875,Mike Matheson,Florida Panthers,Calgary Flames,D,28:43,0,0,2,2,0,0,0,0,0,0,3,0,0,3,-2,23:38,0:00,5:05,NA
+2018020877,8474884,Mike Hoffman,Florida Panthers,Calgary Flames,LW,17:09,1,1,1,1,0,0,0,0,0,2,4,0,0,0,2,15:34,1:35,0:00,NA
+2018020877,8471426,Troy Brouwer,Florida Panthers,Calgary Flames,RW,13:29,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,8:51,0:00,4:38,NA
+2018020877,8475772,Riley Sheahan,Florida Panthers,Calgary Flames,C,12:52,0,0,3,2,0,0,0,3,7,1,2,0,0,2,0,10:56,0:00,1:56,42.86
+2018020877,8479404,Henrik Borgstrom,Florida Panthers,Calgary Flames,C,8:34,0,0,0,1,0,0,0,3,6,0,0,0,0,0,0,8:01,0:25,0:08,50
+2018020877,8477963,Jayce Hawryluk,Florida Panthers,Calgary Flames,C,6:17,0,0,0,2,0,0,0,0,0,0,1,0,0,1,0,6:17,0:00,0:00,NA
+2018020877,8476389,Vincent Trocheck,Florida Panthers,Calgary Flames,C,21:48,1,0,2,4,0,0,4,16,25,1,2,0,0,2,2,19:04,1:29,1:15,64
+2018020877,8478843,Denis Malgin,Florida Panthers,Calgary Flames,C,11:18,0,0,1,1,0,0,0,0,0,1,1,0,0,1,0,9:57,0:00,1:21,NA
+2018020877,8476456,Jonathan Huberdeau,Florida Panthers,Calgary Flames,LW,19:33,0,0,5,0,0,0,0,0,0,1,2,0,0,0,-2,17:58,1:35,0:00,NA
+2018020877,8475796,Mark Pysyk,Florida Panthers,Calgary Flames,D,24:58,1,0,1,3,0,0,0,0,0,0,1,0,0,2,2,22:43,0:00,2:15,NA
+2018020877,8477384,Josh Brown,Florida Panthers,Calgary Flames,D,12:01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9:28,0:00,2:33,NA
+2018020877,8478366,Frank Vatrano,Florida Panthers,Calgary Flames,C,17:20,0,0,3,0,0,0,0,0,0,0,0,0,0,1,-2,16:55,0:25,0:00,NA
+2018020877,8477452,Ian McCoshen,Florida Panthers,Calgary Flames,D,8:47,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-1,8:47,0:00,0:00,NA
+2018020877,8477493,Aleksander Barkov,Florida Panthers,Calgary Flames,C,24:23,0,0,4,0,0,0,0,13,22,3,0,0,0,1,-1,18:46,1:35,4:02,59.09
+2018020877,8470966,Mark Giordano,Calgary Flames,Florida Panthers,D,29:23,0,0,4,0,0,0,0,0,0,0,0,0,0,1,1,23:50,4:25,1:08,NA
+2018020877,8471707,James Neal,Calgary Flames,Florida Panthers,LW,8:20,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,8:15,0:05,0:00,NA
+2018020877,8477903,Garnet Hathaway,Calgary Flames,Florida Panthers,RW,9:49,0,0,1,1,0,0,0,0,0,0,1,0,0,1,-1,9:07,0:02,0:40,NA
+2018020877,8477935,Sam Bennett,Calgary Flames,Florida Panthers,C,15:59,0,0,2,1,0,0,0,0,0,1,1,0,0,1,-1,13:48,2:11,0:00,NA
+2018020877,8473564,Michael Frolik,Calgary Flames,Florida Panthers,RW,13:41,0,0,5,2,0,0,0,0,0,0,0,0,0,0,1,12:56,0:45,0:00,NA
+2018020877,8474612,Travis Hamonic,Calgary Flames,Florida Panthers,D,20:15,0,0,4,1,0,0,0,0,0,0,0,0,0,4,0,17:52,0:53,1:30,NA
+2018020877,8474673,TJ Brodie,Calgary Flames,Florida Panthers,D,24:56,0,0,2,0,0,0,0,0,0,2,2,0,0,0,0,21:57,2:07,0:52,NA
+2018020877,8476873,Mark Jankowski,Calgary Flames,Florida Panthers,C,17:53,0,1,1,0,0,0,0,6,16,1,5,0,0,0,1,14:42,1:51,1:20,37.5
+2018020877,8474150,Mikael Backlund,Calgary Flames,Florida Panthers,C,15:26,0,0,3,1,0,0,0,7,13,0,0,0,0,1,0,15:01,0:10,0:15,53.85
+2018020877,8476346,Johnny Gaudreau,Calgary Flames,Florida Panthers,LW,26:18,1,0,5,0,0,0,0,0,0,1,1,0,0,0,0,21:37,4:41,0:00,NA
+2018020877,8479314,Matthew Tkachuk,Calgary Flames,Florida Panthers,LW,17:19,0,0,3,2,0,0,0,0,0,0,1,0,0,1,0,13:40,3:39,0:00,NA
+2018020877,8478397,Rasmus Andersson,Calgary Flames,Florida Panthers,D,15:01,1,0,2,2,0,0,0,0,0,0,0,0,0,1,0,13:30,1:31,0:00,NA
+2018020877,8478430,Oliver Kylington,Calgary Flames,Florida Panthers,D,12:10,0,0,1,2,0,0,2,0,0,0,1,0,0,1,-1,12:10,0:00,0:00,NA
+2018020877,8478396,Noah Hanifin,Calgary Flames,Florida Panthers,D,21:12,1,0,3,0,0,0,0,0,0,4,2,0,0,0,0,19:49,0:53,0:30,NA
+2018020877,8477497,Sean Monahan,Calgary Flames,Florida Panthers,C,22:02,0,0,1,1,0,0,0,3,14,1,1,0,0,0,0,18:09,3:53,0:00,21.43
+2018020877,8478585,Derek Ryan,Calgary Flames,Florida Panthers,C,11:40,0,0,1,2,0,0,0,4,9,0,1,0,0,0,-1,8:33,2:27,0:40,44.44
+2018020877,8477496,Elias Lindholm,Calgary Flames,Florida Panthers,C,18:59,0,1,2,2,0,0,0,5,9,1,0,0,0,1,0,14:32,3:22,1:05,55.56
+2018020877,8478233,Andrew Mangiapane,Calgary Flames,Florida Panthers,LW,13:48,0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,13:03,0:45,0:00,NA

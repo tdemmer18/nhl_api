@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020415,8476439,Brett Ritchie,Dallas Stars,RW,12:20,1,1,2,2,0,0,0,0,0,1,1,0,0,2,2,12:20,0:00,0:00,NA
-2018020415,8476913,Devin Shore,Dallas Stars,C,12:11,0,0,1,1,0,0,5,0,0,0,0,0,0,0,0,9:48,1:40,0:43,NA
-2018020415,8476902,Esa Lindell,Dallas Stars,D,24:56,0,1,1,5,0,0,0,0,0,0,3,1,0,1,0,22:12,0:48,1:56,NA
-2018020415,8473994,Jamie Benn,Dallas Stars,LW,18:02,0,1,3,3,1,0,0,1,6,1,1,0,0,0,0,15:55,1:52,0:15,16.67
-2018020415,8478449,Roope Hintz,Dallas Stars,LW,11:28,0,0,2,1,0,0,4,6,7,1,0,0,0,1,0,9:42,0:48,0:58,85.71
-2018020415,8477810,Joel Hanley,Dallas Stars,D,14:10,0,0,1,1,0,0,0,0,0,0,3,0,0,2,2,12:25,0:00,1:45,NA
-2018020415,8471228,Alexander Radulov,Dallas Stars,RW,15:53,1,0,1,1,0,1,0,0,0,1,3,0,0,1,0,14:01,1:52,0:00,NA
-2018020415,8477406,Mattias Janmark,Dallas Stars,C,14:36,2,0,1,1,0,0,0,0,0,1,0,0,0,2,2,12:56,0:00,1:40,NA
-2018020415,8476889,Radek Faksa,Dallas Stars,C,16:54,0,0,0,0,0,0,2,11,16,0,1,0,0,0,0,15:32,0:00,1:22,68.75
-2018020415,8479945,Gavin Bayreuther,Dallas Stars,D,20:05,1,0,0,1,0,1,2,0,0,1,0,0,0,1,0,18:13,1:52,0:00,NA
-2018020415,8471392,Roman Polak,Dallas Stars,D,19:48,0,0,2,3,0,0,0,0,0,0,0,0,0,1,1,17:40,0:12,1:56,NA
-2018020415,8475794,Tyler Seguin,Dallas Stars,C,18:40,0,0,5,2,0,0,0,5,14,0,0,0,0,0,0,16:22,1:52,0:26,35.71
-2018020415,8477501,Valeri Nichushkin,Dallas Stars,RW,13:43,0,0,1,0,0,0,0,0,0,0,1,0,0,1,-1,13:43,0:00,0:00,NA
-2018020415,8475752,Tyler Pitlick,Dallas Stars,C,15:15,0,0,3,1,0,0,0,0,1,0,0,0,0,2,0,13:05,0:48,1:22,0
-2018020415,8477450,Jason Dickinson,Dallas Stars,C,15:41,0,1,1,0,0,0,0,9,13,0,0,0,0,2,2,13:17,0:00,2:24,69.23
-2018020415,8476166,Taylor Fedun,Dallas Stars,D,15:42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,13:03,0:00,2:39,NA
-2018020415,8469455,Jason Spezza,Dallas Stars,C,12:29,0,0,0,0,0,0,0,1,3,1,2,0,0,0,0,11:41,0:48,0:00,33.33
-2018020415,8480036,Miro Heiskanen,Dallas Stars,D,23:44,0,0,1,1,0,0,0,0,0,4,2,0,0,1,-1,22:02,0:48,0:54,NA
-2018020415,8470803,Kyle Brodziak,Edmonton Oilers,C,14:02,0,0,2,1,0,0,0,5,12,1,0,0,0,0,-2,12:03,1:04,0:55,41.67
-2018020415,8471729,Kris Russell,Edmonton Oilers,D,21:28,0,0,1,0,0,0,0,0,0,1,0,0,0,3,0,20:00,0:00,1:28,NA
-2018020415,8475857,Kevin Gravel,Edmonton Oilers,D,14:58,0,0,3,0,0,0,0,0,0,0,0,0,0,2,1,14:46,0:00,0:12,NA
-2018020415,8476915,Jujhar Khaira,Edmonton Oilers,LW,14:36,0,1,3,2,0,0,0,0,1,0,0,0,0,0,-1,13:30,1:06,0:00,0
-2018020415,8476457,Adam Larsson,Edmonton Oilers,D,21:54,0,0,4,2,0,0,0,0,0,0,1,0,0,1,-1,20:16,0:26,1:12,NA
-2018020415,8475227,Chris Wideman,Edmonton Oilers,D,6:36,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4:09,2:27,0:00,NA
-2018020415,8477934,Leon Draisaitl,Edmonton Oilers,C,25:25,1,0,2,1,0,0,0,17,28,0,1,0,0,0,0,21:29,2:54,1:02,60.71
-2018020415,8476427,Ty Rattie,Edmonton Oilers,RW,12:34,0,0,3,2,0,0,0,0,0,0,1,0,0,0,0,11:32,1:02,0:00,NA
-2018020415,8476988,Matt Benning,Edmonton Oilers,D,10:37,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0,10:18,0:19,0:00,NA
-2018020415,8477498,Darnell Nurse,Edmonton Oilers,D,18:38,0,0,3,0,0,0,5,0,0,0,2,0,0,1,-1,15:18,1:52,1:28,NA
-2018020415,8475178,Zack Kassian,Edmonton Oilers,RW,12:41,0,0,0,2,0,0,12,0,0,0,0,0,0,0,-2,12:06,0:00,0:35,NA
-2018020415,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,C,23:49,0,0,1,0,0,0,0,4,18,0,0,0,0,2,-1,19:54,3:12,0:43,22.22
-2018020415,8479465,Drake Caggiula,Edmonton Oilers,LW,17:56,0,0,1,5,0,0,0,0,0,0,3,0,0,2,0,15:08,1:45,1:03,NA
-2018020415,8479344,Jesse Puljujarvi,Edmonton Oilers,RW,13:57,0,0,2,0,0,0,0,0,0,0,1,0,0,1,0,13:31,0:26,0:00,NA
-2018020415,8475163,Alex Chiasson,Edmonton Oilers,RW,17:07,0,0,1,1,0,0,4,1,1,1,0,0,0,1,-1,14:07,1:58,1:02,100
-2018020415,8479466,Patrick Russell,Edmonton Oilers,RW,10:36,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,9:33,1:03,0:00,NA
-2018020415,8476472,Oscar Klefbom,Edmonton Oilers,D,24:31,0,0,1,1,0,0,0,0,0,0,0,0,0,4,-2,20:48,2:43,1:00,NA
-2018020415,8473473,Milan Lucic,Edmonton Oilers,LW,17:42,0,0,0,2,0,0,0,0,0,0,2,0,0,0,-1,15:58,1:44,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020415,8476439,Brett Ritchie,Dallas Stars,Edmonton Oilers,RW,12:20,1,1,2,2,0,0,0,0,0,1,1,0,0,2,2,12:20,0:00,0:00,NA
+2018020415,8476913,Devin Shore,Dallas Stars,Edmonton Oilers,C,12:11,0,0,1,1,0,0,5,0,0,0,0,0,0,0,0,9:48,1:40,0:43,NA
+2018020415,8476902,Esa Lindell,Dallas Stars,Edmonton Oilers,D,24:56,0,1,1,5,0,0,0,0,0,0,3,1,0,1,0,22:12,0:48,1:56,NA
+2018020415,8473994,Jamie Benn,Dallas Stars,Edmonton Oilers,LW,18:02,0,1,3,3,1,0,0,1,6,1,1,0,0,0,0,15:55,1:52,0:15,16.67
+2018020415,8478449,Roope Hintz,Dallas Stars,Edmonton Oilers,LW,11:28,0,0,2,1,0,0,4,6,7,1,0,0,0,1,0,9:42,0:48,0:58,85.71
+2018020415,8477810,Joel Hanley,Dallas Stars,Edmonton Oilers,D,14:10,0,0,1,1,0,0,0,0,0,0,3,0,0,2,2,12:25,0:00,1:45,NA
+2018020415,8471228,Alexander Radulov,Dallas Stars,Edmonton Oilers,RW,15:53,1,0,1,1,0,1,0,0,0,1,3,0,0,1,0,14:01,1:52,0:00,NA
+2018020415,8477406,Mattias Janmark,Dallas Stars,Edmonton Oilers,C,14:36,2,0,1,1,0,0,0,0,0,1,0,0,0,2,2,12:56,0:00,1:40,NA
+2018020415,8476889,Radek Faksa,Dallas Stars,Edmonton Oilers,C,16:54,0,0,0,0,0,0,2,11,16,0,1,0,0,0,0,15:32,0:00,1:22,68.75
+2018020415,8479945,Gavin Bayreuther,Dallas Stars,Edmonton Oilers,D,20:05,1,0,0,1,0,1,2,0,0,1,0,0,0,1,0,18:13,1:52,0:00,NA
+2018020415,8471392,Roman Polak,Dallas Stars,Edmonton Oilers,D,19:48,0,0,2,3,0,0,0,0,0,0,0,0,0,1,1,17:40,0:12,1:56,NA
+2018020415,8475794,Tyler Seguin,Dallas Stars,Edmonton Oilers,C,18:40,0,0,5,2,0,0,0,5,14,0,0,0,0,0,0,16:22,1:52,0:26,35.71
+2018020415,8477501,Valeri Nichushkin,Dallas Stars,Edmonton Oilers,RW,13:43,0,0,1,0,0,0,0,0,0,0,1,0,0,1,-1,13:43,0:00,0:00,NA
+2018020415,8475752,Tyler Pitlick,Dallas Stars,Edmonton Oilers,C,15:15,0,0,3,1,0,0,0,0,1,0,0,0,0,2,0,13:05,0:48,1:22,0
+2018020415,8477450,Jason Dickinson,Dallas Stars,Edmonton Oilers,C,15:41,0,1,1,0,0,0,0,9,13,0,0,0,0,2,2,13:17,0:00,2:24,69.23
+2018020415,8476166,Taylor Fedun,Dallas Stars,Edmonton Oilers,D,15:42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,13:03,0:00,2:39,NA
+2018020415,8469455,Jason Spezza,Dallas Stars,Edmonton Oilers,C,12:29,0,0,0,0,0,0,0,1,3,1,2,0,0,0,0,11:41,0:48,0:00,33.33
+2018020415,8480036,Miro Heiskanen,Dallas Stars,Edmonton Oilers,D,23:44,0,0,1,1,0,0,0,0,0,4,2,0,0,1,-1,22:02,0:48,0:54,NA
+2018020415,8470803,Kyle Brodziak,Edmonton Oilers,Dallas Stars,C,14:02,0,0,2,1,0,0,0,5,12,1,0,0,0,0,-2,12:03,1:04,0:55,41.67
+2018020415,8471729,Kris Russell,Edmonton Oilers,Dallas Stars,D,21:28,0,0,1,0,0,0,0,0,0,1,0,0,0,3,0,20:00,0:00,1:28,NA
+2018020415,8475857,Kevin Gravel,Edmonton Oilers,Dallas Stars,D,14:58,0,0,3,0,0,0,0,0,0,0,0,0,0,2,1,14:46,0:00,0:12,NA
+2018020415,8476915,Jujhar Khaira,Edmonton Oilers,Dallas Stars,LW,14:36,0,1,3,2,0,0,0,0,1,0,0,0,0,0,-1,13:30,1:06,0:00,0
+2018020415,8476457,Adam Larsson,Edmonton Oilers,Dallas Stars,D,21:54,0,0,4,2,0,0,0,0,0,0,1,0,0,1,-1,20:16,0:26,1:12,NA
+2018020415,8475227,Chris Wideman,Edmonton Oilers,Dallas Stars,D,6:36,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4:09,2:27,0:00,NA
+2018020415,8477934,Leon Draisaitl,Edmonton Oilers,Dallas Stars,C,25:25,1,0,2,1,0,0,0,17,28,0,1,0,0,0,0,21:29,2:54,1:02,60.71
+2018020415,8476427,Ty Rattie,Edmonton Oilers,Dallas Stars,RW,12:34,0,0,3,2,0,0,0,0,0,0,1,0,0,0,0,11:32,1:02,0:00,NA
+2018020415,8476988,Matt Benning,Edmonton Oilers,Dallas Stars,D,10:37,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0,10:18,0:19,0:00,NA
+2018020415,8477498,Darnell Nurse,Edmonton Oilers,Dallas Stars,D,18:38,0,0,3,0,0,0,5,0,0,0,2,0,0,1,-1,15:18,1:52,1:28,NA
+2018020415,8475178,Zack Kassian,Edmonton Oilers,Dallas Stars,RW,12:41,0,0,0,2,0,0,12,0,0,0,0,0,0,0,-2,12:06,0:00,0:35,NA
+2018020415,8476454,Ryan Nugent-Hopkins,Edmonton Oilers,Dallas Stars,C,23:49,0,0,1,0,0,0,0,4,18,0,0,0,0,2,-1,19:54,3:12,0:43,22.22
+2018020415,8479465,Drake Caggiula,Edmonton Oilers,Dallas Stars,LW,17:56,0,0,1,5,0,0,0,0,0,0,3,0,0,2,0,15:08,1:45,1:03,NA
+2018020415,8479344,Jesse Puljujarvi,Edmonton Oilers,Dallas Stars,RW,13:57,0,0,2,0,0,0,0,0,0,0,1,0,0,1,0,13:31,0:26,0:00,NA
+2018020415,8475163,Alex Chiasson,Edmonton Oilers,Dallas Stars,RW,17:07,0,0,1,1,0,0,4,1,1,1,0,0,0,1,-1,14:07,1:58,1:02,100
+2018020415,8479466,Patrick Russell,Edmonton Oilers,Dallas Stars,RW,10:36,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,9:33,1:03,0:00,NA
+2018020415,8476472,Oscar Klefbom,Edmonton Oilers,Dallas Stars,D,24:31,0,0,1,1,0,0,0,0,0,0,0,0,0,4,-2,20:48,2:43,1:00,NA
+2018020415,8473473,Milan Lucic,Edmonton Oilers,Dallas Stars,LW,17:42,0,0,0,2,0,0,0,0,0,0,2,0,0,0,-1,15:58,1:44,0:00,NA

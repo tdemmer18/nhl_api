@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020641,8471735,Keith Yandle,Florida Panthers,D,23:03,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,21:30,1:21,0:12,NA
-2018020641,8474149,Evgenii Dadonov,Florida Panthers,RW,17:54,0,0,3,1,0,0,0,0,0,2,0,0,0,1,1,16:33,1:21,0:00,NA
-2018020641,8477932,Aaron Ekblad,Florida Panthers,D,25:04,0,1,2,3,0,0,0,0,0,1,4,0,0,0,2,21:28,0:50,2:46,NA
-2018020641,8476875,Mike Matheson,Florida Panthers,D,23:08,0,0,2,2,0,0,0,0,0,1,4,0,0,0,0,20:42,0:00,2:26,NA
-2018020641,8474884,Mike Hoffman,Florida Panthers,LW,17:43,0,1,3,1,0,0,2,0,0,2,1,0,0,0,0,16:00,1:43,0:00,NA
-2018020641,8471426,Troy Brouwer,Florida Panthers,RW,15:15,0,0,2,3,0,0,0,0,1,0,4,0,0,0,0,13:26,0:00,1:49,0
-2018020641,8475227,Chris Wideman,Florida Panthers,D,11:53,0,0,2,2,0,0,2,0,0,1,2,0,0,0,-1,11:14,0:39,0:00,NA
-2018020641,8477955,Jared McCann,Florida Panthers,C,12:43,1,0,0,2,0,0,0,4,6,0,1,0,0,0,0,11:21,0:39,0:43,66.67
-2018020641,8474098,Colton Sceviour,Florida Panthers,C,12:13,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,9:59,0:00,2:14,NA
-2018020641,8474230,Micheal Haley,Florida Panthers,C,6:38,0,0,3,1,0,0,2,0,1,0,1,0,0,0,0,6:38,0:00,0:00,0
-2018020641,8479404,Henrik Borgstrom,Florida Panthers,C,13:59,0,0,5,0,0,0,0,4,10,0,1,0,0,0,0,13:53,0:06,0:00,40
-2018020641,8477963,Jayce Hawryluk,Florida Panthers,C,11:38,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,11:38,0:00,0:00,NA
-2018020641,8477996,Juho Lammikko,Florida Panthers,RW,12:22,0,0,0,4,0,0,0,3,8,0,0,0,0,1,0,9:57,0:00,2:25,37.5
-2018020641,8476456,Jonathan Huberdeau,Florida Panthers,LW,18:57,0,1,2,1,0,0,0,0,0,1,0,0,0,0,-1,17:35,1:21,0:01,NA
-2018020641,8475796,Mark Pysyk,Florida Panthers,D,20:13,0,0,1,1,0,0,0,0,0,2,1,0,0,1,-1,18:50,0:00,1:23,NA
-2018020641,8477346,MacKenzie Weegar,Florida Panthers,D,15:58,0,0,1,1,0,0,0,0,0,0,1,0,0,0,-1,14:45,0:00,1:13,NA
-2018020641,8478366,Frank Vatrano,Florida Panthers,C,14:48,0,0,1,5,0,0,0,0,1,0,2,0,0,0,0,14:09,0:39,0:00,0
-2018020641,8477493,Aleksander Barkov,Florida Panthers,C,21:25,1,0,0,1,0,0,0,16,25,0,2,0,0,1,-1,19:16,1:21,0:48,64
-2018020641,8477407,Anthony Duclair,Columbus Blue Jackets,LW,15:06,0,1,3,0,0,0,0,0,0,0,1,0,0,0,1,13:16,1:50,0:00,NA
-2018020641,8478906,Markus Nutivaara,Columbus Blue Jackets,D,15:35,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,15:18,0:17,0:00,NA
-2018020641,8474715,Cam Atkinson,Columbus Blue Jackets,RW,18:28,0,0,4,0,0,0,0,0,0,1,1,0,0,0,-2,16:01,1:50,0:37,NA
-2018020641,8477505,Alexander Wennberg,Columbus Blue Jackets,C,16:17,1,0,0,0,0,0,0,2,7,1,1,0,0,0,2,13:57,1:53,0:27,28.57
-2018020641,8477416,Oliver Bjorkstrand,Columbus Blue Jackets,RW,14:08,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,12:15,1:53,0:00,NA
-2018020641,8476981,Josh Anderson,Columbus Blue Jackets,RW,18:42,0,1,4,3,0,0,2,0,0,0,0,0,0,0,1,15:57,1:53,0:52,NA
-2018020641,8476850,Ryan Murray,Columbus Blue Jackets,D,19:54,1,0,1,0,0,0,0,0,0,1,3,0,0,3,0,18:18,0:17,1:19,NA
-2018020641,8476432,Boone Jenner,Columbus Blue Jackets,C,17:12,1,0,2,4,0,0,0,7,14,0,1,0,0,1,1,14:35,1:53,0:44,50
-2018020641,8475233,David Savard,Columbus Blue Jackets,D,18:49,0,0,2,1,0,0,0,0,0,0,0,0,0,2,0,17:16,0:00,1:33,NA
-2018020641,8478567,Dean Kukan,Columbus Blue Jackets,D,13:52,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,13:52,0:00,0:00,NA
-2018020641,8474062,Riley Nash,Columbus Blue Jackets,C,8:55,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-1,8:38,0:17,0:00,NA
-2018020641,8477495,Seth Jones,Columbus Blue Jackets,D,24:23,0,1,1,2,0,0,2,0,0,0,1,0,0,2,1,22:14,2:09,0:00,NA
-2018020641,8478550,Artemi Panarin,Columbus Blue Jackets,LW,19:57,1,0,3,1,0,0,0,0,0,0,0,0,0,1,0,18:07,1:50,0:00,NA
-2018020641,8479400,Pierre-Luc Dubois,Columbus Blue Jackets,C,18:35,1,0,4,0,0,0,0,6,16,2,0,0,0,0,-1,16:45,1:50,0:00,37.5
-2018020641,8471273,Brandon Dubinsky,Columbus Blue Jackets,C,10:36,0,1,3,1,0,0,0,10,15,1,0,0,0,0,0,9:40,0:17,0:39,66.67
-2018020641,8478541,Markus Hannikainen,Columbus Blue Jackets,LW,9:00,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,8:02,0:17,0:41,NA
-2018020641,8478460,Zach Werenski,Columbus Blue Jackets,D,24:29,0,0,1,1,0,0,0,0,0,1,0,0,0,2,-1,21:47,1:34,1:08,NA
-2018020641,8480762,Eric Robinson,Columbus Blue Jackets,LW,12:56,0,0,1,3,0,0,0,0,0,0,0,0,0,0,1,12:56,0:00,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020641,8471735,Keith Yandle,Florida Panthers,Columbus Blue Jackets,D,23:03,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,21:30,1:21,0:12,NA
+2018020641,8474149,Evgenii Dadonov,Florida Panthers,Columbus Blue Jackets,RW,17:54,0,0,3,1,0,0,0,0,0,2,0,0,0,1,1,16:33,1:21,0:00,NA
+2018020641,8477932,Aaron Ekblad,Florida Panthers,Columbus Blue Jackets,D,25:04,0,1,2,3,0,0,0,0,0,1,4,0,0,0,2,21:28,0:50,2:46,NA
+2018020641,8476875,Mike Matheson,Florida Panthers,Columbus Blue Jackets,D,23:08,0,0,2,2,0,0,0,0,0,1,4,0,0,0,0,20:42,0:00,2:26,NA
+2018020641,8474884,Mike Hoffman,Florida Panthers,Columbus Blue Jackets,LW,17:43,0,1,3,1,0,0,2,0,0,2,1,0,0,0,0,16:00,1:43,0:00,NA
+2018020641,8471426,Troy Brouwer,Florida Panthers,Columbus Blue Jackets,RW,15:15,0,0,2,3,0,0,0,0,1,0,4,0,0,0,0,13:26,0:00,1:49,0
+2018020641,8475227,Chris Wideman,Florida Panthers,Columbus Blue Jackets,D,11:53,0,0,2,2,0,0,2,0,0,1,2,0,0,0,-1,11:14,0:39,0:00,NA
+2018020641,8477955,Jared McCann,Florida Panthers,Columbus Blue Jackets,C,12:43,1,0,0,2,0,0,0,4,6,0,1,0,0,0,0,11:21,0:39,0:43,66.67
+2018020641,8474098,Colton Sceviour,Florida Panthers,Columbus Blue Jackets,C,12:13,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,9:59,0:00,2:14,NA
+2018020641,8474230,Micheal Haley,Florida Panthers,Columbus Blue Jackets,C,6:38,0,0,3,1,0,0,2,0,1,0,1,0,0,0,0,6:38,0:00,0:00,0
+2018020641,8479404,Henrik Borgstrom,Florida Panthers,Columbus Blue Jackets,C,13:59,0,0,5,0,0,0,0,4,10,0,1,0,0,0,0,13:53,0:06,0:00,40
+2018020641,8477963,Jayce Hawryluk,Florida Panthers,Columbus Blue Jackets,C,11:38,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,11:38,0:00,0:00,NA
+2018020641,8477996,Juho Lammikko,Florida Panthers,Columbus Blue Jackets,RW,12:22,0,0,0,4,0,0,0,3,8,0,0,0,0,1,0,9:57,0:00,2:25,37.5
+2018020641,8476456,Jonathan Huberdeau,Florida Panthers,Columbus Blue Jackets,LW,18:57,0,1,2,1,0,0,0,0,0,1,0,0,0,0,-1,17:35,1:21,0:01,NA
+2018020641,8475796,Mark Pysyk,Florida Panthers,Columbus Blue Jackets,D,20:13,0,0,1,1,0,0,0,0,0,2,1,0,0,1,-1,18:50,0:00,1:23,NA
+2018020641,8477346,MacKenzie Weegar,Florida Panthers,Columbus Blue Jackets,D,15:58,0,0,1,1,0,0,0,0,0,0,1,0,0,0,-1,14:45,0:00,1:13,NA
+2018020641,8478366,Frank Vatrano,Florida Panthers,Columbus Blue Jackets,C,14:48,0,0,1,5,0,0,0,0,1,0,2,0,0,0,0,14:09,0:39,0:00,0
+2018020641,8477493,Aleksander Barkov,Florida Panthers,Columbus Blue Jackets,C,21:25,1,0,0,1,0,0,0,16,25,0,2,0,0,1,-1,19:16,1:21,0:48,64
+2018020641,8477407,Anthony Duclair,Columbus Blue Jackets,Florida Panthers,LW,15:06,0,1,3,0,0,0,0,0,0,0,1,0,0,0,1,13:16,1:50,0:00,NA
+2018020641,8478906,Markus Nutivaara,Columbus Blue Jackets,Florida Panthers,D,15:35,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,15:18,0:17,0:00,NA
+2018020641,8474715,Cam Atkinson,Columbus Blue Jackets,Florida Panthers,RW,18:28,0,0,4,0,0,0,0,0,0,1,1,0,0,0,-2,16:01,1:50,0:37,NA
+2018020641,8477505,Alexander Wennberg,Columbus Blue Jackets,Florida Panthers,C,16:17,1,0,0,0,0,0,0,2,7,1,1,0,0,0,2,13:57,1:53,0:27,28.57
+2018020641,8477416,Oliver Bjorkstrand,Columbus Blue Jackets,Florida Panthers,RW,14:08,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,12:15,1:53,0:00,NA
+2018020641,8476981,Josh Anderson,Columbus Blue Jackets,Florida Panthers,RW,18:42,0,1,4,3,0,0,2,0,0,0,0,0,0,0,1,15:57,1:53,0:52,NA
+2018020641,8476850,Ryan Murray,Columbus Blue Jackets,Florida Panthers,D,19:54,1,0,1,0,0,0,0,0,0,1,3,0,0,3,0,18:18,0:17,1:19,NA
+2018020641,8476432,Boone Jenner,Columbus Blue Jackets,Florida Panthers,C,17:12,1,0,2,4,0,0,0,7,14,0,1,0,0,1,1,14:35,1:53,0:44,50
+2018020641,8475233,David Savard,Columbus Blue Jackets,Florida Panthers,D,18:49,0,0,2,1,0,0,0,0,0,0,0,0,0,2,0,17:16,0:00,1:33,NA
+2018020641,8478567,Dean Kukan,Columbus Blue Jackets,Florida Panthers,D,13:52,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,13:52,0:00,0:00,NA
+2018020641,8474062,Riley Nash,Columbus Blue Jackets,Florida Panthers,C,8:55,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-1,8:38,0:17,0:00,NA
+2018020641,8477495,Seth Jones,Columbus Blue Jackets,Florida Panthers,D,24:23,0,1,1,2,0,0,2,0,0,0,1,0,0,2,1,22:14,2:09,0:00,NA
+2018020641,8478550,Artemi Panarin,Columbus Blue Jackets,Florida Panthers,LW,19:57,1,0,3,1,0,0,0,0,0,0,0,0,0,1,0,18:07,1:50,0:00,NA
+2018020641,8479400,Pierre-Luc Dubois,Columbus Blue Jackets,Florida Panthers,C,18:35,1,0,4,0,0,0,0,6,16,2,0,0,0,0,-1,16:45,1:50,0:00,37.5
+2018020641,8471273,Brandon Dubinsky,Columbus Blue Jackets,Florida Panthers,C,10:36,0,1,3,1,0,0,0,10,15,1,0,0,0,0,0,9:40,0:17,0:39,66.67
+2018020641,8478541,Markus Hannikainen,Columbus Blue Jackets,Florida Panthers,LW,9:00,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,8:02,0:17,0:41,NA
+2018020641,8478460,Zach Werenski,Columbus Blue Jackets,Florida Panthers,D,24:29,0,0,1,1,0,0,0,0,0,1,0,0,0,2,-1,21:47,1:34,1:08,NA
+2018020641,8480762,Eric Robinson,Columbus Blue Jackets,Florida Panthers,LW,12:56,0,0,1,3,0,0,0,0,0,0,0,0,0,0,1,12:56,0:00,0:00,NA

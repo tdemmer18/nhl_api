@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020300,8471769,Niklas Hjalmarsson,Arizona Coyotes,D,21:49,0,0,0,2,0,0,0,0,0,0,1,0,0,3,-1,19:32,0:00,2:17,NA
-2018020300,8474613,Derek Stepan,Arizona Coyotes,C,20:49,0,0,3,1,0,0,0,12,19,2,0,0,0,0,0,14:38,5:01,1:10,63.16
-2018020300,8475209,Richard Panik,Arizona Coyotes,RW,19:26,0,0,2,1,0,0,0,0,0,0,1,0,0,1,1,14:41,3:19,1:26,NA
-2018020300,8477943,Brendan Perlini,Arizona Coyotes,LW,14:15,0,0,2,3,0,0,0,0,1,1,0,0,0,0,-1,12:26,1:49,0:00,0
-2018020300,8470755,Brad Richardson,Arizona Coyotes,C,18:44,0,1,4,3,0,0,0,9,12,0,2,0,0,1,1,15:57,1:02,1:45,75
-2018020300,8473546,Michael Grabner,Arizona Coyotes,RW,14:27,0,0,4,0,0,0,0,0,0,2,0,0,0,0,-1,12:58,0:00,1:29,NA
-2018020300,8477851,Jordan Oesterle,Arizona Coyotes,D,15:08,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,12:43,1:50,0:35,NA
-2018020300,8476994,Vinnie Hinostroza,Arizona Coyotes,C,20:07,1,0,2,2,0,0,0,1,1,1,0,0,0,0,1,15:11,4:56,0:00,100
-2018020300,8476851,Alex Galchenyuk,Arizona Coyotes,C,17:29,0,0,2,1,0,0,0,4,7,0,0,0,0,0,-1,13:52,3:28,0:09,57.14
-2018020300,8475246,Kevin Connauton,Arizona Coyotes,D,20:10,0,0,3,1,0,0,0,0,0,0,2,0,0,0,0,17:41,0:00,2:29,NA
-2018020300,8478474,Lawson Crouse,Arizona Coyotes,LW,9:27,0,0,0,2,0,0,2,1,1,0,0,0,0,1,-1,8:28,0:59,0:00,100
-2018020300,8478440,Dylan Strome,Arizona Coyotes,C,7:47,0,0,1,0,0,0,0,4,6,0,0,0,0,0,-1,5:42,2:05,0:00,66.67
-2018020300,8478432,Christian Fischer,Arizona Coyotes,RW,7:56,0,0,2,2,0,0,0,0,0,0,1,0,0,0,0,7:01,0:55,0:00,NA
-2018020300,8477541,Dakota Mermis,Arizona Coyotes,D,11:20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11:20,0:00,0:00,NA
-2018020300,8479343,Clayton Keller,Arizona Coyotes,C,21:59,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,17:00,4:50,0:09,NA
-2018020300,8475171,Oliver Ekman-Larsson,Arizona Coyotes,D,26:20,0,0,3,2,0,0,2,0,0,1,1,0,0,2,-2,20:44,5:24,0:12,NA
-2018020300,8476393,Nick Cousins,Arizona Coyotes,C,11:30,0,0,2,1,0,0,0,0,0,0,1,0,0,0,-1,11:30,0:00,0:00,NA
-2018020300,8480950,Ilya Lyubushkin,Arizona Coyotes,D,18:45,0,0,0,3,0,0,0,0,0,0,0,0,0,4,0,18:10,0:00,0:35,NA
-2018020300,8473419,Brad Marchand,Boston Bruins,LW,21:37,1,0,4,0,0,0,0,1,2,1,1,0,0,0,0,14:55,2:17,4:25,50
-2018020300,8475807,Joakim Nordstrom,Boston Bruins,C,15:56,0,0,1,1,0,0,0,2,8,0,0,0,0,1,0,13:31,0:00,2:25,25
-2018020300,8471276,David Krejci,Boston Bruins,C,15:12,0,0,0,0,0,0,2,3,12,0,1,0,0,1,0,13:33,1:39,0:00,25
-2018020300,8470655,David Backes,Boston Bruins,RW,11:41,0,0,2,2,0,0,0,3,5,0,0,0,0,0,0,10:16,1:25,0:00,60
-2018020300,8478569,Noel Acciari,Boston Bruins,C,15:11,1,0,2,2,0,0,0,2,6,0,0,0,0,3,0,9:51,0:00,5:20,33.33
-2018020300,8478415,Jakub Zboril,Boston Bruins,D,10:59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10:55,0:00,0:04,NA
-2018020300,8477956,David Pastrnak,Boston Bruins,RW,18:40,0,0,4,0,0,0,0,0,0,0,2,0,0,2,0,15:48,2:52,0:00,NA
-2018020300,8478417,Jakob Forsbacka Karlsson,Boston Bruins,C,10:37,0,1,1,0,0,0,0,3,8,0,0,0,0,0,0,10:37,0:00,0:00,37.5
-2018020300,8478468,Jeremy Lauzon,Boston Bruins,D,23:29,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,18:52,0:12,4:25,NA
-2018020300,8475780,Chris Wagner,Boston Bruins,RW,12:21,0,0,2,6,0,0,0,0,1,0,0,0,0,1,0,10:51,0:00,1:30,0
-2018020300,8476792,Torey Krug,Boston Bruins,D,25:36,0,0,0,0,0,0,0,0,0,1,1,0,0,1,2,21:03,2:08,2:25,NA
-2018020300,8476891,Matt Grzelcyk,Boston Bruins,D,22:53,0,0,0,1,0,0,2,0,0,1,1,0,0,0,0,18:47,1:06,3:00,NA
-2018020300,8476374,Sean Kuraly,Boston Bruins,C,13:01,0,0,1,2,0,0,2,2,5,0,0,0,0,2,1,13:01,0:00,0:00,40
-2018020300,8478498,Jake DeBrusk,Boston Bruins,LW,15:20,0,1,3,2,0,0,0,0,0,0,0,0,0,0,1,13:40,1:40,0:00,NA
-2018020300,8477365,Connor Clifton,Boston Bruins,D,20:02,0,0,0,5,0,0,2,0,0,0,1,0,0,0,1,18:45,0:12,1:05,NA
-2018020300,8478046,Danton Heinen,Boston Bruins,C,11:26,0,0,1,1,0,0,0,0,0,1,2,0,0,0,1,10:12,1:14,0:00,NA
-2018020300,8474000,Steven Kampfer,Boston Bruins,D,14:17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,11:36,0:00,2:41,NA
-2018020300,8478075,Anders Bjork,Boston Bruins,LW,13:56,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,13:21,0:35,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020300,8471769,Niklas Hjalmarsson,Arizona Coyotes,Boston Bruins,D,21:49,0,0,0,2,0,0,0,0,0,0,1,0,0,3,-1,19:32,0:00,2:17,NA
+2018020300,8474613,Derek Stepan,Arizona Coyotes,Boston Bruins,C,20:49,0,0,3,1,0,0,0,12,19,2,0,0,0,0,0,14:38,5:01,1:10,63.16
+2018020300,8475209,Richard Panik,Arizona Coyotes,Boston Bruins,RW,19:26,0,0,2,1,0,0,0,0,0,0,1,0,0,1,1,14:41,3:19,1:26,NA
+2018020300,8477943,Brendan Perlini,Arizona Coyotes,Boston Bruins,LW,14:15,0,0,2,3,0,0,0,0,1,1,0,0,0,0,-1,12:26,1:49,0:00,0
+2018020300,8470755,Brad Richardson,Arizona Coyotes,Boston Bruins,C,18:44,0,1,4,3,0,0,0,9,12,0,2,0,0,1,1,15:57,1:02,1:45,75
+2018020300,8473546,Michael Grabner,Arizona Coyotes,Boston Bruins,RW,14:27,0,0,4,0,0,0,0,0,0,2,0,0,0,0,-1,12:58,0:00,1:29,NA
+2018020300,8477851,Jordan Oesterle,Arizona Coyotes,Boston Bruins,D,15:08,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,12:43,1:50,0:35,NA
+2018020300,8476994,Vinnie Hinostroza,Arizona Coyotes,Boston Bruins,C,20:07,1,0,2,2,0,0,0,1,1,1,0,0,0,0,1,15:11,4:56,0:00,100
+2018020300,8476851,Alex Galchenyuk,Arizona Coyotes,Boston Bruins,C,17:29,0,0,2,1,0,0,0,4,7,0,0,0,0,0,-1,13:52,3:28,0:09,57.14
+2018020300,8475246,Kevin Connauton,Arizona Coyotes,Boston Bruins,D,20:10,0,0,3,1,0,0,0,0,0,0,2,0,0,0,0,17:41,0:00,2:29,NA
+2018020300,8478474,Lawson Crouse,Arizona Coyotes,Boston Bruins,LW,9:27,0,0,0,2,0,0,2,1,1,0,0,0,0,1,-1,8:28,0:59,0:00,100
+2018020300,8478440,Dylan Strome,Arizona Coyotes,Boston Bruins,C,7:47,0,0,1,0,0,0,0,4,6,0,0,0,0,0,-1,5:42,2:05,0:00,66.67
+2018020300,8478432,Christian Fischer,Arizona Coyotes,Boston Bruins,RW,7:56,0,0,2,2,0,0,0,0,0,0,1,0,0,0,0,7:01,0:55,0:00,NA
+2018020300,8477541,Dakota Mermis,Arizona Coyotes,Boston Bruins,D,11:20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11:20,0:00,0:00,NA
+2018020300,8479343,Clayton Keller,Arizona Coyotes,Boston Bruins,C,21:59,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,17:00,4:50,0:09,NA
+2018020300,8475171,Oliver Ekman-Larsson,Arizona Coyotes,Boston Bruins,D,26:20,0,0,3,2,0,0,2,0,0,1,1,0,0,2,-2,20:44,5:24,0:12,NA
+2018020300,8476393,Nick Cousins,Arizona Coyotes,Boston Bruins,C,11:30,0,0,2,1,0,0,0,0,0,0,1,0,0,0,-1,11:30,0:00,0:00,NA
+2018020300,8480950,Ilya Lyubushkin,Arizona Coyotes,Boston Bruins,D,18:45,0,0,0,3,0,0,0,0,0,0,0,0,0,4,0,18:10,0:00,0:35,NA
+2018020300,8473419,Brad Marchand,Boston Bruins,Arizona Coyotes,LW,21:37,1,0,4,0,0,0,0,1,2,1,1,0,0,0,0,14:55,2:17,4:25,50
+2018020300,8475807,Joakim Nordstrom,Boston Bruins,Arizona Coyotes,C,15:56,0,0,1,1,0,0,0,2,8,0,0,0,0,1,0,13:31,0:00,2:25,25
+2018020300,8471276,David Krejci,Boston Bruins,Arizona Coyotes,C,15:12,0,0,0,0,0,0,2,3,12,0,1,0,0,1,0,13:33,1:39,0:00,25
+2018020300,8470655,David Backes,Boston Bruins,Arizona Coyotes,RW,11:41,0,0,2,2,0,0,0,3,5,0,0,0,0,0,0,10:16,1:25,0:00,60
+2018020300,8478569,Noel Acciari,Boston Bruins,Arizona Coyotes,C,15:11,1,0,2,2,0,0,0,2,6,0,0,0,0,3,0,9:51,0:00,5:20,33.33
+2018020300,8478415,Jakub Zboril,Boston Bruins,Arizona Coyotes,D,10:59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10:55,0:00,0:04,NA
+2018020300,8477956,David Pastrnak,Boston Bruins,Arizona Coyotes,RW,18:40,0,0,4,0,0,0,0,0,0,0,2,0,0,2,0,15:48,2:52,0:00,NA
+2018020300,8478417,Jakob Forsbacka Karlsson,Boston Bruins,Arizona Coyotes,C,10:37,0,1,1,0,0,0,0,3,8,0,0,0,0,0,0,10:37,0:00,0:00,37.5
+2018020300,8478468,Jeremy Lauzon,Boston Bruins,Arizona Coyotes,D,23:29,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,18:52,0:12,4:25,NA
+2018020300,8475780,Chris Wagner,Boston Bruins,Arizona Coyotes,RW,12:21,0,0,2,6,0,0,0,0,1,0,0,0,0,1,0,10:51,0:00,1:30,0
+2018020300,8476792,Torey Krug,Boston Bruins,Arizona Coyotes,D,25:36,0,0,0,0,0,0,0,0,0,1,1,0,0,1,2,21:03,2:08,2:25,NA
+2018020300,8476891,Matt Grzelcyk,Boston Bruins,Arizona Coyotes,D,22:53,0,0,0,1,0,0,2,0,0,1,1,0,0,0,0,18:47,1:06,3:00,NA
+2018020300,8476374,Sean Kuraly,Boston Bruins,Arizona Coyotes,C,13:01,0,0,1,2,0,0,2,2,5,0,0,0,0,2,1,13:01,0:00,0:00,40
+2018020300,8478498,Jake DeBrusk,Boston Bruins,Arizona Coyotes,LW,15:20,0,1,3,2,0,0,0,0,0,0,0,0,0,0,1,13:40,1:40,0:00,NA
+2018020300,8477365,Connor Clifton,Boston Bruins,Arizona Coyotes,D,20:02,0,0,0,5,0,0,2,0,0,0,1,0,0,0,1,18:45,0:12,1:05,NA
+2018020300,8478046,Danton Heinen,Boston Bruins,Arizona Coyotes,C,11:26,0,0,1,1,0,0,0,0,0,1,2,0,0,0,1,10:12,1:14,0:00,NA
+2018020300,8474000,Steven Kampfer,Boston Bruins,Arizona Coyotes,D,14:17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,11:36,0:00,2:41,NA
+2018020300,8478075,Anders Bjork,Boston Bruins,Arizona Coyotes,LW,13:56,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,13:21,0:35,0:00,NA

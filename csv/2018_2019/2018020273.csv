@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020273,8470607,Brent Seabrook,Chicago Blackhawks,D,22:12,0,1,2,1,1,0,0,0,0,0,1,0,0,3,0,19:31,1:41,1:00,NA
-2018020273,8476979,Erik Gustafsson,Chicago Blackhawks,D,19:54,0,0,2,1,0,0,0,0,0,1,1,0,0,0,0,19:00,0:54,0:00,NA
-2018020273,8473604,Jonathan Toews,Chicago Blackhawks,C,19:58,1,0,0,0,0,1,0,13,21,0,0,0,0,0,0,18:06,1:41,0:11,61.9
-2018020273,8470543,Chris Kunitz,Chicago Blackhawks,LW,10:11,0,0,1,1,0,0,0,1,1,1,0,0,0,0,0,9:43,0:00,0:28,100
-2018020273,8476438,Brandon Saad,Chicago Blackhawks,LW,14:51,0,0,3,0,0,0,0,0,1,1,0,0,0,0,0,14:12,0:00,0:39,0
-2018020273,8479337,Alex DeBrincat,Chicago Blackhawks,LW,13:46,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,12:52,0:54,0:00,0
-2018020273,8475430,Brandon Manning,Chicago Blackhawks,D,15:09,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,14:09,0:00,1:00,NA
-2018020273,8470281,Duncan Keith,Chicago Blackhawks,D,24:30,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,22:51,0:39,1:00,NA
-2018020273,8477366,Luke Johnson,Chicago Blackhawks,C,10:18,0,0,0,4,0,0,0,3,4,0,0,0,0,0,0,9:46,0:00,0:32,75
-2018020273,8474141,Patrick Kane,Chicago Blackhawks,RW,22:26,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,19:51,2:35,0:00,NA
-2018020273,8477951,Nick Schmaltz,Chicago Blackhawks,C,19:19,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,17:38,1:41,0:00,NA
-2018020273,8477401,John Hayden,Chicago Blackhawks,RW,10:59,0,0,2,3,0,0,2,0,0,0,0,0,0,0,0,10:59,0:00,0:00,NA
-2018020273,8480946,Dominik Kahun,Chicago Blackhawks,C,13:01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,13:01,0:00,0:00,NA
-2018020273,8473573,Artem Anisimov,Chicago Blackhawks,C,15:42,0,0,2,0,0,0,0,4,9,0,0,0,0,0,0,13:59,0:54,0:49,44.44
-2018020273,8478561,Andreas Martinsen,Chicago Blackhawks,LW,11:29,0,0,0,7,0,0,0,0,0,0,0,0,0,2,0,10:57,0:00,0:32,NA
-2018020273,8478055,Gustav Forsling,Chicago Blackhawks,D,15:49,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,14:49,0:00,1:00,NA
-2018020273,8480144,David Kampf,Chicago Blackhawks,C,16:00,0,0,1,1,0,0,0,7,13,0,0,0,0,1,0,15:11,0:00,0:49,53.85
-2018020273,8480035,Henri Jokiharju,Chicago Blackhawks,D,22:26,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,20:30,1:56,0:00,NA
-2018020273,8475768,Jaden Schwartz,St. Louis Blues,LW,20:44,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,19:45,0:59,0:00,NA
-2018020273,8474125,Carl Gunnarsson,St. Louis Blues,D,18:07,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,17:06,0:00,1:01,NA
-2018020273,8474565,Alex Pietrangelo,St. Louis Blues,D,24:31,0,0,2,1,0,0,0,0,0,0,0,0,0,6,0,22:45,0:45,1:01,NA
-2018020273,8476897,Oskar Sundqvist,St. Louis Blues,C,9:18,0,0,1,0,0,0,0,1,4,0,0,0,0,1,0,8:35,0:00,0:43,25
-2018020273,8477964,Ivan Barbashev,St. Louis Blues,C,9:41,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,8:23,0:00,1:18,0
-2018020273,8475765,Vladimir Tarasenko,St. Louis Blues,RW,18:53,0,0,3,2,0,0,2,0,0,1,0,0,0,1,0,17:52,1:01,0:00,NA
-2018020273,8470257,Alexander Steen,St. Louis Blues,LW,19:17,0,0,1,2,0,0,0,0,1,0,0,0,0,1,0,15:25,2:00,1:52,0
-2018020273,8478407,Vince Dunn,St. Louis Blues,D,20:58,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,19:43,1:15,0:00,NA
-2018020273,8477952,Robby Fabbri,St. Louis Blues,C,16:12,0,0,3,3,0,0,0,0,0,1,0,0,0,0,0,15:13,0:59,0:00,NA
-2018020273,8475158,Ryan O'Reilly,St. Louis Blues,C,21:07,0,0,2,1,0,0,0,7,16,2,0,0,0,2,0,18:49,1:01,1:17,43.75
-2018020273,8474102,David Perron,St. Louis Blues,LW,14:49,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,13:50,0:59,0:00,NA
-2018020273,8474034,Pat Maroon,St. Louis Blues,LW,11:19,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,10:18,1:01,0:00,NA
-2018020273,8475098,Tyler Bozak,St. Louis Blues,C,16:12,0,0,2,3,0,0,0,9,14,0,0,0,0,0,0,16:12,0:00,0:00,64.29
-2018020273,8476441,Joel Edmundson,St. Louis Blues,D,16:29,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,15:54,0:00,0:35,NA
-2018020273,8470151,Jay Bouwmeester,St. Louis Blues,D,15:56,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,14:22,0:00,1:34,NA
-2018020273,8476892,Colton Parayko,St. Louis Blues,D,20:16,0,0,3,4,0,0,0,0,0,0,1,0,0,1,0,19:17,0:00,0:59,NA
-2018020273,8477482,Zach Sanford,St. Louis Blues,LW,11:06,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,11:06,0:00,0:00,NA
-2018020273,8480023,Robert Thomas,St. Louis Blues,C,13:55,0,0,1,0,0,0,0,5,13,1,0,0,0,0,0,13:55,0:00,0:00,38.46
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020273,8470607,Brent Seabrook,Chicago Blackhawks,St. Louis Blues,D,22:12,0,1,2,1,1,0,0,0,0,0,1,0,0,3,0,19:31,1:41,1:00,NA
+2018020273,8476979,Erik Gustafsson,Chicago Blackhawks,St. Louis Blues,D,19:54,0,0,2,1,0,0,0,0,0,1,1,0,0,0,0,19:00,0:54,0:00,NA
+2018020273,8473604,Jonathan Toews,Chicago Blackhawks,St. Louis Blues,C,19:58,1,0,0,0,0,1,0,13,21,0,0,0,0,0,0,18:06,1:41,0:11,61.9
+2018020273,8470543,Chris Kunitz,Chicago Blackhawks,St. Louis Blues,LW,10:11,0,0,1,1,0,0,0,1,1,1,0,0,0,0,0,9:43,0:00,0:28,100
+2018020273,8476438,Brandon Saad,Chicago Blackhawks,St. Louis Blues,LW,14:51,0,0,3,0,0,0,0,0,1,1,0,0,0,0,0,14:12,0:00,0:39,0
+2018020273,8479337,Alex DeBrincat,Chicago Blackhawks,St. Louis Blues,LW,13:46,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,12:52,0:54,0:00,0
+2018020273,8475430,Brandon Manning,Chicago Blackhawks,St. Louis Blues,D,15:09,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,14:09,0:00,1:00,NA
+2018020273,8470281,Duncan Keith,Chicago Blackhawks,St. Louis Blues,D,24:30,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,22:51,0:39,1:00,NA
+2018020273,8477366,Luke Johnson,Chicago Blackhawks,St. Louis Blues,C,10:18,0,0,0,4,0,0,0,3,4,0,0,0,0,0,0,9:46,0:00,0:32,75
+2018020273,8474141,Patrick Kane,Chicago Blackhawks,St. Louis Blues,RW,22:26,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,19:51,2:35,0:00,NA
+2018020273,8477951,Nick Schmaltz,Chicago Blackhawks,St. Louis Blues,C,19:19,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,17:38,1:41,0:00,NA
+2018020273,8477401,John Hayden,Chicago Blackhawks,St. Louis Blues,RW,10:59,0,0,2,3,0,0,2,0,0,0,0,0,0,0,0,10:59,0:00,0:00,NA
+2018020273,8480946,Dominik Kahun,Chicago Blackhawks,St. Louis Blues,C,13:01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,13:01,0:00,0:00,NA
+2018020273,8473573,Artem Anisimov,Chicago Blackhawks,St. Louis Blues,C,15:42,0,0,2,0,0,0,0,4,9,0,0,0,0,0,0,13:59,0:54,0:49,44.44
+2018020273,8478561,Andreas Martinsen,Chicago Blackhawks,St. Louis Blues,LW,11:29,0,0,0,7,0,0,0,0,0,0,0,0,0,2,0,10:57,0:00,0:32,NA
+2018020273,8478055,Gustav Forsling,Chicago Blackhawks,St. Louis Blues,D,15:49,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,14:49,0:00,1:00,NA
+2018020273,8480144,David Kampf,Chicago Blackhawks,St. Louis Blues,C,16:00,0,0,1,1,0,0,0,7,13,0,0,0,0,1,0,15:11,0:00,0:49,53.85
+2018020273,8480035,Henri Jokiharju,Chicago Blackhawks,St. Louis Blues,D,22:26,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,20:30,1:56,0:00,NA
+2018020273,8475768,Jaden Schwartz,St. Louis Blues,Chicago Blackhawks,LW,20:44,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,19:45,0:59,0:00,NA
+2018020273,8474125,Carl Gunnarsson,St. Louis Blues,Chicago Blackhawks,D,18:07,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,17:06,0:00,1:01,NA
+2018020273,8474565,Alex Pietrangelo,St. Louis Blues,Chicago Blackhawks,D,24:31,0,0,2,1,0,0,0,0,0,0,0,0,0,6,0,22:45,0:45,1:01,NA
+2018020273,8476897,Oskar Sundqvist,St. Louis Blues,Chicago Blackhawks,C,9:18,0,0,1,0,0,0,0,1,4,0,0,0,0,1,0,8:35,0:00,0:43,25
+2018020273,8477964,Ivan Barbashev,St. Louis Blues,Chicago Blackhawks,C,9:41,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,8:23,0:00,1:18,0
+2018020273,8475765,Vladimir Tarasenko,St. Louis Blues,Chicago Blackhawks,RW,18:53,0,0,3,2,0,0,2,0,0,1,0,0,0,1,0,17:52,1:01,0:00,NA
+2018020273,8470257,Alexander Steen,St. Louis Blues,Chicago Blackhawks,LW,19:17,0,0,1,2,0,0,0,0,1,0,0,0,0,1,0,15:25,2:00,1:52,0
+2018020273,8478407,Vince Dunn,St. Louis Blues,Chicago Blackhawks,D,20:58,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,19:43,1:15,0:00,NA
+2018020273,8477952,Robby Fabbri,St. Louis Blues,Chicago Blackhawks,C,16:12,0,0,3,3,0,0,0,0,0,1,0,0,0,0,0,15:13,0:59,0:00,NA
+2018020273,8475158,Ryan O'Reilly,St. Louis Blues,Chicago Blackhawks,C,21:07,0,0,2,1,0,0,0,7,16,2,0,0,0,2,0,18:49,1:01,1:17,43.75
+2018020273,8474102,David Perron,St. Louis Blues,Chicago Blackhawks,LW,14:49,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,13:50,0:59,0:00,NA
+2018020273,8474034,Pat Maroon,St. Louis Blues,Chicago Blackhawks,LW,11:19,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,10:18,1:01,0:00,NA
+2018020273,8475098,Tyler Bozak,St. Louis Blues,Chicago Blackhawks,C,16:12,0,0,2,3,0,0,0,9,14,0,0,0,0,0,0,16:12,0:00,0:00,64.29
+2018020273,8476441,Joel Edmundson,St. Louis Blues,Chicago Blackhawks,D,16:29,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,15:54,0:00,0:35,NA
+2018020273,8470151,Jay Bouwmeester,St. Louis Blues,Chicago Blackhawks,D,15:56,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,14:22,0:00,1:34,NA
+2018020273,8476892,Colton Parayko,St. Louis Blues,Chicago Blackhawks,D,20:16,0,0,3,4,0,0,0,0,0,0,1,0,0,1,0,19:17,0:00,0:59,NA
+2018020273,8477482,Zach Sanford,St. Louis Blues,Chicago Blackhawks,LW,11:06,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,11:06,0:00,0:00,NA
+2018020273,8480023,Robert Thomas,St. Louis Blues,Chicago Blackhawks,C,13:55,0,0,1,0,0,0,0,5,13,1,0,0,0,0,0,13:55,0:00,0:00,38.46

@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020677,8476907,Mackenzie MacEachern,St. Louis Blues,LW,6:24,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,6:24,0:00,0:00,NA
-2018020677,8475768,Jaden Schwartz,St. Louis Blues,LW,18:38,0,0,3,1,0,0,0,0,0,1,1,0,0,0,0,15:13,2:36,0:49,NA
-2018020677,8474125,Carl Gunnarsson,St. Louis Blues,D,16:37,1,0,1,1,0,0,0,0,0,0,0,0,1,2,1,11:38,0:00,4:59,NA
-2018020677,8474565,Alex Pietrangelo,St. Louis Blues,D,21:27,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,13:01,4:49,3:37,NA
-2018020677,8476897,Oskar Sundqvist,St. Louis Blues,C,19:02,1,1,2,0,0,0,0,3,5,1,0,1,0,0,2,10:46,3:03,5:13,60
-2018020677,8477964,Ivan Barbashev,St. Louis Blues,C,13:52,0,0,0,0,0,0,0,5,7,1,0,0,0,0,0,10:54,0:00,2:58,71.43
-2018020677,8475765,Vladimir Tarasenko,St. Louis Blues,RW,18:27,1,0,3,0,0,1,0,0,0,1,0,0,0,2,0,14:16,4:11,0:00,NA
-2018020677,8478104,Sammy Blais,St. Louis Blues,LW,7:31,0,1,1,2,0,0,0,0,0,1,0,0,0,2,1,7:31,0:00,0:00,NA
-2018020677,8477952,Robby Fabbri,St. Louis Blues,C,14:18,1,0,1,0,0,0,2,0,0,0,0,0,0,0,1,11:23,2:55,0:00,NA
-2018020677,8475158,Ryan O'Reilly,St. Louis Blues,C,20:47,2,0,5,0,0,1,0,22,28,4,0,0,1,0,2,12:52,3:59,3:56,78.57
-2018020677,8474102,David Perron,St. Louis Blues,LW,17:20,1,0,4,0,0,0,2,0,0,0,0,0,0,0,1,13:20,3:59,0:01,NA
-2018020677,8474145,Robert Bortuzzo,St. Louis Blues,D,17:00,0,0,2,2,0,0,2,0,0,0,0,0,0,0,1,14:04,0:05,2:51,NA
-2018020677,8476441,Joel Edmundson,St. Louis Blues,D,17:02,0,0,1,2,0,0,4,0,0,0,1,0,0,3,1,14:19,0:30,2:13,NA
-2018020677,8470151,Jay Bouwmeester,St. Louis Blues,D,19:09,0,1,1,0,0,0,2,0,0,1,0,0,0,1,1,17:34,0:00,1:35,NA
-2018020677,8476892,Colton Parayko,St. Louis Blues,D,23:16,0,0,1,0,0,0,0,0,0,1,0,0,0,3,1,18:46,2:19,2:11,NA
-2018020677,8475170,Brayden Schenn,St. Louis Blues,C,17:11,0,0,2,0,0,0,0,7,17,0,0,0,0,1,0,13:42,2:55,0:34,41.18
-2018020677,8477482,Zach Sanford,St. Louis Blues,LW,17:17,0,0,0,0,0,0,2,1,1,1,0,0,0,3,1,13:07,2:27,1:43,100
-2018020677,8480023,Robert Thomas,St. Louis Blues,C,1:55,0,1,2,0,1,0,0,1,1,0,0,0,0,0,0,1:13,0:42,0:00,100
-2018020677,8473507,Jeff Petry,Montréal Canadiens,D,24:57,1,0,1,2,0,1,0,0,0,0,3,0,0,0,-1,17:14,3:46,3:57,NA
-2018020677,8474818,Jordie Benn,Montréal Canadiens,D,14:39,0,0,0,2,0,0,2,0,0,1,0,0,0,1,-1,12:02,0:09,2:28,NA
-2018020677,8475808,Michael Chaput,Montréal Canadiens,C,13:25,0,0,1,0,0,0,0,3,9,0,0,0,0,1,-1,9:42,0:36,3:07,33.33
-2018020677,8480829,Jesperi Kotkaniemi,Montréal Canadiens,C,15:00,1,0,1,0,0,1,2,3,13,0,1,0,0,0,0,12:25,2:35,0:00,23.08
-2018020677,8476967,Brett Kulak,Montréal Canadiens,D,15:11,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,15:00,0:11,0:00,NA
-2018020677,8474038,Paul Byron,Montréal Canadiens,LW,16:25,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,10:32,2:33,3:20,NA
-2018020677,8475848,Brendan Gallagher,Montréal Canadiens,RW,15:18,0,1,6,1,1,0,0,0,0,0,0,0,0,0,0,11:38,3:40,0:00,NA
-2018020677,8477503,Max Domi,Montréal Canadiens,C,17:29,0,0,1,3,0,0,2,3,12,0,1,0,0,1,-2,11:56,5:25,0:08,25
-2018020677,8476479,Phillip Danault,Montréal Canadiens,C,14:59,0,0,3,1,0,0,2,8,19,2,0,0,0,0,0,11:56,0:00,3:03,42.11
-2018020677,8476469,Joel Armia,Montréal Canadiens,RW,17:20,0,0,1,1,0,0,0,0,1,0,0,0,0,0,-2,11:40,4:24,1:16,0
-2018020677,8470642,Shea Weber,Montréal Canadiens,D,23:46,0,0,0,3,0,0,2,0,0,0,0,0,0,0,-2,15:25,4:45,3:36,NA
-2018020677,8475844,Kenny Agostino,Montréal Canadiens,LW,11:44,0,0,0,3,0,0,0,0,0,1,0,0,0,0,-1,11:08,0:36,0:00,NA
-2018020677,8477476,Artturi Lehkonen,Montréal Canadiens,LW,14:42,0,0,2,0,0,0,2,0,0,1,0,0,0,0,-1,9:10,2:38,2:54,NA
-2018020677,8475235,Nicolas Deslauriers,Montréal Canadiens,LW,9:10,0,0,2,2,0,0,0,0,0,0,0,0,0,0,-1,8:51,0:19,0:00,NA
-2018020677,8473991,Karl Alzner,Montréal Canadiens,D,14:58,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-1,14:32,0:00,0:26,NA
-2018020677,8477494,Jonathan Drouin,Montréal Canadiens,LW,15:55,0,0,3,2,0,0,0,3,5,0,0,0,0,0,-1,10:38,5:17,0:00,60
-2018020677,8479376,Victor Mete,Montréal Canadiens,D,18:43,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,15:03,0:19,3:21,NA
-2018020677,8475193,Tomas Tatar,Montréal Canadiens,LW,16:22,0,0,3,0,0,0,0,0,0,2,0,0,0,0,-1,11:15,5:07,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020677,8476907,Mackenzie MacEachern,St. Louis Blues,Montréal Canadiens,LW,6:24,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,6:24,0:00,0:00,NA
+2018020677,8475768,Jaden Schwartz,St. Louis Blues,Montréal Canadiens,LW,18:38,0,0,3,1,0,0,0,0,0,1,1,0,0,0,0,15:13,2:36,0:49,NA
+2018020677,8474125,Carl Gunnarsson,St. Louis Blues,Montréal Canadiens,D,16:37,1,0,1,1,0,0,0,0,0,0,0,0,1,2,1,11:38,0:00,4:59,NA
+2018020677,8474565,Alex Pietrangelo,St. Louis Blues,Montréal Canadiens,D,21:27,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,13:01,4:49,3:37,NA
+2018020677,8476897,Oskar Sundqvist,St. Louis Blues,Montréal Canadiens,C,19:02,1,1,2,0,0,0,0,3,5,1,0,1,0,0,2,10:46,3:03,5:13,60
+2018020677,8477964,Ivan Barbashev,St. Louis Blues,Montréal Canadiens,C,13:52,0,0,0,0,0,0,0,5,7,1,0,0,0,0,0,10:54,0:00,2:58,71.43
+2018020677,8475765,Vladimir Tarasenko,St. Louis Blues,Montréal Canadiens,RW,18:27,1,0,3,0,0,1,0,0,0,1,0,0,0,2,0,14:16,4:11,0:00,NA
+2018020677,8478104,Sammy Blais,St. Louis Blues,Montréal Canadiens,LW,7:31,0,1,1,2,0,0,0,0,0,1,0,0,0,2,1,7:31,0:00,0:00,NA
+2018020677,8477952,Robby Fabbri,St. Louis Blues,Montréal Canadiens,C,14:18,1,0,1,0,0,0,2,0,0,0,0,0,0,0,1,11:23,2:55,0:00,NA
+2018020677,8475158,Ryan O'Reilly,St. Louis Blues,Montréal Canadiens,C,20:47,2,0,5,0,0,1,0,22,28,4,0,0,1,0,2,12:52,3:59,3:56,78.57
+2018020677,8474102,David Perron,St. Louis Blues,Montréal Canadiens,LW,17:20,1,0,4,0,0,0,2,0,0,0,0,0,0,0,1,13:20,3:59,0:01,NA
+2018020677,8474145,Robert Bortuzzo,St. Louis Blues,Montréal Canadiens,D,17:00,0,0,2,2,0,0,2,0,0,0,0,0,0,0,1,14:04,0:05,2:51,NA
+2018020677,8476441,Joel Edmundson,St. Louis Blues,Montréal Canadiens,D,17:02,0,0,1,2,0,0,4,0,0,0,1,0,0,3,1,14:19,0:30,2:13,NA
+2018020677,8470151,Jay Bouwmeester,St. Louis Blues,Montréal Canadiens,D,19:09,0,1,1,0,0,0,2,0,0,1,0,0,0,1,1,17:34,0:00,1:35,NA
+2018020677,8476892,Colton Parayko,St. Louis Blues,Montréal Canadiens,D,23:16,0,0,1,0,0,0,0,0,0,1,0,0,0,3,1,18:46,2:19,2:11,NA
+2018020677,8475170,Brayden Schenn,St. Louis Blues,Montréal Canadiens,C,17:11,0,0,2,0,0,0,0,7,17,0,0,0,0,1,0,13:42,2:55,0:34,41.18
+2018020677,8477482,Zach Sanford,St. Louis Blues,Montréal Canadiens,LW,17:17,0,0,0,0,0,0,2,1,1,1,0,0,0,3,1,13:07,2:27,1:43,100
+2018020677,8480023,Robert Thomas,St. Louis Blues,Montréal Canadiens,C,1:55,0,1,2,0,1,0,0,1,1,0,0,0,0,0,0,1:13,0:42,0:00,100
+2018020677,8473507,Jeff Petry,Montréal Canadiens,St. Louis Blues,D,24:57,1,0,1,2,0,1,0,0,0,0,3,0,0,0,-1,17:14,3:46,3:57,NA
+2018020677,8474818,Jordie Benn,Montréal Canadiens,St. Louis Blues,D,14:39,0,0,0,2,0,0,2,0,0,1,0,0,0,1,-1,12:02,0:09,2:28,NA
+2018020677,8475808,Michael Chaput,Montréal Canadiens,St. Louis Blues,C,13:25,0,0,1,0,0,0,0,3,9,0,0,0,0,1,-1,9:42,0:36,3:07,33.33
+2018020677,8480829,Jesperi Kotkaniemi,Montréal Canadiens,St. Louis Blues,C,15:00,1,0,1,0,0,1,2,3,13,0,1,0,0,0,0,12:25,2:35,0:00,23.08
+2018020677,8476967,Brett Kulak,Montréal Canadiens,St. Louis Blues,D,15:11,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,15:00,0:11,0:00,NA
+2018020677,8474038,Paul Byron,Montréal Canadiens,St. Louis Blues,LW,16:25,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,10:32,2:33,3:20,NA
+2018020677,8475848,Brendan Gallagher,Montréal Canadiens,St. Louis Blues,RW,15:18,0,1,6,1,1,0,0,0,0,0,0,0,0,0,0,11:38,3:40,0:00,NA
+2018020677,8477503,Max Domi,Montréal Canadiens,St. Louis Blues,C,17:29,0,0,1,3,0,0,2,3,12,0,1,0,0,1,-2,11:56,5:25,0:08,25
+2018020677,8476479,Phillip Danault,Montréal Canadiens,St. Louis Blues,C,14:59,0,0,3,1,0,0,2,8,19,2,0,0,0,0,0,11:56,0:00,3:03,42.11
+2018020677,8476469,Joel Armia,Montréal Canadiens,St. Louis Blues,RW,17:20,0,0,1,1,0,0,0,0,1,0,0,0,0,0,-2,11:40,4:24,1:16,0
+2018020677,8470642,Shea Weber,Montréal Canadiens,St. Louis Blues,D,23:46,0,0,0,3,0,0,2,0,0,0,0,0,0,0,-2,15:25,4:45,3:36,NA
+2018020677,8475844,Kenny Agostino,Montréal Canadiens,St. Louis Blues,LW,11:44,0,0,0,3,0,0,0,0,0,1,0,0,0,0,-1,11:08,0:36,0:00,NA
+2018020677,8477476,Artturi Lehkonen,Montréal Canadiens,St. Louis Blues,LW,14:42,0,0,2,0,0,0,2,0,0,1,0,0,0,0,-1,9:10,2:38,2:54,NA
+2018020677,8475235,Nicolas Deslauriers,Montréal Canadiens,St. Louis Blues,LW,9:10,0,0,2,2,0,0,0,0,0,0,0,0,0,0,-1,8:51,0:19,0:00,NA
+2018020677,8473991,Karl Alzner,Montréal Canadiens,St. Louis Blues,D,14:58,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-1,14:32,0:00,0:26,NA
+2018020677,8477494,Jonathan Drouin,Montréal Canadiens,St. Louis Blues,LW,15:55,0,0,3,2,0,0,0,3,5,0,0,0,0,0,-1,10:38,5:17,0:00,60
+2018020677,8479376,Victor Mete,Montréal Canadiens,St. Louis Blues,D,18:43,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,15:03,0:19,3:21,NA
+2018020677,8475193,Tomas Tatar,Montréal Canadiens,St. Louis Blues,LW,16:22,0,0,3,0,0,0,0,0,0,2,0,0,0,0,-1,11:15,5:07,0:00,NA

@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020310,8471724,Kris Letang,Pittsburgh Penguins,D,26:24,0,0,2,1,0,0,0,0,0,0,0,0,0,3,-1,19:48,4:07,2:29,NA
-2018020310,8475208,Brian Dumoulin,Pittsburgh Penguins,D,20:17,0,0,2,1,0,0,0,0,0,0,0,0,0,4,0,17:28,0:00,2:49,NA
-2018020310,8473544,Derick Brassard,Pittsburgh Penguins,C,16:20,0,1,4,1,0,0,2,16,23,1,1,0,0,0,1,14:02,2:18,0:00,69.57
-2018020310,8477404,Jake Guentzel,Pittsburgh Penguins,LW,16:14,0,1,6,3,0,0,0,0,1,2,0,0,0,1,1,13:19,2:55,0:00,0
-2018020310,8471887,Patric Hornqvist,Pittsburgh Penguins,RW,17:16,2,0,4,0,0,0,0,0,0,0,0,0,0,1,1,13:00,4:16,0:00,NA
-2018020310,8478866,Dominik Simon,Pittsburgh Penguins,C,9:11,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,9:10,0:01,0:00,NA
-2018020310,8473548,Phil Kessel,Pittsburgh Penguins,RW,20:40,0,1,4,0,0,0,0,0,0,2,0,0,0,0,0,16:24,4:16,0:00,NA
-2018020310,8475810,Bryan Rust,Pittsburgh Penguins,RW,13:51,0,0,1,5,0,0,0,0,0,1,1,0,0,0,-1,10:28,0:18,3:05,NA
-2018020310,8479944,Zach Aston-Reese,Pittsburgh Penguins,C,13:05,0,0,1,5,0,0,0,0,0,1,0,0,0,1,0,9:58,0:18,2:49,NA
-2018020310,8471215,Evgeni Malkin,Pittsburgh Penguins,C,21:05,2,0,4,2,0,0,0,4,13,2,5,0,0,0,-1,16:38,4:16,0:11,30.77
-2018020310,8471677,Jack Johnson,Pittsburgh Penguins,D,18:38,1,0,1,3,0,0,0,0,0,0,1,0,0,3,-1,14:20,1:07,3:11,NA
-2018020310,8476871,Tanner Pearson,Pittsburgh Penguins,LW,16:31,1,1,4,6,0,0,0,0,0,1,0,0,0,0,0,15:28,0:57,0:06,NA
-2018020310,8475772,Riley Sheahan,Pittsburgh Penguins,C,11:57,0,0,1,2,0,0,5,7,12,0,0,0,0,1,0,9:32,0:18,2:07,58.33
-2018020310,8474683,Derek Grant,Pittsburgh Penguins,C,13:42,0,0,1,4,0,0,0,7,16,0,0,0,0,0,-1,10:00,0:00,3:42,43.75
-2018020310,8478466,Daniel Sprong,Pittsburgh Penguins,RW,9:44,0,0,1,4,0,0,0,0,0,0,0,0,0,0,-1,8:48,0:56,0:00,NA
-2018020310,8476874,Olli Maatta,Pittsburgh Penguins,D,21:19,0,0,2,2,0,0,2,0,0,0,1,0,0,0,1,17:27,1:31,2:21,NA
-2018020310,8476467,Jamie Oleksiak,Pittsburgh Penguins,D,13:30,0,0,1,4,0,0,0,0,0,0,1,0,0,1,3,13:30,0:00,0:00,NA
-2018020310,8477244,Chad Ruhwedel,Pittsburgh Penguins,D,16:31,0,0,1,3,0,0,2,0,0,0,2,0,0,0,-3,15:20,0:01,1:10,NA
-2018020310,8469506,Jason Pominville,Buffalo Sabres,RW,15:00,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,12:50,2:10,0:00,0
-2018020310,8475728,Johan Larsson,Buffalo Sabres,C,15:03,0,0,1,1,0,0,0,12,18,0,0,0,0,0,-1,12:57,0:02,2:04,66.67
-2018020310,8474618,Marco Scandella,Buffalo Sabres,D,9:33,0,0,0,1,0,0,2,0,0,0,1,0,0,1,0,6:20,0:02,3:11,NA
-2018020310,8473534,Patrik Berglund,Buffalo Sabres,C,16:31,0,0,0,1,0,0,0,3,5,0,0,0,0,0,0,10:27,3:57,2:07,60
-2018020310,8477839,Conor Sheary,Buffalo Sabres,LW,12:36,1,0,2,1,0,0,0,0,0,0,0,0,0,0,2,10:33,2:03,0:00,NA
-2018020310,8476931,Jake McCabe,Buffalo Sabres,D,20:39,0,0,1,2,0,0,7,0,0,0,0,0,0,1,1,18:52,0:00,1:47,NA
-2018020310,8473449,Kyle Okposo,Buffalo Sabres,RW,12:50,2,0,2,0,0,0,0,1,2,0,0,0,0,0,0,10:47,2:03,0:00,50
-2018020310,8474567,Zach Bogosian,Buffalo Sabres,D,19:35,1,1,5,0,0,0,2,0,0,0,0,0,0,0,0,17:35,0:00,2:00,NA
-2018020310,8479999,Casey Mittelstadt,Buffalo Sabres,C,12:51,0,1,1,0,0,0,0,1,7,0,0,0,0,0,0,11:09,1:42,0:00,14.29
-2018020310,8471743,Vladimir Sobotka,Buffalo Sabres,C,14:48,0,0,4,4,0,0,0,5,12,1,0,0,0,1,1,12:22,0:00,2:26,41.67
-2018020310,8477933,Sam Reinhart,Buffalo Sabres,C,16:42,1,0,2,1,0,0,0,0,0,1,1,0,0,0,1,12:38,4:04,0:00,NA
-2018020310,8476878,Zemgus Girgensons,Buffalo Sabres,C,15:44,0,0,4,3,0,0,0,0,0,1,0,0,0,1,-1,12:56,0:02,2:46,NA
-2018020310,8477499,Rasmus Ristolainen,Buffalo Sabres,D,26:56,2,0,2,6,0,0,0,0,0,1,0,0,0,0,2,21:38,2:00,3:18,NA
-2018020310,8478403,Jack Eichel,Buffalo Sabres,C,18:24,1,1,6,1,0,0,0,7,16,0,1,0,0,0,1,13:27,4:16,0:41,43.75
-2018020310,8475784,Jeff Skinner,Buffalo Sabres,LW,15:35,1,0,3,0,0,0,0,1,2,1,1,0,0,0,-1,11:56,3:39,0:00,50
-2018020310,8479268,Casey Nelson,Buffalo Sabres,D,15:18,0,1,2,2,0,0,0,0,0,0,0,0,0,1,0,14:16,0:00,1:02,NA
-2018020310,8480839,Rasmus Dahlin,Buffalo Sabres,D,22:49,0,0,2,4,0,0,0,0,0,0,0,0,0,1,-2,18:49,4:00,0:00,NA
-2018020310,8479420,Tage Thompson,Buffalo Sabres,RW,15:21,0,1,1,1,0,0,0,1,2,0,0,0,0,1,0,15:08,0:00,0:13,50
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020310,8471724,Kris Letang,Pittsburgh Penguins,Buffalo Sabres,D,26:24,0,0,2,1,0,0,0,0,0,0,0,0,0,3,-1,19:48,4:07,2:29,NA
+2018020310,8475208,Brian Dumoulin,Pittsburgh Penguins,Buffalo Sabres,D,20:17,0,0,2,1,0,0,0,0,0,0,0,0,0,4,0,17:28,0:00,2:49,NA
+2018020310,8473544,Derick Brassard,Pittsburgh Penguins,Buffalo Sabres,C,16:20,0,1,4,1,0,0,2,16,23,1,1,0,0,0,1,14:02,2:18,0:00,69.57
+2018020310,8477404,Jake Guentzel,Pittsburgh Penguins,Buffalo Sabres,LW,16:14,0,1,6,3,0,0,0,0,1,2,0,0,0,1,1,13:19,2:55,0:00,0
+2018020310,8471887,Patric Hornqvist,Pittsburgh Penguins,Buffalo Sabres,RW,17:16,2,0,4,0,0,0,0,0,0,0,0,0,0,1,1,13:00,4:16,0:00,NA
+2018020310,8478866,Dominik Simon,Pittsburgh Penguins,Buffalo Sabres,C,9:11,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,9:10,0:01,0:00,NA
+2018020310,8473548,Phil Kessel,Pittsburgh Penguins,Buffalo Sabres,RW,20:40,0,1,4,0,0,0,0,0,0,2,0,0,0,0,0,16:24,4:16,0:00,NA
+2018020310,8475810,Bryan Rust,Pittsburgh Penguins,Buffalo Sabres,RW,13:51,0,0,1,5,0,0,0,0,0,1,1,0,0,0,-1,10:28,0:18,3:05,NA
+2018020310,8479944,Zach Aston-Reese,Pittsburgh Penguins,Buffalo Sabres,C,13:05,0,0,1,5,0,0,0,0,0,1,0,0,0,1,0,9:58,0:18,2:49,NA
+2018020310,8471215,Evgeni Malkin,Pittsburgh Penguins,Buffalo Sabres,C,21:05,2,0,4,2,0,0,0,4,13,2,5,0,0,0,-1,16:38,4:16,0:11,30.77
+2018020310,8471677,Jack Johnson,Pittsburgh Penguins,Buffalo Sabres,D,18:38,1,0,1,3,0,0,0,0,0,0,1,0,0,3,-1,14:20,1:07,3:11,NA
+2018020310,8476871,Tanner Pearson,Pittsburgh Penguins,Buffalo Sabres,LW,16:31,1,1,4,6,0,0,0,0,0,1,0,0,0,0,0,15:28,0:57,0:06,NA
+2018020310,8475772,Riley Sheahan,Pittsburgh Penguins,Buffalo Sabres,C,11:57,0,0,1,2,0,0,5,7,12,0,0,0,0,1,0,9:32,0:18,2:07,58.33
+2018020310,8474683,Derek Grant,Pittsburgh Penguins,Buffalo Sabres,C,13:42,0,0,1,4,0,0,0,7,16,0,0,0,0,0,-1,10:00,0:00,3:42,43.75
+2018020310,8478466,Daniel Sprong,Pittsburgh Penguins,Buffalo Sabres,RW,9:44,0,0,1,4,0,0,0,0,0,0,0,0,0,0,-1,8:48,0:56,0:00,NA
+2018020310,8476874,Olli Maatta,Pittsburgh Penguins,Buffalo Sabres,D,21:19,0,0,2,2,0,0,2,0,0,0,1,0,0,0,1,17:27,1:31,2:21,NA
+2018020310,8476467,Jamie Oleksiak,Pittsburgh Penguins,Buffalo Sabres,D,13:30,0,0,1,4,0,0,0,0,0,0,1,0,0,1,3,13:30,0:00,0:00,NA
+2018020310,8477244,Chad Ruhwedel,Pittsburgh Penguins,Buffalo Sabres,D,16:31,0,0,1,3,0,0,2,0,0,0,2,0,0,0,-3,15:20,0:01,1:10,NA
+2018020310,8469506,Jason Pominville,Buffalo Sabres,Pittsburgh Penguins,RW,15:00,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,12:50,2:10,0:00,0
+2018020310,8475728,Johan Larsson,Buffalo Sabres,Pittsburgh Penguins,C,15:03,0,0,1,1,0,0,0,12,18,0,0,0,0,0,-1,12:57,0:02,2:04,66.67
+2018020310,8474618,Marco Scandella,Buffalo Sabres,Pittsburgh Penguins,D,9:33,0,0,0,1,0,0,2,0,0,0,1,0,0,1,0,6:20,0:02,3:11,NA
+2018020310,8473534,Patrik Berglund,Buffalo Sabres,Pittsburgh Penguins,C,16:31,0,0,0,1,0,0,0,3,5,0,0,0,0,0,0,10:27,3:57,2:07,60
+2018020310,8477839,Conor Sheary,Buffalo Sabres,Pittsburgh Penguins,LW,12:36,1,0,2,1,0,0,0,0,0,0,0,0,0,0,2,10:33,2:03,0:00,NA
+2018020310,8476931,Jake McCabe,Buffalo Sabres,Pittsburgh Penguins,D,20:39,0,0,1,2,0,0,7,0,0,0,0,0,0,1,1,18:52,0:00,1:47,NA
+2018020310,8473449,Kyle Okposo,Buffalo Sabres,Pittsburgh Penguins,RW,12:50,2,0,2,0,0,0,0,1,2,0,0,0,0,0,0,10:47,2:03,0:00,50
+2018020310,8474567,Zach Bogosian,Buffalo Sabres,Pittsburgh Penguins,D,19:35,1,1,5,0,0,0,2,0,0,0,0,0,0,0,0,17:35,0:00,2:00,NA
+2018020310,8479999,Casey Mittelstadt,Buffalo Sabres,Pittsburgh Penguins,C,12:51,0,1,1,0,0,0,0,1,7,0,0,0,0,0,0,11:09,1:42,0:00,14.29
+2018020310,8471743,Vladimir Sobotka,Buffalo Sabres,Pittsburgh Penguins,C,14:48,0,0,4,4,0,0,0,5,12,1,0,0,0,1,1,12:22,0:00,2:26,41.67
+2018020310,8477933,Sam Reinhart,Buffalo Sabres,Pittsburgh Penguins,C,16:42,1,0,2,1,0,0,0,0,0,1,1,0,0,0,1,12:38,4:04,0:00,NA
+2018020310,8476878,Zemgus Girgensons,Buffalo Sabres,Pittsburgh Penguins,C,15:44,0,0,4,3,0,0,0,0,0,1,0,0,0,1,-1,12:56,0:02,2:46,NA
+2018020310,8477499,Rasmus Ristolainen,Buffalo Sabres,Pittsburgh Penguins,D,26:56,2,0,2,6,0,0,0,0,0,1,0,0,0,0,2,21:38,2:00,3:18,NA
+2018020310,8478403,Jack Eichel,Buffalo Sabres,Pittsburgh Penguins,C,18:24,1,1,6,1,0,0,0,7,16,0,1,0,0,0,1,13:27,4:16,0:41,43.75
+2018020310,8475784,Jeff Skinner,Buffalo Sabres,Pittsburgh Penguins,LW,15:35,1,0,3,0,0,0,0,1,2,1,1,0,0,0,-1,11:56,3:39,0:00,50
+2018020310,8479268,Casey Nelson,Buffalo Sabres,Pittsburgh Penguins,D,15:18,0,1,2,2,0,0,0,0,0,0,0,0,0,1,0,14:16,0:00,1:02,NA
+2018020310,8480839,Rasmus Dahlin,Buffalo Sabres,Pittsburgh Penguins,D,22:49,0,0,2,4,0,0,0,0,0,0,0,0,0,1,-2,18:49,4:00,0:00,NA
+2018020310,8479420,Tage Thompson,Buffalo Sabres,Pittsburgh Penguins,RW,15:21,0,1,1,1,0,0,0,1,2,0,0,0,0,1,0,15:08,0:00,0:13,50

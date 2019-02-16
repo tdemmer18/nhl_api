@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020173,8475218,Mattias Ekholm,Nashville Predators,D,23:26,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,19:16,0:57,3:13,NA
-2018020173,8475625,Matt Irwin,Nashville Predators,D,11:16,0,0,0,3,0,0,0,0,0,0,0,0,0,1,1,11:16,0:00,0:00,NA
-2018020173,8475714,Calle Jarnkrok,Nashville Predators,C,15:37,0,1,2,1,0,0,0,1,2,0,0,0,0,1,1,13:14,0:00,2:23,50
-2018020173,8476925,Colton Sissons,Nashville Predators,C,12:42,0,0,2,1,0,0,0,8,18,1,0,0,0,0,0,8:38,2:15,1:49,44.44
-2018020173,8474736,Zac Rinaldo,Nashville Predators,LW,6:50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6:50,0:00,0:00,NA
-2018020173,8475225,Craig Smith,Nashville Predators,RW,15:41,1,0,2,0,0,0,0,0,0,1,0,0,0,0,1,12:43,2:58,0:00,NA
-2018020173,8476887,Filip Forsberg,Nashville Predators,LW,18:44,0,0,3,3,0,0,0,0,0,1,0,0,0,2,1,13:35,3:45,1:24,NA
-2018020173,8476447,Miikka Salomaki,Nashville Predators,RW,8:47,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8:47,0:00,0:00,NA
-2018020173,8477942,Kevin Fiala,Nashville Predators,LW,16:49,2,0,0,0,0,0,0,0,0,1,1,0,0,0,2,14:19,2:30,0:00,NA
-2018020173,8474009,Nick Bonino,Nashville Predators,C,12:46,0,0,0,0,0,0,0,10,17,0,0,0,0,2,1,10:37,0:15,1:54,58.82
-2018020173,8474600,Roman Josi,Nashville Predators,D,22:57,2,0,1,1,0,0,0,0,0,0,1,0,0,1,2,18:06,2:42,2:09,NA
-2018020173,8475793,Ryan Johansen,Nashville Predators,C,17:37,0,0,4,0,0,0,0,14,20,0,1,0,0,0,2,14:11,2:08,1:18,70
-2018020173,8477451,Ryan Hartman,Nashville Predators,RW,11:56,0,2,5,1,0,0,0,0,0,0,0,0,0,0,2,11:13,0:00,0:43,NA
-2018020173,8474134,Yannick Weber,Nashville Predators,D,13:33,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,12:54,0:00,0:39,NA
-2018020173,8474068,Kyle Turris,Nashville Predators,C,19:57,1,0,0,2,0,0,0,5,8,0,3,0,0,1,1,15:50,4:07,0:00,62.5
-2018020173,8474056,P.K. Subban,Nashville Predators,D,22:29,1,0,4,2,0,0,0,0,0,1,1,0,0,0,1,16:00,3:33,2:56,NA
-2018020173,8475176,Ryan Ellis,Nashville Predators,D,24:04,0,0,0,0,0,0,4,0,0,0,0,0,0,2,2,19:57,2:54,1:13,NA
-2018020173,8478042,Viktor Arvidsson,Nashville Predators,RW,18:31,0,1,4,1,0,0,2,0,0,2,2,0,0,0,1,14:41,3:11,0:39,NA
-2018020173,8468674,Deryk Engelland,Vegas Golden Knights,D,18:30,0,0,4,0,0,0,2,0,0,1,0,0,0,2,-2,15:09,0:15,3:06,NA
-2018020173,8471817,Ryan Reaves,Vegas Golden Knights,RW,10:50,0,0,0,1,0,0,0,3,6,0,0,0,0,0,-1,8:44,2:06,0:00,50
-2018020173,8476539,Jonathan Marchessault,Vegas Golden Knights,C,19:06,1,0,2,0,0,1,0,1,5,1,1,0,0,0,0,16:24,2:42,0:00,20
-2018020173,8476617,Tomas Hyka,Vegas Golden Knights,RW,13:28,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,11:55,1:33,0:00,NA
-2018020173,8477949,Alex Tuch,Vegas Golden Knights,RW,18:37,0,0,3,2,0,0,0,1,5,0,0,0,0,0,0,15:26,3:11,0:00,20
-2018020173,8475236,Cody Eakin,Vegas Golden Knights,C,14:50,0,0,1,0,0,0,0,5,11,1,0,0,0,1,-3,10:22,2:17,2:11,45.45
-2018020173,8477447,Shea Theodore,Vegas Golden Knights,D,19:12,1,0,0,0,0,1,0,0,0,1,1,0,0,1,-1,15:51,3:21,0:00,NA
-2018020173,8477931,Tomas Nosek,Vegas Golden Knights,LW,11:55,0,0,2,0,0,0,0,0,0,1,0,0,0,0,-3,10:38,0:17,1:00,NA
-2018020173,8476525,Colin Miller,Vegas Golden Knights,D,21:22,0,0,2,0,0,0,0,0,0,0,0,0,0,2,-2,17:33,2:01,1:48,NA
-2018020173,8474207,Nick Holden,Vegas Golden Knights,D,20:07,0,0,1,1,0,0,0,0,0,0,1,0,0,0,-2,16:59,0:00,3:08,NA
-2018020173,8477846,Ryan Carpenter,Vegas Golden Knights,C,12:25,0,0,2,1,0,0,0,4,5,0,0,0,0,0,-3,10:00,0:17,2:08,80
-2018020173,8476448,William Karlsson,Vegas Golden Knights,C,19:54,0,0,2,0,0,0,0,4,11,0,0,0,0,1,0,14:32,2:49,2:33,36.36
-2018020173,8475188,Brayden McNabb,Vegas Golden Knights,D,18:56,0,0,0,1,0,0,2,0,0,1,0,0,0,2,0,15:32,0:00,3:24,NA
-2018020173,8475287,Erik Haula,Vegas Golden Knights,C,17:35,0,0,0,1,0,0,0,4,13,0,0,0,0,0,-1,15:05,1:59,0:31,30.77
-2018020173,8475750,Jon Merrill,Vegas Golden Knights,D,17:43,0,0,1,0,0,0,4,0,0,0,3,0,0,1,-1,16:41,0:04,0:58,NA
-2018020173,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,C,10:44,0,0,0,0,0,0,0,5,9,1,1,0,0,0,-1,8:58,0:00,1:46,55.56
-2018020173,8477478,William Carrier,Vegas Golden Knights,LW,8:16,0,0,1,4,0,0,0,0,0,0,1,0,0,0,-1,8:16,0:00,0:00,NA
-2018020173,8475191,Reilly Smith,Vegas Golden Knights,RW,18:47,0,1,3,0,1,0,0,0,0,2,1,0,0,0,0,13:47,2:33,2:27,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020173,8475218,Mattias Ekholm,Nashville Predators,Vegas Golden Knights,D,23:26,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,19:16,0:57,3:13,NA
+2018020173,8475625,Matt Irwin,Nashville Predators,Vegas Golden Knights,D,11:16,0,0,0,3,0,0,0,0,0,0,0,0,0,1,1,11:16,0:00,0:00,NA
+2018020173,8475714,Calle Jarnkrok,Nashville Predators,Vegas Golden Knights,C,15:37,0,1,2,1,0,0,0,1,2,0,0,0,0,1,1,13:14,0:00,2:23,50
+2018020173,8476925,Colton Sissons,Nashville Predators,Vegas Golden Knights,C,12:42,0,0,2,1,0,0,0,8,18,1,0,0,0,0,0,8:38,2:15,1:49,44.44
+2018020173,8474736,Zac Rinaldo,Nashville Predators,Vegas Golden Knights,LW,6:50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6:50,0:00,0:00,NA
+2018020173,8475225,Craig Smith,Nashville Predators,Vegas Golden Knights,RW,15:41,1,0,2,0,0,0,0,0,0,1,0,0,0,0,1,12:43,2:58,0:00,NA
+2018020173,8476887,Filip Forsberg,Nashville Predators,Vegas Golden Knights,LW,18:44,0,0,3,3,0,0,0,0,0,1,0,0,0,2,1,13:35,3:45,1:24,NA
+2018020173,8476447,Miikka Salomaki,Nashville Predators,Vegas Golden Knights,RW,8:47,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8:47,0:00,0:00,NA
+2018020173,8477942,Kevin Fiala,Nashville Predators,Vegas Golden Knights,LW,16:49,2,0,0,0,0,0,0,0,0,1,1,0,0,0,2,14:19,2:30,0:00,NA
+2018020173,8474009,Nick Bonino,Nashville Predators,Vegas Golden Knights,C,12:46,0,0,0,0,0,0,0,10,17,0,0,0,0,2,1,10:37,0:15,1:54,58.82
+2018020173,8474600,Roman Josi,Nashville Predators,Vegas Golden Knights,D,22:57,2,0,1,1,0,0,0,0,0,0,1,0,0,1,2,18:06,2:42,2:09,NA
+2018020173,8475793,Ryan Johansen,Nashville Predators,Vegas Golden Knights,C,17:37,0,0,4,0,0,0,0,14,20,0,1,0,0,0,2,14:11,2:08,1:18,70
+2018020173,8477451,Ryan Hartman,Nashville Predators,Vegas Golden Knights,RW,11:56,0,2,5,1,0,0,0,0,0,0,0,0,0,0,2,11:13,0:00,0:43,NA
+2018020173,8474134,Yannick Weber,Nashville Predators,Vegas Golden Knights,D,13:33,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,12:54,0:00,0:39,NA
+2018020173,8474068,Kyle Turris,Nashville Predators,Vegas Golden Knights,C,19:57,1,0,0,2,0,0,0,5,8,0,3,0,0,1,1,15:50,4:07,0:00,62.5
+2018020173,8474056,P.K. Subban,Nashville Predators,Vegas Golden Knights,D,22:29,1,0,4,2,0,0,0,0,0,1,1,0,0,0,1,16:00,3:33,2:56,NA
+2018020173,8475176,Ryan Ellis,Nashville Predators,Vegas Golden Knights,D,24:04,0,0,0,0,0,0,4,0,0,0,0,0,0,2,2,19:57,2:54,1:13,NA
+2018020173,8478042,Viktor Arvidsson,Nashville Predators,Vegas Golden Knights,RW,18:31,0,1,4,1,0,0,2,0,0,2,2,0,0,0,1,14:41,3:11,0:39,NA
+2018020173,8468674,Deryk Engelland,Vegas Golden Knights,Nashville Predators,D,18:30,0,0,4,0,0,0,2,0,0,1,0,0,0,2,-2,15:09,0:15,3:06,NA
+2018020173,8471817,Ryan Reaves,Vegas Golden Knights,Nashville Predators,RW,10:50,0,0,0,1,0,0,0,3,6,0,0,0,0,0,-1,8:44,2:06,0:00,50
+2018020173,8476539,Jonathan Marchessault,Vegas Golden Knights,Nashville Predators,C,19:06,1,0,2,0,0,1,0,1,5,1,1,0,0,0,0,16:24,2:42,0:00,20
+2018020173,8476617,Tomas Hyka,Vegas Golden Knights,Nashville Predators,RW,13:28,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,11:55,1:33,0:00,NA
+2018020173,8477949,Alex Tuch,Vegas Golden Knights,Nashville Predators,RW,18:37,0,0,3,2,0,0,0,1,5,0,0,0,0,0,0,15:26,3:11,0:00,20
+2018020173,8475236,Cody Eakin,Vegas Golden Knights,Nashville Predators,C,14:50,0,0,1,0,0,0,0,5,11,1,0,0,0,1,-3,10:22,2:17,2:11,45.45
+2018020173,8477447,Shea Theodore,Vegas Golden Knights,Nashville Predators,D,19:12,1,0,0,0,0,1,0,0,0,1,1,0,0,1,-1,15:51,3:21,0:00,NA
+2018020173,8477931,Tomas Nosek,Vegas Golden Knights,Nashville Predators,LW,11:55,0,0,2,0,0,0,0,0,0,1,0,0,0,0,-3,10:38,0:17,1:00,NA
+2018020173,8476525,Colin Miller,Vegas Golden Knights,Nashville Predators,D,21:22,0,0,2,0,0,0,0,0,0,0,0,0,0,2,-2,17:33,2:01,1:48,NA
+2018020173,8474207,Nick Holden,Vegas Golden Knights,Nashville Predators,D,20:07,0,0,1,1,0,0,0,0,0,0,1,0,0,0,-2,16:59,0:00,3:08,NA
+2018020173,8477846,Ryan Carpenter,Vegas Golden Knights,Nashville Predators,C,12:25,0,0,2,1,0,0,0,4,5,0,0,0,0,0,-3,10:00,0:17,2:08,80
+2018020173,8476448,William Karlsson,Vegas Golden Knights,Nashville Predators,C,19:54,0,0,2,0,0,0,0,4,11,0,0,0,0,1,0,14:32,2:49,2:33,36.36
+2018020173,8475188,Brayden McNabb,Vegas Golden Knights,Nashville Predators,D,18:56,0,0,0,1,0,0,2,0,0,1,0,0,0,2,0,15:32,0:00,3:24,NA
+2018020173,8475287,Erik Haula,Vegas Golden Knights,Nashville Predators,C,17:35,0,0,0,1,0,0,0,4,13,0,0,0,0,0,-1,15:05,1:59,0:31,30.77
+2018020173,8475750,Jon Merrill,Vegas Golden Knights,Nashville Predators,D,17:43,0,0,1,0,0,0,4,0,0,0,3,0,0,1,-1,16:41,0:04,0:58,NA
+2018020173,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,Nashville Predators,C,10:44,0,0,0,0,0,0,0,5,9,1,1,0,0,0,-1,8:58,0:00,1:46,55.56
+2018020173,8477478,William Carrier,Vegas Golden Knights,Nashville Predators,LW,8:16,0,0,1,4,0,0,0,0,0,0,1,0,0,0,-1,8:16,0:00,0:00,NA
+2018020173,8475191,Reilly Smith,Vegas Golden Knights,Nashville Predators,RW,18:47,0,1,3,0,1,0,0,0,0,2,1,0,0,0,0,13:47,2:33,2:27,NA

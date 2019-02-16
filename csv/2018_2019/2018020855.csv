@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020855,8476923,Damon Severson,New Jersey Devils,D,21:12,0,0,2,2,0,0,2,0,0,0,0,0,0,1,2,14:57,3:48,2:27,NA
-2018020855,8477509,Mirco Mueller,New Jersey Devils,D,14:05,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,13:26,0:00,0:39,NA
-2018020855,8471233,Travis Zajac,New Jersey Devils,C,22:04,0,0,1,0,0,0,0,19,26,2,1,0,0,1,0,12:17,4:05,5:42,73.08
-2018020855,8476545,Kurtis Gabriel,New Jersey Devils,RW,10:25,0,0,0,3,0,0,9,0,0,0,0,0,0,0,0,10:15,0:10,0:00,NA
-2018020855,8479407,Jesper Bratt,New Jersey Devils,LW,17:21,1,0,2,0,0,0,0,0,0,1,0,0,0,1,0,12:53,4:12,0:16,NA
-2018020855,8473933,Ben Lovejoy,New Jersey Devils,D,22:24,0,0,0,5,0,0,0,0,0,0,3,0,0,5,0,15:47,0:10,6:27,NA
-2018020855,8475149,Marcus Johansson,New Jersey Devils,LW,14:38,0,2,5,0,0,0,0,0,0,0,0,0,0,0,1,10:01,4:37,0:00,NA
-2018020855,8471226,Drew Stafford,New Jersey Devils,RW,7:35,0,0,0,0,0,0,4,1,2,0,0,0,0,0,0,7:29,0:06,0:00,50
-2018020855,8472382,Andy Greene,New Jersey Devils,D,23:08,0,0,3,1,0,0,0,0,0,0,2,0,0,4,0,14:31,0:08,8:29,NA
-2018020855,8478401,Pavel Zacha,New Jersey Devils,C,12:39,0,1,1,0,1,0,2,6,12,0,0,0,0,0,0,8:37,2:06,1:56,50
-2018020855,8477355,Will Butcher,New Jersey Devils,D,20:23,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,16:34,3:48,0:01,NA
-2018020855,8476399,Blake Coleman,New Jersey Devils,C,19:38,0,0,0,2,0,0,0,3,7,1,0,0,0,0,0,12:54,0:00,6:44,42.86
-2018020855,8476465,Ryan Murphy,New Jersey Devils,D,14:17,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,11:24,2:52,0:01,NA
-2018020855,8475151,Kyle Palmieri,New Jersey Devils,RW,18:43,1,0,2,1,0,0,0,0,0,1,0,0,0,0,1,13:20,5:23,0:00,NA
-2018020855,8478881,Brett Seney,New Jersey Devils,LW,10:50,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,10:40,0:10,0:00,NA
-2018020855,8479250,Nick Lappin,New Jersey Devils,RW,10:14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7:21,2:53,0:00,NA
-2018020855,8480002,Nico Hischier,New Jersey Devils,C,14:51,3,0,2,1,0,1,0,4,10,2,0,0,0,1,1,11:39,3:00,0:12,40
-2018020855,8479291,Kevin Rooney,New Jersey Devils,C,14:04,0,0,1,1,0,0,0,4,9,0,0,0,0,0,0,11:12,0:10,2:42,44.44
-2018020855,8475907,Micheal Ferland,Carolina Hurricanes,LW,12:23,0,0,1,1,0,0,5,0,0,2,0,0,0,0,0,11:27,0:56,0:00,NA
-2018020855,8476934,Brock McGinn,Carolina Hurricanes,LW,14:37,0,0,2,2,0,0,2,1,1,1,0,0,0,1,0,8:57,1:40,4:00,100
-2018020855,8475735,Greg McKegg,Carolina Hurricanes,C,10:20,0,0,1,0,0,0,0,2,7,0,2,0,0,0,-1,9:56,0:24,0:00,28.57
-2018020855,8476958,Jaccob Slavin,Carolina Hurricanes,D,22:42,0,0,2,1,0,0,0,0,0,0,1,0,0,1,0,15:25,3:04,4:13,NA
-2018020855,8477998,Warren Foegele,Carolina Hurricanes,LW,9:03,0,0,1,2,0,0,0,0,0,1,0,0,0,0,-1,7:17,0:25,1:21,NA
-2018020855,8478427,Sebastian Aho,Carolina Hurricanes,C,24:40,1,0,3,1,0,1,0,7,18,0,1,0,0,0,0,15:36,6:24,2:40,38.89
-2018020855,8475753,Justin Faulk,Carolina Hurricanes,D,22:13,0,0,4,3,0,0,2,0,0,1,1,0,0,3,-1,15:24,5:40,1:09,NA
-2018020855,8475799,Nino Niederreiter,Carolina Hurricanes,RW,19:22,2,0,3,0,0,1,2,0,0,0,0,0,0,0,0,13:34,5:48,0:00,NA
-2018020855,8476921,Jordan Martinook,Carolina Hurricanes,LW,12:05,0,0,0,1,0,0,0,9,16,2,0,0,0,0,0,8:21,0:13,3:31,56.25
-2018020855,8477845,Trevor van Riemsdyk,Carolina Hurricanes,D,14:43,0,0,2,2,0,0,0,0,0,0,0,0,0,1,0,11:52,0:00,2:51,NA
-2018020855,8477488,Brett Pesce,Carolina Hurricanes,D,18:34,0,0,2,0,0,0,2,0,0,0,0,0,0,2,-2,14:47,0:01,3:46,NA
-2018020855,8475177,Calvin de Haan,Carolina Hurricanes,D,16:27,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,12:57,0:17,3:13,NA
-2018020855,8478027,Lucas Wallmark,Carolina Hurricanes,C,12:42,0,0,1,0,0,0,0,6,10,0,0,0,0,1,0,10:06,2:12,0:24,60
-2018020855,8476882,Teuvo Teravainen,Carolina Hurricanes,LW,21:01,0,1,6,2,1,0,0,0,0,1,0,0,0,0,0,13:03,5:48,2:10,NA
-2018020855,8477357,Saku Maenalanen,Carolina Hurricanes,RW,7:29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,6:49,0:25,0:15,NA
-2018020855,8476462,Dougie Hamilton,Carolina Hurricanes,D,20:02,0,1,2,1,0,0,2,0,0,0,0,0,0,0,1,16:50,3:12,0:00,NA
-2018020855,8468508,Justin Williams,Carolina Hurricanes,RW,21:28,1,0,3,0,0,0,0,4,14,0,1,0,0,0,0,15:40,5:48,0:00,28.57
-2018020855,8480830,Andrei Svechnikov,Carolina Hurricanes,RW,14:18,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,9:59,3:50,0:29,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020855,8476923,Damon Severson,New Jersey Devils,Carolina Hurricanes,D,21:12,0,0,2,2,0,0,2,0,0,0,0,0,0,1,2,14:57,3:48,2:27,NA
+2018020855,8477509,Mirco Mueller,New Jersey Devils,Carolina Hurricanes,D,14:05,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,13:26,0:00,0:39,NA
+2018020855,8471233,Travis Zajac,New Jersey Devils,Carolina Hurricanes,C,22:04,0,0,1,0,0,0,0,19,26,2,1,0,0,1,0,12:17,4:05,5:42,73.08
+2018020855,8476545,Kurtis Gabriel,New Jersey Devils,Carolina Hurricanes,RW,10:25,0,0,0,3,0,0,9,0,0,0,0,0,0,0,0,10:15,0:10,0:00,NA
+2018020855,8479407,Jesper Bratt,New Jersey Devils,Carolina Hurricanes,LW,17:21,1,0,2,0,0,0,0,0,0,1,0,0,0,1,0,12:53,4:12,0:16,NA
+2018020855,8473933,Ben Lovejoy,New Jersey Devils,Carolina Hurricanes,D,22:24,0,0,0,5,0,0,0,0,0,0,3,0,0,5,0,15:47,0:10,6:27,NA
+2018020855,8475149,Marcus Johansson,New Jersey Devils,Carolina Hurricanes,LW,14:38,0,2,5,0,0,0,0,0,0,0,0,0,0,0,1,10:01,4:37,0:00,NA
+2018020855,8471226,Drew Stafford,New Jersey Devils,Carolina Hurricanes,RW,7:35,0,0,0,0,0,0,4,1,2,0,0,0,0,0,0,7:29,0:06,0:00,50
+2018020855,8472382,Andy Greene,New Jersey Devils,Carolina Hurricanes,D,23:08,0,0,3,1,0,0,0,0,0,0,2,0,0,4,0,14:31,0:08,8:29,NA
+2018020855,8478401,Pavel Zacha,New Jersey Devils,Carolina Hurricanes,C,12:39,0,1,1,0,1,0,2,6,12,0,0,0,0,0,0,8:37,2:06,1:56,50
+2018020855,8477355,Will Butcher,New Jersey Devils,Carolina Hurricanes,D,20:23,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,16:34,3:48,0:01,NA
+2018020855,8476399,Blake Coleman,New Jersey Devils,Carolina Hurricanes,C,19:38,0,0,0,2,0,0,0,3,7,1,0,0,0,0,0,12:54,0:00,6:44,42.86
+2018020855,8476465,Ryan Murphy,New Jersey Devils,Carolina Hurricanes,D,14:17,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,11:24,2:52,0:01,NA
+2018020855,8475151,Kyle Palmieri,New Jersey Devils,Carolina Hurricanes,RW,18:43,1,0,2,1,0,0,0,0,0,1,0,0,0,0,1,13:20,5:23,0:00,NA
+2018020855,8478881,Brett Seney,New Jersey Devils,Carolina Hurricanes,LW,10:50,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,10:40,0:10,0:00,NA
+2018020855,8479250,Nick Lappin,New Jersey Devils,Carolina Hurricanes,RW,10:14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7:21,2:53,0:00,NA
+2018020855,8480002,Nico Hischier,New Jersey Devils,Carolina Hurricanes,C,14:51,3,0,2,1,0,1,0,4,10,2,0,0,0,1,1,11:39,3:00,0:12,40
+2018020855,8479291,Kevin Rooney,New Jersey Devils,Carolina Hurricanes,C,14:04,0,0,1,1,0,0,0,4,9,0,0,0,0,0,0,11:12,0:10,2:42,44.44
+2018020855,8475907,Micheal Ferland,Carolina Hurricanes,New Jersey Devils,LW,12:23,0,0,1,1,0,0,5,0,0,2,0,0,0,0,0,11:27,0:56,0:00,NA
+2018020855,8476934,Brock McGinn,Carolina Hurricanes,New Jersey Devils,LW,14:37,0,0,2,2,0,0,2,1,1,1,0,0,0,1,0,8:57,1:40,4:00,100
+2018020855,8475735,Greg McKegg,Carolina Hurricanes,New Jersey Devils,C,10:20,0,0,1,0,0,0,0,2,7,0,2,0,0,0,-1,9:56,0:24,0:00,28.57
+2018020855,8476958,Jaccob Slavin,Carolina Hurricanes,New Jersey Devils,D,22:42,0,0,2,1,0,0,0,0,0,0,1,0,0,1,0,15:25,3:04,4:13,NA
+2018020855,8477998,Warren Foegele,Carolina Hurricanes,New Jersey Devils,LW,9:03,0,0,1,2,0,0,0,0,0,1,0,0,0,0,-1,7:17,0:25,1:21,NA
+2018020855,8478427,Sebastian Aho,Carolina Hurricanes,New Jersey Devils,C,24:40,1,0,3,1,0,1,0,7,18,0,1,0,0,0,0,15:36,6:24,2:40,38.89
+2018020855,8475753,Justin Faulk,Carolina Hurricanes,New Jersey Devils,D,22:13,0,0,4,3,0,0,2,0,0,1,1,0,0,3,-1,15:24,5:40,1:09,NA
+2018020855,8475799,Nino Niederreiter,Carolina Hurricanes,New Jersey Devils,RW,19:22,2,0,3,0,0,1,2,0,0,0,0,0,0,0,0,13:34,5:48,0:00,NA
+2018020855,8476921,Jordan Martinook,Carolina Hurricanes,New Jersey Devils,LW,12:05,0,0,0,1,0,0,0,9,16,2,0,0,0,0,0,8:21,0:13,3:31,56.25
+2018020855,8477845,Trevor van Riemsdyk,Carolina Hurricanes,New Jersey Devils,D,14:43,0,0,2,2,0,0,0,0,0,0,0,0,0,1,0,11:52,0:00,2:51,NA
+2018020855,8477488,Brett Pesce,Carolina Hurricanes,New Jersey Devils,D,18:34,0,0,2,0,0,0,2,0,0,0,0,0,0,2,-2,14:47,0:01,3:46,NA
+2018020855,8475177,Calvin de Haan,Carolina Hurricanes,New Jersey Devils,D,16:27,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,12:57,0:17,3:13,NA
+2018020855,8478027,Lucas Wallmark,Carolina Hurricanes,New Jersey Devils,C,12:42,0,0,1,0,0,0,0,6,10,0,0,0,0,1,0,10:06,2:12,0:24,60
+2018020855,8476882,Teuvo Teravainen,Carolina Hurricanes,New Jersey Devils,LW,21:01,0,1,6,2,1,0,0,0,0,1,0,0,0,0,0,13:03,5:48,2:10,NA
+2018020855,8477357,Saku Maenalanen,Carolina Hurricanes,New Jersey Devils,RW,7:29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,6:49,0:25,0:15,NA
+2018020855,8476462,Dougie Hamilton,Carolina Hurricanes,New Jersey Devils,D,20:02,0,1,2,1,0,0,2,0,0,0,0,0,0,0,1,16:50,3:12,0:00,NA
+2018020855,8468508,Justin Williams,Carolina Hurricanes,New Jersey Devils,RW,21:28,1,0,3,0,0,0,0,4,14,0,1,0,0,0,0,15:40,5:48,0:00,28.57
+2018020855,8480830,Andrei Svechnikov,Carolina Hurricanes,New Jersey Devils,RW,14:18,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,9:59,3:50,0:29,NA

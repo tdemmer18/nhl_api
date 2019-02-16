@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020297,8475907,Micheal Ferland,Carolina Hurricanes,LW,15:52,0,0,2,6,0,0,0,100,2,2,0,3,0,0,0,-1,12:45,3:07,0:00
-2018020297,8476934,Brock McGinn,Carolina Hurricanes,LW,15:02,0,0,1,5,0,0,0,NA,0,0,0,2,0,0,0,0,12:19,0:00,2:43
-2018020297,8476858,Phillip Di Giuseppe,Carolina Hurricanes,LW,8:59,0,0,1,1,0,0,2,NA,0,0,0,0,0,0,0,0,8:59,0:00,0:00
-2018020297,8473533,Jordan Staal,Carolina Hurricanes,C,18:34,0,0,1,3,0,0,0,28.57,4,14,2,1,0,0,1,-1,12:47,2:53,2:54
-2018020297,8477938,Haydn Fleury,Carolina Hurricanes,D,15:22,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,1,0,14:10,0:00,1:12
-2018020297,8476958,Jaccob Slavin,Carolina Hurricanes,D,22:35,0,0,2,3,0,0,0,NA,0,0,1,1,0,0,1,-1,17:18,2:43,2:34
-2018020297,8477998,Warren Foegele,Carolina Hurricanes,LW,13:31,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,1,0,10:09,0:13,3:09
-2018020297,8478427,Sebastian Aho,Carolina Hurricanes,C,18:04,0,1,4,1,0,0,0,68.75,11,16,1,1,0,0,0,0,14:10,3:17,0:37
-2018020297,8475753,Justin Faulk,Carolina Hurricanes,D,21:29,0,0,3,0,0,0,2,NA,0,0,1,1,0,0,1,0,14:04,3:44,3:41
-2018020297,8476921,Jordan Martinook,Carolina Hurricanes,LW,14:24,0,0,1,6,0,0,0,66.67,2,3,0,0,0,0,1,-1,10:34,0:00,3:50
-2018020297,8477845,Trevor van Riemsdyk,Carolina Hurricanes,D,18:01,1,0,2,0,0,0,0,NA,0,0,0,0,0,0,1,-1,15:03,0:00,2:58
-2018020297,8475177,Calvin de Haan,Carolina Hurricanes,D,19:38,0,0,1,5,0,0,0,NA,0,0,1,0,0,0,1,0,15:14,0:00,4:24
-2018020297,8478027,Lucas Wallmark,Carolina Hurricanes,C,15:06,0,0,3,0,0,0,2,57.14,8,14,0,0,0,0,0,-1,10:40,2:30,1:56
-2018020297,8476882,Teuvo Teravainen,Carolina Hurricanes,LW,16:56,0,0,2,0,0,0,0,NA,0,0,0,2,0,0,0,0,13:11,3:17,0:28
-2018020297,8478056,Clark Bishop,Carolina Hurricanes,C,9:57,0,0,1,1,0,0,2,33.33,1,3,0,0,0,0,0,0,9:14,0:00,0:43
-2018020297,8476462,Dougie Hamilton,Carolina Hurricanes,D,19:38,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,1,-2,15:51,2:16,1:31
-2018020297,8468508,Justin Williams,Carolina Hurricanes,RW,15:39,0,0,2,0,0,0,0,NA,0,0,1,1,0,0,0,-1,12:46,2:53,0:00
-2018020297,8480830,Andrei Svechnikov,Carolina Hurricanes,RW,13:03,0,0,2,0,0,0,2,NA,0,0,0,0,0,0,0,-1,9:56,3:07,0:00
-2018020297,8477407,Anthony Duclair,Columbus Blue Jackets,LW,14:34,0,0,2,1,0,0,0,NA,0,0,1,0,0,0,1,0,10:49,3:44,0:01
-2018020297,8478906,Markus Nutivaara,Columbus Blue Jackets,D,17:50,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,2,1,16:37,1:12,0:01
-2018020297,8474715,Cam Atkinson,Columbus Blue Jackets,RW,17:50,1,3,5,0,1,0,0,NA,0,0,0,0,0,0,0,3,12:11,3:31,2:08
-2018020297,8477505,Alexander Wennberg,Columbus Blue Jackets,C,17:01,1,0,1,0,0,1,0,33.33,1,3,0,1,0,0,0,0,10:50,4:03,2:08
-2018020297,8476449,Scott Harrington,Columbus Blue Jackets,D,8:28,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,3,1,8:28,0:00,0:00
-2018020297,8477416,Oliver Bjorkstrand,Columbus Blue Jackets,RW,15:13,0,0,0,3,0,0,0,NA,0,0,1,1,0,0,0,0,11:53,3:20,0:00
-2018020297,8476310,Lukas Sedlak,Columbus Blue Jackets,C,10:55,0,0,1,2,0,0,0,100,1,1,0,0,0,0,0,-1,9:36,0:54,0:25
-2018020297,8476981,Josh Anderson,Columbus Blue Jackets,RW,15:46,0,0,0,3,0,0,2,NA,0,0,1,0,0,0,0,0,12:01,2:30,1:15
-2018020297,8476850,Ryan Murray,Columbus Blue Jackets,D,23:05,0,0,0,2,0,0,0,NA,0,0,0,1,0,0,0,1,18:10,1:15,3:40
-2018020297,8476432,Boone Jenner,Columbus Blue Jackets,C,17:22,0,0,3,2,0,0,0,66.67,10,15,0,1,0,0,1,0,12:08,2:37,2:37
-2018020297,8475233,David Savard,Columbus Blue Jackets,D,21:19,0,0,2,2,0,0,0,NA,0,0,1,0,0,0,2,0,18:36,0:23,2:20
-2018020297,8474062,Riley Nash,Columbus Blue Jackets,C,11:01,0,0,1,1,0,0,0,71.43,5,7,0,0,0,0,0,-1,9:49,1:12,0:00
-2018020297,8477495,Seth Jones,Columbus Blue Jackets,D,27:26,0,0,0,3,0,0,0,NA,0,0,0,0,0,0,5,0,19:26,4:21,3:39
-2018020297,8478550,Artemi Panarin,Columbus Blue Jackets,LW,17:18,3,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,3,14:05,3:13,0:00
-2018020297,8479400,Pierre-Luc Dubois,Columbus Blue Jackets,C,17:10,2,0,1,3,0,1,0,55.56,5,9,0,2,0,0,0,3,12:46,3:09,1:15
-2018020297,8471273,Brandon Dubinsky,Columbus Blue Jackets,C,14:27,0,0,1,2,0,0,0,11.76,2,17,0,0,0,0,3,0,11:16,0:59,2:12
-2018020297,8478541,Markus Hannikainen,Columbus Blue Jackets,LW,11:17,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,0,-1,10:14,1:03,0:00
-2018020297,8478460,Zach Werenski,Columbus Blue Jackets,D,16:07,0,1,3,1,0,0,0,NA,0,0,1,1,0,0,2,1,10:23,3:24,2:20
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020297,8475907,Micheal Ferland,Carolina Hurricanes,Columbus Blue Jackets,LW,15:52,0,0,2,6,0,0,0,100,2,2,0,3,0,0,0,-1,12:45,3:07,0:00
+2018020297,8476934,Brock McGinn,Carolina Hurricanes,Columbus Blue Jackets,LW,15:02,0,0,1,5,0,0,0,NA,0,0,0,2,0,0,0,0,12:19,0:00,2:43
+2018020297,8476858,Phillip Di Giuseppe,Carolina Hurricanes,Columbus Blue Jackets,LW,8:59,0,0,1,1,0,0,2,NA,0,0,0,0,0,0,0,0,8:59,0:00,0:00
+2018020297,8473533,Jordan Staal,Carolina Hurricanes,Columbus Blue Jackets,C,18:34,0,0,1,3,0,0,0,28.57,4,14,2,1,0,0,1,-1,12:47,2:53,2:54
+2018020297,8477938,Haydn Fleury,Carolina Hurricanes,Columbus Blue Jackets,D,15:22,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,1,0,14:10,0:00,1:12
+2018020297,8476958,Jaccob Slavin,Carolina Hurricanes,Columbus Blue Jackets,D,22:35,0,0,2,3,0,0,0,NA,0,0,1,1,0,0,1,-1,17:18,2:43,2:34
+2018020297,8477998,Warren Foegele,Carolina Hurricanes,Columbus Blue Jackets,LW,13:31,0,0,1,2,0,0,0,NA,0,0,0,1,0,0,1,0,10:09,0:13,3:09
+2018020297,8478427,Sebastian Aho,Carolina Hurricanes,Columbus Blue Jackets,C,18:04,0,1,4,1,0,0,0,68.75,11,16,1,1,0,0,0,0,14:10,3:17,0:37
+2018020297,8475753,Justin Faulk,Carolina Hurricanes,Columbus Blue Jackets,D,21:29,0,0,3,0,0,0,2,NA,0,0,1,1,0,0,1,0,14:04,3:44,3:41
+2018020297,8476921,Jordan Martinook,Carolina Hurricanes,Columbus Blue Jackets,LW,14:24,0,0,1,6,0,0,0,66.67,2,3,0,0,0,0,1,-1,10:34,0:00,3:50
+2018020297,8477845,Trevor van Riemsdyk,Carolina Hurricanes,Columbus Blue Jackets,D,18:01,1,0,2,0,0,0,0,NA,0,0,0,0,0,0,1,-1,15:03,0:00,2:58
+2018020297,8475177,Calvin de Haan,Carolina Hurricanes,Columbus Blue Jackets,D,19:38,0,0,1,5,0,0,0,NA,0,0,1,0,0,0,1,0,15:14,0:00,4:24
+2018020297,8478027,Lucas Wallmark,Carolina Hurricanes,Columbus Blue Jackets,C,15:06,0,0,3,0,0,0,2,57.14,8,14,0,0,0,0,0,-1,10:40,2:30,1:56
+2018020297,8476882,Teuvo Teravainen,Carolina Hurricanes,Columbus Blue Jackets,LW,16:56,0,0,2,0,0,0,0,NA,0,0,0,2,0,0,0,0,13:11,3:17,0:28
+2018020297,8478056,Clark Bishop,Carolina Hurricanes,Columbus Blue Jackets,C,9:57,0,0,1,1,0,0,2,33.33,1,3,0,0,0,0,0,0,9:14,0:00,0:43
+2018020297,8476462,Dougie Hamilton,Carolina Hurricanes,Columbus Blue Jackets,D,19:38,0,0,1,1,0,0,0,NA,0,0,1,0,0,0,1,-2,15:51,2:16,1:31
+2018020297,8468508,Justin Williams,Carolina Hurricanes,Columbus Blue Jackets,RW,15:39,0,0,2,0,0,0,0,NA,0,0,1,1,0,0,0,-1,12:46,2:53,0:00
+2018020297,8480830,Andrei Svechnikov,Carolina Hurricanes,Columbus Blue Jackets,RW,13:03,0,0,2,0,0,0,2,NA,0,0,0,0,0,0,0,-1,9:56,3:07,0:00
+2018020297,8477407,Anthony Duclair,Columbus Blue Jackets,Carolina Hurricanes,LW,14:34,0,0,2,1,0,0,0,NA,0,0,1,0,0,0,1,0,10:49,3:44,0:01
+2018020297,8478906,Markus Nutivaara,Columbus Blue Jackets,Carolina Hurricanes,D,17:50,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,2,1,16:37,1:12,0:01
+2018020297,8474715,Cam Atkinson,Columbus Blue Jackets,Carolina Hurricanes,RW,17:50,1,3,5,0,1,0,0,NA,0,0,0,0,0,0,0,3,12:11,3:31,2:08
+2018020297,8477505,Alexander Wennberg,Columbus Blue Jackets,Carolina Hurricanes,C,17:01,1,0,1,0,0,1,0,33.33,1,3,0,1,0,0,0,0,10:50,4:03,2:08
+2018020297,8476449,Scott Harrington,Columbus Blue Jackets,Carolina Hurricanes,D,8:28,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,3,1,8:28,0:00,0:00
+2018020297,8477416,Oliver Bjorkstrand,Columbus Blue Jackets,Carolina Hurricanes,RW,15:13,0,0,0,3,0,0,0,NA,0,0,1,1,0,0,0,0,11:53,3:20,0:00
+2018020297,8476310,Lukas Sedlak,Columbus Blue Jackets,Carolina Hurricanes,C,10:55,0,0,1,2,0,0,0,100,1,1,0,0,0,0,0,-1,9:36,0:54,0:25
+2018020297,8476981,Josh Anderson,Columbus Blue Jackets,Carolina Hurricanes,RW,15:46,0,0,0,3,0,0,2,NA,0,0,1,0,0,0,0,0,12:01,2:30,1:15
+2018020297,8476850,Ryan Murray,Columbus Blue Jackets,Carolina Hurricanes,D,23:05,0,0,0,2,0,0,0,NA,0,0,0,1,0,0,0,1,18:10,1:15,3:40
+2018020297,8476432,Boone Jenner,Columbus Blue Jackets,Carolina Hurricanes,C,17:22,0,0,3,2,0,0,0,66.67,10,15,0,1,0,0,1,0,12:08,2:37,2:37
+2018020297,8475233,David Savard,Columbus Blue Jackets,Carolina Hurricanes,D,21:19,0,0,2,2,0,0,0,NA,0,0,1,0,0,0,2,0,18:36,0:23,2:20
+2018020297,8474062,Riley Nash,Columbus Blue Jackets,Carolina Hurricanes,C,11:01,0,0,1,1,0,0,0,71.43,5,7,0,0,0,0,0,-1,9:49,1:12,0:00
+2018020297,8477495,Seth Jones,Columbus Blue Jackets,Carolina Hurricanes,D,27:26,0,0,0,3,0,0,0,NA,0,0,0,0,0,0,5,0,19:26,4:21,3:39
+2018020297,8478550,Artemi Panarin,Columbus Blue Jackets,Carolina Hurricanes,LW,17:18,3,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,3,14:05,3:13,0:00
+2018020297,8479400,Pierre-Luc Dubois,Columbus Blue Jackets,Carolina Hurricanes,C,17:10,2,0,1,3,0,1,0,55.56,5,9,0,2,0,0,0,3,12:46,3:09,1:15
+2018020297,8471273,Brandon Dubinsky,Columbus Blue Jackets,Carolina Hurricanes,C,14:27,0,0,1,2,0,0,0,11.76,2,17,0,0,0,0,3,0,11:16,0:59,2:12
+2018020297,8478541,Markus Hannikainen,Columbus Blue Jackets,Carolina Hurricanes,LW,11:17,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,0,-1,10:14,1:03,0:00
+2018020297,8478460,Zach Werenski,Columbus Blue Jackets,Carolina Hurricanes,D,16:07,0,1,3,1,0,0,0,NA,0,0,1,1,0,0,2,1,10:23,3:24,2:20

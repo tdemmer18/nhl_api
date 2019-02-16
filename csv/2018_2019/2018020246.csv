@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020246,8473507,Jeff Petry,Montréal Canadiens,D,20:03,1,0,2,2,0,0,0,0,0,0,3,0,0,1,1,16:28,0:37,2:58,NA
-2018020246,8474818,Jordie Benn,Montréal Canadiens,D,20:09,0,0,1,0,0,0,0,0,0,0,2,0,0,0,1,17:11,0:00,2:58,NA
-2018020246,8480829,Jesperi Kotkaniemi,Montréal Canadiens,C,13:25,1,1,2,0,0,0,0,2,10,0,1,0,0,1,2,12:34,0:51,0:00,20
-2018020246,8475848,Brendan Gallagher,Montréal Canadiens,RW,17:15,0,0,2,1,0,0,0,0,0,1,1,0,0,0,-1,14:06,3:09,0:00,NA
-2018020246,8476948,Charles Hudon,Montréal Canadiens,LW,9:23,0,1,2,1,0,0,2,0,0,1,0,0,0,0,1,8:32,0:51,0:00,NA
-2018020246,8477503,Max Domi,Montréal Canadiens,LW,18:01,2,0,3,0,0,0,0,6,16,0,2,0,0,2,1,14:52,3:09,0:00,37.5
-2018020246,8476479,Phillip Danault,Montréal Canadiens,C,17:02,1,0,0,0,0,0,0,8,19,1,0,0,0,1,1,14:25,0:00,2:37,42.11
-2018020246,8475844,Kenny Agostino,Montréal Canadiens,LW,13:00,1,0,1,6,0,0,0,0,1,1,1,0,0,0,2,12:36,0:24,0:00,0
-2018020246,8477476,Artturi Lehkonen,Montréal Canadiens,LW,16:23,1,0,1,2,0,0,2,0,0,1,0,0,0,0,1,14:05,0:27,1:51,NA
-2018020246,8476422,Mike Reilly,Montréal Canadiens,D,21:17,0,0,0,1,0,0,2,0,0,0,0,0,0,0,1,17:54,3:23,0:00,NA
-2018020246,8475235,Nicolas Deslauriers,Montréal Canadiens,LW,9:37,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,8:31,0:00,1:06,NA
-2018020246,8473673,David Schlemko,Montréal Canadiens,D,20:00,0,0,1,2,0,0,0,0,0,0,4,0,0,3,2,17:45,0:27,1:48,NA
-2018020246,8473991,Karl Alzner,Montréal Canadiens,D,18:09,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,16:21,0:00,1:48,NA
-2018020246,8476285,Matthew Peca,Montréal Canadiens,C,11:53,0,0,0,1,0,0,0,4,10,0,0,0,0,0,-1,9:44,0:00,2:09,40
-2018020246,8477494,Jonathan Drouin,Montréal Canadiens,C,17:09,1,0,4,0,0,0,0,0,0,1,0,0,0,0,1,14:00,3:09,0:00,NA
-2018020246,8479376,Victor Mete,Montréal Canadiens,D,16:37,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,16:37,0:00,0:00,NA
-2018020246,8476381,Andrew Shaw,Montréal Canadiens,RW,19:11,0,2,3,5,0,0,0,4,7,0,1,0,0,2,2,16:58,0:24,1:49,57.14
-2018020246,8475193,Tomas Tatar,Montréal Canadiens,LW,16:40,0,1,3,2,0,0,0,1,1,0,0,0,0,0,0,13:31,3:09,0:00,100
-2018020246,8471817,Ryan Reaves,Vegas Golden Knights,RW,15:40,0,0,1,4,0,0,0,4,4,0,0,0,0,1,0,12:45,2:55,0:00,100
-2018020246,8476539,Jonathan Marchessault,Vegas Golden Knights,C,17:16,0,1,3,0,0,0,0,1,2,0,0,0,0,0,1,15:04,2:12,0:00,50
-2018020246,8476617,Tomas Hyka,Vegas Golden Knights,RW,9:24,2,0,0,0,0,2,0,0,0,0,0,0,0,0,-1,6:50,2:34,0:00,NA
-2018020246,8477949,Alex Tuch,Vegas Golden Knights,RW,19:16,0,1,4,1,0,0,0,2,4,0,0,0,0,0,-1,17:17,1:59,0:00,50
-2018020246,8475236,Cody Eakin,Vegas Golden Knights,C,17:27,1,0,0,2,0,0,0,12,18,1,1,0,0,2,-1,16:37,0:00,0:50,66.67
-2018020246,8477447,Shea Theodore,Vegas Golden Knights,D,24:41,0,0,6,0,0,0,0,0,0,0,0,0,0,5,-2,21:17,2:34,0:50,NA
-2018020246,8477931,Tomas Nosek,Vegas Golden Knights,LW,9:21,0,0,1,1,0,0,0,5,6,1,0,0,0,0,-2,7:50,0:00,1:31,83.33
-2018020246,8476525,Colin Miller,Vegas Golden Knights,D,22:14,1,0,1,3,0,0,4,0,0,0,2,0,0,2,0,20:02,2:12,0:00,NA
-2018020246,8474207,Nick Holden,Vegas Golden Knights,D,23:10,0,0,0,0,0,0,0,0,0,1,1,0,0,5,-2,20:00,0:00,3:10,NA
-2018020246,8477846,Ryan Carpenter,Vegas Golden Knights,C,8:50,0,0,2,5,0,0,0,4,5,1,1,0,0,0,-2,8:28,0:00,0:22,80
-2018020246,8476448,William Karlsson,Vegas Golden Knights,C,19:11,2,1,2,0,1,1,0,6,14,1,0,0,0,0,0,14:37,2:47,1:47,42.86
-2018020246,8476779,Brad Hunt,Vegas Golden Knights,D,12:55,1,1,4,0,1,1,0,0,0,0,2,0,0,0,-1,10:21,2:34,0:00,NA
-2018020246,8475188,Brayden McNabb,Vegas Golden Knights,D,21:22,0,0,1,2,0,0,0,0,0,0,2,0,0,4,0,18:12,0:00,3:10,NA
-2018020246,8475750,Jon Merrill,Vegas Golden Knights,D,12:51,0,0,1,1,0,0,0,0,0,0,2,0,0,4,-1,12:01,0:00,0:50,NA
-2018020246,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,C,13:35,0,0,0,0,0,0,0,5,11,0,0,0,0,0,-1,12:12,0:00,1:23,45.45
-2018020246,8477478,William Carrier,Vegas Golden Knights,LW,11:04,0,0,2,9,0,0,0,0,0,1,0,0,0,0,0,11:04,0:00,0:00,NA
-2018020246,8474157,Max Pacioretty,Vegas Golden Knights,LW,20:46,0,0,9,0,0,0,0,0,0,0,1,0,0,0,-2,18:06,2:12,0:28,NA
-2018020246,8475191,Reilly Smith,Vegas Golden Knights,RW,17:49,1,0,1,3,0,0,0,0,0,1,0,0,0,0,0,14:19,1:51,1:39,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020246,8473507,Jeff Petry,Montréal Canadiens,Vegas Golden Knights,D,20:03,1,0,2,2,0,0,0,0,0,0,3,0,0,1,1,16:28,0:37,2:58,NA
+2018020246,8474818,Jordie Benn,Montréal Canadiens,Vegas Golden Knights,D,20:09,0,0,1,0,0,0,0,0,0,0,2,0,0,0,1,17:11,0:00,2:58,NA
+2018020246,8480829,Jesperi Kotkaniemi,Montréal Canadiens,Vegas Golden Knights,C,13:25,1,1,2,0,0,0,0,2,10,0,1,0,0,1,2,12:34,0:51,0:00,20
+2018020246,8475848,Brendan Gallagher,Montréal Canadiens,Vegas Golden Knights,RW,17:15,0,0,2,1,0,0,0,0,0,1,1,0,0,0,-1,14:06,3:09,0:00,NA
+2018020246,8476948,Charles Hudon,Montréal Canadiens,Vegas Golden Knights,LW,9:23,0,1,2,1,0,0,2,0,0,1,0,0,0,0,1,8:32,0:51,0:00,NA
+2018020246,8477503,Max Domi,Montréal Canadiens,Vegas Golden Knights,LW,18:01,2,0,3,0,0,0,0,6,16,0,2,0,0,2,1,14:52,3:09,0:00,37.5
+2018020246,8476479,Phillip Danault,Montréal Canadiens,Vegas Golden Knights,C,17:02,1,0,0,0,0,0,0,8,19,1,0,0,0,1,1,14:25,0:00,2:37,42.11
+2018020246,8475844,Kenny Agostino,Montréal Canadiens,Vegas Golden Knights,LW,13:00,1,0,1,6,0,0,0,0,1,1,1,0,0,0,2,12:36,0:24,0:00,0
+2018020246,8477476,Artturi Lehkonen,Montréal Canadiens,Vegas Golden Knights,LW,16:23,1,0,1,2,0,0,2,0,0,1,0,0,0,0,1,14:05,0:27,1:51,NA
+2018020246,8476422,Mike Reilly,Montréal Canadiens,Vegas Golden Knights,D,21:17,0,0,0,1,0,0,2,0,0,0,0,0,0,0,1,17:54,3:23,0:00,NA
+2018020246,8475235,Nicolas Deslauriers,Montréal Canadiens,Vegas Golden Knights,LW,9:37,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,8:31,0:00,1:06,NA
+2018020246,8473673,David Schlemko,Montréal Canadiens,Vegas Golden Knights,D,20:00,0,0,1,2,0,0,0,0,0,0,4,0,0,3,2,17:45,0:27,1:48,NA
+2018020246,8473991,Karl Alzner,Montréal Canadiens,Vegas Golden Knights,D,18:09,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,16:21,0:00,1:48,NA
+2018020246,8476285,Matthew Peca,Montréal Canadiens,Vegas Golden Knights,C,11:53,0,0,0,1,0,0,0,4,10,0,0,0,0,0,-1,9:44,0:00,2:09,40
+2018020246,8477494,Jonathan Drouin,Montréal Canadiens,Vegas Golden Knights,C,17:09,1,0,4,0,0,0,0,0,0,1,0,0,0,0,1,14:00,3:09,0:00,NA
+2018020246,8479376,Victor Mete,Montréal Canadiens,Vegas Golden Knights,D,16:37,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,16:37,0:00,0:00,NA
+2018020246,8476381,Andrew Shaw,Montréal Canadiens,Vegas Golden Knights,RW,19:11,0,2,3,5,0,0,0,4,7,0,1,0,0,2,2,16:58,0:24,1:49,57.14
+2018020246,8475193,Tomas Tatar,Montréal Canadiens,Vegas Golden Knights,LW,16:40,0,1,3,2,0,0,0,1,1,0,0,0,0,0,0,13:31,3:09,0:00,100
+2018020246,8471817,Ryan Reaves,Vegas Golden Knights,Montréal Canadiens,RW,15:40,0,0,1,4,0,0,0,4,4,0,0,0,0,1,0,12:45,2:55,0:00,100
+2018020246,8476539,Jonathan Marchessault,Vegas Golden Knights,Montréal Canadiens,C,17:16,0,1,3,0,0,0,0,1,2,0,0,0,0,0,1,15:04,2:12,0:00,50
+2018020246,8476617,Tomas Hyka,Vegas Golden Knights,Montréal Canadiens,RW,9:24,2,0,0,0,0,2,0,0,0,0,0,0,0,0,-1,6:50,2:34,0:00,NA
+2018020246,8477949,Alex Tuch,Vegas Golden Knights,Montréal Canadiens,RW,19:16,0,1,4,1,0,0,0,2,4,0,0,0,0,0,-1,17:17,1:59,0:00,50
+2018020246,8475236,Cody Eakin,Vegas Golden Knights,Montréal Canadiens,C,17:27,1,0,0,2,0,0,0,12,18,1,1,0,0,2,-1,16:37,0:00,0:50,66.67
+2018020246,8477447,Shea Theodore,Vegas Golden Knights,Montréal Canadiens,D,24:41,0,0,6,0,0,0,0,0,0,0,0,0,0,5,-2,21:17,2:34,0:50,NA
+2018020246,8477931,Tomas Nosek,Vegas Golden Knights,Montréal Canadiens,LW,9:21,0,0,1,1,0,0,0,5,6,1,0,0,0,0,-2,7:50,0:00,1:31,83.33
+2018020246,8476525,Colin Miller,Vegas Golden Knights,Montréal Canadiens,D,22:14,1,0,1,3,0,0,4,0,0,0,2,0,0,2,0,20:02,2:12,0:00,NA
+2018020246,8474207,Nick Holden,Vegas Golden Knights,Montréal Canadiens,D,23:10,0,0,0,0,0,0,0,0,0,1,1,0,0,5,-2,20:00,0:00,3:10,NA
+2018020246,8477846,Ryan Carpenter,Vegas Golden Knights,Montréal Canadiens,C,8:50,0,0,2,5,0,0,0,4,5,1,1,0,0,0,-2,8:28,0:00,0:22,80
+2018020246,8476448,William Karlsson,Vegas Golden Knights,Montréal Canadiens,C,19:11,2,1,2,0,1,1,0,6,14,1,0,0,0,0,0,14:37,2:47,1:47,42.86
+2018020246,8476779,Brad Hunt,Vegas Golden Knights,Montréal Canadiens,D,12:55,1,1,4,0,1,1,0,0,0,0,2,0,0,0,-1,10:21,2:34,0:00,NA
+2018020246,8475188,Brayden McNabb,Vegas Golden Knights,Montréal Canadiens,D,21:22,0,0,1,2,0,0,0,0,0,0,2,0,0,4,0,18:12,0:00,3:10,NA
+2018020246,8475750,Jon Merrill,Vegas Golden Knights,Montréal Canadiens,D,12:51,0,0,1,1,0,0,0,0,0,0,2,0,0,4,-1,12:01,0:00,0:50,NA
+2018020246,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,Montréal Canadiens,C,13:35,0,0,0,0,0,0,0,5,11,0,0,0,0,0,-1,12:12,0:00,1:23,45.45
+2018020246,8477478,William Carrier,Vegas Golden Knights,Montréal Canadiens,LW,11:04,0,0,2,9,0,0,0,0,0,1,0,0,0,0,0,11:04,0:00,0:00,NA
+2018020246,8474157,Max Pacioretty,Vegas Golden Knights,Montréal Canadiens,LW,20:46,0,0,9,0,0,0,0,0,0,0,1,0,0,0,-2,18:06,2:12,0:28,NA
+2018020246,8475191,Reilly Smith,Vegas Golden Knights,Montréal Canadiens,RW,17:49,1,0,1,3,0,0,0,0,0,1,0,0,0,0,0,14:19,1:51,1:39,NA

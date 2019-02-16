@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020186,8475768,Jaden Schwartz,St. Louis Blues,LW,18:21,0,0,3,1,0,0,0,0,0,1,0,0,0,2,-1,15:26,1:49,1:06,NA
-2018020186,8474125,Carl Gunnarsson,St. Louis Blues,D,13:52,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,13:52,0:00,0:00,NA
-2018020186,8474565,Alex Pietrangelo,St. Louis Blues,D,25:10,0,0,3,0,0,0,0,0,0,2,2,0,0,5,1,19:22,3:16,2:32,NA
-2018020186,8476897,Oskar Sundqvist,St. Louis Blues,C,11:29,0,2,2,1,0,0,0,0,0,1,0,0,0,1,2,10:07,0:00,1:22,NA
-2018020186,8475765,Vladimir Tarasenko,St. Louis Blues,RW,16:01,0,1,4,2,1,0,0,0,0,1,0,0,0,1,-1,13:37,2:24,0:00,NA
-2018020186,8470257,Alexander Steen,St. Louis Blues,LW,15:36,0,0,1,1,0,0,0,0,3,0,2,0,0,2,0,12:42,1:04,1:50,0
-2018020186,8478407,Vince Dunn,St. Louis Blues,D,16:03,0,0,1,0,0,0,2,0,0,1,0,0,0,2,0,13:51,2:12,0:00,NA
-2018020186,8477952,Robby Fabbri,St. Louis Blues,C,8:45,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2,8:45,0:00,0:00,NA
-2018020186,8475158,Ryan O'Reilly,St. Louis Blues,C,19:52,1,0,1,0,0,0,0,15,23,1,1,0,0,0,1,15:41,2:24,1:47,65.22
-2018020186,8474102,David Perron,St. Louis Blues,LW,15:33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13:59,1:34,0:00,NA
-2018020186,8474034,Pat Maroon,St. Louis Blues,LW,11:44,1,0,0,3,0,1,2,0,0,0,0,0,0,0,0,10:45,0:59,0:00,NA
-2018020186,8475098,Tyler Bozak,St. Louis Blues,C,17:01,1,1,1,0,0,1,0,8,12,0,0,0,0,1,0,13:05,2:24,1:32,66.67
-2018020186,8476441,Joel Edmundson,St. Louis Blues,D,20:20,1,0,1,2,0,0,0,0,0,1,0,0,0,4,1,18:34,0:00,1:46,NA
-2018020186,8470151,Jay Bouwmeester,St. Louis Blues,D,19:35,0,0,2,0,0,0,0,0,0,0,0,0,0,4,1,17:03,0:00,2:32,NA
-2018020186,8476892,Colton Parayko,St. Louis Blues,D,23:20,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,20:44,0:50,1:46,NA
-2018020186,8475170,Brayden Schenn,St. Louis Blues,C,18:22,0,0,2,1,0,0,2,8,16,1,0,0,0,0,-1,15:39,1:44,0:59,50
-2018020186,8477482,Zach Sanford,St. Louis Blues,LW,13:10,1,0,3,1,0,0,2,0,0,1,0,0,0,0,1,13:10,0:00,0:00,NA
-2018020186,8480023,Robert Thomas,St. Louis Blues,C,9:28,2,0,0,2,0,0,0,7,12,2,0,0,0,0,2,9:28,0:00,0:00,58.33
-2018020186,8468674,Deryk Engelland,Vegas Golden Knights,D,17:48,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,15:33,0:09,2:06,NA
-2018020186,8471817,Ryan Reaves,Vegas Golden Knights,RW,12:49,0,0,0,2,0,0,2,1,2,0,0,0,0,1,0,11:48,1:01,0:00,50
-2018020186,8476539,Jonathan Marchessault,Vegas Golden Knights,C,19:11,1,0,7,1,0,1,0,1,2,0,0,0,0,1,-2,16:28,2:43,0:00,50
-2018020186,8476617,Tomas Hyka,Vegas Golden Knights,RW,14:14,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,12:26,1:48,0:00,NA
-2018020186,8477949,Alex Tuch,Vegas Golden Knights,RW,18:16,1,1,6,0,1,0,0,0,2,1,2,0,0,0,0,15:55,2:21,0:00,0
-2018020186,8475236,Cody Eakin,Vegas Golden Knights,C,12:15,0,0,2,0,0,0,2,1,8,0,0,0,0,1,-1,11:01,0:34,0:40,12.5
-2018020186,8477447,Shea Theodore,Vegas Golden Knights,D,19:31,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,16:45,2:46,0:00,NA
-2018020186,8477931,Tomas Nosek,Vegas Golden Knights,LW,12:13,0,0,2,4,0,0,2,0,0,0,0,0,0,0,-1,10:47,0:09,1:17,NA
-2018020186,8476525,Colin Miller,Vegas Golden Knights,D,23:32,0,0,1,0,0,0,0,0,0,0,0,0,0,2,-2,20:36,1:48,1:08,NA
-2018020186,8474207,Nick Holden,Vegas Golden Knights,D,17:27,0,0,2,0,0,0,0,0,0,1,1,0,0,0,-1,15:25,0:00,2:02,NA
-2018020186,8477846,Ryan Carpenter,Vegas Golden Knights,C,11:50,0,0,1,2,0,0,0,3,6,0,0,0,0,0,-1,10:54,0:09,0:47,50
-2018020186,8476448,William Karlsson,Vegas Golden Knights,C,19:08,1,0,3,0,0,1,0,8,20,2,0,0,0,0,-2,14:53,2:43,1:32,40
-2018020186,8476779,Brad Hunt,Vegas Golden Knights,D,16:44,0,0,3,0,0,0,2,0,0,1,0,0,0,1,0,15:12,1:32,0:00,NA
-2018020186,8475188,Brayden McNabb,Vegas Golden Knights,D,20:39,0,0,0,4,0,0,0,0,0,0,1,0,0,3,-3,17:39,0:00,3:00,NA
-2018020186,8475287,Erik Haula,Vegas Golden Knights,C,17:41,0,1,3,0,0,0,0,10,15,1,0,0,0,1,1,15:36,1:26,0:39,66.67
-2018020186,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,C,13:56,0,1,4,0,0,0,0,4,11,0,1,0,0,0,0,12:07,0:00,1:49,36.36
-2018020186,8477478,William Carrier,Vegas Golden Knights,LW,11:02,0,0,0,7,0,0,0,0,0,1,0,0,0,0,0,11:02,0:00,0:00,NA
-2018020186,8475191,Reilly Smith,Vegas Golden Knights,RW,18:37,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1,14:44,2:21,1:32,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020186,8475768,Jaden Schwartz,St. Louis Blues,Vegas Golden Knights,LW,18:21,0,0,3,1,0,0,0,0,0,1,0,0,0,2,-1,15:26,1:49,1:06,NA
+2018020186,8474125,Carl Gunnarsson,St. Louis Blues,Vegas Golden Knights,D,13:52,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,13:52,0:00,0:00,NA
+2018020186,8474565,Alex Pietrangelo,St. Louis Blues,Vegas Golden Knights,D,25:10,0,0,3,0,0,0,0,0,0,2,2,0,0,5,1,19:22,3:16,2:32,NA
+2018020186,8476897,Oskar Sundqvist,St. Louis Blues,Vegas Golden Knights,C,11:29,0,2,2,1,0,0,0,0,0,1,0,0,0,1,2,10:07,0:00,1:22,NA
+2018020186,8475765,Vladimir Tarasenko,St. Louis Blues,Vegas Golden Knights,RW,16:01,0,1,4,2,1,0,0,0,0,1,0,0,0,1,-1,13:37,2:24,0:00,NA
+2018020186,8470257,Alexander Steen,St. Louis Blues,Vegas Golden Knights,LW,15:36,0,0,1,1,0,0,0,0,3,0,2,0,0,2,0,12:42,1:04,1:50,0
+2018020186,8478407,Vince Dunn,St. Louis Blues,Vegas Golden Knights,D,16:03,0,0,1,0,0,0,2,0,0,1,0,0,0,2,0,13:51,2:12,0:00,NA
+2018020186,8477952,Robby Fabbri,St. Louis Blues,Vegas Golden Knights,C,8:45,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2,8:45,0:00,0:00,NA
+2018020186,8475158,Ryan O'Reilly,St. Louis Blues,Vegas Golden Knights,C,19:52,1,0,1,0,0,0,0,15,23,1,1,0,0,0,1,15:41,2:24,1:47,65.22
+2018020186,8474102,David Perron,St. Louis Blues,Vegas Golden Knights,LW,15:33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13:59,1:34,0:00,NA
+2018020186,8474034,Pat Maroon,St. Louis Blues,Vegas Golden Knights,LW,11:44,1,0,0,3,0,1,2,0,0,0,0,0,0,0,0,10:45,0:59,0:00,NA
+2018020186,8475098,Tyler Bozak,St. Louis Blues,Vegas Golden Knights,C,17:01,1,1,1,0,0,1,0,8,12,0,0,0,0,1,0,13:05,2:24,1:32,66.67
+2018020186,8476441,Joel Edmundson,St. Louis Blues,Vegas Golden Knights,D,20:20,1,0,1,2,0,0,0,0,0,1,0,0,0,4,1,18:34,0:00,1:46,NA
+2018020186,8470151,Jay Bouwmeester,St. Louis Blues,Vegas Golden Knights,D,19:35,0,0,2,0,0,0,0,0,0,0,0,0,0,4,1,17:03,0:00,2:32,NA
+2018020186,8476892,Colton Parayko,St. Louis Blues,Vegas Golden Knights,D,23:20,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,20:44,0:50,1:46,NA
+2018020186,8475170,Brayden Schenn,St. Louis Blues,Vegas Golden Knights,C,18:22,0,0,2,1,0,0,2,8,16,1,0,0,0,0,-1,15:39,1:44,0:59,50
+2018020186,8477482,Zach Sanford,St. Louis Blues,Vegas Golden Knights,LW,13:10,1,0,3,1,0,0,2,0,0,1,0,0,0,0,1,13:10,0:00,0:00,NA
+2018020186,8480023,Robert Thomas,St. Louis Blues,Vegas Golden Knights,C,9:28,2,0,0,2,0,0,0,7,12,2,0,0,0,0,2,9:28,0:00,0:00,58.33
+2018020186,8468674,Deryk Engelland,Vegas Golden Knights,St. Louis Blues,D,17:48,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,15:33,0:09,2:06,NA
+2018020186,8471817,Ryan Reaves,Vegas Golden Knights,St. Louis Blues,RW,12:49,0,0,0,2,0,0,2,1,2,0,0,0,0,1,0,11:48,1:01,0:00,50
+2018020186,8476539,Jonathan Marchessault,Vegas Golden Knights,St. Louis Blues,C,19:11,1,0,7,1,0,1,0,1,2,0,0,0,0,1,-2,16:28,2:43,0:00,50
+2018020186,8476617,Tomas Hyka,Vegas Golden Knights,St. Louis Blues,RW,14:14,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,12:26,1:48,0:00,NA
+2018020186,8477949,Alex Tuch,Vegas Golden Knights,St. Louis Blues,RW,18:16,1,1,6,0,1,0,0,0,2,1,2,0,0,0,0,15:55,2:21,0:00,0
+2018020186,8475236,Cody Eakin,Vegas Golden Knights,St. Louis Blues,C,12:15,0,0,2,0,0,0,2,1,8,0,0,0,0,1,-1,11:01,0:34,0:40,12.5
+2018020186,8477447,Shea Theodore,Vegas Golden Knights,St. Louis Blues,D,19:31,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,16:45,2:46,0:00,NA
+2018020186,8477931,Tomas Nosek,Vegas Golden Knights,St. Louis Blues,LW,12:13,0,0,2,4,0,0,2,0,0,0,0,0,0,0,-1,10:47,0:09,1:17,NA
+2018020186,8476525,Colin Miller,Vegas Golden Knights,St. Louis Blues,D,23:32,0,0,1,0,0,0,0,0,0,0,0,0,0,2,-2,20:36,1:48,1:08,NA
+2018020186,8474207,Nick Holden,Vegas Golden Knights,St. Louis Blues,D,17:27,0,0,2,0,0,0,0,0,0,1,1,0,0,0,-1,15:25,0:00,2:02,NA
+2018020186,8477846,Ryan Carpenter,Vegas Golden Knights,St. Louis Blues,C,11:50,0,0,1,2,0,0,0,3,6,0,0,0,0,0,-1,10:54,0:09,0:47,50
+2018020186,8476448,William Karlsson,Vegas Golden Knights,St. Louis Blues,C,19:08,1,0,3,0,0,1,0,8,20,2,0,0,0,0,-2,14:53,2:43,1:32,40
+2018020186,8476779,Brad Hunt,Vegas Golden Knights,St. Louis Blues,D,16:44,0,0,3,0,0,0,2,0,0,1,0,0,0,1,0,15:12,1:32,0:00,NA
+2018020186,8475188,Brayden McNabb,Vegas Golden Knights,St. Louis Blues,D,20:39,0,0,0,4,0,0,0,0,0,0,1,0,0,3,-3,17:39,0:00,3:00,NA
+2018020186,8475287,Erik Haula,Vegas Golden Knights,St. Louis Blues,C,17:41,0,1,3,0,0,0,0,10,15,1,0,0,0,1,1,15:36,1:26,0:39,66.67
+2018020186,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,St. Louis Blues,C,13:56,0,1,4,0,0,0,0,4,11,0,1,0,0,0,0,12:07,0:00,1:49,36.36
+2018020186,8477478,William Carrier,Vegas Golden Knights,St. Louis Blues,LW,11:02,0,0,0,7,0,0,0,0,0,1,0,0,0,0,0,11:02,0:00,0:00,NA
+2018020186,8475191,Reilly Smith,Vegas Golden Knights,St. Louis Blues,RW,18:37,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1,14:44,2:21,1:32,NA

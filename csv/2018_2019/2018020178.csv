@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020178,8470626,Loui Eriksson,Vancouver Canucks,LW,13:10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,11:09,2:01,0:00,NA
-2018020178,8474849,Antoine Roussel,Vancouver Canucks,LW,9:41,0,1,1,2,0,0,2,0,2,0,0,0,0,0,3,9:14,0:00,0:27,0
-2018020178,8477958,Nikolay Goldobin,Vancouver Canucks,RW,18:53,0,0,1,0,0,0,0,0,0,0,2,0,0,2,0,15:23,3:30,0:00,NA
-2018020178,8477937,Jake Virtanen,Vancouver Canucks,RW,13:56,0,2,4,2,0,0,0,0,0,0,1,0,0,1,1,11:56,2:00,0:00,NA
-2018020178,8477018,Ben Hutton,Vancouver Canucks,D,22:29,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,17:17,2:28,2:44,NA
-2018020178,8473415,Alex Biega,Vancouver Canucks,D,16:59,1,0,5,4,0,0,0,0,0,0,0,0,0,0,1,16:58,0:01,0:00,NA
-2018020178,8476867,Brendan Gaunce,Vancouver Canucks,C,9:34,1,1,1,2,0,0,0,3,5,0,0,0,0,0,3,9:34,0:00,0:00,60
-2018020178,8477213,Tim Schaller,Vancouver Canucks,C,13:42,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,12:07,0:01,1:34,NA
-2018020178,8478874,Adam Gaudette,Vancouver Canucks,C,13:48,0,0,2,0,0,0,0,6,9,0,0,0,0,0,-1,11:48,2:00,0:00,66.67
-2018020178,8474584,Michael Del Zotto,Vancouver Canucks,D,19:15,0,0,2,11,0,0,2,0,0,1,1,0,0,2,1,18:24,0:01,0:50,NA
-2018020178,8478444,Brock Boeser,Vancouver Canucks,RW,21:45,0,0,3,0,0,0,0,0,1,1,0,0,0,0,0,17:45,4:00,0:00,0
-2018020178,8476884,Derrick Pouliot,Vancouver Canucks,D,20:47,0,0,0,1,0,0,0,0,0,1,0,0,0,0,3,17:16,3:31,0:00,NA
-2018020178,8477500,Bo Horvat,Vancouver Canucks,C,20:05,0,0,2,0,0,0,0,15,30,0,0,0,0,1,2,14:26,4:00,1:39,50
-2018020178,8475790,Erik Gudbranson,Vancouver Canucks,D,18:46,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,15:56,0:00,2:50,NA
-2018020178,8476440,Markus Granlund,Vancouver Canucks,C,15:08,1,0,1,0,0,0,0,1,3,0,0,0,0,0,1,11:40,2:00,1:28,33.33
-2018020178,8479442,Troy Stecher,Vancouver Canucks,D,16:07,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,14:43,0:28,0:56,NA
-2018020178,8477353,Tyler Motte,Vancouver Canucks,C,11:55,0,0,1,2,0,0,0,0,2,0,1,0,0,2,0,9:43,0:00,2:12,0
-2018020178,8480012,Elias Pettersson,Vancouver Canucks,C,20:20,0,0,3,1,0,0,0,4,10,1,3,0,0,1,0,16:21,3:59,0:00,40
-2018020178,8470607,Brent Seabrook,Chicago Blackhawks,D,19:37,0,0,4,0,0,0,4,0,0,1,0,0,0,1,-1,17:38,1:00,0:59,NA
-2018020178,8476979,Erik Gustafsson,Chicago Blackhawks,D,21:44,1,0,2,1,0,1,2,0,0,0,2,0,0,0,-1,18:59,2:40,0:05,NA
-2018020178,8475869,Brandon Davidson,Chicago Blackhawks,D,15:04,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-2,13:28,0:00,1:36,NA
-2018020178,8473604,Jonathan Toews,Chicago Blackhawks,C,20:39,0,1,2,0,1,0,0,12,18,1,1,0,0,0,-1,15:24,2:42,2:33,66.67
-2018020178,8470543,Chris Kunitz,Chicago Blackhawks,LW,14:09,1,0,2,0,0,0,0,0,0,0,1,0,0,0,0,14:09,0:00,0:00,NA
-2018020178,8476438,Brandon Saad,Chicago Blackhawks,LW,18:59,0,1,5,1,0,0,0,0,3,0,0,0,0,0,0,13:52,2:34,2:33,0
-2018020178,8479337,Alex DeBrincat,Chicago Blackhawks,LW,18:56,0,0,3,0,0,0,0,2,2,0,0,0,0,0,-1,16:12,2:37,0:07,100
-2018020178,8475430,Brandon Manning,Chicago Blackhawks,D,14:34,0,0,0,2,0,0,0,0,0,0,0,0,0,1,-2,12:01,0:00,2:33,NA
-2018020178,8470281,Duncan Keith,Chicago Blackhawks,D,24:16,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,19:30,1:24,3:22,NA
-2018020178,8477366,Luke Johnson,Chicago Blackhawks,C,12:56,1,0,1,3,0,1,0,5,10,0,0,0,0,2,-2,9:35,2:16,1:05,50
-2018020178,8479657,Alexandre Fortin,Chicago Blackhawks,LW,11:23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,11:23,0:00,0:00,NA
-2018020178,8477951,Nick Schmaltz,Chicago Blackhawks,C,14:09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,12:32,1:06,0:31,NA
-2018020178,8475323,Marcus Kruger,Chicago Blackhawks,C,12:18,0,0,0,2,0,0,0,3,12,0,0,0,0,0,-1,9:30,0:00,2:48,25
-2018020178,8477401,John Hayden,Chicago Blackhawks,RW,9:13,0,0,1,2,0,0,0,0,0,0,0,0,0,1,-2,9:13,0:00,0:00,NA
-2018020178,8480946,Dominik Kahun,Chicago Blackhawks,C,17:18,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,16:20,0:58,0:00,0
-2018020178,8473573,Artem Anisimov,Chicago Blackhawks,C,18:08,1,0,2,0,0,0,0,10,14,0,0,0,0,1,0,16:25,1:03,0:40,71.43
-2018020178,8480144,David Kampf,Chicago Blackhawks,C,10:10,0,0,1,1,0,0,0,1,2,0,0,0,0,0,0,8:27,0:00,1:43,50
-2018020178,8480035,Henri Jokiharju,Chicago Blackhawks,D,22:51,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,19:26,0:00,3:25,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020178,8470626,Loui Eriksson,Vancouver Canucks,Chicago Blackhawks,LW,13:10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,11:09,2:01,0:00,NA
+2018020178,8474849,Antoine Roussel,Vancouver Canucks,Chicago Blackhawks,LW,9:41,0,1,1,2,0,0,2,0,2,0,0,0,0,0,3,9:14,0:00,0:27,0
+2018020178,8477958,Nikolay Goldobin,Vancouver Canucks,Chicago Blackhawks,RW,18:53,0,0,1,0,0,0,0,0,0,0,2,0,0,2,0,15:23,3:30,0:00,NA
+2018020178,8477937,Jake Virtanen,Vancouver Canucks,Chicago Blackhawks,RW,13:56,0,2,4,2,0,0,0,0,0,0,1,0,0,1,1,11:56,2:00,0:00,NA
+2018020178,8477018,Ben Hutton,Vancouver Canucks,Chicago Blackhawks,D,22:29,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,17:17,2:28,2:44,NA
+2018020178,8473415,Alex Biega,Vancouver Canucks,Chicago Blackhawks,D,16:59,1,0,5,4,0,0,0,0,0,0,0,0,0,0,1,16:58,0:01,0:00,NA
+2018020178,8476867,Brendan Gaunce,Vancouver Canucks,Chicago Blackhawks,C,9:34,1,1,1,2,0,0,0,3,5,0,0,0,0,0,3,9:34,0:00,0:00,60
+2018020178,8477213,Tim Schaller,Vancouver Canucks,Chicago Blackhawks,C,13:42,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,12:07,0:01,1:34,NA
+2018020178,8478874,Adam Gaudette,Vancouver Canucks,Chicago Blackhawks,C,13:48,0,0,2,0,0,0,0,6,9,0,0,0,0,0,-1,11:48,2:00,0:00,66.67
+2018020178,8474584,Michael Del Zotto,Vancouver Canucks,Chicago Blackhawks,D,19:15,0,0,2,11,0,0,2,0,0,1,1,0,0,2,1,18:24,0:01,0:50,NA
+2018020178,8478444,Brock Boeser,Vancouver Canucks,Chicago Blackhawks,RW,21:45,0,0,3,0,0,0,0,0,1,1,0,0,0,0,0,17:45,4:00,0:00,0
+2018020178,8476884,Derrick Pouliot,Vancouver Canucks,Chicago Blackhawks,D,20:47,0,0,0,1,0,0,0,0,0,1,0,0,0,0,3,17:16,3:31,0:00,NA
+2018020178,8477500,Bo Horvat,Vancouver Canucks,Chicago Blackhawks,C,20:05,0,0,2,0,0,0,0,15,30,0,0,0,0,1,2,14:26,4:00,1:39,50
+2018020178,8475790,Erik Gudbranson,Vancouver Canucks,Chicago Blackhawks,D,18:46,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,15:56,0:00,2:50,NA
+2018020178,8476440,Markus Granlund,Vancouver Canucks,Chicago Blackhawks,C,15:08,1,0,1,0,0,0,0,1,3,0,0,0,0,0,1,11:40,2:00,1:28,33.33
+2018020178,8479442,Troy Stecher,Vancouver Canucks,Chicago Blackhawks,D,16:07,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,14:43,0:28,0:56,NA
+2018020178,8477353,Tyler Motte,Vancouver Canucks,Chicago Blackhawks,C,11:55,0,0,1,2,0,0,0,0,2,0,1,0,0,2,0,9:43,0:00,2:12,0
+2018020178,8480012,Elias Pettersson,Vancouver Canucks,Chicago Blackhawks,C,20:20,0,0,3,1,0,0,0,4,10,1,3,0,0,1,0,16:21,3:59,0:00,40
+2018020178,8470607,Brent Seabrook,Chicago Blackhawks,Vancouver Canucks,D,19:37,0,0,4,0,0,0,4,0,0,1,0,0,0,1,-1,17:38,1:00,0:59,NA
+2018020178,8476979,Erik Gustafsson,Chicago Blackhawks,Vancouver Canucks,D,21:44,1,0,2,1,0,1,2,0,0,0,2,0,0,0,-1,18:59,2:40,0:05,NA
+2018020178,8475869,Brandon Davidson,Chicago Blackhawks,Vancouver Canucks,D,15:04,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-2,13:28,0:00,1:36,NA
+2018020178,8473604,Jonathan Toews,Chicago Blackhawks,Vancouver Canucks,C,20:39,0,1,2,0,1,0,0,12,18,1,1,0,0,0,-1,15:24,2:42,2:33,66.67
+2018020178,8470543,Chris Kunitz,Chicago Blackhawks,Vancouver Canucks,LW,14:09,1,0,2,0,0,0,0,0,0,0,1,0,0,0,0,14:09,0:00,0:00,NA
+2018020178,8476438,Brandon Saad,Chicago Blackhawks,Vancouver Canucks,LW,18:59,0,1,5,1,0,0,0,0,3,0,0,0,0,0,0,13:52,2:34,2:33,0
+2018020178,8479337,Alex DeBrincat,Chicago Blackhawks,Vancouver Canucks,LW,18:56,0,0,3,0,0,0,0,2,2,0,0,0,0,0,-1,16:12,2:37,0:07,100
+2018020178,8475430,Brandon Manning,Chicago Blackhawks,Vancouver Canucks,D,14:34,0,0,0,2,0,0,0,0,0,0,0,0,0,1,-2,12:01,0:00,2:33,NA
+2018020178,8470281,Duncan Keith,Chicago Blackhawks,Vancouver Canucks,D,24:16,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,19:30,1:24,3:22,NA
+2018020178,8477366,Luke Johnson,Chicago Blackhawks,Vancouver Canucks,C,12:56,1,0,1,3,0,1,0,5,10,0,0,0,0,2,-2,9:35,2:16,1:05,50
+2018020178,8479657,Alexandre Fortin,Chicago Blackhawks,Vancouver Canucks,LW,11:23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,11:23,0:00,0:00,NA
+2018020178,8477951,Nick Schmaltz,Chicago Blackhawks,Vancouver Canucks,C,14:09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,12:32,1:06,0:31,NA
+2018020178,8475323,Marcus Kruger,Chicago Blackhawks,Vancouver Canucks,C,12:18,0,0,0,2,0,0,0,3,12,0,0,0,0,0,-1,9:30,0:00,2:48,25
+2018020178,8477401,John Hayden,Chicago Blackhawks,Vancouver Canucks,RW,9:13,0,0,1,2,0,0,0,0,0,0,0,0,0,1,-2,9:13,0:00,0:00,NA
+2018020178,8480946,Dominik Kahun,Chicago Blackhawks,Vancouver Canucks,C,17:18,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,16:20,0:58,0:00,0
+2018020178,8473573,Artem Anisimov,Chicago Blackhawks,Vancouver Canucks,C,18:08,1,0,2,0,0,0,0,10,14,0,0,0,0,1,0,16:25,1:03,0:40,71.43
+2018020178,8480144,David Kampf,Chicago Blackhawks,Vancouver Canucks,C,10:10,0,0,1,1,0,0,0,1,2,0,0,0,0,0,0,8:27,0:00,1:43,50
+2018020178,8480035,Henri Jokiharju,Chicago Blackhawks,Vancouver Canucks,D,22:51,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,19:26,0:00,3:25,NA

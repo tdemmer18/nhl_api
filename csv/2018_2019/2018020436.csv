@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020436,8471769,Niklas Hjalmarsson,Arizona Coyotes,D,16:57,0,0,2,0,0,0,0,0,0,0,1,0,0,1,-1,15:53,0:00,1:04,NA
-2018020436,8474613,Derek Stepan,Arizona Coyotes,C,18:42,1,0,0,1,0,0,0,16,20,0,0,0,0,0,-1,16:45,1:23,0:34,80
-2018020436,8475209,Richard Panik,Arizona Coyotes,RW,19:07,0,0,1,1,0,0,0,0,1,1,1,0,0,1,-1,17:03,1:30,0:34,0
-2018020436,8470755,Brad Richardson,Arizona Coyotes,C,15:55,0,0,2,0,0,0,0,8,12,0,0,0,0,0,-1,14:47,0:00,1:08,66.67
-2018020436,8476326,Josh Archibald,Arizona Coyotes,RW,12:42,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,11:34,0:00,1:08,NA
-2018020436,8474131,Mario Kempe,Arizona Coyotes,RW,8:23,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-1,8:23,0:00,0:00,NA
-2018020436,8477851,Jordan Oesterle,Arizona Coyotes,D,17:46,1,0,3,0,0,0,0,0,0,0,2,0,0,2,1,16:23,1:23,0:00,NA
-2018020436,8476994,Vinnie Hinostroza,Arizona Coyotes,C,6:53,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,6:53,0:00,0:00,NA
-2018020436,8476851,Alex Galchenyuk,Arizona Coyotes,C,18:17,0,0,2,0,0,0,0,0,1,0,1,0,0,1,-1,16:05,2:12,0:00,0
-2018020436,8477951,Nick Schmaltz,Arizona Coyotes,C,20:19,0,0,0,0,0,0,0,4,11,1,1,0,0,0,-2,18:07,2:12,0:00,36.36
-2018020436,8475246,Kevin Connauton,Arizona Coyotes,D,21:43,0,0,2,1,0,0,0,0,0,0,0,0,0,4,-1,20:39,0:00,1:04,NA
-2018020436,8471274,Alex Goligoski,Arizona Coyotes,D,19:46,0,0,1,2,0,0,0,0,0,0,0,0,0,1,1,17:12,1:56,0:38,NA
-2018020436,8478474,Lawson Crouse,Arizona Coyotes,LW,11:10,0,1,2,5,0,0,0,0,0,0,0,0,0,0,0,11:10,0:00,0:00,NA
-2018020436,8479345,Jakob Chychrun,Arizona Coyotes,D,19:05,0,0,1,1,0,0,2,0,0,0,1,0,0,3,-1,16:46,2:19,0:00,NA
-2018020436,8478432,Christian Fischer,Arizona Coyotes,RW,16:36,0,1,4,0,0,0,0,0,0,0,0,0,0,1,0,15:06,1:30,0:00,NA
-2018020436,8479343,Clayton Keller,Arizona Coyotes,C,20:51,0,0,2,0,0,0,0,1,2,2,1,0,0,0,-2,18:32,2:19,0:00,50
-2018020436,8475171,Oliver Ekman-Larsson,Arizona Coyotes,D,24:40,0,0,3,3,0,0,0,0,0,1,2,0,0,0,-2,22:16,1:46,0:38,NA
-2018020436,8476393,Nick Cousins,Arizona Coyotes,C,10:52,1,0,0,0,0,0,0,2,4,1,0,0,0,1,0,10:52,0:00,0:00,50
-2018020436,8471702,Matt Niskanen,Washington Capitals,D,22:35,1,1,3,4,0,0,2,0,0,0,2,0,0,1,3,21:02,0:24,1:09,NA
-2018020436,8476905,Chandler Stephenson,Washington Capitals,C,16:25,0,0,0,1,0,0,0,0,2,0,1,0,0,0,0,14:38,0:00,1:47,0
-2018020436,8476329,Travis Boyd,Washington Capitals,C,11:31,1,0,0,1,0,0,0,3,4,1,0,0,0,0,0,10:15,0:00,1:16,75
-2018020436,8475758,Devante Smith-Pelly,Washington Capitals,RW,15:42,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,14:06,0:00,1:36,NA
-2018020436,8476436,Dmitrij Jaskin,Washington Capitals,RW,8:41,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,8:41,0:00,0:00,NA
-2018020436,8471214,Alex Ovechkin,Washington Capitals,LW,17:48,0,1,4,3,0,0,0,0,0,0,2,0,0,0,1,16:30,1:18,0:00,NA
-2018020436,8475744,Evgeny Kuznetsov,Washington Capitals,C,18:03,1,0,0,1,0,0,0,6,13,0,1,0,0,0,2,17:00,1:03,0:00,46.15
-2018020436,8477944,Jakub Vrana,Washington Capitals,LW,14:47,0,1,3,2,0,0,0,0,0,0,2,0,0,1,1,14:08,0:39,0:00,NA
-2018020436,8477444,Andre Burakovsky,Washington Capitals,LW,14:37,0,1,2,0,0,0,0,0,0,0,1,0,0,2,0,13:58,0:39,0:00,NA
-2018020436,8475200,Dmitry Orlov,Washington Capitals,D,23:19,1,0,1,4,0,0,0,0,0,0,3,0,0,1,3,21:57,0:06,1:16,NA
-2018020436,8475343,Nic Dowd,Washington Capitals,C,9:36,0,0,0,1,0,0,0,1,4,0,0,0,0,0,0,8:13,0:00,1:23,25
-2018020436,8473563,Nicklas Backstrom,Washington Capitals,C,18:01,1,0,0,0,0,0,0,3,16,1,1,0,0,1,2,16:33,1:03,0:25,18.75
-2018020436,8474590,John Carlson,Washington Capitals,D,24:27,0,0,7,0,0,0,0,0,0,0,0,0,0,2,1,20:37,1:36,2:14,NA
-2018020436,8474189,Lars Eller,Washington Capitals,C,16:43,0,0,3,3,0,0,2,7,12,1,1,0,0,0,-1,15:07,0:39,0:57,58.33
-2018020436,8477043,Christian Djoos,Washington Capitals,D,13:01,0,0,1,1,0,0,0,0,0,0,0,0,0,5,-2,12:56,0:05,0:00,NA
-2018020436,8478399,Jonas Siegenthaler,Washington Capitals,D,13:32,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-2,12:35,0:00,0:57,NA
-2018020436,8475792,Brett Connolly,Washington Capitals,RW,15:19,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,14:21,0:58,0:00,NA
-2018020436,8479482,Michal Kempny,Washington Capitals,D,21:53,0,0,3,1,0,0,0,0,0,0,1,0,0,3,1,20:05,0:00,1:48,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020436,8471769,Niklas Hjalmarsson,Arizona Coyotes,Washington Capitals,D,16:57,0,0,2,0,0,0,0,0,0,0,1,0,0,1,-1,15:53,0:00,1:04,NA
+2018020436,8474613,Derek Stepan,Arizona Coyotes,Washington Capitals,C,18:42,1,0,0,1,0,0,0,16,20,0,0,0,0,0,-1,16:45,1:23,0:34,80
+2018020436,8475209,Richard Panik,Arizona Coyotes,Washington Capitals,RW,19:07,0,0,1,1,0,0,0,0,1,1,1,0,0,1,-1,17:03,1:30,0:34,0
+2018020436,8470755,Brad Richardson,Arizona Coyotes,Washington Capitals,C,15:55,0,0,2,0,0,0,0,8,12,0,0,0,0,0,-1,14:47,0:00,1:08,66.67
+2018020436,8476326,Josh Archibald,Arizona Coyotes,Washington Capitals,RW,12:42,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,11:34,0:00,1:08,NA
+2018020436,8474131,Mario Kempe,Arizona Coyotes,Washington Capitals,RW,8:23,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-1,8:23,0:00,0:00,NA
+2018020436,8477851,Jordan Oesterle,Arizona Coyotes,Washington Capitals,D,17:46,1,0,3,0,0,0,0,0,0,0,2,0,0,2,1,16:23,1:23,0:00,NA
+2018020436,8476994,Vinnie Hinostroza,Arizona Coyotes,Washington Capitals,C,6:53,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,6:53,0:00,0:00,NA
+2018020436,8476851,Alex Galchenyuk,Arizona Coyotes,Washington Capitals,C,18:17,0,0,2,0,0,0,0,0,1,0,1,0,0,1,-1,16:05,2:12,0:00,0
+2018020436,8477951,Nick Schmaltz,Arizona Coyotes,Washington Capitals,C,20:19,0,0,0,0,0,0,0,4,11,1,1,0,0,0,-2,18:07,2:12,0:00,36.36
+2018020436,8475246,Kevin Connauton,Arizona Coyotes,Washington Capitals,D,21:43,0,0,2,1,0,0,0,0,0,0,0,0,0,4,-1,20:39,0:00,1:04,NA
+2018020436,8471274,Alex Goligoski,Arizona Coyotes,Washington Capitals,D,19:46,0,0,1,2,0,0,0,0,0,0,0,0,0,1,1,17:12,1:56,0:38,NA
+2018020436,8478474,Lawson Crouse,Arizona Coyotes,Washington Capitals,LW,11:10,0,1,2,5,0,0,0,0,0,0,0,0,0,0,0,11:10,0:00,0:00,NA
+2018020436,8479345,Jakob Chychrun,Arizona Coyotes,Washington Capitals,D,19:05,0,0,1,1,0,0,2,0,0,0,1,0,0,3,-1,16:46,2:19,0:00,NA
+2018020436,8478432,Christian Fischer,Arizona Coyotes,Washington Capitals,RW,16:36,0,1,4,0,0,0,0,0,0,0,0,0,0,1,0,15:06,1:30,0:00,NA
+2018020436,8479343,Clayton Keller,Arizona Coyotes,Washington Capitals,C,20:51,0,0,2,0,0,0,0,1,2,2,1,0,0,0,-2,18:32,2:19,0:00,50
+2018020436,8475171,Oliver Ekman-Larsson,Arizona Coyotes,Washington Capitals,D,24:40,0,0,3,3,0,0,0,0,0,1,2,0,0,0,-2,22:16,1:46,0:38,NA
+2018020436,8476393,Nick Cousins,Arizona Coyotes,Washington Capitals,C,10:52,1,0,0,0,0,0,0,2,4,1,0,0,0,1,0,10:52,0:00,0:00,50
+2018020436,8471702,Matt Niskanen,Washington Capitals,Arizona Coyotes,D,22:35,1,1,3,4,0,0,2,0,0,0,2,0,0,1,3,21:02,0:24,1:09,NA
+2018020436,8476905,Chandler Stephenson,Washington Capitals,Arizona Coyotes,C,16:25,0,0,0,1,0,0,0,0,2,0,1,0,0,0,0,14:38,0:00,1:47,0
+2018020436,8476329,Travis Boyd,Washington Capitals,Arizona Coyotes,C,11:31,1,0,0,1,0,0,0,3,4,1,0,0,0,0,0,10:15,0:00,1:16,75
+2018020436,8475758,Devante Smith-Pelly,Washington Capitals,Arizona Coyotes,RW,15:42,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,14:06,0:00,1:36,NA
+2018020436,8476436,Dmitrij Jaskin,Washington Capitals,Arizona Coyotes,RW,8:41,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,8:41,0:00,0:00,NA
+2018020436,8471214,Alex Ovechkin,Washington Capitals,Arizona Coyotes,LW,17:48,0,1,4,3,0,0,0,0,0,0,2,0,0,0,1,16:30,1:18,0:00,NA
+2018020436,8475744,Evgeny Kuznetsov,Washington Capitals,Arizona Coyotes,C,18:03,1,0,0,1,0,0,0,6,13,0,1,0,0,0,2,17:00,1:03,0:00,46.15
+2018020436,8477944,Jakub Vrana,Washington Capitals,Arizona Coyotes,LW,14:47,0,1,3,2,0,0,0,0,0,0,2,0,0,1,1,14:08,0:39,0:00,NA
+2018020436,8477444,Andre Burakovsky,Washington Capitals,Arizona Coyotes,LW,14:37,0,1,2,0,0,0,0,0,0,0,1,0,0,2,0,13:58,0:39,0:00,NA
+2018020436,8475200,Dmitry Orlov,Washington Capitals,Arizona Coyotes,D,23:19,1,0,1,4,0,0,0,0,0,0,3,0,0,1,3,21:57,0:06,1:16,NA
+2018020436,8475343,Nic Dowd,Washington Capitals,Arizona Coyotes,C,9:36,0,0,0,1,0,0,0,1,4,0,0,0,0,0,0,8:13,0:00,1:23,25
+2018020436,8473563,Nicklas Backstrom,Washington Capitals,Arizona Coyotes,C,18:01,1,0,0,0,0,0,0,3,16,1,1,0,0,1,2,16:33,1:03,0:25,18.75
+2018020436,8474590,John Carlson,Washington Capitals,Arizona Coyotes,D,24:27,0,0,7,0,0,0,0,0,0,0,0,0,0,2,1,20:37,1:36,2:14,NA
+2018020436,8474189,Lars Eller,Washington Capitals,Arizona Coyotes,C,16:43,0,0,3,3,0,0,2,7,12,1,1,0,0,0,-1,15:07,0:39,0:57,58.33
+2018020436,8477043,Christian Djoos,Washington Capitals,Arizona Coyotes,D,13:01,0,0,1,1,0,0,0,0,0,0,0,0,0,5,-2,12:56,0:05,0:00,NA
+2018020436,8478399,Jonas Siegenthaler,Washington Capitals,Arizona Coyotes,D,13:32,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-2,12:35,0:00,0:57,NA
+2018020436,8475792,Brett Connolly,Washington Capitals,Arizona Coyotes,RW,15:19,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,14:21,0:58,0:00,NA
+2018020436,8479482,Michal Kempny,Washington Capitals,Arizona Coyotes,D,21:53,0,0,3,1,0,0,0,0,0,0,1,0,0,3,1,20:05,0:00,1:48,NA

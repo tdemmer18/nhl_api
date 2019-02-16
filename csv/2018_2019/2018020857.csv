@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020857,8470607,Brent Seabrook,Chicago Blackhawks,D,21:36,1,0,0,2,0,0,0,0,0,0,0,0,0,2,2,20:13,0:36,0:47,NA
-2018020857,8476979,Erik Gustafsson,Chicago Blackhawks,D,16:45,1,0,2,0,0,0,0,0,0,0,1,0,0,3,0,13:35,3:10,0:00,NA
-2018020857,8477943,Brendan Perlini,Chicago Blackhawks,LW,13:15,0,0,2,0,0,0,2,0,0,0,0,0,0,1,0,12:54,0:00,0:21,NA
-2018020857,8473604,Jonathan Toews,Chicago Blackhawks,C,20:33,1,1,5,1,0,0,2,17,26,1,1,0,0,1,1,17:46,2:27,0:20,65.38
-2018020857,8476886,Slater Koekkoek,Chicago Blackhawks,D,13:14,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,11:37,0:00,1:37,NA
-2018020857,8470543,Chris Kunitz,Chicago Blackhawks,LW,6:36,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,6:36,0:00,0:00,NA
-2018020857,8476438,Brandon Saad,Chicago Blackhawks,LW,15:58,0,0,3,3,0,0,0,1,2,1,0,0,0,1,0,13:01,1:33,1:24,50
-2018020857,8479337,Alex DeBrincat,Chicago Blackhawks,LW,15:56,3,0,2,0,0,0,0,0,0,1,1,0,0,0,2,12:48,3:08,0:00,NA
-2018020857,8470281,Duncan Keith,Chicago Blackhawks,D,23:49,0,0,3,1,0,0,0,0,0,0,0,0,0,2,2,21:04,0:50,1:55,NA
-2018020857,8474141,Patrick Kane,Chicago Blackhawks,RW,22:54,1,1,5,0,0,0,0,0,0,0,0,0,0,1,1,19:36,3:10,0:08,NA
-2018020857,8475323,Marcus Kruger,Chicago Blackhawks,C,14:31,0,0,1,3,0,0,0,4,12,0,0,0,0,2,1,12:43,0:00,1:48,33.33
-2018020857,8477401,John Hayden,Chicago Blackhawks,RW,7:08,0,0,1,5,0,0,0,1,1,0,0,0,0,0,0,7:08,0:00,0:00,100
-2018020857,8480946,Dominik Kahun,Chicago Blackhawks,C,14:36,1,2,4,0,0,0,0,0,0,0,0,0,0,0,2,12:27,1:06,1:03,NA
-2018020857,8479465,Drake Caggiula,Chicago Blackhawks,C,19:07,0,0,2,4,0,0,0,0,2,0,1,0,0,0,0,18:06,0:00,1:01,0
-2018020857,8473573,Artem Anisimov,Chicago Blackhawks,C,13:13,0,0,1,1,0,0,0,6,13,0,0,0,0,1,0,10:28,0:50,1:55,46.15
-2018020857,8478440,Dylan Strome,Chicago Blackhawks,C,15:37,2,1,1,0,0,0,0,6,12,4,0,0,0,0,2,12:27,3:10,0:00,50
-2018020857,8477472,Carl Dahlstrom,Chicago Blackhawks,D,20:01,0,0,1,1,0,0,0,0,0,0,0,0,0,2,1,18:42,0:00,1:19,NA
-2018020857,8476473,Connor Murphy,Chicago Blackhawks,D,21:11,0,0,1,0,0,0,0,0,0,0,1,0,0,3,1,18:49,0:00,2:22,NA
-2018020857,8470318,Jonathan Ericsson,Detroit Red Wings,D,14:07,0,0,0,0,0,0,0,0,0,0,0,0,0,3,-1,12:25,0:00,1:42,NA
-2018020857,8471716,Justin Abdelkader,Detroit Red Wings,LW,14:24,1,0,3,1,0,0,0,0,0,0,0,0,0,0,-1,12:50,0:00,1:34,NA
-2018020857,8474679,Gustav Nyquist,Detroit Red Wings,RW,17:20,0,1,3,0,0,0,0,0,0,0,0,0,0,0,-1,15:36,1:44,0:00,NA
-2018020857,8477946,Dylan Larkin,Detroit Red Wings,C,21:58,0,0,6,0,0,0,2,14,27,1,0,0,0,2,-1,19:00,2:16,0:42,51.85
-2018020857,8471794,Darren Helm,Detroit Red Wings,LW,13:35,0,0,2,0,0,0,0,1,3,0,0,0,0,1,0,12:02,0:00,1:33,33.33
-2018020857,8470144,Frans Nielsen,Detroit Red Wings,C,16:18,0,0,3,2,0,0,0,5,13,0,0,0,0,0,-2,14:19,1:59,0:00,38.46
-2018020857,8475324,Nick Jensen,Detroit Red Wings,D,21:23,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,18:45,0:00,2:38,NA
-2018020857,8470598,Thomas Vanek,Detroit Red Wings,LW,14:08,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-1,11:52,2:16,0:00,NA
-2018020857,8476822,Luke Glendening,Detroit Red Wings,C,15:12,0,0,4,5,0,0,0,6,14,0,0,0,0,1,0,12:46,0:00,2:26,42.86
-2018020857,8477455,Jacob de la Rose,Detroit Red Wings,C,10:04,0,0,4,0,0,0,0,3,5,1,0,0,0,0,0,8:19,0:00,1:45,60
-2018020857,8476960,Andreas Athanasiou,Detroit Red Wings,C,17:30,0,0,3,0,0,0,0,0,1,1,0,0,0,0,-2,15:29,2:01,0:00,0
-2018020857,8477215,Danny DeKeyser,Detroit Red Wings,D,20:06,0,0,1,4,0,0,0,0,0,1,0,0,0,1,-2,17:48,0:00,2:18,NA
-2018020857,8477511,Anthony Mantha,Detroit Red Wings,RW,17:16,0,0,2,1,0,0,0,3,4,1,0,0,0,2,-2,15:02,2:14,0:00,75
-2018020857,8471242,Mike Green,Detroit Red Wings,D,24:20,0,0,4,1,0,0,0,0,0,0,3,0,0,3,-3,22:08,2:12,0:00,NA
-2018020857,8478036,Christoffer Ehn,Detroit Red Wings,C,12:06,0,1,3,0,0,0,0,0,0,1,0,0,0,1,1,12:06,0:00,0:00,NA
-2018020857,8479992,Michael Rasmussen,Detroit Red Wings,C,9:46,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,8:02,1:44,0:00,NA
-2018020857,8479395,Dennis Cholowski,Detroit Red Wings,D,15:13,0,0,1,0,0,0,0,1,1,0,1,0,0,0,-1,13:27,1:46,0:00,100
-2018020857,8468509,Niklas Kronwall,Detroit Red Wings,D,22:37,0,0,3,2,0,0,0,0,0,1,1,0,0,1,0,19:27,1:48,1:22,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020857,8470607,Brent Seabrook,Chicago Blackhawks,Detroit Red Wings,D,21:36,1,0,0,2,0,0,0,0,0,0,0,0,0,2,2,20:13,0:36,0:47,NA
+2018020857,8476979,Erik Gustafsson,Chicago Blackhawks,Detroit Red Wings,D,16:45,1,0,2,0,0,0,0,0,0,0,1,0,0,3,0,13:35,3:10,0:00,NA
+2018020857,8477943,Brendan Perlini,Chicago Blackhawks,Detroit Red Wings,LW,13:15,0,0,2,0,0,0,2,0,0,0,0,0,0,1,0,12:54,0:00,0:21,NA
+2018020857,8473604,Jonathan Toews,Chicago Blackhawks,Detroit Red Wings,C,20:33,1,1,5,1,0,0,2,17,26,1,1,0,0,1,1,17:46,2:27,0:20,65.38
+2018020857,8476886,Slater Koekkoek,Chicago Blackhawks,Detroit Red Wings,D,13:14,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,11:37,0:00,1:37,NA
+2018020857,8470543,Chris Kunitz,Chicago Blackhawks,Detroit Red Wings,LW,6:36,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,6:36,0:00,0:00,NA
+2018020857,8476438,Brandon Saad,Chicago Blackhawks,Detroit Red Wings,LW,15:58,0,0,3,3,0,0,0,1,2,1,0,0,0,1,0,13:01,1:33,1:24,50
+2018020857,8479337,Alex DeBrincat,Chicago Blackhawks,Detroit Red Wings,LW,15:56,3,0,2,0,0,0,0,0,0,1,1,0,0,0,2,12:48,3:08,0:00,NA
+2018020857,8470281,Duncan Keith,Chicago Blackhawks,Detroit Red Wings,D,23:49,0,0,3,1,0,0,0,0,0,0,0,0,0,2,2,21:04,0:50,1:55,NA
+2018020857,8474141,Patrick Kane,Chicago Blackhawks,Detroit Red Wings,RW,22:54,1,1,5,0,0,0,0,0,0,0,0,0,0,1,1,19:36,3:10,0:08,NA
+2018020857,8475323,Marcus Kruger,Chicago Blackhawks,Detroit Red Wings,C,14:31,0,0,1,3,0,0,0,4,12,0,0,0,0,2,1,12:43,0:00,1:48,33.33
+2018020857,8477401,John Hayden,Chicago Blackhawks,Detroit Red Wings,RW,7:08,0,0,1,5,0,0,0,1,1,0,0,0,0,0,0,7:08,0:00,0:00,100
+2018020857,8480946,Dominik Kahun,Chicago Blackhawks,Detroit Red Wings,C,14:36,1,2,4,0,0,0,0,0,0,0,0,0,0,0,2,12:27,1:06,1:03,NA
+2018020857,8479465,Drake Caggiula,Chicago Blackhawks,Detroit Red Wings,C,19:07,0,0,2,4,0,0,0,0,2,0,1,0,0,0,0,18:06,0:00,1:01,0
+2018020857,8473573,Artem Anisimov,Chicago Blackhawks,Detroit Red Wings,C,13:13,0,0,1,1,0,0,0,6,13,0,0,0,0,1,0,10:28,0:50,1:55,46.15
+2018020857,8478440,Dylan Strome,Chicago Blackhawks,Detroit Red Wings,C,15:37,2,1,1,0,0,0,0,6,12,4,0,0,0,0,2,12:27,3:10,0:00,50
+2018020857,8477472,Carl Dahlstrom,Chicago Blackhawks,Detroit Red Wings,D,20:01,0,0,1,1,0,0,0,0,0,0,0,0,0,2,1,18:42,0:00,1:19,NA
+2018020857,8476473,Connor Murphy,Chicago Blackhawks,Detroit Red Wings,D,21:11,0,0,1,0,0,0,0,0,0,0,1,0,0,3,1,18:49,0:00,2:22,NA
+2018020857,8470318,Jonathan Ericsson,Detroit Red Wings,Chicago Blackhawks,D,14:07,0,0,0,0,0,0,0,0,0,0,0,0,0,3,-1,12:25,0:00,1:42,NA
+2018020857,8471716,Justin Abdelkader,Detroit Red Wings,Chicago Blackhawks,LW,14:24,1,0,3,1,0,0,0,0,0,0,0,0,0,0,-1,12:50,0:00,1:34,NA
+2018020857,8474679,Gustav Nyquist,Detroit Red Wings,Chicago Blackhawks,RW,17:20,0,1,3,0,0,0,0,0,0,0,0,0,0,0,-1,15:36,1:44,0:00,NA
+2018020857,8477946,Dylan Larkin,Detroit Red Wings,Chicago Blackhawks,C,21:58,0,0,6,0,0,0,2,14,27,1,0,0,0,2,-1,19:00,2:16,0:42,51.85
+2018020857,8471794,Darren Helm,Detroit Red Wings,Chicago Blackhawks,LW,13:35,0,0,2,0,0,0,0,1,3,0,0,0,0,1,0,12:02,0:00,1:33,33.33
+2018020857,8470144,Frans Nielsen,Detroit Red Wings,Chicago Blackhawks,C,16:18,0,0,3,2,0,0,0,5,13,0,0,0,0,0,-2,14:19,1:59,0:00,38.46
+2018020857,8475324,Nick Jensen,Detroit Red Wings,Chicago Blackhawks,D,21:23,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,18:45,0:00,2:38,NA
+2018020857,8470598,Thomas Vanek,Detroit Red Wings,Chicago Blackhawks,LW,14:08,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-1,11:52,2:16,0:00,NA
+2018020857,8476822,Luke Glendening,Detroit Red Wings,Chicago Blackhawks,C,15:12,0,0,4,5,0,0,0,6,14,0,0,0,0,1,0,12:46,0:00,2:26,42.86
+2018020857,8477455,Jacob de la Rose,Detroit Red Wings,Chicago Blackhawks,C,10:04,0,0,4,0,0,0,0,3,5,1,0,0,0,0,0,8:19,0:00,1:45,60
+2018020857,8476960,Andreas Athanasiou,Detroit Red Wings,Chicago Blackhawks,C,17:30,0,0,3,0,0,0,0,0,1,1,0,0,0,0,-2,15:29,2:01,0:00,0
+2018020857,8477215,Danny DeKeyser,Detroit Red Wings,Chicago Blackhawks,D,20:06,0,0,1,4,0,0,0,0,0,1,0,0,0,1,-2,17:48,0:00,2:18,NA
+2018020857,8477511,Anthony Mantha,Detroit Red Wings,Chicago Blackhawks,RW,17:16,0,0,2,1,0,0,0,3,4,1,0,0,0,2,-2,15:02,2:14,0:00,75
+2018020857,8471242,Mike Green,Detroit Red Wings,Chicago Blackhawks,D,24:20,0,0,4,1,0,0,0,0,0,0,3,0,0,3,-3,22:08,2:12,0:00,NA
+2018020857,8478036,Christoffer Ehn,Detroit Red Wings,Chicago Blackhawks,C,12:06,0,1,3,0,0,0,0,0,0,1,0,0,0,1,1,12:06,0:00,0:00,NA
+2018020857,8479992,Michael Rasmussen,Detroit Red Wings,Chicago Blackhawks,C,9:46,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,8:02,1:44,0:00,NA
+2018020857,8479395,Dennis Cholowski,Detroit Red Wings,Chicago Blackhawks,D,15:13,0,0,1,0,0,0,0,1,1,0,1,0,0,0,-1,13:27,1:46,0:00,100
+2018020857,8468509,Niklas Kronwall,Detroit Red Wings,Chicago Blackhawks,D,22:37,0,0,3,2,0,0,0,0,0,1,1,0,0,1,0,19:27,1:48,1:22,NA

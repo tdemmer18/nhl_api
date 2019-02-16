@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020221,8475768,Jaden Schwartz,St. Louis Blues,LW,19:17,0,0,2,0,0,0,0,100,1,1,1,1,0,0,2,1,12:58,3:01,3:18
-2018020221,8474125,Carl Gunnarsson,St. Louis Blues,D,18:58,0,0,2,1,0,0,2,NA,0,0,0,1,0,0,2,2,14:44,0:00,4:14
-2018020221,8474565,Alex Pietrangelo,St. Louis Blues,D,25:06,1,0,1,1,0,0,0,NA,0,0,0,2,0,0,1,2,15:55,2:55,6:16
-2018020221,8476897,Oskar Sundqvist,St. Louis Blues,C,11:13,0,0,1,0,0,0,0,25,1,4,0,0,0,0,1,0,8:51,0:00,2:22
-2018020221,8477964,Ivan Barbashev,St. Louis Blues,C,13:28,0,0,0,1,0,0,0,87.5,7,8,0,0,0,0,1,0,10:35,0:08,2:45
-2018020221,8475765,Vladimir Tarasenko,St. Louis Blues,RW,17:41,2,0,1,2,0,1,0,NA,0,0,1,1,0,0,0,1,14:38,3:03,0:00
-2018020221,8470257,Alexander Steen,St. Louis Blues,LW,16:51,1,0,0,1,0,0,0,NA,0,0,1,0,0,0,0,1,10:25,2:16,4:10
-2018020221,8478407,Vince Dunn,St. Louis Blues,D,19:06,0,0,1,0,0,0,2,NA,0,0,0,2,0,0,3,0,15:41,3:17,0:08
-2018020221,8476877,Jordan Schmaltz,St. Louis Blues,D,10:26,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,2,0,9:26,0:00,1:00
-2018020221,8477952,Robby Fabbri,St. Louis Blues,C,14:14,0,1,2,2,0,0,0,NA,0,0,0,1,0,0,0,1,11:42,2:23,0:09
-2018020221,8475158,Ryan O'Reilly,St. Louis Blues,C,22:08,0,3,5,0,1,0,0,70.83,17,24,1,0,0,0,0,2,15:23,3:03,3:42
-2018020221,8474102,David Perron,St. Louis Blues,LW,14:55,1,0,1,0,0,0,2,0,0,1,1,0,0,0,1,1,11:14,3:41,0:00
-2018020221,8474034,Pat Maroon,St. Louis Blues,LW,9:26,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,0,0,6:23,3:03,0:00
-2018020221,8475098,Tyler Bozak,St. Louis Blues,C,15:32,2,0,0,2,0,1,0,45.45,5,11,1,1,0,0,1,1,10:00,2:26,3:06
-2018020221,8476441,Joel Edmundson,St. Louis Blues,D,20:18,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,1,1,16:00,0:05,4:13
-2018020221,8476892,Colton Parayko,St. Louis Blues,D,22:01,0,0,1,3,0,0,0,NA,0,0,0,1,0,0,2,1,16:33,1:39,3:49
-2018020221,8477482,Zach Sanford,St. Louis Blues,LW,10:21,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,10:21,0:00,0:00
-2018020221,8480023,Robert Thomas,St. Louis Blues,C,9:15,1,0,0,0,0,0,0,42.86,3,7,0,2,0,0,0,1,9:07,0:00,0:08
-2018020221,8475907,Micheal Ferland,Carolina Hurricanes,LW,14:56,0,0,2,2,0,0,0,25,1,4,1,0,0,0,1,-1,10:24,4:32,0:00
-2018020221,8476934,Brock McGinn,Carolina Hurricanes,LW,13:39,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,0,10:17,0:07,3:15
-2018020221,8473533,Jordan Staal,Carolina Hurricanes,C,20:17,0,0,5,3,0,0,0,42.11,8,19,0,0,0,0,0,-1,13:26,4:24,2:27
-2018020221,8476958,Jaccob Slavin,Carolina Hurricanes,D,23:55,0,1,1,0,1,0,0,NA,0,0,0,1,0,0,1,-3,16:22,4:35,2:58
-2018020221,8477998,Warren Foegele,Carolina Hurricanes,LW,16:47,0,0,2,1,0,0,0,NA,0,0,1,0,0,0,1,-1,13:57,0:59,1:51
-2018020221,8478427,Sebastian Aho,Carolina Hurricanes,C,18:27,0,0,2,0,0,0,0,41.67,5,12,1,0,0,0,0,-2,12:04,5:19,1:04
-2018020221,8475753,Justin Faulk,Carolina Hurricanes,D,22:53,0,0,4,3,0,0,0,NA,0,0,0,0,0,0,1,-1,14:48,5:17,2:48
-2018020221,8477458,Valentin Zykov,Carolina Hurricanes,LW,6:38,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,4:38,2:00,0:00
-2018020221,8476921,Jordan Martinook,Carolina Hurricanes,LW,14:21,0,0,1,1,0,0,0,50,1,2,0,0,0,0,0,-1,12:44,0:07,1:30
-2018020221,8477845,Trevor van Riemsdyk,Carolina Hurricanes,D,14:38,0,0,1,0,0,0,2,NA,0,0,1,0,0,0,2,0,13:33,0:00,1:05
-2018020221,8477488,Brett Pesce,Carolina Hurricanes,D,18:06,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,4,-1,14:09,0:33,3:24
-2018020221,8475177,Calvin de Haan,Carolina Hurricanes,D,17:05,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,14:50,0:06,2:09
-2018020221,8478027,Lucas Wallmark,Carolina Hurricanes,C,17:14,1,0,5,0,0,1,0,50,6,12,0,0,0,0,1,-1,12:22,3:53,0:59
-2018020221,8476882,Teuvo Teravainen,Carolina Hurricanes,LW,17:32,0,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,-1,11:07,5:07,1:18
-2018020221,8478462,Nicolas Roy,Carolina Hurricanes,C,6:04,0,0,0,1,0,0,2,40,2,5,0,0,0,0,0,0,6:04,0:00,0:00
-2018020221,8476462,Dougie Hamilton,Carolina Hurricanes,D,19:05,0,0,3,1,0,0,2,NA,0,0,0,1,0,0,1,-1,14:37,4:28,0:00
-2018020221,8468508,Justin Williams,Carolina Hurricanes,RW,16:38,1,0,3,1,0,1,0,0,0,1,0,1,0,0,0,-1,12:04,4:34,0:00
-2018020221,8480830,Andrei Svechnikov,Carolina Hurricanes,RW,15:48,0,0,4,2,0,0,0,NA,0,0,0,0,0,0,0,-1,12:39,3:09,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020221,8475768,Jaden Schwartz,St. Louis Blues,Carolina Hurricanes,LW,19:17,0,0,2,0,0,0,0,100,1,1,1,1,0,0,2,1,12:58,3:01,3:18
+2018020221,8474125,Carl Gunnarsson,St. Louis Blues,Carolina Hurricanes,D,18:58,0,0,2,1,0,0,2,NA,0,0,0,1,0,0,2,2,14:44,0:00,4:14
+2018020221,8474565,Alex Pietrangelo,St. Louis Blues,Carolina Hurricanes,D,25:06,1,0,1,1,0,0,0,NA,0,0,0,2,0,0,1,2,15:55,2:55,6:16
+2018020221,8476897,Oskar Sundqvist,St. Louis Blues,Carolina Hurricanes,C,11:13,0,0,1,0,0,0,0,25,1,4,0,0,0,0,1,0,8:51,0:00,2:22
+2018020221,8477964,Ivan Barbashev,St. Louis Blues,Carolina Hurricanes,C,13:28,0,0,0,1,0,0,0,87.5,7,8,0,0,0,0,1,0,10:35,0:08,2:45
+2018020221,8475765,Vladimir Tarasenko,St. Louis Blues,Carolina Hurricanes,RW,17:41,2,0,1,2,0,1,0,NA,0,0,1,1,0,0,0,1,14:38,3:03,0:00
+2018020221,8470257,Alexander Steen,St. Louis Blues,Carolina Hurricanes,LW,16:51,1,0,0,1,0,0,0,NA,0,0,1,0,0,0,0,1,10:25,2:16,4:10
+2018020221,8478407,Vince Dunn,St. Louis Blues,Carolina Hurricanes,D,19:06,0,0,1,0,0,0,2,NA,0,0,0,2,0,0,3,0,15:41,3:17,0:08
+2018020221,8476877,Jordan Schmaltz,St. Louis Blues,Carolina Hurricanes,D,10:26,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,2,0,9:26,0:00,1:00
+2018020221,8477952,Robby Fabbri,St. Louis Blues,Carolina Hurricanes,C,14:14,0,1,2,2,0,0,0,NA,0,0,0,1,0,0,0,1,11:42,2:23,0:09
+2018020221,8475158,Ryan O'Reilly,St. Louis Blues,Carolina Hurricanes,C,22:08,0,3,5,0,1,0,0,70.83,17,24,1,0,0,0,0,2,15:23,3:03,3:42
+2018020221,8474102,David Perron,St. Louis Blues,Carolina Hurricanes,LW,14:55,1,0,1,0,0,0,2,0,0,1,1,0,0,0,1,1,11:14,3:41,0:00
+2018020221,8474034,Pat Maroon,St. Louis Blues,Carolina Hurricanes,LW,9:26,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,0,0,6:23,3:03,0:00
+2018020221,8475098,Tyler Bozak,St. Louis Blues,Carolina Hurricanes,C,15:32,2,0,0,2,0,1,0,45.45,5,11,1,1,0,0,1,1,10:00,2:26,3:06
+2018020221,8476441,Joel Edmundson,St. Louis Blues,Carolina Hurricanes,D,20:18,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,1,1,16:00,0:05,4:13
+2018020221,8476892,Colton Parayko,St. Louis Blues,Carolina Hurricanes,D,22:01,0,0,1,3,0,0,0,NA,0,0,0,1,0,0,2,1,16:33,1:39,3:49
+2018020221,8477482,Zach Sanford,St. Louis Blues,Carolina Hurricanes,LW,10:21,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,10:21,0:00,0:00
+2018020221,8480023,Robert Thomas,St. Louis Blues,Carolina Hurricanes,C,9:15,1,0,0,0,0,0,0,42.86,3,7,0,2,0,0,0,1,9:07,0:00,0:08
+2018020221,8475907,Micheal Ferland,Carolina Hurricanes,St. Louis Blues,LW,14:56,0,0,2,2,0,0,0,25,1,4,1,0,0,0,1,-1,10:24,4:32,0:00
+2018020221,8476934,Brock McGinn,Carolina Hurricanes,St. Louis Blues,LW,13:39,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,0,10:17,0:07,3:15
+2018020221,8473533,Jordan Staal,Carolina Hurricanes,St. Louis Blues,C,20:17,0,0,5,3,0,0,0,42.11,8,19,0,0,0,0,0,-1,13:26,4:24,2:27
+2018020221,8476958,Jaccob Slavin,Carolina Hurricanes,St. Louis Blues,D,23:55,0,1,1,0,1,0,0,NA,0,0,0,1,0,0,1,-3,16:22,4:35,2:58
+2018020221,8477998,Warren Foegele,Carolina Hurricanes,St. Louis Blues,LW,16:47,0,0,2,1,0,0,0,NA,0,0,1,0,0,0,1,-1,13:57,0:59,1:51
+2018020221,8478427,Sebastian Aho,Carolina Hurricanes,St. Louis Blues,C,18:27,0,0,2,0,0,0,0,41.67,5,12,1,0,0,0,0,-2,12:04,5:19,1:04
+2018020221,8475753,Justin Faulk,Carolina Hurricanes,St. Louis Blues,D,22:53,0,0,4,3,0,0,0,NA,0,0,0,0,0,0,1,-1,14:48,5:17,2:48
+2018020221,8477458,Valentin Zykov,Carolina Hurricanes,St. Louis Blues,LW,6:38,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,4:38,2:00,0:00
+2018020221,8476921,Jordan Martinook,Carolina Hurricanes,St. Louis Blues,LW,14:21,0,0,1,1,0,0,0,50,1,2,0,0,0,0,0,-1,12:44,0:07,1:30
+2018020221,8477845,Trevor van Riemsdyk,Carolina Hurricanes,St. Louis Blues,D,14:38,0,0,1,0,0,0,2,NA,0,0,1,0,0,0,2,0,13:33,0:00,1:05
+2018020221,8477488,Brett Pesce,Carolina Hurricanes,St. Louis Blues,D,18:06,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,4,-1,14:09,0:33,3:24
+2018020221,8475177,Calvin de Haan,Carolina Hurricanes,St. Louis Blues,D,17:05,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,14:50,0:06,2:09
+2018020221,8478027,Lucas Wallmark,Carolina Hurricanes,St. Louis Blues,C,17:14,1,0,5,0,0,1,0,50,6,12,0,0,0,0,1,-1,12:22,3:53,0:59
+2018020221,8476882,Teuvo Teravainen,Carolina Hurricanes,St. Louis Blues,LW,17:32,0,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,-1,11:07,5:07,1:18
+2018020221,8478462,Nicolas Roy,Carolina Hurricanes,St. Louis Blues,C,6:04,0,0,0,1,0,0,2,40,2,5,0,0,0,0,0,0,6:04,0:00,0:00
+2018020221,8476462,Dougie Hamilton,Carolina Hurricanes,St. Louis Blues,D,19:05,0,0,3,1,0,0,2,NA,0,0,0,1,0,0,1,-1,14:37,4:28,0:00
+2018020221,8468508,Justin Williams,Carolina Hurricanes,St. Louis Blues,RW,16:38,1,0,3,1,0,1,0,0,0,1,0,1,0,0,0,-1,12:04,4:34,0:00
+2018020221,8480830,Andrei Svechnikov,Carolina Hurricanes,St. Louis Blues,RW,15:48,0,0,4,2,0,0,0,NA,0,0,0,0,0,0,0,-1,12:39,3:09,0:00

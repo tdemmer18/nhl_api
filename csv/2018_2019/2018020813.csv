@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020813,8471724,Kris Letang,Pittsburgh Penguins,D,27:26,0,0,4,4,0,0,0,0,0,1,1,0,0,0,0,21:09,3:29,2:48,NA
-2018020813,8476927,Teddy Blueger,Pittsburgh Penguins,C,9:49,0,0,1,4,0,0,0,0,0,0,0,0,0,0,-1,8:00,0:15,1:34,NA
-2018020813,8477969,Marcus Pettersson,Pittsburgh Penguins,D,16:12,0,0,2,3,0,0,2,0,0,0,0,0,0,2,-1,15:57,0:15,0:00,NA
-2018020813,8475208,Brian Dumoulin,Pittsburgh Penguins,D,21:59,0,0,0,4,0,0,0,0,0,0,1,0,0,1,-1,19:35,0:00,2:24,NA
-2018020813,8471675,Sidney Crosby,Pittsburgh Penguins,C,22:46,0,0,2,3,0,0,0,12,20,0,1,0,0,3,-2,20:35,2:11,0:00,60
-2018020813,8477404,Jake Guentzel,Pittsburgh Penguins,LW,18:25,0,0,4,1,0,0,0,0,0,0,1,0,0,1,-1,15:54,2:31,0:00,NA
-2018020813,8471887,Patric Hornqvist,Pittsburgh Penguins,RW,17:30,0,0,2,1,0,0,0,0,0,0,1,0,0,1,-2,15:31,1:59,0:00,NA
-2018020813,8478866,Dominik Simon,Pittsburgh Penguins,C,16:06,0,0,1,2,0,0,0,0,0,0,1,0,0,0,-1,14:52,1:14,0:00,NA
-2018020813,8473548,Phil Kessel,Pittsburgh Penguins,RW,17:44,0,0,1,0,0,0,0,0,0,0,1,0,0,0,-2,14:43,3:01,0:00,NA
-2018020813,8475810,Bryan Rust,Pittsburgh Penguins,RW,17:28,0,0,0,2,0,0,0,0,1,0,0,0,0,2,0,13:57,1:05,2:26,0
-2018020813,8477955,Jared McCann,Pittsburgh Penguins,C,12:10,0,0,1,2,0,0,0,3,10,0,0,0,0,0,-1,10:37,0:00,1:33,30
-2018020813,8471677,Jack Johnson,Pittsburgh Penguins,D,18:55,0,0,0,3,0,0,0,0,0,0,0,0,0,2,-1,17:17,0:07,1:31,NA
-2018020813,8476871,Tanner Pearson,Pittsburgh Penguins,LW,14:30,0,0,0,0,0,0,2,0,0,0,0,0,0,0,-1,13:30,1:00,0:00,NA
-2018020813,8475760,Nick Bjugstad,Pittsburgh Penguins,C,15:13,0,0,2,3,0,0,0,3,9,1,0,0,0,1,-1,13:39,1:34,0:00,33.33
-2018020813,8476874,Olli Maatta,Pittsburgh Penguins,D,15:47,0,0,1,0,0,0,0,0,0,0,2,0,0,3,-2,14:35,0:00,1:12,NA
-2018020813,8480945,Juuso Riikola,Pittsburgh Penguins,D,16:48,0,0,1,4,0,0,0,0,0,0,1,0,0,0,-3,15:54,0:49,0:05,NA
-2018020813,8475253,Garrett Wilson,Pittsburgh Penguins,LW,7:52,0,0,1,2,0,0,0,0,0,0,0,0,0,1,-1,7:37,0:15,0:00,NA
-2018020813,8464989,Matt Cullen,Pittsburgh Penguins,C,9:58,0,0,0,0,0,0,0,5,8,0,0,0,0,1,0,7:16,0:15,2:27,62.5
-2018020813,8475907,Micheal Ferland,Carolina Hurricanes,LW,12:54,0,1,2,5,0,0,0,0,0,1,0,0,0,0,1,12:01,0:46,0:07,NA
-2018020813,8476934,Brock McGinn,Carolina Hurricanes,LW,13:06,1,0,2,2,0,0,0,0,0,0,0,0,0,0,2,11:39,0:00,1:27,NA
-2018020813,8475735,Greg McKegg,Carolina Hurricanes,C,9:33,0,0,1,1,0,0,0,4,5,0,0,0,0,1,0,9:33,0:00,0:00,80
-2018020813,8476958,Jaccob Slavin,Carolina Hurricanes,D,22:06,1,0,1,2,0,0,0,0,0,1,1,0,0,2,1,18:52,1:23,1:51,NA
-2018020813,8477998,Warren Foegele,Carolina Hurricanes,LW,10:52,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,9:50,0:00,1:02,0
-2018020813,8478427,Sebastian Aho,Carolina Hurricanes,C,21:55,0,0,1,0,0,0,0,8,20,0,1,0,0,0,1,17:45,2:46,1:24,40
-2018020813,8475753,Justin Faulk,Carolina Hurricanes,D,23:10,0,0,4,4,0,0,0,0,0,0,0,0,0,6,2,18:57,2:37,1:36,NA
-2018020813,8475799,Nino Niederreiter,Carolina Hurricanes,RW,20:28,1,0,3,4,0,0,0,0,0,1,0,0,0,0,1,17:42,2:46,0:00,NA
-2018020813,8476921,Jordan Martinook,Carolina Hurricanes,LW,13:51,0,1,2,1,0,0,0,5,6,0,0,0,0,1,2,12:33,0:00,1:18,83.33
-2018020813,8477845,Trevor van Riemsdyk,Carolina Hurricanes,D,12:55,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12:22,0:00,0:33,NA
-2018020813,8477488,Brett Pesce,Carolina Hurricanes,D,20:52,0,1,2,0,0,0,0,0,0,0,1,0,0,2,2,19:17,0:00,1:35,NA
-2018020813,8475177,Calvin de Haan,Carolina Hurricanes,D,17:00,0,0,2,5,0,0,0,0,0,0,0,0,0,1,1,14:51,0:00,2:09,NA
-2018020813,8478027,Lucas Wallmark,Carolina Hurricanes,C,14:07,1,0,3,1,0,0,2,5,10,0,0,0,0,1,1,12:09,1:14,0:44,50
-2018020813,8476882,Teuvo Teravainen,Carolina Hurricanes,LW,17:39,0,0,1,1,0,0,0,2,4,0,0,0,0,1,1,13:31,2:37,1:31,50
-2018020813,8477357,Saku Maenalanen,Carolina Hurricanes,RW,8:44,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,8:26,0:00,0:18,NA
-2018020813,8476462,Dougie Hamilton,Carolina Hurricanes,D,21:20,0,0,3,5,0,0,2,0,0,1,0,0,0,0,1,19:41,1:23,0:16,NA
-2018020813,8468508,Justin Williams,Carolina Hurricanes,RW,21:56,1,0,2,1,0,0,0,1,2,1,1,0,0,1,1,18:33,3:14,0:09,50
-2018020813,8480830,Andrei Svechnikov,Carolina Hurricanes,RW,13:32,0,1,2,3,0,0,0,0,0,0,0,0,0,0,2,12:18,1:14,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020813,8471724,Kris Letang,Pittsburgh Penguins,Carolina Hurricanes,D,27:26,0,0,4,4,0,0,0,0,0,1,1,0,0,0,0,21:09,3:29,2:48,NA
+2018020813,8476927,Teddy Blueger,Pittsburgh Penguins,Carolina Hurricanes,C,9:49,0,0,1,4,0,0,0,0,0,0,0,0,0,0,-1,8:00,0:15,1:34,NA
+2018020813,8477969,Marcus Pettersson,Pittsburgh Penguins,Carolina Hurricanes,D,16:12,0,0,2,3,0,0,2,0,0,0,0,0,0,2,-1,15:57,0:15,0:00,NA
+2018020813,8475208,Brian Dumoulin,Pittsburgh Penguins,Carolina Hurricanes,D,21:59,0,0,0,4,0,0,0,0,0,0,1,0,0,1,-1,19:35,0:00,2:24,NA
+2018020813,8471675,Sidney Crosby,Pittsburgh Penguins,Carolina Hurricanes,C,22:46,0,0,2,3,0,0,0,12,20,0,1,0,0,3,-2,20:35,2:11,0:00,60
+2018020813,8477404,Jake Guentzel,Pittsburgh Penguins,Carolina Hurricanes,LW,18:25,0,0,4,1,0,0,0,0,0,0,1,0,0,1,-1,15:54,2:31,0:00,NA
+2018020813,8471887,Patric Hornqvist,Pittsburgh Penguins,Carolina Hurricanes,RW,17:30,0,0,2,1,0,0,0,0,0,0,1,0,0,1,-2,15:31,1:59,0:00,NA
+2018020813,8478866,Dominik Simon,Pittsburgh Penguins,Carolina Hurricanes,C,16:06,0,0,1,2,0,0,0,0,0,0,1,0,0,0,-1,14:52,1:14,0:00,NA
+2018020813,8473548,Phil Kessel,Pittsburgh Penguins,Carolina Hurricanes,RW,17:44,0,0,1,0,0,0,0,0,0,0,1,0,0,0,-2,14:43,3:01,0:00,NA
+2018020813,8475810,Bryan Rust,Pittsburgh Penguins,Carolina Hurricanes,RW,17:28,0,0,0,2,0,0,0,0,1,0,0,0,0,2,0,13:57,1:05,2:26,0
+2018020813,8477955,Jared McCann,Pittsburgh Penguins,Carolina Hurricanes,C,12:10,0,0,1,2,0,0,0,3,10,0,0,0,0,0,-1,10:37,0:00,1:33,30
+2018020813,8471677,Jack Johnson,Pittsburgh Penguins,Carolina Hurricanes,D,18:55,0,0,0,3,0,0,0,0,0,0,0,0,0,2,-1,17:17,0:07,1:31,NA
+2018020813,8476871,Tanner Pearson,Pittsburgh Penguins,Carolina Hurricanes,LW,14:30,0,0,0,0,0,0,2,0,0,0,0,0,0,0,-1,13:30,1:00,0:00,NA
+2018020813,8475760,Nick Bjugstad,Pittsburgh Penguins,Carolina Hurricanes,C,15:13,0,0,2,3,0,0,0,3,9,1,0,0,0,1,-1,13:39,1:34,0:00,33.33
+2018020813,8476874,Olli Maatta,Pittsburgh Penguins,Carolina Hurricanes,D,15:47,0,0,1,0,0,0,0,0,0,0,2,0,0,3,-2,14:35,0:00,1:12,NA
+2018020813,8480945,Juuso Riikola,Pittsburgh Penguins,Carolina Hurricanes,D,16:48,0,0,1,4,0,0,0,0,0,0,1,0,0,0,-3,15:54,0:49,0:05,NA
+2018020813,8475253,Garrett Wilson,Pittsburgh Penguins,Carolina Hurricanes,LW,7:52,0,0,1,2,0,0,0,0,0,0,0,0,0,1,-1,7:37,0:15,0:00,NA
+2018020813,8464989,Matt Cullen,Pittsburgh Penguins,Carolina Hurricanes,C,9:58,0,0,0,0,0,0,0,5,8,0,0,0,0,1,0,7:16,0:15,2:27,62.5
+2018020813,8475907,Micheal Ferland,Carolina Hurricanes,Pittsburgh Penguins,LW,12:54,0,1,2,5,0,0,0,0,0,1,0,0,0,0,1,12:01,0:46,0:07,NA
+2018020813,8476934,Brock McGinn,Carolina Hurricanes,Pittsburgh Penguins,LW,13:06,1,0,2,2,0,0,0,0,0,0,0,0,0,0,2,11:39,0:00,1:27,NA
+2018020813,8475735,Greg McKegg,Carolina Hurricanes,Pittsburgh Penguins,C,9:33,0,0,1,1,0,0,0,4,5,0,0,0,0,1,0,9:33,0:00,0:00,80
+2018020813,8476958,Jaccob Slavin,Carolina Hurricanes,Pittsburgh Penguins,D,22:06,1,0,1,2,0,0,0,0,0,1,1,0,0,2,1,18:52,1:23,1:51,NA
+2018020813,8477998,Warren Foegele,Carolina Hurricanes,Pittsburgh Penguins,LW,10:52,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,9:50,0:00,1:02,0
+2018020813,8478427,Sebastian Aho,Carolina Hurricanes,Pittsburgh Penguins,C,21:55,0,0,1,0,0,0,0,8,20,0,1,0,0,0,1,17:45,2:46,1:24,40
+2018020813,8475753,Justin Faulk,Carolina Hurricanes,Pittsburgh Penguins,D,23:10,0,0,4,4,0,0,0,0,0,0,0,0,0,6,2,18:57,2:37,1:36,NA
+2018020813,8475799,Nino Niederreiter,Carolina Hurricanes,Pittsburgh Penguins,RW,20:28,1,0,3,4,0,0,0,0,0,1,0,0,0,0,1,17:42,2:46,0:00,NA
+2018020813,8476921,Jordan Martinook,Carolina Hurricanes,Pittsburgh Penguins,LW,13:51,0,1,2,1,0,0,0,5,6,0,0,0,0,1,2,12:33,0:00,1:18,83.33
+2018020813,8477845,Trevor van Riemsdyk,Carolina Hurricanes,Pittsburgh Penguins,D,12:55,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12:22,0:00,0:33,NA
+2018020813,8477488,Brett Pesce,Carolina Hurricanes,Pittsburgh Penguins,D,20:52,0,1,2,0,0,0,0,0,0,0,1,0,0,2,2,19:17,0:00,1:35,NA
+2018020813,8475177,Calvin de Haan,Carolina Hurricanes,Pittsburgh Penguins,D,17:00,0,0,2,5,0,0,0,0,0,0,0,0,0,1,1,14:51,0:00,2:09,NA
+2018020813,8478027,Lucas Wallmark,Carolina Hurricanes,Pittsburgh Penguins,C,14:07,1,0,3,1,0,0,2,5,10,0,0,0,0,1,1,12:09,1:14,0:44,50
+2018020813,8476882,Teuvo Teravainen,Carolina Hurricanes,Pittsburgh Penguins,LW,17:39,0,0,1,1,0,0,0,2,4,0,0,0,0,1,1,13:31,2:37,1:31,50
+2018020813,8477357,Saku Maenalanen,Carolina Hurricanes,Pittsburgh Penguins,RW,8:44,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,8:26,0:00,0:18,NA
+2018020813,8476462,Dougie Hamilton,Carolina Hurricanes,Pittsburgh Penguins,D,21:20,0,0,3,5,0,0,2,0,0,1,0,0,0,0,1,19:41,1:23,0:16,NA
+2018020813,8468508,Justin Williams,Carolina Hurricanes,Pittsburgh Penguins,RW,21:56,1,0,2,1,0,0,0,1,2,1,1,0,0,1,1,18:33,3:14,0:09,50
+2018020813,8480830,Andrei Svechnikov,Carolina Hurricanes,Pittsburgh Penguins,RW,13:32,0,1,2,3,0,0,0,0,0,0,0,0,0,0,2,12:18,1:14,0:00,NA

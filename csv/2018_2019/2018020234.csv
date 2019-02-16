@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020234,8475906,John Klingberg,Dallas Stars,D,20:52,0,0,1,1,0,0,0,0,0,0,2,0,0,3,1,17:31,0:53,2:28,NA
-2018020234,8476913,Devin Shore,Dallas Stars,C,13:26,0,2,3,1,0,0,0,0,1,0,0,0,0,0,0,11:14,0:57,1:15,0
-2018020234,8476902,Esa Lindell,Dallas Stars,D,27:46,0,0,0,3,0,0,0,0,0,0,2,0,0,3,-2,22:58,0:52,3:56,NA
-2018020234,8473994,Jamie Benn,Dallas Stars,LW,18:12,0,0,2,3,0,0,2,6,8,3,2,0,0,0,0,16:21,1:03,0:48,75
-2018020234,8477945,Julius Honka,Dallas Stars,D,15:06,0,0,0,1,0,0,0,0,0,1,2,0,0,3,-2,13:59,1:07,0:00,NA
-2018020234,8477406,Mattias Janmark,Dallas Stars,C,16:35,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,14:28,0:00,2:07,NA
-2018020234,8476889,Radek Faksa,Dallas Stars,C,15:09,0,0,0,2,0,0,4,6,12,0,0,0,0,1,-1,14:46,0:00,0:23,50
-2018020234,8476966,Gemel Smith,Dallas Stars,C,6:11,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,6:11,0:00,0:00,NA
-2018020234,8471260,Blake Comeau,Dallas Stars,LW,14:45,1,0,1,1,0,0,0,1,1,1,0,0,0,1,1,12:18,0:00,2:27,100
-2018020234,8471392,Roman Polak,Dallas Stars,D,23:09,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,19:32,0:05,3:32,NA
-2018020234,8475794,Tyler Seguin,Dallas Stars,C,21:48,1,1,2,2,0,0,0,8,20,1,0,0,0,0,0,18:37,1:03,2:08,40
-2018020234,8477501,Valeri Nichushkin,Dallas Stars,RW,14:43,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,13:46,0:57,0:00,NA
-2018020234,8475752,Tyler Pitlick,Dallas Stars,C,15:23,0,0,4,3,0,0,0,0,0,0,0,0,0,0,1,14:25,0:00,0:58,NA
-2018020234,8477450,Jason Dickinson,Dallas Stars,C,11:30,1,0,1,1,0,0,0,4,7,0,0,0,0,1,2,9:42,0:00,1:48,57.14
-2018020234,8478495,Denis Gurianov,Dallas Stars,RW,12:02,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,11:05,0:57,0:00,NA
-2018020234,8477471,Dillon Heatherington,Dallas Stars,D,8:43,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,8:28,0:15,0:00,NA
-2018020234,8469455,Jason Spezza,Dallas Stars,C,14:16,0,0,3,0,0,0,0,8,16,0,2,0,0,0,0,13:07,1:03,0:06,50
-2018020234,8480036,Miro Heiskanen,Dallas Stars,D,24:24,1,0,1,0,0,0,0,0,0,1,0,0,0,1,2,21:32,0:48,2:04,NA
-2018020234,8466138,Joe Thornton,San Jose Sharks,C,18:16,1,0,2,0,0,0,0,7,11,0,2,0,0,0,-2,16:36,1:40,0:00,63.64
-2018020234,8470613,Brent Burns,San Jose Sharks,D,24:48,2,0,8,1,0,0,0,0,0,0,2,0,0,0,0,20:51,3:02,0:55,NA
-2018020234,8471709,Marc-Edouard Vlasic,San Jose Sharks,D,23:51,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,20:33,2:13,1:05,NA
-2018020234,8470794,Joe Pavelski,San Jose Sharks,C,20:40,0,1,5,1,0,0,0,7,16,0,0,0,0,0,0,16:30,3:49,0:21,43.75
-2018020234,8475834,Marcus Sorensen,San Jose Sharks,LW,12:44,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-3,11:59,0:00,0:45,NA
-2018020234,8474027,Justin Braun,San Jose Sharks,D,20:08,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,18:45,0:00,1:23,NA
-2018020234,8475820,Joonas Donskoi,San Jose Sharks,RW,13:03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10:37,2:26,0:00,NA
-2018020234,8476624,Barclay Goodrow,San Jose Sharks,RW,9:52,0,0,0,0,0,0,0,1,4,0,0,0,0,0,-2,9:14,0:00,0:38,25
-2018020234,8474578,Erik Karlsson,San Jose Sharks,D,29:20,0,0,6,1,0,0,0,0,0,0,3,0,0,1,-1,24:51,3:52,0:37,NA
-2018020234,8477922,Melker Karlsson,San Jose Sharks,C,9:25,0,0,1,1,0,0,0,0,0,0,1,0,0,1,-1,8:47,0:00,0:38,NA
-2018020234,8474053,Logan Couture,San Jose Sharks,C,19:47,1,0,1,0,0,0,0,11,20,0,0,0,0,0,1,15:49,3:34,0:24,55
-2018020234,8480965,Antti Suomela,San Jose Sharks,C,9:44,1,0,0,2,0,0,0,4,9,0,0,0,0,1,0,9:44,0:00,0:00,44.44
-2018020234,8478414,Timo Meier,San Jose Sharks,RW,19:59,0,1,5,1,0,0,0,0,0,0,0,0,0,1,1,15:48,3:34,0:37,NA
-2018020234,8475455,Brenden Dillon,San Jose Sharks,D,13:56,0,0,0,0,0,0,2,0,0,1,0,0,0,2,-1,13:56,0:00,0:00,NA
-2018020234,8475169,Evander Kane,San Jose Sharks,LW,19:57,0,1,4,0,0,0,0,0,2,0,0,0,0,1,2,17:09,2:11,0:37,0
-2018020234,8478078,Rourke Chartier,San Jose Sharks,C,8:37,0,0,1,0,0,0,0,2,3,0,0,0,0,0,-1,8:37,0:00,0:00,66.67
-2018020234,8478099,Kevin Labanc,San Jose Sharks,RW,20:26,1,0,1,0,0,0,0,0,0,0,3,0,0,0,1,16:47,3:39,0:00,NA
-2018020234,8477046,Joakim Ryan,San Jose Sharks,D,5:21,0,0,0,0,0,0,0,0,0,0,1,0,0,2,-2,5:21,0:00,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020234,8475906,John Klingberg,Dallas Stars,San Jose Sharks,D,20:52,0,0,1,1,0,0,0,0,0,0,2,0,0,3,1,17:31,0:53,2:28,NA
+2018020234,8476913,Devin Shore,Dallas Stars,San Jose Sharks,C,13:26,0,2,3,1,0,0,0,0,1,0,0,0,0,0,0,11:14,0:57,1:15,0
+2018020234,8476902,Esa Lindell,Dallas Stars,San Jose Sharks,D,27:46,0,0,0,3,0,0,0,0,0,0,2,0,0,3,-2,22:58,0:52,3:56,NA
+2018020234,8473994,Jamie Benn,Dallas Stars,San Jose Sharks,LW,18:12,0,0,2,3,0,0,2,6,8,3,2,0,0,0,0,16:21,1:03,0:48,75
+2018020234,8477945,Julius Honka,Dallas Stars,San Jose Sharks,D,15:06,0,0,0,1,0,0,0,0,0,1,2,0,0,3,-2,13:59,1:07,0:00,NA
+2018020234,8477406,Mattias Janmark,Dallas Stars,San Jose Sharks,C,16:35,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,14:28,0:00,2:07,NA
+2018020234,8476889,Radek Faksa,Dallas Stars,San Jose Sharks,C,15:09,0,0,0,2,0,0,4,6,12,0,0,0,0,1,-1,14:46,0:00,0:23,50
+2018020234,8476966,Gemel Smith,Dallas Stars,San Jose Sharks,C,6:11,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,6:11,0:00,0:00,NA
+2018020234,8471260,Blake Comeau,Dallas Stars,San Jose Sharks,LW,14:45,1,0,1,1,0,0,0,1,1,1,0,0,0,1,1,12:18,0:00,2:27,100
+2018020234,8471392,Roman Polak,Dallas Stars,San Jose Sharks,D,23:09,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,19:32,0:05,3:32,NA
+2018020234,8475794,Tyler Seguin,Dallas Stars,San Jose Sharks,C,21:48,1,1,2,2,0,0,0,8,20,1,0,0,0,0,0,18:37,1:03,2:08,40
+2018020234,8477501,Valeri Nichushkin,Dallas Stars,San Jose Sharks,RW,14:43,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,13:46,0:57,0:00,NA
+2018020234,8475752,Tyler Pitlick,Dallas Stars,San Jose Sharks,C,15:23,0,0,4,3,0,0,0,0,0,0,0,0,0,0,1,14:25,0:00,0:58,NA
+2018020234,8477450,Jason Dickinson,Dallas Stars,San Jose Sharks,C,11:30,1,0,1,1,0,0,0,4,7,0,0,0,0,1,2,9:42,0:00,1:48,57.14
+2018020234,8478495,Denis Gurianov,Dallas Stars,San Jose Sharks,RW,12:02,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,11:05,0:57,0:00,NA
+2018020234,8477471,Dillon Heatherington,Dallas Stars,San Jose Sharks,D,8:43,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,8:28,0:15,0:00,NA
+2018020234,8469455,Jason Spezza,Dallas Stars,San Jose Sharks,C,14:16,0,0,3,0,0,0,0,8,16,0,2,0,0,0,0,13:07,1:03,0:06,50
+2018020234,8480036,Miro Heiskanen,Dallas Stars,San Jose Sharks,D,24:24,1,0,1,0,0,0,0,0,0,1,0,0,0,1,2,21:32,0:48,2:04,NA
+2018020234,8466138,Joe Thornton,San Jose Sharks,Dallas Stars,C,18:16,1,0,2,0,0,0,0,7,11,0,2,0,0,0,-2,16:36,1:40,0:00,63.64
+2018020234,8470613,Brent Burns,San Jose Sharks,Dallas Stars,D,24:48,2,0,8,1,0,0,0,0,0,0,2,0,0,0,0,20:51,3:02,0:55,NA
+2018020234,8471709,Marc-Edouard Vlasic,San Jose Sharks,Dallas Stars,D,23:51,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,20:33,2:13,1:05,NA
+2018020234,8470794,Joe Pavelski,San Jose Sharks,Dallas Stars,C,20:40,0,1,5,1,0,0,0,7,16,0,0,0,0,0,0,16:30,3:49,0:21,43.75
+2018020234,8475834,Marcus Sorensen,San Jose Sharks,Dallas Stars,LW,12:44,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-3,11:59,0:00,0:45,NA
+2018020234,8474027,Justin Braun,San Jose Sharks,Dallas Stars,D,20:08,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,18:45,0:00,1:23,NA
+2018020234,8475820,Joonas Donskoi,San Jose Sharks,Dallas Stars,RW,13:03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10:37,2:26,0:00,NA
+2018020234,8476624,Barclay Goodrow,San Jose Sharks,Dallas Stars,RW,9:52,0,0,0,0,0,0,0,1,4,0,0,0,0,0,-2,9:14,0:00,0:38,25
+2018020234,8474578,Erik Karlsson,San Jose Sharks,Dallas Stars,D,29:20,0,0,6,1,0,0,0,0,0,0,3,0,0,1,-1,24:51,3:52,0:37,NA
+2018020234,8477922,Melker Karlsson,San Jose Sharks,Dallas Stars,C,9:25,0,0,1,1,0,0,0,0,0,0,1,0,0,1,-1,8:47,0:00,0:38,NA
+2018020234,8474053,Logan Couture,San Jose Sharks,Dallas Stars,C,19:47,1,0,1,0,0,0,0,11,20,0,0,0,0,0,1,15:49,3:34,0:24,55
+2018020234,8480965,Antti Suomela,San Jose Sharks,Dallas Stars,C,9:44,1,0,0,2,0,0,0,4,9,0,0,0,0,1,0,9:44,0:00,0:00,44.44
+2018020234,8478414,Timo Meier,San Jose Sharks,Dallas Stars,RW,19:59,0,1,5,1,0,0,0,0,0,0,0,0,0,1,1,15:48,3:34,0:37,NA
+2018020234,8475455,Brenden Dillon,San Jose Sharks,Dallas Stars,D,13:56,0,0,0,0,0,0,2,0,0,1,0,0,0,2,-1,13:56,0:00,0:00,NA
+2018020234,8475169,Evander Kane,San Jose Sharks,Dallas Stars,LW,19:57,0,1,4,0,0,0,0,0,2,0,0,0,0,1,2,17:09,2:11,0:37,0
+2018020234,8478078,Rourke Chartier,San Jose Sharks,Dallas Stars,C,8:37,0,0,1,0,0,0,0,2,3,0,0,0,0,0,-1,8:37,0:00,0:00,66.67
+2018020234,8478099,Kevin Labanc,San Jose Sharks,Dallas Stars,RW,20:26,1,0,1,0,0,0,0,0,0,0,3,0,0,0,1,16:47,3:39,0:00,NA
+2018020234,8477046,Joakim Ryan,San Jose Sharks,Dallas Stars,D,5:21,0,0,0,0,0,0,0,0,0,0,1,0,0,2,-2,5:21,0:00,0:00,NA

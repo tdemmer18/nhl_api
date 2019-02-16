@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020649,8473618,Mathieu Perreault,Winnipeg Jets,LW,16:09,1,0,1,4,0,0,2,0,0,0,0,0,0,0,1,14:26,1:43,0:00,NA
-2018020649,8471218,Blake Wheeler,Winnipeg Jets,RW,19:57,1,0,1,0,0,0,0,0,0,1,0,0,0,1,2,16:11,2:06,1:40,NA
-2018020649,8477429,Andrew Copp,Winnipeg Jets,C,9:03,0,0,0,1,0,0,0,4,6,0,0,0,0,0,0,8:49,0:00,0:14,66.67
-2018020649,8473412,Bryan Little,Winnipeg Jets,C,14:00,1,1,3,1,1,0,0,6,9,1,0,0,0,0,1,12:03,1:43,0:14,66.67
-2018020649,8479339,Patrik Laine,Winnipeg Jets,RW,14:53,1,0,4,1,0,0,0,0,0,0,0,0,0,0,1,12:47,2:06,0:00,NA
-2018020649,8477504,Josh Morrissey,Winnipeg Jets,D,24:04,1,1,5,0,0,0,0,0,0,0,0,1,0,1,3,20:41,2:20,1:03,NA
-2018020649,8476476,Joe Morrow,Winnipeg Jets,D,12:28,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,12:21,0:00,0:07,NA
-2018020649,8475179,Dmitry Kulikov,Winnipeg Jets,D,13:09,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,13:02,0:00,0:07,NA
-2018020649,8478458,Jack Roslovic,Winnipeg Jets,C,14:50,1,0,3,1,0,1,0,0,0,2,0,0,0,1,1,13:07,1:43,0:00,NA
-2018020649,8474574,Tyler Myers,Winnipeg Jets,D,23:39,0,1,3,0,0,0,0,0,0,1,1,0,0,1,1,20:05,1:43,1:51,NA
-2018020649,8475279,Ben Chiarot,Winnipeg Jets,D,20:01,0,0,1,1,0,0,0,0,0,0,1,0,0,1,1,18:10,0:00,1:51,NA
-2018020649,8476885,Jacob Trouba,Winnipeg Jets,D,24:33,2,0,1,1,0,1,0,0,0,0,2,0,1,4,3,22:01,1:29,1:03,NA
-2018020649,8477962,Brendan Lemieux,Winnipeg Jets,LW,8:54,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,8:54,0:00,0:00,NA
-2018020649,8476460,Mark Scheifele,Winnipeg Jets,C,22:44,1,0,1,0,0,0,0,10,21,1,2,0,1,1,2,18:58,2:06,1:40,47.62
-2018020649,8478891,Mason Appleton,Winnipeg Jets,C,8:10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8:10,0:00,0:00,NA
-2018020649,8478398,Kyle Connor,Winnipeg Jets,LW,17:48,0,1,2,0,0,0,2,0,0,0,0,0,0,0,1,15:42,2:06,0:00,NA
-2018020649,8476392,Adam Lowry,Winnipeg Jets,C,14:34,0,1,3,3,0,0,2,5,14,2,2,0,0,0,1,13:27,0:00,1:07,35.71
-2018020649,8479293,Brandon Tanev,Winnipeg Jets,LW,16:13,1,0,2,3,0,0,0,0,0,1,0,0,0,1,1,15:06,0:00,1:07,NA
-2018020649,8475906,John Klingberg,Dallas Stars,D,25:26,1,0,3,2,0,1,0,0,0,0,3,0,0,0,-1,22:39,1:54,0:53,NA
-2018020649,8476439,Brett Ritchie,Dallas Stars,RW,10:28,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,10:21,0:07,0:00,NA
-2018020649,8476913,Devin Shore,Dallas Stars,C,12:39,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,10:49,0:47,1:03,NA
-2018020649,8476902,Esa Lindell,Dallas Stars,D,24:07,0,0,3,0,0,0,0,0,0,0,2,0,0,0,-1,21:53,0:07,2:07,NA
-2018020649,8473588,Erik Condra,Dallas Stars,RW,12:01,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,11:14,0:47,0:00,NA
-2018020649,8473994,Jamie Benn,Dallas Stars,LW,16:53,0,0,0,0,0,0,0,3,6,0,0,0,0,0,-2,14:13,2:07,0:33,50
-2018020649,8478449,Roope Hintz,Dallas Stars,LW,11:59,0,0,1,0,0,0,0,8,14,0,0,0,0,2,-1,10:41,0:54,0:24,57.14
-2018020649,8471228,Alexander Radulov,Dallas Stars,RW,19:29,0,1,3,1,1,0,0,0,0,0,0,0,0,1,-2,17:22,2:07,0:00,NA
-2018020649,8477945,Julius Honka,Dallas Stars,D,11:27,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,11:20,0:07,0:00,NA
-2018020649,8477406,Mattias Janmark,Dallas Stars,C,15:06,0,0,3,1,0,0,0,0,0,0,1,0,0,0,-1,13:46,0:07,1:13,NA
-2018020649,8476889,Radek Faksa,Dallas Stars,C,16:54,0,0,3,0,0,0,2,4,9,0,0,0,0,1,-1,15:00,0:47,1:07,44.44
-2018020649,8471260,Blake Comeau,Dallas Stars,LW,16:30,0,0,0,4,0,0,0,0,0,1,0,0,0,0,-1,14:28,0:00,2:02,NA
-2018020649,8471392,Roman Polak,Dallas Stars,D,19:11,0,0,0,1,0,0,2,0,0,0,1,0,0,2,-2,17:50,0:00,1:21,NA
-2018020649,8475794,Tyler Seguin,Dallas Stars,C,20:01,1,0,2,1,0,1,0,6,9,1,0,0,0,2,-2,16:36,2:07,1:18,66.67
-2018020649,8475752,Tyler Pitlick,Dallas Stars,C,13:36,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-2,13:36,0:00,0:00,NA
-2018020649,8476166,Taylor Fedun,Dallas Stars,D,14:39,0,0,2,1,0,0,2,0,0,0,1,0,0,0,-2,12:41,0:23,1:35,NA
-2018020649,8469455,Jason Spezza,Dallas Stars,C,13:27,0,0,3,0,0,0,0,4,12,0,0,0,0,0,-1,11:27,2:00,0:00,33.33
-2018020649,8480036,Miro Heiskanen,Dallas Stars,D,21:32,0,0,1,0,0,0,0,0,0,0,1,0,0,0,-2,19:03,0:47,1:42,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020649,8473618,Mathieu Perreault,Winnipeg Jets,Dallas Stars,LW,16:09,1,0,1,4,0,0,2,0,0,0,0,0,0,0,1,14:26,1:43,0:00,NA
+2018020649,8471218,Blake Wheeler,Winnipeg Jets,Dallas Stars,RW,19:57,1,0,1,0,0,0,0,0,0,1,0,0,0,1,2,16:11,2:06,1:40,NA
+2018020649,8477429,Andrew Copp,Winnipeg Jets,Dallas Stars,C,9:03,0,0,0,1,0,0,0,4,6,0,0,0,0,0,0,8:49,0:00,0:14,66.67
+2018020649,8473412,Bryan Little,Winnipeg Jets,Dallas Stars,C,14:00,1,1,3,1,1,0,0,6,9,1,0,0,0,0,1,12:03,1:43,0:14,66.67
+2018020649,8479339,Patrik Laine,Winnipeg Jets,Dallas Stars,RW,14:53,1,0,4,1,0,0,0,0,0,0,0,0,0,0,1,12:47,2:06,0:00,NA
+2018020649,8477504,Josh Morrissey,Winnipeg Jets,Dallas Stars,D,24:04,1,1,5,0,0,0,0,0,0,0,0,1,0,1,3,20:41,2:20,1:03,NA
+2018020649,8476476,Joe Morrow,Winnipeg Jets,Dallas Stars,D,12:28,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,12:21,0:00,0:07,NA
+2018020649,8475179,Dmitry Kulikov,Winnipeg Jets,Dallas Stars,D,13:09,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,13:02,0:00,0:07,NA
+2018020649,8478458,Jack Roslovic,Winnipeg Jets,Dallas Stars,C,14:50,1,0,3,1,0,1,0,0,0,2,0,0,0,1,1,13:07,1:43,0:00,NA
+2018020649,8474574,Tyler Myers,Winnipeg Jets,Dallas Stars,D,23:39,0,1,3,0,0,0,0,0,0,1,1,0,0,1,1,20:05,1:43,1:51,NA
+2018020649,8475279,Ben Chiarot,Winnipeg Jets,Dallas Stars,D,20:01,0,0,1,1,0,0,0,0,0,0,1,0,0,1,1,18:10,0:00,1:51,NA
+2018020649,8476885,Jacob Trouba,Winnipeg Jets,Dallas Stars,D,24:33,2,0,1,1,0,1,0,0,0,0,2,0,1,4,3,22:01,1:29,1:03,NA
+2018020649,8477962,Brendan Lemieux,Winnipeg Jets,Dallas Stars,LW,8:54,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,8:54,0:00,0:00,NA
+2018020649,8476460,Mark Scheifele,Winnipeg Jets,Dallas Stars,C,22:44,1,0,1,0,0,0,0,10,21,1,2,0,1,1,2,18:58,2:06,1:40,47.62
+2018020649,8478891,Mason Appleton,Winnipeg Jets,Dallas Stars,C,8:10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8:10,0:00,0:00,NA
+2018020649,8478398,Kyle Connor,Winnipeg Jets,Dallas Stars,LW,17:48,0,1,2,0,0,0,2,0,0,0,0,0,0,0,1,15:42,2:06,0:00,NA
+2018020649,8476392,Adam Lowry,Winnipeg Jets,Dallas Stars,C,14:34,0,1,3,3,0,0,2,5,14,2,2,0,0,0,1,13:27,0:00,1:07,35.71
+2018020649,8479293,Brandon Tanev,Winnipeg Jets,Dallas Stars,LW,16:13,1,0,2,3,0,0,0,0,0,1,0,0,0,1,1,15:06,0:00,1:07,NA
+2018020649,8475906,John Klingberg,Dallas Stars,Winnipeg Jets,D,25:26,1,0,3,2,0,1,0,0,0,0,3,0,0,0,-1,22:39,1:54,0:53,NA
+2018020649,8476439,Brett Ritchie,Dallas Stars,Winnipeg Jets,RW,10:28,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,10:21,0:07,0:00,NA
+2018020649,8476913,Devin Shore,Dallas Stars,Winnipeg Jets,C,12:39,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,10:49,0:47,1:03,NA
+2018020649,8476902,Esa Lindell,Dallas Stars,Winnipeg Jets,D,24:07,0,0,3,0,0,0,0,0,0,0,2,0,0,0,-1,21:53,0:07,2:07,NA
+2018020649,8473588,Erik Condra,Dallas Stars,Winnipeg Jets,RW,12:01,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,11:14,0:47,0:00,NA
+2018020649,8473994,Jamie Benn,Dallas Stars,Winnipeg Jets,LW,16:53,0,0,0,0,0,0,0,3,6,0,0,0,0,0,-2,14:13,2:07,0:33,50
+2018020649,8478449,Roope Hintz,Dallas Stars,Winnipeg Jets,LW,11:59,0,0,1,0,0,0,0,8,14,0,0,0,0,2,-1,10:41,0:54,0:24,57.14
+2018020649,8471228,Alexander Radulov,Dallas Stars,Winnipeg Jets,RW,19:29,0,1,3,1,1,0,0,0,0,0,0,0,0,1,-2,17:22,2:07,0:00,NA
+2018020649,8477945,Julius Honka,Dallas Stars,Winnipeg Jets,D,11:27,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,11:20,0:07,0:00,NA
+2018020649,8477406,Mattias Janmark,Dallas Stars,Winnipeg Jets,C,15:06,0,0,3,1,0,0,0,0,0,0,1,0,0,0,-1,13:46,0:07,1:13,NA
+2018020649,8476889,Radek Faksa,Dallas Stars,Winnipeg Jets,C,16:54,0,0,3,0,0,0,2,4,9,0,0,0,0,1,-1,15:00,0:47,1:07,44.44
+2018020649,8471260,Blake Comeau,Dallas Stars,Winnipeg Jets,LW,16:30,0,0,0,4,0,0,0,0,0,1,0,0,0,0,-1,14:28,0:00,2:02,NA
+2018020649,8471392,Roman Polak,Dallas Stars,Winnipeg Jets,D,19:11,0,0,0,1,0,0,2,0,0,0,1,0,0,2,-2,17:50,0:00,1:21,NA
+2018020649,8475794,Tyler Seguin,Dallas Stars,Winnipeg Jets,C,20:01,1,0,2,1,0,1,0,6,9,1,0,0,0,2,-2,16:36,2:07,1:18,66.67
+2018020649,8475752,Tyler Pitlick,Dallas Stars,Winnipeg Jets,C,13:36,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-2,13:36,0:00,0:00,NA
+2018020649,8476166,Taylor Fedun,Dallas Stars,Winnipeg Jets,D,14:39,0,0,2,1,0,0,2,0,0,0,1,0,0,0,-2,12:41,0:23,1:35,NA
+2018020649,8469455,Jason Spezza,Dallas Stars,Winnipeg Jets,C,13:27,0,0,3,0,0,0,0,4,12,0,0,0,0,0,-1,11:27,2:00,0:00,33.33
+2018020649,8480036,Miro Heiskanen,Dallas Stars,Winnipeg Jets,D,21:32,0,0,1,0,0,0,0,0,0,0,1,0,0,0,-2,19:03,0:47,1:42,NA

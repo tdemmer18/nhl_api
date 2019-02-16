@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020823,8469506,Jason Pominville,Buffalo Sabres,RW,16:51,0,1,3,0,0,0,0,0,0,0,0,0,0,0,1,15:29,1:22,0:00,NA
-2018020823,8475728,Johan Larsson,Buffalo Sabres,C,14:43,0,0,0,6,0,0,0,12,16,0,0,0,0,1,-1,12:14,0:00,2:29,75
-2018020823,8480083,C.J. Smith,Buffalo Sabres,LW,10:01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,10:01,0:00,0:00,NA
-2018020823,8474618,Marco Scandella,Buffalo Sabres,D,18:41,0,1,2,1,0,0,0,0,0,0,1,0,0,1,0,16:34,0:00,2:07,NA
-2018020823,8477839,Conor Sheary,Buffalo Sabres,LW,14:11,1,0,3,0,0,0,0,0,0,0,2,0,0,0,1,12:35,1:36,0:00,NA
-2018020823,8476931,Jake McCabe,Buffalo Sabres,D,17:00,0,0,1,0,0,0,2,0,0,0,0,0,0,0,-1,15:37,0:00,1:23,NA
-2018020823,8473449,Kyle Okposo,Buffalo Sabres,RW,11:15,0,0,3,1,0,0,2,0,0,1,1,0,0,0,-1,9:52,1:23,0:00,NA
-2018020823,8474567,Zach Bogosian,Buffalo Sabres,D,20:34,1,0,1,0,0,0,0,0,0,0,3,0,0,3,1,17:10,0:13,3:11,NA
-2018020823,8479999,Casey Mittelstadt,Buffalo Sabres,C,16:11,1,0,1,0,0,0,0,6,11,1,0,0,0,0,1,13:33,2:38,0:00,54.55
-2018020823,8471743,Vladimir Sobotka,Buffalo Sabres,C,12:46,0,0,1,1,0,0,0,3,3,0,0,0,0,0,0,11:33,0:00,1:13,100
-2018020823,8477933,Sam Reinhart,Buffalo Sabres,C,19:11,2,0,2,0,0,0,0,0,0,0,0,0,0,1,2,16:47,2:24,0:00,NA
-2018020823,8476878,Zemgus Girgensons,Buffalo Sabres,C,13:47,0,0,1,2,0,0,0,0,0,1,0,0,0,1,-1,11:13,0:00,2:34,NA
-2018020823,8477499,Rasmus Ristolainen,Buffalo Sabres,D,25:27,2,0,4,2,0,0,0,0,0,0,0,0,0,0,1,22:22,1:20,1:45,NA
-2018020823,8478403,Jack Eichel,Buffalo Sabres,C,23:42,1,0,3,2,0,0,0,13,25,0,1,0,0,3,-2,20:26,2:50,0:26,52
-2018020823,8475784,Jeff Skinner,Buffalo Sabres,LW,21:24,0,2,6,1,0,0,2,8,9,0,0,0,0,0,-1,19:00,2:24,0:00,88.89
-2018020823,8480935,Lawrence Pilut,Buffalo Sabres,D,17:06,1,0,0,0,0,0,0,0,0,0,0,0,0,3,-1,17:06,0:00,0:00,NA
-2018020823,8478542,Evan Rodrigues,Buffalo Sabres,LW,13:10,0,1,4,0,0,0,0,5,7,0,0,0,0,1,3,10:16,1:10,1:44,71.43
-2018020823,8480839,Rasmus Dahlin,Buffalo Sabres,D,20:48,0,0,3,0,0,0,0,0,0,0,2,0,0,0,0,18:08,2:40,0:00,NA
-2018020823,8475907,Micheal Ferland,Carolina Hurricanes,LW,13:28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12:03,1:25,0:00,NA
-2018020823,8476934,Brock McGinn,Carolina Hurricanes,LW,15:16,0,1,1,0,0,0,0,1,1,1,0,0,0,0,0,13:10,0:00,2:06,100
-2018020823,8475735,Greg McKegg,Carolina Hurricanes,C,8:42,0,1,1,0,0,0,0,3,5,0,0,0,0,1,1,8:32,0:10,0:00,60
-2018020823,8476958,Jaccob Slavin,Carolina Hurricanes,D,23:20,0,0,0,2,0,0,2,0,0,2,0,0,0,1,-1,20:18,1:49,1:13,NA
-2018020823,8477998,Warren Foegele,Carolina Hurricanes,LW,10:36,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,9:27,0:10,0:59,NA
-2018020823,8478427,Sebastian Aho,Carolina Hurricanes,C,22:56,2,0,4,0,0,1,0,10,27,0,2,0,0,1,-2,19:20,2:24,1:12,37.04
-2018020823,8475753,Justin Faulk,Carolina Hurricanes,D,24:23,0,1,2,1,0,0,0,0,0,0,0,0,0,1,0,20:32,2:23,1:28,NA
-2018020823,8475799,Nino Niederreiter,Carolina Hurricanes,RW,21:41,0,1,8,1,1,0,0,0,0,0,0,0,0,0,-2,19:03,2:38,0:00,NA
-2018020823,8476921,Jordan Martinook,Carolina Hurricanes,LW,14:29,2,0,0,0,0,0,0,0,11,0,2,0,0,0,1,13:07,0:00,1:22,0
-2018020823,8477845,Trevor van Riemsdyk,Carolina Hurricanes,D,14:45,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,13:25,0:01,1:19,NA
-2018020823,8477488,Brett Pesce,Carolina Hurricanes,D,23:10,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20:51,0:00,2:19,NA
-2018020823,8475177,Calvin de Haan,Carolina Hurricanes,D,16:10,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,14:32,0:10,1:28,NA
-2018020823,8478027,Lucas Wallmark,Carolina Hurricanes,C,15:00,0,0,0,0,0,0,0,8,22,2,1,0,0,0,-1,12:52,1:25,0:43,36.36
-2018020823,8476882,Teuvo Teravainen,Carolina Hurricanes,LW,19:44,1,2,2,0,0,1,0,1,2,0,0,0,0,0,1,15:55,2:24,1:25,50
-2018020823,8477357,Saku Maenalanen,Carolina Hurricanes,RW,7:34,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,7:11,0:10,0:13,NA
-2018020823,8476462,Dougie Hamilton,Carolina Hurricanes,D,20:03,0,0,3,1,0,0,0,0,0,0,1,0,0,1,-1,18:11,1:39,0:13,NA
-2018020823,8468508,Justin Williams,Carolina Hurricanes,RW,20:54,1,0,1,0,0,0,0,1,3,0,2,0,0,0,0,18:16,2:38,0:00,33.33
-2018020823,8480830,Andrei Svechnikov,Carolina Hurricanes,RW,14:04,2,0,4,1,0,0,0,0,0,0,2,0,0,0,1,12:25,1:39,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020823,8469506,Jason Pominville,Buffalo Sabres,Carolina Hurricanes,RW,16:51,0,1,3,0,0,0,0,0,0,0,0,0,0,0,1,15:29,1:22,0:00,NA
+2018020823,8475728,Johan Larsson,Buffalo Sabres,Carolina Hurricanes,C,14:43,0,0,0,6,0,0,0,12,16,0,0,0,0,1,-1,12:14,0:00,2:29,75
+2018020823,8480083,C.J. Smith,Buffalo Sabres,Carolina Hurricanes,LW,10:01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,10:01,0:00,0:00,NA
+2018020823,8474618,Marco Scandella,Buffalo Sabres,Carolina Hurricanes,D,18:41,0,1,2,1,0,0,0,0,0,0,1,0,0,1,0,16:34,0:00,2:07,NA
+2018020823,8477839,Conor Sheary,Buffalo Sabres,Carolina Hurricanes,LW,14:11,1,0,3,0,0,0,0,0,0,0,2,0,0,0,1,12:35,1:36,0:00,NA
+2018020823,8476931,Jake McCabe,Buffalo Sabres,Carolina Hurricanes,D,17:00,0,0,1,0,0,0,2,0,0,0,0,0,0,0,-1,15:37,0:00,1:23,NA
+2018020823,8473449,Kyle Okposo,Buffalo Sabres,Carolina Hurricanes,RW,11:15,0,0,3,1,0,0,2,0,0,1,1,0,0,0,-1,9:52,1:23,0:00,NA
+2018020823,8474567,Zach Bogosian,Buffalo Sabres,Carolina Hurricanes,D,20:34,1,0,1,0,0,0,0,0,0,0,3,0,0,3,1,17:10,0:13,3:11,NA
+2018020823,8479999,Casey Mittelstadt,Buffalo Sabres,Carolina Hurricanes,C,16:11,1,0,1,0,0,0,0,6,11,1,0,0,0,0,1,13:33,2:38,0:00,54.55
+2018020823,8471743,Vladimir Sobotka,Buffalo Sabres,Carolina Hurricanes,C,12:46,0,0,1,1,0,0,0,3,3,0,0,0,0,0,0,11:33,0:00,1:13,100
+2018020823,8477933,Sam Reinhart,Buffalo Sabres,Carolina Hurricanes,C,19:11,2,0,2,0,0,0,0,0,0,0,0,0,0,1,2,16:47,2:24,0:00,NA
+2018020823,8476878,Zemgus Girgensons,Buffalo Sabres,Carolina Hurricanes,C,13:47,0,0,1,2,0,0,0,0,0,1,0,0,0,1,-1,11:13,0:00,2:34,NA
+2018020823,8477499,Rasmus Ristolainen,Buffalo Sabres,Carolina Hurricanes,D,25:27,2,0,4,2,0,0,0,0,0,0,0,0,0,0,1,22:22,1:20,1:45,NA
+2018020823,8478403,Jack Eichel,Buffalo Sabres,Carolina Hurricanes,C,23:42,1,0,3,2,0,0,0,13,25,0,1,0,0,3,-2,20:26,2:50,0:26,52
+2018020823,8475784,Jeff Skinner,Buffalo Sabres,Carolina Hurricanes,LW,21:24,0,2,6,1,0,0,2,8,9,0,0,0,0,0,-1,19:00,2:24,0:00,88.89
+2018020823,8480935,Lawrence Pilut,Buffalo Sabres,Carolina Hurricanes,D,17:06,1,0,0,0,0,0,0,0,0,0,0,0,0,3,-1,17:06,0:00,0:00,NA
+2018020823,8478542,Evan Rodrigues,Buffalo Sabres,Carolina Hurricanes,LW,13:10,0,1,4,0,0,0,0,5,7,0,0,0,0,1,3,10:16,1:10,1:44,71.43
+2018020823,8480839,Rasmus Dahlin,Buffalo Sabres,Carolina Hurricanes,D,20:48,0,0,3,0,0,0,0,0,0,0,2,0,0,0,0,18:08,2:40,0:00,NA
+2018020823,8475907,Micheal Ferland,Carolina Hurricanes,Buffalo Sabres,LW,13:28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12:03,1:25,0:00,NA
+2018020823,8476934,Brock McGinn,Carolina Hurricanes,Buffalo Sabres,LW,15:16,0,1,1,0,0,0,0,1,1,1,0,0,0,0,0,13:10,0:00,2:06,100
+2018020823,8475735,Greg McKegg,Carolina Hurricanes,Buffalo Sabres,C,8:42,0,1,1,0,0,0,0,3,5,0,0,0,0,1,1,8:32,0:10,0:00,60
+2018020823,8476958,Jaccob Slavin,Carolina Hurricanes,Buffalo Sabres,D,23:20,0,0,0,2,0,0,2,0,0,2,0,0,0,1,-1,20:18,1:49,1:13,NA
+2018020823,8477998,Warren Foegele,Carolina Hurricanes,Buffalo Sabres,LW,10:36,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,9:27,0:10,0:59,NA
+2018020823,8478427,Sebastian Aho,Carolina Hurricanes,Buffalo Sabres,C,22:56,2,0,4,0,0,1,0,10,27,0,2,0,0,1,-2,19:20,2:24,1:12,37.04
+2018020823,8475753,Justin Faulk,Carolina Hurricanes,Buffalo Sabres,D,24:23,0,1,2,1,0,0,0,0,0,0,0,0,0,1,0,20:32,2:23,1:28,NA
+2018020823,8475799,Nino Niederreiter,Carolina Hurricanes,Buffalo Sabres,RW,21:41,0,1,8,1,1,0,0,0,0,0,0,0,0,0,-2,19:03,2:38,0:00,NA
+2018020823,8476921,Jordan Martinook,Carolina Hurricanes,Buffalo Sabres,LW,14:29,2,0,0,0,0,0,0,0,11,0,2,0,0,0,1,13:07,0:00,1:22,0
+2018020823,8477845,Trevor van Riemsdyk,Carolina Hurricanes,Buffalo Sabres,D,14:45,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,13:25,0:01,1:19,NA
+2018020823,8477488,Brett Pesce,Carolina Hurricanes,Buffalo Sabres,D,23:10,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20:51,0:00,2:19,NA
+2018020823,8475177,Calvin de Haan,Carolina Hurricanes,Buffalo Sabres,D,16:10,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,14:32,0:10,1:28,NA
+2018020823,8478027,Lucas Wallmark,Carolina Hurricanes,Buffalo Sabres,C,15:00,0,0,0,0,0,0,0,8,22,2,1,0,0,0,-1,12:52,1:25,0:43,36.36
+2018020823,8476882,Teuvo Teravainen,Carolina Hurricanes,Buffalo Sabres,LW,19:44,1,2,2,0,0,1,0,1,2,0,0,0,0,0,1,15:55,2:24,1:25,50
+2018020823,8477357,Saku Maenalanen,Carolina Hurricanes,Buffalo Sabres,RW,7:34,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,7:11,0:10,0:13,NA
+2018020823,8476462,Dougie Hamilton,Carolina Hurricanes,Buffalo Sabres,D,20:03,0,0,3,1,0,0,0,0,0,0,1,0,0,1,-1,18:11,1:39,0:13,NA
+2018020823,8468508,Justin Williams,Carolina Hurricanes,Buffalo Sabres,RW,20:54,1,0,1,0,0,0,0,1,3,0,2,0,0,0,0,18:16,2:38,0:00,33.33
+2018020823,8480830,Andrei Svechnikov,Carolina Hurricanes,Buffalo Sabres,RW,14:04,2,0,4,1,0,0,0,0,0,0,2,0,0,0,1,12:25,1:39,0:00,NA

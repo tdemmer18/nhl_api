@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020201,8475768,Jaden Schwartz,St. Louis Blues,LW,17:31,0,0,0,1,0,0,0,0,0,4,2,1,0,0,0,0,15:10,0:00,2:21
-2018020201,8474125,Carl Gunnarsson,St. Louis Blues,D,16:54,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,-2,13:29,0:00,3:25
-2018020201,8474565,Alex Pietrangelo,St. Louis Blues,D,23:38,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,3,-2,20:27,0:00,3:11
-2018020201,8476897,Oskar Sundqvist,St. Louis Blues,C,11:23,0,0,0,1,0,0,0,50,3,6,0,0,0,0,0,0,7:35,0:00,3:48
-2018020201,8475765,Vladimir Tarasenko,St. Louis Blues,RW,16:06,1,0,4,3,0,1,0,NA,0,0,0,0,0,0,0,0,15:36,0:30,0:00
-2018020201,8470257,Alexander Steen,St. Louis Blues,LW,16:39,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,0,-3,14:08,0:00,2:31
-2018020201,8478407,Vince Dunn,St. Louis Blues,D,18:26,1,0,4,0,0,1,0,NA,0,0,0,2,0,0,1,-1,17:56,0:30,0:00
-2018020201,8477952,Robby Fabbri,St. Louis Blues,C,14:25,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,-1,14:14,0:00,0:11
-2018020201,8475158,Ryan O'Reilly,St. Louis Blues,C,19:39,0,1,2,2,1,0,0,65,13,20,2,0,0,0,1,-2,14:50,0:30,4:19
-2018020201,8474102,David Perron,St. Louis Blues,LW,14:16,0,0,3,2,0,0,0,NA,0,0,0,0,0,0,0,-2,14:16,0:00,0:00
-2018020201,8474034,Pat Maroon,St. Louis Blues,LW,9:15,0,0,0,2,0,0,2,NA,0,0,2,0,0,0,0,-2,8:45,0:30,0:00
-2018020201,8475098,Tyler Bozak,St. Louis Blues,C,15:22,0,0,1,0,0,0,2,42.86,6,14,1,0,0,0,0,-2,14:08,0:30,0:44
-2018020201,8476441,Joel Edmundson,St. Louis Blues,D,22:46,0,0,0,3,0,0,2,NA,0,0,0,0,0,0,2,-1,19:04,0:00,3:42
-2018020201,8470151,Jay Bouwmeester,St. Louis Blues,D,14:29,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,1,-3,13:11,0:00,1:18
-2018020201,8476892,Colton Parayko,St. Louis Blues,D,23:20,0,0,0,1,0,0,0,NA,0,0,1,1,0,0,3,-1,18:56,0:00,4:24
-2018020201,8475170,Brayden Schenn,St. Louis Blues,C,9:39,0,0,0,3,0,0,0,75,3,4,0,1,0,0,1,-1,9:10,0:00,0:29
-2018020201,8477482,Zach Sanford,St. Louis Blues,LW,14:54,0,0,1,1,0,0,0,NA,0,0,0,1,0,0,0,-2,13:28,0:00,1:26
-2018020201,8480023,Robert Thomas,St. Louis Blues,C,11:18,0,0,0,1,0,0,0,37.5,3,8,0,0,0,0,0,0,11:07,0:00,0:11
-2018020201,8476806,J.T. Brown,Minnesota Wild,RW,9:44,0,1,2,0,0,0,0,NA,0,0,0,0,0,0,0,2,9:44,0:00,0:00
-2018020201,8474716,Jared Spurgeon,Minnesota Wild,D,21:15,0,0,0,1,0,0,0,NA,0,0,1,0,0,0,1,0,18:01,3:14,0:00
-2018020201,8470595,Eric Staal,Minnesota Wild,C,17:37,0,1,3,0,0,0,0,50,6,12,2,0,0,0,0,2,13:04,4:33,0:00
-2018020201,8470600,Ryan Suter,Minnesota Wild,D,25:49,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,2,0,20:33,4:46,0:30
-2018020201,8470611,Eric Fehr,Minnesota Wild,C,9:19,1,1,1,2,0,0,0,37.5,3,8,0,0,0,0,0,2,8:49,0:00,0:30
-2018020201,8475798,Mikael Granlund,Minnesota Wild,RW,17:04,1,0,6,0,0,0,0,100,1,1,1,0,0,0,0,1,12:31,4:33,0:00
-2018020201,8475722,Jason Zucker,Minnesota Wild,LW,18:19,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,1,0,13:46,4:33,0:00
-2018020201,8475799,Nino Niederreiter,Minnesota Wild,RW,17:07,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,13:40,3:27,0:00
-2018020201,8474688,Greg Pateryn,Minnesota Wild,D,13:19,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,3,5,13:19,0:00,0:00
-2018020201,8475745,Charlie Coyle,Minnesota Wild,C,19:04,1,0,2,2,0,0,0,50,2,4,1,1,0,0,0,2,14:31,4:33,0:00
-2018020201,8470610,Zach Parise,Minnesota Wild,LW,16:40,0,0,5,1,0,0,0,0,0,1,0,0,0,0,1,0,13:13,3:27,0:00
-2018020201,8476856,Matt Dumba,Minnesota Wild,D,23:32,0,1,4,1,0,0,0,NA,0,0,1,1,0,0,2,1,19:35,3:27,0:30
-2018020201,8478413,Jordan Greenway,Minnesota Wild,LW,13:39,2,0,1,2,0,0,2,0,0,1,0,0,0,0,1,3,13:39,0:00,0:00
-2018020201,8476372,Nick Seeler,Minnesota Wild,D,13:14,2,1,4,0,0,0,0,NA,0,0,0,1,0,0,0,4,13:14,0:00,0:00
-2018020201,8475220,Marcus Foligno,Minnesota Wild,LW,11:17,1,0,2,3,0,0,2,NA,0,0,1,0,0,0,1,2,10:47,0:00,0:30
-2018020201,8476463,Jonas Brodin,Minnesota Wild,D,17:43,0,0,3,3,0,0,0,NA,0,0,0,0,0,0,3,0,17:43,0:00,0:00
-2018020201,8478493,Joel Eriksson Ek,Minnesota Wild,C,15:28,0,0,3,2,0,0,0,33.33,4,12,0,0,0,0,0,0,15:28,0:00,0:00
-2018020201,8469459,Mikko Koivu,Minnesota Wild,C,17:20,0,0,3,0,0,0,0,70.59,12,17,0,0,0,0,0,1,13:53,3:27,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020201,8475768,Jaden Schwartz,St. Louis Blues,Minnesota Wild,LW,17:31,0,0,0,1,0,0,0,0,0,4,2,1,0,0,0,0,15:10,0:00,2:21
+2018020201,8474125,Carl Gunnarsson,St. Louis Blues,Minnesota Wild,D,16:54,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,-2,13:29,0:00,3:25
+2018020201,8474565,Alex Pietrangelo,St. Louis Blues,Minnesota Wild,D,23:38,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,3,-2,20:27,0:00,3:11
+2018020201,8476897,Oskar Sundqvist,St. Louis Blues,Minnesota Wild,C,11:23,0,0,0,1,0,0,0,50,3,6,0,0,0,0,0,0,7:35,0:00,3:48
+2018020201,8475765,Vladimir Tarasenko,St. Louis Blues,Minnesota Wild,RW,16:06,1,0,4,3,0,1,0,NA,0,0,0,0,0,0,0,0,15:36,0:30,0:00
+2018020201,8470257,Alexander Steen,St. Louis Blues,Minnesota Wild,LW,16:39,0,0,0,1,0,0,2,NA,0,0,0,0,0,0,0,-3,14:08,0:00,2:31
+2018020201,8478407,Vince Dunn,St. Louis Blues,Minnesota Wild,D,18:26,1,0,4,0,0,1,0,NA,0,0,0,2,0,0,1,-1,17:56,0:30,0:00
+2018020201,8477952,Robby Fabbri,St. Louis Blues,Minnesota Wild,C,14:25,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,-1,14:14,0:00,0:11
+2018020201,8475158,Ryan O'Reilly,St. Louis Blues,Minnesota Wild,C,19:39,0,1,2,2,1,0,0,65,13,20,2,0,0,0,1,-2,14:50,0:30,4:19
+2018020201,8474102,David Perron,St. Louis Blues,Minnesota Wild,LW,14:16,0,0,3,2,0,0,0,NA,0,0,0,0,0,0,0,-2,14:16,0:00,0:00
+2018020201,8474034,Pat Maroon,St. Louis Blues,Minnesota Wild,LW,9:15,0,0,0,2,0,0,2,NA,0,0,2,0,0,0,0,-2,8:45,0:30,0:00
+2018020201,8475098,Tyler Bozak,St. Louis Blues,Minnesota Wild,C,15:22,0,0,1,0,0,0,2,42.86,6,14,1,0,0,0,0,-2,14:08,0:30,0:44
+2018020201,8476441,Joel Edmundson,St. Louis Blues,Minnesota Wild,D,22:46,0,0,0,3,0,0,2,NA,0,0,0,0,0,0,2,-1,19:04,0:00,3:42
+2018020201,8470151,Jay Bouwmeester,St. Louis Blues,Minnesota Wild,D,14:29,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,1,-3,13:11,0:00,1:18
+2018020201,8476892,Colton Parayko,St. Louis Blues,Minnesota Wild,D,23:20,0,0,0,1,0,0,0,NA,0,0,1,1,0,0,3,-1,18:56,0:00,4:24
+2018020201,8475170,Brayden Schenn,St. Louis Blues,Minnesota Wild,C,9:39,0,0,0,3,0,0,0,75,3,4,0,1,0,0,1,-1,9:10,0:00,0:29
+2018020201,8477482,Zach Sanford,St. Louis Blues,Minnesota Wild,LW,14:54,0,0,1,1,0,0,0,NA,0,0,0,1,0,0,0,-2,13:28,0:00,1:26
+2018020201,8480023,Robert Thomas,St. Louis Blues,Minnesota Wild,C,11:18,0,0,0,1,0,0,0,37.5,3,8,0,0,0,0,0,0,11:07,0:00,0:11
+2018020201,8476806,J.T. Brown,Minnesota Wild,St. Louis Blues,RW,9:44,0,1,2,0,0,0,0,NA,0,0,0,0,0,0,0,2,9:44,0:00,0:00
+2018020201,8474716,Jared Spurgeon,Minnesota Wild,St. Louis Blues,D,21:15,0,0,0,1,0,0,0,NA,0,0,1,0,0,0,1,0,18:01,3:14,0:00
+2018020201,8470595,Eric Staal,Minnesota Wild,St. Louis Blues,C,17:37,0,1,3,0,0,0,0,50,6,12,2,0,0,0,0,2,13:04,4:33,0:00
+2018020201,8470600,Ryan Suter,Minnesota Wild,St. Louis Blues,D,25:49,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,2,0,20:33,4:46,0:30
+2018020201,8470611,Eric Fehr,Minnesota Wild,St. Louis Blues,C,9:19,1,1,1,2,0,0,0,37.5,3,8,0,0,0,0,0,2,8:49,0:00,0:30
+2018020201,8475798,Mikael Granlund,Minnesota Wild,St. Louis Blues,RW,17:04,1,0,6,0,0,0,0,100,1,1,1,0,0,0,0,1,12:31,4:33,0:00
+2018020201,8475722,Jason Zucker,Minnesota Wild,St. Louis Blues,LW,18:19,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,1,0,13:46,4:33,0:00
+2018020201,8475799,Nino Niederreiter,Minnesota Wild,St. Louis Blues,RW,17:07,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,13:40,3:27,0:00
+2018020201,8474688,Greg Pateryn,Minnesota Wild,St. Louis Blues,D,13:19,0,0,2,0,0,0,0,NA,0,0,0,0,0,0,3,5,13:19,0:00,0:00
+2018020201,8475745,Charlie Coyle,Minnesota Wild,St. Louis Blues,C,19:04,1,0,2,2,0,0,0,50,2,4,1,1,0,0,0,2,14:31,4:33,0:00
+2018020201,8470610,Zach Parise,Minnesota Wild,St. Louis Blues,LW,16:40,0,0,5,1,0,0,0,0,0,1,0,0,0,0,1,0,13:13,3:27,0:00
+2018020201,8476856,Matt Dumba,Minnesota Wild,St. Louis Blues,D,23:32,0,1,4,1,0,0,0,NA,0,0,1,1,0,0,2,1,19:35,3:27,0:30
+2018020201,8478413,Jordan Greenway,Minnesota Wild,St. Louis Blues,LW,13:39,2,0,1,2,0,0,2,0,0,1,0,0,0,0,1,3,13:39,0:00,0:00
+2018020201,8476372,Nick Seeler,Minnesota Wild,St. Louis Blues,D,13:14,2,1,4,0,0,0,0,NA,0,0,0,1,0,0,0,4,13:14,0:00,0:00
+2018020201,8475220,Marcus Foligno,Minnesota Wild,St. Louis Blues,LW,11:17,1,0,2,3,0,0,2,NA,0,0,1,0,0,0,1,2,10:47,0:00,0:30
+2018020201,8476463,Jonas Brodin,Minnesota Wild,St. Louis Blues,D,17:43,0,0,3,3,0,0,0,NA,0,0,0,0,0,0,3,0,17:43,0:00,0:00
+2018020201,8478493,Joel Eriksson Ek,Minnesota Wild,St. Louis Blues,C,15:28,0,0,3,2,0,0,0,33.33,4,12,0,0,0,0,0,0,15:28,0:00,0:00
+2018020201,8469459,Mikko Koivu,Minnesota Wild,St. Louis Blues,C,17:20,0,0,3,0,0,0,0,70.59,12,17,0,0,0,0,0,1,13:53,3:27,0:00

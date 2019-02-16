@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020079,8476918,Jimmy Vesey,New York Rangers,LW,16:12,0,0,6,1,0,0,0,0,0,2,0,1,0,0,0,-1,12:15,3:02,0:55
-2018020079,8471686,Marc Staal,New York Rangers,D,18:24,0,0,4,3,0,0,0,NA,0,0,0,1,0,0,2,-1,15:55,0:00,2:29
-2018020079,8476869,Brady Skjei,New York Rangers,D,26:03,0,0,0,5,0,0,0,NA,0,0,2,1,0,0,2,1,22:47,3:02,0:14
-2018020079,8475727,Ryan Spooner,New York Rangers,C,10:56,0,0,4,0,0,0,0,66.67,4,6,0,0,0,0,0,0,5:05,5:51,0:00
-2018020079,8479968,Vinni Lettieri,New York Rangers,C,6:11,0,0,1,0,0,0,0,100,1,1,0,1,0,0,0,0,5:57,0:00,0:14
-2018020079,8471657,Cody McLeod,New York Rangers,LW,5:03,0,0,0,3,0,0,0,NA,0,0,1,0,0,0,0,0,5:03,0:00,0:00
-2018020079,8476459,Mika Zibanejad,New York Rangers,C,24:03,0,0,5,0,0,0,0,64,16,25,1,0,0,0,4,0,15:20,7:09,1:34
-2018020079,8475855,Jesper Fast,New York Rangers,RW,16:57,0,0,2,5,0,0,2,100,1,1,1,1,0,0,1,0,15:04,0:58,0:55
-2018020079,8474031,Kevin Shattenkirk,New York Rangers,D,20:19,2,0,2,0,0,1,0,NA,0,0,2,3,0,0,1,1,12:40,7:39,0:00
-2018020079,8475763,Kevin Hayes,New York Rangers,C,22:47,0,1,4,1,0,0,2,71.43,10,14,1,1,0,0,0,1,18:07,3:31,1:09
-2018020079,8476368,Fredrik Claesson,New York Rangers,D,10:50,0,0,0,1,0,0,5,NA,0,0,0,1,0,0,1,0,9:55,0:00,0:55
-2018020079,8475184,Chris Kreider,New York Rangers,LW,20:36,0,1,5,4,1,0,0,100,1,1,0,0,0,0,1,0,13:56,6:40,0:00
-2018020079,8479353,Brett Howden,New York Rangers,C,17:22,0,0,1,1,0,0,0,62.5,5,8,0,1,0,0,1,-1,12:33,3:54,0:55
-2018020079,8475692,Mats Zuccarello,New York Rangers,RW,24:45,2,0,1,1,0,1,0,50,1,2,2,0,0,0,1,1,15:42,7:29,1:34
-2018020079,8474090,Brendan Smith,New York Rangers,D,19:23,0,0,2,2,0,0,0,NA,0,0,1,4,0,0,1,-1,16:48,0:57,1:38
-2018020079,8480078,Filip Chytil,New York Rangers,C,20:08,0,0,1,0,0,0,2,0,0,1,2,1,0,0,0,1,16:57,3:11,0:00
-2018020079,8476480,Vladislav Namestnikov,New York Rangers,C,11:19,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,-1,11:04,0:15,0:00
-2018020079,8480145,Neal Pionk,New York Rangers,D,21:38,0,0,4,3,0,0,0,NA,0,0,1,0,0,0,1,0,18:46,0:52,2:00
-2018020079,8473446,Erik Johnson,Colorado Avalanche,D,22:54,0,0,6,0,0,0,0,NA,0,0,0,0,0,0,2,0,18:07,0:13,4:34
-2018020079,8477507,Nikita Zadorov,Colorado Avalanche,D,16:31,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,1,0,12:41,0:00,3:50
-2018020079,8474569,Colin Wilson,Colorado Avalanche,C,12:44,0,0,0,2,0,0,0,33.33,1,3,0,0,0,0,1,-1,12:31,0:13,0:00
-2018020079,8475747,Patrik Nemeth,Colorado Avalanche,D,17:35,0,0,0,3,0,0,2,NA,0,0,0,0,0,0,2,0,12:12,0:00,5:23
-2018020079,8480326,Sheldon Dries,Colorado Avalanche,C,8:39,0,0,2,2,0,0,0,NA,0,0,1,0,0,0,1,0,6:20,0:00,2:19
-2018020079,8476442,Matt Nieto,Colorado Avalanche,LW,15:32,0,0,3,1,0,0,0,100,1,1,1,0,0,0,0,0,11:45,0:00,3:47
-2018020079,8476455,Gabriel Landeskog,Colorado Avalanche,LW,20:05,1,1,4,1,1,0,4,66.67,6,9,0,1,0,0,0,1,16:27,3:25,0:13
-2018020079,8474685,Matt Calvert,Colorado Avalanche,LW,13:39,0,0,3,1,0,0,7,NA,0,0,0,1,0,0,2,0,11:42,0:00,1:57
-2018020079,8475268,Gabriel Bourque,Colorado Avalanche,LW,10:00,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,5:03,0:00,4:57
-2018020079,8477973,Vladislav Kamenev,Colorado Avalanche,C,8:57,0,0,2,3,0,0,0,37.5,3,8,0,1,0,0,0,0,5:35,0:00,3:22
-2018020079,8477021,Alexander Kerfoot,Colorado Avalanche,C,17:11,0,0,2,0,0,0,0,NA,0,0,1,2,0,0,1,-1,15:42,0:13,1:16
-2018020079,8474013,Ian Cole,Colorado Avalanche,D,21:46,0,0,0,2,0,0,0,NA,0,0,0,1,0,0,4,0,15:38,0:00,6:08
-2018020079,8475197,Tyson Barrie,Colorado Avalanche,D,24:09,1,0,1,0,0,1,0,NA,0,0,0,1,0,0,2,1,20:43,3:25,0:01
-2018020079,8471262,Carl Soderberg,Colorado Avalanche,C,15:27,0,0,1,4,0,0,0,36.36,4,11,1,0,0,0,2,0,11:39,0:13,3:35
-2018020079,8479398,Samuel Girard,Colorado Avalanche,D,18:43,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,2,-1,17:49,0:13,0:41
-2018020079,8478420,Mikko Rantanen,Colorado Avalanche,RW,21:49,1,0,3,0,0,0,2,NA,0,0,0,0,0,0,1,1,18:09,3:25,0:15
-2018020079,8477492,Nathan MacKinnon,Colorado Avalanche,C,22:33,0,1,3,2,0,0,2,25,5,20,0,1,0,0,0,1,18:14,3:25,0:54
-2018020079,8479370,Tyson Jost,Colorado Avalanche,C,17:02,1,0,1,1,0,1,0,33.33,3,9,0,0,0,0,1,-1,13:37,3:25,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020079,8476918,Jimmy Vesey,New York Rangers,Colorado Avalanche,LW,16:12,0,0,6,1,0,0,0,0,0,2,0,1,0,0,0,-1,12:15,3:02,0:55
+2018020079,8471686,Marc Staal,New York Rangers,Colorado Avalanche,D,18:24,0,0,4,3,0,0,0,NA,0,0,0,1,0,0,2,-1,15:55,0:00,2:29
+2018020079,8476869,Brady Skjei,New York Rangers,Colorado Avalanche,D,26:03,0,0,0,5,0,0,0,NA,0,0,2,1,0,0,2,1,22:47,3:02,0:14
+2018020079,8475727,Ryan Spooner,New York Rangers,Colorado Avalanche,C,10:56,0,0,4,0,0,0,0,66.67,4,6,0,0,0,0,0,0,5:05,5:51,0:00
+2018020079,8479968,Vinni Lettieri,New York Rangers,Colorado Avalanche,C,6:11,0,0,1,0,0,0,0,100,1,1,0,1,0,0,0,0,5:57,0:00,0:14
+2018020079,8471657,Cody McLeod,New York Rangers,Colorado Avalanche,LW,5:03,0,0,0,3,0,0,0,NA,0,0,1,0,0,0,0,0,5:03,0:00,0:00
+2018020079,8476459,Mika Zibanejad,New York Rangers,Colorado Avalanche,C,24:03,0,0,5,0,0,0,0,64,16,25,1,0,0,0,4,0,15:20,7:09,1:34
+2018020079,8475855,Jesper Fast,New York Rangers,Colorado Avalanche,RW,16:57,0,0,2,5,0,0,2,100,1,1,1,1,0,0,1,0,15:04,0:58,0:55
+2018020079,8474031,Kevin Shattenkirk,New York Rangers,Colorado Avalanche,D,20:19,2,0,2,0,0,1,0,NA,0,0,2,3,0,0,1,1,12:40,7:39,0:00
+2018020079,8475763,Kevin Hayes,New York Rangers,Colorado Avalanche,C,22:47,0,1,4,1,0,0,2,71.43,10,14,1,1,0,0,0,1,18:07,3:31,1:09
+2018020079,8476368,Fredrik Claesson,New York Rangers,Colorado Avalanche,D,10:50,0,0,0,1,0,0,5,NA,0,0,0,1,0,0,1,0,9:55,0:00,0:55
+2018020079,8475184,Chris Kreider,New York Rangers,Colorado Avalanche,LW,20:36,0,1,5,4,1,0,0,100,1,1,0,0,0,0,1,0,13:56,6:40,0:00
+2018020079,8479353,Brett Howden,New York Rangers,Colorado Avalanche,C,17:22,0,0,1,1,0,0,0,62.5,5,8,0,1,0,0,1,-1,12:33,3:54,0:55
+2018020079,8475692,Mats Zuccarello,New York Rangers,Colorado Avalanche,RW,24:45,2,0,1,1,0,1,0,50,1,2,2,0,0,0,1,1,15:42,7:29,1:34
+2018020079,8474090,Brendan Smith,New York Rangers,Colorado Avalanche,D,19:23,0,0,2,2,0,0,0,NA,0,0,1,4,0,0,1,-1,16:48,0:57,1:38
+2018020079,8480078,Filip Chytil,New York Rangers,Colorado Avalanche,C,20:08,0,0,1,0,0,0,2,0,0,1,2,1,0,0,0,1,16:57,3:11,0:00
+2018020079,8476480,Vladislav Namestnikov,New York Rangers,Colorado Avalanche,C,11:19,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,-1,11:04,0:15,0:00
+2018020079,8480145,Neal Pionk,New York Rangers,Colorado Avalanche,D,21:38,0,0,4,3,0,0,0,NA,0,0,1,0,0,0,1,0,18:46,0:52,2:00
+2018020079,8473446,Erik Johnson,Colorado Avalanche,New York Rangers,D,22:54,0,0,6,0,0,0,0,NA,0,0,0,0,0,0,2,0,18:07,0:13,4:34
+2018020079,8477507,Nikita Zadorov,Colorado Avalanche,New York Rangers,D,16:31,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,1,0,12:41,0:00,3:50
+2018020079,8474569,Colin Wilson,Colorado Avalanche,New York Rangers,C,12:44,0,0,0,2,0,0,0,33.33,1,3,0,0,0,0,1,-1,12:31,0:13,0:00
+2018020079,8475747,Patrik Nemeth,Colorado Avalanche,New York Rangers,D,17:35,0,0,0,3,0,0,2,NA,0,0,0,0,0,0,2,0,12:12,0:00,5:23
+2018020079,8480326,Sheldon Dries,Colorado Avalanche,New York Rangers,C,8:39,0,0,2,2,0,0,0,NA,0,0,1,0,0,0,1,0,6:20,0:00,2:19
+2018020079,8476442,Matt Nieto,Colorado Avalanche,New York Rangers,LW,15:32,0,0,3,1,0,0,0,100,1,1,1,0,0,0,0,0,11:45,0:00,3:47
+2018020079,8476455,Gabriel Landeskog,Colorado Avalanche,New York Rangers,LW,20:05,1,1,4,1,1,0,4,66.67,6,9,0,1,0,0,0,1,16:27,3:25,0:13
+2018020079,8474685,Matt Calvert,Colorado Avalanche,New York Rangers,LW,13:39,0,0,3,1,0,0,7,NA,0,0,0,1,0,0,2,0,11:42,0:00,1:57
+2018020079,8475268,Gabriel Bourque,Colorado Avalanche,New York Rangers,LW,10:00,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,5:03,0:00,4:57
+2018020079,8477973,Vladislav Kamenev,Colorado Avalanche,New York Rangers,C,8:57,0,0,2,3,0,0,0,37.5,3,8,0,1,0,0,0,0,5:35,0:00,3:22
+2018020079,8477021,Alexander Kerfoot,Colorado Avalanche,New York Rangers,C,17:11,0,0,2,0,0,0,0,NA,0,0,1,2,0,0,1,-1,15:42,0:13,1:16
+2018020079,8474013,Ian Cole,Colorado Avalanche,New York Rangers,D,21:46,0,0,0,2,0,0,0,NA,0,0,0,1,0,0,4,0,15:38,0:00,6:08
+2018020079,8475197,Tyson Barrie,Colorado Avalanche,New York Rangers,D,24:09,1,0,1,0,0,1,0,NA,0,0,0,1,0,0,2,1,20:43,3:25,0:01
+2018020079,8471262,Carl Soderberg,Colorado Avalanche,New York Rangers,C,15:27,0,0,1,4,0,0,0,36.36,4,11,1,0,0,0,2,0,11:39,0:13,3:35
+2018020079,8479398,Samuel Girard,Colorado Avalanche,New York Rangers,D,18:43,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,2,-1,17:49,0:13,0:41
+2018020079,8478420,Mikko Rantanen,Colorado Avalanche,New York Rangers,RW,21:49,1,0,3,0,0,0,2,NA,0,0,0,0,0,0,1,1,18:09,3:25,0:15
+2018020079,8477492,Nathan MacKinnon,Colorado Avalanche,New York Rangers,C,22:33,0,1,3,2,0,0,2,25,5,20,0,1,0,0,0,1,18:14,3:25,0:54
+2018020079,8479370,Tyson Jost,Colorado Avalanche,New York Rangers,C,17:02,1,0,1,1,0,1,0,33.33,3,9,0,0,0,0,1,-1,13:37,3:25,0:00

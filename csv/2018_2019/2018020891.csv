@@ -1,43 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020891,8470616,Ryan Kesler,Anaheim Ducks,C,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8476913,Devin Shore,Anaheim Ducks,C,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8476407,Andy Welinski,Anaheim Ducks,D,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8475764,Cam Fowler,Anaheim Ducks,D,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8470612,Ryan Getzlaf,Anaheim Ducks,C,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8477986,Brandon Montour,Anaheim Ducks,D,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8476854,Hampus Lindholm,Anaheim Ducks,D,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8470621,Corey Perry,Anaheim Ducks,RW,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8476207,Brian Gibbons,Anaheim Ducks,LW,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8478466,Daniel Sprong,Anaheim Ducks,RW,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8474683,Derek Grant,Anaheim Ducks,C,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8474584,Michael Del Zotto,Anaheim Ducks,D,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8478873,Troy Terry,Anaheim Ducks,RW,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8477941,Nick Ritchie,Anaheim Ducks,LW,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8476312,Josh Manson,Anaheim Ducks,D,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8479368,Max Jones,Anaheim Ducks,LW,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8474641,Adam Henrique,Anaheim Ducks,C,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8476483,Rickard Rakell,Anaheim Ducks,LW,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8475164,Jakob Silfverberg,Anaheim Ducks,RW,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8477034,Jaycob Megna,Anaheim Ducks,D,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8477240,Carter Rowney,Anaheim Ducks,C,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8470638,Patrice Bergeron,Boston Bruins,C,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8473419,Brad Marchand,Boston Bruins,LW,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8475807,Joakim Nordstrom,Boston Bruins,C,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8471276,David Krejci,Boston Bruins,C,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8470655,David Backes,Boston Bruins,RW,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8478569,Noel Acciari,Boston Bruins,C,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8477417,Peter Cehlarik,Boston Bruins,LW,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8479325,Charlie McAvoy,Boston Bruins,D,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8480901,Karson Kuhlman,Boston Bruins,C,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8475780,Chris Wagner,Boston Bruins,RW,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8478443,Brandon Carlo,Boston Bruins,D,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8475186,John Moore,Boston Bruins,D,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8476792,Torey Krug,Boston Bruins,D,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8476891,Matt Grzelcyk,Boston Bruins,D,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8476374,Sean Kuraly,Boston Bruins,C,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8478498,Jake DeBrusk,Boston Bruins,LW,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8478046,Danton Heinen,Boston Bruins,C,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8474000,Steven Kampfer,Boston Bruins,D,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8479365,Trent Frederic,Boston Bruins,C,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8465009,Zdeno Chara,Boston Bruins,D,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
-2018020891,8476191,Kevan Miller,Boston Bruins,D,0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0:00,0:00,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020891,8470616,Ryan Kesler,Anaheim Ducks,Boston Bruins,C,1:59,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1:59,0:00,0:00
+2018020891,8476913,Devin Shore,Anaheim Ducks,Boston Bruins,C,2:36,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,0,0,2:36,0:00,0:00
+2018020891,8475764,Cam Fowler,Anaheim Ducks,Boston Bruins,D,3:30,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-1,3:30,0:00,0:00
+2018020891,8470612,Ryan Getzlaf,Anaheim Ducks,Boston Bruins,C,2:37,0,0,0,0,0,0,0,67,2,3,0,1,0,0,0,0,2:37,0:00,0:00
+2018020891,8477986,Brandon Montour,Anaheim Ducks,Boston Bruins,D,2:56,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,2:56,0:00,0:00
+2018020891,8476854,Hampus Lindholm,Anaheim Ducks,Boston Bruins,D,2:25,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,2:25,0:00,0:00
+2018020891,8470621,Corey Perry,Anaheim Ducks,Boston Bruins,RW,2:37,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,2:37,0:00,0:00
+2018020891,8478466,Daniel Sprong,Anaheim Ducks,Boston Bruins,RW,2:32,0,0,0,2,0,0,0,NA,0,0,0,1,0,0,0,-1,2:32,0:00,0:00
+2018020891,8474683,Derek Grant,Anaheim Ducks,Boston Bruins,C,2:36,0,0,1,1,0,0,0,33,1,3,0,0,0,0,0,0,2:36,0:00,0:00
+2018020891,8474584,Michael Del Zotto,Anaheim Ducks,Boston Bruins,D,4:06,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,2,0,4:06,0:00,0:00
+2018020891,8478873,Troy Terry,Anaheim Ducks,Boston Bruins,RW,2:27,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,-1,2:27,0:00,0:00
+2018020891,8476312,Josh Manson,Anaheim Ducks,Boston Bruins,D,3:23,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,3:23,0:00,0:00
+2018020891,8479368,Max Jones,Anaheim Ducks,Boston Bruins,LW,1:46,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,1:46,0:00,0:00
+2018020891,8474641,Adam Henrique,Anaheim Ducks,Boston Bruins,C,2:19,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-1,2:19,0:00,0:00
+2018020891,8476483,Rickard Rakell,Anaheim Ducks,Boston Bruins,LW,2:37,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,1,0,2:37,0:00,0:00
+2018020891,8475164,Jakob Silfverberg,Anaheim Ducks,Boston Bruins,RW,2:36,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,0,0,2:36,0:00,0:00
+2018020891,8477034,Jaycob Megna,Anaheim Ducks,Boston Bruins,D,2:42,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,0,-1,2:42,0:00,0:00
+2018020891,8477240,Carter Rowney,Anaheim Ducks,Boston Bruins,C,1:51,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,1:51,0:00,0:00
+2018020891,8470638,Patrice Bergeron,Boston Bruins,Anaheim Ducks,C,2:13,0,0,0,0,0,0,0,67,2,3,0,0,0,0,0,0,2:13,0:00,0:00
+2018020891,8473419,Brad Marchand,Boston Bruins,Anaheim Ducks,LW,2:13,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,2:13,0:00,0:00
+2018020891,8475807,Joakim Nordstrom,Boston Bruins,Anaheim Ducks,C,1:45,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,1:45,0:00,0:00
+2018020891,8471276,David Krejci,Boston Bruins,Anaheim Ducks,C,3:13,0,0,0,1,0,0,0,100,1,1,0,1,0,0,0,0,3:13,0:00,0:00
+2018020891,8470655,David Backes,Boston Bruins,Anaheim Ducks,RW,1:26,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,1:26,0:00,0:00
+2018020891,8478569,Noel Acciari,Boston Bruins,Anaheim Ducks,C,2:20,0,1,1,0,0,0,0,33,1,3,0,0,0,0,0,1,2:20,0:00,0:00
+2018020891,8477417,Peter Cehlarik,Boston Bruins,Anaheim Ducks,LW,3:13,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,1,0,3:13,0:00,0:00
+2018020891,8479325,Charlie McAvoy,Boston Bruins,Anaheim Ducks,D,3:13,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,0,0,3:13,0:00,0:00
+2018020891,8475780,Chris Wagner,Boston Bruins,Anaheim Ducks,RW,3:02,0,0,0,2,0,0,0,NA,0,0,0,0,0,0,0,1,3:02,0:00,0:00
+2018020891,8478443,Brandon Carlo,Boston Bruins,Anaheim Ducks,D,3:07,1,0,1,0,0,0,0,NA,0,0,1,0,0,0,0,1,3:07,0:00,0:00
+2018020891,8475186,John Moore,Boston Bruins,Anaheim Ducks,D,2:57,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,2:57,0:00,0:00
+2018020891,8476792,Torey Krug,Boston Bruins,Anaheim Ducks,D,3:17,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,1,3:17,0:00,0:00
+2018020891,8476374,Sean Kuraly,Boston Bruins,Anaheim Ducks,C,2:20,1,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,1,2:20,0:00,0:00
+2018020891,8478498,Jake DeBrusk,Boston Bruins,Anaheim Ducks,LW,2:38,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,2:38,0:00,0:00
+2018020891,8478046,Danton Heinen,Boston Bruins,Anaheim Ducks,C,2:25,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,2,0,2:25,0:00,0:00
+2018020891,8479365,Trent Frederic,Boston Bruins,Anaheim Ducks,C,1:45,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,1:45,0:00,0:00
+2018020891,8465009,Zdeno Chara,Boston Bruins,Anaheim Ducks,D,3:17,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,3:17,0:00,0:00
+2018020891,8476191,Kevan Miller,Boston Bruins,Anaheim Ducks,D,3:11,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,3:11,0:00,0:00

@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020581,8474709,Matt Martin,New York Islanders,LW,9:47,1,0,0,4,0,0,5,0,0,1,0,1,0,0,0,2,8:50,0:57,0:00
-2018020581,8476917,Adam Pelech,New York Islanders,D,18:10,0,0,3,0,0,0,0,NA,0,0,0,1,0,0,0,0,18:10,0:00,0:00
-2018020581,8477506,Ryan Pulock,New York Islanders,D,18:51,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,2,0,17:41,0:38,0:32
-2018020581,8476429,Scott Mayfield,New York Islanders,D,21:46,0,0,5,1,0,0,5,NA,0,0,0,1,0,0,3,2,21:36,0:00,0:10
-2018020581,8470047,Valtteri Filppula,New York Islanders,C,13:18,0,0,0,0,0,0,0,75,9,12,0,0,0,0,0,1,13:08,0:00,0:10
-2018020581,8470187,Johnny Boychuk,New York Islanders,D,20:12,0,1,4,3,0,0,0,NA,0,0,0,0,0,0,1,1,19:30,0:00,0:42
-2018020581,8477959,Joshua Ho-Sang,New York Islanders,RW,15:53,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,1,1,14:50,1:03,0:00
-2018020581,8475314,Anders Lee,New York Islanders,LW,18:10,0,1,3,0,0,0,0,50,1,2,1,0,0,0,0,2,17:07,1:03,0:00
-2018020581,8475754,Brock Nelson,New York Islanders,C,18:49,0,0,0,0,0,0,0,60,12,20,1,1,0,0,2,0,17:24,1:03,0:22
-2018020581,8475832,Tom Kuhnhackl,New York Islanders,RW,11:56,1,0,1,1,0,0,0,NA,0,0,0,1,0,0,1,1,11:34,0:00,0:22
-2018020581,8477527,Ross Johnston,New York Islanders,LW,7:40,0,0,1,2,0,0,7,NA,0,0,1,0,0,0,0,1,7:40,0:00,0:00
-2018020581,8478445,Mathew Barzal,New York Islanders,C,19:50,1,2,2,1,0,0,0,66.67,8,12,0,1,0,0,1,1,18:28,1:22,0:00
-2018020581,8478038,Devon Toews,New York Islanders,D,18:51,0,0,4,0,0,0,0,NA,0,0,0,1,0,0,0,2,17:54,0:57,0:00
-2018020581,8474573,Josh Bailey,New York Islanders,RW,19:33,1,1,2,0,0,0,0,60,3,5,1,0,0,0,0,-1,18:36,0:57,0:00
-2018020581,8478463,Anthony Beauvillier,New York Islanders,LW,18:03,1,0,3,3,0,0,0,NA,0,0,0,1,0,0,1,0,17:06,0:57,0:00
-2018020581,8473463,Leo Komarov,New York Islanders,RW,14:53,1,0,1,2,0,0,0,NA,0,0,0,0,0,0,1,1,14:33,0:00,0:20
-2018020581,8475231,Casey Cizikas,New York Islanders,C,12:48,1,1,3,1,0,0,4,66.67,4,6,0,0,0,0,0,3,12:38,0:00,0:10
-2018020581,8475181,Nick Leddy,New York Islanders,D,20:48,0,0,4,2,0,0,0,NA,0,0,0,2,0,0,1,3,19:45,1:03,0:00
-2018020581,8476919,Chris Tierney,Ottawa Senators,C,18:33,1,0,4,1,0,0,0,35.29,6,17,0,0,0,0,0,-2,17:27,0:00,1:06
-2018020581,8476879,Cody Ceci,Ottawa Senators,D,26:07,0,1,3,3,0,0,0,NA,0,0,0,1,0,0,0,-3,24:43,0:10,1:14
-2018020581,8475913,Mark Stone,Ottawa Senators,RW,20:23,0,1,3,2,0,0,0,0,0,1,1,2,0,0,1,-1,19:17,0:32,0:34
-2018020581,8477426,Nick Paul,Ottawa Senators,LW,7:02,0,0,1,0,0,0,0,50,1,2,0,0,0,0,0,0,6:52,0:10,0:00
-2018020581,8474697,Mark Borowiecki,Ottawa Senators,D,13:53,0,0,0,6,0,0,5,NA,0,0,0,0,0,0,1,-1,13:07,0:00,0:46
-2018020581,8471676,Bobby Ryan,Ottawa Senators,RW,16:36,1,0,0,0,0,1,0,NA,0,0,0,0,0,0,2,-2,15:47,0:32,0:17
-2018020581,8478868,Christian Jaros,Ottawa Senators,D,13:30,0,0,0,0,0,0,5,NA,0,0,0,1,0,0,1,-1,13:30,0:00,0:00
-2018020581,8476288,Ryan Dzingel,Ottawa Senators,LW,19:05,0,0,4,1,0,0,0,NA,0,0,0,1,0,0,1,-2,19:05,0:00,0:00
-2018020581,8477433,Ben Harpur,Ottawa Senators,D,17:43,0,0,1,1,0,0,5,NA,0,0,0,0,0,0,2,-2,16:19,0:10,1:14
-2018020581,8478400,Colin White,Ottawa Senators,C,17:23,0,0,2,0,0,0,0,31.25,5,16,0,0,0,0,2,-1,16:51,0:32,0:00
-2018020581,8480801,Brady Tkachuk,Ottawa Senators,LW,16:29,0,0,3,2,0,0,0,33.33,1,3,1,1,0,0,0,-1,16:29,0:00,0:00
-2018020581,8474250,Zack Smith,Ottawa Senators,LW,19:37,0,0,1,2,0,0,4,60,3,5,2,1,0,0,0,-1,18:33,0:10,0:54
-2018020581,8478469,Thomas Chabot,Ottawa Senators,D,8:47,1,0,2,0,0,1,0,NA,0,0,0,0,0,0,0,0,8:15,0:32,0:00
-2018020581,8475168,Matt Duchene,Ottawa Senators,C,21:06,0,1,1,1,1,0,0,35.71,5,14,0,0,0,0,0,-2,20:34,0:32,0:00
-2018020581,8475175,Magnus Paajarvi,Ottawa Senators,LW,7:07,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,-1,5:48,0:10,1:09
-2018020581,8479320,Maxime Lajoie,Ottawa Senators,D,21:46,0,0,1,1,0,0,2,NA,0,0,1,0,0,0,3,0,21:46,0:00,0:00
-2018020581,8476331,Dylan DeMelo,Ottawa Senators,D,17:54,0,0,1,2,0,0,0,NA,0,0,1,0,0,0,2,-1,17:08,0:00,0:46
-2018020581,8474571,Mikkel Boedker,Ottawa Senators,LW,16:37,1,0,0,2,0,0,0,NA,0,0,0,0,0,0,3,0,16:37,0:00,0:00
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020581,8474709,Matt Martin,New York Islanders,Ottawa Senators,LW,9:47,1,0,0,4,0,0,5,0,0,1,0,1,0,0,0,2,8:50,0:57,0:00
+2018020581,8476917,Adam Pelech,New York Islanders,Ottawa Senators,D,18:10,0,0,3,0,0,0,0,NA,0,0,0,1,0,0,0,0,18:10,0:00,0:00
+2018020581,8477506,Ryan Pulock,New York Islanders,Ottawa Senators,D,18:51,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,2,0,17:41,0:38,0:32
+2018020581,8476429,Scott Mayfield,New York Islanders,Ottawa Senators,D,21:46,0,0,5,1,0,0,5,NA,0,0,0,1,0,0,3,2,21:36,0:00,0:10
+2018020581,8470047,Valtteri Filppula,New York Islanders,Ottawa Senators,C,13:18,0,0,0,0,0,0,0,75,9,12,0,0,0,0,0,1,13:08,0:00,0:10
+2018020581,8470187,Johnny Boychuk,New York Islanders,Ottawa Senators,D,20:12,0,1,4,3,0,0,0,NA,0,0,0,0,0,0,1,1,19:30,0:00,0:42
+2018020581,8477959,Joshua Ho-Sang,New York Islanders,Ottawa Senators,RW,15:53,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,1,1,14:50,1:03,0:00
+2018020581,8475314,Anders Lee,New York Islanders,Ottawa Senators,LW,18:10,0,1,3,0,0,0,0,50,1,2,1,0,0,0,0,2,17:07,1:03,0:00
+2018020581,8475754,Brock Nelson,New York Islanders,Ottawa Senators,C,18:49,0,0,0,0,0,0,0,60,12,20,1,1,0,0,2,0,17:24,1:03,0:22
+2018020581,8475832,Tom Kuhnhackl,New York Islanders,Ottawa Senators,RW,11:56,1,0,1,1,0,0,0,NA,0,0,0,1,0,0,1,1,11:34,0:00,0:22
+2018020581,8477527,Ross Johnston,New York Islanders,Ottawa Senators,LW,7:40,0,0,1,2,0,0,7,NA,0,0,1,0,0,0,0,1,7:40,0:00,0:00
+2018020581,8478445,Mathew Barzal,New York Islanders,Ottawa Senators,C,19:50,1,2,2,1,0,0,0,66.67,8,12,0,1,0,0,1,1,18:28,1:22,0:00
+2018020581,8478038,Devon Toews,New York Islanders,Ottawa Senators,D,18:51,0,0,4,0,0,0,0,NA,0,0,0,1,0,0,0,2,17:54,0:57,0:00
+2018020581,8474573,Josh Bailey,New York Islanders,Ottawa Senators,RW,19:33,1,1,2,0,0,0,0,60,3,5,1,0,0,0,0,-1,18:36,0:57,0:00
+2018020581,8478463,Anthony Beauvillier,New York Islanders,Ottawa Senators,LW,18:03,1,0,3,3,0,0,0,NA,0,0,0,1,0,0,1,0,17:06,0:57,0:00
+2018020581,8473463,Leo Komarov,New York Islanders,Ottawa Senators,RW,14:53,1,0,1,2,0,0,0,NA,0,0,0,0,0,0,1,1,14:33,0:00,0:20
+2018020581,8475231,Casey Cizikas,New York Islanders,Ottawa Senators,C,12:48,1,1,3,1,0,0,4,66.67,4,6,0,0,0,0,0,3,12:38,0:00,0:10
+2018020581,8475181,Nick Leddy,New York Islanders,Ottawa Senators,D,20:48,0,0,4,2,0,0,0,NA,0,0,0,2,0,0,1,3,19:45,1:03,0:00
+2018020581,8476919,Chris Tierney,Ottawa Senators,New York Islanders,C,18:33,1,0,4,1,0,0,0,35.29,6,17,0,0,0,0,0,-2,17:27,0:00,1:06
+2018020581,8476879,Cody Ceci,Ottawa Senators,New York Islanders,D,26:07,0,1,3,3,0,0,0,NA,0,0,0,1,0,0,0,-3,24:43,0:10,1:14
+2018020581,8475913,Mark Stone,Ottawa Senators,New York Islanders,RW,20:23,0,1,3,2,0,0,0,0,0,1,1,2,0,0,1,-1,19:17,0:32,0:34
+2018020581,8477426,Nick Paul,Ottawa Senators,New York Islanders,LW,7:02,0,0,1,0,0,0,0,50,1,2,0,0,0,0,0,0,6:52,0:10,0:00
+2018020581,8474697,Mark Borowiecki,Ottawa Senators,New York Islanders,D,13:53,0,0,0,6,0,0,5,NA,0,0,0,0,0,0,1,-1,13:07,0:00,0:46
+2018020581,8471676,Bobby Ryan,Ottawa Senators,New York Islanders,RW,16:36,1,0,0,0,0,1,0,NA,0,0,0,0,0,0,2,-2,15:47,0:32,0:17
+2018020581,8478868,Christian Jaros,Ottawa Senators,New York Islanders,D,13:30,0,0,0,0,0,0,5,NA,0,0,0,1,0,0,1,-1,13:30,0:00,0:00
+2018020581,8476288,Ryan Dzingel,Ottawa Senators,New York Islanders,LW,19:05,0,0,4,1,0,0,0,NA,0,0,0,1,0,0,1,-2,19:05,0:00,0:00
+2018020581,8477433,Ben Harpur,Ottawa Senators,New York Islanders,D,17:43,0,0,1,1,0,0,5,NA,0,0,0,0,0,0,2,-2,16:19,0:10,1:14
+2018020581,8478400,Colin White,Ottawa Senators,New York Islanders,C,17:23,0,0,2,0,0,0,0,31.25,5,16,0,0,0,0,2,-1,16:51,0:32,0:00
+2018020581,8480801,Brady Tkachuk,Ottawa Senators,New York Islanders,LW,16:29,0,0,3,2,0,0,0,33.33,1,3,1,1,0,0,0,-1,16:29,0:00,0:00
+2018020581,8474250,Zack Smith,Ottawa Senators,New York Islanders,LW,19:37,0,0,1,2,0,0,4,60,3,5,2,1,0,0,0,-1,18:33,0:10,0:54
+2018020581,8478469,Thomas Chabot,Ottawa Senators,New York Islanders,D,8:47,1,0,2,0,0,1,0,NA,0,0,0,0,0,0,0,0,8:15,0:32,0:00
+2018020581,8475168,Matt Duchene,Ottawa Senators,New York Islanders,C,21:06,0,1,1,1,1,0,0,35.71,5,14,0,0,0,0,0,-2,20:34,0:32,0:00
+2018020581,8475175,Magnus Paajarvi,Ottawa Senators,New York Islanders,LW,7:07,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,-1,5:48,0:10,1:09
+2018020581,8479320,Maxime Lajoie,Ottawa Senators,New York Islanders,D,21:46,0,0,1,1,0,0,2,NA,0,0,1,0,0,0,3,0,21:46,0:00,0:00
+2018020581,8476331,Dylan DeMelo,Ottawa Senators,New York Islanders,D,17:54,0,0,1,2,0,0,0,NA,0,0,1,0,0,0,2,-1,17:08,0:00,0:46
+2018020581,8474571,Mikkel Boedker,Ottawa Senators,New York Islanders,LW,16:37,1,0,0,2,0,0,0,NA,0,0,0,0,0,0,3,0,16:37,0:00,0:00

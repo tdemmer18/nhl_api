@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020189,8470616,Ryan Kesler,Anaheim Ducks,C,19:44,0,0,2,2,0,0,0,25,3,12,0,2,0,0,1,1,15:37,2:08,1:59
-2018020189,8476857,Pontus Aberg,Anaheim Ducks,LW,19:38,0,0,4,1,0,0,2,NA,0,0,0,2,0,0,0,0,18:14,1:24,0:00
-2018020189,8477969,Marcus Pettersson,Anaheim Ducks,D,12:21,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,-1,10:09,0:00,2:12
-2018020189,8476407,Andy Welinski,Anaheim Ducks,D,19:15,0,0,2,2,0,0,2,NA,0,0,0,0,0,0,4,0,19:15,0:00,0:00
-2018020189,8475764,Cam Fowler,Anaheim Ducks,D,27:52,1,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,1,21:28,3:39,2:45
-2018020189,8470622,Patrick Eaves,Anaheim Ducks,RW,10:17,0,0,0,1,0,0,0,NA,0,0,1,1,0,0,0,0,8:53,1:24,0:00
-2018020189,8470612,Ryan Getzlaf,Anaheim Ducks,C,23:44,2,0,3,2,0,1,0,73.33,11,15,2,2,0,0,2,1,20:05,3:39,0:00
-2018020189,8477986,Brandon Montour,Anaheim Ducks,D,18:29,0,0,2,1,0,0,0,NA,0,0,0,1,0,0,1,-1,14:20,1:24,2:45
-2018020189,8476854,Hampus Lindholm,Anaheim Ducks,D,25:05,0,0,2,0,0,0,2,NA,0,0,0,1,0,0,1,0,22:25,1:24,1:16
-2018020189,8471699,Andrew Cogliano,Anaheim Ducks,LW,12:59,0,0,0,2,0,0,0,NA,0,0,1,2,0,0,2,0,11:30,0:00,1:29
-2018020189,8474641,Adam Henrique,Anaheim Ducks,C,18:44,0,0,1,0,0,0,0,75,9,12,0,0,0,0,2,1,13:32,3:39,1:33
-2018020189,8480748,Kiefer Sherwood,Anaheim Ducks,RW,10:52,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,0,0,10:52,0:00,0:00
-2018020189,8476043,Ben Street,Anaheim Ducks,C,11:51,0,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,-1,10:23,0:00,1:28
-2018020189,8476483,Rickard Rakell,Anaheim Ducks,C,23:24,1,1,3,1,0,1,0,NA,0,0,1,1,0,0,0,1,19:45,3:39,0:00
-2018020189,8475164,Jakob Silfverberg,Anaheim Ducks,RW,18:36,0,1,2,1,1,0,0,NA,0,0,0,0,0,0,1,1,13:45,2:55,1:56
-2018020189,8480806,Isac Lundestrom,Anaheim Ducks,C,10:40,0,0,0,0,0,0,0,50,1,2,0,0,0,0,0,-1,10:40,0:00,0:00
-2018020189,8478491,Jacob Larsson,Anaheim Ducks,D,17:03,0,0,3,0,0,0,0,NA,0,0,0,1,0,0,1,0,16:07,0:00,0:56
-2018020189,8479290,Kalle Kossila,Anaheim Ducks,C,11:22,0,0,0,2,0,0,0,42.86,3,7,0,1,0,0,0,-1,9:53,0:00,1:29
-2018020189,8476918,Jimmy Vesey,New York Rangers,LW,20:13,1,0,1,0,0,0,0,NA,0,0,0,3,0,0,2,1,15:30,3:11,1:32
-2018020189,8471686,Marc Staal,New York Rangers,D,20:34,1,0,0,1,0,0,0,NA,0,0,0,0,0,0,1,1,17:28,0:00,3:06
-2018020189,8476869,Brady Skjei,New York Rangers,D,22:02,0,0,0,2,0,0,0,NA,0,0,0,1,0,0,3,-1,20:05,0:00,1:57
-2018020189,8475727,Ryan Spooner,New York Rangers,C,15:42,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,14:32,1:10,0:00
-2018020189,8479968,Vinni Lettieri,New York Rangers,C,8:04,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,8:04,0:00,0:00
-2018020189,8471657,Cody McLeod,New York Rangers,LW,7:22,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,7:22,0:00,0:00
-2018020189,8476459,Mika Zibanejad,New York Rangers,C,20:09,0,0,5,1,0,0,0,15.38,2,13,0,0,0,0,0,-1,16:19,1:40,2:10
-2018020189,8475855,Jesper Fast,New York Rangers,RW,15:13,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,1,13:52,0:00,1:21
-2018020189,8477950,Tony DeAngelo,New York Rangers,D,17:12,0,0,1,1,0,0,2,NA,0,0,0,0,0,0,3,-1,16:28,0:00,0:44
-2018020189,8474031,Kevin Shattenkirk,New York Rangers,D,21:10,0,0,3,0,0,0,0,NA,0,0,1,0,0,0,0,0,17:30,3:40,0:00
-2018020189,8475763,Kevin Hayes,New York Rangers,C,21:53,0,1,4,0,1,0,0,80,8,10,1,1,0,0,1,0,17:21,3:11,1:21
-2018020189,8475184,Chris Kreider,New York Rangers,LW,20:42,0,0,1,1,0,0,2,0,0,1,0,3,0,0,0,-1,18:00,2:42,0:00
-2018020189,8479353,Brett Howden,New York Rangers,C,18:10,1,1,5,2,0,1,0,58.82,10,17,0,2,0,0,0,1,13:39,2:59,1:32
-2018020189,8475692,Mats Zuccarello,New York Rangers,RW,19:34,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,-1,15:40,1:44,2:10
-2018020189,8474090,Brendan Smith,New York Rangers,D,15:56,0,0,0,3,0,0,0,NA,0,0,0,0,0,0,0,0,13:59,0:00,1:57
-2018020189,8480078,Filip Chytil,New York Rangers,C,10:05,1,0,0,0,0,1,0,50,1,2,0,0,0,0,0,0,7:12,2:53,0:00
-2018020189,8476480,Vladislav Namestnikov,New York Rangers,C,13:09,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,0,12:51,0:18,0:00
-2018020189,8480145,Neal Pionk,New York Rangers,D,22:47,0,0,1,2,0,0,2,NA,0,0,1,1,0,0,2,1,19:08,1:17,2:22
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020189,8470616,Ryan Kesler,Anaheim Ducks,New York Rangers,C,19:44,0,0,2,2,0,0,0,25,3,12,0,2,0,0,1,1,15:37,2:08,1:59
+2018020189,8476857,Pontus Aberg,Anaheim Ducks,New York Rangers,LW,19:38,0,0,4,1,0,0,2,NA,0,0,0,2,0,0,0,0,18:14,1:24,0:00
+2018020189,8477969,Marcus Pettersson,Anaheim Ducks,New York Rangers,D,12:21,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,-1,10:09,0:00,2:12
+2018020189,8476407,Andy Welinski,Anaheim Ducks,New York Rangers,D,19:15,0,0,2,2,0,0,2,NA,0,0,0,0,0,0,4,0,19:15,0:00,0:00
+2018020189,8475764,Cam Fowler,Anaheim Ducks,New York Rangers,D,27:52,1,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,1,21:28,3:39,2:45
+2018020189,8470622,Patrick Eaves,Anaheim Ducks,New York Rangers,RW,10:17,0,0,0,1,0,0,0,NA,0,0,1,1,0,0,0,0,8:53,1:24,0:00
+2018020189,8470612,Ryan Getzlaf,Anaheim Ducks,New York Rangers,C,23:44,2,0,3,2,0,1,0,73.33,11,15,2,2,0,0,2,1,20:05,3:39,0:00
+2018020189,8477986,Brandon Montour,Anaheim Ducks,New York Rangers,D,18:29,0,0,2,1,0,0,0,NA,0,0,0,1,0,0,1,-1,14:20,1:24,2:45
+2018020189,8476854,Hampus Lindholm,Anaheim Ducks,New York Rangers,D,25:05,0,0,2,0,0,0,2,NA,0,0,0,1,0,0,1,0,22:25,1:24,1:16
+2018020189,8471699,Andrew Cogliano,Anaheim Ducks,New York Rangers,LW,12:59,0,0,0,2,0,0,0,NA,0,0,1,2,0,0,2,0,11:30,0:00,1:29
+2018020189,8474641,Adam Henrique,Anaheim Ducks,New York Rangers,C,18:44,0,0,1,0,0,0,0,75,9,12,0,0,0,0,2,1,13:32,3:39,1:33
+2018020189,8480748,Kiefer Sherwood,Anaheim Ducks,New York Rangers,RW,10:52,0,0,2,2,0,0,0,NA,0,0,0,0,0,0,0,0,10:52,0:00,0:00
+2018020189,8476043,Ben Street,Anaheim Ducks,New York Rangers,C,11:51,0,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,-1,10:23,0:00,1:28
+2018020189,8476483,Rickard Rakell,Anaheim Ducks,New York Rangers,C,23:24,1,1,3,1,0,1,0,NA,0,0,1,1,0,0,0,1,19:45,3:39,0:00
+2018020189,8475164,Jakob Silfverberg,Anaheim Ducks,New York Rangers,RW,18:36,0,1,2,1,1,0,0,NA,0,0,0,0,0,0,1,1,13:45,2:55,1:56
+2018020189,8480806,Isac Lundestrom,Anaheim Ducks,New York Rangers,C,10:40,0,0,0,0,0,0,0,50,1,2,0,0,0,0,0,-1,10:40,0:00,0:00
+2018020189,8478491,Jacob Larsson,Anaheim Ducks,New York Rangers,D,17:03,0,0,3,0,0,0,0,NA,0,0,0,1,0,0,1,0,16:07,0:00,0:56
+2018020189,8479290,Kalle Kossila,Anaheim Ducks,New York Rangers,C,11:22,0,0,0,2,0,0,0,42.86,3,7,0,1,0,0,0,-1,9:53,0:00,1:29
+2018020189,8476918,Jimmy Vesey,New York Rangers,Anaheim Ducks,LW,20:13,1,0,1,0,0,0,0,NA,0,0,0,3,0,0,2,1,15:30,3:11,1:32
+2018020189,8471686,Marc Staal,New York Rangers,Anaheim Ducks,D,20:34,1,0,0,1,0,0,0,NA,0,0,0,0,0,0,1,1,17:28,0:00,3:06
+2018020189,8476869,Brady Skjei,New York Rangers,Anaheim Ducks,D,22:02,0,0,0,2,0,0,0,NA,0,0,0,1,0,0,3,-1,20:05,0:00,1:57
+2018020189,8475727,Ryan Spooner,New York Rangers,Anaheim Ducks,C,15:42,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,14:32,1:10,0:00
+2018020189,8479968,Vinni Lettieri,New York Rangers,Anaheim Ducks,C,8:04,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,8:04,0:00,0:00
+2018020189,8471657,Cody McLeod,New York Rangers,Anaheim Ducks,LW,7:22,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,7:22,0:00,0:00
+2018020189,8476459,Mika Zibanejad,New York Rangers,Anaheim Ducks,C,20:09,0,0,5,1,0,0,0,15.38,2,13,0,0,0,0,0,-1,16:19,1:40,2:10
+2018020189,8475855,Jesper Fast,New York Rangers,Anaheim Ducks,RW,15:13,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,1,13:52,0:00,1:21
+2018020189,8477950,Tony DeAngelo,New York Rangers,Anaheim Ducks,D,17:12,0,0,1,1,0,0,2,NA,0,0,0,0,0,0,3,-1,16:28,0:00,0:44
+2018020189,8474031,Kevin Shattenkirk,New York Rangers,Anaheim Ducks,D,21:10,0,0,3,0,0,0,0,NA,0,0,1,0,0,0,0,0,17:30,3:40,0:00
+2018020189,8475763,Kevin Hayes,New York Rangers,Anaheim Ducks,C,21:53,0,1,4,0,1,0,0,80,8,10,1,1,0,0,1,0,17:21,3:11,1:21
+2018020189,8475184,Chris Kreider,New York Rangers,Anaheim Ducks,LW,20:42,0,0,1,1,0,0,2,0,0,1,0,3,0,0,0,-1,18:00,2:42,0:00
+2018020189,8479353,Brett Howden,New York Rangers,Anaheim Ducks,C,18:10,1,1,5,2,0,1,0,58.82,10,17,0,2,0,0,0,1,13:39,2:59,1:32
+2018020189,8475692,Mats Zuccarello,New York Rangers,Anaheim Ducks,RW,19:34,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,-1,15:40,1:44,2:10
+2018020189,8474090,Brendan Smith,New York Rangers,Anaheim Ducks,D,15:56,0,0,0,3,0,0,0,NA,0,0,0,0,0,0,0,0,13:59,0:00,1:57
+2018020189,8480078,Filip Chytil,New York Rangers,Anaheim Ducks,C,10:05,1,0,0,0,0,1,0,50,1,2,0,0,0,0,0,0,7:12,2:53,0:00
+2018020189,8476480,Vladislav Namestnikov,New York Rangers,Anaheim Ducks,C,13:09,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,0,12:51,0:18,0:00
+2018020189,8480145,Neal Pionk,New York Rangers,Anaheim Ducks,D,22:47,0,0,1,2,0,0,2,NA,0,0,1,1,0,0,2,1,19:08,1:17,2:22

@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020182,8473507,Jeff Petry,Montréal Canadiens,D,22:42,1,0,2,3,0,0,0,0,0,0,0,0,0,3,3,19:20,2:33,0:49,NA
-2018020182,8474818,Jordie Benn,Montréal Canadiens,D,19:30,0,0,1,2,0,0,0,0,0,0,1,0,0,4,1,18:27,0:00,1:03,NA
-2018020182,8480829,Jesperi Kotkaniemi,Montréal Canadiens,C,15:42,0,2,4,0,0,0,0,4,11,0,0,0,0,1,0,14:15,1:27,0:00,36.36
-2018020182,8475848,Brendan Gallagher,Montréal Canadiens,RW,15:22,0,2,7,3,0,0,2,0,0,0,0,0,0,0,0,13:21,2:01,0:00,NA
-2018020182,8476948,Charles Hudon,Montréal Canadiens,LW,17:04,0,0,4,2,0,0,2,0,0,1,0,0,0,0,1,15:19,1:45,0:00,NA
-2018020182,8477503,Max Domi,Montréal Canadiens,LW,18:29,0,1,4,0,0,0,0,3,17,1,0,0,0,0,1,15:57,2:23,0:09,17.65
-2018020182,8476479,Phillip Danault,Montréal Canadiens,C,16:43,2,0,2,0,0,0,0,10,16,1,0,0,0,0,1,15:48,0:03,0:52,62.5
-2018020182,8476469,Joel Armia,Montréal Canadiens,RW,15:03,1,1,4,4,0,0,0,0,0,0,1,0,0,0,0,12:38,2:01,0:24,NA
-2018020182,8476443,Xavier Ouellet,Montréal Canadiens,D,20:52,0,0,3,2,0,0,0,0,0,1,1,0,0,0,1,19:41,0:00,1:11,NA
-2018020182,8477476,Artturi Lehkonen,Montréal Canadiens,LW,13:38,1,0,0,1,0,0,0,0,0,1,0,0,0,3,1,13:28,0:00,0:10,NA
-2018020182,8476422,Mike Reilly,Montréal Canadiens,D,19:46,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,18:14,1:32,0:00,NA
-2018020182,8475235,Nicolas Deslauriers,Montréal Canadiens,LW,11:45,0,0,3,5,0,0,0,0,0,0,1,0,0,1,0,10:56,0:00,0:49,NA
-2018020182,8476285,Matthew Peca,Montréal Canadiens,C,10:33,0,0,0,0,0,0,0,4,9,0,0,0,0,0,0,9:44,0:00,0:49,44.44
-2018020182,8477494,Jonathan Drouin,Montréal Canadiens,C,18:29,0,0,1,1,0,0,0,0,2,1,0,0,0,0,0,15:52,2:28,0:09,0
-2018020182,8478454,Noah Juulsen,Montréal Canadiens,D,16:11,0,0,1,3,0,0,0,0,0,0,2,0,0,3,-2,15:14,0:00,0:57,NA
-2018020182,8479376,Victor Mete,Montréal Canadiens,D,17:05,1,0,2,0,0,0,0,0,0,0,1,0,0,2,1,16:51,0:14,0:00,NA
-2018020182,8476381,Andrew Shaw,Montréal Canadiens,RW,12:07,0,0,2,2,0,0,0,2,4,0,0,0,0,0,1,9:30,1:59,0:38,50
-2018020182,8475193,Tomas Tatar,Montréal Canadiens,LW,14:59,2,0,3,3,0,0,0,0,0,1,0,0,0,0,1,13:25,1:34,0:00,NA
-2018020182,8471702,Matt Niskanen,Washington Capitals,D,24:59,2,0,2,4,0,0,0,0,0,0,0,0,0,4,2,22:34,0:09,2:16,NA
-2018020182,8476905,Chandler Stephenson,Washington Capitals,C,13:44,1,0,1,0,0,0,0,1,1,0,1,0,0,2,1,12:32,0:00,1:12,100
-2018020182,8475758,Devante Smith-Pelly,Washington Capitals,RW,11:16,0,0,1,0,0,0,0,0,1,0,0,0,0,0,-1,9:16,0:00,2:00,0
-2018020182,8476436,Dmitrij Jaskin,Washington Capitals,RW,8:22,0,0,0,3,0,0,0,0,0,0,0,0,0,0,-1,8:22,0:00,0:00,NA
-2018020182,8471214,Alex Ovechkin,Washington Capitals,LW,18:35,0,2,4,6,0,0,0,0,0,0,0,0,0,1,-2,16:44,1:51,0:00,NA
-2018020182,8471698,T.J. Oshie,Washington Capitals,RW,19:25,0,0,2,5,0,0,0,1,1,0,0,0,0,1,-1,17:26,1:11,0:48,100
-2018020182,8475744,Evgeny Kuznetsov,Washington Capitals,C,15:47,1,0,1,1,0,0,4,8,15,1,3,0,0,0,-2,14:20,1:02,0:25,53.33
-2018020182,8477944,Jakub Vrana,Washington Capitals,LW,15:21,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,14:32,0:49,0:00,NA
-2018020182,8477444,Andre Burakovsky,Washington Capitals,LW,15:01,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,14:52,0:09,0:00,NA
-2018020182,8475200,Dmitry Orlov,Washington Capitals,D,25:43,1,0,1,1,0,0,0,0,0,2,1,0,0,3,-1,23:03,0:27,2:13,NA
-2018020182,8475343,Nic Dowd,Washington Capitals,C,11:28,0,0,0,0,0,0,0,5,11,2,0,0,0,0,-1,9:28,0:00,2:00,45.45
-2018020182,8473563,Nicklas Backstrom,Washington Capitals,C,19:32,0,0,3,0,0,0,0,13,17,0,1,0,0,0,-1,17:30,1:11,0:51,76.47
-2018020182,8474590,John Carlson,Washington Capitals,D,24:04,0,0,2,0,0,0,0,0,0,2,2,0,0,0,-4,20:44,1:33,1:47,NA
-2018020182,8474189,Lars Eller,Washington Capitals,C,15:38,0,2,3,0,0,0,2,8,13,2,0,0,0,1,-1,14:05,0:49,0:44,61.54
-2018020182,8477043,Christian Djoos,Washington Capitals,D,11:59,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,11:59,0:00,0:00,NA
-2018020182,8475792,Brett Connolly,Washington Capitals,RW,11:46,1,0,2,0,0,0,0,0,0,1,0,0,0,2,1,10:57,0:49,0:00,NA
-2018020182,8477474,Madison Bowey,Washington Capitals,D,9:41,0,0,2,2,0,0,0,0,0,1,0,0,0,1,0,9:41,0:00,0:00,NA
-2018020182,8479482,Michal Kempny,Washington Capitals,D,21:41,0,0,3,1,0,0,0,0,0,1,2,0,0,6,-1,19:57,0:00,1:44,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020182,8473507,Jeff Petry,Montréal Canadiens,Washington Capitals,D,22:42,1,0,2,3,0,0,0,0,0,0,0,0,0,3,3,19:20,2:33,0:49,NA
+2018020182,8474818,Jordie Benn,Montréal Canadiens,Washington Capitals,D,19:30,0,0,1,2,0,0,0,0,0,0,1,0,0,4,1,18:27,0:00,1:03,NA
+2018020182,8480829,Jesperi Kotkaniemi,Montréal Canadiens,Washington Capitals,C,15:42,0,2,4,0,0,0,0,4,11,0,0,0,0,1,0,14:15,1:27,0:00,36.36
+2018020182,8475848,Brendan Gallagher,Montréal Canadiens,Washington Capitals,RW,15:22,0,2,7,3,0,0,2,0,0,0,0,0,0,0,0,13:21,2:01,0:00,NA
+2018020182,8476948,Charles Hudon,Montréal Canadiens,Washington Capitals,LW,17:04,0,0,4,2,0,0,2,0,0,1,0,0,0,0,1,15:19,1:45,0:00,NA
+2018020182,8477503,Max Domi,Montréal Canadiens,Washington Capitals,LW,18:29,0,1,4,0,0,0,0,3,17,1,0,0,0,0,1,15:57,2:23,0:09,17.65
+2018020182,8476479,Phillip Danault,Montréal Canadiens,Washington Capitals,C,16:43,2,0,2,0,0,0,0,10,16,1,0,0,0,0,1,15:48,0:03,0:52,62.5
+2018020182,8476469,Joel Armia,Montréal Canadiens,Washington Capitals,RW,15:03,1,1,4,4,0,0,0,0,0,0,1,0,0,0,0,12:38,2:01,0:24,NA
+2018020182,8476443,Xavier Ouellet,Montréal Canadiens,Washington Capitals,D,20:52,0,0,3,2,0,0,0,0,0,1,1,0,0,0,1,19:41,0:00,1:11,NA
+2018020182,8477476,Artturi Lehkonen,Montréal Canadiens,Washington Capitals,LW,13:38,1,0,0,1,0,0,0,0,0,1,0,0,0,3,1,13:28,0:00,0:10,NA
+2018020182,8476422,Mike Reilly,Montréal Canadiens,Washington Capitals,D,19:46,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,18:14,1:32,0:00,NA
+2018020182,8475235,Nicolas Deslauriers,Montréal Canadiens,Washington Capitals,LW,11:45,0,0,3,5,0,0,0,0,0,0,1,0,0,1,0,10:56,0:00,0:49,NA
+2018020182,8476285,Matthew Peca,Montréal Canadiens,Washington Capitals,C,10:33,0,0,0,0,0,0,0,4,9,0,0,0,0,0,0,9:44,0:00,0:49,44.44
+2018020182,8477494,Jonathan Drouin,Montréal Canadiens,Washington Capitals,C,18:29,0,0,1,1,0,0,0,0,2,1,0,0,0,0,0,15:52,2:28,0:09,0
+2018020182,8478454,Noah Juulsen,Montréal Canadiens,Washington Capitals,D,16:11,0,0,1,3,0,0,0,0,0,0,2,0,0,3,-2,15:14,0:00,0:57,NA
+2018020182,8479376,Victor Mete,Montréal Canadiens,Washington Capitals,D,17:05,1,0,2,0,0,0,0,0,0,0,1,0,0,2,1,16:51,0:14,0:00,NA
+2018020182,8476381,Andrew Shaw,Montréal Canadiens,Washington Capitals,RW,12:07,0,0,2,2,0,0,0,2,4,0,0,0,0,0,1,9:30,1:59,0:38,50
+2018020182,8475193,Tomas Tatar,Montréal Canadiens,Washington Capitals,LW,14:59,2,0,3,3,0,0,0,0,0,1,0,0,0,0,1,13:25,1:34,0:00,NA
+2018020182,8471702,Matt Niskanen,Washington Capitals,Montréal Canadiens,D,24:59,2,0,2,4,0,0,0,0,0,0,0,0,0,4,2,22:34,0:09,2:16,NA
+2018020182,8476905,Chandler Stephenson,Washington Capitals,Montréal Canadiens,C,13:44,1,0,1,0,0,0,0,1,1,0,1,0,0,2,1,12:32,0:00,1:12,100
+2018020182,8475758,Devante Smith-Pelly,Washington Capitals,Montréal Canadiens,RW,11:16,0,0,1,0,0,0,0,0,1,0,0,0,0,0,-1,9:16,0:00,2:00,0
+2018020182,8476436,Dmitrij Jaskin,Washington Capitals,Montréal Canadiens,RW,8:22,0,0,0,3,0,0,0,0,0,0,0,0,0,0,-1,8:22,0:00,0:00,NA
+2018020182,8471214,Alex Ovechkin,Washington Capitals,Montréal Canadiens,LW,18:35,0,2,4,6,0,0,0,0,0,0,0,0,0,1,-2,16:44,1:51,0:00,NA
+2018020182,8471698,T.J. Oshie,Washington Capitals,Montréal Canadiens,RW,19:25,0,0,2,5,0,0,0,1,1,0,0,0,0,1,-1,17:26,1:11,0:48,100
+2018020182,8475744,Evgeny Kuznetsov,Washington Capitals,Montréal Canadiens,C,15:47,1,0,1,1,0,0,4,8,15,1,3,0,0,0,-2,14:20,1:02,0:25,53.33
+2018020182,8477944,Jakub Vrana,Washington Capitals,Montréal Canadiens,LW,15:21,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,14:32,0:49,0:00,NA
+2018020182,8477444,Andre Burakovsky,Washington Capitals,Montréal Canadiens,LW,15:01,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,14:52,0:09,0:00,NA
+2018020182,8475200,Dmitry Orlov,Washington Capitals,Montréal Canadiens,D,25:43,1,0,1,1,0,0,0,0,0,2,1,0,0,3,-1,23:03,0:27,2:13,NA
+2018020182,8475343,Nic Dowd,Washington Capitals,Montréal Canadiens,C,11:28,0,0,0,0,0,0,0,5,11,2,0,0,0,0,-1,9:28,0:00,2:00,45.45
+2018020182,8473563,Nicklas Backstrom,Washington Capitals,Montréal Canadiens,C,19:32,0,0,3,0,0,0,0,13,17,0,1,0,0,0,-1,17:30,1:11,0:51,76.47
+2018020182,8474590,John Carlson,Washington Capitals,Montréal Canadiens,D,24:04,0,0,2,0,0,0,0,0,0,2,2,0,0,0,-4,20:44,1:33,1:47,NA
+2018020182,8474189,Lars Eller,Washington Capitals,Montréal Canadiens,C,15:38,0,2,3,0,0,0,2,8,13,2,0,0,0,1,-1,14:05,0:49,0:44,61.54
+2018020182,8477043,Christian Djoos,Washington Capitals,Montréal Canadiens,D,11:59,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,11:59,0:00,0:00,NA
+2018020182,8475792,Brett Connolly,Washington Capitals,Montréal Canadiens,RW,11:46,1,0,2,0,0,0,0,0,0,1,0,0,0,2,1,10:57,0:49,0:00,NA
+2018020182,8477474,Madison Bowey,Washington Capitals,Montréal Canadiens,D,9:41,0,0,2,2,0,0,0,0,0,1,0,0,0,1,0,9:41,0:00,0:00,NA
+2018020182,8479482,Michal Kempny,Washington Capitals,Montréal Canadiens,D,21:41,0,0,3,1,0,0,0,0,0,1,2,0,0,6,-1,19:57,0:00,1:44,NA

@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020288,8470607,Brent Seabrook,Chicago Blackhawks,D,25:31,0,0,5,1,0,0,0,0,0,1,1,0,0,3,0,20:09,4:03,1:19,NA
-2018020288,8476979,Erik Gustafsson,Chicago Blackhawks,D,23:29,0,0,3,1,0,0,0,0,0,1,1,0,0,3,0,21:32,1:57,0:00,NA
-2018020288,8473604,Jonathan Toews,Chicago Blackhawks,C,21:35,1,0,2,0,0,0,2,10,17,0,1,0,0,0,1,17:32,4:03,0:00,58.82
-2018020288,8470543,Chris Kunitz,Chicago Blackhawks,LW,8:22,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,8:22,0:00,0:00,NA
-2018020288,8476438,Brandon Saad,Chicago Blackhawks,LW,18:36,0,1,2,0,0,0,0,1,2,1,0,0,0,0,1,17:55,0:00,0:41,50
-2018020288,8479337,Alex DeBrincat,Chicago Blackhawks,LW,16:49,0,0,4,2,0,0,0,1,1,0,0,0,0,0,-1,14:52,1:57,0:00,100
-2018020288,8475430,Brandon Manning,Chicago Blackhawks,D,13:46,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,13:05,0:00,0:41,NA
-2018020288,8470281,Duncan Keith,Chicago Blackhawks,D,25:31,0,0,0,0,0,0,0,0,0,0,2,0,0,1,-1,22:15,1:57,1:19,NA
-2018020288,8474141,Patrick Kane,Chicago Blackhawks,RW,24:09,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,18:33,5:36,0:00,NA
-2018020288,8477951,Nick Schmaltz,Chicago Blackhawks,C,20:03,0,0,3,1,0,0,0,2,3,1,1,0,0,1,0,16:00,4:03,0:00,66.67
-2018020288,8475323,Marcus Kruger,Chicago Blackhawks,C,11:27,0,0,2,1,0,0,0,6,12,0,0,0,0,1,0,10:41,0:00,0:46,50
-2018020288,8477401,John Hayden,Chicago Blackhawks,RW,9:44,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,9:44,0:00,0:00,NA
-2018020288,8480946,Dominik Kahun,Chicago Blackhawks,C,16:14,0,0,3,2,0,0,0,0,2,0,0,0,0,0,-1,15:50,0:24,0:00,0
-2018020288,8473573,Artem Anisimov,Chicago Blackhawks,C,16:16,0,0,3,1,0,0,0,6,9,1,1,0,0,0,0,13:19,1:57,1:00,66.67
-2018020288,8478561,Andreas Martinsen,Chicago Blackhawks,LW,9:17,0,0,1,6,0,0,0,0,0,0,0,0,0,1,0,8:50,0:00,0:27,NA
-2018020288,8478055,Gustav Forsling,Chicago Blackhawks,D,19:39,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,18:58,0:00,0:41,NA
-2018020288,8480144,David Kampf,Chicago Blackhawks,C,15:28,0,0,0,0,0,0,0,6,13,0,0,0,0,0,-1,14:22,0:00,1:06,46.15
-2018020288,8480035,Henri Jokiharju,Chicago Blackhawks,D,17:04,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,13:01,4:03,0:00,NA
-2018020288,8470604,Jeff Carter,Los Angeles Kings,C,20:01,0,0,3,3,0,0,0,8,18,0,0,0,0,0,1,16:54,0:52,2:15,44.44
-2018020288,8470602,Dion Phaneuf,Los Angeles Kings,D,14:00,0,0,1,3,0,0,0,0,0,0,0,0,0,2,1,12:45,0:52,0:23,NA
-2018020288,8470606,Dustin Brown,Los Angeles Kings,RW,21:32,0,0,1,2,0,0,2,0,0,0,0,0,0,1,0,19:19,1:08,1:05,NA
-2018020288,8471685,Anze Kopitar,Los Angeles Kings,C,22:13,0,0,1,3,0,0,0,12,19,3,1,0,0,1,-1,20:00,1:08,1:05,63.16
-2018020288,8475726,Tyler Toffoli,Los Angeles Kings,RW,19:28,0,1,3,0,0,0,0,0,0,3,0,0,0,0,1,16:30,0:52,2:06,NA
-2018020288,8470775,Nate Thompson,Los Angeles Kings,C,14:09,0,0,1,1,0,0,0,3,9,0,2,0,0,0,0,10:37,0:52,2:40,33.33
-2018020288,8477960,Adrian Kempe,Los Angeles Kings,C,13:18,0,0,2,1,0,0,0,1,6,1,0,0,0,0,0,12:26,0:52,0:00,16.67
-2018020288,8474162,Jake Muzzin,Los Angeles Kings,D,21:57,0,0,3,3,0,0,0,0,0,0,0,0,0,2,0,18:57,0:00,3:00,NA
-2018020288,8474563,Drew Doughty,Los Angeles Kings,D,26:35,0,0,3,1,0,0,2,0,0,1,1,0,0,2,0,22:50,1:08,2:37,NA
-2018020288,8475762,Derek Forbort,Los Angeles Kings,D,24:06,0,0,1,1,0,0,0,0,0,0,2,0,0,0,-1,21:29,0:00,2:37,NA
-2018020288,8479644,Matt Luff,Los Angeles Kings,RW,10:21,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,10:21,0:00,0:00,NA
-2018020288,8474166,Alec Martinez,Los Angeles Kings,D,21:06,0,0,0,3,0,0,0,0,0,0,0,0,0,0,-1,18:06,0:00,3:00,NA
-2018020288,8474176,Carl Hagelin,Los Angeles Kings,LW,15:47,0,0,3,2,0,0,0,1,2,0,0,0,0,0,0,12:58,0:00,2:49,50
-2018020288,8469454,Ilya Kovalchuk,Los Angeles Kings,LW,16:12,0,0,3,0,0,0,0,0,0,1,1,0,0,0,1,15:04,1:08,0:00,NA
-2018020288,8475160,Kyle Clifford,Los Angeles Kings,LW,7:43,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7:43,0:00,0:00,NA
-2018020288,8478020,Michael Amadio,Los Angeles Kings,C,7:17,0,0,0,0,0,0,2,1,2,0,0,0,0,1,-1,7:17,0:00,0:00,50
-2018020288,8480113,Alex Iafallo,Los Angeles Kings,LW,17:46,0,0,3,1,0,0,0,1,3,0,0,0,0,3,-1,16:38,1:08,0:00,33.33
-2018020288,8480147,Oscar Fantenberg,Los Angeles Kings,D,15:29,0,0,0,5,0,0,0,0,0,0,0,0,0,2,1,15:06,0:00,0:23,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020288,8470607,Brent Seabrook,Chicago Blackhawks,Los Angeles Kings,D,25:31,0,0,5,1,0,0,0,0,0,1,1,0,0,3,0,20:09,4:03,1:19,NA
+2018020288,8476979,Erik Gustafsson,Chicago Blackhawks,Los Angeles Kings,D,23:29,0,0,3,1,0,0,0,0,0,1,1,0,0,3,0,21:32,1:57,0:00,NA
+2018020288,8473604,Jonathan Toews,Chicago Blackhawks,Los Angeles Kings,C,21:35,1,0,2,0,0,0,2,10,17,0,1,0,0,0,1,17:32,4:03,0:00,58.82
+2018020288,8470543,Chris Kunitz,Chicago Blackhawks,Los Angeles Kings,LW,8:22,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,8:22,0:00,0:00,NA
+2018020288,8476438,Brandon Saad,Chicago Blackhawks,Los Angeles Kings,LW,18:36,0,1,2,0,0,0,0,1,2,1,0,0,0,0,1,17:55,0:00,0:41,50
+2018020288,8479337,Alex DeBrincat,Chicago Blackhawks,Los Angeles Kings,LW,16:49,0,0,4,2,0,0,0,1,1,0,0,0,0,0,-1,14:52,1:57,0:00,100
+2018020288,8475430,Brandon Manning,Chicago Blackhawks,Los Angeles Kings,D,13:46,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,13:05,0:00,0:41,NA
+2018020288,8470281,Duncan Keith,Chicago Blackhawks,Los Angeles Kings,D,25:31,0,0,0,0,0,0,0,0,0,0,2,0,0,1,-1,22:15,1:57,1:19,NA
+2018020288,8474141,Patrick Kane,Chicago Blackhawks,Los Angeles Kings,RW,24:09,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,18:33,5:36,0:00,NA
+2018020288,8477951,Nick Schmaltz,Chicago Blackhawks,Los Angeles Kings,C,20:03,0,0,3,1,0,0,0,2,3,1,1,0,0,1,0,16:00,4:03,0:00,66.67
+2018020288,8475323,Marcus Kruger,Chicago Blackhawks,Los Angeles Kings,C,11:27,0,0,2,1,0,0,0,6,12,0,0,0,0,1,0,10:41,0:00,0:46,50
+2018020288,8477401,John Hayden,Chicago Blackhawks,Los Angeles Kings,RW,9:44,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,9:44,0:00,0:00,NA
+2018020288,8480946,Dominik Kahun,Chicago Blackhawks,Los Angeles Kings,C,16:14,0,0,3,2,0,0,0,0,2,0,0,0,0,0,-1,15:50,0:24,0:00,0
+2018020288,8473573,Artem Anisimov,Chicago Blackhawks,Los Angeles Kings,C,16:16,0,0,3,1,0,0,0,6,9,1,1,0,0,0,0,13:19,1:57,1:00,66.67
+2018020288,8478561,Andreas Martinsen,Chicago Blackhawks,Los Angeles Kings,LW,9:17,0,0,1,6,0,0,0,0,0,0,0,0,0,1,0,8:50,0:00,0:27,NA
+2018020288,8478055,Gustav Forsling,Chicago Blackhawks,Los Angeles Kings,D,19:39,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,18:58,0:00,0:41,NA
+2018020288,8480144,David Kampf,Chicago Blackhawks,Los Angeles Kings,C,15:28,0,0,0,0,0,0,0,6,13,0,0,0,0,0,-1,14:22,0:00,1:06,46.15
+2018020288,8480035,Henri Jokiharju,Chicago Blackhawks,Los Angeles Kings,D,17:04,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,13:01,4:03,0:00,NA
+2018020288,8470604,Jeff Carter,Los Angeles Kings,Chicago Blackhawks,C,20:01,0,0,3,3,0,0,0,8,18,0,0,0,0,0,1,16:54,0:52,2:15,44.44
+2018020288,8470602,Dion Phaneuf,Los Angeles Kings,Chicago Blackhawks,D,14:00,0,0,1,3,0,0,0,0,0,0,0,0,0,2,1,12:45,0:52,0:23,NA
+2018020288,8470606,Dustin Brown,Los Angeles Kings,Chicago Blackhawks,RW,21:32,0,0,1,2,0,0,2,0,0,0,0,0,0,1,0,19:19,1:08,1:05,NA
+2018020288,8471685,Anze Kopitar,Los Angeles Kings,Chicago Blackhawks,C,22:13,0,0,1,3,0,0,0,12,19,3,1,0,0,1,-1,20:00,1:08,1:05,63.16
+2018020288,8475726,Tyler Toffoli,Los Angeles Kings,Chicago Blackhawks,RW,19:28,0,1,3,0,0,0,0,0,0,3,0,0,0,0,1,16:30,0:52,2:06,NA
+2018020288,8470775,Nate Thompson,Los Angeles Kings,Chicago Blackhawks,C,14:09,0,0,1,1,0,0,0,3,9,0,2,0,0,0,0,10:37,0:52,2:40,33.33
+2018020288,8477960,Adrian Kempe,Los Angeles Kings,Chicago Blackhawks,C,13:18,0,0,2,1,0,0,0,1,6,1,0,0,0,0,0,12:26,0:52,0:00,16.67
+2018020288,8474162,Jake Muzzin,Los Angeles Kings,Chicago Blackhawks,D,21:57,0,0,3,3,0,0,0,0,0,0,0,0,0,2,0,18:57,0:00,3:00,NA
+2018020288,8474563,Drew Doughty,Los Angeles Kings,Chicago Blackhawks,D,26:35,0,0,3,1,0,0,2,0,0,1,1,0,0,2,0,22:50,1:08,2:37,NA
+2018020288,8475762,Derek Forbort,Los Angeles Kings,Chicago Blackhawks,D,24:06,0,0,1,1,0,0,0,0,0,0,2,0,0,0,-1,21:29,0:00,2:37,NA
+2018020288,8479644,Matt Luff,Los Angeles Kings,Chicago Blackhawks,RW,10:21,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,10:21,0:00,0:00,NA
+2018020288,8474166,Alec Martinez,Los Angeles Kings,Chicago Blackhawks,D,21:06,0,0,0,3,0,0,0,0,0,0,0,0,0,0,-1,18:06,0:00,3:00,NA
+2018020288,8474176,Carl Hagelin,Los Angeles Kings,Chicago Blackhawks,LW,15:47,0,0,3,2,0,0,0,1,2,0,0,0,0,0,0,12:58,0:00,2:49,50
+2018020288,8469454,Ilya Kovalchuk,Los Angeles Kings,Chicago Blackhawks,LW,16:12,0,0,3,0,0,0,0,0,0,1,1,0,0,0,1,15:04,1:08,0:00,NA
+2018020288,8475160,Kyle Clifford,Los Angeles Kings,Chicago Blackhawks,LW,7:43,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7:43,0:00,0:00,NA
+2018020288,8478020,Michael Amadio,Los Angeles Kings,Chicago Blackhawks,C,7:17,0,0,0,0,0,0,2,1,2,0,0,0,0,1,-1,7:17,0:00,0:00,50
+2018020288,8480113,Alex Iafallo,Los Angeles Kings,Chicago Blackhawks,LW,17:46,0,0,3,1,0,0,0,1,3,0,0,0,0,3,-1,16:38,1:08,0:00,33.33
+2018020288,8480147,Oscar Fantenberg,Los Angeles Kings,Chicago Blackhawks,D,15:29,0,0,0,5,0,0,0,0,0,0,0,0,0,2,1,15:06,0:00,0:23,NA

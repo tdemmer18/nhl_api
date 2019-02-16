@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020572,8475768,Jaden Schwartz,St. Louis Blues,LW,16:25,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,15:03,1:18,0:04,NA
-2018020572,8471761,Chris Butler,St. Louis Blues,D,17:21,0,0,1,1,0,0,0,0,0,1,1,0,0,4,2,16:50,0:00,0:31,NA
-2018020572,8476897,Oskar Sundqvist,St. Louis Blues,C,11:38,0,0,2,1,0,0,0,1,2,1,0,0,0,1,0,11:22,0:00,0:16,50
-2018020572,8477964,Ivan Barbashev,St. Louis Blues,C,11:09,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,10:53,0:00,0:16,0
-2018020572,8475325,Jordan Nolan,St. Louis Blues,C,10:25,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,10:25,0:00,0:00,NA
-2018020572,8475765,Vladimir Tarasenko,St. Louis Blues,RW,15:00,0,0,4,2,0,0,0,1,1,0,0,0,0,1,0,13:42,1:18,0:00,100
-2018020572,8470257,Alexander Steen,St. Louis Blues,LW,19:11,2,0,2,1,0,0,0,0,0,1,0,0,0,0,2,17:00,0:42,1:29,NA
-2018020572,8478407,Vince Dunn,St. Louis Blues,D,18:10,1,0,1,1,0,0,0,0,0,1,1,0,0,1,2,16:31,1:39,0:00,NA
-2018020572,8475158,Ryan O'Reilly,St. Louis Blues,C,18:28,0,1,4,0,0,0,0,11,18,0,0,0,0,0,2,15:56,1:18,1:14,61.11
-2018020572,8474102,David Perron,St. Louis Blues,LW,17:39,2,0,0,2,0,0,0,0,0,0,0,0,0,1,2,16:57,0:42,0:00,NA
-2018020572,8474145,Robert Bortuzzo,St. Louis Blues,D,19:55,1,0,2,1,0,0,0,0,0,0,1,0,0,1,2,17:46,0:00,2:09,NA
-2018020572,8474034,Pat Maroon,St. Louis Blues,LW,13:37,0,1,3,1,0,0,0,0,0,1,0,0,0,0,2,12:55,0:42,0:00,NA
-2018020572,8475098,Tyler Bozak,St. Louis Blues,C,15:41,1,0,0,1,0,0,0,5,11,0,0,0,0,0,2,13:13,0:42,1:46,45.45
-2018020572,8476441,Joel Edmundson,St. Louis Blues,D,20:20,0,0,2,2,0,0,4,0,0,0,1,0,0,0,0,20:20,0:00,0:00,NA
-2018020572,8470151,Jay Bouwmeester,St. Louis Blues,D,20:11,0,1,1,1,0,0,0,0,0,0,2,0,0,3,1,18:25,0:00,1:46,NA
-2018020572,8476892,Colton Parayko,St. Louis Blues,D,21:57,0,0,1,3,0,0,0,0,0,0,0,0,0,2,1,20:42,0:21,0:54,NA
-2018020572,8475170,Brayden Schenn,St. Louis Blues,C,17:11,0,0,1,3,0,0,0,8,12,0,0,0,0,0,0,15:38,1:18,0:15,66.67
-2018020572,8480023,Robert Thomas,St. Louis Blues,C,13:02,1,1,5,0,0,0,0,0,2,1,1,0,0,0,2,13:02,0:00,0:00,0
-2018020572,8475728,Johan Larsson,Buffalo Sabres,C,13:57,0,0,2,1,0,0,0,5,7,0,0,0,0,0,-1,12:35,0:00,1:22,71.43
-2018020572,8474618,Marco Scandella,Buffalo Sabres,D,16:57,0,0,0,1,0,0,2,0,0,0,0,0,0,0,-1,16:42,0:15,0:00,NA
-2018020572,8477839,Conor Sheary,Buffalo Sabres,LW,14:43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,13:37,1:06,0:00,NA
-2018020572,8476931,Jake McCabe,Buffalo Sabres,D,17:18,0,0,1,2,0,0,0,0,0,1,1,0,0,1,-2,16:04,0:00,1:14,NA
-2018020572,8473449,Kyle Okposo,Buffalo Sabres,RW,13:45,0,0,1,2,0,0,0,0,1,0,0,0,0,1,-1,12:39,1:06,0:00,0
-2018020572,8474567,Zach Bogosian,Buffalo Sabres,D,21:13,0,0,3,2,0,0,0,0,0,0,2,0,0,3,-1,18:58,0:15,2:00,NA
-2018020572,8479999,Casey Mittelstadt,Buffalo Sabres,C,14:08,0,0,2,0,0,0,0,4,8,1,0,0,0,0,-2,13:02,1:06,0:00,50
-2018020572,8471743,Vladimir Sobotka,Buffalo Sabres,C,14:12,0,0,1,0,0,0,0,4,7,0,0,0,0,0,0,13:34,0:00,0:38,57.14
-2018020572,8477933,Sam Reinhart,Buffalo Sabres,C,18:21,1,0,2,0,0,1,0,1,1,1,0,0,0,0,-1,16:47,1:34,0:00,100
-2018020572,8476878,Zemgus Girgensons,Buffalo Sabres,C,14:03,0,0,0,2,0,0,0,0,2,1,0,0,0,0,-1,13:17,0:00,0:46,0
-2018020572,8477499,Rasmus Ristolainen,Buffalo Sabres,D,20:56,1,0,1,2,0,1,0,0,0,1,0,0,0,0,-2,18:51,1:19,0:46,NA
-2018020572,8478403,Jack Eichel,Buffalo Sabres,C,17:43,0,1,5,0,1,0,0,5,13,2,0,0,0,0,-1,16:09,1:34,0:00,38.46
-2018020572,8475784,Jeff Skinner,Buffalo Sabres,LW,18:22,0,0,2,1,0,0,0,2,4,1,0,0,0,1,-2,16:48,1:34,0:00,50
-2018020572,8480935,Lawrence Pilut,Buffalo Sabres,D,20:22,0,0,2,0,0,0,0,0,0,0,1,0,0,0,-1,19:16,1:06,0:00,NA
-2018020572,8477461,Remi Elie,Buffalo Sabres,LW,11:33,0,0,0,3,0,0,0,0,0,1,0,0,0,0,-1,11:33,0:00,0:00,NA
-2018020572,8478542,Evan Rodrigues,Buffalo Sabres,LW,15:46,0,0,6,0,0,0,0,2,6,0,0,0,0,1,-1,13:26,1:06,1:14,33.33
-2018020572,8480839,Rasmus Dahlin,Buffalo Sabres,D,22:27,0,0,2,1,0,0,0,0,0,1,1,0,0,0,-1,21:08,1:19,0:00,NA
-2018020572,8479420,Tage Thompson,Buffalo Sabres,RW,12:14,0,0,1,1,0,0,0,0,0,1,2,0,0,0,0,12:14,0:00,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020572,8475768,Jaden Schwartz,St. Louis Blues,Buffalo Sabres,LW,16:25,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,15:03,1:18,0:04,NA
+2018020572,8471761,Chris Butler,St. Louis Blues,Buffalo Sabres,D,17:21,0,0,1,1,0,0,0,0,0,1,1,0,0,4,2,16:50,0:00,0:31,NA
+2018020572,8476897,Oskar Sundqvist,St. Louis Blues,Buffalo Sabres,C,11:38,0,0,2,1,0,0,0,1,2,1,0,0,0,1,0,11:22,0:00,0:16,50
+2018020572,8477964,Ivan Barbashev,St. Louis Blues,Buffalo Sabres,C,11:09,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,10:53,0:00,0:16,0
+2018020572,8475325,Jordan Nolan,St. Louis Blues,Buffalo Sabres,C,10:25,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,10:25,0:00,0:00,NA
+2018020572,8475765,Vladimir Tarasenko,St. Louis Blues,Buffalo Sabres,RW,15:00,0,0,4,2,0,0,0,1,1,0,0,0,0,1,0,13:42,1:18,0:00,100
+2018020572,8470257,Alexander Steen,St. Louis Blues,Buffalo Sabres,LW,19:11,2,0,2,1,0,0,0,0,0,1,0,0,0,0,2,17:00,0:42,1:29,NA
+2018020572,8478407,Vince Dunn,St. Louis Blues,Buffalo Sabres,D,18:10,1,0,1,1,0,0,0,0,0,1,1,0,0,1,2,16:31,1:39,0:00,NA
+2018020572,8475158,Ryan O'Reilly,St. Louis Blues,Buffalo Sabres,C,18:28,0,1,4,0,0,0,0,11,18,0,0,0,0,0,2,15:56,1:18,1:14,61.11
+2018020572,8474102,David Perron,St. Louis Blues,Buffalo Sabres,LW,17:39,2,0,0,2,0,0,0,0,0,0,0,0,0,1,2,16:57,0:42,0:00,NA
+2018020572,8474145,Robert Bortuzzo,St. Louis Blues,Buffalo Sabres,D,19:55,1,0,2,1,0,0,0,0,0,0,1,0,0,1,2,17:46,0:00,2:09,NA
+2018020572,8474034,Pat Maroon,St. Louis Blues,Buffalo Sabres,LW,13:37,0,1,3,1,0,0,0,0,0,1,0,0,0,0,2,12:55,0:42,0:00,NA
+2018020572,8475098,Tyler Bozak,St. Louis Blues,Buffalo Sabres,C,15:41,1,0,0,1,0,0,0,5,11,0,0,0,0,0,2,13:13,0:42,1:46,45.45
+2018020572,8476441,Joel Edmundson,St. Louis Blues,Buffalo Sabres,D,20:20,0,0,2,2,0,0,4,0,0,0,1,0,0,0,0,20:20,0:00,0:00,NA
+2018020572,8470151,Jay Bouwmeester,St. Louis Blues,Buffalo Sabres,D,20:11,0,1,1,1,0,0,0,0,0,0,2,0,0,3,1,18:25,0:00,1:46,NA
+2018020572,8476892,Colton Parayko,St. Louis Blues,Buffalo Sabres,D,21:57,0,0,1,3,0,0,0,0,0,0,0,0,0,2,1,20:42,0:21,0:54,NA
+2018020572,8475170,Brayden Schenn,St. Louis Blues,Buffalo Sabres,C,17:11,0,0,1,3,0,0,0,8,12,0,0,0,0,0,0,15:38,1:18,0:15,66.67
+2018020572,8480023,Robert Thomas,St. Louis Blues,Buffalo Sabres,C,13:02,1,1,5,0,0,0,0,0,2,1,1,0,0,0,2,13:02,0:00,0:00,0
+2018020572,8475728,Johan Larsson,Buffalo Sabres,St. Louis Blues,C,13:57,0,0,2,1,0,0,0,5,7,0,0,0,0,0,-1,12:35,0:00,1:22,71.43
+2018020572,8474618,Marco Scandella,Buffalo Sabres,St. Louis Blues,D,16:57,0,0,0,1,0,0,2,0,0,0,0,0,0,0,-1,16:42,0:15,0:00,NA
+2018020572,8477839,Conor Sheary,Buffalo Sabres,St. Louis Blues,LW,14:43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,13:37,1:06,0:00,NA
+2018020572,8476931,Jake McCabe,Buffalo Sabres,St. Louis Blues,D,17:18,0,0,1,2,0,0,0,0,0,1,1,0,0,1,-2,16:04,0:00,1:14,NA
+2018020572,8473449,Kyle Okposo,Buffalo Sabres,St. Louis Blues,RW,13:45,0,0,1,2,0,0,0,0,1,0,0,0,0,1,-1,12:39,1:06,0:00,0
+2018020572,8474567,Zach Bogosian,Buffalo Sabres,St. Louis Blues,D,21:13,0,0,3,2,0,0,0,0,0,0,2,0,0,3,-1,18:58,0:15,2:00,NA
+2018020572,8479999,Casey Mittelstadt,Buffalo Sabres,St. Louis Blues,C,14:08,0,0,2,0,0,0,0,4,8,1,0,0,0,0,-2,13:02,1:06,0:00,50
+2018020572,8471743,Vladimir Sobotka,Buffalo Sabres,St. Louis Blues,C,14:12,0,0,1,0,0,0,0,4,7,0,0,0,0,0,0,13:34,0:00,0:38,57.14
+2018020572,8477933,Sam Reinhart,Buffalo Sabres,St. Louis Blues,C,18:21,1,0,2,0,0,1,0,1,1,1,0,0,0,0,-1,16:47,1:34,0:00,100
+2018020572,8476878,Zemgus Girgensons,Buffalo Sabres,St. Louis Blues,C,14:03,0,0,0,2,0,0,0,0,2,1,0,0,0,0,-1,13:17,0:00,0:46,0
+2018020572,8477499,Rasmus Ristolainen,Buffalo Sabres,St. Louis Blues,D,20:56,1,0,1,2,0,1,0,0,0,1,0,0,0,0,-2,18:51,1:19,0:46,NA
+2018020572,8478403,Jack Eichel,Buffalo Sabres,St. Louis Blues,C,17:43,0,1,5,0,1,0,0,5,13,2,0,0,0,0,-1,16:09,1:34,0:00,38.46
+2018020572,8475784,Jeff Skinner,Buffalo Sabres,St. Louis Blues,LW,18:22,0,0,2,1,0,0,0,2,4,1,0,0,0,1,-2,16:48,1:34,0:00,50
+2018020572,8480935,Lawrence Pilut,Buffalo Sabres,St. Louis Blues,D,20:22,0,0,2,0,0,0,0,0,0,0,1,0,0,0,-1,19:16,1:06,0:00,NA
+2018020572,8477461,Remi Elie,Buffalo Sabres,St. Louis Blues,LW,11:33,0,0,0,3,0,0,0,0,0,1,0,0,0,0,-1,11:33,0:00,0:00,NA
+2018020572,8478542,Evan Rodrigues,Buffalo Sabres,St. Louis Blues,LW,15:46,0,0,6,0,0,0,0,2,6,0,0,0,0,1,-1,13:26,1:06,1:14,33.33
+2018020572,8480839,Rasmus Dahlin,Buffalo Sabres,St. Louis Blues,D,22:27,0,0,2,1,0,0,0,0,0,1,1,0,0,0,-1,21:08,1:19,0:00,NA
+2018020572,8479420,Tage Thompson,Buffalo Sabres,St. Louis Blues,RW,12:14,0,0,1,1,0,0,0,0,0,1,2,0,0,0,0,12:14,0:00,0:00,NA

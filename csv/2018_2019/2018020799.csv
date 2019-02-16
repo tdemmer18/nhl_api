@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020799,8468611,Matt Hendricks,Minnesota Wild,C,6:15,0,0,2,0,0,0,5,100,1,1,0,0,0,0,0,0,4:46,0:00,1:29
-2018020799,8476806,J.T. Brown,Minnesota Wild,RW,3:54,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,3:54,0:00,0:00
-2018020799,8474716,Jared Spurgeon,Minnesota Wild,D,28:04,1,0,1,1,0,0,2,NA,0,0,1,1,0,0,2,1,20:45,2:55,4:24
-2018020799,8470595,Eric Staal,Minnesota Wild,C,18:51,0,0,4,0,0,0,2,38.46,5,13,1,1,0,0,0,-1,15:19,3:32,0:00
-2018020799,8470600,Ryan Suter,Minnesota Wild,D,29:17,1,0,0,0,0,1,2,NA,0,0,1,0,0,0,0,1,21:12,3:47,4:18
-2018020799,8470611,Eric Fehr,Minnesota Wild,C,10:33,0,0,0,0,0,0,0,57.14,4,7,1,1,0,0,1,0,6:30,0:09,3:54
-2018020799,8475798,Mikael Granlund,Minnesota Wild,RW,18:40,1,0,2,2,0,1,0,33.33,1,3,1,0,0,0,0,0,15:07,3:33,0:00
-2018020799,8475722,Jason Zucker,Minnesota Wild,LW,17:50,0,1,1,1,1,0,0,NA,0,0,2,0,0,0,1,0,14:18,3:32,0:00
-2018020799,8474688,Greg Pateryn,Minnesota Wild,D,19:40,0,0,1,1,0,0,2,NA,0,0,0,1,0,0,2,0,16:43,0:03,2:54
-2018020799,8476437,Victor Rask,Minnesota Wild,C,13:05,0,1,4,2,0,0,0,66.67,6,9,0,2,0,0,0,0,10:01,3:04,0:00
-2018020799,8475745,Charlie Coyle,Minnesota Wild,C,19:59,0,0,1,0,0,0,0,33.33,1,3,0,1,0,0,0,0,15:27,3:03,1:29
-2018020799,8470610,Zach Parise,Minnesota Wild,LW,20:43,1,0,2,2,0,0,0,NA,0,0,1,1,0,0,0,0,14:34,3:04,3:05
-2018020799,8476779,Brad Hunt,Minnesota Wild,D,12:05,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,1,-1,8:27,3:38,0:00
-2018020799,8478413,Jordan Greenway,Minnesota Wild,LW,12:58,1,0,1,0,0,0,0,NA,0,0,0,0,0,0,1,0,12:49,0:09,0:00
-2018020799,8476372,Nick Seeler,Minnesota Wild,D,7:23,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-1,6:36,0:00,0:47
-2018020799,8475220,Marcus Foligno,Minnesota Wild,LW,14:03,1,0,3,6,0,0,0,50,1,2,0,0,0,0,0,0,11:35,0:09,2:19
-2018020799,8476463,Jonas Brodin,Minnesota Wild,D,23:08,0,0,1,0,0,0,0,NA,0,0,1,0,0,0,0,0,18:26,0:03,4:39
-2018020799,8469459,Mikko Koivu,Minnesota Wild,C,20:17,0,1,4,0,0,0,0,59.09,13,22,1,0,0,0,0,1,13:46,3:04,3:27
-2018020799,8470607,Brent Seabrook,Chicago Blackhawks,D,19:22,0,0,2,1,0,0,2,NA,0,0,0,0,0,0,1,0,16:03,1:04,2:15
-2018020799,8476979,Erik Gustafsson,Chicago Blackhawks,D,22:07,0,2,4,4,1,0,0,NA,0,0,0,0,0,0,0,1,14:40,7:27,0:00
-2018020799,8477943,Brendan Perlini,Chicago Blackhawks,LW,7:34,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,7:34,0:00,0:00
-2018020799,8473604,Jonathan Toews,Chicago Blackhawks,C,24:18,1,1,6,0,1,1,0,53.85,14,26,0,0,0,0,2,-1,14:36,6:59,2:43
-2018020799,8476438,Brandon Saad,Chicago Blackhawks,LW,15:59,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,0,12:11,1:32,2:16
-2018020799,8479337,Alex DeBrincat,Chicago Blackhawks,LW,18:47,2,1,2,0,0,2,2,0,0,1,1,0,0,0,0,0,11:52,6:55,0:00
-2018020799,8470281,Duncan Keith,Chicago Blackhawks,D,22:15,0,0,2,0,0,0,2,NA,0,0,0,1,0,0,2,2,18:08,1:16,2:51
-2018020799,8474141,Patrick Kane,Chicago Blackhawks,RW,26:46,1,0,4,0,0,1,0,NA,0,0,0,0,0,0,0,-1,18:33,8:10,0:03
-2018020799,8475323,Marcus Kruger,Chicago Blackhawks,C,12:29,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,10:21,0:14,1:54
-2018020799,8477401,John Hayden,Chicago Blackhawks,RW,5:41,0,0,0,3,0,0,5,100,1,1,1,1,0,0,1,0,5:41,0:00,0:00
-2018020799,8480946,Dominik Kahun,Chicago Blackhawks,C,12:22,2,0,1,0,0,0,0,NA,0,0,0,0,0,0,1,1,12:06,0:07,0:09
-2018020799,8479465,Drake Caggiula,Chicago Blackhawks,C,14:48,0,0,1,3,0,0,0,0,0,1,0,0,0,0,0,0,12:55,0:20,1:33
-2018020799,8473573,Artem Anisimov,Chicago Blackhawks,C,11:57,0,0,0,0,0,0,0,33.33,2,6,0,0,0,0,1,0,9:00,1:18,1:39
-2018020799,8478440,Dylan Strome,Chicago Blackhawks,C,16:23,2,0,2,0,0,0,0,41.67,5,12,0,1,0,0,1,1,10:54,5:20,0:09
-2018020799,8478055,Gustav Forsling,Chicago Blackhawks,D,16:27,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,2,-1,14:32,0:20,1:35
-2018020799,8477472,Carl Dahlstrom,Chicago Blackhawks,D,17:22,0,0,2,0,0,0,0,NA,0,0,1,1,0,0,1,-1,14:18,0:00,3:04
-2018020799,8476473,Connor Murphy,Chicago Blackhawks,D,18:34,0,0,1,1,0,0,2,NA,0,0,2,1,0,0,1,-1,14:49,0:00,3:45
-2018020799,8480144,David Kampf,Chicago Blackhawks,C,15:20,0,0,0,0,0,0,0,50,6,12,0,0,0,0,1,0,12:02,0:14,3:04
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020799,8468611,Matt Hendricks,Minnesota Wild,Chicago Blackhawks,C,6:15,0,0,2,0,0,0,5,100,1,1,0,0,0,0,0,0,4:46,0:00,1:29
+2018020799,8476806,J.T. Brown,Minnesota Wild,Chicago Blackhawks,RW,3:54,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,3:54,0:00,0:00
+2018020799,8474716,Jared Spurgeon,Minnesota Wild,Chicago Blackhawks,D,28:04,1,0,1,1,0,0,2,NA,0,0,1,1,0,0,2,1,20:45,2:55,4:24
+2018020799,8470595,Eric Staal,Minnesota Wild,Chicago Blackhawks,C,18:51,0,0,4,0,0,0,2,38.46,5,13,1,1,0,0,0,-1,15:19,3:32,0:00
+2018020799,8470600,Ryan Suter,Minnesota Wild,Chicago Blackhawks,D,29:17,1,0,0,0,0,1,2,NA,0,0,1,0,0,0,0,1,21:12,3:47,4:18
+2018020799,8470611,Eric Fehr,Minnesota Wild,Chicago Blackhawks,C,10:33,0,0,0,0,0,0,0,57.14,4,7,1,1,0,0,1,0,6:30,0:09,3:54
+2018020799,8475798,Mikael Granlund,Minnesota Wild,Chicago Blackhawks,RW,18:40,1,0,2,2,0,1,0,33.33,1,3,1,0,0,0,0,0,15:07,3:33,0:00
+2018020799,8475722,Jason Zucker,Minnesota Wild,Chicago Blackhawks,LW,17:50,0,1,1,1,1,0,0,NA,0,0,2,0,0,0,1,0,14:18,3:32,0:00
+2018020799,8474688,Greg Pateryn,Minnesota Wild,Chicago Blackhawks,D,19:40,0,0,1,1,0,0,2,NA,0,0,0,1,0,0,2,0,16:43,0:03,2:54
+2018020799,8476437,Victor Rask,Minnesota Wild,Chicago Blackhawks,C,13:05,0,1,4,2,0,0,0,66.67,6,9,0,2,0,0,0,0,10:01,3:04,0:00
+2018020799,8475745,Charlie Coyle,Minnesota Wild,Chicago Blackhawks,C,19:59,0,0,1,0,0,0,0,33.33,1,3,0,1,0,0,0,0,15:27,3:03,1:29
+2018020799,8470610,Zach Parise,Minnesota Wild,Chicago Blackhawks,LW,20:43,1,0,2,2,0,0,0,NA,0,0,1,1,0,0,0,0,14:34,3:04,3:05
+2018020799,8476779,Brad Hunt,Minnesota Wild,Chicago Blackhawks,D,12:05,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,1,-1,8:27,3:38,0:00
+2018020799,8478413,Jordan Greenway,Minnesota Wild,Chicago Blackhawks,LW,12:58,1,0,1,0,0,0,0,NA,0,0,0,0,0,0,1,0,12:49,0:09,0:00
+2018020799,8476372,Nick Seeler,Minnesota Wild,Chicago Blackhawks,D,7:23,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-1,6:36,0:00,0:47
+2018020799,8475220,Marcus Foligno,Minnesota Wild,Chicago Blackhawks,LW,14:03,1,0,3,6,0,0,0,50,1,2,0,0,0,0,0,0,11:35,0:09,2:19
+2018020799,8476463,Jonas Brodin,Minnesota Wild,Chicago Blackhawks,D,23:08,0,0,1,0,0,0,0,NA,0,0,1,0,0,0,0,0,18:26,0:03,4:39
+2018020799,8469459,Mikko Koivu,Minnesota Wild,Chicago Blackhawks,C,20:17,0,1,4,0,0,0,0,59.09,13,22,1,0,0,0,0,1,13:46,3:04,3:27
+2018020799,8470607,Brent Seabrook,Chicago Blackhawks,Minnesota Wild,D,19:22,0,0,2,1,0,0,2,NA,0,0,0,0,0,0,1,0,16:03,1:04,2:15
+2018020799,8476979,Erik Gustafsson,Chicago Blackhawks,Minnesota Wild,D,22:07,0,2,4,4,1,0,0,NA,0,0,0,0,0,0,0,1,14:40,7:27,0:00
+2018020799,8477943,Brendan Perlini,Chicago Blackhawks,Minnesota Wild,LW,7:34,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,7:34,0:00,0:00
+2018020799,8473604,Jonathan Toews,Chicago Blackhawks,Minnesota Wild,C,24:18,1,1,6,0,1,1,0,53.85,14,26,0,0,0,0,2,-1,14:36,6:59,2:43
+2018020799,8476438,Brandon Saad,Chicago Blackhawks,Minnesota Wild,LW,15:59,0,0,2,1,0,0,0,NA,0,0,0,0,0,0,0,0,12:11,1:32,2:16
+2018020799,8479337,Alex DeBrincat,Chicago Blackhawks,Minnesota Wild,LW,18:47,2,1,2,0,0,2,2,0,0,1,1,0,0,0,0,0,11:52,6:55,0:00
+2018020799,8470281,Duncan Keith,Chicago Blackhawks,Minnesota Wild,D,22:15,0,0,2,0,0,0,2,NA,0,0,0,1,0,0,2,2,18:08,1:16,2:51
+2018020799,8474141,Patrick Kane,Chicago Blackhawks,Minnesota Wild,RW,26:46,1,0,4,0,0,1,0,NA,0,0,0,0,0,0,0,-1,18:33,8:10,0:03
+2018020799,8475323,Marcus Kruger,Chicago Blackhawks,Minnesota Wild,C,12:29,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,10:21,0:14,1:54
+2018020799,8477401,John Hayden,Chicago Blackhawks,Minnesota Wild,RW,5:41,0,0,0,3,0,0,5,100,1,1,1,1,0,0,1,0,5:41,0:00,0:00
+2018020799,8480946,Dominik Kahun,Chicago Blackhawks,Minnesota Wild,C,12:22,2,0,1,0,0,0,0,NA,0,0,0,0,0,0,1,1,12:06,0:07,0:09
+2018020799,8479465,Drake Caggiula,Chicago Blackhawks,Minnesota Wild,C,14:48,0,0,1,3,0,0,0,0,0,1,0,0,0,0,0,0,12:55,0:20,1:33
+2018020799,8473573,Artem Anisimov,Chicago Blackhawks,Minnesota Wild,C,11:57,0,0,0,0,0,0,0,33.33,2,6,0,0,0,0,1,0,9:00,1:18,1:39
+2018020799,8478440,Dylan Strome,Chicago Blackhawks,Minnesota Wild,C,16:23,2,0,2,0,0,0,0,41.67,5,12,0,1,0,0,1,1,10:54,5:20,0:09
+2018020799,8478055,Gustav Forsling,Chicago Blackhawks,Minnesota Wild,D,16:27,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,2,-1,14:32,0:20,1:35
+2018020799,8477472,Carl Dahlstrom,Chicago Blackhawks,Minnesota Wild,D,17:22,0,0,2,0,0,0,0,NA,0,0,1,1,0,0,1,-1,14:18,0:00,3:04
+2018020799,8476473,Connor Murphy,Chicago Blackhawks,Minnesota Wild,D,18:34,0,0,1,1,0,0,2,NA,0,0,2,1,0,0,1,-1,14:49,0:00,3:45
+2018020799,8480144,David Kampf,Chicago Blackhawks,Minnesota Wild,C,15:20,0,0,0,0,0,0,0,50,6,12,0,0,0,0,1,0,12:02,0:14,3:04

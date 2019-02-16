@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020598,8471769,Niklas Hjalmarsson,Arizona Coyotes,D,18:26,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,14:22,0:00,4:04,NA
-2018020598,8474613,Derek Stepan,Arizona Coyotes,C,21:03,0,0,3,2,0,0,0,13,30,0,0,0,0,2,0,11:56,6:02,3:05,43.33
-2018020598,8475209,Richard Panik,Arizona Coyotes,RW,20:07,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,12:52,3:40,3:35,NA
-2018020598,8478856,Conor Garland,Arizona Coyotes,RW,14:41,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-2,11:09,3:32,0:00,NA
-2018020598,8476326,Josh Archibald,Arizona Coyotes,RW,11:53,0,0,1,1,0,0,2,0,1,0,0,0,0,1,-1,8:36,1:33,1:44,0
-2018020598,8474131,Mario Kempe,Arizona Coyotes,RW,14:12,0,0,2,4,0,0,0,2,10,1,0,0,0,0,-1,10:38,1:38,1:56,20
-2018020598,8476994,Vinnie Hinostroza,Arizona Coyotes,C,12:52,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,12:52,0:00,0:00,NA
-2018020598,8476851,Alex Galchenyuk,Arizona Coyotes,C,14:04,0,1,1,1,1,0,2,2,5,0,0,0,0,0,-4,10:18,3:46,0:00,40
-2018020598,8477951,Nick Schmaltz,Arizona Coyotes,C,16:39,0,0,1,0,0,0,0,5,9,2,0,0,0,1,-2,11:11,5:28,0:00,55.56
-2018020598,8475246,Kevin Connauton,Arizona Coyotes,D,15:09,0,0,2,0,0,0,0,0,0,0,1,0,0,1,-1,11:34,0:00,3:35,NA
-2018020598,8471274,Alex Goligoski,Arizona Coyotes,D,21:42,0,0,1,2,0,0,0,0,0,1,3,0,0,1,-4,17:05,2:41,1:56,NA
-2018020598,8478474,Lawson Crouse,Arizona Coyotes,LW,11:09,0,0,4,3,0,0,0,0,1,0,0,0,0,0,-1,8:47,1:17,1:05,0
-2018020598,8479345,Jakob Chychrun,Arizona Coyotes,D,21:36,0,0,2,2,0,0,0,0,0,0,2,0,0,2,-3,16:54,4:42,0:00,NA
-2018020598,8478432,Christian Fischer,Arizona Coyotes,RW,11:23,0,0,1,0,0,0,0,0,0,0,0,0,0,2,-2,8:10,3:13,0:00,NA
-2018020598,8479343,Clayton Keller,Arizona Coyotes,C,19:53,1,0,2,0,0,1,0,0,0,0,0,0,0,0,-1,13:34,5:44,0:35,NA
-2018020598,8475171,Oliver Ekman-Larsson,Arizona Coyotes,D,23:59,1,0,2,2,0,1,0,0,0,0,0,0,0,0,-1,14:02,7:32,2:25,NA
-2018020598,8476393,Nick Cousins,Arizona Coyotes,C,11:37,0,0,3,0,0,0,0,3,7,0,0,0,0,0,0,10:19,1:18,0:00,42.86
-2018020598,8480950,Ilya Lyubushkin,Arizona Coyotes,D,13:40,0,0,2,3,0,0,0,0,0,0,0,0,0,0,-1,12:57,0:43,0:00,NA
-2018020598,8471669,Paul Stastny,Vegas Golden Knights,C,17:58,1,1,3,0,0,0,2,14,18,0,0,0,0,0,2,11:42,2:35,3:41,77.78
-2018020598,8468674,Deryk Engelland,Vegas Golden Knights,D,23:14,0,0,4,2,0,0,0,0,0,0,0,0,0,2,0,15:31,0:00,7:43,NA
-2018020598,8471817,Ryan Reaves,Vegas Golden Knights,RW,11:10,0,0,1,3,0,0,2,0,1,0,0,0,0,0,0,11:10,0:00,0:00,0
-2018020598,8476539,Jonathan Marchessault,Vegas Golden Knights,C,16:01,1,0,2,0,0,0,2,0,0,1,3,0,0,1,1,12:09,3:33,0:19,NA
-2018020598,8475715,Oscar Lindberg,Vegas Golden Knights,C,11:07,0,0,3,4,0,0,0,2,2,0,1,0,0,0,0,11:07,0:00,0:00,100
-2018020598,8477949,Alex Tuch,Vegas Golden Knights,RW,14:12,1,0,0,1,0,0,2,0,0,0,1,0,0,1,2,11:37,2:35,0:00,NA
-2018020598,8475236,Cody Eakin,Vegas Golden Knights,C,15:40,0,1,6,0,0,0,0,3,12,0,1,0,0,1,3,9:59,2:12,3:29,25
-2018020598,8477447,Shea Theodore,Vegas Golden Knights,D,18:07,0,0,3,0,0,0,0,0,0,0,1,0,0,2,0,14:35,3:32,0:00,NA
-2018020598,8475204,Brandon Pirri,Vegas Golden Knights,C,12:53,1,1,3,1,0,0,2,0,0,0,0,0,0,0,2,10:26,2:27,0:00,NA
-2018020598,8474207,Nick Holden,Vegas Golden Knights,D,16:24,1,0,1,1,0,0,0,0,0,0,1,0,1,2,3,13:34,0:00,2:50,NA
-2018020598,8477846,Ryan Carpenter,Vegas Golden Knights,C,13:45,0,1,1,1,0,0,0,5,6,2,0,1,0,1,2,10:47,0:00,2:58,83.33
-2018020598,8476448,William Karlsson,Vegas Golden Knights,C,18:39,0,0,1,0,0,0,0,9,13,0,1,0,0,0,1,11:58,3:25,3:16,69.23
-2018020598,8476779,Brad Hunt,Vegas Golden Knights,D,16:10,1,0,3,0,0,0,0,0,0,1,0,0,0,2,2,12:42,3:25,0:03,NA
-2018020598,8475188,Brayden McNabb,Vegas Golden Knights,D,22:42,1,0,2,4,0,0,0,0,0,0,2,0,0,2,1,14:59,0:00,7:43,NA
-2018020598,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,C,13:07,0,0,0,3,0,0,0,5,11,0,0,0,0,1,0,9:38,0:00,3:29,45.45
-2018020598,8477478,William Carrier,Vegas Golden Knights,LW,9:59,0,0,1,6,0,0,2,0,0,1,0,0,0,1,1,9:59,0:00,0:00,NA
-2018020598,8477220,Nate Schmidt,Vegas Golden Knights,D,21:07,0,0,1,0,0,0,0,0,0,1,1,0,0,2,3,15:29,2:51,2:47,NA
-2018020598,8475191,Reilly Smith,Vegas Golden Knights,RW,17:03,0,1,2,2,0,0,0,0,0,0,0,0,0,0,1,9:53,3:25,3:45,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020598,8471769,Niklas Hjalmarsson,Arizona Coyotes,Vegas Golden Knights,D,18:26,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,14:22,0:00,4:04,NA
+2018020598,8474613,Derek Stepan,Arizona Coyotes,Vegas Golden Knights,C,21:03,0,0,3,2,0,0,0,13,30,0,0,0,0,2,0,11:56,6:02,3:05,43.33
+2018020598,8475209,Richard Panik,Arizona Coyotes,Vegas Golden Knights,RW,20:07,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,12:52,3:40,3:35,NA
+2018020598,8478856,Conor Garland,Arizona Coyotes,Vegas Golden Knights,RW,14:41,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-2,11:09,3:32,0:00,NA
+2018020598,8476326,Josh Archibald,Arizona Coyotes,Vegas Golden Knights,RW,11:53,0,0,1,1,0,0,2,0,1,0,0,0,0,1,-1,8:36,1:33,1:44,0
+2018020598,8474131,Mario Kempe,Arizona Coyotes,Vegas Golden Knights,RW,14:12,0,0,2,4,0,0,0,2,10,1,0,0,0,0,-1,10:38,1:38,1:56,20
+2018020598,8476994,Vinnie Hinostroza,Arizona Coyotes,Vegas Golden Knights,C,12:52,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,12:52,0:00,0:00,NA
+2018020598,8476851,Alex Galchenyuk,Arizona Coyotes,Vegas Golden Knights,C,14:04,0,1,1,1,1,0,2,2,5,0,0,0,0,0,-4,10:18,3:46,0:00,40
+2018020598,8477951,Nick Schmaltz,Arizona Coyotes,Vegas Golden Knights,C,16:39,0,0,1,0,0,0,0,5,9,2,0,0,0,1,-2,11:11,5:28,0:00,55.56
+2018020598,8475246,Kevin Connauton,Arizona Coyotes,Vegas Golden Knights,D,15:09,0,0,2,0,0,0,0,0,0,0,1,0,0,1,-1,11:34,0:00,3:35,NA
+2018020598,8471274,Alex Goligoski,Arizona Coyotes,Vegas Golden Knights,D,21:42,0,0,1,2,0,0,0,0,0,1,3,0,0,1,-4,17:05,2:41,1:56,NA
+2018020598,8478474,Lawson Crouse,Arizona Coyotes,Vegas Golden Knights,LW,11:09,0,0,4,3,0,0,0,0,1,0,0,0,0,0,-1,8:47,1:17,1:05,0
+2018020598,8479345,Jakob Chychrun,Arizona Coyotes,Vegas Golden Knights,D,21:36,0,0,2,2,0,0,0,0,0,0,2,0,0,2,-3,16:54,4:42,0:00,NA
+2018020598,8478432,Christian Fischer,Arizona Coyotes,Vegas Golden Knights,RW,11:23,0,0,1,0,0,0,0,0,0,0,0,0,0,2,-2,8:10,3:13,0:00,NA
+2018020598,8479343,Clayton Keller,Arizona Coyotes,Vegas Golden Knights,C,19:53,1,0,2,0,0,1,0,0,0,0,0,0,0,0,-1,13:34,5:44,0:35,NA
+2018020598,8475171,Oliver Ekman-Larsson,Arizona Coyotes,Vegas Golden Knights,D,23:59,1,0,2,2,0,1,0,0,0,0,0,0,0,0,-1,14:02,7:32,2:25,NA
+2018020598,8476393,Nick Cousins,Arizona Coyotes,Vegas Golden Knights,C,11:37,0,0,3,0,0,0,0,3,7,0,0,0,0,0,0,10:19,1:18,0:00,42.86
+2018020598,8480950,Ilya Lyubushkin,Arizona Coyotes,Vegas Golden Knights,D,13:40,0,0,2,3,0,0,0,0,0,0,0,0,0,0,-1,12:57,0:43,0:00,NA
+2018020598,8471669,Paul Stastny,Vegas Golden Knights,Arizona Coyotes,C,17:58,1,1,3,0,0,0,2,14,18,0,0,0,0,0,2,11:42,2:35,3:41,77.78
+2018020598,8468674,Deryk Engelland,Vegas Golden Knights,Arizona Coyotes,D,23:14,0,0,4,2,0,0,0,0,0,0,0,0,0,2,0,15:31,0:00,7:43,NA
+2018020598,8471817,Ryan Reaves,Vegas Golden Knights,Arizona Coyotes,RW,11:10,0,0,1,3,0,0,2,0,1,0,0,0,0,0,0,11:10,0:00,0:00,0
+2018020598,8476539,Jonathan Marchessault,Vegas Golden Knights,Arizona Coyotes,C,16:01,1,0,2,0,0,0,2,0,0,1,3,0,0,1,1,12:09,3:33,0:19,NA
+2018020598,8475715,Oscar Lindberg,Vegas Golden Knights,Arizona Coyotes,C,11:07,0,0,3,4,0,0,0,2,2,0,1,0,0,0,0,11:07,0:00,0:00,100
+2018020598,8477949,Alex Tuch,Vegas Golden Knights,Arizona Coyotes,RW,14:12,1,0,0,1,0,0,2,0,0,0,1,0,0,1,2,11:37,2:35,0:00,NA
+2018020598,8475236,Cody Eakin,Vegas Golden Knights,Arizona Coyotes,C,15:40,0,1,6,0,0,0,0,3,12,0,1,0,0,1,3,9:59,2:12,3:29,25
+2018020598,8477447,Shea Theodore,Vegas Golden Knights,Arizona Coyotes,D,18:07,0,0,3,0,0,0,0,0,0,0,1,0,0,2,0,14:35,3:32,0:00,NA
+2018020598,8475204,Brandon Pirri,Vegas Golden Knights,Arizona Coyotes,C,12:53,1,1,3,1,0,0,2,0,0,0,0,0,0,0,2,10:26,2:27,0:00,NA
+2018020598,8474207,Nick Holden,Vegas Golden Knights,Arizona Coyotes,D,16:24,1,0,1,1,0,0,0,0,0,0,1,0,1,2,3,13:34,0:00,2:50,NA
+2018020598,8477846,Ryan Carpenter,Vegas Golden Knights,Arizona Coyotes,C,13:45,0,1,1,1,0,0,0,5,6,2,0,1,0,1,2,10:47,0:00,2:58,83.33
+2018020598,8476448,William Karlsson,Vegas Golden Knights,Arizona Coyotes,C,18:39,0,0,1,0,0,0,0,9,13,0,1,0,0,0,1,11:58,3:25,3:16,69.23
+2018020598,8476779,Brad Hunt,Vegas Golden Knights,Arizona Coyotes,D,16:10,1,0,3,0,0,0,0,0,0,1,0,0,0,2,2,12:42,3:25,0:03,NA
+2018020598,8475188,Brayden McNabb,Vegas Golden Knights,Arizona Coyotes,D,22:42,1,0,2,4,0,0,0,0,0,0,2,0,0,2,1,14:59,0:00,7:43,NA
+2018020598,8477930,Pierre-Edouard Bellemare,Vegas Golden Knights,Arizona Coyotes,C,13:07,0,0,0,3,0,0,0,5,11,0,0,0,0,1,0,9:38,0:00,3:29,45.45
+2018020598,8477478,William Carrier,Vegas Golden Knights,Arizona Coyotes,LW,9:59,0,0,1,6,0,0,2,0,0,1,0,0,0,1,1,9:59,0:00,0:00,NA
+2018020598,8477220,Nate Schmidt,Vegas Golden Knights,Arizona Coyotes,D,21:07,0,0,1,0,0,0,0,0,0,1,1,0,0,2,3,15:29,2:51,2:47,NA
+2018020598,8475191,Reilly Smith,Vegas Golden Knights,Arizona Coyotes,RW,17:03,0,1,2,2,0,0,0,0,0,0,0,0,0,0,1,9:53,3:25,3:45,NA

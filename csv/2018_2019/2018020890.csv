@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020890,8474716,Jared Spurgeon,Minnesota Wild,D,5:49,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5:49,0:00,0:00,NA
-2018020890,8475868,Anthony Bitetto,Minnesota Wild,D,5:29,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5:29,0:00,0:00,NA
-2018020890,8470595,Eric Staal,Minnesota Wild,C,6:17,0,0,0,0,0,0,0,5,7,1,0,0,0,0,0,5:48,0:29,0:00,71
-2018020890,8470600,Ryan Suter,Minnesota Wild,D,6:56,1,0,2,0,0,1,0,0,0,1,0,0,0,0,0,6:27,0:29,0:00,NA
-2018020890,8470611,Eric Fehr,Minnesota Wild,C,2:27,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2:27,0:00,0:00,NA
-2018020890,8475798,Mikael Granlund,Minnesota Wild,RW,6:54,1,0,1,0,0,1,0,1,4,1,0,0,0,0,0,6:25,0:29,0:00,25
-2018020890,8475722,Jason Zucker,Minnesota Wild,LW,5:51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5:51,0:00,0:00,NA
-2018020890,8474688,Greg Pateryn,Minnesota Wild,D,7:45,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,7:45,0:00,0:00,NA
-2018020890,8476415,Kyle Rau,Minnesota Wild,C,2:35,0,0,1,0,0,0,0,2,2,0,0,0,0,0,0,2:35,0:00,0:00,100
-2018020890,8475745,Charlie Coyle,Minnesota Wild,C,5:43,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,5:43,0:00,0:00,100
-2018020890,8470610,Zach Parise,Minnesota Wild,LW,6:28,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,5:59,0:29,0:00,NA
-2018020890,8476779,Brad Hunt,Minnesota Wild,D,2:59,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2:30,0:29,0:00,NA
-2018020890,8479316,Luke Kunin,Minnesota Wild,C,5:27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5:27,0:00,0:00,NA
-2018020890,8478413,Jordan Greenway,Minnesota Wild,LW,5:36,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,5:36,0:00,0:00,NA
-2018020890,8476372,Nick Seeler,Minnesota Wild,D,5:43,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5:43,0:00,0:00,NA
-2018020890,8475220,Marcus Foligno,Minnesota Wild,LW,5:22,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,5:22,0:00,0:00,NA
-2018020890,8476463,Jonas Brodin,Minnesota Wild,D,7:49,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,7:49,0:00,0:00,NA
-2018020890,8478493,Joel Eriksson Ek,Minnesota Wild,C,4:51,0,1,1,2,0,0,0,1,5,0,0,0,0,0,1,4:51,0:00,0:00,20
-2018020890,8473468,Eric Gryba,New Jersey Devils,D,6:29,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6:29,0:00,0:00,NA
-2018020890,8476923,Damon Severson,New Jersey Devils,D,7:38,0,0,0,1,0,0,2,0,0,0,0,0,0,2,-1,7:38,0:00,0:00,NA
-2018020890,8477509,Mirco Mueller,New Jersey Devils,D,6:04,0,0,0,1,0,0,0,0,0,1,1,0,0,0,-1,6:04,0:00,0:00,NA
-2018020890,8471233,Travis Zajac,New Jersey Devils,C,6:01,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,5:32,0:00,0:29,50
-2018020890,8476545,Kurtis Gabriel,New Jersey Devils,RW,2:14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2:14,0:00,0:00,NA
-2018020890,8479407,Jesper Bratt,New Jersey Devils,LW,5:37,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,5:37,0:00,0:00,NA
-2018020890,8473933,Ben Lovejoy,New Jersey Devils,D,7:25,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,6:56,0:00,0:29,NA
-2018020890,8477425,Miles Wood,New Jersey Devils,LW,4:54,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4:54,0:00,0:00,NA
-2018020890,8475149,Marcus Johansson,New Jersey Devils,LW,6:06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6:06,0:00,0:00,NA
-2018020890,8475844,Kenny Agostino,New Jersey Devils,LW,5:07,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,5:07,0:00,0:00,0
-2018020890,8471226,Drew Stafford,New Jersey Devils,RW,3:40,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,3:40,0:00,0:00,NA
-2018020890,8472382,Andy Greene,New Jersey Devils,D,5:59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5:30,0:00,0:29,NA
-2018020890,8478401,Pavel Zacha,New Jersey Devils,C,4:43,0,0,1,0,0,0,0,3,6,1,0,0,0,0,-1,4:43,0:00,0:00,50
-2018020890,8479315,Joey Anderson,New Jersey Devils,RW,5:50,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,5:50,0:00,0:00,NA
-2018020890,8477355,Will Butcher,New Jersey Devils,D,6:25,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6:25,0:00,0:00,NA
-2018020890,8475151,Kyle Palmieri,New Jersey Devils,RW,5:34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5:34,0:00,0:00,NA
-2018020890,8480002,Nico Hischier,New Jersey Devils,C,6:11,0,0,1,0,0,0,0,4,6,1,1,0,0,0,0,6:11,0:00,0:00,67
-2018020890,8479291,Kevin Rooney,New Jersey Devils,C,3:34,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,3:05,0:00,0:29,0
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020890,8474716,Jared Spurgeon,Minnesota Wild,New Jersey Devils,D,14:29,1,0,0,1,0,0,0,0,0,0,0,0,0,2,0,11:51,0:00,2:38,NA
+2018020890,8475868,Anthony Bitetto,Minnesota Wild,New Jersey Devils,D,9:43,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,9:43,0:00,0:00,NA
+2018020890,8470595,Eric Staal,Minnesota Wild,New Jersey Devils,C,11:40,0,0,1,0,0,0,0,7,13,1,0,0,0,0,0,11:09,0:29,0:02,54
+2018020890,8470600,Ryan Suter,Minnesota Wild,New Jersey Devils,D,15:27,2,0,3,0,0,1,0,0,0,1,1,0,0,0,0,12:20,0:29,2:38,NA
+2018020890,8470611,Eric Fehr,Minnesota Wild,New Jersey Devils,C,6:32,0,0,0,2,0,0,0,1,2,2,0,0,0,0,0,4:40,0:00,1:52,50
+2018020890,8475798,Mikael Granlund,Minnesota Wild,New Jersey Devils,RW,12:57,1,1,4,0,0,1,0,2,8,1,0,0,0,0,1,11:50,0:29,0:38,25
+2018020890,8475722,Jason Zucker,Minnesota Wild,New Jersey Devils,LW,11:02,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,11:02,0:00,0:00,NA
+2018020890,8474688,Greg Pateryn,Minnesota Wild,New Jersey Devils,D,15:00,0,0,2,1,0,0,0,0,0,0,1,0,0,0,1,13:38,0:00,1:22,NA
+2018020890,8476415,Kyle Rau,Minnesota Wild,New Jersey Devils,C,4:55,1,0,1,0,0,0,0,2,3,0,0,0,0,0,1,4:55,0:00,0:00,67
+2018020890,8475745,Charlie Coyle,Minnesota Wild,New Jersey Devils,C,10:59,0,0,0,0,0,0,2,2,4,0,3,0,0,0,0,10:59,0:00,0:00,50
+2018020890,8470610,Zach Parise,Minnesota Wild,New Jersey Devils,LW,12:29,0,0,4,1,0,0,2,0,0,0,0,0,0,1,0,11:22,0:29,0:38,NA
+2018020890,8476779,Brad Hunt,Minnesota Wild,New Jersey Devils,D,5:14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,4:45,0:29,0:00,NA
+2018020890,8479316,Luke Kunin,Minnesota Wild,New Jersey Devils,C,10:35,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,8:45,0:00,1:50,100
+2018020890,8478413,Jordan Greenway,Minnesota Wild,New Jersey Devils,LW,10:43,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,10:43,0:00,0:00,NA
+2018020890,8476372,Nick Seeler,Minnesota Wild,New Jersey Devils,D,9:48,0,1,1,0,0,0,0,0,0,0,0,0,0,5,0,9:48,0:00,0:00,NA
+2018020890,8475220,Marcus Foligno,Minnesota Wild,New Jersey Devils,LW,10:04,0,0,0,2,0,0,0,0,0,2,1,0,0,2,0,8:32,0:00,1:32,NA
+2018020890,8476463,Jonas Brodin,Minnesota Wild,New Jersey Devils,D,15:04,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,13:42,0:00,1:22,NA
+2018020890,8478493,Joel Eriksson Ek,Minnesota Wild,New Jersey Devils,C,9:20,0,1,1,3,0,0,0,1,8,0,0,0,0,0,0,7:52,0:00,1:28,13
+2018020890,8473468,Eric Gryba,New Jersey Devils,Minnesota Wild,D,8:29,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,8:29,0:00,0:00,NA
+2018020890,8476923,Damon Severson,New Jersey Devils,Minnesota Wild,D,16:18,0,0,0,2,0,0,4,0,0,0,0,0,0,2,0,12:38,3:40,0:00,NA
+2018020890,8477509,Mirco Mueller,New Jersey Devils,Minnesota Wild,D,13:03,0,0,0,1,0,0,0,0,0,1,1,0,0,0,-2,13:03,0:00,0:00,NA
+2018020890,8471233,Travis Zajac,New Jersey Devils,Minnesota Wild,C,13:49,0,0,1,0,0,0,0,8,12,0,0,0,0,1,0,10:03,3:17,0:29,67
+2018020890,8476545,Kurtis Gabriel,New Jersey Devils,Minnesota Wild,RW,3:44,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1,3:44,0:00,0:00,NA
+2018020890,8479407,Jesper Bratt,New Jersey Devils,Minnesota Wild,LW,13:27,1,0,3,2,0,0,0,0,0,0,0,0,0,0,2,10:10,3:17,0:00,NA
+2018020890,8473933,Ben Lovejoy,New Jersey Devils,Minnesota Wild,D,12:40,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,12:11,0:00,0:29,NA
+2018020890,8477425,Miles Wood,New Jersey Devils,Minnesota Wild,LW,10:50,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,10:07,0:43,0:00,NA
+2018020890,8475149,Marcus Johansson,New Jersey Devils,Minnesota Wild,LW,15:11,0,1,1,2,0,0,0,0,1,1,1,0,0,0,2,11:54,3:17,0:00,0
+2018020890,8475844,Kenny Agostino,New Jersey Devils,Minnesota Wild,LW,8:32,0,0,2,2,0,0,0,0,1,1,0,0,0,0,-1,8:32,0:00,0:00,0
+2018020890,8471226,Drew Stafford,New Jersey Devils,Minnesota Wild,RW,6:52,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-2,6:52,0:00,0:00,NA
+2018020890,8472382,Andy Greene,New Jersey Devils,Minnesota Wild,D,12:41,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,12:12,0:00,0:29,NA
+2018020890,8478401,Pavel Zacha,New Jersey Devils,Minnesota Wild,C,8:34,0,0,1,0,0,0,0,5,10,1,0,0,0,0,-2,7:56,0:38,0:00,50
+2018020890,8479315,Joey Anderson,New Jersey Devils,Minnesota Wild,RW,10:59,0,0,1,1,0,0,0,0,0,0,0,0,0,1,-2,10:16,0:43,0:00,NA
+2018020890,8477355,Will Butcher,New Jersey Devils,Minnesota Wild,D,12:48,0,1,2,0,0,0,0,0,0,0,1,0,0,1,0,12:23,0:25,0:00,NA
+2018020890,8475151,Kyle Palmieri,New Jersey Devils,Minnesota Wild,RW,12:44,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,9:27,3:17,0:00,NA
+2018020890,8480002,Nico Hischier,New Jersey Devils,Minnesota Wild,C,13:15,1,0,2,0,0,0,0,9,12,1,1,0,0,2,2,12:32,0:43,0:00,75
+2018020890,8479291,Kevin Rooney,New Jersey Devils,Minnesota Wild,C,5:35,0,0,0,0,0,0,0,1,3,0,0,0,0,0,-1,5:06,0:00,0:29,33

@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020590,8471958,Dan Girardi,Tampa Bay Lightning,D,17:40,0,0,0,4,0,0,0,0,0,0,0,0,0,3,-1,15:40,0:00,2:00,NA
-2018020590,8471339,Ryan Callahan,Tampa Bay Lightning,RW,9:17,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,7:49,0:00,1:28,NA
-2018020590,8478519,Anthony Cirelli,Tampa Bay Lightning,C,14:04,1,0,3,2,0,0,0,7,13,1,0,0,0,0,0,9:25,1:59,2:40,53.85
-2018020590,8471873,Anton Stralman,Tampa Bay Lightning,D,20:30,1,1,4,0,0,0,0,0,0,0,1,0,0,2,2,17:28,0:00,3:02,NA
-2018020590,8476826,Yanni Gourde,Tampa Bay Lightning,C,16:52,1,1,2,2,0,0,0,4,4,1,0,0,0,0,2,14:18,0:45,1:49,100
-2018020590,8478416,Erik Cernak,Tampa Bay Lightning,D,18:28,0,0,1,4,0,0,0,0,0,1,1,0,0,2,0,16:52,0:00,1:36,NA
-2018020590,8476975,Cedric Paquette,Tampa Bay Lightning,C,11:31,0,0,1,5,0,0,0,8,13,0,0,0,0,1,0,8:58,0:00,2:33,61.54
-2018020590,8473986,Alex Killorn,Tampa Bay Lightning,LW,12:25,0,0,1,0,0,0,2,0,0,1,1,0,0,0,-2,10:23,0:45,1:17,NA
-2018020590,8476453,Nikita Kucherov,Tampa Bay Lightning,RW,21:06,1,1,3,1,1,0,2,0,0,3,5,0,0,0,1,17:48,3:18,0:00,NA
-2018020590,8474870,Tyler Johnson,Tampa Bay Lightning,C,19:32,0,1,4,0,0,0,0,6,13,0,0,0,0,0,1,17:42,1:35,0:15,46.15
-2018020590,8477454,Adam Erne,Tampa Bay Lightning,LW,10:47,1,2,3,0,0,0,0,1,1,0,0,0,0,0,4,10:18,0:00,0:29,100
-2018020590,8475167,Victor Hedman,Tampa Bay Lightning,D,21:13,2,0,4,0,0,1,0,0,0,0,0,0,0,2,1,15:51,2:20,3:02,NA
-2018020590,8474151,Ryan McDonagh,Tampa Bay Lightning,D,21:30,1,0,0,1,0,0,2,0,0,0,0,0,0,2,1,19:30,0:00,2:00,NA
-2018020590,8474564,Steven Stamkos,Tampa Bay Lightning,C,18:12,0,0,1,0,0,0,0,9,21,0,0,0,0,0,0,13:57,3:18,0:57,42.86
-2018020590,8479410,Mikhail Sergachev,Tampa Bay Lightning,D,16:29,1,0,1,1,0,0,0,0,0,0,0,0,0,1,-1,14:46,1:43,0:00,NA
-2018020590,8476292,Ondrej Palat,Tampa Bay Lightning,LW,17:08,0,0,1,1,0,0,0,0,0,1,0,0,0,0,-1,15:04,2:04,0:00,NA
-2018020590,8478472,Mathieu Joseph,Tampa Bay Lightning,RW,6:54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3,6:54,0:00,0:00,NA
-2018020590,8478010,Brayden Point,Tampa Bay Lightning,C,20:32,1,0,2,1,0,1,0,2,6,1,0,0,0,0,1,17:52,2:28,0:12,33.33
-2018020590,8473507,Jeff Petry,Montréal Canadiens,D,20:45,0,0,4,4,0,0,2,0,0,0,1,0,0,2,-2,15:40,3:08,1:57,NA
-2018020590,8474818,Jordie Benn,Montréal Canadiens,D,14:50,1,1,1,1,0,0,0,0,0,0,0,0,0,0,3,13:01,0:00,1:49,NA
-2018020590,8475808,Michael Chaput,Montréal Canadiens,C,9:45,0,0,1,1,0,0,0,4,9,0,0,0,0,0,-1,8:12,0:00,1:33,44.44
-2018020590,8480829,Jesperi Kotkaniemi,Montréal Canadiens,C,13:51,1,0,5,0,0,1,0,3,4,2,1,0,0,0,-1,10:58,2:53,0:00,75
-2018020590,8476967,Brett Kulak,Montréal Canadiens,D,15:25,0,1,3,2,0,0,0,0,0,0,0,0,0,3,2,13:47,0:00,1:38,NA
-2018020590,8474038,Paul Byron,Montréal Canadiens,LW,16:30,0,0,1,2,0,0,0,0,0,0,0,0,0,1,-2,12:41,2:29,1:20,NA
-2018020590,8475848,Brendan Gallagher,Montréal Canadiens,RW,17:48,1,0,3,0,0,0,2,0,0,0,0,0,0,0,0,15:04,2:44,0:00,NA
-2018020590,8477503,Max Domi,Montréal Canadiens,C,17:30,0,0,1,0,0,0,0,6,17,0,0,0,0,2,-2,14:22,3:08,0:00,35.29
-2018020590,8476479,Phillip Danault,Montréal Canadiens,C,19:30,3,0,2,0,0,0,0,11,23,0,1,0,0,1,3,16:34,0:13,2:43,47.83
-2018020590,8470642,Shea Weber,Montréal Canadiens,D,25:41,1,0,1,2,0,0,0,0,0,0,3,0,0,1,-1,20:26,2:44,2:31,NA
-2018020590,8475844,Kenny Agostino,Montréal Canadiens,LW,9:06,0,1,2,1,0,0,0,0,0,0,1,0,0,0,1,9:06,0:00,0:00,NA
-2018020590,8477476,Artturi Lehkonen,Montréal Canadiens,LW,16:28,1,0,3,0,0,0,0,0,0,0,0,0,0,0,1,13:45,0:13,2:30,NA
-2018020590,8476422,Mike Reilly,Montréal Canadiens,D,18:39,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-2,15:46,2:42,0:11,NA
-2018020590,8476285,Matthew Peca,Montréal Canadiens,C,7:53,0,0,1,1,0,0,0,1,1,0,2,0,0,0,0,7:53,0:00,0:00,100
-2018020590,8477494,Jonathan Drouin,Montréal Canadiens,LW,16:47,0,0,1,1,0,0,0,0,0,1,0,0,0,1,-2,13:39,3:08,0:00,NA
-2018020590,8479376,Victor Mete,Montréal Canadiens,D,20:39,0,0,1,1,0,0,0,0,0,0,1,0,0,2,-2,20:26,0:13,0:00,NA
-2018020590,8476381,Andrew Shaw,Montréal Canadiens,RW,17:19,0,2,4,1,1,0,2,8,15,0,0,0,0,0,0,14:13,3:06,0:00,53.33
-2018020590,8475193,Tomas Tatar,Montréal Canadiens,LW,18:24,2,0,3,0,0,1,0,1,2,0,0,0,0,2,0,15:55,2:29,0:00,50
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020590,8471958,Dan Girardi,Tampa Bay Lightning,Montréal Canadiens,D,17:40,0,0,0,4,0,0,0,0,0,0,0,0,0,3,-1,15:40,0:00,2:00,NA
+2018020590,8471339,Ryan Callahan,Tampa Bay Lightning,Montréal Canadiens,RW,9:17,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,7:49,0:00,1:28,NA
+2018020590,8478519,Anthony Cirelli,Tampa Bay Lightning,Montréal Canadiens,C,14:04,1,0,3,2,0,0,0,7,13,1,0,0,0,0,0,9:25,1:59,2:40,53.85
+2018020590,8471873,Anton Stralman,Tampa Bay Lightning,Montréal Canadiens,D,20:30,1,1,4,0,0,0,0,0,0,0,1,0,0,2,2,17:28,0:00,3:02,NA
+2018020590,8476826,Yanni Gourde,Tampa Bay Lightning,Montréal Canadiens,C,16:52,1,1,2,2,0,0,0,4,4,1,0,0,0,0,2,14:18,0:45,1:49,100
+2018020590,8478416,Erik Cernak,Tampa Bay Lightning,Montréal Canadiens,D,18:28,0,0,1,4,0,0,0,0,0,1,1,0,0,2,0,16:52,0:00,1:36,NA
+2018020590,8476975,Cedric Paquette,Tampa Bay Lightning,Montréal Canadiens,C,11:31,0,0,1,5,0,0,0,8,13,0,0,0,0,1,0,8:58,0:00,2:33,61.54
+2018020590,8473986,Alex Killorn,Tampa Bay Lightning,Montréal Canadiens,LW,12:25,0,0,1,0,0,0,2,0,0,1,1,0,0,0,-2,10:23,0:45,1:17,NA
+2018020590,8476453,Nikita Kucherov,Tampa Bay Lightning,Montréal Canadiens,RW,21:06,1,1,3,1,1,0,2,0,0,3,5,0,0,0,1,17:48,3:18,0:00,NA
+2018020590,8474870,Tyler Johnson,Tampa Bay Lightning,Montréal Canadiens,C,19:32,0,1,4,0,0,0,0,6,13,0,0,0,0,0,1,17:42,1:35,0:15,46.15
+2018020590,8477454,Adam Erne,Tampa Bay Lightning,Montréal Canadiens,LW,10:47,1,2,3,0,0,0,0,1,1,0,0,0,0,0,4,10:18,0:00,0:29,100
+2018020590,8475167,Victor Hedman,Tampa Bay Lightning,Montréal Canadiens,D,21:13,2,0,4,0,0,1,0,0,0,0,0,0,0,2,1,15:51,2:20,3:02,NA
+2018020590,8474151,Ryan McDonagh,Tampa Bay Lightning,Montréal Canadiens,D,21:30,1,0,0,1,0,0,2,0,0,0,0,0,0,2,1,19:30,0:00,2:00,NA
+2018020590,8474564,Steven Stamkos,Tampa Bay Lightning,Montréal Canadiens,C,18:12,0,0,1,0,0,0,0,9,21,0,0,0,0,0,0,13:57,3:18,0:57,42.86
+2018020590,8479410,Mikhail Sergachev,Tampa Bay Lightning,Montréal Canadiens,D,16:29,1,0,1,1,0,0,0,0,0,0,0,0,0,1,-1,14:46,1:43,0:00,NA
+2018020590,8476292,Ondrej Palat,Tampa Bay Lightning,Montréal Canadiens,LW,17:08,0,0,1,1,0,0,0,0,0,1,0,0,0,0,-1,15:04,2:04,0:00,NA
+2018020590,8478472,Mathieu Joseph,Tampa Bay Lightning,Montréal Canadiens,RW,6:54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3,6:54,0:00,0:00,NA
+2018020590,8478010,Brayden Point,Tampa Bay Lightning,Montréal Canadiens,C,20:32,1,0,2,1,0,1,0,2,6,1,0,0,0,0,1,17:52,2:28,0:12,33.33
+2018020590,8473507,Jeff Petry,Montréal Canadiens,Tampa Bay Lightning,D,20:45,0,0,4,4,0,0,2,0,0,0,1,0,0,2,-2,15:40,3:08,1:57,NA
+2018020590,8474818,Jordie Benn,Montréal Canadiens,Tampa Bay Lightning,D,14:50,1,1,1,1,0,0,0,0,0,0,0,0,0,0,3,13:01,0:00,1:49,NA
+2018020590,8475808,Michael Chaput,Montréal Canadiens,Tampa Bay Lightning,C,9:45,0,0,1,1,0,0,0,4,9,0,0,0,0,0,-1,8:12,0:00,1:33,44.44
+2018020590,8480829,Jesperi Kotkaniemi,Montréal Canadiens,Tampa Bay Lightning,C,13:51,1,0,5,0,0,1,0,3,4,2,1,0,0,0,-1,10:58,2:53,0:00,75
+2018020590,8476967,Brett Kulak,Montréal Canadiens,Tampa Bay Lightning,D,15:25,0,1,3,2,0,0,0,0,0,0,0,0,0,3,2,13:47,0:00,1:38,NA
+2018020590,8474038,Paul Byron,Montréal Canadiens,Tampa Bay Lightning,LW,16:30,0,0,1,2,0,0,0,0,0,0,0,0,0,1,-2,12:41,2:29,1:20,NA
+2018020590,8475848,Brendan Gallagher,Montréal Canadiens,Tampa Bay Lightning,RW,17:48,1,0,3,0,0,0,2,0,0,0,0,0,0,0,0,15:04,2:44,0:00,NA
+2018020590,8477503,Max Domi,Montréal Canadiens,Tampa Bay Lightning,C,17:30,0,0,1,0,0,0,0,6,17,0,0,0,0,2,-2,14:22,3:08,0:00,35.29
+2018020590,8476479,Phillip Danault,Montréal Canadiens,Tampa Bay Lightning,C,19:30,3,0,2,0,0,0,0,11,23,0,1,0,0,1,3,16:34,0:13,2:43,47.83
+2018020590,8470642,Shea Weber,Montréal Canadiens,Tampa Bay Lightning,D,25:41,1,0,1,2,0,0,0,0,0,0,3,0,0,1,-1,20:26,2:44,2:31,NA
+2018020590,8475844,Kenny Agostino,Montréal Canadiens,Tampa Bay Lightning,LW,9:06,0,1,2,1,0,0,0,0,0,0,1,0,0,0,1,9:06,0:00,0:00,NA
+2018020590,8477476,Artturi Lehkonen,Montréal Canadiens,Tampa Bay Lightning,LW,16:28,1,0,3,0,0,0,0,0,0,0,0,0,0,0,1,13:45,0:13,2:30,NA
+2018020590,8476422,Mike Reilly,Montréal Canadiens,Tampa Bay Lightning,D,18:39,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-2,15:46,2:42,0:11,NA
+2018020590,8476285,Matthew Peca,Montréal Canadiens,Tampa Bay Lightning,C,7:53,0,0,1,1,0,0,0,1,1,0,2,0,0,0,0,7:53,0:00,0:00,100
+2018020590,8477494,Jonathan Drouin,Montréal Canadiens,Tampa Bay Lightning,LW,16:47,0,0,1,1,0,0,0,0,0,1,0,0,0,1,-2,13:39,3:08,0:00,NA
+2018020590,8479376,Victor Mete,Montréal Canadiens,Tampa Bay Lightning,D,20:39,0,0,1,1,0,0,0,0,0,0,1,0,0,2,-2,20:26,0:13,0:00,NA
+2018020590,8476381,Andrew Shaw,Montréal Canadiens,Tampa Bay Lightning,RW,17:19,0,2,4,1,1,0,2,8,15,0,0,0,0,0,0,14:13,3:06,0:00,53.33
+2018020590,8475193,Tomas Tatar,Montréal Canadiens,Tampa Bay Lightning,LW,18:24,2,0,3,0,0,1,0,1,2,0,0,0,0,2,0,15:55,2:29,0:00,50

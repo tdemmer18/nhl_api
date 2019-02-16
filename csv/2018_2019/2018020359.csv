@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020359,8471958,Dan Girardi,Tampa Bay Lightning,D,17:47,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,16:46,0:00,1:01,NA
-2018020359,8471339,Ryan Callahan,Tampa Bay Lightning,RW,11:22,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,10:12,0:00,1:10,100
-2018020359,8478519,Anthony Cirelli,Tampa Bay Lightning,C,14:12,0,0,1,2,0,0,0,5,13,1,0,0,0,0,1,11:58,0:00,2:14,38.46
-2018020359,8476826,Yanni Gourde,Tampa Bay Lightning,C,18:07,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,16:22,0:41,1:04,100
-2018020359,8476468,J.T. Miller,Tampa Bay Lightning,C,21:06,0,0,1,0,0,0,0,8,17,0,1,0,0,1,0,16:41,4:25,0:00,47.06
-2018020359,8478416,Erik Cernak,Tampa Bay Lightning,D,17:00,0,0,1,2,0,0,0,0,0,1,0,0,0,0,1,15:25,0:00,1:35,NA
-2018020359,8476975,Cedric Paquette,Tampa Bay Lightning,C,11:13,0,1,1,3,0,0,0,7,13,0,0,0,0,1,0,10:17,0:00,0:56,53.85
-2018020359,8470601,Braydon Coburn,Tampa Bay Lightning,D,18:20,0,0,3,2,0,0,2,0,0,0,0,0,0,3,1,17:06,0:00,1:14,NA
-2018020359,8473986,Alex Killorn,Tampa Bay Lightning,LW,14:22,0,1,2,0,0,0,0,0,0,0,2,0,0,0,2,12:04,0:41,1:37,NA
-2018020359,8476453,Nikita Kucherov,Tampa Bay Lightning,RW,18:05,2,0,4,1,0,1,0,0,0,1,0,0,0,1,0,13:40,4:25,0:00,NA
-2018020359,8474870,Tyler Johnson,Tampa Bay Lightning,C,13:34,0,1,4,0,0,0,0,4,8,0,0,0,0,0,0,11:41,1:53,0:00,50
-2018020359,8477454,Adam Erne,Tampa Bay Lightning,LW,10:44,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,10:03,0:41,0:00,NA
-2018020359,8475167,Victor Hedman,Tampa Bay Lightning,D,21:54,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,15:57,4:25,1:32,NA
-2018020359,8474151,Ryan McDonagh,Tampa Bay Lightning,D,20:32,0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,17:54,0:00,2:38,NA
-2018020359,8474564,Steven Stamkos,Tampa Bay Lightning,C,19:28,0,0,4,1,0,0,0,5,6,1,0,0,0,1,0,16:04,3:13,0:11,83.33
-2018020359,8479410,Mikhail Sergachev,Tampa Bay Lightning,D,19:32,0,0,2,1,0,0,0,0,0,0,1,0,0,2,1,18:51,0:41,0:00,NA
-2018020359,8478472,Mathieu Joseph,Tampa Bay Lightning,RW,11:46,1,0,3,1,0,0,0,1,3,1,0,0,0,0,2,10:58,0:00,0:48,33.33
-2018020359,8478010,Brayden Point,Tampa Bay Lightning,C,17:03,1,2,2,0,1,0,0,2,4,0,0,0,0,0,1,12:38,4:25,0:00,50
-2018020359,8470619,Brian Boyle,New Jersey Devils,C,13:24,0,0,1,3,0,0,2,0,2,0,0,0,0,1,0,11:12,1:18,0:54,0
-2018020359,8476923,Damon Severson,New Jersey Devils,D,20:22,0,0,3,0,0,0,0,0,0,0,0,0,0,1,-3,18:26,0:59,0:57,NA
-2018020359,8471233,Travis Zajac,New Jersey Devils,C,16:26,0,0,1,1,0,0,0,12,17,1,0,0,0,0,-1,12:54,0:00,3:32,70.59
-2018020359,8479407,Jesper Bratt,New Jersey Devils,LW,16:03,0,1,4,1,0,0,0,0,0,0,1,0,0,0,1,14:13,1:50,0:00,NA
-2018020359,8473933,Ben Lovejoy,New Jersey Devils,D,17:34,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,14:54,0:15,2:25,NA
-2018020359,8477425,Miles Wood,New Jersey Devils,LW,10:22,0,0,2,1,0,0,2,0,0,1,0,0,0,2,0,10:22,0:00,0:00,NA
-2018020359,8475149,Marcus Johansson,New Jersey Devils,LW,16:00,0,0,2,2,0,0,0,0,0,0,0,0,0,1,-2,13:22,2:38,0:00,NA
-2018020359,8472382,Andy Greene,New Jersey Devils,D,22:17,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-2,17:52,0:00,4:25,NA
-2018020359,8478401,Pavel Zacha,New Jersey Devils,C,17:04,0,0,2,2,0,0,0,7,20,1,0,0,0,0,0,14:42,1:22,1:00,35
-2018020359,8477355,Will Butcher,New Jersey Devils,D,17:49,0,0,2,2,0,0,0,0,0,0,0,0,0,1,2,15:05,2:44,0:00,NA
-2018020359,8476399,Blake Coleman,New Jersey Devils,C,19:02,0,0,3,3,0,0,0,1,3,1,1,0,0,0,-2,14:49,0:00,4:13,33.33
-2018020359,8475222,Sami Vatanen,New Jersey Devils,D,20:47,0,0,1,1,0,0,0,0,0,0,0,0,0,1,-2,17:06,1:16,2:25,NA
-2018020359,8475151,Kyle Palmieri,New Jersey Devils,RW,15:49,0,0,1,1,0,0,0,0,1,0,1,0,0,0,-1,13:15,2:10,0:24,0
-2018020359,8478881,Brett Seney,New Jersey Devils,LW,10:47,1,0,3,1,0,0,0,4,10,0,1,0,0,0,0,10:47,0:00,0:00,40
-2018020359,8475791,Taylor Hall,New Jersey Devils,LW,15:02,0,0,5,1,0,0,0,2,2,1,0,0,0,3,0,12:20,2:42,0:00,100
-2018020359,8480948,Egor Yakovlev,New Jersey Devils,D,18:44,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,18:44,0:00,0:00,NA
-2018020359,8476474,Stefan Noesen,New Jersey Devils,RW,12:11,0,1,3,4,0,0,0,0,0,0,0,0,0,0,0,12:11,0:00,0:00,NA
-2018020359,8480002,Nico Hischier,New Jersey Devils,C,15:11,0,0,1,0,0,0,0,6,11,0,0,0,0,0,-1,12:16,2:46,0:09,54.55
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020359,8471958,Dan Girardi,Tampa Bay Lightning,New Jersey Devils,D,17:47,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,16:46,0:00,1:01,NA
+2018020359,8471339,Ryan Callahan,Tampa Bay Lightning,New Jersey Devils,RW,11:22,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,10:12,0:00,1:10,100
+2018020359,8478519,Anthony Cirelli,Tampa Bay Lightning,New Jersey Devils,C,14:12,0,0,1,2,0,0,0,5,13,1,0,0,0,0,1,11:58,0:00,2:14,38.46
+2018020359,8476826,Yanni Gourde,Tampa Bay Lightning,New Jersey Devils,C,18:07,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,16:22,0:41,1:04,100
+2018020359,8476468,J.T. Miller,Tampa Bay Lightning,New Jersey Devils,C,21:06,0,0,1,0,0,0,0,8,17,0,1,0,0,1,0,16:41,4:25,0:00,47.06
+2018020359,8478416,Erik Cernak,Tampa Bay Lightning,New Jersey Devils,D,17:00,0,0,1,2,0,0,0,0,0,1,0,0,0,0,1,15:25,0:00,1:35,NA
+2018020359,8476975,Cedric Paquette,Tampa Bay Lightning,New Jersey Devils,C,11:13,0,1,1,3,0,0,0,7,13,0,0,0,0,1,0,10:17,0:00,0:56,53.85
+2018020359,8470601,Braydon Coburn,Tampa Bay Lightning,New Jersey Devils,D,18:20,0,0,3,2,0,0,2,0,0,0,0,0,0,3,1,17:06,0:00,1:14,NA
+2018020359,8473986,Alex Killorn,Tampa Bay Lightning,New Jersey Devils,LW,14:22,0,1,2,0,0,0,0,0,0,0,2,0,0,0,2,12:04,0:41,1:37,NA
+2018020359,8476453,Nikita Kucherov,Tampa Bay Lightning,New Jersey Devils,RW,18:05,2,0,4,1,0,1,0,0,0,1,0,0,0,1,0,13:40,4:25,0:00,NA
+2018020359,8474870,Tyler Johnson,Tampa Bay Lightning,New Jersey Devils,C,13:34,0,1,4,0,0,0,0,4,8,0,0,0,0,0,0,11:41,1:53,0:00,50
+2018020359,8477454,Adam Erne,Tampa Bay Lightning,New Jersey Devils,LW,10:44,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,10:03,0:41,0:00,NA
+2018020359,8475167,Victor Hedman,Tampa Bay Lightning,New Jersey Devils,D,21:54,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,15:57,4:25,1:32,NA
+2018020359,8474151,Ryan McDonagh,Tampa Bay Lightning,New Jersey Devils,D,20:32,0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,17:54,0:00,2:38,NA
+2018020359,8474564,Steven Stamkos,Tampa Bay Lightning,New Jersey Devils,C,19:28,0,0,4,1,0,0,0,5,6,1,0,0,0,1,0,16:04,3:13,0:11,83.33
+2018020359,8479410,Mikhail Sergachev,Tampa Bay Lightning,New Jersey Devils,D,19:32,0,0,2,1,0,0,0,0,0,0,1,0,0,2,1,18:51,0:41,0:00,NA
+2018020359,8478472,Mathieu Joseph,Tampa Bay Lightning,New Jersey Devils,RW,11:46,1,0,3,1,0,0,0,1,3,1,0,0,0,0,2,10:58,0:00,0:48,33.33
+2018020359,8478010,Brayden Point,Tampa Bay Lightning,New Jersey Devils,C,17:03,1,2,2,0,1,0,0,2,4,0,0,0,0,0,1,12:38,4:25,0:00,50
+2018020359,8470619,Brian Boyle,New Jersey Devils,Tampa Bay Lightning,C,13:24,0,0,1,3,0,0,2,0,2,0,0,0,0,1,0,11:12,1:18,0:54,0
+2018020359,8476923,Damon Severson,New Jersey Devils,Tampa Bay Lightning,D,20:22,0,0,3,0,0,0,0,0,0,0,0,0,0,1,-3,18:26,0:59,0:57,NA
+2018020359,8471233,Travis Zajac,New Jersey Devils,Tampa Bay Lightning,C,16:26,0,0,1,1,0,0,0,12,17,1,0,0,0,0,-1,12:54,0:00,3:32,70.59
+2018020359,8479407,Jesper Bratt,New Jersey Devils,Tampa Bay Lightning,LW,16:03,0,1,4,1,0,0,0,0,0,0,1,0,0,0,1,14:13,1:50,0:00,NA
+2018020359,8473933,Ben Lovejoy,New Jersey Devils,Tampa Bay Lightning,D,17:34,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,14:54,0:15,2:25,NA
+2018020359,8477425,Miles Wood,New Jersey Devils,Tampa Bay Lightning,LW,10:22,0,0,2,1,0,0,2,0,0,1,0,0,0,2,0,10:22,0:00,0:00,NA
+2018020359,8475149,Marcus Johansson,New Jersey Devils,Tampa Bay Lightning,LW,16:00,0,0,2,2,0,0,0,0,0,0,0,0,0,1,-2,13:22,2:38,0:00,NA
+2018020359,8472382,Andy Greene,New Jersey Devils,Tampa Bay Lightning,D,22:17,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-2,17:52,0:00,4:25,NA
+2018020359,8478401,Pavel Zacha,New Jersey Devils,Tampa Bay Lightning,C,17:04,0,0,2,2,0,0,0,7,20,1,0,0,0,0,0,14:42,1:22,1:00,35
+2018020359,8477355,Will Butcher,New Jersey Devils,Tampa Bay Lightning,D,17:49,0,0,2,2,0,0,0,0,0,0,0,0,0,1,2,15:05,2:44,0:00,NA
+2018020359,8476399,Blake Coleman,New Jersey Devils,Tampa Bay Lightning,C,19:02,0,0,3,3,0,0,0,1,3,1,1,0,0,0,-2,14:49,0:00,4:13,33.33
+2018020359,8475222,Sami Vatanen,New Jersey Devils,Tampa Bay Lightning,D,20:47,0,0,1,1,0,0,0,0,0,0,0,0,0,1,-2,17:06,1:16,2:25,NA
+2018020359,8475151,Kyle Palmieri,New Jersey Devils,Tampa Bay Lightning,RW,15:49,0,0,1,1,0,0,0,0,1,0,1,0,0,0,-1,13:15,2:10,0:24,0
+2018020359,8478881,Brett Seney,New Jersey Devils,Tampa Bay Lightning,LW,10:47,1,0,3,1,0,0,0,4,10,0,1,0,0,0,0,10:47,0:00,0:00,40
+2018020359,8475791,Taylor Hall,New Jersey Devils,Tampa Bay Lightning,LW,15:02,0,0,5,1,0,0,0,2,2,1,0,0,0,3,0,12:20,2:42,0:00,100
+2018020359,8480948,Egor Yakovlev,New Jersey Devils,Tampa Bay Lightning,D,18:44,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,18:44,0:00,0:00,NA
+2018020359,8476474,Stefan Noesen,New Jersey Devils,Tampa Bay Lightning,RW,12:11,0,1,3,4,0,0,0,0,0,0,0,0,0,0,0,12:11,0:00,0:00,NA
+2018020359,8480002,Nico Hischier,New Jersey Devils,Tampa Bay Lightning,C,15:11,0,0,1,0,0,0,0,6,11,0,0,0,0,0,-1,12:16,2:46,0:09,54.55

@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020217,8477407,Anthony Duclair,Columbus Blue Jackets,LW,12:56,0,1,4,0,1,0,0,0,0,0,0,0,0,0,0,9:59,2:57,0:00,NA
-2018020217,8478906,Markus Nutivaara,Columbus Blue Jackets,D,19:00,0,1,1,3,0,0,0,0,0,1,0,0,0,1,1,18:56,0:04,0:00,NA
-2018020217,8473422,Nick Foligno,Columbus Blue Jackets,LW,16:37,0,1,2,2,0,0,0,2,3,0,1,0,0,0,1,14:14,2:23,0:00,66.67
-2018020217,8474715,Cam Atkinson,Columbus Blue Jackets,RW,18:24,0,0,2,2,0,0,0,0,0,1,0,0,0,0,2,15:01,2:13,1:10,NA
-2018020217,8477505,Alexander Wennberg,Columbus Blue Jackets,C,13:38,1,0,0,1,0,0,0,1,4,0,0,0,0,0,1,9:53,2:48,0:57,25
-2018020217,8476310,Lukas Sedlak,Columbus Blue Jackets,C,9:40,0,0,0,1,0,0,0,2,4,1,1,0,0,1,0,8:32,0:00,1:08,50
-2018020217,8476981,Josh Anderson,Columbus Blue Jackets,RW,16:40,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,12:47,2:32,1:21,NA
-2018020217,8476850,Ryan Murray,Columbus Blue Jackets,D,21:24,0,1,1,2,0,0,0,0,0,0,0,0,0,1,2,19:15,0:26,1:43,NA
-2018020217,8476432,Boone Jenner,Columbus Blue Jackets,C,18:36,1,0,7,1,0,1,2,12,20,0,0,0,0,1,0,14:46,3:07,0:43,60
-2018020217,8475233,David Savard,Columbus Blue Jackets,D,19:34,1,0,3,0,0,0,0,0,0,0,0,0,0,0,1,17:55,0:04,1:35,NA
-2018020217,8478567,Dean Kukan,Columbus Blue Jackets,D,12:54,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,12:54,0:00,0:00,NA
-2018020217,8474062,Riley Nash,Columbus Blue Jackets,C,12:42,0,0,2,1,0,0,0,0,1,2,0,0,0,3,1,12:38,0:04,0:00,0
-2018020217,8477495,Seth Jones,Columbus Blue Jackets,D,23:33,1,0,1,0,0,0,0,0,0,0,0,0,0,5,2,18:59,2:13,2:21,NA
-2018020217,8478550,Artemi Panarin,Columbus Blue Jackets,LW,18:33,1,0,3,0,0,0,0,0,0,0,0,0,0,0,1,15:26,3:07,0:00,NA
-2018020217,8479400,Pierre-Luc Dubois,Columbus Blue Jackets,C,16:36,0,0,2,1,0,0,0,6,11,0,2,0,0,1,1,14:16,1:47,0:33,54.55
-2018020217,8471273,Brandon Dubinsky,Columbus Blue Jackets,C,14:20,1,0,0,1,0,0,2,4,11,0,0,0,0,0,1,13:46,0:04,0:30,36.36
-2018020217,8478541,Markus Hannikainen,Columbus Blue Jackets,LW,12:54,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,12:36,0:04,0:14,NA
-2018020217,8478460,Zach Werenski,Columbus Blue Jackets,D,18:41,1,0,3,1,0,1,0,0,0,0,0,0,0,0,0,14:37,3:07,0:57,NA
-2018020217,8475906,John Klingberg,Dallas Stars,D,25:19,1,0,2,0,0,1,0,0,0,1,0,0,0,0,-1,20:04,2:10,3:05,NA
-2018020217,8476913,Devin Shore,Dallas Stars,C,13:29,0,0,1,1,0,0,0,1,1,0,0,0,0,0,-1,12:01,1:08,0:20,100
-2018020217,8476902,Esa Lindell,Dallas Stars,D,23:55,0,0,0,0,0,0,0,0,0,0,0,0,0,4,-1,19:09,1:08,3:38,NA
-2018020217,8473994,Jamie Benn,Dallas Stars,LW,20:14,0,1,5,0,1,0,0,5,8,0,0,0,0,1,-2,17:15,2:27,0:32,62.5
-2018020217,8475413,Justin Dowling,Dallas Stars,C,11:08,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,10:17,0:51,0:00,0
-2018020217,8477945,Julius Honka,Dallas Stars,D,16:55,0,0,2,2,0,0,2,0,0,1,1,0,0,2,-2,15:42,0:44,0:29,NA
-2018020217,8477406,Mattias Janmark,Dallas Stars,C,11:33,0,0,1,1,0,0,2,0,0,0,0,0,0,0,-1,10:47,0:00,0:46,NA
-2018020217,8476889,Radek Faksa,Dallas Stars,C,16:01,0,0,3,2,0,0,0,5,9,0,0,0,0,0,-2,14:28,0:00,1:33,55.56
-2018020217,8476966,Gemel Smith,Dallas Stars,C,10:00,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,10:00,0:00,0:00,NA
-2018020217,8471260,Blake Comeau,Dallas Stars,LW,14:08,0,0,1,4,0,0,0,0,0,1,0,0,0,0,0,12:22,0:00,1:46,NA
-2018020217,8471392,Roman Polak,Dallas Stars,D,17:51,0,0,0,0,0,0,2,0,0,0,0,0,0,3,-1,16:01,0:00,1:50,NA
-2018020217,8475794,Tyler Seguin,Dallas Stars,C,22:49,0,0,3,0,0,0,0,5,17,0,1,0,0,1,-1,17:34,2:34,2:41,29.41
-2018020217,8477501,Valeri Nichushkin,Dallas Stars,RW,15:18,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,15:18,0:00,0:00,NA
-2018020217,8475752,Tyler Pitlick,Dallas Stars,C,14:14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,12:23,0:44,1:07,NA
-2018020217,8477450,Jason Dickinson,Dallas Stars,C,12:47,0,0,1,2,0,0,0,5,9,1,0,0,0,0,0,10:48,0:00,1:59,55.56
-2018020217,8477471,Dillon Heatherington,Dallas Stars,D,12:35,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,12:35,0:00,0:00,NA
-2018020217,8469455,Jason Spezza,Dallas Stars,C,16:38,0,0,3,0,0,0,0,6,9,1,1,0,0,1,-2,14:00,2:34,0:04,66.67
-2018020217,8480036,Miro Heiskanen,Dallas Stars,D,23:17,1,0,2,2,0,1,0,0,0,1,0,0,0,1,-2,19:21,2:10,1:46,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020217,8477407,Anthony Duclair,Columbus Blue Jackets,Dallas Stars,LW,12:56,0,1,4,0,1,0,0,0,0,0,0,0,0,0,0,9:59,2:57,0:00,NA
+2018020217,8478906,Markus Nutivaara,Columbus Blue Jackets,Dallas Stars,D,19:00,0,1,1,3,0,0,0,0,0,1,0,0,0,1,1,18:56,0:04,0:00,NA
+2018020217,8473422,Nick Foligno,Columbus Blue Jackets,Dallas Stars,LW,16:37,0,1,2,2,0,0,0,2,3,0,1,0,0,0,1,14:14,2:23,0:00,66.67
+2018020217,8474715,Cam Atkinson,Columbus Blue Jackets,Dallas Stars,RW,18:24,0,0,2,2,0,0,0,0,0,1,0,0,0,0,2,15:01,2:13,1:10,NA
+2018020217,8477505,Alexander Wennberg,Columbus Blue Jackets,Dallas Stars,C,13:38,1,0,0,1,0,0,0,1,4,0,0,0,0,0,1,9:53,2:48,0:57,25
+2018020217,8476310,Lukas Sedlak,Columbus Blue Jackets,Dallas Stars,C,9:40,0,0,0,1,0,0,0,2,4,1,1,0,0,1,0,8:32,0:00,1:08,50
+2018020217,8476981,Josh Anderson,Columbus Blue Jackets,Dallas Stars,RW,16:40,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,12:47,2:32,1:21,NA
+2018020217,8476850,Ryan Murray,Columbus Blue Jackets,Dallas Stars,D,21:24,0,1,1,2,0,0,0,0,0,0,0,0,0,1,2,19:15,0:26,1:43,NA
+2018020217,8476432,Boone Jenner,Columbus Blue Jackets,Dallas Stars,C,18:36,1,0,7,1,0,1,2,12,20,0,0,0,0,1,0,14:46,3:07,0:43,60
+2018020217,8475233,David Savard,Columbus Blue Jackets,Dallas Stars,D,19:34,1,0,3,0,0,0,0,0,0,0,0,0,0,0,1,17:55,0:04,1:35,NA
+2018020217,8478567,Dean Kukan,Columbus Blue Jackets,Dallas Stars,D,12:54,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,12:54,0:00,0:00,NA
+2018020217,8474062,Riley Nash,Columbus Blue Jackets,Dallas Stars,C,12:42,0,0,2,1,0,0,0,0,1,2,0,0,0,3,1,12:38,0:04,0:00,0
+2018020217,8477495,Seth Jones,Columbus Blue Jackets,Dallas Stars,D,23:33,1,0,1,0,0,0,0,0,0,0,0,0,0,5,2,18:59,2:13,2:21,NA
+2018020217,8478550,Artemi Panarin,Columbus Blue Jackets,Dallas Stars,LW,18:33,1,0,3,0,0,0,0,0,0,0,0,0,0,0,1,15:26,3:07,0:00,NA
+2018020217,8479400,Pierre-Luc Dubois,Columbus Blue Jackets,Dallas Stars,C,16:36,0,0,2,1,0,0,0,6,11,0,2,0,0,1,1,14:16,1:47,0:33,54.55
+2018020217,8471273,Brandon Dubinsky,Columbus Blue Jackets,Dallas Stars,C,14:20,1,0,0,1,0,0,2,4,11,0,0,0,0,0,1,13:46,0:04,0:30,36.36
+2018020217,8478541,Markus Hannikainen,Columbus Blue Jackets,Dallas Stars,LW,12:54,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,12:36,0:04,0:14,NA
+2018020217,8478460,Zach Werenski,Columbus Blue Jackets,Dallas Stars,D,18:41,1,0,3,1,0,1,0,0,0,0,0,0,0,0,0,14:37,3:07,0:57,NA
+2018020217,8475906,John Klingberg,Dallas Stars,Columbus Blue Jackets,D,25:19,1,0,2,0,0,1,0,0,0,1,0,0,0,0,-1,20:04,2:10,3:05,NA
+2018020217,8476913,Devin Shore,Dallas Stars,Columbus Blue Jackets,C,13:29,0,0,1,1,0,0,0,1,1,0,0,0,0,0,-1,12:01,1:08,0:20,100
+2018020217,8476902,Esa Lindell,Dallas Stars,Columbus Blue Jackets,D,23:55,0,0,0,0,0,0,0,0,0,0,0,0,0,4,-1,19:09,1:08,3:38,NA
+2018020217,8473994,Jamie Benn,Dallas Stars,Columbus Blue Jackets,LW,20:14,0,1,5,0,1,0,0,5,8,0,0,0,0,1,-2,17:15,2:27,0:32,62.5
+2018020217,8475413,Justin Dowling,Dallas Stars,Columbus Blue Jackets,C,11:08,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,10:17,0:51,0:00,0
+2018020217,8477945,Julius Honka,Dallas Stars,Columbus Blue Jackets,D,16:55,0,0,2,2,0,0,2,0,0,1,1,0,0,2,-2,15:42,0:44,0:29,NA
+2018020217,8477406,Mattias Janmark,Dallas Stars,Columbus Blue Jackets,C,11:33,0,0,1,1,0,0,2,0,0,0,0,0,0,0,-1,10:47,0:00,0:46,NA
+2018020217,8476889,Radek Faksa,Dallas Stars,Columbus Blue Jackets,C,16:01,0,0,3,2,0,0,0,5,9,0,0,0,0,0,-2,14:28,0:00,1:33,55.56
+2018020217,8476966,Gemel Smith,Dallas Stars,Columbus Blue Jackets,C,10:00,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,10:00,0:00,0:00,NA
+2018020217,8471260,Blake Comeau,Dallas Stars,Columbus Blue Jackets,LW,14:08,0,0,1,4,0,0,0,0,0,1,0,0,0,0,0,12:22,0:00,1:46,NA
+2018020217,8471392,Roman Polak,Dallas Stars,Columbus Blue Jackets,D,17:51,0,0,0,0,0,0,2,0,0,0,0,0,0,3,-1,16:01,0:00,1:50,NA
+2018020217,8475794,Tyler Seguin,Dallas Stars,Columbus Blue Jackets,C,22:49,0,0,3,0,0,0,0,5,17,0,1,0,0,1,-1,17:34,2:34,2:41,29.41
+2018020217,8477501,Valeri Nichushkin,Dallas Stars,Columbus Blue Jackets,RW,15:18,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,15:18,0:00,0:00,NA
+2018020217,8475752,Tyler Pitlick,Dallas Stars,Columbus Blue Jackets,C,14:14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,12:23,0:44,1:07,NA
+2018020217,8477450,Jason Dickinson,Dallas Stars,Columbus Blue Jackets,C,12:47,0,0,1,2,0,0,0,5,9,1,0,0,0,0,0,10:48,0:00,1:59,55.56
+2018020217,8477471,Dillon Heatherington,Dallas Stars,Columbus Blue Jackets,D,12:35,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,12:35,0:00,0:00,NA
+2018020217,8469455,Jason Spezza,Dallas Stars,Columbus Blue Jackets,C,16:38,0,0,3,0,0,0,0,6,9,1,1,0,0,1,-2,14:00,2:34,0:04,66.67
+2018020217,8480036,Miro Heiskanen,Dallas Stars,Columbus Blue Jackets,D,23:17,1,0,2,2,0,1,0,0,0,1,0,0,0,1,-2,19:21,2:10,1:46,NA

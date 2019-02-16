@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020410,8470318,Jonathan Ericsson,Detroit Red Wings,D,12:21,0,0,2,1,0,0,2,0,0,0,1,0,0,1,0,12:21,0:00,0:00,NA
-2018020410,8471716,Justin Abdelkader,Detroit Red Wings,LW,16:24,0,0,1,1,0,0,0,0,0,0,0,0,0,2,0,16:24,0:00,0:00,NA
-2018020410,8474679,Gustav Nyquist,Detroit Red Wings,RW,20:24,0,0,1,0,0,0,0,0,0,2,1,0,0,0,0,18:04,2:20,0:00,NA
-2018020410,8477946,Dylan Larkin,Detroit Red Wings,C,21:31,0,0,3,3,0,0,0,12,20,0,1,0,0,0,-1,19:34,1:51,0:06,60
-2018020410,8470144,Frans Nielsen,Detroit Red Wings,C,16:53,0,0,1,1,0,0,0,6,16,0,0,0,0,0,0,14:54,1:59,0:00,37.5
-2018020410,8475324,Nick Jensen,Detroit Red Wings,D,18:48,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,18:42,0:00,0:06,NA
-2018020410,8470598,Thomas Vanek,Detroit Red Wings,LW,14:10,0,0,1,2,0,0,0,1,1,0,1,0,0,1,-1,12:30,1:40,0:00,100
-2018020410,8476822,Luke Glendening,Detroit Red Wings,C,15:12,0,0,2,2,0,0,0,12,21,1,0,0,0,0,0,15:06,0:00,0:06,57.14
-2018020410,8474722,Luke Witkowski,Detroit Red Wings,RW,4:40,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,4:40,0:00,0:00,NA
-2018020410,8477455,Jacob de la Rose,Detroit Red Wings,C,10:53,0,0,0,2,0,0,0,4,5,0,0,0,0,0,0,10:53,0:00,0:00,80
-2018020410,8476960,Andreas Athanasiou,Detroit Red Wings,C,22:22,0,0,3,3,0,0,0,0,0,0,2,0,0,0,-1,20:23,1:59,0:00,NA
-2018020410,8477479,Tyler Bertuzzi,Detroit Red Wings,LW,14:53,0,0,1,0,0,0,5,0,0,1,0,0,0,1,0,13:02,1:51,0:00,NA
-2018020410,8477215,Danny DeKeyser,Detroit Red Wings,D,20:46,0,0,0,2,0,0,0,0,0,0,1,0,0,1,0,20:40,0:00,0:06,NA
-2018020410,8477511,Anthony Mantha,Detroit Red Wings,RW,19:02,0,0,5,2,0,0,5,2,2,0,2,0,0,0,-1,17:01,2:01,0:00,100
-2018020410,8471242,Mike Green,Detroit Red Wings,D,24:06,0,0,1,3,0,0,0,0,0,1,1,0,0,0,-1,22:05,2:01,0:00,NA
-2018020410,8479992,Michael Rasmussen,Detroit Red Wings,C,13:39,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,11:30,2:09,0:00,0
-2018020410,8479395,Dennis Cholowski,Detroit Red Wings,D,17:28,0,0,1,0,0,0,0,0,0,0,2,0,0,1,-1,15:19,2:09,0:00,NA
-2018020410,8468509,Niklas Kronwall,Detroit Red Wings,D,17:57,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,17:57,0:00,0:00,NA
-2018020410,8475729,Mark Alt,Colorado Avalanche,D,10:06,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,10:06,0:00,0:00,NA
-2018020410,8473446,Erik Johnson,Colorado Avalanche,D,29:22,0,0,1,1,0,0,0,0,0,0,1,0,0,3,1,27:03,0:00,2:19,NA
-2018020410,8477507,Nikita Zadorov,Colorado Avalanche,D,19:45,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,18:04,0:00,1:41,NA
-2018020410,8474569,Colin Wilson,Colorado Avalanche,C,11:39,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,11:33,0:06,0:00,NA
-2018020410,8475747,Patrik Nemeth,Colorado Avalanche,D,17:29,0,0,1,2,0,0,5,0,0,0,0,0,0,1,0,15:32,0:00,1:57,NA
-2018020410,8476442,Matt Nieto,Colorado Avalanche,LW,13:55,0,0,4,0,0,0,2,0,0,0,0,0,0,0,0,12:26,0:00,1:29,NA
-2018020410,8477413,Sven Andrighetto,Colorado Avalanche,RW,11:35,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,11:35,0:00,0:00,NA
-2018020410,8476455,Gabriel Landeskog,Colorado Avalanche,LW,19:13,1,1,2,1,0,1,2,5,13,0,0,0,0,0,1,19:07,0:06,0:00,38.46
-2018020410,8474685,Matt Calvert,Colorado Avalanche,LW,14:20,0,0,1,1,0,0,0,1,2,0,0,0,0,0,0,13:45,0:00,0:35,50
-2018020410,8477456,J.T. Compher,Colorado Avalanche,LW,13:45,0,0,1,1,0,0,0,6,14,0,0,0,0,2,0,12:09,0:00,1:36,42.86
-2018020410,8475268,Gabriel Bourque,Colorado Avalanche,LW,12:26,0,0,0,3,0,0,0,0,0,0,0,0,0,3,0,10:32,0:00,1:54,NA
-2018020410,8477021,Alexander Kerfoot,Colorado Avalanche,C,10:57,0,0,1,0,0,0,0,3,6,0,0,0,0,0,0,10:57,0:00,0:00,50
-2018020410,8474013,Ian Cole,Colorado Avalanche,D,22:09,0,0,0,2,0,0,5,0,0,0,1,0,0,2,1,20:06,0:00,2:03,NA
-2018020410,8471262,Carl Soderberg,Colorado Avalanche,C,15:41,0,0,0,1,0,0,0,11,16,0,0,0,0,0,0,13:17,0:00,2:24,68.75
-2018020410,8479398,Samuel Girard,Colorado Avalanche,D,21:03,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,20:57,0:06,0:00,NA
-2018020410,8478420,Mikko Rantanen,Colorado Avalanche,RW,19:03,2,0,1,1,0,1,0,0,0,0,0,0,0,0,1,18:57,0:06,0:00,NA
-2018020410,8477492,Nathan MacKinnon,Colorado Avalanche,C,21:11,1,1,6,0,1,0,0,3,14,0,0,0,0,2,1,21:03,0:06,0:02,21.43
-2018020410,8479370,Tyson Jost,Colorado Avalanche,C,12:21,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,12:21,0:00,0:00,0
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020410,8470318,Jonathan Ericsson,Detroit Red Wings,Colorado Avalanche,D,12:21,0,0,2,1,0,0,2,0,0,0,1,0,0,1,0,12:21,0:00,0:00,NA
+2018020410,8471716,Justin Abdelkader,Detroit Red Wings,Colorado Avalanche,LW,16:24,0,0,1,1,0,0,0,0,0,0,0,0,0,2,0,16:24,0:00,0:00,NA
+2018020410,8474679,Gustav Nyquist,Detroit Red Wings,Colorado Avalanche,RW,20:24,0,0,1,0,0,0,0,0,0,2,1,0,0,0,0,18:04,2:20,0:00,NA
+2018020410,8477946,Dylan Larkin,Detroit Red Wings,Colorado Avalanche,C,21:31,0,0,3,3,0,0,0,12,20,0,1,0,0,0,-1,19:34,1:51,0:06,60
+2018020410,8470144,Frans Nielsen,Detroit Red Wings,Colorado Avalanche,C,16:53,0,0,1,1,0,0,0,6,16,0,0,0,0,0,0,14:54,1:59,0:00,37.5
+2018020410,8475324,Nick Jensen,Detroit Red Wings,Colorado Avalanche,D,18:48,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,18:42,0:00,0:06,NA
+2018020410,8470598,Thomas Vanek,Detroit Red Wings,Colorado Avalanche,LW,14:10,0,0,1,2,0,0,0,1,1,0,1,0,0,1,-1,12:30,1:40,0:00,100
+2018020410,8476822,Luke Glendening,Detroit Red Wings,Colorado Avalanche,C,15:12,0,0,2,2,0,0,0,12,21,1,0,0,0,0,0,15:06,0:00,0:06,57.14
+2018020410,8474722,Luke Witkowski,Detroit Red Wings,Colorado Avalanche,RW,4:40,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,4:40,0:00,0:00,NA
+2018020410,8477455,Jacob de la Rose,Detroit Red Wings,Colorado Avalanche,C,10:53,0,0,0,2,0,0,0,4,5,0,0,0,0,0,0,10:53,0:00,0:00,80
+2018020410,8476960,Andreas Athanasiou,Detroit Red Wings,Colorado Avalanche,C,22:22,0,0,3,3,0,0,0,0,0,0,2,0,0,0,-1,20:23,1:59,0:00,NA
+2018020410,8477479,Tyler Bertuzzi,Detroit Red Wings,Colorado Avalanche,LW,14:53,0,0,1,0,0,0,5,0,0,1,0,0,0,1,0,13:02,1:51,0:00,NA
+2018020410,8477215,Danny DeKeyser,Detroit Red Wings,Colorado Avalanche,D,20:46,0,0,0,2,0,0,0,0,0,0,1,0,0,1,0,20:40,0:00,0:06,NA
+2018020410,8477511,Anthony Mantha,Detroit Red Wings,Colorado Avalanche,RW,19:02,0,0,5,2,0,0,5,2,2,0,2,0,0,0,-1,17:01,2:01,0:00,100
+2018020410,8471242,Mike Green,Detroit Red Wings,Colorado Avalanche,D,24:06,0,0,1,3,0,0,0,0,0,1,1,0,0,0,-1,22:05,2:01,0:00,NA
+2018020410,8479992,Michael Rasmussen,Detroit Red Wings,Colorado Avalanche,C,13:39,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,11:30,2:09,0:00,0
+2018020410,8479395,Dennis Cholowski,Detroit Red Wings,Colorado Avalanche,D,17:28,0,0,1,0,0,0,0,0,0,0,2,0,0,1,-1,15:19,2:09,0:00,NA
+2018020410,8468509,Niklas Kronwall,Detroit Red Wings,Colorado Avalanche,D,17:57,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,17:57,0:00,0:00,NA
+2018020410,8475729,Mark Alt,Colorado Avalanche,Detroit Red Wings,D,10:06,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,10:06,0:00,0:00,NA
+2018020410,8473446,Erik Johnson,Colorado Avalanche,Detroit Red Wings,D,29:22,0,0,1,1,0,0,0,0,0,0,1,0,0,3,1,27:03,0:00,2:19,NA
+2018020410,8477507,Nikita Zadorov,Colorado Avalanche,Detroit Red Wings,D,19:45,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,18:04,0:00,1:41,NA
+2018020410,8474569,Colin Wilson,Colorado Avalanche,Detroit Red Wings,C,11:39,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,11:33,0:06,0:00,NA
+2018020410,8475747,Patrik Nemeth,Colorado Avalanche,Detroit Red Wings,D,17:29,0,0,1,2,0,0,5,0,0,0,0,0,0,1,0,15:32,0:00,1:57,NA
+2018020410,8476442,Matt Nieto,Colorado Avalanche,Detroit Red Wings,LW,13:55,0,0,4,0,0,0,2,0,0,0,0,0,0,0,0,12:26,0:00,1:29,NA
+2018020410,8477413,Sven Andrighetto,Colorado Avalanche,Detroit Red Wings,RW,11:35,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,11:35,0:00,0:00,NA
+2018020410,8476455,Gabriel Landeskog,Colorado Avalanche,Detroit Red Wings,LW,19:13,1,1,2,1,0,1,2,5,13,0,0,0,0,0,1,19:07,0:06,0:00,38.46
+2018020410,8474685,Matt Calvert,Colorado Avalanche,Detroit Red Wings,LW,14:20,0,0,1,1,0,0,0,1,2,0,0,0,0,0,0,13:45,0:00,0:35,50
+2018020410,8477456,J.T. Compher,Colorado Avalanche,Detroit Red Wings,LW,13:45,0,0,1,1,0,0,0,6,14,0,0,0,0,2,0,12:09,0:00,1:36,42.86
+2018020410,8475268,Gabriel Bourque,Colorado Avalanche,Detroit Red Wings,LW,12:26,0,0,0,3,0,0,0,0,0,0,0,0,0,3,0,10:32,0:00,1:54,NA
+2018020410,8477021,Alexander Kerfoot,Colorado Avalanche,Detroit Red Wings,C,10:57,0,0,1,0,0,0,0,3,6,0,0,0,0,0,0,10:57,0:00,0:00,50
+2018020410,8474013,Ian Cole,Colorado Avalanche,Detroit Red Wings,D,22:09,0,0,0,2,0,0,5,0,0,0,1,0,0,2,1,20:06,0:00,2:03,NA
+2018020410,8471262,Carl Soderberg,Colorado Avalanche,Detroit Red Wings,C,15:41,0,0,0,1,0,0,0,11,16,0,0,0,0,0,0,13:17,0:00,2:24,68.75
+2018020410,8479398,Samuel Girard,Colorado Avalanche,Detroit Red Wings,D,21:03,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,20:57,0:06,0:00,NA
+2018020410,8478420,Mikko Rantanen,Colorado Avalanche,Detroit Red Wings,RW,19:03,2,0,1,1,0,1,0,0,0,0,0,0,0,0,1,18:57,0:06,0:00,NA
+2018020410,8477492,Nathan MacKinnon,Colorado Avalanche,Detroit Red Wings,C,21:11,1,1,6,0,1,0,0,3,14,0,0,0,0,2,1,21:03,0:06,0:02,21.43
+2018020410,8479370,Tyson Jost,Colorado Avalanche,Detroit Red Wings,C,12:21,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,12:21,0:00,0:00,0

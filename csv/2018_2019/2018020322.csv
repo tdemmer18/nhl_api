@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020322,8471702,Matt Niskanen,Washington Capitals,D,23:47,1,0,2,1,0,1,0,0,0,2,0,0,0,7,0,20:31,0:28,2:48,NA
-2018020322,8476905,Chandler Stephenson,Washington Capitals,C,10:41,0,0,1,1,0,0,0,4,4,0,0,0,0,0,-1,8:51,0:00,1:50,100
-2018020322,8476329,Travis Boyd,Washington Capitals,C,10:04,1,0,1,0,0,0,2,6,9,0,0,0,0,0,1,9:59,0:05,0:00,66.67
-2018020322,8475758,Devante Smith-Pelly,Washington Capitals,RW,13:39,0,1,1,0,0,0,0,0,2,0,0,0,0,1,1,11:57,0:06,1:36,0
-2018020322,8476436,Dmitrij Jaskin,Washington Capitals,RW,7:30,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-1,7:30,0:00,0:00,NA
-2018020322,8471214,Alex Ovechkin,Washington Capitals,LW,22:21,1,0,2,1,0,0,2,0,0,0,2,0,0,1,1,18:38,3:43,0:00,NA
-2018020322,8477944,Jakub Vrana,Washington Capitals,LW,12:46,2,0,1,0,0,1,0,0,0,0,0,0,0,1,0,12:23,0:23,0:00,NA
-2018020322,8477444,Andre Burakovsky,Washington Capitals,LW,12:05,0,1,3,1,1,0,0,0,0,0,0,0,0,1,1,11:37,0:28,0:00,NA
-2018020322,8475200,Dmitry Orlov,Washington Capitals,D,24:00,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,20:22,0:50,2:48,NA
-2018020322,8475343,Nic Dowd,Washington Capitals,C,8:46,0,0,2,1,0,0,2,0,2,1,1,0,0,0,0,8:03,0:00,0:43,0
-2018020322,8473563,Nicklas Backstrom,Washington Capitals,C,21:58,1,0,2,0,0,0,0,9,21,0,2,0,0,0,0,17:54,3:43,0:21,42.86
-2018020322,8474590,John Carlson,Washington Capitals,D,21:56,1,0,1,0,0,0,0,0,0,1,0,0,0,3,2,17:14,3:21,1:21,NA
-2018020322,8474189,Lars Eller,Washington Capitals,C,20:29,1,0,2,0,0,0,0,8,16,1,0,0,0,1,0,15:05,3:43,1:41,50
-2018020322,8477043,Christian Djoos,Washington Capitals,D,14:08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,14:05,0:00,0:03,NA
-2018020322,8476880,Tom Wilson,Washington Capitals,RW,22:42,0,1,2,1,0,0,0,0,1,0,2,0,0,2,1,17:25,3:16,2:01,0
-2018020322,8475792,Brett Connolly,Washington Capitals,RW,14:45,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,13:43,0:50,0:12,NA
-2018020322,8477474,Madison Bowey,Washington Capitals,D,14:03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,14:00,0:00,0:03,NA
-2018020322,8479482,Michal Kempny,Washington Capitals,D,18:23,0,1,3,1,0,0,0,0,0,1,0,0,0,3,2,17:02,0:00,1:21,NA
-2018020322,8480172,Jan Rutta,Chicago Blackhawks,D,11:42,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-1,11:32,0:03,0:07,NA
-2018020322,8470607,Brent Seabrook,Chicago Blackhawks,D,25:21,0,0,9,0,0,0,0,0,0,0,0,0,0,2,0,19:38,2:28,3:15,NA
-2018020322,8476979,Erik Gustafsson,Chicago Blackhawks,D,23:24,0,1,4,0,0,0,0,0,0,1,1,0,0,0,1,20:51,1:44,0:49,NA
-2018020322,8473604,Jonathan Toews,Chicago Blackhawks,C,23:47,1,0,2,0,0,0,0,17,22,1,0,0,0,1,0,19:17,2:41,1:49,77.27
-2018020322,8476438,Brandon Saad,Chicago Blackhawks,LW,22:33,0,1,2,0,0,0,2,1,2,0,0,0,0,0,0,18:54,2:34,1:05,50
-2018020322,8479337,Alex DeBrincat,Chicago Blackhawks,LW,20:06,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,18:25,1:41,0:00,NA
-2018020322,8470281,Duncan Keith,Chicago Blackhawks,D,25:07,1,0,2,0,0,0,0,0,0,1,0,0,0,2,-2,19:24,2:28,3:15,NA
-2018020322,8479657,Alexandre Fortin,Chicago Blackhawks,LW,12:19,0,0,1,3,0,0,0,2,2,2,0,0,0,0,0,12:19,0:00,0:00,100
-2018020322,8474141,Patrick Kane,Chicago Blackhawks,RW,24:36,0,0,4,0,0,0,0,1,1,1,1,0,0,0,0,21:00,3:36,0:00,100
-2018020322,8477951,Nick Schmaltz,Chicago Blackhawks,C,15:49,1,0,3,0,0,0,0,3,6,0,1,0,0,0,0,14:26,1:23,0:00,50
-2018020322,8475323,Marcus Kruger,Chicago Blackhawks,C,6:55,0,0,1,0,0,0,0,0,1,0,0,0,0,0,-1,4:07,0:03,2:45,0
-2018020322,8477401,John Hayden,Chicago Blackhawks,RW,2:45,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,2:45,0:00,0:00,NA
-2018020322,8480946,Dominik Kahun,Chicago Blackhawks,C,13:30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13:06,0:24,0:00,NA
-2018020322,8473573,Artem Anisimov,Chicago Blackhawks,C,16:46,1,0,1,1,0,0,0,2,9,1,1,0,0,1,0,14:57,1:16,0:33,22.22
-2018020322,8478561,Andreas Martinsen,Chicago Blackhawks,LW,4:13,0,0,2,0,0,0,2,0,1,0,0,0,0,0,-1,3:58,0:15,0:00,0
-2018020322,8478055,Gustav Forsling,Chicago Blackhawks,D,15:23,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,15:16,0:00,0:07,NA
-2018020322,8480144,David Kampf,Chicago Blackhawks,C,15:12,0,0,2,0,0,0,0,2,11,1,0,0,0,1,0,12:50,0:12,2:10,18.18
-2018020322,8480035,Henri Jokiharju,Chicago Blackhawks,D,17:22,0,0,3,1,0,0,0,0,0,0,1,0,0,2,0,16:21,0:12,0:49,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020322,8471702,Matt Niskanen,Washington Capitals,Chicago Blackhawks,D,23:47,1,0,2,1,0,1,0,0,0,2,0,0,0,7,0,20:31,0:28,2:48,NA
+2018020322,8476905,Chandler Stephenson,Washington Capitals,Chicago Blackhawks,C,10:41,0,0,1,1,0,0,0,4,4,0,0,0,0,0,-1,8:51,0:00,1:50,100
+2018020322,8476329,Travis Boyd,Washington Capitals,Chicago Blackhawks,C,10:04,1,0,1,0,0,0,2,6,9,0,0,0,0,0,1,9:59,0:05,0:00,66.67
+2018020322,8475758,Devante Smith-Pelly,Washington Capitals,Chicago Blackhawks,RW,13:39,0,1,1,0,0,0,0,0,2,0,0,0,0,1,1,11:57,0:06,1:36,0
+2018020322,8476436,Dmitrij Jaskin,Washington Capitals,Chicago Blackhawks,RW,7:30,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-1,7:30,0:00,0:00,NA
+2018020322,8471214,Alex Ovechkin,Washington Capitals,Chicago Blackhawks,LW,22:21,1,0,2,1,0,0,2,0,0,0,2,0,0,1,1,18:38,3:43,0:00,NA
+2018020322,8477944,Jakub Vrana,Washington Capitals,Chicago Blackhawks,LW,12:46,2,0,1,0,0,1,0,0,0,0,0,0,0,1,0,12:23,0:23,0:00,NA
+2018020322,8477444,Andre Burakovsky,Washington Capitals,Chicago Blackhawks,LW,12:05,0,1,3,1,1,0,0,0,0,0,0,0,0,1,1,11:37,0:28,0:00,NA
+2018020322,8475200,Dmitry Orlov,Washington Capitals,Chicago Blackhawks,D,24:00,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,20:22,0:50,2:48,NA
+2018020322,8475343,Nic Dowd,Washington Capitals,Chicago Blackhawks,C,8:46,0,0,2,1,0,0,2,0,2,1,1,0,0,0,0,8:03,0:00,0:43,0
+2018020322,8473563,Nicklas Backstrom,Washington Capitals,Chicago Blackhawks,C,21:58,1,0,2,0,0,0,0,9,21,0,2,0,0,0,0,17:54,3:43,0:21,42.86
+2018020322,8474590,John Carlson,Washington Capitals,Chicago Blackhawks,D,21:56,1,0,1,0,0,0,0,0,0,1,0,0,0,3,2,17:14,3:21,1:21,NA
+2018020322,8474189,Lars Eller,Washington Capitals,Chicago Blackhawks,C,20:29,1,0,2,0,0,0,0,8,16,1,0,0,0,1,0,15:05,3:43,1:41,50
+2018020322,8477043,Christian Djoos,Washington Capitals,Chicago Blackhawks,D,14:08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,14:05,0:00,0:03,NA
+2018020322,8476880,Tom Wilson,Washington Capitals,Chicago Blackhawks,RW,22:42,0,1,2,1,0,0,0,0,1,0,2,0,0,2,1,17:25,3:16,2:01,0
+2018020322,8475792,Brett Connolly,Washington Capitals,Chicago Blackhawks,RW,14:45,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,13:43,0:50,0:12,NA
+2018020322,8477474,Madison Bowey,Washington Capitals,Chicago Blackhawks,D,14:03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,14:00,0:00,0:03,NA
+2018020322,8479482,Michal Kempny,Washington Capitals,Chicago Blackhawks,D,18:23,0,1,3,1,0,0,0,0,0,1,0,0,0,3,2,17:02,0:00,1:21,NA
+2018020322,8480172,Jan Rutta,Chicago Blackhawks,Washington Capitals,D,11:42,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-1,11:32,0:03,0:07,NA
+2018020322,8470607,Brent Seabrook,Chicago Blackhawks,Washington Capitals,D,25:21,0,0,9,0,0,0,0,0,0,0,0,0,0,2,0,19:38,2:28,3:15,NA
+2018020322,8476979,Erik Gustafsson,Chicago Blackhawks,Washington Capitals,D,23:24,0,1,4,0,0,0,0,0,0,1,1,0,0,0,1,20:51,1:44,0:49,NA
+2018020322,8473604,Jonathan Toews,Chicago Blackhawks,Washington Capitals,C,23:47,1,0,2,0,0,0,0,17,22,1,0,0,0,1,0,19:17,2:41,1:49,77.27
+2018020322,8476438,Brandon Saad,Chicago Blackhawks,Washington Capitals,LW,22:33,0,1,2,0,0,0,2,1,2,0,0,0,0,0,0,18:54,2:34,1:05,50
+2018020322,8479337,Alex DeBrincat,Chicago Blackhawks,Washington Capitals,LW,20:06,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,18:25,1:41,0:00,NA
+2018020322,8470281,Duncan Keith,Chicago Blackhawks,Washington Capitals,D,25:07,1,0,2,0,0,0,0,0,0,1,0,0,0,2,-2,19:24,2:28,3:15,NA
+2018020322,8479657,Alexandre Fortin,Chicago Blackhawks,Washington Capitals,LW,12:19,0,0,1,3,0,0,0,2,2,2,0,0,0,0,0,12:19,0:00,0:00,100
+2018020322,8474141,Patrick Kane,Chicago Blackhawks,Washington Capitals,RW,24:36,0,0,4,0,0,0,0,1,1,1,1,0,0,0,0,21:00,3:36,0:00,100
+2018020322,8477951,Nick Schmaltz,Chicago Blackhawks,Washington Capitals,C,15:49,1,0,3,0,0,0,0,3,6,0,1,0,0,0,0,14:26,1:23,0:00,50
+2018020322,8475323,Marcus Kruger,Chicago Blackhawks,Washington Capitals,C,6:55,0,0,1,0,0,0,0,0,1,0,0,0,0,0,-1,4:07,0:03,2:45,0
+2018020322,8477401,John Hayden,Chicago Blackhawks,Washington Capitals,RW,2:45,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,2:45,0:00,0:00,NA
+2018020322,8480946,Dominik Kahun,Chicago Blackhawks,Washington Capitals,C,13:30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13:06,0:24,0:00,NA
+2018020322,8473573,Artem Anisimov,Chicago Blackhawks,Washington Capitals,C,16:46,1,0,1,1,0,0,0,2,9,1,1,0,0,1,0,14:57,1:16,0:33,22.22
+2018020322,8478561,Andreas Martinsen,Chicago Blackhawks,Washington Capitals,LW,4:13,0,0,2,0,0,0,2,0,1,0,0,0,0,0,-1,3:58,0:15,0:00,0
+2018020322,8478055,Gustav Forsling,Chicago Blackhawks,Washington Capitals,D,15:23,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,15:16,0:00,0:07,NA
+2018020322,8480144,David Kampf,Chicago Blackhawks,Washington Capitals,C,15:12,0,0,2,0,0,0,0,2,11,1,0,0,0,1,0,12:50,0:12,2:10,18.18
+2018020322,8480035,Henri Jokiharju,Chicago Blackhawks,Washington Capitals,D,17:22,0,0,3,1,0,0,0,0,0,0,1,0,0,2,0,16:21,0:12,0:49,NA

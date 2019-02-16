@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
-2018020059,8471768,Tom Pyatt,Ottawa Senators,LW,16:08,0,0,0,1,0,0,0,100,1,1,0,0,0,0,3,0,12:48,0:00,3:20
-2018020059,8476919,Chris Tierney,Ottawa Senators,C,19:27,0,1,1,0,0,0,0,63.16,12,19,1,0,0,0,0,1,15:29,1:08,2:50
-2018020059,8475913,Mark Stone,Ottawa Senators,RW,16:52,0,1,1,0,1,0,2,NA,0,0,3,0,0,0,3,4,14:48,0:41,1:23
-2018020059,8474697,Mark Borowiecki,Ottawa Senators,D,19:47,0,0,1,4,0,0,2,NA,0,0,0,1,0,0,1,0,16:58,0:00,2:49
-2018020059,8475227,Chris Wideman,Ottawa Senators,D,8:14,0,2,2,0,0,0,0,NA,0,0,0,1,0,0,2,1,7:06,1:08,0:00
-2018020059,8471676,Bobby Ryan,Ottawa Senators,RW,14:50,0,0,2,0,0,0,0,NA,0,0,1,0,0,0,2,0,14:10,0:40,0:00
-2018020059,8474008,Paul Carey,Ottawa Senators,C,10:11,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,0,10:11,0:00,0:00
-2018020059,8478868,Christian Jaros,Ottawa Senators,D,11:10,1,0,0,3,0,0,0,NA,0,0,1,1,0,0,2,1,10:10,0:00,1:00
-2018020059,8477433,Ben Harpur,Ottawa Senators,D,22:37,0,0,1,3,0,0,0,NA,0,0,0,1,0,0,1,1,17:48,0:00,4:49
-2018020059,8478400,Colin White,Ottawa Senators,C,15:06,0,1,1,0,0,0,2,75,3,4,1,0,0,0,1,0,14:01,0:40,0:25
-2018020059,8480801,Brady Tkachuk,Ottawa Senators,LW,14:19,2,0,1,2,0,0,0,0,0,1,2,0,0,0,0,4,13:11,1:08,0:00
-2018020059,8474250,Zack Smith,Ottawa Senators,LW,17:26,0,0,1,0,0,0,0,50,8,16,1,0,0,0,2,1,12:52,0:00,4:34
-2018020059,8478469,Thomas Chabot,Ottawa Senators,D,19:40,2,0,1,3,0,1,2,NA,0,0,0,0,0,0,0,1,19:00,0:40,0:00
-2018020059,8475168,Matt Duchene,Ottawa Senators,C,16:37,2,0,2,0,0,1,0,42.86,6,14,2,0,0,0,0,0,14:58,0:40,0:59
-2018020059,8475175,Magnus Paajarvi,Ottawa Senators,LW,14:32,0,0,3,1,0,0,0,NA,0,0,0,0,0,0,2,0,11:54,0:00,2:38
-2018020059,8479320,Maxime Lajoie,Ottawa Senators,D,18:42,1,0,3,0,0,0,0,NA,0,0,0,0,0,0,3,1,13:54,1:08,3:40
-2018020059,8476331,Dylan DeMelo,Ottawa Senators,D,20:30,1,0,1,1,0,0,2,NA,0,0,0,0,0,0,5,1,16:08,0:00,4:22
-2018020059,8474571,Mikkel Boedker,Ottawa Senators,LW,16:26,1,0,0,1,0,0,0,NA,0,0,0,1,0,0,0,0,14:48,1:07,0:31
-2018020059,8470604,Jeff Carter,Los Angeles Kings,C,17:53,0,0,5,0,0,0,0,50,5,10,0,0,0,0,1,-2,12:24,4:50,0:39
-2018020059,8470602,Dion Phaneuf,Los Angeles Kings,D,19:04,0,0,2,2,0,0,0,NA,0,0,1,0,0,0,1,-1,14:45,3:07,1:12
-2018020059,8471685,Anze Kopitar,Los Angeles Kings,C,21:18,0,0,2,1,0,0,0,52.17,12,23,0,2,0,0,1,-1,15:59,4:50,0:29
-2018020059,8475726,Tyler Toffoli,Los Angeles Kings,RW,20:38,0,0,2,1,0,0,0,NA,0,0,0,1,0,0,0,0,14:38,5:24,0:36
-2018020059,8470775,Nate Thompson,Los Angeles Kings,C,9:58,0,0,1,0,0,0,0,60,3,5,0,0,0,0,1,-1,9:05,0:13,0:40
-2018020059,8476871,Tanner Pearson,Los Angeles Kings,LW,14:32,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,11:29,3:03,0:00
-2018020059,8477960,Adrian Kempe,Los Angeles Kings,C,12:54,0,0,5,1,0,0,0,30,3,10,0,0,0,0,0,0,12:41,0:13,0:00
-2018020059,8476983,Paul LaDue,Los Angeles Kings,D,14:22,0,0,0,3,0,0,0,NA,0,0,0,0,0,0,0,-2,14:09,0:13,0:00
-2018020059,8474162,Jake Muzzin,Los Angeles Kings,D,20:13,1,0,2,1,0,0,0,NA,0,0,3,1,0,0,1,-1,19:24,0:13,0:36
-2018020059,8474563,Drew Doughty,Los Angeles Kings,D,27:00,1,0,2,1,0,0,0,NA,0,0,1,0,0,0,1,1,20:45,5:39,0:36
-2018020059,8475762,Derek Forbort,Los Angeles Kings,D,15:36,0,0,1,0,0,0,2,NA,0,0,0,2,0,0,1,-1,15:36,0:00,0:00
-2018020059,8473453,Trevor Lewis,Los Angeles Kings,C,12:26,0,1,3,0,0,0,0,0,0,1,2,0,0,0,0,0,11:33,0:13,0:40
-2018020059,8479994,Jaret Anderson-Dolan,Los Angeles Kings,C,17:57,0,0,4,2,0,0,0,100,1,1,1,1,0,0,0,-2,13:07,4:50,0:00
-2018020059,8474166,Alec Martinez,Los Angeles Kings,D,18:38,0,0,0,4,0,0,0,NA,0,0,1,4,0,0,2,-2,14:58,2:28,1:12
-2018020059,8469454,Ilya Kovalchuk,Los Angeles Kings,LW,14:34,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,-1,11:41,2:53,0:00
-2018020059,8475160,Kyle Clifford,Los Angeles Kings,LW,9:57,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,0,1,9:43,0:14,0:00
-2018020059,8478020,Michael Amadio,Los Angeles Kings,C,16:43,0,0,2,0,0,0,0,33.33,1,3,3,0,0,0,0,-2,13:26,3:17,0:00
-2018020059,8480113,Alex Iafallo,Los Angeles Kings,LW,14:29,0,0,3,1,0,0,0,NA,0,0,1,2,0,0,0,-1,13:57,0:00,0:32
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020059,8471768,Tom Pyatt,Ottawa Senators,Los Angeles Kings,LW,16:08,0,0,0,1,0,0,0,100,1,1,0,0,0,0,3,0,12:48,0:00,3:20
+2018020059,8476919,Chris Tierney,Ottawa Senators,Los Angeles Kings,C,19:27,0,1,1,0,0,0,0,63.16,12,19,1,0,0,0,0,1,15:29,1:08,2:50
+2018020059,8475913,Mark Stone,Ottawa Senators,Los Angeles Kings,RW,16:52,0,1,1,0,1,0,2,NA,0,0,3,0,0,0,3,4,14:48,0:41,1:23
+2018020059,8474697,Mark Borowiecki,Ottawa Senators,Los Angeles Kings,D,19:47,0,0,1,4,0,0,2,NA,0,0,0,1,0,0,1,0,16:58,0:00,2:49
+2018020059,8475227,Chris Wideman,Ottawa Senators,Los Angeles Kings,D,8:14,0,2,2,0,0,0,0,NA,0,0,0,1,0,0,2,1,7:06,1:08,0:00
+2018020059,8471676,Bobby Ryan,Ottawa Senators,Los Angeles Kings,RW,14:50,0,0,2,0,0,0,0,NA,0,0,1,0,0,0,2,0,14:10,0:40,0:00
+2018020059,8474008,Paul Carey,Ottawa Senators,Los Angeles Kings,C,10:11,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,0,10:11,0:00,0:00
+2018020059,8478868,Christian Jaros,Ottawa Senators,Los Angeles Kings,D,11:10,1,0,0,3,0,0,0,NA,0,0,1,1,0,0,2,1,10:10,0:00,1:00
+2018020059,8477433,Ben Harpur,Ottawa Senators,Los Angeles Kings,D,22:37,0,0,1,3,0,0,0,NA,0,0,0,1,0,0,1,1,17:48,0:00,4:49
+2018020059,8478400,Colin White,Ottawa Senators,Los Angeles Kings,C,15:06,0,1,1,0,0,0,2,75,3,4,1,0,0,0,1,0,14:01,0:40,0:25
+2018020059,8480801,Brady Tkachuk,Ottawa Senators,Los Angeles Kings,LW,14:19,2,0,1,2,0,0,0,0,0,1,2,0,0,0,0,4,13:11,1:08,0:00
+2018020059,8474250,Zack Smith,Ottawa Senators,Los Angeles Kings,LW,17:26,0,0,1,0,0,0,0,50,8,16,1,0,0,0,2,1,12:52,0:00,4:34
+2018020059,8478469,Thomas Chabot,Ottawa Senators,Los Angeles Kings,D,19:40,2,0,1,3,0,1,2,NA,0,0,0,0,0,0,0,1,19:00,0:40,0:00
+2018020059,8475168,Matt Duchene,Ottawa Senators,Los Angeles Kings,C,16:37,2,0,2,0,0,1,0,42.86,6,14,2,0,0,0,0,0,14:58,0:40,0:59
+2018020059,8475175,Magnus Paajarvi,Ottawa Senators,Los Angeles Kings,LW,14:32,0,0,3,1,0,0,0,NA,0,0,0,0,0,0,2,0,11:54,0:00,2:38
+2018020059,8479320,Maxime Lajoie,Ottawa Senators,Los Angeles Kings,D,18:42,1,0,3,0,0,0,0,NA,0,0,0,0,0,0,3,1,13:54,1:08,3:40
+2018020059,8476331,Dylan DeMelo,Ottawa Senators,Los Angeles Kings,D,20:30,1,0,1,1,0,0,2,NA,0,0,0,0,0,0,5,1,16:08,0:00,4:22
+2018020059,8474571,Mikkel Boedker,Ottawa Senators,Los Angeles Kings,LW,16:26,1,0,0,1,0,0,0,NA,0,0,0,1,0,0,0,0,14:48,1:07,0:31
+2018020059,8470604,Jeff Carter,Los Angeles Kings,Ottawa Senators,C,17:53,0,0,5,0,0,0,0,50,5,10,0,0,0,0,1,-2,12:24,4:50,0:39
+2018020059,8470602,Dion Phaneuf,Los Angeles Kings,Ottawa Senators,D,19:04,0,0,2,2,0,0,0,NA,0,0,1,0,0,0,1,-1,14:45,3:07,1:12
+2018020059,8471685,Anze Kopitar,Los Angeles Kings,Ottawa Senators,C,21:18,0,0,2,1,0,0,0,52.17,12,23,0,2,0,0,1,-1,15:59,4:50,0:29
+2018020059,8475726,Tyler Toffoli,Los Angeles Kings,Ottawa Senators,RW,20:38,0,0,2,1,0,0,0,NA,0,0,0,1,0,0,0,0,14:38,5:24,0:36
+2018020059,8470775,Nate Thompson,Los Angeles Kings,Ottawa Senators,C,9:58,0,0,1,0,0,0,0,60,3,5,0,0,0,0,1,-1,9:05,0:13,0:40
+2018020059,8476871,Tanner Pearson,Los Angeles Kings,Ottawa Senators,LW,14:32,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,11:29,3:03,0:00
+2018020059,8477960,Adrian Kempe,Los Angeles Kings,Ottawa Senators,C,12:54,0,0,5,1,0,0,0,30,3,10,0,0,0,0,0,0,12:41,0:13,0:00
+2018020059,8476983,Paul LaDue,Los Angeles Kings,Ottawa Senators,D,14:22,0,0,0,3,0,0,0,NA,0,0,0,0,0,0,0,-2,14:09,0:13,0:00
+2018020059,8474162,Jake Muzzin,Los Angeles Kings,Ottawa Senators,D,20:13,1,0,2,1,0,0,0,NA,0,0,3,1,0,0,1,-1,19:24,0:13,0:36
+2018020059,8474563,Drew Doughty,Los Angeles Kings,Ottawa Senators,D,27:00,1,0,2,1,0,0,0,NA,0,0,1,0,0,0,1,1,20:45,5:39,0:36
+2018020059,8475762,Derek Forbort,Los Angeles Kings,Ottawa Senators,D,15:36,0,0,1,0,0,0,2,NA,0,0,0,2,0,0,1,-1,15:36,0:00,0:00
+2018020059,8473453,Trevor Lewis,Los Angeles Kings,Ottawa Senators,C,12:26,0,1,3,0,0,0,0,0,0,1,2,0,0,0,0,0,11:33,0:13,0:40
+2018020059,8479994,Jaret Anderson-Dolan,Los Angeles Kings,Ottawa Senators,C,17:57,0,0,4,2,0,0,0,100,1,1,1,1,0,0,0,-2,13:07,4:50,0:00
+2018020059,8474166,Alec Martinez,Los Angeles Kings,Ottawa Senators,D,18:38,0,0,0,4,0,0,0,NA,0,0,1,4,0,0,2,-2,14:58,2:28,1:12
+2018020059,8469454,Ilya Kovalchuk,Los Angeles Kings,Ottawa Senators,LW,14:34,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,-1,11:41,2:53,0:00
+2018020059,8475160,Kyle Clifford,Los Angeles Kings,Ottawa Senators,LW,9:57,0,0,1,4,0,0,0,NA,0,0,0,0,0,0,0,1,9:43,0:14,0:00
+2018020059,8478020,Michael Amadio,Los Angeles Kings,Ottawa Senators,C,16:43,0,0,2,0,0,0,0,33.33,1,3,3,0,0,0,0,-2,13:26,3:17,0:00
+2018020059,8480113,Alex Iafallo,Los Angeles Kings,Ottawa Senators,LW,14:29,0,0,3,1,0,0,0,NA,0,0,1,2,0,0,0,-1,13:57,0:00,0:32

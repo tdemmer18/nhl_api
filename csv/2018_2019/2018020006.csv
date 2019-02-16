@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020006,8476918,Jimmy Vesey,New York Rangers,LW,16:40,0,0,4,1,0,0,0,0,0,0,2,0,0,1,0,15:16,0:51,0:33,NA
-2018020006,8471717,Adam McQuaid,New York Rangers,D,19:21,0,0,1,2,0,0,0,0,0,0,0,0,0,2,1,18:36,0:00,0:45,NA
-2018020006,8471686,Marc Staal,New York Rangers,D,18:06,0,0,3,1,0,0,0,0,0,0,1,0,0,2,0,16:53,0:00,1:13,NA
-2018020006,8476869,Brady Skjei,New York Rangers,D,20:20,0,0,1,2,0,0,0,0,0,1,1,0,0,2,0,19:30,0:05,0:45,NA
-2018020006,8475727,Ryan Spooner,New York Rangers,C,12:59,0,0,3,1,0,0,0,1,3,2,0,0,0,1,0,12:11,0:46,0:02,33.33
-2018020006,8479968,Vinni Lettieri,New York Rangers,C,10:45,0,0,1,3,0,0,2,0,0,0,0,0,0,0,-2,10:38,0:05,0:02,NA
-2018020006,8476459,Mika Zibanejad,New York Rangers,C,18:33,1,0,2,3,0,0,0,12,23,1,0,0,0,0,0,16:55,1:09,0:29,52.17
-2018020006,8475855,Jesper Fast,New York Rangers,RW,14:18,0,1,3,2,0,0,0,0,2,0,0,0,0,1,1,13:22,0:00,0:56,0
-2018020006,8474031,Kevin Shattenkirk,New York Rangers,D,20:41,0,0,7,1,0,0,0,0,0,1,1,0,0,4,-1,19:30,1:09,0:02,NA
-2018020006,8477402,Pavel Buchnevich,New York Rangers,RW,17:11,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,16:02,1:09,0:00,NA
-2018020006,8475763,Kevin Hayes,New York Rangers,C,17:36,0,0,1,4,0,0,0,7,13,0,0,0,0,0,0,15:44,0:51,1:01,53.85
-2018020006,8475184,Chris Kreider,New York Rangers,LW,18:20,0,0,1,1,0,0,2,0,1,1,2,0,0,1,0,17:11,1:09,0:00,0
-2018020006,8479353,Brett Howden,New York Rangers,C,10:36,0,0,1,0,0,0,0,6,8,0,1,0,0,0,-2,10:36,0:00,0:00,75
-2018020006,8475692,Mats Zuccarello,New York Rangers,RW,19:56,1,0,4,1,0,0,0,1,3,1,0,0,0,1,0,18:18,1:09,0:29,33.33
-2018020006,8474090,Brendan Smith,New York Rangers,D,18:18,0,0,0,1,0,0,0,0,0,0,0,0,0,4,-1,18:16,0:00,0:02,NA
-2018020006,8480078,Filip Chytil,New York Rangers,C,12:41,1,0,0,0,0,0,0,2,8,1,1,0,0,0,1,11:55,0:46,0:00,25
-2018020006,8476480,Vladislav Namestnikov,New York Rangers,C,9:35,0,0,1,1,0,0,0,0,0,0,1,0,0,0,-1,9:07,0:00,0:28,NA
-2018020006,8480145,Neal Pionk,New York Rangers,D,19:48,0,0,1,0,0,0,0,0,0,2,0,0,0,1,-1,17:44,0:51,1:13,NA
-2018020006,8475218,Mattias Ekholm,Nashville Predators,D,22:57,2,0,1,1,0,0,0,0,0,1,1,0,0,1,2,21:52,0:03,1:02,NA
-2018020006,8475714,Calle Jarnkrok,Nashville Predators,C,16:00,0,0,2,2,0,0,0,0,0,0,1,0,0,0,-1,15:11,0:03,0:46,NA
-2018020006,8476925,Colton Sissons,Nashville Predators,C,13:48,1,1,1,3,0,0,0,4,10,1,0,0,0,0,2,12:31,0:03,1:14,40
-2018020006,8474736,Zac Rinaldo,Nashville Predators,C,7:46,0,0,2,2,0,0,2,0,0,1,1,0,0,0,1,7:46,0:00,0:00,NA
-2018020006,8475225,Craig Smith,Nashville Predators,RW,14:56,1,0,6,1,0,0,0,2,3,0,1,0,0,1,1,13:48,1:03,0:05,66.67
-2018020006,8476887,Filip Forsberg,Nashville Predators,LW,18:28,0,1,4,0,0,0,0,0,0,1,0,0,0,1,0,16:47,1:03,0:38,NA
-2018020006,8476447,Miikka Salomaki,Nashville Predators,RW,9:17,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1,9:17,0:00,0:00,0
-2018020006,8477942,Kevin Fiala,Nashville Predators,LW,14:09,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,13:10,0:54,0:05,NA
-2018020006,8474009,Nick Bonino,Nashville Predators,C,15:00,0,0,1,0,0,0,0,9,16,0,1,0,0,0,0,13:35,0:54,0:31,56.25
-2018020006,8474600,Roman Josi,Nashville Predators,D,23:03,0,0,2,1,0,0,0,0,0,1,0,0,0,0,-1,21:11,0:54,0:58,NA
-2018020006,8475793,Ryan Johansen,Nashville Predators,C,17:12,0,0,2,2,0,0,0,10,19,1,1,0,0,1,-1,15:28,1:03,0:41,52.63
-2018020006,8477451,Ryan Hartman,Nashville Predators,RW,15:13,0,0,1,1,0,0,0,0,0,1,1,0,0,0,-1,15:10,0:03,0:00,NA
-2018020006,8474134,Yannick Weber,Nashville Predators,D,13:32,0,0,3,1,0,0,0,0,0,1,0,0,0,1,0,13:32,0:00,0:00,NA
-2018020006,8474068,Kyle Turris,Nashville Predators,C,16:05,1,0,2,0,0,0,2,7,12,1,0,0,0,1,1,15:11,0:54,0:00,58.33
-2018020006,8474056,P.K. Subban,Nashville Predators,D,22:39,0,1,4,3,0,0,2,0,0,2,1,0,0,2,1,20:31,1:06,1:02,NA
-2018020006,8475176,Ryan Ellis,Nashville Predators,D,22:42,1,0,0,2,0,0,0,0,0,1,1,0,0,3,1,20:50,0:54,0:58,NA
-2018020006,8469465,Dan Hamhuis,Nashville Predators,D,14:04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,14:04,0:00,0:00,NA
-2018020006,8478042,Viktor Arvidsson,Nashville Predators,LW,17:39,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,16:36,1:03,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020006,8476918,Jimmy Vesey,New York Rangers,Nashville Predators,LW,16:40,0,0,4,1,0,0,0,0,0,0,2,0,0,1,0,15:16,0:51,0:33,NA
+2018020006,8471717,Adam McQuaid,New York Rangers,Nashville Predators,D,19:21,0,0,1,2,0,0,0,0,0,0,0,0,0,2,1,18:36,0:00,0:45,NA
+2018020006,8471686,Marc Staal,New York Rangers,Nashville Predators,D,18:06,0,0,3,1,0,0,0,0,0,0,1,0,0,2,0,16:53,0:00,1:13,NA
+2018020006,8476869,Brady Skjei,New York Rangers,Nashville Predators,D,20:20,0,0,1,2,0,0,0,0,0,1,1,0,0,2,0,19:30,0:05,0:45,NA
+2018020006,8475727,Ryan Spooner,New York Rangers,Nashville Predators,C,12:59,0,0,3,1,0,0,0,1,3,2,0,0,0,1,0,12:11,0:46,0:02,33.33
+2018020006,8479968,Vinni Lettieri,New York Rangers,Nashville Predators,C,10:45,0,0,1,3,0,0,2,0,0,0,0,0,0,0,-2,10:38,0:05,0:02,NA
+2018020006,8476459,Mika Zibanejad,New York Rangers,Nashville Predators,C,18:33,1,0,2,3,0,0,0,12,23,1,0,0,0,0,0,16:55,1:09,0:29,52.17
+2018020006,8475855,Jesper Fast,New York Rangers,Nashville Predators,RW,14:18,0,1,3,2,0,0,0,0,2,0,0,0,0,1,1,13:22,0:00,0:56,0
+2018020006,8474031,Kevin Shattenkirk,New York Rangers,Nashville Predators,D,20:41,0,0,7,1,0,0,0,0,0,1,1,0,0,4,-1,19:30,1:09,0:02,NA
+2018020006,8477402,Pavel Buchnevich,New York Rangers,Nashville Predators,RW,17:11,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,16:02,1:09,0:00,NA
+2018020006,8475763,Kevin Hayes,New York Rangers,Nashville Predators,C,17:36,0,0,1,4,0,0,0,7,13,0,0,0,0,0,0,15:44,0:51,1:01,53.85
+2018020006,8475184,Chris Kreider,New York Rangers,Nashville Predators,LW,18:20,0,0,1,1,0,0,2,0,1,1,2,0,0,1,0,17:11,1:09,0:00,0
+2018020006,8479353,Brett Howden,New York Rangers,Nashville Predators,C,10:36,0,0,1,0,0,0,0,6,8,0,1,0,0,0,-2,10:36,0:00,0:00,75
+2018020006,8475692,Mats Zuccarello,New York Rangers,Nashville Predators,RW,19:56,1,0,4,1,0,0,0,1,3,1,0,0,0,1,0,18:18,1:09,0:29,33.33
+2018020006,8474090,Brendan Smith,New York Rangers,Nashville Predators,D,18:18,0,0,0,1,0,0,0,0,0,0,0,0,0,4,-1,18:16,0:00,0:02,NA
+2018020006,8480078,Filip Chytil,New York Rangers,Nashville Predators,C,12:41,1,0,0,0,0,0,0,2,8,1,1,0,0,0,1,11:55,0:46,0:00,25
+2018020006,8476480,Vladislav Namestnikov,New York Rangers,Nashville Predators,C,9:35,0,0,1,1,0,0,0,0,0,0,1,0,0,0,-1,9:07,0:00,0:28,NA
+2018020006,8480145,Neal Pionk,New York Rangers,Nashville Predators,D,19:48,0,0,1,0,0,0,0,0,0,2,0,0,0,1,-1,17:44,0:51,1:13,NA
+2018020006,8475218,Mattias Ekholm,Nashville Predators,New York Rangers,D,22:57,2,0,1,1,0,0,0,0,0,1,1,0,0,1,2,21:52,0:03,1:02,NA
+2018020006,8475714,Calle Jarnkrok,Nashville Predators,New York Rangers,C,16:00,0,0,2,2,0,0,0,0,0,0,1,0,0,0,-1,15:11,0:03,0:46,NA
+2018020006,8476925,Colton Sissons,Nashville Predators,New York Rangers,C,13:48,1,1,1,3,0,0,0,4,10,1,0,0,0,0,2,12:31,0:03,1:14,40
+2018020006,8474736,Zac Rinaldo,Nashville Predators,New York Rangers,C,7:46,0,0,2,2,0,0,2,0,0,1,1,0,0,0,1,7:46,0:00,0:00,NA
+2018020006,8475225,Craig Smith,Nashville Predators,New York Rangers,RW,14:56,1,0,6,1,0,0,0,2,3,0,1,0,0,1,1,13:48,1:03,0:05,66.67
+2018020006,8476887,Filip Forsberg,Nashville Predators,New York Rangers,LW,18:28,0,1,4,0,0,0,0,0,0,1,0,0,0,1,0,16:47,1:03,0:38,NA
+2018020006,8476447,Miikka Salomaki,Nashville Predators,New York Rangers,RW,9:17,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1,9:17,0:00,0:00,0
+2018020006,8477942,Kevin Fiala,Nashville Predators,New York Rangers,LW,14:09,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,13:10,0:54,0:05,NA
+2018020006,8474009,Nick Bonino,Nashville Predators,New York Rangers,C,15:00,0,0,1,0,0,0,0,9,16,0,1,0,0,0,0,13:35,0:54,0:31,56.25
+2018020006,8474600,Roman Josi,Nashville Predators,New York Rangers,D,23:03,0,0,2,1,0,0,0,0,0,1,0,0,0,0,-1,21:11,0:54,0:58,NA
+2018020006,8475793,Ryan Johansen,Nashville Predators,New York Rangers,C,17:12,0,0,2,2,0,0,0,10,19,1,1,0,0,1,-1,15:28,1:03,0:41,52.63
+2018020006,8477451,Ryan Hartman,Nashville Predators,New York Rangers,RW,15:13,0,0,1,1,0,0,0,0,0,1,1,0,0,0,-1,15:10,0:03,0:00,NA
+2018020006,8474134,Yannick Weber,Nashville Predators,New York Rangers,D,13:32,0,0,3,1,0,0,0,0,0,1,0,0,0,1,0,13:32,0:00,0:00,NA
+2018020006,8474068,Kyle Turris,Nashville Predators,New York Rangers,C,16:05,1,0,2,0,0,0,2,7,12,1,0,0,0,1,1,15:11,0:54,0:00,58.33
+2018020006,8474056,P.K. Subban,Nashville Predators,New York Rangers,D,22:39,0,1,4,3,0,0,2,0,0,2,1,0,0,2,1,20:31,1:06,1:02,NA
+2018020006,8475176,Ryan Ellis,Nashville Predators,New York Rangers,D,22:42,1,0,0,2,0,0,0,0,0,1,1,0,0,3,1,20:50,0:54,0:58,NA
+2018020006,8469465,Dan Hamhuis,Nashville Predators,New York Rangers,D,14:04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,14:04,0:00,0:00,NA
+2018020006,8478042,Viktor Arvidsson,Nashville Predators,New York Rangers,LW,17:39,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,16:36,1:03,0:00,NA

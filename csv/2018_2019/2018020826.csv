@@ -1,37 +1,37 @@
-game_id,id,playerName,team,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
-2018020826,8476906,Shayne Gostisbehere,Philadelphia Flyers,D,22:07,1,0,3,2,0,0,0,0,0,1,1,0,0,0,-1,19:11,2:56,0:00,NA
-2018020826,8473512,Claude Giroux,Philadelphia Flyers,C,26:41,2,0,2,0,0,0,0,11,22,0,0,0,0,0,2,22:52,3:49,0:00,50
-2018020826,8477948,Travis Sanheim,Philadelphia Flyers,D,23:01,0,0,1,0,0,0,0,0,0,0,2,0,0,2,1,22:50,0:11,0:00,NA
-2018020826,8474037,James van Riemsdyk,Philadelphia Flyers,LW,20:26,0,0,3,0,0,0,0,0,0,0,1,0,0,0,1,17:59,2:27,0:00,NA
-2018020826,8478844,Mikhail Vorobyev,Philadelphia Flyers,C,5:51,0,0,0,0,0,0,0,2,4,0,0,0,0,0,-1,5:51,0:00,0:00,50
-2018020826,8478439,Travis Konecny,Philadelphia Flyers,RW,17:45,0,0,0,0,0,0,0,0,1,1,3,0,0,1,0,17:45,0:00,0:00,0
-2018020826,8478500,Ivan Provorov,Philadelphia Flyers,D,28:02,1,0,5,1,0,0,0,0,0,0,2,0,0,1,1,26:58,1:04,0:00,NA
-2018020826,8476872,Scott Laughton,Philadelphia Flyers,C,14:34,0,0,1,5,0,0,0,3,5,0,0,0,0,0,-2,14:34,0:00,0:00,60
-2018020826,8475321,Phil Varone,Philadelphia Flyers,C,7:12,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,7:12,0:00,0:00,100
-2018020826,8479974,Nolan Patrick,Philadelphia Flyers,C,15:49,0,0,2,2,0,0,0,2,6,2,1,0,0,0,-1,14:45,1:04,0:00,33.33
-2018020826,8474161,Jakub Voracek,Philadelphia Flyers,RW,24:01,0,1,3,0,0,0,0,0,0,0,1,0,0,0,2,21:05,2:56,0:00,NA
-2018020826,8477462,Robert Hagg,Philadelphia Flyers,D,14:29,0,0,1,2,0,0,0,0,0,0,0,0,0,2,0,14:29,0:00,0:00,NA
-2018020826,8478067,Oskar Lindblom,Philadelphia Flyers,LW,15:45,0,0,3,1,0,0,0,0,0,0,0,0,0,1,0,14:12,1:33,0:00,NA
-2018020826,8476461,Sean Couturier,Philadelphia Flyers,C,24:19,0,1,3,0,0,0,0,10,19,0,1,0,0,0,2,22:46,1:33,0:00,52.63
-2018020826,8473584,Andrew MacDonald,Philadelphia Flyers,D,14:23,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,14:23,0:00,0:00,NA
-2018020826,8475462,Radko Gudas,Philadelphia Flyers,D,17:29,0,0,0,7,0,0,0,0,0,0,1,0,0,3,-1,17:29,0:00,0:00,NA
-2018020826,8477290,Michael Raffl,Philadelphia Flyers,LW,7:31,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,7:31,0:00,0:00,0
-2018020826,8474190,Wayne Simmonds,Philadelphia Flyers,RW,17:14,0,0,3,2,0,0,0,0,0,0,1,0,0,0,-1,14:47,2:27,0:00,NA
-2018020826,8470606,Dustin Brown,Los Angeles Kings,RW,20:25,0,0,4,1,0,0,0,0,0,0,0,0,0,1,-2,18:48,0:00,1:37,NA
-2018020826,8471685,Anze Kopitar,Los Angeles Kings,C,22:38,0,0,1,0,0,0,0,12,25,1,1,0,0,0,-2,20:11,0:00,2:27,48
-2018020826,8475726,Tyler Toffoli,Los Angeles Kings,RW,14:04,1,0,3,0,0,0,0,0,1,1,0,0,0,0,1,12:27,0:00,1:37,0
-2018020826,8470775,Nate Thompson,Los Angeles Kings,C,12:47,0,0,1,1,0,0,0,7,12,0,0,0,0,0,0,11:39,0:00,1:08,58.33
-2018020826,8477960,Adrian Kempe,Los Angeles Kings,C,15:48,0,1,3,0,0,0,0,7,11,1,0,0,0,0,1,15:23,0:00,0:25,63.64
-2018020826,8476894,Brendan Leipsic,Los Angeles Kings,LW,12:01,1,0,2,0,0,0,0,0,0,1,0,0,0,0,1,12:01,0:00,0:00,NA
-2018020826,8478455,Austin Wagner,Los Angeles Kings,LW,12:34,0,1,5,4,0,0,0,0,0,0,0,0,0,0,1,12:34,0:00,0:00,NA
-2018020826,8476983,Paul LaDue,Los Angeles Kings,D,15:34,0,0,1,4,0,0,0,0,0,0,0,0,0,1,0,15:34,0:00,0:00,NA
-2018020826,8474563,Drew Doughty,Los Angeles Kings,D,30:10,0,0,3,2,0,0,0,0,0,0,1,0,0,2,-1,27:24,0:00,2:46,NA
-2018020826,8475762,Derek Forbort,Los Angeles Kings,D,23:32,0,0,1,4,0,0,0,0,0,1,1,0,0,3,-2,21:00,0:00,2:32,NA
-2018020826,8474166,Alec Martinez,Los Angeles Kings,D,19:58,0,0,1,1,0,0,0,0,0,0,1,0,0,2,1,18:44,0:00,1:14,NA
-2018020826,8474176,Carl Hagelin,Los Angeles Kings,LW,15:10,0,0,2,0,0,0,0,0,1,0,0,0,0,1,0,14:24,0:00,0:46,0
-2018020826,8469454,Ilya Kovalchuk,Los Angeles Kings,LW,16:59,0,0,4,0,0,0,0,0,1,0,1,0,0,1,0,16:59,0:00,0:00,0
-2018020826,8475160,Kyle Clifford,Los Angeles Kings,LW,12:11,1,0,3,1,0,0,2,0,0,0,0,0,0,3,1,12:11,0:00,0:00,NA
-2018020826,8478020,Michael Amadio,Los Angeles Kings,C,14:18,0,0,0,0,0,0,0,3,8,0,1,0,0,0,1,14:18,0:00,0:00,37.5
-2018020826,8480113,Alex Iafallo,Los Angeles Kings,LW,17:05,0,0,3,0,0,0,2,1,1,0,0,0,0,0,-2,17:05,0:00,0:00,100
-2018020826,8480147,Oscar Fantenberg,Los Angeles Kings,D,19:42,0,0,1,3,0,0,0,0,0,0,0,0,0,2,0,18:14,0:00,1:28,NA
-2018020826,8480336,Sean Walker,Los Angeles Kings,D,16:04,1,0,1,2,0,0,0,0,0,1,0,0,0,0,2,16:04,0:00,0:00,NA
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020826,8476906,Shayne Gostisbehere,Philadelphia Flyers,Los Angeles Kings,D,22:07,1,0,3,2,0,0,0,0,0,1,1,0,0,0,-1,19:11,2:56,0:00,NA
+2018020826,8473512,Claude Giroux,Philadelphia Flyers,Los Angeles Kings,C,26:41,2,0,2,0,0,0,0,11,22,0,0,0,0,0,2,22:52,3:49,0:00,50
+2018020826,8477948,Travis Sanheim,Philadelphia Flyers,Los Angeles Kings,D,23:01,0,0,1,0,0,0,0,0,0,0,2,0,0,2,1,22:50,0:11,0:00,NA
+2018020826,8474037,James van Riemsdyk,Philadelphia Flyers,Los Angeles Kings,LW,20:26,0,0,3,0,0,0,0,0,0,0,1,0,0,0,1,17:59,2:27,0:00,NA
+2018020826,8478844,Mikhail Vorobyev,Philadelphia Flyers,Los Angeles Kings,C,5:51,0,0,0,0,0,0,0,2,4,0,0,0,0,0,-1,5:51,0:00,0:00,50
+2018020826,8478439,Travis Konecny,Philadelphia Flyers,Los Angeles Kings,RW,17:45,0,0,0,0,0,0,0,0,1,1,3,0,0,1,0,17:45,0:00,0:00,0
+2018020826,8478500,Ivan Provorov,Philadelphia Flyers,Los Angeles Kings,D,28:02,1,0,5,1,0,0,0,0,0,0,2,0,0,1,1,26:58,1:04,0:00,NA
+2018020826,8476872,Scott Laughton,Philadelphia Flyers,Los Angeles Kings,C,14:34,0,0,1,5,0,0,0,3,5,0,0,0,0,0,-2,14:34,0:00,0:00,60
+2018020826,8475321,Phil Varone,Philadelphia Flyers,Los Angeles Kings,C,7:12,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,7:12,0:00,0:00,100
+2018020826,8479974,Nolan Patrick,Philadelphia Flyers,Los Angeles Kings,C,15:49,0,0,2,2,0,0,0,2,6,2,1,0,0,0,-1,14:45,1:04,0:00,33.33
+2018020826,8474161,Jakub Voracek,Philadelphia Flyers,Los Angeles Kings,RW,24:01,0,1,3,0,0,0,0,0,0,0,1,0,0,0,2,21:05,2:56,0:00,NA
+2018020826,8477462,Robert Hagg,Philadelphia Flyers,Los Angeles Kings,D,14:29,0,0,1,2,0,0,0,0,0,0,0,0,0,2,0,14:29,0:00,0:00,NA
+2018020826,8478067,Oskar Lindblom,Philadelphia Flyers,Los Angeles Kings,LW,15:45,0,0,3,1,0,0,0,0,0,0,0,0,0,1,0,14:12,1:33,0:00,NA
+2018020826,8476461,Sean Couturier,Philadelphia Flyers,Los Angeles Kings,C,24:19,0,1,3,0,0,0,0,10,19,0,1,0,0,0,2,22:46,1:33,0:00,52.63
+2018020826,8473584,Andrew MacDonald,Philadelphia Flyers,Los Angeles Kings,D,14:23,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,14:23,0:00,0:00,NA
+2018020826,8475462,Radko Gudas,Philadelphia Flyers,Los Angeles Kings,D,17:29,0,0,0,7,0,0,0,0,0,0,1,0,0,3,-1,17:29,0:00,0:00,NA
+2018020826,8477290,Michael Raffl,Philadelphia Flyers,Los Angeles Kings,LW,7:31,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,7:31,0:00,0:00,0
+2018020826,8474190,Wayne Simmonds,Philadelphia Flyers,Los Angeles Kings,RW,17:14,0,0,3,2,0,0,0,0,0,0,1,0,0,0,-1,14:47,2:27,0:00,NA
+2018020826,8470606,Dustin Brown,Los Angeles Kings,Philadelphia Flyers,RW,20:25,0,0,4,1,0,0,0,0,0,0,0,0,0,1,-2,18:48,0:00,1:37,NA
+2018020826,8471685,Anze Kopitar,Los Angeles Kings,Philadelphia Flyers,C,22:38,0,0,1,0,0,0,0,12,25,1,1,0,0,0,-2,20:11,0:00,2:27,48
+2018020826,8475726,Tyler Toffoli,Los Angeles Kings,Philadelphia Flyers,RW,14:04,1,0,3,0,0,0,0,0,1,1,0,0,0,0,1,12:27,0:00,1:37,0
+2018020826,8470775,Nate Thompson,Los Angeles Kings,Philadelphia Flyers,C,12:47,0,0,1,1,0,0,0,7,12,0,0,0,0,0,0,11:39,0:00,1:08,58.33
+2018020826,8477960,Adrian Kempe,Los Angeles Kings,Philadelphia Flyers,C,15:48,0,1,3,0,0,0,0,7,11,1,0,0,0,0,1,15:23,0:00,0:25,63.64
+2018020826,8476894,Brendan Leipsic,Los Angeles Kings,Philadelphia Flyers,LW,12:01,1,0,2,0,0,0,0,0,0,1,0,0,0,0,1,12:01,0:00,0:00,NA
+2018020826,8478455,Austin Wagner,Los Angeles Kings,Philadelphia Flyers,LW,12:34,0,1,5,4,0,0,0,0,0,0,0,0,0,0,1,12:34,0:00,0:00,NA
+2018020826,8476983,Paul LaDue,Los Angeles Kings,Philadelphia Flyers,D,15:34,0,0,1,4,0,0,0,0,0,0,0,0,0,1,0,15:34,0:00,0:00,NA
+2018020826,8474563,Drew Doughty,Los Angeles Kings,Philadelphia Flyers,D,30:10,0,0,3,2,0,0,0,0,0,0,1,0,0,2,-1,27:24,0:00,2:46,NA
+2018020826,8475762,Derek Forbort,Los Angeles Kings,Philadelphia Flyers,D,23:32,0,0,1,4,0,0,0,0,0,1,1,0,0,3,-2,21:00,0:00,2:32,NA
+2018020826,8474166,Alec Martinez,Los Angeles Kings,Philadelphia Flyers,D,19:58,0,0,1,1,0,0,0,0,0,0,1,0,0,2,1,18:44,0:00,1:14,NA
+2018020826,8474176,Carl Hagelin,Los Angeles Kings,Philadelphia Flyers,LW,15:10,0,0,2,0,0,0,0,0,1,0,0,0,0,1,0,14:24,0:00,0:46,0
+2018020826,8469454,Ilya Kovalchuk,Los Angeles Kings,Philadelphia Flyers,LW,16:59,0,0,4,0,0,0,0,0,1,0,1,0,0,1,0,16:59,0:00,0:00,0
+2018020826,8475160,Kyle Clifford,Los Angeles Kings,Philadelphia Flyers,LW,12:11,1,0,3,1,0,0,2,0,0,0,0,0,0,3,1,12:11,0:00,0:00,NA
+2018020826,8478020,Michael Amadio,Los Angeles Kings,Philadelphia Flyers,C,14:18,0,0,0,0,0,0,0,3,8,0,1,0,0,0,1,14:18,0:00,0:00,37.5
+2018020826,8480113,Alex Iafallo,Los Angeles Kings,Philadelphia Flyers,LW,17:05,0,0,3,0,0,0,2,1,1,0,0,0,0,0,-2,17:05,0:00,0:00,100
+2018020826,8480147,Oscar Fantenberg,Los Angeles Kings,Philadelphia Flyers,D,19:42,0,0,1,3,0,0,0,0,0,0,0,0,0,2,0,18:14,0:00,1:28,NA
+2018020826,8480336,Sean Walker,Los Angeles Kings,Philadelphia Flyers,D,16:04,1,0,1,2,0,0,0,0,0,1,0,0,0,0,2,16:04,0:00,0:00,NA
