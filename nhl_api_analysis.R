@@ -8,6 +8,9 @@ my_data <- read_csv("~/rstats/hockey/nhl_api/csv/2018_2019/all_games_through_201
 eichel <- my_data %>%
   filter(playerName == "Jack Eichel")
 
+View(eichel)
+
+
 sum(eichel$goals)
 
 
