@@ -1,0 +1,37 @@
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020899,8475907,Micheal Ferland,Carolina Hurricanes,Dallas Stars,LW,14:07,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,13:51,0:16,0:00,NA
+2018020899,8476934,Brock McGinn,Carolina Hurricanes,Dallas Stars,LW,15:10,0,1,3,4,0,0,0,0,0,1,1,0,0,0,1,12:57,0:00,2:13,NA
+2018020899,8475735,Greg McKegg,Carolina Hurricanes,Dallas Stars,C,10:12,0,0,0,0,0,0,0,2,7,1,0,0,0,1,0,10:12,0:00,0:00,28.57
+2018020899,8476958,Jaccob Slavin,Carolina Hurricanes,Dallas Stars,D,22:13,0,0,1,0,0,0,0,0,0,1,0,0,0,4,0,20:03,0:16,1:54,NA
+2018020899,8477998,Warren Foegele,Carolina Hurricanes,Dallas Stars,LW,11:33,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,11:00,0:00,0:33,NA
+2018020899,8478427,Sebastian Aho,Carolina Hurricanes,Dallas Stars,C,19:29,1,0,4,1,0,0,0,2,12,0,0,0,0,1,1,17:24,1:09,0:56,16.67
+2018020899,8475753,Justin Faulk,Carolina Hurricanes,Dallas Stars,D,22:27,1,0,2,0,0,0,0,0,0,1,1,0,0,6,2,19:43,1:09,1:35,NA
+2018020899,8475799,Nino Niederreiter,Carolina Hurricanes,Dallas Stars,RW,17:22,1,0,2,2,0,0,0,0,1,1,1,0,0,1,1,16:13,1:09,0:00,0
+2018020899,8476921,Jordan Martinook,Carolina Hurricanes,Dallas Stars,LW,16:05,0,0,2,0,0,0,0,6,17,2,1,0,0,0,1,13:34,0:00,2:31,35.29
+2018020899,8477845,Trevor van Riemsdyk,Carolina Hurricanes,Dallas Stars,D,15:49,0,0,2,0,0,0,0,0,0,2,0,0,0,3,0,14:18,0:00,1:31,NA
+2018020899,8477488,Brett Pesce,Carolina Hurricanes,Dallas Stars,D,20:38,0,0,1,0,0,0,2,0,0,0,1,0,0,1,2,19:26,0:00,1:12,NA
+2018020899,8475177,Calvin de Haan,Carolina Hurricanes,Dallas Stars,D,19:13,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,17:25,0:00,1:48,NA
+2018020899,8478027,Lucas Wallmark,Carolina Hurricanes,Dallas Stars,C,13:39,1,0,1,1,0,1,0,6,12,0,0,0,0,1,0,13:23,0:16,0:00,50
+2018020899,8476882,Teuvo Teravainen,Carolina Hurricanes,Dallas Stars,LW,18:11,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,15:48,1:09,1:14,NA
+2018020899,8477357,Saku Maenalanen,Carolina Hurricanes,Dallas Stars,RW,10:35,0,0,1,2,0,0,0,0,0,1,0,0,0,1,0,10:02,0:00,0:33,NA
+2018020899,8476462,Dougie Hamilton,Carolina Hurricanes,Dallas Stars,D,18:37,0,0,2,0,0,0,0,0,0,1,0,0,0,2,0,18:21,0:16,0:00,NA
+2018020899,8468508,Justin Williams,Carolina Hurricanes,Dallas Stars,RW,17:29,0,1,3,0,0,0,0,3,6,0,1,0,0,2,1,16:20,1:09,0:00,50
+2018020899,8480830,Andrei Svechnikov,Carolina Hurricanes,Dallas Stars,RW,13:11,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,12:55,0:16,0:00,NA
+2018020899,8475906,John Klingberg,Dallas Stars,Carolina Hurricanes,D,26:27,0,0,3,0,0,0,0,0,0,0,5,0,0,2,-1,23:37,2:34,0:16,NA
+2018020899,8476439,Brett Ritchie,Dallas Stars,Carolina Hurricanes,RW,14:16,0,0,3,3,0,0,0,0,0,0,2,0,0,0,0,12:32,1:44,0:00,NA
+2018020899,8476902,Esa Lindell,Dallas Stars,Carolina Hurricanes,D,23:18,0,0,2,2,0,0,0,0,0,0,1,0,0,1,-1,21:54,0:15,1:09,NA
+2018020899,8473994,Jamie Benn,Dallas Stars,Carolina Hurricanes,LW,21:37,0,0,1,0,0,0,0,7,8,2,5,0,0,0,-2,19:23,2:14,0:00,87.5
+2018020899,8476941,Connor Carrick,Dallas Stars,Carolina Hurricanes,D,1:33,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,1:33,0:00,0:00,NA
+2018020899,8478449,Roope Hintz,Dallas Stars,Carolina Hurricanes,LW,16:32,0,0,2,0,0,0,0,1,2,2,0,0,0,0,0,15:20,1:12,0:00,50
+2018020899,8471228,Alexander Radulov,Dallas Stars,Carolina Hurricanes,RW,21:06,0,0,2,0,0,0,2,0,0,0,2,0,0,1,-2,18:50,2:16,0:00,NA
+2018020899,8477406,Mattias Janmark,Dallas Stars,Carolina Hurricanes,C,18:18,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,16:35,0:34,1:09,NA
+2018020899,8476889,Radek Faksa,Dallas Stars,Carolina Hurricanes,C,15:01,0,0,1,0,0,0,0,8,13,0,0,0,0,0,0,12:40,1:12,1:09,61.54
+2018020899,8471699,Andrew Cogliano,Dallas Stars,Carolina Hurricanes,C,10:48,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,10:15,0:17,0:16,NA
+2018020899,8471392,Roman Polak,Dallas Stars,Carolina Hurricanes,D,16:32,0,0,0,3,0,0,0,0,0,0,1,0,0,1,0,15:23,0:00,1:09,NA
+2018020899,8475794,Tyler Seguin,Dallas Stars,Carolina Hurricanes,C,21:40,0,0,4,0,0,0,0,9,13,0,0,0,0,0,-2,18:53,2:31,0:16,69.23
+2018020899,8476467,Jamie Oleksiak,Dallas Stars,Carolina Hurricanes,D,13:08,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,13:08,0:00,0:00,NA
+2018020899,8480769,Joel L'Esperance,Dallas Stars,Carolina Hurricanes,C,15:53,0,0,1,2,0,0,0,2,4,1,1,0,0,1,0,14:41,1:12,0:00,50
+2018020899,8477450,Jason Dickinson,Dallas Stars,Carolina Hurricanes,C,13:00,0,0,2,1,0,0,0,3,5,0,0,0,0,0,0,12:43,0:17,0:00,60
+2018020899,8476166,Taylor Fedun,Dallas Stars,Carolina Hurricanes,D,14:02,0,0,4,0,0,0,0,0,0,1,0,0,0,0,0,14:02,0:00,0:00,NA
+2018020899,8469455,Jason Spezza,Dallas Stars,Carolina Hurricanes,C,13:37,0,0,1,0,0,0,0,6,10,0,0,0,0,1,0,11:53,1:44,0:00,60
+2018020899,8480036,Miro Heiskanen,Dallas Stars,Carolina Hurricanes,D,21:47,0,0,4,0,0,0,0,0,0,0,0,0,0,0,-1,19:33,1:58,0:16,NA

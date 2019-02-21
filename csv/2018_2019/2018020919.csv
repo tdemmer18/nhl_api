@@ -1,0 +1,37 @@
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020919,8475907,Micheal Ferland,Carolina Hurricanes,New York Rangers,LW,13:21,0,0,4,1,0,0,0,0,0,1,0,0,0,1,0,12:08,1:13,0:00,NA
+2018020919,8476934,Brock McGinn,Carolina Hurricanes,New York Rangers,LW,14:39,0,0,2,0,0,0,2,1,2,2,1,0,0,0,0,11:22,0:00,3:17,50
+2018020919,8475735,Greg McKegg,Carolina Hurricanes,New York Rangers,C,7:09,0,0,0,2,0,0,0,5,6,0,1,0,0,0,-1,7:03,0:00,0:06,83.33
+2018020919,8476958,Jaccob Slavin,Carolina Hurricanes,New York Rangers,D,23:12,0,0,1,0,0,0,0,0,0,1,0,0,0,3,0,17:55,1:03,4:14,NA
+2018020919,8477998,Warren Foegele,Carolina Hurricanes,New York Rangers,LW,6:54,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-2,6:04,0:00,0:50,0
+2018020919,8478427,Sebastian Aho,Carolina Hurricanes,New York Rangers,C,26:25,0,0,2,0,0,0,0,9,17,2,0,0,0,0,0,20:31,2:55,2:59,52.94
+2018020919,8475753,Justin Faulk,Carolina Hurricanes,New York Rangers,D,20:26,0,0,5,1,0,0,4,0,0,0,2,0,0,0,0,16:56,2:57,0:33,NA
+2018020919,8475799,Nino Niederreiter,Carolina Hurricanes,New York Rangers,RW,21:13,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,18:18,2:55,0:00,NA
+2018020919,8476921,Jordan Martinook,Carolina Hurricanes,New York Rangers,LW,15:52,0,1,4,2,0,0,0,2,9,2,1,0,0,0,1,12:21,0:00,3:31,22.22
+2018020919,8477845,Trevor van Riemsdyk,Carolina Hurricanes,New York Rangers,D,12:34,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,10:16,0:00,2:18,NA
+2018020919,8477488,Brett Pesce,Carolina Hurricanes,New York Rangers,D,22:01,0,0,4,0,0,0,0,0,0,1,0,0,0,0,-1,17:47,0:00,4:14,NA
+2018020919,8475177,Calvin de Haan,Carolina Hurricanes,New York Rangers,D,17:56,0,0,2,5,0,0,0,0,0,2,0,0,0,1,-1,14:51,0:00,3:05,NA
+2018020919,8478027,Lucas Wallmark,Carolina Hurricanes,New York Rangers,C,10:33,0,0,0,0,0,0,2,3,7,0,0,0,0,0,0,8:59,1:05,0:29,42.86
+2018020919,8476882,Teuvo Teravainen,Carolina Hurricanes,New York Rangers,LW,19:22,0,0,2,0,0,0,0,1,2,0,3,0,0,0,0,14:40,2:47,1:55,50
+2018020919,8477357,Saku Maenalanen,Carolina Hurricanes,New York Rangers,RW,6:46,0,0,1,0,0,0,0,1,2,0,0,0,0,0,-2,5:56,0:00,0:50,50
+2018020919,8476462,Dougie Hamilton,Carolina Hurricanes,New York Rangers,D,21:37,1,0,3,2,0,0,0,0,0,1,1,0,0,0,1,20:10,1:13,0:14,NA
+2018020919,8468508,Justin Williams,Carolina Hurricanes,New York Rangers,RW,21:26,0,0,10,0,0,0,0,3,6,2,4,0,0,0,0,18:39,2:47,0:00,50
+2018020919,8480830,Andrei Svechnikov,Carolina Hurricanes,New York Rangers,RW,13:11,1,0,2,2,0,0,0,0,0,0,2,0,0,2,1,12:06,1:05,0:00,NA
+2018020919,8476918,Jimmy Vesey,New York Rangers,Carolina Hurricanes,LW,15:54,1,0,5,0,0,0,0,0,0,0,1,0,0,1,1,12:29,2:55,0:30,NA
+2018020919,8471717,Adam McQuaid,New York Rangers,Carolina Hurricanes,D,19:59,0,0,0,1,0,0,0,0,0,0,1,0,0,2,0,17:26,0:00,2:33,NA
+2018020919,8471686,Marc Staal,New York Rangers,Carolina Hurricanes,D,18:38,0,0,2,0,0,0,0,0,0,0,3,0,0,3,0,17:07,0:00,1:31,NA
+2018020919,8475736,Connor Brickley,New York Rangers,Carolina Hurricanes,LW,7:27,0,1,1,2,0,0,0,0,0,0,1,0,0,0,1,7:27,0:00,0:00,NA
+2018020919,8476869,Brady Skjei,New York Rangers,Carolina Hurricanes,D,21:47,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,19:18,0:00,2:29,NA
+2018020919,8476458,Ryan Strome,New York Rangers,Carolina Hurricanes,C,15:18,0,0,0,0,0,0,0,4,9,2,1,0,0,1,1,12:23,2:55,0:00,44.44
+2018020919,8476459,Mika Zibanejad,New York Rangers,Carolina Hurricanes,C,22:02,0,0,1,2,0,0,0,7,17,1,0,0,0,2,0,15:56,4:21,1:45,41.18
+2018020919,8475855,Jesper Fast,New York Rangers,Carolina Hurricanes,RW,13:01,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,11:20,0:00,1:41,NA
+2018020919,8476922,Boo Nieves,New York Rangers,Carolina Hurricanes,C,8:50,0,0,0,1,0,0,0,6,9,0,0,0,0,1,1,8:50,0:00,0:00,66.67
+2018020919,8477950,Tony DeAngelo,New York Rangers,Carolina Hurricanes,D,22:05,1,0,3,0,0,0,0,0,0,1,2,0,0,5,1,18:50,3:15,0:00,NA
+2018020919,8474031,Kevin Shattenkirk,New York Rangers,Carolina Hurricanes,D,17:11,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,12:27,4:04,0:40,NA
+2018020919,8477402,Pavel Buchnevich,New York Rangers,Carolina Hurricanes,RW,15:33,1,0,3,0,0,0,0,0,0,0,1,0,0,0,0,12:48,2:45,0:00,NA
+2018020919,8475763,Kevin Hayes,New York Rangers,Carolina Hurricanes,C,19:04,0,0,1,1,0,0,0,8,11,2,1,0,0,0,-1,12:55,4:24,1:45,72.73
+2018020919,8475184,Chris Kreider,New York Rangers,Carolina Hurricanes,LW,21:25,0,0,1,0,0,0,2,0,0,1,1,0,0,2,0,16:51,4:34,0:00,NA
+2018020919,8475692,Mats Zuccarello,New York Rangers,Carolina Hurricanes,RW,22:57,0,0,2,1,0,0,0,0,2,0,2,0,0,1,0,17:19,4:24,1:14,0
+2018020919,8474090,Brendan Smith,New York Rangers,Carolina Hurricanes,D,13:09,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,12:22,0:00,0:47,NA
+2018020919,8480078,Filip Chytil,New York Rangers,Carolina Hurricanes,C,7:18,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,7:18,0:00,0:00,0
+2018020919,8476480,Vladislav Namestnikov,New York Rangers,Carolina Hurricanes,C,14:22,0,1,1,0,0,0,0,2,3,1,0,0,0,3,0,10:19,2:58,1:05,66.67

@@ -1,0 +1,37 @@
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020922,8474716,Jared Spurgeon,Minnesota Wild,Anaheim Ducks,D,21:31,0,0,2,1,0,0,0,0,0,1,1,0,0,2,-2,18:29,1:41,1:21,NA
+2018020922,8476857,Pontus Aberg,Minnesota Wild,Anaheim Ducks,LW,15:14,0,0,2,1,0,0,4,0,1,0,0,0,0,0,-1,10:56,4:18,0:00,0
+2018020922,8475868,Anthony Bitetto,Minnesota Wild,Anaheim Ducks,D,12:19,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,12:19,0:00,0:00,NA
+2018020922,8470595,Eric Staal,Minnesota Wild,Anaheim Ducks,C,20:34,0,0,0,1,0,0,0,11,20,0,1,0,0,1,-2,16:43,2:44,1:07,55
+2018020922,8470600,Ryan Suter,Minnesota Wild,Anaheim Ducks,D,25:55,0,0,2,0,0,0,0,0,0,0,0,0,0,1,-2,20:16,4:18,1:21,NA
+2018020922,8470611,Eric Fehr,Minnesota Wild,Anaheim Ducks,C,7:30,0,0,1,0,0,0,0,8,9,0,0,0,0,2,0,6:02,0:00,1:28,88.89
+2018020922,8475798,Mikael Granlund,Minnesota Wild,Anaheim Ducks,RW,19:53,0,0,7,0,0,0,0,5,12,0,0,0,0,1,-2,15:38,3:15,1:00,41.67
+2018020922,8475722,Jason Zucker,Minnesota Wild,Anaheim Ducks,LW,18:34,0,0,3,1,0,0,0,0,0,0,0,0,0,0,-1,16:03,1:41,0:50,NA
+2018020922,8474688,Greg Pateryn,Minnesota Wild,Anaheim Ducks,D,17:38,0,0,2,1,0,0,0,0,0,1,0,0,0,3,0,15:09,0:01,2:28,NA
+2018020922,8475745,Charlie Coyle,Minnesota Wild,Anaheim Ducks,C,15:48,0,0,3,2,0,0,0,3,8,0,1,0,0,1,0,15:38,0:01,0:09,37.5
+2018020922,8470610,Zach Parise,Minnesota Wild,Anaheim Ducks,LW,20:42,0,0,1,0,0,0,0,0,0,0,0,0,0,3,-1,16:10,4:18,0:14,NA
+2018020922,8476779,Brad Hunt,Minnesota Wild,Anaheim Ducks,D,7:37,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1,5:56,1:41,0:00,NA
+2018020922,8479316,Luke Kunin,Minnesota Wild,Anaheim Ducks,C,19:27,0,0,3,2,0,0,2,0,0,0,1,0,0,0,-1,14:29,4:18,0:40,NA
+2018020922,8478413,Jordan Greenway,Minnesota Wild,Anaheim Ducks,LW,14:23,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,12:42,1:41,0:00,0
+2018020922,8476372,Nick Seeler,Minnesota Wild,Anaheim Ducks,D,11:59,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,11:59,0:00,0:00,NA
+2018020922,8475220,Marcus Foligno,Minnesota Wild,Anaheim Ducks,LW,12:58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,11:29,0:01,1:28,NA
+2018020922,8476463,Jonas Brodin,Minnesota Wild,Anaheim Ducks,D,20:42,0,0,1,0,0,0,0,0,0,1,0,0,0,0,-1,18:13,0:01,2:28,NA
+2018020922,8478493,Joel Eriksson Ek,Minnesota Wild,Anaheim Ducks,C,14:39,0,0,2,3,0,0,2,4,10,0,1,0,0,0,-1,13:56,0:01,0:42,40
+2018020922,8470616,Ryan Kesler,Anaheim Ducks,Minnesota Wild,C,13:24,0,1,4,1,0,0,0,9,17,0,0,0,0,0,1,10:28,0:46,2:10,52.94
+2018020922,8476913,Devin Shore,Anaheim Ducks,Minnesota Wild,C,13:40,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,10:53,0:14,2:33,NA
+2018020922,8475764,Cam Fowler,Anaheim Ducks,Minnesota Wild,D,19:15,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,16:04,2:02,1:09,NA
+2018020922,8470612,Ryan Getzlaf,Anaheim Ducks,Minnesota Wild,C,18:39,1,0,1,1,0,0,0,9,16,1,0,0,0,4,1,16:05,2:33,0:01,56.25
+2018020922,8477986,Brandon Montour,Anaheim Ducks,Minnesota Wild,D,17:04,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,15:06,1:47,0:11,NA
+2018020922,8476854,Hampus Lindholm,Anaheim Ducks,Minnesota Wild,D,22:52,0,1,3,1,0,0,2,0,0,0,0,0,0,3,2,19:19,0:00,3:33,NA
+2018020922,8470621,Corey Perry,Anaheim Ducks,Minnesota Wild,RW,16:16,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,14:06,2:10,0:00,NA
+2018020922,8474683,Derek Grant,Anaheim Ducks,Minnesota Wild,C,15:35,0,0,0,1,0,0,0,5,11,1,0,0,0,1,0,12:54,0:00,2:41,45.45
+2018020922,8474584,Michael Del Zotto,Anaheim Ducks,Minnesota Wild,D,18:04,0,0,2,3,0,0,0,0,0,0,0,0,0,3,0,16:01,0:16,1:47,NA
+2018020922,8478873,Troy Terry,Anaheim Ducks,Minnesota Wild,RW,12:33,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,10:56,1:37,0:00,0
+2018020922,8477941,Nick Ritchie,Anaheim Ducks,Minnesota Wild,LW,10:30,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,10:30,0:00,0:00,NA
+2018020922,8476312,Josh Manson,Anaheim Ducks,Minnesota Wild,D,24:04,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,19:50,0:00,4:14,NA
+2018020922,8479368,Max Jones,Anaheim Ducks,Minnesota Wild,LW,14:28,1,0,0,1,0,1,0,0,0,2,0,0,0,0,2,11:59,1:39,0:50,NA
+2018020922,8474641,Adam Henrique,Anaheim Ducks,Minnesota Wild,C,15:29,1,0,0,1,0,0,2,7,16,1,0,0,0,1,1,12:19,2:28,0:42,43.75
+2018020922,8476483,Rickard Rakell,Anaheim Ducks,Minnesota Wild,LW,18:49,0,0,4,1,0,0,0,0,0,0,0,0,0,0,1,16:34,2:14,0:01,NA
+2018020922,8475164,Jakob Silfverberg,Anaheim Ducks,Minnesota Wild,RW,14:26,0,1,1,0,1,0,0,0,0,1,0,0,0,1,0,11:27,1:19,1:40,NA
+2018020922,8477034,Jaycob Megna,Anaheim Ducks,Minnesota Wild,D,15:23,0,0,1,2,0,0,2,0,0,0,1,0,0,2,1,14:17,0:00,1:06,NA
+2018020922,8477240,Carter Rowney,Anaheim Ducks,Minnesota Wild,C,13:31,0,0,1,4,0,0,0,0,0,0,0,0,0,2,1,12:09,0:00,1:22,NA

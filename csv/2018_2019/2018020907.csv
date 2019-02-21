@@ -1,0 +1,37 @@
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020907,8471716,Justin Abdelkader,Detroit Red Wings,Philadelphia Flyers,LW,12:27,0,0,0,3,0,0,0,100,1,1,0,0,0,0,0,0,11:22,0:00,1:05
+2018020907,8477946,Dylan Larkin,Detroit Red Wings,Philadelphia Flyers,C,23:47,0,0,3,2,0,0,0,54.55,12,22,0,3,0,0,0,-1,19:21,3:31,0:55
+2018020907,8470110,Trevor Daley,Detroit Red Wings,Philadelphia Flyers,D,14:15,0,0,0,0,0,0,0,NA,0,0,0,1,0,0,1,0,13:44,0:00,0:31
+2018020907,8471794,Darren Helm,Detroit Red Wings,Philadelphia Flyers,LW,14:30,0,1,4,1,0,0,0,NA,0,0,1,3,0,0,2,1,14:30,0:00,0:00
+2018020907,8470144,Frans Nielsen,Detroit Red Wings,Philadelphia Flyers,C,16:15,1,0,3,2,0,0,0,40,6,15,0,3,0,0,1,1,15:46,0:29,0:00
+2018020907,8475324,Nick Jensen,Detroit Red Wings,Philadelphia Flyers,D,19:39,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-2,18:10,0:00,1:29
+2018020907,8470598,Thomas Vanek,Detroit Red Wings,Philadelphia Flyers,LW,15:22,0,0,4,0,0,0,0,NA,0,0,1,0,0,0,0,-1,12:19,3:03,0:00
+2018020907,8476822,Luke Glendening,Detroit Red Wings,Philadelphia Flyers,C,13:32,0,0,1,2,0,0,0,53.33,8,15,0,1,0,0,1,-1,12:37,0:00,0:55
+2018020907,8479425,Filip Hronek,Detroit Red Wings,Philadelphia Flyers,D,14:18,0,0,1,1,0,0,0,NA,0,0,0,2,0,0,0,-1,12:51,0:29,0:58
+2018020907,8477455,Jacob de la Rose,Detroit Red Wings,Philadelphia Flyers,C,9:18,0,0,0,0,0,0,0,33.33,1,3,0,0,0,0,0,0,8:13,0:00,1:05
+2018020907,8476960,Andreas Athanasiou,Detroit Red Wings,Philadelphia Flyers,C,17:21,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,-2,13:50,3:31,0:00
+2018020907,8477479,Tyler Bertuzzi,Detroit Red Wings,Philadelphia Flyers,LW,19:26,0,0,3,0,0,0,0,NA,0,0,0,0,0,0,1,-1,18:57,0:29,0:00
+2018020907,8477215,Danny DeKeyser,Detroit Red Wings,Philadelphia Flyers,D,21:52,0,0,2,6,0,0,0,NA,0,0,0,0,0,0,5,-3,20:50,0:00,1:02
+2018020907,8477511,Anthony Mantha,Detroit Red Wings,Philadelphia Flyers,RW,18:51,0,0,7,3,0,0,5,100,1,1,1,0,0,0,0,-2,15:20,3:31,0:00
+2018020907,8471242,Mike Green,Detroit Red Wings,Philadelphia Flyers,D,24:20,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,4,1,23:13,1:07,0:00
+2018020907,8478036,Christoffer Ehn,Detroit Red Wings,Philadelphia Flyers,C,10:56,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,-1,10:56,0:00,0:00
+2018020907,8479992,Michael Rasmussen,Detroit Red Wings,Philadelphia Flyers,C,11:43,0,0,3,3,0,0,0,NA,0,0,0,0,0,0,0,0,10:46,0:57,0:00
+2018020907,8468509,Niklas Kronwall,Detroit Red Wings,Philadelphia Flyers,D,21:56,1,0,4,1,0,0,0,NA,0,0,0,0,0,0,1,1,19:03,2:53,0:00
+2018020907,8476906,Shayne Gostisbehere,Philadelphia Flyers,Detroit Red Wings,D,12:18,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,0,11:13,1:05,0:00
+2018020907,8473512,Claude Giroux,Philadelphia Flyers,Detroit Red Wings,C,19:00,0,0,1,0,0,0,2,60,12,20,2,0,0,0,0,0,17:18,0:57,0:45
+2018020907,8477948,Travis Sanheim,Philadelphia Flyers,Detroit Red Wings,D,17:02,1,0,1,1,0,0,0,NA,0,0,0,2,0,0,2,1,17:02,0:00,0:00
+2018020907,8474037,James van Riemsdyk,Philadelphia Flyers,Detroit Red Wings,LW,15:22,1,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,1,14:25,0:57,0:00
+2018020907,8478439,Travis Konecny,Philadelphia Flyers,Detroit Red Wings,RW,14:42,0,0,1,0,0,0,0,NA,0,0,0,1,0,0,0,1,13:46,0:56,0:00
+2018020907,8478500,Ivan Provorov,Philadelphia Flyers,Detroit Red Wings,D,25:44,0,1,3,0,0,0,0,NA,0,0,0,1,0,0,2,2,23:27,0:55,1:22
+2018020907,8476872,Scott Laughton,Philadelphia Flyers,Detroit Red Wings,C,18:43,0,0,0,1,0,0,2,75,3,4,0,0,0,0,1,0,18:07,0:00,0:36
+2018020907,8475321,Phil Varone,Philadelphia Flyers,Detroit Red Wings,C,7:53,1,0,0,0,0,0,0,25,1,4,0,0,0,0,0,1,7:46,0:07,0:00
+2018020907,8479974,Nolan Patrick,Philadelphia Flyers,Detroit Red Wings,C,19:54,0,0,1,1,0,0,0,46.67,7,15,0,0,0,0,0,0,18:51,1:03,0:00
+2018020907,8474161,Jakub Voracek,Philadelphia Flyers,Detroit Red Wings,RW,16:31,0,0,1,0,0,0,0,0,0,1,0,2,0,0,0,1,15:34,0:57,0:00
+2018020907,8477462,Robert Hagg,Philadelphia Flyers,Detroit Red Wings,D,19:51,0,0,1,3,0,0,0,NA,0,0,0,0,0,0,3,0,17:20,0:07,2:24
+2018020907,8478067,Oskar Lindblom,Philadelphia Flyers,Detroit Red Wings,LW,16:21,0,2,4,0,0,0,0,NA,0,0,0,1,0,0,2,1,12:46,0:56,2:39
+2018020907,8476461,Sean Couturier,Philadelphia Flyers,Detroit Red Wings,C,20:05,2,0,2,0,0,0,0,38.46,5,13,0,0,0,0,1,1,16:53,0:56,2:16
+2018020907,8473584,Andrew MacDonald,Philadelphia Flyers,Detroit Red Wings,D,16:12,0,0,2,0,0,0,0,NA,0,0,0,1,0,0,7,0,13:34,0:00,2:38
+2018020907,8479026,Philippe Myers,Philadelphia Flyers,Detroit Red Wings,D,9:53,0,0,1,2,0,0,0,NA,0,0,0,0,0,0,2,1,9:53,0:00,0:00
+2018020907,8475462,Radko Gudas,Philadelphia Flyers,Detroit Red Wings,D,16:58,0,0,1,5,0,0,0,NA,0,0,0,0,0,0,0,0,15:22,0:00,1:36
+2018020907,8477290,Michael Raffl,Philadelphia Flyers,Detroit Red Wings,LW,12:39,0,0,1,1,0,0,0,NA,0,0,0,0,0,0,0,0,10:48,0:07,1:44
+2018020907,8474190,Wayne Simmonds,Philadelphia Flyers,Detroit Red Wings,RW,16:52,0,0,2,3,0,0,5,NA,0,0,0,0,0,0,0,0,15:55,0:57,0:00
