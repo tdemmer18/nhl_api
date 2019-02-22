@@ -1,0 +1,37 @@
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020930,8471735,Keith Yandle,Florida Panthers,Carolina Hurricanes,D,4:50,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,4:48,0:00,0:02,NA
+2018020930,8473544,Derick Brassard,Florida Panthers,Carolina Hurricanes,C,3:11,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,3:09,0:00,0:02,100
+2018020930,8474149,Evgenii Dadonov,Florida Panthers,Carolina Hurricanes,RW,2:54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2:54,0:00,0:00,NA
+2018020930,8477932,Aaron Ekblad,Florida Panthers,Carolina Hurricanes,D,6:02,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-1,4:02,0:00,2:00,NA
+2018020930,8474884,Mike Hoffman,Florida Panthers,Carolina Hurricanes,LW,2:56,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2:56,0:00,0:00,NA
+2018020930,8471426,Troy Brouwer,Florida Panthers,Carolina Hurricanes,RW,3:05,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1:38,0:00,1:27,NA
+2018020930,8475772,Riley Sheahan,Florida Panthers,Carolina Hurricanes,C,3:15,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,2:13,0:00,1:02,100
+2018020930,8479404,Henrik Borgstrom,Florida Panthers,Carolina Hurricanes,C,1:34,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1:34,0:00,0:00,0
+2018020930,8477963,Jayce Hawryluk,Florida Panthers,Carolina Hurricanes,C,2:39,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2:39,0:00,0:00,NA
+2018020930,8476389,Vincent Trocheck,Florida Panthers,Carolina Hurricanes,C,3:56,0,0,2,0,0,0,0,1,7,1,0,0,0,0,0,2:54,0:00,1:02,14
+2018020930,8478843,Denis Malgin,Florida Panthers,Carolina Hurricanes,C,2:32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2:30,0:00,0:02,NA
+2018020930,8476456,Jonathan Huberdeau,Florida Panthers,Carolina Hurricanes,LW,3:16,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1,3:16,0:00,0:00,NA
+2018020930,8475796,Mark Pysyk,Florida Panthers,Carolina Hurricanes,D,3:45,0,0,0,1,0,0,4,0,0,0,1,0,0,0,0,3:45,0:00,0:00,NA
+2018020930,8477346,MacKenzie Weegar,Florida Panthers,Carolina Hurricanes,D,4:29,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3:27,0:00,1:02,NA
+2018020930,8477384,Josh Brown,Florida Panthers,Carolina Hurricanes,D,3:33,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3:02,0:00,0:31,NA
+2018020930,8478366,Frank Vatrano,Florida Panthers,Carolina Hurricanes,C,2:24,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1,2:24,0:00,0:00,NA
+2018020930,8477452,Ian McCoshen,Florida Panthers,Carolina Hurricanes,D,4:42,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,3:15,0:00,1:27,NA
+2018020930,8477493,Aleksander Barkov,Florida Panthers,Carolina Hurricanes,C,4:47,0,0,1,1,0,0,0,4,6,1,0,0,0,0,-1,3:20,0:00,1:27,67
+2018020930,8475907,Micheal Ferland,Carolina Hurricanes,Florida Panthers,LW,2:13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2:13,0:00,0:00,NA
+2018020930,8476934,Brock McGinn,Carolina Hurricanes,Florida Panthers,LW,4:34,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2:36,1:58,0:00,100
+2018020930,8475735,Greg McKegg,Carolina Hurricanes,Florida Panthers,C,2:09,0,0,1,0,0,0,0,0,1,2,0,0,0,0,0,2:07,0:02,0:00,0
+2018020930,8476958,Jaccob Slavin,Carolina Hurricanes,Florida Panthers,D,5:36,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,5:05,0:31,0:00,NA
+2018020930,8477998,Warren Foegele,Carolina Hurricanes,Florida Panthers,LW,2:26,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2:24,0:02,0:00,NA
+2018020930,8478427,Sebastian Aho,Carolina Hurricanes,Florida Panthers,C,4:31,0,0,0,0,0,0,2,2,3,0,0,0,0,0,1,2:33,1:58,0:00,67
+2018020930,8475753,Justin Faulk,Carolina Hurricanes,Florida Panthers,D,5:55,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3:57,1:58,0:00,NA
+2018020930,8475799,Nino Niederreiter,Carolina Hurricanes,Florida Panthers,RW,4:31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2:33,1:58,0:00,NA
+2018020930,8476921,Jordan Martinook,Carolina Hurricanes,Florida Panthers,LW,3:07,0,0,0,0,0,0,0,3,3,1,0,0,0,0,0,2:36,0:31,0:00,100
+2018020930,8477845,Trevor van Riemsdyk,Carolina Hurricanes,Florida Panthers,D,2:44,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2:42,0:02,0:00,NA
+2018020930,8477488,Brett Pesce,Carolina Hurricanes,Florida Panthers,D,3:10,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,3:10,0:00,0:00,NA
+2018020930,8475177,Calvin de Haan,Carolina Hurricanes,Florida Panthers,D,3:08,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3:06,0:02,0:00,NA
+2018020930,8478027,Lucas Wallmark,Carolina Hurricanes,Florida Panthers,C,3:41,0,0,1,0,0,0,0,3,7,0,0,0,0,0,0,3:41,0:00,0:00,43
+2018020930,8476882,Teuvo Teravainen,Carolina Hurricanes,Florida Panthers,LW,2:48,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2:17,0:31,0:00,NA
+2018020930,8477357,Saku Maenalanen,Carolina Hurricanes,Florida Panthers,RW,2:22,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2:20,0:02,0:00,0
+2018020930,8476462,Dougie Hamilton,Carolina Hurricanes,Florida Panthers,D,5:36,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,5:05,0:31,0:00,NA
+2018020930,8468508,Justin Williams,Carolina Hurricanes,Florida Panthers,RW,4:31,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,2:33,1:58,0:00,NA
+2018020930,8480830,Andrei Svechnikov,Carolina Hurricanes,Florida Panthers,RW,3:07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2:36,0:31,0:00,NA

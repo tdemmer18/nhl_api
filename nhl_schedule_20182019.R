@@ -1,5 +1,6 @@
 library(tidyverse)
 library(jsonlite)
+library(dplyr)
 
 
 
@@ -69,4 +70,10 @@ schedule_date_order <- my_data %>%
 #write_csv(schedule_date_order, path = paste0("~/rstats/hockey/nhl_api/csv/schedule/game_id_schedule.csv"))
 
 
-View(schedule_date_order)
+nhl_20182019_game_schedule <- schedule_date_order %>%
+  arrange(gamePk) %>%
+  slice(seq(2, n(), by = 2))
+
+
+
+

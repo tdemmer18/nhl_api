@@ -1,0 +1,37 @@
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffPct,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce
+2018020932,8480072,Lias Andersson,New York Rangers,Minnesota Wild,C,3:09,0,0,2,0,0,0,0,75,3,4,0,0,0,0,0,0,3:09,0:00,0:00
+2018020932,8476918,Jimmy Vesey,New York Rangers,Minnesota Wild,LW,3:17,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,3:17,0:00,0:00
+2018020932,8471717,Adam McQuaid,New York Rangers,Minnesota Wild,D,4:48,0,0,0,2,0,0,2,NA,0,0,0,0,0,0,1,0,4:48,0:00,0:00
+2018020932,8471686,Marc Staal,New York Rangers,Minnesota Wild,D,4:32,0,0,0,1,0,0,0,NA,0,0,0,1,0,0,0,0,4:32,0:00,0:00
+2018020932,8475736,Connor Brickley,New York Rangers,Minnesota Wild,LW,3:37,0,0,0,2,0,0,0,NA,0,0,0,0,0,0,0,0,3:37,0:00,0:00
+2018020932,8476869,Brady Skjei,New York Rangers,Minnesota Wild,D,4:52,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,4:52,0:00,0:00
+2018020932,8476458,Ryan Strome,New York Rangers,Minnesota Wild,C,3:28,0,0,0,0,0,0,0,50,2,4,0,0,0,0,0,0,3:28,0:00,0:00
+2018020932,8476459,Mika Zibanejad,New York Rangers,Minnesota Wild,C,3:56,0,0,0,0,0,0,0,50,2,4,0,0,0,0,0,0,3:56,0:00,0:00
+2018020932,8475855,Jesper Fast,New York Rangers,Minnesota Wild,RW,2:39,0,0,0,3,0,0,0,NA,0,0,0,0,0,0,0,0,2:39,0:00,0:00
+2018020932,8477950,Tony DeAngelo,New York Rangers,Minnesota Wild,D,3:48,0,0,1,0,0,0,0,NA,0,0,0,0,0,0,0,0,3:48,0:00,0:00
+2018020932,8474031,Kevin Shattenkirk,New York Rangers,Minnesota Wild,D,3:51,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,1,0,3:51,0:00,0:00
+2018020932,8477402,Pavel Buchnevich,New York Rangers,Minnesota Wild,RW,3:13,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,3:13,0:00,0:00
+2018020932,8475763,Kevin Hayes,New York Rangers,Minnesota Wild,C,2:39,0,0,0,1,0,0,0,100,1,1,0,0,0,0,0,0,2:39,0:00,0:00
+2018020932,8475184,Chris Kreider,New York Rangers,Minnesota Wild,LW,3:27,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,3:27,0:00,0:00
+2018020932,8475692,Mats Zuccarello,New York Rangers,Minnesota Wild,RW,3:44,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,3:44,0:00,0:00
+2018020932,8480078,Filip Chytil,New York Rangers,Minnesota Wild,C,3:15,0,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,0,3:15,0:00,0:00
+2018020932,8476480,Vladislav Namestnikov,New York Rangers,Minnesota Wild,C,3:12,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,3:12,0:00,0:00
+2018020932,8480145,Neal Pionk,New York Rangers,Minnesota Wild,D,4:33,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,1,0,4:33,0:00,0:00
+2018020932,8476806,J.T. Brown,Minnesota Wild,New York Rangers,RW,2:26,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,2:26,0:00,0:00
+2018020932,8474716,Jared Spurgeon,Minnesota Wild,New York Rangers,D,4:27,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,4:27,0:00,0:00
+2018020932,8476857,Pontus Aberg,Minnesota Wild,New York Rangers,LW,2:55,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,2:55,0:00,0:00
+2018020932,8475868,Anthony Bitetto,Minnesota Wild,New York Rangers,D,2:51,0,0,2,0,0,0,0,NA,0,0,1,0,0,0,0,0,2:51,0:00,0:00
+2018020932,8470595,Eric Staal,Minnesota Wild,New York Rangers,C,5:04,0,0,0,0,0,0,0,50,2,4,0,0,0,0,0,0,5:04,0:00,0:00
+2018020932,8477987,Ryan Donato,Minnesota Wild,New York Rangers,C,3:35,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,3:35,0:00,0:00
+2018020932,8470600,Ryan Suter,Minnesota Wild,New York Rangers,D,5:04,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,5:04,0:00,0:00
+2018020932,8470611,Eric Fehr,Minnesota Wild,New York Rangers,C,2:13,0,0,0,0,0,0,0,40,2,5,0,0,0,0,0,0,2:13,0:00,0:00
+2018020932,8475798,Mikael Granlund,Minnesota Wild,New York Rangers,RW,2:52,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2:52,0:00,0:00
+2018020932,8475722,Jason Zucker,Minnesota Wild,New York Rangers,LW,4:21,0,0,0,0,0,0,0,NA,0,0,1,0,0,0,0,0,4:21,0:00,0:00
+2018020932,8474688,Greg Pateryn,Minnesota Wild,New York Rangers,D,5:23,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,5:23,0:00,0:00
+2018020932,8470610,Zach Parise,Minnesota Wild,New York Rangers,LW,3:01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,3:01,0:00,0:00
+2018020932,8476779,Brad Hunt,Minnesota Wild,New York Rangers,D,4:07,0,0,2,0,0,0,0,NA,0,0,0,2,0,0,0,0,4:07,0:00,0:00
+2018020932,8479316,Luke Kunin,Minnesota Wild,New York Rangers,C,3:24,0,0,0,1,0,0,0,NA,0,0,0,0,0,0,0,0,3:24,0:00,0:00
+2018020932,8478413,Jordan Greenway,Minnesota Wild,New York Rangers,LW,4:31,0,0,1,0,0,0,0,100,1,1,0,0,0,0,0,0,4:31,0:00,0:00
+2018020932,8475220,Marcus Foligno,Minnesota Wild,New York Rangers,LW,2:11,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,2:11,0:00,0:00
+2018020932,8476463,Jonas Brodin,Minnesota Wild,New York Rangers,D,4:32,0,0,0,1,0,0,0,NA,0,0,2,0,0,0,2,0,4:32,0:00,0:00
+2018020932,8478493,Joel Eriksson Ek,Minnesota Wild,New York Rangers,C,3:03,0,0,2,3,0,0,0,50,1,2,0,0,0,0,0,0,3:03,0:00,0:00

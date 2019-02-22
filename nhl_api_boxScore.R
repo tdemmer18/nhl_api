@@ -71,7 +71,7 @@ today <- Sys.Date()
 csv_files <- list.files(path = "~/rstats/hockey/nhl_api/csv/2018_2019/", pattern = "csv$", full.names = TRUE)
 csv_list = lapply(csv_files, read_csv)
 my_data = purrr::map_dfr(csv_files, read_csv)
-write_csv(my_data, path = paste0("~/rstats/hockey/nhl_api/csv/2018_2019/all_games_through_", Sys.Date(),".csv"))
+write_csv(my_data, path = paste0("~/rstats/hockey/nhl_api/csv/all_games_through_", Sys.Date(),".csv"))
 
 View(my_data)
 
