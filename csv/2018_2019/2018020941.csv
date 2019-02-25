@@ -1,0 +1,37 @@
+game_id,id,playerName,team,opp,position,timeOnIce,assists,goals,shots,hits,powerPlayGoals,powerPlayAssists,penaltyMinutes,faceOffWins,faceoffTaken,takeaways,giveaways,shortHandedGoals,shortHandedAssists,blocked,plusMinus,evenTimeOnIce,powerPlayTimeOnIce,shortHandedTimeOnIce,faceOffPct
+2018020941,8470318,Jonathan Ericsson,Detroit Red Wings,Minnesota Wild,D,16:33,0,0,0,3,0,0,2,0,0,1,0,0,0,1,0,14:22,0:00,2:11,NA
+2018020941,8471716,Justin Abdelkader,Detroit Red Wings,Minnesota Wild,LW,10:38,0,0,1,3,0,0,0,0,0,0,1,0,0,0,-1,7:39,0:01,2:58,NA
+2018020941,8474679,Gustav Nyquist,Detroit Red Wings,Minnesota Wild,RW,19:25,0,0,3,1,0,0,0,0,1,0,2,0,0,1,1,18:21,1:04,0:00,0
+2018020941,8477946,Dylan Larkin,Detroit Red Wings,Minnesota Wild,C,21:39,2,0,7,1,0,1,0,16,23,1,0,0,0,0,1,18:47,2:05,0:47,69.57
+2018020941,8470110,Trevor Daley,Detroit Red Wings,Minnesota Wild,D,18:30,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,16:09,0:01,2:20,NA
+2018020941,8471794,Darren Helm,Detroit Red Wings,Minnesota Wild,LW,13:28,0,0,2,0,0,0,0,0,0,2,1,0,0,0,0,11:13,0:01,2:14,NA
+2018020941,8470144,Frans Nielsen,Detroit Red Wings,Minnesota Wild,C,14:35,0,0,1,0,0,0,0,9,14,0,2,0,0,0,0,13:31,1:04,0:00,64.29
+2018020941,8470598,Thomas Vanek,Detroit Red Wings,Minnesota Wild,LW,14:27,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,12:22,2:05,0:00,NA
+2018020941,8476822,Luke Glendening,Detroit Red Wings,Minnesota Wild,C,12:49,0,0,0,3,0,0,0,6,16,0,0,0,0,0,-1,10:37,0:01,2:11,37.5
+2018020941,8479425,Filip Hronek,Detroit Red Wings,Minnesota Wild,D,19:37,2,0,0,2,0,1,0,0,0,0,2,0,0,1,1,15:00,2:05,2:32,NA
+2018020941,8477455,Jacob de la Rose,Detroit Red Wings,Minnesota Wild,C,8:51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,5:37,0:00,3:14,NA
+2018020941,8476960,Andreas Athanasiou,Detroit Red Wings,Minnesota Wild,C,14:17,0,0,2,0,0,0,0,0,0,0,1,0,0,0,-1,12:12,2:05,0:00,NA
+2018020941,8477479,Tyler Bertuzzi,Detroit Red Wings,Minnesota Wild,LW,19:28,0,1,2,1,0,0,0,0,0,0,2,0,0,1,1,18:24,1:04,0:00,NA
+2018020941,8477215,Danny DeKeyser,Detroit Red Wings,Minnesota Wild,D,20:06,0,0,4,2,0,0,0,0,0,1,1,0,0,0,1,15:45,0:00,4:21,NA
+2018020941,8477511,Anthony Mantha,Detroit Red Wings,Minnesota Wild,RW,16:13,0,1,1,2,1,0,2,0,0,0,1,0,0,0,-1,14:08,2:05,0:00,NA
+2018020941,8471242,Mike Green,Detroit Red Wings,Minnesota Wild,D,21:34,0,0,2,2,0,0,0,0,0,0,2,0,0,0,-2,20:29,1:05,0:00,NA
+2018020941,8479992,Michael Rasmussen,Detroit Red Wings,Minnesota Wild,C,12:58,0,0,0,1,0,0,0,4,9,0,0,0,0,1,-1,11:54,1:04,0:00,44.44
+2018020941,8468509,Niklas Kronwall,Detroit Red Wings,Minnesota Wild,D,20:44,0,0,1,3,0,0,2,0,0,0,1,0,0,1,-2,20:44,0:00,0:00,NA
+2018020941,8476806,J.T. Brown,Minnesota Wild,Detroit Red Wings,RW,10:08,0,0,2,2,0,0,0,0,0,1,0,0,0,0,0,10:08,0:00,0:00,NA
+2018020941,8474716,Jared Spurgeon,Minnesota Wild,Detroit Red Wings,D,28:11,0,0,2,3,0,0,0,0,0,0,0,0,0,2,1,23:51,3:40,0:40,NA
+2018020941,8476857,Pontus Aberg,Minnesota Wild,Detroit Red Wings,LW,14:45,0,0,2,0,0,0,0,0,1,0,1,0,0,0,-1,12:43,2:02,0:00,0
+2018020941,8475868,Anthony Bitetto,Minnesota Wild,Detroit Red Wings,D,9:32,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,9:32,0:00,0:00,NA
+2018020941,8470595,Eric Staal,Minnesota Wild,Detroit Red Wings,C,18:45,0,1,1,0,1,0,0,7,16,0,0,0,0,0,0,14:48,3:57,0:00,43.75
+2018020941,8477987,Ryan Donato,Minnesota Wild,Detroit Red Wings,C,14:19,1,0,4,1,0,0,0,0,0,0,0,0,0,0,1,10:52,3:27,0:00,NA
+2018020941,8470600,Ryan Suter,Minnesota Wild,Detroit Red Wings,D,27:08,0,0,0,3,0,0,0,0,0,0,0,0,0,3,0,23:54,2:29,0:45,NA
+2018020941,8470611,Eric Fehr,Minnesota Wild,Detroit Red Wings,C,9:22,0,0,1,0,0,0,0,5,10,0,0,0,0,0,0,8:45,0:00,0:37,50
+2018020941,8475798,Mikael Granlund,Minnesota Wild,Detroit Red Wings,RW,16:49,0,0,3,0,0,0,0,6,17,0,1,0,0,2,0,14:42,1:36,0:31,35.29
+2018020941,8475722,Jason Zucker,Minnesota Wild,Detroit Red Wings,LW,16:10,1,0,4,2,0,0,2,0,0,0,0,0,0,0,1,12:28,3:42,0:00,NA
+2018020941,8474688,Greg Pateryn,Minnesota Wild,Detroit Red Wings,D,20:55,0,0,2,2,0,0,0,0,0,0,0,0,0,2,1,18:30,0:00,2:25,NA
+2018020941,8470610,Zach Parise,Minnesota Wild,Detroit Red Wings,LW,17:04,1,0,1,1,0,1,0,0,0,0,0,0,0,2,0,14:13,2:06,0:45,NA
+2018020941,8476779,Brad Hunt,Minnesota Wild,Detroit Red Wings,D,12:03,0,0,3,0,0,0,0,0,0,1,1,0,0,0,0,8:50,3:13,0:00,NA
+2018020941,8479316,Luke Kunin,Minnesota Wild,Detroit Red Wings,C,18:02,1,1,1,0,0,1,0,3,3,0,0,0,0,0,1,13:37,2:00,2:25,100
+2018020941,8478413,Jordan Greenway,Minnesota Wild,Detroit Red Wings,LW,15:42,0,1,4,0,0,0,0,2,2,0,0,0,0,0,0,15:33,0:09,0:00,100
+2018020941,8475220,Marcus Foligno,Minnesota Wild,Detroit Red Wings,LW,11:22,0,0,2,2,0,0,2,0,1,0,0,0,0,0,0,11:22,0:00,0:00,0
+2018020941,8476463,Jonas Brodin,Minnesota Wild,Detroit Red Wings,D,20:09,0,0,2,0,0,0,0,0,0,0,0,0,0,2,-1,17:39,0:00,2:30,NA
+2018020941,8478493,Joel Eriksson Ek,Minnesota Wild,Detroit Red Wings,C,16:24,1,0,1,3,0,0,0,5,13,1,0,0,0,1,1,14:13,0:09,2:02,38.46

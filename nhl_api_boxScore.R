@@ -60,7 +60,7 @@ nhlBoxScore <- function(game_id) {
 
 
 ########## USE THIS TO DOWNLOAD GAMES FOR A RANGE OF GAMES ##########
-game_range <- 2018020891:2018020939
+game_range <- 2018020940:2018020961
 all_games_20182019 <- lapply(game_range, nhlBoxScore)
 #View(all_games_20182019)
 
